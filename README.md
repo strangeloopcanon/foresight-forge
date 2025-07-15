@@ -41,9 +41,15 @@ python forecast.py self-update [--pr]  # merge candidates and optionally open a 
 python forecast.py dashboard      # generate minimal HTML dashboard
 ```
 
-Comments or review replies for a given date can be added with:
+Comments or review replies for a given date can be added with your editor,
+or piped directly on the command line. In both cases the system will also
+generate an AI reply based on the day’s summary:
 ```bash
+# launch editor to type your comment interactively
 python forecast.py comment --date YYYY-MM-DD
+
+# or pipe in a comment in one shot (no editor)
+python forecast.py comment --date YYYY-MM-DD <<< "I love the predictions—what about link X?"
 ```
 
 ## Scheduling

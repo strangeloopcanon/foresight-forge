@@ -167,17 +167,62 @@ def comment(date):
     if not os.path.exists(infile):
         click.echo(f"No summary for {d}; cannot comment.")
         sys.exit(1)
-    text = click.edit("# Enter your comment below. Lines starting with '#' are ignored.\n")
-    if not text:
-        click.echo("No comment entered.")
-        return
-    # remove commented lines
-    comment = "\n".join(l for l in text.splitlines() if not l.startswith("#"))
+    # collect the user's comment: either piped in via stdin or via editor
+    if not sys.stdin.isatty():
+        comment = sys.stdin.read().strip()
+        if not comment:
+            click.echo("No comment entered via stdin.")
+            return
+    else:
+        initial = "# Enter your comment below. Lines starting with '#' are ignored.\n"
+        text = click.edit(initial)
+        if not text:
+            click.echo("No comment entered.")
+            return
+        # strip out comment lines
+        comment = "\n".join(l for l in text.splitlines() if not l.startswith("#")).strip()
+        if not comment:
+            click.echo("No comment entered.")
+            return
     os.makedirs("comments", exist_ok=True)
     out = f"comments/{d}.md"
+    # append the user's comment
     with open(out, "a") as f:
-        f.write(f"{comment}\n")
+        f.write(f"**Comment:** {comment}\n\n")
     click.echo(f"Appended comment to {out}")
+
+    # attempt an AI-generated reply using the daily summary as context
+    key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
+    if not key:
+        click.echo("OPENAI_API_KEY is not set; skipping AI reply.")
+        return
+    openai.api_key = key
+    summary_file = f"summaries/{d}.md"
+    if not os.path.exists(summary_file):
+        click.echo(f"No summary found at {summary_file}; cannot compose reply.")
+        return
+    summary = open(summary_file).read()
+    prompt = (
+        f"You are a helpful assistant responding to reader feedback.\n"
+        f"Here is the newsletter summary for {d}:\n{summary}\n\n"
+        f"A reader commented:\n{comment}\n\n"
+        "Please draft a polite, constructive reply to this comment."
+    )
+    try:
+        client = OpenAI()
+        resp = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=200,
+        )
+        reply = resp.choices[0].message.content.strip()
+    except Exception as e:
+        click.echo(f"Error generating AI reply: {e}")
+        return
+    # append the assistant's reply
+    with open(out, "a") as f:
+        f.write(f"**Reply:** {reply}\n\n")
+    click.echo(f"Appended AI reply to {out}")
 
 
 @cli.command()
