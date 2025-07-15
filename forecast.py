@@ -12,10 +12,11 @@ import yaml
 import feedparser
 import requests
 import openai
-from openai import OpenAIError
+from openai import OpenAI, OpenAIError
 from git import Repo
 import glob
 import re
+from dotenv import load_dotenv
 
 
 def load_sources(path="sources.yaml"):  # noqa: E302
@@ -80,20 +81,21 @@ def summarise():
     prompt = (
         "Condense the following items into ≤10 clear bullet points:\n" + text
     )
-    key = os.getenv("OPENAI_API_KEY")
+    key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
         click.echo("OPENAI_API_KEY is not set; cannot summarise.")
         sys.exit(1)
     openai.api_key = key
     try:
-        resp = openai.ChatCompletion.create(
+        client = OpenAI()
+        resp = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
             max_tokens=300,
         )
         summary = resp.choices[0].message.content.strip()
-    except OpenAIError as e:
-        click.echo(f"OpenAI API error during summarise: {e}")
+    except Exception as e:
+        click.echo(f"Error during summarise: {e}")
         sys.exit(1)
     os.makedirs("summaries", exist_ok=True)
     out = f"summaries/{date}.md"
@@ -115,20 +117,21 @@ def predict():
         "From the summary below, generate at least three testable predictions with explicit"
         " confidence levels (as percentages):\n" + summary
     )
-    key = os.getenv("OPENAI_API_KEY")
+    key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
         click.echo("OPENAI_API_KEY is not set; cannot predict.")
         sys.exit(1)
     openai.api_key = key
     try:
-        resp = openai.ChatCompletion.create(
+        client = OpenAI()
+        resp = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
             max_tokens=300,
         )
         preds = resp.choices[0].message.content.strip()
-    except OpenAIError as e:
-        click.echo(f"OpenAI API error during predict: {e}")
+    except Exception as e:
+        click.echo(f"Error during predict: {e}")
         sys.exit(1)
     os.makedirs("newsletters", exist_ok=True)
     out = f"newsletters/{date}.md"
@@ -177,14 +180,14 @@ def comment(date):
     click.echo(f"Appended comment to {out}")
 
 
-@cli.command(name="run-daily")
+@cli.command()
 def run_daily():
     """Run the full daily pipeline (ingest → summarise → predict → record)."""
-    ingest()
-    summarise()
-    predict()
-    dashboard()
-    record()
+    ingest.callback()
+    summarise.callback()
+    predict.callback()
+    dashboard.callback()
+    record.callback()
 
 
 @cli.command()
@@ -224,7 +227,7 @@ def discover(since_days):
     click.echo(f"Wrote {len(candidates)} candidates to {out_file}")
 
 
-@cli.command(name='self-update')
+@cli.command()
 @click.option('--pr', is_flag=True, help='Create a pull request instead of merging to main.')
 def self_update(pr):
     """Merge candidates from discover/ into sources.yaml and optionally open a PR."""
@@ -319,4 +322,7 @@ def dashboard():
 
 
 if __name__ == "__main__":
+    # load environment variables from .env if present
+    # load environment variables from .env, override any existing values
+    load_dotenv(override=True)
     cli()
