@@ -10,9 +10,15 @@ newsletter. All data and artefacts are stored as plain text in this repository f
    ```bash
    pip install -r requirements.txt
    ```
-2. Set your OpenAI API key in the environment:
+2. Create a local `.env` file with your API credentials.
+   Copy the example template and then edit it:
    ```bash
-   export OPENAI_API_KEY="your_api_key"
+   cp .env.example .env
+   ```
+   Open `.env` in your editor and replace the placeholders:
+   ```ini
+   OPENAI_API_KEY=your_openai_api_key_here
+   GITHUB_TOKEN=your_github_token_here
    ```
 3. Populate `sources.yaml` with one URL per line of a news/RSS feed you want to track.
 4. (Optional) To publish the dashboard via GitHub Pages, enable Pages in repo settings and select the `docs/` folder on the `main` branch.
@@ -50,16 +56,17 @@ and automatic self‑updates.
 
 ```plain
 .
-├── sources.yaml      # list of RSS or HTTP sources
-├── forecast.py       # main CLI application
-├── requirements.txt  # Python dependencies
+├── .env.example     # template for your local API keys (ignored by git)
+├── sources.yaml     # list of RSS or HTTP sources
+├── forecast.py      # main CLI application
+├── requirements.txt # Python dependencies
 ├── .github/
 │   └── workflows/
 │       └── daily.yml # scheduled CI workflow
-├── raw/              # daily raw pulls (JSON)
-├── summaries/        # daily summaries (MD)
-├── newsletters/      # daily newsletters (MD)
-├── comments/         # review comments (MD)
-├── discover/         # candidate new sources
-└── docs/             # generated dashboard HTML
-```
+├── raw/             # daily raw pulls (JSON)
+├── summaries/       # daily summaries (MD)
+├── newsletters/     # daily newsletters (MD)
+├── comments/        # review comments (MD)
+├── discover/        # candidate new sources
+└── docs/            # generated dashboard HTML
+```plaintext

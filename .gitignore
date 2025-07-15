@@ -1,2 +1,2 @@
-__pycache__/
+# Local environment variables file (contains secrets).
 .env
