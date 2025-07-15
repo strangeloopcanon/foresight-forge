@@ -184,14 +184,19 @@ def comment(date):
         if not comment:
             click.echo("No comment entered.")
             return
+    # prepare comment file and capture existing conversation for context
     os.makedirs("comments", exist_ok=True)
     out = f"comments/{d}.md"
-    # append the user's comment
+    if os.path.exists(out):
+        history = open(out).read().strip()
+    else:
+        history = ""
+    # append the user's new comment
     with open(out, "a") as f:
         f.write(f"**Comment:** {comment}\n\n")
     click.echo(f"Appended comment to {out}")
 
-    # attempt an AI-generated reply using the daily summary as context
+    # attempt an AI-generated reply, including prior conversation and summary
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
         click.echo("OPENAI_API_KEY is not set; skipping AI reply.")
@@ -202,11 +207,16 @@ def comment(date):
         click.echo(f"No summary found at {summary_file}; cannot compose reply.")
         return
     summary = open(summary_file).read()
+
+    # build the prompt with history if present
+    intro = (
+        "You are a helpful assistant continuing a discussion thread.\n"
+        "Here is the prior conversation:\n" + history + "\n\n"
+    ) if history else "You are a helpful assistant.\n"
     prompt = (
-        f"You are a helpful assistant responding to reader feedback.\n"
-        f"Here is the newsletter summary for {d}:\n{summary}\n\n"
+        f"{intro}Here is the newsletter summary for {d}:\n{summary}\n\n"
         f"A reader commented:\n{comment}\n\n"
-        "Please draft a polite, constructive reply to this comment."
+        "Please draft a polite, constructive reply to this comment, referencing any earlier points as needed."
     )
     try:
         client = OpenAI()
