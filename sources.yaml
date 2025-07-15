@@ -1,0 +1,4 @@
+# List of RSS or HTTP source URLs to ingest (one per line).
+# Example:
+- https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+- https://news.ycombinator.com/rss

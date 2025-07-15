@@ -1,0 +1,35 @@
+# GitHub Actions workflow to run weekly discovery and self-update
+name: Weekly Maintenance
+
+on:
+  schedule:
+    - cron: '0 12 * * 0'  # every Sunday at 12:00 UTC
+
+jobs:
+  maintenance:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Weekly discovery
+        run: python forecast.py discover --since-days 7
+
+      - name: Self-update sources
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python forecast.py self-update --pr
+
+      - name: Push updates
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
