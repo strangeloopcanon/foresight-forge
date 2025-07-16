@@ -79,6 +79,7 @@ and automatic self‑updates.
 By default, the AI reply will see the entire prior conversation history for that day
 (all earlier comments and replies in `comments/YYYY-MM-DD.md`), plus the newsletter summary,
 before drafting its response, so follow‑up comments build on the existing thread.
+```
 
 ## Roadmap & future enhancements
 
