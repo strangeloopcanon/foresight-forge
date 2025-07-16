@@ -1,6 +1,9 @@
 # GitHub Actions workflow to run the forecasting pipeline daily
 name: Daily Forecast
 
+permissions:
+  contents: write
+  # allow pushing commits back to repo
 on:
   schedule:
     - cron: '0 0 * * *'
