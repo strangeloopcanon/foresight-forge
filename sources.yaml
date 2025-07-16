@@ -5,3 +5,13 @@
 
 # Use this feed for a demo/test:
 - https://www.noahpinion.blog/feed
+# General news
+- https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+# Financial & economics
+- https://www.marketwatch.com/rss/topstories
+- https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+- https://www.cnbc.com/id/100003114/device/rss/rss.html
+# Science & technology
+- https://www.sciencedaily.com/rss/top/science.xml
+- https://www.nature.com/feeds/news.rss
+- https://news.ycombinator.com/rss
