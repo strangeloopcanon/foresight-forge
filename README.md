@@ -79,3 +79,12 @@ and automatic self‑updates.
 By default, the AI reply will see the entire prior conversation history for that day
 (all earlier comments and replies in `comments/YYYY-MM-DD.md`), plus the newsletter summary,
 before drafting its response, so follow‑up comments build on the existing thread.
+
+## Roadmap & future enhancements
+
+Below are some planned features and ideas not yet implemented:
+
+- **Reader‑driven suggestions:**  Parse “Suggestion: https://…” lines in reader comments to auto‑harvest new feed URLs.
+- **AI source scouting:**  Add a `scout-sources` CLI command that prompts the AI to recommend high‑quality RSS/newsletter feeds based on the daily summary.
+- **Web form / Slack bot integration:**  Provide a lightweight web UI or Slack bot so community members can suggest feeds without using the CLI.
+- **Automated onboarding of reader-suggested feeds:**  Extend `self-update` to merge reader-suggested URLs directly alongside scraped candidates in a reviewable PR.
