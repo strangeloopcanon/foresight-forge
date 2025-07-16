@@ -5,6 +5,7 @@ permissions:
   contents: write
   # allow pushing commits back to repo
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
 
