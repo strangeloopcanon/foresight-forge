@@ -79,7 +79,8 @@ def summarise():
     items = json.load(open(infile))
     text = "\n".join(f"- {i['title']} ({i['link']})" for i in items)
     prompt = (
-        "Condense the following items into ≤10 clear bullet points:\n" + text
+        "Condense the following items into ≤10 clear bullet points, "
+        "highlighting any financial, economic, or scientific insights:\n" + text
     )
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
@@ -114,8 +115,8 @@ def predict():
         return
     summary = open(infile).read()
     prompt = (
-        "From the summary below, generate at least three testable predictions with explicit"
-        " confidence levels (as percentages):\n" + summary
+        "From the summary below, generate at least three testable financial or market "
+        "predictions with explicit confidence levels (as percentages):\n" + summary
     )
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
