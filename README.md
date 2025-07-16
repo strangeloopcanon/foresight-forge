@@ -4,6 +4,17 @@ This project implements a self‑running forecasting service that daily ingests 
 summarises new information, generates probabilistic predictions, and publishes a Markdown
 newsletter. All data and artefacts are stored as plain text in this repository for transparency.
 
+## Project name: “Foresight Forge”
+
+The name **Foresight Forge** was chosen to capture both the forward-looking aim
+of the project (foresight: anticipating future trends) and the idea of an active,
+hands-on workshop (forge: where raw materials are refined into finished tools).
+It suggests a place where disparate pieces of information (raw news, data, feedback)
+are hammered and tempered into clear, actionable predictions.
+
+Other variants considered were **Future Forge**, **Forecast Foundry**, and **Insight Forge**,
+but “Foresight Forge” felt the most distinctive and memorable.
+
 ## Setup
 
 1. Install Python dependencies:
@@ -75,11 +86,10 @@ and automatic self‑updates.
 ├── comments/        # review comments (MD)
 ├── discover/        # candidate new sources
 └── docs/            # generated dashboard HTML
-```plaintext
+```
 By default, the AI reply will see the entire prior conversation history for that day
 (all earlier comments and replies in `comments/YYYY-MM-DD.md`), plus the newsletter summary,
 before drafting its response, so follow‑up comments build on the existing thread.
-```
 
 ## Roadmap & future enhancements
 
@@ -89,14 +99,3 @@ Below are some planned features and ideas not yet implemented:
 - **AI source scouting:**  Add a `scout-sources` CLI command that prompts the AI to recommend high‑quality RSS/newsletter feeds based on the daily summary.
 - **Web form / Slack bot integration:**  Provide a lightweight web UI or Slack bot so community members can suggest feeds without using the CLI.
     - **Automated onboarding of reader-suggested feeds:**  Extend `self-update` to merge reader-suggested URLs directly alongside scraped candidates in a reviewable PR.
-
-## Project name: “Foresight Forge”
-
-The name **Foresight Forge** was chosen to capture both the forward-looking aim
-of the project (foresight: anticipating future trends) and the idea of an active,
-hands-on workshop (forge: where raw materials are refined into finished tools).
-It suggests a place where disparate pieces of information (raw news, data, feedback)
-are hammered and tempered into clear, actionable predictions.
-
-Other variants considered were **Future Forge**, **Forecast Foundry**, and **Insight Forge**,
-but “Foresight Forge” felt the most distinctive and memorable.
