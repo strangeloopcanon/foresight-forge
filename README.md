@@ -25,7 +25,7 @@ newsletter. All data and artefacts are stored as plain text in this repository f
 
 ## Usage
 
-Run the daily cycle manually:
+Run the daily cycle manually (it will skip any stage with no new work):
 ```bash
 python forecast.py run-daily
 ```

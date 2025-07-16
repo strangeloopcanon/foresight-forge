@@ -74,8 +74,8 @@ def summarise():
     date = datetime.date.today().isoformat()
     infile = f"raw/{date}.json"
     if not os.path.exists(infile):
-        click.echo("No raw data found for today; run ingest first.")
-        sys.exit(1)
+        click.echo("No raw data found for today; skipping summarise.")
+        return
     items = json.load(open(infile))
     text = "\n".join(f"- {i['title']} ({i['link']})" for i in items)
     prompt = (
@@ -83,8 +83,8 @@ def summarise():
     )
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
-        click.echo("OPENAI_API_KEY is not set; cannot summarise.")
-        sys.exit(1)
+        click.echo("OPENAI_API_KEY is not set; skipping summarise.")
+        return
     openai.api_key = key
     try:
         client = OpenAI()
@@ -96,7 +96,7 @@ def summarise():
         summary = resp.choices[0].message.content.strip()
     except Exception as e:
         click.echo(f"Error during summarise: {e}")
-        sys.exit(1)
+        return
     os.makedirs("summaries", exist_ok=True)
     out = f"summaries/{date}.md"
     with open(out, "w") as f:
@@ -110,8 +110,8 @@ def predict():
     date = datetime.date.today().isoformat()
     infile = f"summaries/{date}.md"
     if not os.path.exists(infile):
-        click.echo("No summary found for today; run summarise first.")
-        sys.exit(1)
+        click.echo("No summary found for today; skipping predict.")
+        return
     summary = open(infile).read()
     prompt = (
         "From the summary below, generate at least three testable predictions with explicit"
@@ -119,8 +119,8 @@ def predict():
     )
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
-        click.echo("OPENAI_API_KEY is not set; cannot predict.")
-        sys.exit(1)
+        click.echo("OPENAI_API_KEY is not set; skipping predict.")
+        return
     openai.api_key = key
     try:
         client = OpenAI()
@@ -132,7 +132,7 @@ def predict():
         preds = resp.choices[0].message.content.strip()
     except Exception as e:
         click.echo(f"Error during predict: {e}")
-        sys.exit(1)
+        return
     os.makedirs("newsletters", exist_ok=True)
     out = f"newsletters/{date}.md"
     with open(out, "w") as f:
@@ -353,8 +353,8 @@ def dashboard():
     """Generate a minimal dashboard HTML displaying the latest newsletter."""
     files = sorted(glob.glob('newsletters/*.md'))
     if not files:
-        click.echo('No newsletter found; run predict first.')
-        sys.exit(1)
+        click.echo('No newsletter found; skipping dashboard.')
+        return
     latest = files[-1]
     content = open(latest).read()
     os.makedirs('docs', exist_ok=True)
