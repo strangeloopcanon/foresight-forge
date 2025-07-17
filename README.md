@@ -51,7 +51,36 @@ python forecast.py discover   # weekly source discovery
 python forecast.py self-update [--pr]  # merge candidates and optionally open a PR
 python forecast.py dashboard      # generate minimal HTML dashboard
 ```
+## Brain scheduler
 
+You can use a lightweight scheduler to decide whether to run the daily pipeline. The command below
+will output `run-digest` if the pipeline hasn't been run today (and record today’s run), or `skip`
+if it has already run:
+
+```bash
+python forecast.py brain
+```
+
+To tie this into your workflow/CI, use the `brain` command, which now also reports a
+meta-action plan (sources to add/remove, prompt‑tuning flag) in JSON
+alongside the `run-digest`/`skip` decision:
+
+```bash
+# Example output:
+# run-digest
+# {
+#   "add_sources": ["https://newfeed.example.com/rss"],
+#   "remove_sources": [],
+#   "tune_prompts": false
+# }
+out=$(python forecast.py brain)
+echo "$out"
+if [ "$(echo "$out" | head -n1)" = "run-digest" ]; then
+  python forecast.py run-scheduled
+else
+  echo "Skipping daily pipeline (already ran today)"
+fi
+```
 Comments or review replies for a given date can be added with your editor,
 or piped directly on the command line. In both cases the system will also
 generate an AI reply based on the day’s summary:

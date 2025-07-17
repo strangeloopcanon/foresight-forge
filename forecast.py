@@ -32,7 +32,108 @@ def cli():
     pass
 
 
+def _should_run_digest():
+    """
+    Return True if the daily digest should run (not run yet today), False otherwise.
+    Also updates the scheduler state (brain_state.json) on a run.
+    """
+    state_file = "brain_state.json"
+    today = datetime.date.today().isoformat()
+    if os.path.exists(state_file):
+        state = json.load(open(state_file))
+        last = state.get("last_run")
+    else:
+        state = {}
+        last = None
+
+    # # Advanced scheduling logic (commented out for now):
+    # # 1) Random jitter: occasionally run early
+    # # import random
+    # # if random.random() < 0.1:
+    # #     run = True
+    # # 2) Volume threshold: only run if enough new items
+    # # if os.path.exists(f"raw/{today}.json"):
+    # #     items = json.load(open(f"raw/{today}.json"))
+    # #     if len(items) < 5:
+    # #         run = False
+    # # 3) AI-driven decision: use LLM to decide based on context
+    # # run = ai_scheduler_decision(...)
+
+    # Basic scheduling: run if not already run today
+    run = (last != today)
+    if run:
+        state["last_run"] = today
+        with open(state_file, "w") as f:
+            json.dump(state, f)
+
+    # Placeholder for future source-discovery or topic-trigger logic (step 3)
+    # # if new_topic_spike:
+    # #     run = True
+
+    return run
+
+def _brain_decision():
+    """
+    High-level meta decision: whether to run today's digest,
+    plus propose new sources to add/remove and whether to tune prompts.
+    """
+    run = _should_run_digest()
+    # load current sources list
+    sources = load_sources()
+    # gather latest candidate sources from discover/ folder
+    candidates = []
+    files = sorted(glob.glob('discover/*-candidates.md'))
+    if files:
+        latest = files[-1]
+        for line in open(latest):
+            if line.startswith('-'):
+                candidates.append(line.lstrip('- ').strip())
+
+    # stub: for now propose adding all candidates, no removals, no prompt tuning
+    to_add = [u for u in candidates if u not in sources]
+    to_remove = []
+    tune_prompts = False
+
+    # # AI-driven meta-scheduler placeholder:
+    # # Prompt an LLM: given recent summaries, source list, performance metrics,
+    # # decide which sources to add, which to drop, and whether to adjust prompts.
+    # # Parse the model's response into to_add, to_remove, tune_prompts.
+
+    return {
+        'run': run,
+        'add_sources': to_add,
+        'remove_sources': to_remove,
+        'tune_prompts': tune_prompts,
+    }
+
 @cli.command()
+def brain():
+    """
+    Decide whether to run today's digest based on last run date.
+    Outputs "run-digest" (and records today's run) or "skip".
+    """
+    # Run decision and meta-actions (sources to add/remove, prompt tuning)
+    decision = _brain_decision()
+    # Basic run/skip output for scheduled pipelines
+    click.echo("run-digest" if decision.get("run") else "skip")
+    # Meta-action plan as JSON
+    plan = {
+        "add_sources": decision.get("add_sources", []),
+        "remove_sources": decision.get("remove_sources", []),
+        "tune_prompts": decision.get("tune_prompts", False),
+    }
+    click.echo(json.dumps(plan, indent=2))
+
+@cli.command(name="run-scheduled")
+def run_scheduled():
+    """
+    Run the full daily pipeline only if the brain scheduler indicates it's time.
+    """
+    if _should_run_digest():
+        click.echo("Running scheduled daily pipeline")
+        run_daily.callback()
+    else:
+        click.echo("Skipping scheduled daily pipeline; already ran today")
 def ingest():
     """Ingest new items from all sources."""
     state_file = "state.json"
