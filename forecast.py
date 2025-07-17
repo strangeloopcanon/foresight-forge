@@ -92,6 +92,16 @@ def _brain_decision():
 
     # stub: for now propose adding all candidates, no removals, no prompt tuning
     to_add = [u for u in candidates if u not in sources]
+
+    # ------------- Parse user comments for explicit source suggestions ---------
+    today = datetime.date.today().isoformat()
+    comment_path = f"comments/{today}.md"
+    if os.path.exists(comment_path):
+        comment_text = open(comment_path).read()
+        url_regex = re.compile(r"https?://[^\s>]+", re.I)
+        for url in url_regex.findall(comment_text):
+            if url not in sources and url not in to_add:
+                to_add.append(url)
     to_remove = []
     tune_prompts = False
 
@@ -130,11 +140,22 @@ def run_scheduled():
     """
     Run the full daily pipeline only if the brain scheduler indicates it's time.
     """
-    if _should_run_digest():
+    decision = _brain_decision()
+
+    if decision.get('run'):
         click.echo("Running scheduled daily pipeline")
         run_daily.callback()
     else:
         click.echo("Skipping scheduled daily pipeline; already ran today")
+
+    # If the brain proposed new sources, open a PR automatically (non-blocking)
+    if decision.get('add_sources'):
+        click.echo(f"Brain proposed {len(decision['add_sources'])} new source(s); opening PR…")
+        try:
+            ctx = click.get_current_context()
+            ctx.invoke(self_update, pr=True)
+        except Exception as e:
+            click.echo(f"Failed to create self-update PR: {e}")
 # Register ingest as a Click sub-command so that run_daily can reliably invoke
 # it via `ingest.callback()` (the underlying function reference Click attaches).
 # This was previously missing, causing AttributeError during the daily pipeline.
@@ -185,8 +206,8 @@ def summarise():
     items = json.load(open(infile))
     text = "\n".join(f"- {i['title']} ({i['link']})" for i in items)
     prompt = (
-        "Condense the following items into ≤10 clear bullet points, "
-        "highlighting any financial, economic, or scientific insights:\n" + text
+        "Condense the following items into concise bullet points capturing only the most important "
+        "financial, economic, scientific, or geopolitical insights. Be succinct and avoid fluff:\n" + text
     )
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
@@ -221,8 +242,9 @@ def predict():
         return
     summary = open(infile).read()
     prompt = (
-        "From the summary below, generate at least three testable financial or market "
-        "predictions with explicit confidence levels (as percentages):\n" + summary
+        "From the summary below, generate at least FIVE clear, testable financial, market, or economic "
+        "predictions. Each prediction must include an explicit confidence percentage (e.g., 65%). "
+        "Format either as a numbered list or bullet list.\n" + summary
     )
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
