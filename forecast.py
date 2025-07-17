@@ -16,6 +16,7 @@ from openai import OpenAI, OpenAIError
 from git import Repo
 import glob
 import re
+import shutil
 from dotenv import load_dotenv
 
 
@@ -548,7 +549,14 @@ def dashboard():
         raw_path = f'raw/{date}.json'
         n_items = len(json.load(open(raw_path))) if os.path.exists(raw_path) else '--'
 
-        nl_link = f"<a href='../{nl_path}'>newsletter</a>"
+        # ensure the newsletter Markdown is available under docs/ for direct linking
+        dst_dir = os.path.join('docs', 'newsletters')
+        os.makedirs(dst_dir, exist_ok=True)
+        dst_path = os.path.join(dst_dir, os.path.basename(nl_path))
+        if not os.path.exists(dst_path):
+            shutil.copyfile(nl_path, dst_path)
+
+        nl_link = f"<a href='newsletters/{os.path.basename(nl_path)}'>newsletter</a>"
         sections.append(f"<h2>{date} — {n_items} items — {nl_link}</h2>\n{preds_html}")
 
     html = (
