@@ -484,27 +484,72 @@ def self_update(pr):
 @cli.command()
 def dashboard():
     """Generate a simple HTML dashboard listing all logged predictions by date."""
-    pred_files = sorted(glob.glob('predictions/*.json'))
-    if not pred_files:
-        click.echo('No predictions found; skipping dashboard.')
+    nl_files = sorted(glob.glob('newsletters/*.md'))
+    if not nl_files:
+        click.echo('No newsletter found; skipping dashboard.')
         return
 
-    # Build HTML sections, newest first
+    def _parse_predictions_md(md_text):  # noqa: E302
+        """Extract predictions lines from newsletter Markdown -> list[str]."""
+        lines = md_text.splitlines()
+        out = []
+        # find heading '## Predictions'
+        inside = False
+        for ln in lines:
+            if ln.strip().lower().startswith('## predictions'):
+                inside = True
+                continue
+            if inside:
+                if ln.startswith('#'):  # next heading -> stop
+                    break
+                if ln.strip():
+                    out.append(ln.strip())
+        return out
+
     sections = []
-    for path in reversed(pred_files):
-        data = json.load(open(path))
-        date = data.get('date') or os.path.splitext(os.path.basename(path))[0]
-        preds = data.get('predictions', [])
-        preds_html = "<ul>" + "".join(
-            f"<li>{p['text']}" + (f" — {p['confidence']}%" if p.get('confidence') is not None else "") + "</li>"
-            for p in preds
-        ) + "</ul>"
+    for nl_path in reversed(nl_files):  # newest first
+        date = os.path.basename(nl_path).replace('.md', '')
+        # try JSON first
+        json_path = f'predictions/{date}.json'
+        if os.path.exists(json_path):
+            data = json.load(open(json_path))
+            preds_data = data.get('predictions', [])
+        else:
+            # parse from MD
+            preds_lines = _parse_predictions_md(open(nl_path).read())
+            preds_data = []
+            current = None
+            for ln in preds_lines:
+                ln = ln.strip()
+                if not ln:
+                    continue
+                if 'prediction:' in ln.lower():
+                    # start new prediction entry
+                    text = re.sub(r'^[-*\d+.\s]+', '', ln)
+                    current = {'text': text, 'confidence': None}
+                    preds_data.append(current)
+                elif 'confidence' in ln.lower() and current is not None:
+                    m = re.search(r'(\d{1,3})\s*%?', ln)
+                    if m:
+                        current['confidence'] = int(m.group(1))
+                else:
+                    # fallback: treat as standalone line
+                    clean = re.sub(r'^[-*\d+.\s]+', '', ln)
+                    m = re.search(r'(\d{1,3})\s*%?', clean)
+                    conf = int(m.group(1)) if m else None
+                    preds_data.append({'text': clean, 'confidence': conf})
 
-        # link to corresponding newsletter Markdown if present
-        nl_path = f"newsletters/{date}.md"
-        nl_link = f"<a href='../{nl_path}'>newsletter</a>" if os.path.exists(nl_path) else ""
+        # Build HTML list for predictions
+        preds_html = '<ul>' + ''.join(
+            f"<li>{p['text']}" + (f" — {p['confidence']}%" if p.get('confidence') is not None else '') + '</li>'
+            for p in preds_data) + '</ul>'
 
-        sections.append(f"<h2>{date} {nl_link}</h2>\n{preds_html}")
+        # stats: number of raw items ingested
+        raw_path = f'raw/{date}.json'
+        n_items = len(json.load(open(raw_path))) if os.path.exists(raw_path) else '--'
+
+        nl_link = f"<a href='../{nl_path}'>newsletter</a>"
+        sections.append(f"<h2>{date} — {n_items} items — {nl_link}</h2>\n{preds_html}")
 
     html = (
         "<!DOCTYPE html>\n<html>\n<head><meta charset='utf-8'>"
