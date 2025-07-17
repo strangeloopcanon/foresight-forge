@@ -134,6 +134,10 @@ def run_scheduled():
         run_daily.callback()
     else:
         click.echo("Skipping scheduled daily pipeline; already ran today")
+# Register ingest as a Click sub-command so that run_daily can reliably invoke
+# it via `ingest.callback()` (the underlying function reference Click attaches).
+# This was previously missing, causing AttributeError during the daily pipeline.
+@cli.command()
 def ingest():
     """Ingest new items from all sources."""
     state_file = "state.json"
@@ -235,6 +239,33 @@ def predict():
     except Exception as e:
         click.echo(f"Error during predict: {e}")
         return
+
+    # --- Persist structured prediction log ---------------------------------
+    # Store the raw model output as well as a best-effort parsed structure so that
+    # future jobs (e.g. an evaluator) can score accuracy without having to
+    # re-parse the newsletters. We intentionally keep this simple JSON file next
+    # to other artefacts to avoid introducing external storage.
+
+    os.makedirs("predictions", exist_ok=True)
+    pred_log_path = f"predictions/{date}.json"
+
+    def _parse_predictions(text: str):  # noqa: E302
+        """Return list[{text, confidence}] parsed from the model output."""
+        lines = [l.strip() for l in text.splitlines() if l.strip()]
+        out = []
+        for ln in lines:
+            # strip leading bullets / numbering
+            ln_clean = re.sub(r"^[-*\d+.\s]+", "", ln)
+            # extract a confidence like "60%" or "60 %" (default None)
+            m = re.search(r"(\d{1,3})\s*%", ln_clean)
+            conf = int(m.group(1)) if m else None
+            out.append({"text": ln_clean, "confidence": conf, "outcome": None})
+        return out
+
+    pred_entries = _parse_predictions(preds)
+    with open(pred_log_path, "w") as fp:
+        json.dump({"date": date, "predictions": pred_entries}, fp, indent=2)
+    click.echo(f"Wrote structured predictions to {pred_log_path}")
     os.makedirs("newsletters", exist_ok=True)
     out = f"newsletters/{date}.md"
     with open(out, "w") as f:
@@ -452,27 +483,38 @@ def self_update(pr):
 
 @cli.command()
 def dashboard():
-    """Generate a minimal dashboard HTML displaying the latest newsletter."""
-    files = sorted(glob.glob('newsletters/*.md'))
-    if not files:
-        click.echo('No newsletter found; skipping dashboard.')
+    """Generate a simple HTML dashboard listing all logged predictions by date."""
+    pred_files = sorted(glob.glob('predictions/*.json'))
+    if not pred_files:
+        click.echo('No predictions found; skipping dashboard.')
         return
-    latest = files[-1]
-    content = open(latest).read()
+
+    # Build HTML sections, newest first
+    sections = []
+    for path in reversed(pred_files):
+        data = json.load(open(path))
+        date = data.get('date') or os.path.splitext(os.path.basename(path))[0]
+        preds = data.get('predictions', [])
+        preds_html = "<ul>" + "".join(
+            f"<li>{p['text']}" + (f" — {p['confidence']}%" if p.get('confidence') is not None else "") + "</li>"
+            for p in preds
+        ) + "</ul>"
+
+        # link to corresponding newsletter Markdown if present
+        nl_path = f"newsletters/{date}.md"
+        nl_link = f"<a href='../{nl_path}'>newsletter</a>" if os.path.exists(nl_path) else ""
+
+        sections.append(f"<h2>{date} {nl_link}</h2>\n{preds_html}")
+
+    html = (
+        "<!DOCTYPE html>\n<html>\n<head><meta charset='utf-8'>"
+        "<title>Foresight Forge — Prediction Log</title></head>\n<body>\n"
+        "<h1>Foresight Forge — Prediction Log</h1>\n"
+        + "<hr>\n".join(sections) + "\n</body>\n</html>\n"
+    )
+
     os.makedirs('docs', exist_ok=True)
     out = 'docs/index.html'
-    html = f"""<!DOCTYPE html>
-<html>
-<head><meta charset="utf-8"><title>Foresight Forge Dashboard</title></head>
-<body>
-  <h1>Latest Newsletter: {os.path.basename(latest).replace('.md','')}</h1>
-  <pre>
-{content}
-  </pre>
-  <hr><p><a href="../newsletters">Full history of newsletters</a></p>
-</body>
-</html>
-"""
     with open(out, 'w') as f:
         f.write(html)
     click.echo(f'Wrote dashboard to {out}')
