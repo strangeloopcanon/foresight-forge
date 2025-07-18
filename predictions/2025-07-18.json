@@ -1,0 +1,30 @@
+{
+  "date": "2025-07-18",
+  "predictions": [
+    {
+      "text": "The price of Cryptocurrencies will increase by 20% within the next month due to the passage of the Genius Act and three regulatory bills in Congress.",
+      "confidence": 20,
+      "outcome": null
+    },
+    {
+      "text": "The Dow Jones Industrial Average will decrease by 15% in the next quarter amid increasing evidence on vaping risks and FDA approval of Juul vapes.",
+      "confidence": 15,
+      "outcome": null
+    },
+    {
+      "text": "Tesla stock will rise by 10% in the next three months following Elon Musk clearing final obstacles for Tesla in India.",
+      "confidence": 10,
+      "outcome": null
+    },
+    {
+      "text": "The value of the US Dollar will decrease by 5% against major currencies in the next six months due to Trump's policy on China's costs.",
+      "confidence": 5,
+      "outcome": null
+    },
+    {
+      "text": "The California real estate market will experience a 5% downturn in the next year as a result of the state aiming to counter Texas on redistricting.",
+      "confidence": 5,
+      "outcome": null
+    }
+  ]
+}
