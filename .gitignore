@@ -1,3 +1,5 @@
 # Local environment variables file (contains secrets).
 .env
 brain_state.json
+__pycache__/
+*.pyc
