@@ -1,0 +1,578 @@
+[
+  {
+    "id": "https://www.noahpinion.blog/p/at-least-five-interesting-things-c56",
+    "title": "At least five interesting things: Bad Policy edition (#67)",
+    "link": "https://www.noahpinion.blog/p/at-least-five-interesting-things-c56",
+    "published": "Fri, 18 Jul 2025 09:55:03 GMT"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/us/politics/trump-epstein-letter-birthday-courts.html",
+    "title": "When It Comes to Jeffrey Epstein, Trump Says He Is Ready to Defer to the Courts",
+    "link": "https://www.nytimes.com/2025/07/18/us/politics/trump-epstein-letter-birthday-courts.html",
+    "published": "Fri, 18 Jul 2025 20:26:50 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/nyregion/trump-epstein-files-unsealing-request.html",
+    "title": "Justice Dept. Asks Manhattan Court to Unseal Epstein Grand Jury Testimony",
+    "link": "https://www.nytimes.com/2025/07/18/nyregion/trump-epstein-files-unsealing-request.html",
+    "published": "Fri, 18 Jul 2025 22:33:24 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/us/politics/trump-drawings-epstein.html",
+    "title": "In Response to Epstein Letter Report, Trump Says He Doesn\u2019t \u2018Draw Pictures\u2019",
+    "link": "https://www.nytimes.com/2025/07/18/us/politics/trump-drawings-epstein.html",
+    "published": "Fri, 18 Jul 2025 20:27:50 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/world/americas/venezuela-us-prisoner-swap-migrants-el-salvador.html",
+    "title": "Prisoner Swap Frees Americans in Venezuela for Migrants in El Salvador",
+    "link": "https://www.nytimes.com/2025/07/18/world/americas/venezuela-us-prisoner-swap-migrants-el-salvador.html",
+    "published": "Sat, 19 Jul 2025 00:08:33 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/us/ice-recruit-retiree.html",
+    "title": "To Staff Trump\u2019s Immigration Crackdown, ICE Entices Its Retirees",
+    "link": "https://www.nytimes.com/2025/07/18/us/ice-recruit-retiree.html",
+    "published": "Fri, 18 Jul 2025 20:53:20 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/business/media/stephen-colbert-late-show-cbs.html",
+    "title": "Stephen Colbert\u2019s \u2018Late Show\u2019 Was Losing Millions at CBS Before Cancellation",
+    "link": "https://www.nytimes.com/2025/07/18/business/media/stephen-colbert-late-show-cbs.html",
+    "published": "Fri, 18 Jul 2025 21:47:29 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/us/politics/stephen-colbert-canceled-trump-lawmakers.html",
+    "title": "Lawmakers Question Whether CBS Canceled Colbert\u2019s Show for Political Reasons",
+    "link": "https://www.nytimes.com/2025/07/18/us/politics/stephen-colbert-canceled-trump-lawmakers.html",
+    "published": "Fri, 18 Jul 2025 23:29:21 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/arts/television/stephen-colbert-late-show-canceled-why.html",
+    "title": "Why Is Stephen Colbert\u2019s \u2018Late Show\u2019 Getting Canceled?",
+    "link": "https://www.nytimes.com/2025/07/18/arts/television/stephen-colbert-late-show-canceled-why.html",
+    "published": "Fri, 18 Jul 2025 17:16:48 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/arts/television/cbs-late-night-shows-colbert-letterman.html",
+    "title": "A Brief History of CBS\u2019s Late-Night Eras",
+    "link": "https://www.nytimes.com/2025/07/18/arts/television/cbs-late-night-shows-colbert-letterman.html",
+    "published": "Fri, 18 Jul 2025 20:41:12 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/us/politics/rubio-foreign-elections-cable.html",
+    "title": "Rubio Restricts U.S. Criticism of Tainted Foreign Elections",
+    "link": "https://www.nytimes.com/2025/07/18/us/politics/rubio-foreign-elections-cable.html",
+    "published": "Sat, 19 Jul 2025 01:01:41 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/us/politics/under-trump-a-new-focus-for-a-birth-control-program-helping-women-get-pregnant.html",
+    "title": "Under Trump, a New Focus for a Birth Control Program: Helping Women Get Pregnant",
+    "link": "https://www.nytimes.com/2025/07/18/us/politics/under-trump-a-new-focus-for-a-birth-control-program-helping-women-get-pregnant.html",
+    "published": "Sat, 19 Jul 2025 00:46:23 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html",
+    "title": "E.P.A. Says It Will Eliminate Its Scientific Research Arm",
+    "link": "https://www.nytimes.com/2025/07/18/climate/epa-firings-scientific-research.html",
+    "published": "Fri, 18 Jul 2025 23:06:51 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/us/politics/gabbard-obama-trump-russia.html",
+    "title": "Gabbard Claims Obama Administration Tried to Undermine Trump in 2016",
+    "link": "https://www.nytimes.com/2025/07/18/us/politics/gabbard-obama-trump-russia.html",
+    "published": "Fri, 18 Jul 2025 23:34:19 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/us/los-angeles-sheriff-center-explosion-deaths.html",
+    "title": "Explosion at Los Angeles Training Center Kills 3 Sheriff\u2019s Deputies",
+    "link": "https://www.nytimes.com/2025/07/18/us/los-angeles-sheriff-center-explosion-deaths.html",
+    "published": "Sat, 19 Jul 2025 00:48:15 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/nyregion/zohran-mamdani-hakeem-jeffries.html",
+    "title": "Mamdani Meets Jeffries in Brooklyn as He Seeks to Expand His Coalition",
+    "link": "https://www.nytimes.com/2025/07/18/nyregion/zohran-mamdani-hakeem-jeffries.html",
+    "published": "Sat, 19 Jul 2025 00:53:20 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/technology/dor-video-studio-ai.html",
+    "title": "How a Video Studio Embraced A.I. and Stormed the Internet",
+    "link": "https://www.nytimes.com/2025/07/18/technology/dor-video-studio-ai.html",
+    "published": "Fri, 18 Jul 2025 21:22:39 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/theater/chicago-chorus-line-theater.html",
+    "title": "\u2018A Chorus Line\u2019 and \u2018Chicago\u2019 at 50: Who Won?",
+    "link": "https://www.nytimes.com/2025/07/18/theater/chicago-chorus-line-theater.html",
+    "published": "Fri, 18 Jul 2025 09:00:56 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/theater/broadway-robyn-hurder-choreography-chicago.html",
+    "title": "The Moves That Make \u2018Chicago\u2019 and \u2018A Chorus Line\u2019 So Special",
+    "link": "https://www.nytimes.com/2025/07/18/theater/broadway-robyn-hurder-choreography-chicago.html",
+    "published": "Fri, 18 Jul 2025 15:55:31 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/world/europe/felix-baumgartner-dead.html",
+    "title": "Felix Baumgartner, Skydiver Who Jumped From the Edge of Space, Dies Paragliding at 56",
+    "link": "https://www.nytimes.com/2025/07/18/world/europe/felix-baumgartner-dead.html",
+    "published": "Fri, 18 Jul 2025 16:55:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/17/opinion/ezra-klein-podcast-will-sommer.html",
+    "title": "Why Trump Can\u2019t Shake Jeffrey Epstein",
+    "link": "https://www.nytimes.com/2025/07/17/opinion/ezra-klein-podcast-will-sommer.html",
+    "published": "Fri, 18 Jul 2025 20:45:20 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/opinion/colbert-late-show-cbs-trump.html",
+    "title": "Stephen Colbert Could Never Save Us From Trump",
+    "link": "https://www.nytimes.com/2025/07/18/opinion/colbert-late-show-cbs-trump.html",
+    "published": "Fri, 18 Jul 2025 23:11:15 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/briefing/trump-epstein-npr.html",
+    "title": "Trump Asked a Court to Unseal Epstein Grand Jury Testimony",
+    "link": "https://www.nytimes.com/2025/07/18/briefing/trump-epstein-npr.html",
+    "published": "Fri, 18 Jul 2025 22:51:47 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/nyregion/brittany-commisso-andrew-cuomo-settlement.html",
+    "title": "NY Agrees to Settle Ex-Cuomo Aide\u2019s Harassment Claims for $450,000",
+    "link": "https://www.nytimes.com/2025/07/18/nyregion/brittany-commisso-andrew-cuomo-settlement.html",
+    "published": "Sat, 19 Jul 2025 00:00:46 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/us/minnesota-lawmaker-burglary-conviction.html",
+    "title": "Minnesota State Senator Found Guilty in Burglary Trial",
+    "link": "https://www.nytimes.com/2025/07/18/us/minnesota-lawmaker-burglary-conviction.html",
+    "published": "Fri, 18 Jul 2025 21:41:10 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/18/health/fda-sarepta-elevidys-duchenne.html",
+    "title": "Sarepta Refuses FDA Request to Stop Shipping Muscular Dystrophy Drug Elevidys",
+    "link": "https://www.nytimes.com/2025/07/18/health/fda-sarepta-elevidys-duchenne.html",
+    "published": "Sat, 19 Jul 2025 00:53:42 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/07/17/us/maine-arrest-paddleboarder-homicide.html",
+    "title": "Teen Charged With Murder in Killing of Paddleboarder in Maine",
+    "link": "https://www.nytimes.com/2025/07/17/us/maine-arrest-paddleboarder-homicide.html",
+    "published": "Fri, 18 Jul 2025 21:44:18 +0000"
+  },
+  {
+    "id": "WP-MKTW-0004335036",
+    "title": "Block is the latest to get an S&P 500 nod, and its stock is climbing",
+    "link": "https://www.marketwatch.com/story/block-is-the-latest-to-get-an-s-p-500-nod-and-its-stock-is-climbing-37295678?mod=mw_rss_topstories",
+    "published": "Fri, 18 Jul 2025 22:15:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004331423",
+    "title": "My husband\u2019s brother left his $600K estate to a friend. Can we contest the will? He experienced oxygen deprivation due to COPD.",
+    "link": "https://www.marketwatch.com/story/can-my-husband-contest-his-late-brothers-600k-will-he-experienced-oxygen-deprivation-due-to-copd-before-he-died-d633ac3d?mod=mw_rss_topstories",
+    "published": "Fri, 18 Jul 2025 21:15:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004333202",
+    "title": "Trump signs the Genius Act into law, in significant step for U.S. crypto regulation",
+    "link": "https://www.marketwatch.com/story/trump-signs-the-genius-act-into-law-in-significant-step-for-u-s-crypto-regulation-3d864a10?mod=mw_rss_topstories",
+    "published": "Fri, 18 Jul 2025 21:01:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004332355",
+    "title": "American Express earnings show healthy spending \u2014 including on these fancy categories",
+    "link": "https://www.marketwatch.com/story/american-express-earnings-show-healthy-growth-in-spending-67eb26a4?mod=mw_rss_topstories",
+    "published": "Fri, 18 Jul 2025 20:21:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004334500",
+    "title": "Was canceling Stephen Colbert\u2019s \u2018Late Show\u2019 really about money? The numbers don\u2019t entirely back it up.",
+    "link": "https://www.marketwatch.com/story/was-canceling-stephen-colberts-late-show-really-about-money-the-numbers-dont-entirely-back-it-up-4b100500?mod=mw_rss_topstories",
+    "published": "Fri, 18 Jul 2025 20:16:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004333492",
+    "title": "Traders in a critical corner of the bond market are back to flashing worries about long-run inflation",
+    "link": "https://www.marketwatch.com/story/traders-in-a-critical-corner-of-the-bond-market-are-back-to-flashing-worries-about-long-run-inflation-e8c98deb?mod=mw_rss_topstories",
+    "published": "Fri, 18 Jul 2025 20:10:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004331765",
+    "title": "I\u2019m doing Roth conversions, but my IRA balance keeps going up. When do I stop?",
+    "link": "https://www.marketwatch.com/story/im-doing-roth-conversions-but-my-ira-balance-keeps-going-up-when-do-i-stop-597a7255?mod=mw_rss_topstories",
+    "published": "Fri, 18 Jul 2025 20:08:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004334568",
+    "title": "Here\u2019s what interest-rate changes may mean for bond returns as traders watch Fed",
+    "link": "https://www.marketwatch.com/story/heres-what-interest-rate-changes-may-mean-for-bond-returns-as-traders-watch-fed-13912ab4?mod=mw_rss_topstories",
+    "published": "Fri, 18 Jul 2025 19:45:00 GMT"
+  },
+  {
+    "id": "108174187",
+    "title": "Block shares soar 10% on entry into S&P 500",
+    "link": "https://www.cnbc.com/2025/07/18/block-shares-soar-on-entry-into-sp-500.html",
+    "published": "Sat, 19 Jul 2025 00:26:01 GMT"
+  },
+  {
+    "id": "108174164",
+    "title": "Microsoft stops relying on Chinese engineers for Pentagon cloud support",
+    "link": "https://www.cnbc.com/2025/07/18/microsoft-china-digital-escorts-pentagon.html",
+    "published": "Fri, 18 Jul 2025 23:20:20 GMT"
+  },
+  {
+    "id": "108174174",
+    "title": "Trump sues Murdoch for $10 billion over WSJ story on Epstein birthday letter",
+    "link": "https://www.cnbc.com/2025/07/18/trump-sues-epstein-murdoch-wsj.html",
+    "published": "Sat, 19 Jul 2025 01:42:49 GMT"
+  },
+  {
+    "id": "108174189",
+    "title": "Justice Department asks court to unseal Epstein, Maxwell grand jury transcripts",
+    "link": "https://www.cnbc.com/2025/07/18/epstein-maxwell-grand-jury-trump.html",
+    "published": "Fri, 18 Jul 2025 23:03:01 GMT"
+  },
+  {
+    "id": "108173453",
+    "title": "Why Delta and United are pulling away from the airline pack",
+    "link": "https://www.cnbc.com/2025/07/18/delta-air-lines-united-airlines.html",
+    "published": "Fri, 18 Jul 2025 17:03:04 GMT"
+  },
+  {
+    "id": "108173622",
+    "title": "The investor behind Opendoor's 190% run nearly shut down his fund",
+    "link": "https://www.cnbc.com/2025/07/18/eric-jackson-opendoor-real-estate-carvana.html",
+    "published": "Fri, 18 Jul 2025 21:02:34 GMT"
+  },
+  {
+    "id": "108174188",
+    "title": "Peter Thiel-backed cryptocurrency exchange Bullish files to go public on NYSE",
+    "link": "https://www.cnbc.com/2025/07/18/peter-thiel-backed-cryptocurrency-exchange-bullish-files-for-nyse-ipo.html",
+    "published": "Fri, 18 Jul 2025 22:24:13 GMT"
+  },
+  {
+    "id": "108174120",
+    "title": "Astronomer board investigating CEO Andy Byron after viral Coldplay kiss cam video",
+    "link": "https://www.cnbc.com/2025/07/18/astronomer-andy-byron-coldplay-kiss-cam.html",
+    "published": "Fri, 18 Jul 2025 20:35:13 GMT"
+  },
+  {
+    "id": "108170216",
+    "title": "Business class+? Delta says segmentation is coming to high-end cabins",
+    "link": "https://www.cnbc.com/2025/07/10/delta-premium-seats.html",
+    "published": "Fri, 11 Jul 2025 19:09:59 GMT"
+  },
+  {
+    "id": "108173661",
+    "title": "Travelers to the U.S. must pay a new $250 'visa integrity fee' \u2014 what to know",
+    "link": "https://www.cnbc.com/2025/07/18/visa-integrity-fee-what-to-know-about-new-travel-fee-to-enter-the-us-.html",
+    "published": "Sat, 19 Jul 2025 00:14:39 GMT"
+  },
+  {
+    "id": "108174013",
+    "title": "Sarepta shares plunge 40% as future of its gene therapy appears at risk",
+    "link": "https://www.cnbc.com/2025/07/18/sarepta-stock-falls-on-fda-gene-therapy-elevidys-comment.html",
+    "published": "Fri, 18 Jul 2025 19:16:37 GMT"
+  },
+  {
+    "id": "108174043",
+    "title": "International inbound travel to U.S. shows mixed recovery",
+    "link": "https://www.cnbc.com/2025/07/18/international-travel-to-us-canada-mexico.html",
+    "published": "Fri, 18 Jul 2025 20:16:31 GMT"
+  },
+  {
+    "id": "108173872",
+    "title": "What a Trump, Powell faceoff means for your money",
+    "link": "https://www.cnbc.com/2025/07/18/what-trump-powell-faceoff-means-for-your-money.html",
+    "published": "Fri, 18 Jul 2025 18:22:36 GMT"
+  },
+  {
+    "id": "108174005",
+    "title": "Trump pushes for up to 20% minimum tariffs on European Union: FT",
+    "link": "https://www.cnbc.com/2025/07/18/trump-trade-eu-tariffs-ft.html",
+    "published": "Fri, 18 Jul 2025 17:41:40 GMT"
+  },
+  {
+    "id": "108172793",
+    "title": "Insurers just marked the costliest first half of the year since 2011",
+    "link": "https://www.cnbc.com/2025/07/18/insurers-wildfires-tornado-hail-housing-cost.html",
+    "published": "Fri, 18 Jul 2025 18:35:05 GMT"
+  },
+  {
+    "id": "108173981",
+    "title": "Why Netflix's beat-and-raise quarter is welcome news for Disney investors",
+    "link": "https://www.cnbc.com/2025/07/18/what-netflixs-beat-and-raise-quarter-is-good-for-disney-investors.html",
+    "published": "Fri, 18 Jul 2025 20:15:35 GMT"
+  },
+  {
+    "id": "108174012",
+    "title": "Rich American Express customers continue to spend freely, with one exception",
+    "link": "https://www.cnbc.com/2025/07/18/rich-american-express-customers-spend-freely-with-one-exception.html",
+    "published": "Fri, 18 Jul 2025 18:45:20 GMT"
+  },
+  {
+    "id": "108174024",
+    "title": "FBI agents were told to 'flag' any Epstein records that mentioned Trump, Sen. Durbin says",
+    "link": "https://www.cnbc.com/2025/07/18/trump-epstein-fbi-durbin.html",
+    "published": "Fri, 18 Jul 2025 19:32:55 GMT"
+  },
+  {
+    "id": "108173917",
+    "title": "Meta says it won't sign Europe AI agreement, calling it an overreach that will stunt growth",
+    "link": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
+    "published": "Fri, 18 Jul 2025 17:53:16 GMT"
+  },
+  {
+    "id": "108173886",
+    "title": "Epstein files: House Speaker Johnson wants 'maximum transparency'",
+    "link": "https://www.cnbc.com/2025/07/18/epstein-files-trump-johnson-transparency.html",
+    "published": "Fri, 18 Jul 2025 16:59:05 GMT"
+  },
+  {
+    "id": "108173789",
+    "title": "Chevron completes Hess acquisition after defeating Exxon in dispute over Guyana oil assets",
+    "link": "https://www.cnbc.com/2025/07/18/chevron-defeats-exxon-in-dispute-over-guyana-oil-assets-clearing-path-for-hess-acquisition.html",
+    "published": "Fri, 18 Jul 2025 20:03:52 GMT"
+  },
+  {
+    "id": "108173938",
+    "title": "Ether takes spotlight as Trump signs stablecoin bill into first major U.S. crypto law",
+    "link": "https://www.cnbc.com/2025/07/18/crypto-market-today.html",
+    "published": "Fri, 18 Jul 2025 20:31:39 GMT"
+  },
+  {
+    "id": "108173908",
+    "title": "Inflation outlook tumbles to pre-tariff levels in latest University of Michigan survey",
+    "link": "https://www.cnbc.com/2025/07/18/inflation-outlook-tumbles-to-pre-tariff-levels-in-latest-university-of-michigan-survey.html",
+    "published": "Fri, 18 Jul 2025 17:30:40 GMT"
+  },
+  {
+    "id": "108168333",
+    "title": "These 10 states have the worst infrastructure in America in 2025",
+    "link": "https://www.cnbc.com/2025/07/18/worst-infrastructure-americas-top-states-for-business.html",
+    "published": "Fri, 18 Jul 2025 14:56:52 GMT"
+  },
+  {
+    "id": "108162435",
+    "title": "As streaming services chase profitability, kids\u2019 content is king",
+    "link": "https://www.cnbc.com/2025/07/18/kids-content-streaming-companies-chase-profits.html",
+    "published": "Fri, 18 Jul 2025 13:15:18 GMT"
+  },
+  {
+    "id": "108173711",
+    "title": "How the EU is preparing to reach a tariff deal in Trump's game of chicken",
+    "link": "https://www.cnbc.com/2025/07/18/trumps-game-of-chicken-how-the-eu-is-pitching-to-reach-a-tariff-deal.html",
+    "published": "Fri, 18 Jul 2025 17:04:03 GMT"
+  },
+  {
+    "id": "108173491",
+    "title": "Trump's 'no tax on tips' sparks questions for workers: 'We're looking at a crystal ball,' expert says",
+    "link": "https://www.cnbc.com/2025/07/18/trump-big-beautiful-bill-no-tax-on-tips.html",
+    "published": "Fri, 18 Jul 2025 17:02:32 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/07/250718031218.htm",
+    "title": "Three-person DNA IVF stops inherited disease\u2014eight healthy babies born in UK first",
+    "link": "https://www.sciencedaily.com/releases/2025/07/250718031218.htm",
+    "published": "Fri, 18 Jul 2025 10:05:48 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/07/250718031208.htm",
+    "title": "CRISPR uncovers gene that supercharges vitamin D\u2014and stops tumors in their tracks",
+    "link": "https://www.sciencedaily.com/releases/2025/07/250718031208.htm",
+    "published": "Fri, 18 Jul 2025 05:41:04 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/07/250718031205.htm",
+    "title": "Selfies, sugar, and death: How tourists are endangering elephants",
+    "link": "https://www.sciencedaily.com/releases/2025/07/250718031205.htm",
+    "published": "Fri, 18 Jul 2025 03:12:05 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/07/250717013852.htm",
+    "title": "Ancient recipes or rituals? Neanderthal bones reveal a prehistoric culinary mystery",
+    "link": "https://www.sciencedaily.com/releases/2025/07/250717013852.htm",
+    "published": "Fri, 18 Jul 2025 00:37:31 EDT"
+  },
+  {
+    "id": "https://www.macintoshrepository.org/44146-mr-browser",
+    "title": "Mr Browser \u2013 Macintosh Repository file downloader that runs directly on 68k Macs",
+    "link": "https://www.macintoshrepository.org/44146-mr-browser",
+    "published": "Sat, 19 Jul 2025 00:20:48 +0000"
+  },
+  {
+    "id": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
+    "title": "Asynchrony is not concurrency",
+    "link": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
+    "published": "Fri, 18 Jul 2025 19:21:38 +0000"
+  },
+  {
+    "id": "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/",
+    "title": "How to write Rust in the Linux kernel: part 3",
+    "link": "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/",
+    "published": "Fri, 18 Jul 2025 22:27:17 +0000"
+  },
+  {
+    "id": "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/",
+    "title": "Debcraft \u2013 Easiest way to modify and build Debian packages",
+    "link": "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/",
+    "published": "Sat, 19 Jul 2025 00:04:31 +0000"
+  },
+  {
+    "id": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
+    "title": "Silence Is a Commons by Ivan Illich (1983)",
+    "link": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
+    "published": "Fri, 18 Jul 2025 21:21:50 +0000"
+  },
+  {
+    "id": "https://github.com/ryoppippi/ccusage",
+    "title": "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
+    "link": "https://github.com/ryoppippi/ccusage",
+    "published": "Fri, 18 Jul 2025 23:22:49 +0000"
+  },
+  {
+    "id": "https://cofault.com/zero-cost-static.html",
+    "title": "C++: zero-cost static initialization",
+    "link": "https://cofault.com/zero-cost-static.html",
+    "published": "Tue, 15 Jul 2025 11:39:18 +0000"
+  },
+  {
+    "id": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
+    "title": "Valve confirms credit card companies pressured it to delist certain adult games",
+    "link": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
+    "published": "Fri, 18 Jul 2025 15:54:46 +0000"
+  },
+  {
+    "id": "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716",
+    "title": "Shutting Down Clear Linux OS",
+    "link": "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716",
+    "published": "Fri, 18 Jul 2025 23:45:12 +0000"
+  },
+  {
+    "id": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
+    "title": "Meta says it wont sign Europe AI agreement, calling it growth stunting overreach",
+    "link": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
+    "published": "Fri, 18 Jul 2025 17:56:37 +0000"
+  },
+  {
+    "id": "https://burn.dev/blog/sota-multiplatform-matmul/",
+    "title": "Multiplatform Matrix Multiplication Kernels",
+    "link": "https://burn.dev/blog/sota-multiplatform-matmul/",
+    "published": "Fri, 18 Jul 2025 19:59:49 +0000"
+  },
+  {
+    "id": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
+    "title": "lsr: ls with io_uring",
+    "link": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
+    "published": "Fri, 18 Jul 2025 12:40:41 +0000"
+  },
+  {
+    "id": "https://github.com/bitnami/charts/issues/35164",
+    "title": "Broadcom to discontinue free Bitnami Helm charts",
+    "link": "https://github.com/bitnami/charts/issues/35164",
+    "published": "Fri, 18 Jul 2025 19:29:52 +0000"
+  },
+  {
+    "id": "https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/",
+    "title": "Wii U SDBoot1 Exploit \u201cpaid the beak\u201d",
+    "link": "https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/",
+    "published": "Fri, 18 Jul 2025 20:30:36 +0000"
+  },
+  {
+    "id": "https://tazj.in/blog/trying-guix",
+    "title": "Trying Guix: A Nixer's impressions",
+    "link": "https://tazj.in/blog/trying-guix",
+    "published": "Tue, 15 Jul 2025 08:11:19 +0000"
+  },
+  {
+    "id": "https://paulkedrosky.com/honey-ai-capex-ate-the-economy/",
+    "title": "AI capex is so big that it's affecting economic statistics",
+    "link": "https://paulkedrosky.com/honey-ai-capex-ate-the-economy/",
+    "published": "Fri, 18 Jul 2025 19:59:04 +0000"
+  },
+  {
+    "id": "https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/",
+    "title": "The year of peak might and magic",
+    "link": "https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/",
+    "published": "Fri, 18 Jul 2025 17:21:49 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download",
+    "title": "CP/M creator Gary Kildall's memoirs released as free download",
+    "link": "https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download",
+    "published": "Fri, 18 Jul 2025 10:22:15 +0000"
+  },
+  {
+    "id": "https://eprint.iacr.org/2025/1237",
+    "title": "Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog",
+    "link": "https://eprint.iacr.org/2025/1237",
+    "published": "Fri, 18 Jul 2025 19:09:07 +0000"
+  },
+  {
+    "id": "https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer",
+    "title": "Mango Health (YC W24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/mango-health/jobs/3bjIHus-founding-engineer",
+    "published": "Fri, 18 Jul 2025 18:39:02 +0000"
+  },
+  {
+    "id": "https://www.librari.io/",
+    "title": "Show HN: I built library management app for those who outgrew spreadsheets",
+    "link": "https://www.librari.io/",
+    "published": "Fri, 18 Jul 2025 19:28:34 +0000"
+  },
+  {
+    "id": "https://blog.m-ou.se/floats/",
+    "title": "Converting Integers to Floats Using Hyperfocus (2022)",
+    "link": "https://blog.m-ou.se/floats/",
+    "published": "Thu, 17 Jul 2025 13:52:14 +0000"
+  },
+  {
+    "id": "https://molab.marimo.io/notebooks",
+    "title": "Show HN: Molab, a cloud-hosted Marimo notebook workspace",
+    "link": "https://molab.marimo.io/notebooks",
+    "published": "Fri, 18 Jul 2025 18:40:30 +0000"
+  },
+  {
+    "id": "https://www.ibm.com/history/sage",
+    "title": "Sage: An atomic bomb kicked off the biggest computing project in history",
+    "link": "https://www.ibm.com/history/sage",
+    "published": "Tue, 15 Jul 2025 16:21:59 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/",
+    "title": "A New Geometry for Einstein's Theory of Relativity",
+    "link": "https://www.quantamagazine.org/a-new-geometry-for-einsteins-theory-of-relativity-20250716/",
+    "published": "Fri, 18 Jul 2025 15:19:17 +0000"
+  },
+  {
+    "id": "https://varunraghu.com/im-rebelling-against-the-algorithm/",
+    "title": "I'm Rebelling Against the Algorithm",
+    "link": "https://varunraghu.com/im-rebelling-against-the-algorithm/",
+    "published": "Fri, 18 Jul 2025 22:45:32 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening",
+    "title": "Cancer DNA is detectable in blood years before diagnosis",
+    "link": "https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening",
+    "published": "Fri, 18 Jul 2025 18:39:06 +0000"
+  },
+  {
+    "id": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
+    "title": "How I keep up with AI progress",
+    "link": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
+    "published": "Fri, 18 Jul 2025 18:36:39 +0000"
+  },
+  {
+    "id": "https://github.com/sushrut141/ketu",
+    "title": "Show HN: Simulating autonomous drone formations",
+    "link": "https://github.com/sushrut141/ketu",
+    "published": "Tue, 15 Jul 2025 15:18:48 +0000"
+  },
+  {
+    "id": "https://www.phoronix.com/news/Intel-Ends-Clear-Linux",
+    "title": "Intel Announces It's Shutting Down Clear Linux",
+    "link": "https://www.phoronix.com/news/Intel-Ends-Clear-Linux",
+    "published": "Sat, 19 Jul 2025 00:12:13 +0000"
+  }
+]

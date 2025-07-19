@@ -1,0 +1,30 @@
+{
+  "date": "2025-07-19",
+  "predictions": [
+    {
+      "text": "American Express earnings will continue to show robust spending in various categories, with a confidence level of 80%.",
+      "confidence": 80,
+      "outcome": null
+    },
+    {
+      "text": "Concerns about long-run inflation in the bond market will increase, with a confidence level of 70%.",
+      "confidence": 70,
+      "outcome": null
+    },
+    {
+      "text": "Block's stock will continue to climb after entering the S&P 500, with a confidence level of 85%.",
+      "confidence": 85,
+      "outcome": null
+    },
+    {
+      "text": "Microsoft will successfully remove reliance on Chinese engineers for Pentagon support, with a confidence level of 75%.",
+      "confidence": 75,
+      "outcome": null
+    },
+    {
+      "text": "Trump's lawsuit against Murdoch over the WSJ story and request to unseal Epstein and Maxwell transcripts will face legal challenges, with a confidence level of 60%.",
+      "confidence": 60,
+      "outcome": null
+    }
+  ]
+}
