@@ -1,0 +1,30 @@
+{
+  "date": "2025-07-20",
+  "predictions": [
+    {
+      "text": "The U.S. stock market will outperform emerging global markets by the end of the year with 75% confidence.",
+      "confidence": 75,
+      "outcome": null
+    },
+    {
+      "text": "The W.N.B.A. star fined for sneakers will see a 10% increase in shoe sales following the incident with 60% confidence.",
+      "confidence": 10,
+      "outcome": null
+    },
+    {
+      "text": "Federal workers who were fired will experience a 25% decrease in their household income within six months with 80% confidence.",
+      "confidence": 25,
+      "outcome": null
+    },
+    {
+      "text": "Americans will spend 15% more on coffee due to rising prices in the next year with 70% confidence.",
+      "confidence": 15,
+      "outcome": null
+    },
+    {
+      "text": "Investors betting on ETFs against U.S. Treasury bonds will see a 5% increase in ROI by the end of the quarter with 85% confidence.",
+      "confidence": 5,
+      "outcome": null
+    }
+  ]
+}
