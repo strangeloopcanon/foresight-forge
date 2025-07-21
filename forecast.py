@@ -170,7 +170,18 @@ def ingest():
     seen = set(state.get("seen", []))
     new_items = []
     for url in load_sources():
-        feed = feedparser.parse(url)
+        try:
+            # Some sites block default Python user agents; provide a browser-like header.
+            feed = feedparser.parse(
+                url,
+                request_headers={
+                    "User-Agent": "Mozilla/5.0 (compatible; ForesightForgeBot/1.0; +https://example.com)"
+                },
+            )
+        except Exception as e:
+            # Log and continue so a single failing feed does not abort the entire pipeline.
+            click.echo(f"⚠️  Failed to fetch {url}: {e}")
+            continue
         for entry in feed.entries:
             eid = entry.get("id", entry.get("link"))
             if eid and eid not in seen:
@@ -585,7 +596,7 @@ def dashboard():
         "<!DOCTYPE html>\n<html>\n<head><meta charset='utf-8'>"
         "<title>Foresight Forge — Prediction Log</title></head>\n<body>\n"
         "<h1>Foresight Forge — Prediction Log</h1>\n"
-        + "<hr>\n".join(sections) + "\n</body>\n</html>\n"
+        "<hr>\n".join(sections) + "\n</body>\n</html>\n"
     )
 
     os.makedirs('docs', exist_ok=True)
