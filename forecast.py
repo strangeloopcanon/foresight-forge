@@ -592,7 +592,8 @@ def dashboard():
         nl_link = f"<a href='newsletters/{os.path.basename(nl_path)}'>newsletter</a>"
         sections.append(f"<h2>{date} — {n_items} items — {nl_link}</h2>\n{preds_html}")
 
-    html = (        "<!DOCTYPE html>\n<html>\n<head><meta charset='utf-8'>"        "<title>Foresight Forge - Prediction Log</title></head>\n<body>\n"        "<h1>Foresight Forge - Prediction Log</h1>\n"        "<hr>\n".join(sections) + "\n</body>\n</html>\n"    )
+    html = (        body_content = "<hr>\n".join(sections)
+    html = f"""<!DOCTYPE html>\n<html>\n<head><meta charset='utf-8'><title>Foresight Forge - Prediction Log</title></head>\n<body>\n<h1>Foresight Forge - Prediction Log</h1>\n{body_content}\n</body>\n</html>\n"""
 
     os.makedirs('docs', exist_ok=True)
     out = 'docs/index.html'
