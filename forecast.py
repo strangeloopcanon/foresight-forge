@@ -11,8 +11,17 @@ import click
 import yaml
 import feedparser
 import requests
+# Centralise the model selection so we can easily switch in one place.
 import openai
 from openai import OpenAI, OpenAIError
+
+# ---------------------------------------------------------------------------
+# OpenAI model name used throughout the pipeline. By centralising this in a
+# single constant, we avoid having to touch every call site when switching
+# models in the future.
+# ---------------------------------------------------------------------------
+
+DEFAULT_LLM_MODEL = os.getenv("FORESIGHT_LLM_MODEL", "o3")
 from git import Repo
 import glob
 import re
@@ -228,7 +237,7 @@ def summarise():
     try:
         client = OpenAI()
         resp = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model=DEFAULT_LLM_MODEL,
             messages=[{"role": "user", "content": prompt}],
             max_tokens=300,
         )
@@ -265,7 +274,7 @@ def predict():
     try:
         client = OpenAI()
         resp = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model=DEFAULT_LLM_MODEL,
             messages=[{"role": "user", "content": prompt}],
             max_tokens=300,
         )
@@ -388,7 +397,7 @@ def comment(date):
     try:
         client = OpenAI()
         resp = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model=DEFAULT_LLM_MODEL,
             messages=[{"role": "user", "content": prompt}],
             max_tokens=200,
         )
@@ -440,13 +449,52 @@ def discover(since_days):
     if not candidates:
         click.echo("No new candidate sources found.")
         return
+
+    # Use an LLM to vet the candidates
+    key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
+    if not key:
+        click.echo("OPENAI_API_KEY is not set; skipping discover.")
+        return
+    openai.api_key = key
+
+    prompt = (
+        "You are an expert analyst for Foresight Forge, a project that forecasts financial, economic, "
+        "scientific, and geopolitical trends. Your task is to review the following list of potential "
+        "new RSS feed domains and select ONLY the ones that are highly relevant and likely to provide "
+        "high-quality, signal-rich information. Be very selective. "
+        "Format your response as a simple list of approved domains, one per line, like '- example.com/rss'. "
+        "Do not include justifications or any other text.\n\n"
+        "Candidate Domains:\n" + "\n".join(sorted(list(candidates)))
+    )
+
+    try:
+        client = OpenAI()
+        resp = client.chat.completions.create(
+            model=DEFAULT_LLM_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=500,
+        )
+        approved_text = resp.choices[0].message.content.strip()
+        # Parse the response to get the final list of URLs
+        approved_urls = [line.lstrip('- ').strip() for line in approved_text.split('\n') if line.strip()]
+
+    except Exception as e:
+        click.echo(f"Error during discover's AI vetting: {e}")
+        # Fallback to the old behavior in case of an error
+        approved_urls = [f"https://{dom}/rss" for dom in sorted(candidates)]
+
+
+    if not approved_urls:
+        click.echo("AI vetting resulted in no new approved sources.")
+        return
+
     os.makedirs('discover', exist_ok=True)
     out_file = f"discover/{today.isoformat()}-candidates.md"
     with open(out_file, 'w') as f:
-        f.write("# Candidate sources\n")
-        for dom in sorted(candidates):
-            f.write(f"- https://{dom}/rss\n")
-    click.echo(f"Wrote {len(candidates)} candidates to {out_file}")
+        f.write("# Candidate sources (AI-vetted)\n")
+        for url in approved_urls:
+            f.write(f"- {url}\n")
+    click.echo(f"Wrote {len(approved_urls)} AI-vetted candidates to {out_file}")
 
 
 @cli.command()
@@ -592,8 +640,17 @@ def dashboard():
         nl_link = f"<a href='newsletters/{os.path.basename(nl_path)}'>newsletter</a>"
         sections.append(f"<h2>{date} — {n_items} items — {nl_link}</h2>\n{preds_html}")
 
-    html = (        body_content = "<hr>\n".join(sections)
-    html = f"""<!DOCTYPE html>\n<html>\n<head><meta charset='utf-8'><title>Foresight Forge - Prediction Log</title></head>\n<body>\n<h1>Foresight Forge - Prediction Log</h1>\n{body_content}\n</body>\n</html>\n"""
+    body_content = "<hr>\n".join(sections)
+    html = (
+        "<!DOCTYPE html>\n"
+        "<html>\n"
+        "<head><meta charset='utf-8'><title>Foresight Forge - Prediction Log</title></head>\n"
+        "<body>\n"
+        "<h1>Foresight Forge - Prediction Log</h1>\n"
+        f"{body_content}\n"
+        "</body>\n"
+        "</html>\n"
+    )
 
     os.makedirs('docs', exist_ok=True)
     out = 'docs/index.html'
