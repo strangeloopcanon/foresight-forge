@@ -45,7 +45,7 @@ def cli():
 def _should_run_digest():
     """
     Return True if the daily digest should run (not run yet today), False otherwise.
-    Also updates the scheduler state (brain_state.json) on a run.
+    Does NOT update the scheduler state - that should be done after successful completion.
     """
     state_file = "brain_state.json"
     today = datetime.date.today().isoformat()
@@ -71,16 +71,24 @@ def _should_run_digest():
 
     # Basic scheduling: run if not already run today
     run = (last != today)
-    if run:
-        state["last_run"] = today
-        with open(state_file, "w") as f:
-            json.dump(state, f)
 
     # Placeholder for future source-discovery or topic-trigger logic (step 3)
     # # if new_topic_spike:
     # #     run = True
 
     return run
+
+def _mark_run_completed():
+    """Mark today's run as completed in the brain state."""
+    state_file = "brain_state.json"
+    today = datetime.date.today().isoformat()
+    if os.path.exists(state_file):
+        state = json.load(open(state_file))
+    else:
+        state = {}
+    state["last_run"] = today
+    with open(state_file, "w") as f:
+        json.dump(state, f)
 
 def _brain_decision():
     """
@@ -153,7 +161,13 @@ def run_scheduled():
 
     if decision.get('run'):
         click.echo("Running scheduled daily pipeline")
-        run_daily.callback()
+        try:
+            run_daily.callback()
+            _mark_run_completed()
+            click.echo("Daily pipeline completed successfully")
+        except Exception as e:
+            click.echo(f"Daily pipeline failed: {e}")
+            # Don't mark as completed if it failed
     else:
         click.echo("Skipping scheduled daily pipeline; already ran today")
 
