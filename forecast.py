@@ -21,7 +21,7 @@ from openai import OpenAI, OpenAIError
 # models in the future.
 # ---------------------------------------------------------------------------
 
-DEFAULT_LLM_MODEL = os.getenv("FORESIGHT_LLM_MODEL", "o3")
+DEFAULT_LLM_MODEL = os.getenv("FORESIGHT_LLM_MODEL", "gpt-3.5-turbo")
 from git import Repo
 import glob
 import re
@@ -244,6 +244,8 @@ def summarise():
         click.echo("No raw data found for today; skipping summarise.")
         return
     items = json.load(open(infile))
+    # Limit to first 100 items to avoid context length issues
+    items = items[:100]
     text = "\n".join(f"- {i['title']} ({i['link']})" for i in items)
     prompt = (
         "Condense the following items into concise bullet points capturing only the most important "
