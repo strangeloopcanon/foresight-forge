@@ -259,7 +259,7 @@ def summarise():
         resp = client.chat.completions.create(
             model=DEFAULT_LLM_MODEL,
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=300,
+            max_completion_tokens=300,
         )
         summary = resp.choices[0].message.content.strip()
     except Exception as e:
@@ -296,7 +296,7 @@ def predict():
         resp = client.chat.completions.create(
             model=DEFAULT_LLM_MODEL,
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=300,
+            max_completion_tokens=300,
         )
         preds = resp.choices[0].message.content.strip()
     except Exception as e:
@@ -419,7 +419,7 @@ def comment(date):
         resp = client.chat.completions.create(
             model=DEFAULT_LLM_MODEL,
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=200,
+            max_completion_tokens=200,
         )
         reply = resp.choices[0].message.content.strip()
     except Exception as e:
@@ -492,7 +492,7 @@ def discover(since_days):
         resp = client.chat.completions.create(
             model=DEFAULT_LLM_MODEL,
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=500,
+            max_completion_tokens=500,
         )
         approved_text = resp.choices[0].message.content.strip()
         # Parse the response to get the final list of URLs
