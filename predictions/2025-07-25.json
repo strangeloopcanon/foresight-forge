@@ -1,0 +1,30 @@
+{
+  "date": "2025-07-25",
+  "predictions": [
+    {
+      "text": "Food brands will struggle to maintain their appeal on Wall Street as consumer demand drops by 70%.",
+      "confidence": 70,
+      "outcome": null
+    },
+    {
+      "text": "PayPal stock will continue its winning streak with a 80% confidence level, while AutoNation will continue to beat sales estimates at 75% confidence.",
+      "confidence": 80,
+      "outcome": null
+    },
+    {
+      "text": "The acquisition of Paramount by Skydance will raise doubts about business improvement, with a 60% confidence level.",
+      "confidence": 60,
+      "outcome": null
+    },
+    {
+      "text": "The tension between Trump and Powell will lead to increased market volatility with a 90% confidence level.",
+      "confidence": 90,
+      "outcome": null
+    },
+    {
+      "text": "The US rare raid in Syria will have a significant impact on the stock market with a 75% confidence level.",
+      "confidence": 75,
+      "outcome": null
+    }
+  ]
+}

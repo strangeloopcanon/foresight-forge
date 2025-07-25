@@ -78,6 +78,107 @@ def _should_run_digest():
 
     return run
 
+def _brain_vet_candidates(candidates, existing_sources):
+    """Use LLM to vet candidate sources and return only high-quality ones."""
+    key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
+    if not key:
+        return []
+    
+    openai.api_key = key
+    
+    prompt = (
+        "You are an expert analyst for Foresight Forge, a project that forecasts financial, economic, "
+        "scientific, and geopolitical trends. Your task is to review the following list of potential "
+        "new RSS feed domains and select ONLY the ones that are HIGHLY USEFUL AND INTERESTING for forecasting. "
+        "Be EXTREMELY selective - only approve domains that are:\n"
+        "1. Major established news outlets with high editorial standards\n"
+        "2. Respected financial/economics publications\n"
+        "3. Well-known scientific journals or research institutions\n"
+        "4. High-quality blogs by recognized experts in relevant fields\n"
+        "5. Government or international organization sources\n\n"
+        "Reject personal blogs, small websites, or any domains that don't clearly meet these standards. "
+        "Look for sources that provide unique insights, data, or analysis that would be valuable for forecasting.\n\n"
+        "Format your response as a simple list of approved domains, one per line, like '- example.com/rss'. "
+        "Do not include justifications or any other text. If no domains meet the high standards, respond with 'NONE'.\n\n"
+        "Candidate Domains:\n" + "\n".join(sorted(candidates))
+    )
+    
+    try:
+        client = OpenAI()
+        resp = client.chat.completions.create(
+            model=DEFAULT_LLM_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            max_completion_tokens=500,
+        )
+        approved_text = resp.choices[0].message.content.strip()
+        
+        if approved_text.upper() == 'NONE':
+            return []
+        
+        # Parse the response to get the final list of URLs
+        approved_urls = [line.lstrip('- ').strip() for line in approved_text.split('\n') if line.strip()]
+        return [u for u in approved_urls if u not in existing_sources]
+        
+    except Exception as e:
+        click.echo(f"Error during brain vetting: {e}")
+        return []
+
+def _brain_source_review(sources):
+    """Use LLM to periodically review and optimize the source list."""
+    key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
+    if not key:
+        return [], []
+    
+    openai.api_key = key
+    
+    prompt = (
+        "You are an expert analyst for Foresight Forge, a project that forecasts financial, economic, "
+        "scientific, and geopolitical trends. Review the current RSS sources and suggest improvements:\n\n"
+        "Current Sources:\n" + "\n".join(f"- {s}" for s in sources) + "\n\n"
+        "Tasks:\n"
+        "1. Identify sources that should be REMOVED (broken, low-quality, redundant, or no longer relevant)\n"
+        "2. Suggest NEW sources that would be valuable additions (major outlets, respected publications, expert blogs)\n\n"
+        "Format your response as:\n"
+        "REMOVE:\n- source1.com/rss\n- source2.com/rss\n\n"
+        "ADD:\n- newsource1.com/rss\n- newsource2.com/rss\n\n"
+        "Be very selective. Only suggest removing sources that are clearly problematic, and only suggest adding sources that are clearly high-quality and relevant."
+    )
+    
+    try:
+        client = OpenAI()
+        resp = client.chat.completions.create(
+            model=DEFAULT_LLM_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            max_completion_tokens=800,
+        )
+        review_text = resp.choices[0].message.content.strip()
+        
+        # Parse the response
+        to_remove = []
+        to_add = []
+        
+        lines = review_text.split('\n')
+        current_section = None
+        
+        for line in lines:
+            line = line.strip()
+            if line.upper() == 'REMOVE:':
+                current_section = 'remove'
+            elif line.upper() == 'ADD:':
+                current_section = 'add'
+            elif line.startswith('-') and current_section:
+                url = line.lstrip('- ').strip()
+                if current_section == 'remove' and url in sources:
+                    to_remove.append(url)
+                elif current_section == 'add' and url not in sources:
+                    to_add.append(url)
+        
+        return to_add, to_remove
+        
+    except Exception as e:
+        click.echo(f"Error during brain source review: {e}")
+        return [], []
+
 def _mark_run_completed():
     """Mark today's run as completed in the brain state."""
     state_file = "brain_state.json"
@@ -98,17 +199,43 @@ def _brain_decision():
     run = _should_run_digest()
     # load current sources list
     sources = load_sources()
-    # gather latest candidate sources from discover/ folder
-    candidates = []
-    files = sorted(glob.glob('discover/*-candidates.md'))
-    if files:
-        latest = files[-1]
-        for line in open(latest):
-            if line.startswith('-'):
-                candidates.append(line.lstrip('- ').strip())
+    
+    # Brain-powered source review: periodically evaluate and update sources
+    today = datetime.date.today().isoformat()
+    last_review_file = "brain_source_review.json"
+    
+    # Check if we should do a source review (every 7 days)
+    should_review = False
+    if os.path.exists(last_review_file):
+        review_state = json.load(open(last_review_file))
+        last_review = review_state.get("last_review")
+        if last_review:
+            days_since = (datetime.date.today() - datetime.date.fromisoformat(last_review)).days
+            should_review = days_since >= 7
+    else:
+        should_review = True
+    
+    if should_review:
+        click.echo("Brain conducting periodic source review...")
+        to_add, to_remove = _brain_source_review(sources)
+        # Update review timestamp
+        with open(last_review_file, "w") as f:
+            json.dump({"last_review": today}, f)
+    else:
+        # gather latest candidate sources from discover/ folder
+        candidates = []
+        files = sorted(glob.glob('discover/*-candidates.md'))
+        if files:
+            latest = files[-1]
+            for line in open(latest):
+                if line.startswith('-'):
+                    candidates.append(line.lstrip('- ').strip())
 
-    # stub: for now propose adding all candidates, no removals, no prompt tuning
-    to_add = [u for u in candidates if u not in sources]
+        # Only add high-quality candidates that pass brain review
+        to_add = []
+        if candidates:
+            to_add = _brain_vet_candidates(candidates, sources)
+        to_remove = []
 
     # ------------- Parse user comments for explicit source suggestions ---------
     today = datetime.date.today().isoformat()
@@ -171,10 +298,14 @@ def run_scheduled():
     else:
         click.echo("Skipping scheduled daily pipeline; already ran today")
 
-    # If the brain proposed new sources, log them but don't auto-add (manual review required)
-    if decision.get('add_sources'):
-        click.echo(f"Brain proposed {len(decision['add_sources'])} new source(s); manual review required before adding.")
-        click.echo("To add sources manually, run: python forecast.py self-update")
+    # If the brain proposed new sources or removals, apply them automatically
+    if decision.get('add_sources') or decision.get('remove_sources'):
+        click.echo(f"Brain proposed {len(decision.get('add_sources', []))} new source(s) and {len(decision.get('remove_sources', []))} removal(s).")
+        try:
+            ctx = click.get_current_context()
+            ctx.invoke(self_update, pr=False)  # Direct merge, no PR
+        except Exception as e:
+            click.echo(f"Failed to apply brain's source changes: {e}")
 # Register ingest as a Click sub-command so that run_daily can reliably invoke
 # it via `ingest.callback()` (the underlying function reference Click attaches).
 # This was previously missing, causing AttributeError during the daily pipeline.
@@ -478,10 +609,15 @@ def discover(since_days):
     prompt = (
         "You are an expert analyst for Foresight Forge, a project that forecasts financial, economic, "
         "scientific, and geopolitical trends. Your task is to review the following list of potential "
-        "new RSS feed domains and select ONLY the ones that are highly relevant and likely to provide "
-        "high-quality, signal-rich information. Be EXTREMELY selective - only approve domains that are "
-        "major established news outlets, respected financial publications, or well-known scientific journals. "
-        "Reject personal blogs, small websites, or any domains that don't clearly meet high editorial standards. "
+        "new RSS feed domains and select ONLY the ones that are HIGHLY USEFUL AND INTERESTING for forecasting. "
+        "Be EXTREMELY selective - only approve domains that are:\n"
+        "1. Major established news outlets with high editorial standards\n"
+        "2. Respected financial/economics publications\n"
+        "3. Well-known scientific journals or research institutions\n"
+        "4. High-quality blogs by recognized experts in relevant fields\n"
+        "5. Government or international organization sources\n\n"
+        "Reject personal blogs, small websites, or any domains that don't clearly meet these standards. "
+        "Look for sources that provide unique insights, data, or analysis that would be valuable for forecasting.\n\n"
         "Format your response as a simple list of approved domains, one per line, like '- example.com/rss'. "
         "Do not include justifications or any other text. If no domains meet the high standards, respond with 'NONE'.\n\n"
         "Candidate Domains:\n" + "\n".join(sorted(list(candidates)))
@@ -520,24 +656,31 @@ def discover(since_days):
 @cli.command()
 @click.option('--pr', is_flag=True, help='Create a pull request instead of merging to main.')
 def self_update(pr):
-    """Merge candidates from discover/ into sources.yaml and optionally open a PR."""
-    # load candidates from latest file
-    files = sorted(glob.glob('discover/*-candidates.md'))
-    if not files:
-        click.echo('No candidate file found; run discover first.')
-        sys.exit(1)
-    latest = files[-1]
-    lines = [l.strip() for l in open(latest) if l.startswith('-')]
-    new_urls = [l.lstrip('- ').strip() for l in lines]
-    if not new_urls:
-        click.echo('No URLs in candidate file to add.')
+    """Apply brain's source decisions (additions/removals) to sources.yaml."""
+    # Get brain's decisions
+    decision = _brain_decision()
+    to_add = decision.get('add_sources', [])
+    to_remove = decision.get('remove_sources', [])
+    
+    if not to_add and not to_remove:
+        click.echo('No source changes proposed by brain.')
         return
+    
     sources = load_sources()
-    to_add = [u for u in new_urls if u not in sources]
-    if not to_add:
-        click.echo('No new URLs to merge into sources.yaml.')
+    
+    # Apply removals first
+    if to_remove:
+        sources = [s for s in sources if s not in to_remove]
+        click.echo(f'Removed {len(to_remove)} sources: {", ".join(to_remove)}')
+    
+    # Apply additions
+    if to_add:
+        sources.extend(to_add)
+        click.echo(f'Added {len(to_add)} sources: {", ".join(to_add)}')
+    
+    if not to_add and not to_remove:
+        click.echo('No changes to apply.')
         return
-    sources.extend(to_add)
     with open('sources.yaml', 'w') as f:
         yaml.safe_dump(sources, f, sort_keys=False)
     repo = Repo(os.getcwd(), search_parent_directories=True)
