@@ -171,14 +171,10 @@ def run_scheduled():
     else:
         click.echo("Skipping scheduled daily pipeline; already ran today")
 
-    # If the brain proposed new sources, open a PR automatically (non-blocking)
+    # If the brain proposed new sources, log them but don't auto-add (manual review required)
     if decision.get('add_sources'):
-        click.echo(f"Brain proposed {len(decision['add_sources'])} new source(s); opening PR…")
-        try:
-            ctx = click.get_current_context()
-            ctx.invoke(self_update, pr=True)
-        except Exception as e:
-            click.echo(f"Failed to create self-update PR: {e}")
+        click.echo(f"Brain proposed {len(decision['add_sources'])} new source(s); manual review required before adding.")
+        click.echo("To add sources manually, run: python forecast.py self-update")
 # Register ingest as a Click sub-command so that run_daily can reliably invoke
 # it via `ingest.callback()` (the underlying function reference Click attaches).
 # This was previously missing, causing AttributeError during the daily pipeline.
@@ -483,9 +479,11 @@ def discover(since_days):
         "You are an expert analyst for Foresight Forge, a project that forecasts financial, economic, "
         "scientific, and geopolitical trends. Your task is to review the following list of potential "
         "new RSS feed domains and select ONLY the ones that are highly relevant and likely to provide "
-        "high-quality, signal-rich information. Be very selective. "
+        "high-quality, signal-rich information. Be EXTREMELY selective - only approve domains that are "
+        "major established news outlets, respected financial publications, or well-known scientific journals. "
+        "Reject personal blogs, small websites, or any domains that don't clearly meet high editorial standards. "
         "Format your response as a simple list of approved domains, one per line, like '- example.com/rss'. "
-        "Do not include justifications or any other text.\n\n"
+        "Do not include justifications or any other text. If no domains meet the high standards, respond with 'NONE'.\n\n"
         "Candidate Domains:\n" + "\n".join(sorted(list(candidates)))
     )
 
