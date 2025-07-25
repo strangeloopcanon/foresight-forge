@@ -194,13 +194,19 @@ def ingest():
     new_items = []
     for url in load_sources():
         try:
-            # Some sites block default Python user agents; provide a browser-like header.
-            feed = feedparser.parse(
-                url,
-                request_headers={
-                    "User-Agent": "Mozilla/5.0 (compatible; ForesightForgeBot/1.0; +https://example.com)"
-                },
-            )
+            # Use requests with timeout to prevent hanging on slow feeds
+            import requests
+            from io import BytesIO
+            
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (compatible; ForesightForgeBot/1.0; +https://example.com)'
+            }
+            
+            response = requests.get(url, headers=headers, timeout=30)
+            response.raise_for_status()
+            
+            # Parse the RSS content
+            feed = feedparser.parse(BytesIO(response.content))
         except Exception as e:
             # Log and continue so a single failing feed does not abort the entire pipeline.
             click.echo(f"⚠️  Failed to fetch {url}: {e}")
