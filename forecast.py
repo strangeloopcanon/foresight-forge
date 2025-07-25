@@ -561,11 +561,116 @@ def comment(date):
 
 
 @cli.command()
+def review():
+    """Review previous predictions against current news and provide insights."""
+    # Find the most recent prediction file
+    pred_files = sorted(glob.glob('predictions/*.json'))
+    if not pred_files:
+        click.echo("No prediction files found; skipping review.")
+        return
+    
+    # Get yesterday's predictions
+    yesterday = (datetime.date.today() - datetime.timedelta(days=1)).isoformat()
+    yesterday_pred_file = f'predictions/{yesterday}.json'
+    
+    if not os.path.exists(yesterday_pred_file):
+        click.echo(f"No predictions found for {yesterday}; skipping review.")
+        return
+    
+    # Load yesterday's predictions
+    with open(yesterday_pred_file, 'r') as f:
+        pred_data = json.load(f)
+    
+    predictions = pred_data.get('predictions', [])
+    if not predictions:
+        click.echo("No predictions found in yesterday's file.")
+        return
+    
+    # Get today's news for context
+    today = datetime.date.today().isoformat()
+    today_raw_file = f'raw/{today}.json'
+    
+    if not os.path.exists(today_raw_file):
+        click.echo(f"No raw data found for {today}; will review without current context.")
+        today_news = []
+    else:
+        with open(today_raw_file, 'r') as f:
+            today_news = json.load(f)
+    
+    # Build review prompt
+    pred_text = "\n".join([
+        f"- {p['text']} (Confidence: {p.get('confidence', 'N/A')}%)"
+        for p in predictions
+    ])
+    
+    news_text = "\n".join([
+        f"- {item['title']} ({item['link']})"
+        for item in today_news[:50]  # Limit to first 50 items
+    ])
+    
+    prompt = (
+        "You are an expert forecasting analyst reviewing yesterday's predictions against today's news.\n\n"
+        f"YESTERDAY'S PREDICTIONS:\n{pred_text}\n\n"
+        f"TODAY'S NEWS CONTEXT:\n{news_text}\n\n"
+        "Please provide a brief analysis (2-3 paragraphs) covering:\n"
+        "1. Which predictions seem to be playing out or gaining evidence\n"
+        "2. Which predictions appear to be off-track or missing key factors\n"
+        "3. Overall assessment of prediction quality and confidence calibration\n"
+        "4. Any patterns or insights that could improve future predictions\n\n"
+        "Be constructive and specific. Focus on learning opportunities."
+    )
+    
+    # Get LLM review
+    key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
+    if not key:
+        click.echo("OPENAI_API_KEY is not set; skipping review.")
+        return
+    
+    openai.api_key = key
+    
+    try:
+        client = OpenAI()
+        resp = client.chat.completions.create(
+            model=DEFAULT_LLM_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            max_completion_tokens=600,
+        )
+        review_text = resp.choices[0].message.content.strip()
+        
+        # Save the review
+        os.makedirs('reviews', exist_ok=True)
+        review_file = f'reviews/{yesterday}-review.md'
+        with open(review_file, 'w') as f:
+            f.write(f"# Prediction Review: {yesterday}\n\n")
+            f.write(f"## Predictions Reviewed\n\n")
+            f.write(pred_text + "\n\n")
+            f.write(f"## Analysis\n\n")
+            f.write(review_text + "\n\n")
+            f.write(f"## News Context\n\n")
+            f.write(f"Based on {len(today_news)} news items from {today}\n")
+        
+        click.echo(f"Wrote prediction review to {review_file}")
+        
+        # Also append to a running log
+        log_file = 'reviews/prediction-review-log.md'
+        with open(log_file, 'a') as f:
+            f.write(f"\n## {yesterday}\n\n")
+            f.write(review_text + "\n\n")
+            f.write("---\n\n")
+        
+        click.echo(f"Updated review log at {log_file}")
+        
+    except Exception as e:
+        click.echo(f"Error during prediction review: {e}")
+
+
+@cli.command()
 def run_daily():
-    """Run the full daily pipeline (ingest → summarise → predict → record)."""
+    """Run the full daily pipeline (ingest → summarise → predict → review → record)."""
     ingest.callback()
     summarise.callback()
     predict.callback()
+    review.callback()  # Review yesterday's predictions
     dashboard.callback()
     record.callback()
 
