@@ -683,47 +683,16 @@ def self_update(pr):
         return
     with open('sources.yaml', 'w') as f:
         yaml.safe_dump(sources, f, sort_keys=False)
-    repo = Repo(os.getcwd(), search_parent_directories=True)
-    date = datetime.date.today().isoformat()
-    branch = f'auto/update-sources-{date}'
-    # create or reuse branch for source updates
-    existing_branches = [b.name for b in repo.branches]
-    if branch in existing_branches:
-        repo.git.checkout(branch)
-    else:
-        repo.git.checkout('-b', branch)
-    repo.git.add('sources.yaml')
-    repo.index.commit(f'Auto-update sources: {date}')
-    repo.git.push('--set-upstream', 'origin', branch)
-    click.echo(f'Merged {len(to_add)} new sources into sources.yaml on branch {branch}')
-    if pr:
-        # create GitHub pull request
-        url = repo.remotes.origin.url
-        m = re.search(r'github\.com[:/](.+)/(.+)(?:\.git)?$', url)
-        if not m:
-            click.echo('Cannot parse GitHub repo URL; PR not created.')
-            return
-        owner, name = m.group(1), m.group(2)
-        body = {
-            'title': f'Auto-update sources list ({date})',
-            'head': branch,
-            'base': 'main',
-            'body': f'Merging {len(to_add)} new candidate sources from {latest}.',
-        }
-        token = os.getenv('GITHUB_TOKEN')
-        if not token:
-            click.echo('GITHUB_TOKEN not set; cannot create PR.')
-            return
-        resp = requests.post(
-            f'https://api.github.com/repos/{owner}/{name}/pulls',
-            json=body,
-            headers={'Authorization': f'token {token}'},
-        )
-        if resp.status_code == 201:
-            pr_url = resp.json().get('html_url')
-            click.echo(f'Pull request created: {pr_url}')
-        else:
-            click.echo(f'Failed to create PR: {resp.status_code} {resp.text}')
+    
+    # Commit changes directly to main
+    try:
+        repo = Repo(os.getcwd(), search_parent_directories=True)
+        repo.git.add('sources.yaml')
+        date = datetime.date.today().isoformat()
+        repo.index.commit(f'Brain auto-update sources: {date}')
+        click.echo(f'Applied brain\'s source changes: {len(to_add)} added, {len(to_remove)} removed')
+    except Exception as e:
+        click.echo(f'Applied changes to sources.yaml but git commit failed: {e}')
 
 
 @cli.command()
