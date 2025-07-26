@@ -1,0 +1,30 @@
+{
+  "date": "2025-07-26",
+  "predictions": [
+    {
+      "text": "The S&P 500 will hit another record high after the upcoming trade meeting, with a confidence of 75%.",
+      "confidence": 75,
+      "outcome": null
+    },
+    {
+      "text": "Tesla's 'friends and family' car service in California will see a 50% increase in usage within the first month of its launch.",
+      "confidence": 50,
+      "outcome": null
+    },
+    {
+      "text": "India banning lesser-known streaming apps will lead to a 60% decrease in overall viewership in the country.",
+      "confidence": 60,
+      "outcome": null
+    },
+    {
+      "text": "The release of $5.5 billion for schools by the White House will result in a 90% increase in educational resources and infrastructure improvements.",
+      "confidence": 90,
+      "outcome": null
+    },
+    {
+      "text": "Concerns over Trump pardoning Ghislaine Maxwell will cause a 70% decrease in public approval ratings for the President.",
+      "confidence": 70,
+      "outcome": null
+    }
+  ]
+}
