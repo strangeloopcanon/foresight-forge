@@ -1,0 +1,30 @@
+{
+  "date": "2025-07-27",
+  "predictions": [
+    {
+      "text": "The market index will experience a 10% correction within the next six months due to geopolitical tensions arising from corruption cases in Russia and EU aid cuts to Ukraine. - 70% confidence",
+      "confidence": 10,
+      "outcome": null
+    },
+    {
+      "text": "The retirement investment in the S&P 500 will underperform compared to a diversified portfolio of international stocks over the next year. - 80% confidence",
+      "confidence": 80,
+      "outcome": null
+    },
+    {
+      "text": "Houston's Astrodome will be repurposed for commercial use within the next five years as it fails to attract public interest in its current state. - 60% confidence",
+      "confidence": 60,
+      "outcome": null
+    },
+    {
+      "text": "Parents will increase contributions to college savings plans by 15% in the next two years due to rising concerns about the affordability of higher education. - 75% confidence",
+      "confidence": 15,
+      "outcome": null
+    },
+    {
+      "text": "The market value of cheese products will experience a temporary surge following the passing of James Leprino, as investors speculate on potential shifts in the industry. - 90% confidence",
+      "confidence": 90,
+      "outcome": null
+    }
+  ]
+}
