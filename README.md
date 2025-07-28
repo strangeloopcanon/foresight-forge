@@ -76,6 +76,13 @@ python forecast.py mark-outcome --prediction-index 1 --outcome incorrect
 ```bash
 python forecast.py review  # Reviews yesterday's predictions against today's news
 ```
+
+**Source Management:**
+```bash
+python forecast.py cleanup-sources  # Manually trigger source cleanup
+python forecast.py discover         # Find new candidate sources
+python forecast.py self-update      # Apply source changes
+```
 ## Brain scheduler
 
 You can use a lightweight scheduler to decide whether to run the daily pipeline. The command below

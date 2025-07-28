@@ -138,6 +138,19 @@ def _brain_source_review(sources):
         "Tasks:\n"
         "1. Identify sources that should be REMOVED (broken, low-quality, redundant, or no longer relevant)\n"
         "2. Suggest NEW sources that would be valuable additions (major outlets, respected publications, expert blogs)\n\n"
+        "Be AGGRESSIVE about cleaning up. Remove sources that are:\n"
+        "- Personal blogs or low-quality websites\n"
+        "- Duplicate or redundant sources\n"
+        "- Sources that haven't provided valuable insights\n"
+        "- Broken or non-functional feeds\n"
+        "- Sources that are too niche or irrelevant to forecasting\n"
+        "- Sources that primarily produce clickbait or low-quality content\n\n"
+        "Only keep sources that are:\n"
+        "- Major established news outlets with high editorial standards\n"
+        "- Respected financial/economics publications\n"
+        "- Well-known scientific journals or research institutions\n"
+        "- High-quality blogs by recognized experts in relevant fields\n"
+        "- Government or international organization sources\n\n"
         "Format your response as:\n"
         "REMOVE:\n- source1.com/rss\n- source2.com/rss\n\n"
         "ADD:\n- newsource1.com/rss\n- newsource2.com/rss\n\n"
@@ -162,15 +175,15 @@ def _brain_source_review(sources):
         
         for line in lines:
             line = line.strip()
-            if line.upper() == 'REMOVE:':
-                current_section = 'remove'
-            elif line.upper() == 'ADD:':
-                current_section = 'add'
-            elif line.startswith('-') and current_section:
-                url = line.lstrip('- ').strip()
-                if current_section == 'remove' and url in sources:
+            if line == "REMOVE:":
+                current_section = "remove"
+            elif line == "ADD:":
+                current_section = "add"
+            elif line.startswith('- ') and current_section:
+                url = line[2:].strip()
+                if current_section == "remove":
                     to_remove.append(url)
-                elif current_section == 'add' and url not in sources:
+                elif current_section == "add":
                     to_add.append(url)
         
         return to_add, to_remove
@@ -204,7 +217,7 @@ def _brain_decision():
     today = datetime.date.today().isoformat()
     last_review_file = "brain_source_review.json"
     
-    # Check if we should do a source review (every 7 days)
+    # Check if we should do a source review (every 7 days, but more aggressive cleanup)
     should_review = False
     if os.path.exists(last_review_file):
         review_state = json.load(open(last_review_file))
@@ -218,6 +231,18 @@ def _brain_decision():
     if should_review:
         click.echo("Brain conducting periodic source review...")
         to_add, to_remove = _brain_source_review(sources)
+        
+        # Log the cleanup actions
+        if to_remove:
+            click.echo(f"Sources to remove: {len(to_remove)}")
+            for source in to_remove:
+                click.echo(f"  - {source}")
+        
+        if to_add:
+            click.echo(f"Sources to add: {len(to_add)}")
+            for source in to_add:
+                click.echo(f"  + {source}")
+        
         # Update review timestamp
         with open(last_review_file, "w") as f:
             json.dump({"last_review": today}, f)
@@ -834,7 +859,6 @@ def mark_outcome(date, prediction_index, outcome):
 
 
 @cli.command()
-@click.option("--since-days", default=7, help="How many days of raw data to scan for candidates.")
 def discover(since_days):
     """Scan recent entries and propose new source domains into discover/ folder."""
     today = datetime.date.today()
@@ -1052,6 +1076,44 @@ def dashboard():
     with open(out, 'w') as f:
         f.write(html)
     click.echo(f'Wrote dashboard to {out}')
+
+
+@cli.command()
+def cleanup_sources():
+    """Manually trigger source cleanup and optimization."""
+    sources = load_sources()
+    click.echo(f"Current sources: {len(sources)}")
+    
+    to_add, to_remove = _brain_source_review(sources)
+    
+    if to_remove:
+        click.echo(f"\nSources to remove ({len(to_remove)}):")
+        for source in to_remove:
+            click.echo(f"  - {source}")
+    else:
+        click.echo("\nNo sources to remove.")
+    
+    if to_add:
+        click.echo(f"\nSources to add ({len(to_add)}):")
+        for source in to_add:
+            click.echo(f"  + {source}")
+    else:
+        click.echo("\nNo sources to add.")
+    
+    # Apply changes if any
+    if to_remove or to_add:
+        click.echo("\nApplying changes...")
+        try:
+            ctx = click.get_current_context()
+            ctx.invoke(self_update, pr=False)  # Direct merge, no PR
+            click.echo("Source cleanup completed successfully!")
+        except Exception as e:
+            click.echo(f"Failed to apply source changes: {e}")
+    else:
+        click.echo("\nNo changes needed.")
+
+
+
 
 
 if __name__ == "__main__":
