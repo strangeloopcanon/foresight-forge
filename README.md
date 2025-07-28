@@ -49,7 +49,32 @@ python forecast.py predict
 python forecast.py record
 python forecast.py discover   # weekly source discovery
 python forecast.py self-update [--pr]  # merge candidates and optionally open a PR
-python forecast.py dashboard      # generate minimal HTML dashboard
+```
+
+### Enhanced Lookback Features
+
+The system now includes historical context and prediction tracking:
+
+**Historical Context in Predictions:**
+- The `predict` command now includes the last 7 days of prediction performance
+- The model can learn from its own historical accuracy and confidence calibration
+- Reviews of previous predictions are included in the context
+
+**Prediction Outcome Tracking:**
+```bash
+# Mark a prediction as correct/incorrect
+python forecast.py mark-outcome --prediction-index 0 --outcome correct
+python forecast.py mark-outcome --prediction-index 1 --outcome incorrect
+```
+
+**Prediction Updates in Newsletters:**
+- The daily newsletter now includes a "Prediction Updates" section
+- Shows which previous predictions have been marked as correct/incorrect
+- Automatically added when running `run-daily`
+
+**Review Previous Predictions:**
+```bash
+python forecast.py review  # Reviews yesterday's predictions against today's news
 ```
 ## Brain scheduler
 

@@ -403,18 +403,28 @@ def summarise():
 
 @cli.command()
 def predict():
-    """Generate predictions from today's summary."""
+    """Generate predictions from today's summary with historical context."""
     date = datetime.date.today().isoformat()
     infile = f"summaries/{date}.md"
     if not os.path.exists(infile):
         click.echo("No summary found for today; skipping predict.")
         return
     summary = open(infile).read()
+    
+    # Get historical prediction context (last 7 days)
+    historical_context = _get_prediction_history(7)
+    
     prompt = (
-        "From the summary below, generate at least FIVE clear, testable financial, market, or economic "
+        "You are an expert forecasting analyst. Below is your recent prediction performance, "
+        "followed by today's news summary. Use this historical context to improve your predictions.\n\n"
+        f"HISTORICAL PREDICTION PERFORMANCE (Last 7 days):\n{historical_context}\n\n"
+        "TODAY'S NEWS SUMMARY:\n{summary}\n\n"
+        "From the summary above, generate at least FIVE clear, testable financial, market, or economic "
         "predictions. Each prediction must include an explicit confidence percentage (e.g., 65%). "
-        "Format either as a numbered list or bullet list.\n" + summary
+        "Consider your historical performance when calibrating confidence levels. "
+        "Format either as a numbered list or bullet list.\n"
     )
+    
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
         click.echo("OPENAI_API_KEY is not set; skipping predict.")
@@ -469,6 +479,60 @@ def predict():
     click.echo(f"Wrote newsletter to {out}")
 
 
+def _get_prediction_history(days_back=7):
+    """Get historical prediction performance for context."""
+    today = datetime.date.today()
+    history = []
+    
+    for i in range(1, days_back + 1):
+        date = (today - datetime.timedelta(days=i)).isoformat()
+        pred_file = f"predictions/{date}.json"
+        review_file = f"reviews/{date}-review.md"
+        
+        if os.path.exists(pred_file):
+            with open(pred_file, 'r') as f:
+                pred_data = json.load(f)
+                predictions = pred_data.get('predictions', [])
+                
+                # Get review if available
+                review_summary = ""
+                if os.path.exists(review_file):
+                    with open(review_file, 'r') as rf:
+                        review_content = rf.read()
+                        # Extract analysis section
+                        if "## Analysis" in review_content:
+                            analysis_start = review_content.find("## Analysis") + 11
+                            analysis_end = review_content.find("##", analysis_start)
+                            if analysis_end == -1:
+                                analysis_end = len(review_content)
+                            review_summary = review_content[analysis_start:analysis_end].strip()
+                
+                history.append({
+                    'date': date,
+                    'predictions': predictions,
+                    'review': review_summary
+                })
+    
+    if not history:
+        return "No historical prediction data available."
+    
+    # Build context string
+    context_parts = []
+    for entry in history:
+        pred_text = "\n".join([
+            f"- {p['text']} (Confidence: {p.get('confidence', 'N/A')}%)"
+            for p in entry['predictions']
+        ])
+        
+        context_parts.append(f"Date: {entry['date']}")
+        context_parts.append(f"Predictions:\n{pred_text}")
+        if entry['review']:
+            context_parts.append(f"Review: {entry['review'][:200]}...")
+        context_parts.append("")
+    
+    return "\n".join(context_parts)
+
+
 @cli.command()
 def record():
     """Commit all changes for today's run to git, if in a repository."""
@@ -481,6 +545,62 @@ def record():
     date = datetime.date.today().isoformat()
     repo.index.commit(f"Daily update: {date}")
     click.echo("Recorded changes to git commit.")
+
+
+def _add_prediction_updates_to_newsletter(date):
+    """Add prediction updates section to today's newsletter."""
+    newsletter_file = f"newsletters/{date}.md"
+    if not os.path.exists(newsletter_file):
+        return
+    
+    # Get recent predictions to check for updates
+    today = datetime.date.today()
+    updates = []
+    
+    # Check last 7 days of predictions
+    for i in range(1, 8):
+        pred_date = (today - datetime.timedelta(days=i)).isoformat()
+        pred_file = f"predictions/{pred_date}.json"
+        
+        if os.path.exists(pred_file):
+            with open(pred_file, 'r') as f:
+                pred_data = json.load(f)
+                predictions = pred_data.get('predictions', [])
+                
+                # Check if any predictions have outcomes marked
+                for pred in predictions:
+                    if pred.get('outcome') is not None:
+                        updates.append({
+                            'date': pred_date,
+                            'prediction': pred['text'],
+                            'confidence': pred.get('confidence'),
+                            'outcome': pred['outcome']
+                        })
+    
+    if not updates:
+        return
+    
+    # Add updates section to newsletter
+    with open(newsletter_file, 'r') as f:
+        content = f.read()
+    
+    updates_section = "\n## Prediction Updates\n\n"
+    for update in updates:
+        status_emoji = "✅" if update['outcome'] == 'correct' else "❌" if update['outcome'] == 'incorrect' else "⏳"
+        updates_section += f"{status_emoji} **{update['date']}**: {update['prediction']} (Confidence: {update['confidence']}%)\n\n"
+    
+    # Insert before the end of the file
+    if "## Predictions" in content:
+        # Insert after predictions section
+        content = content.replace("## Predictions\n\n", "## Predictions\n\n" + updates_section)
+    else:
+        # Add at the end
+        content += updates_section
+    
+    with open(newsletter_file, 'w') as f:
+        f.write(content)
+    
+    click.echo(f"Added prediction updates to {newsletter_file}")
 
 
 @cli.command()
@@ -671,8 +791,46 @@ def run_daily():
     summarise.callback()
     predict.callback()
     review.callback()  # Review yesterday's predictions
+    
+    # Add prediction updates to newsletter
+    date = datetime.date.today().isoformat()
+    _add_prediction_updates_to_newsletter(date)
+    
     dashboard.callback()
     record.callback()
+
+
+@cli.command()
+@click.option("--date", default=None, help="Date (YYYY-MM-DD) to mark outcomes for; defaults to yesterday.")
+@click.option("--prediction-index", type=int, required=True, help="Index of prediction to mark (0-based).")
+@click.option("--outcome", type=click.Choice(['correct', 'incorrect', 'pending']), required=True, help="Outcome of the prediction.")
+def mark_outcome(date, prediction_index, outcome):
+    """Mark the outcome of a specific prediction."""
+    if date is None:
+        date = (datetime.date.today() - datetime.timedelta(days=1)).isoformat()
+    
+    pred_file = f"predictions/{date}.json"
+    if not os.path.exists(pred_file):
+        click.echo(f"No predictions found for {date}")
+        return
+    
+    with open(pred_file, 'r') as f:
+        pred_data = json.load(f)
+    
+    predictions = pred_data.get('predictions', [])
+    if prediction_index >= len(predictions):
+        click.echo(f"Prediction index {prediction_index} out of range (max: {len(predictions) - 1})")
+        return
+    
+    # Mark the outcome
+    predictions[prediction_index]['outcome'] = outcome
+    
+    # Save updated predictions
+    with open(pred_file, 'w') as f:
+        json.dump(pred_data, f, indent=2)
+    
+    prediction_text = predictions[prediction_index]['text']
+    click.echo(f"Marked prediction '{prediction_text[:50]}...' as {outcome}")
 
 
 @cli.command()
