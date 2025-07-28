@@ -1,23 +1,30 @@
-# List of RSS or HTTP source URLs to ingest (one per line).
-# High-quality sources for financial, economic, scientific, and geopolitical insights.
-
-# Major news outlets
 - https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
-
-# Financial & economics  
 - https://www.marketwatch.com/rss/topstories
 - https://feeds.a.dj.com/rss/RSSMarketsMain.xml
 - https://www.cnbc.com/id/100003114/device/rss/rss.html
-
-# Science & technology
 - https://www.sciencedaily.com/rss/top/science.xml
 - https://news.ycombinator.com/rss
 - https://spectrum.ieee.org/rss
 - https://techcrunch.com/rss
-
-# High-quality blogs and analysis
 - https://www.noahpinion.blog/feed
 - https://gwern.net/rss
 - https://paulkedrosky.com/rss
 - https://feeds.feedblitz.com/marginalrevolution
 - https://www.strangeloopcanon.com/feed
+- https://apnews.com/rss
+- https://blog.jgc.org/rss
+- https://blog.jonudell.net/rss
+- https://colab.research.google.com/rss
+- https://english.elpais.com/rss
+- https://quantamagazine.org/rss
+- https://www.bbc.com/rss
+- https://www.buzzfeednews.com/rss
+- https://www.cbc.ca/rss
+- https://www.cnbc.com/rss
+- https://www.economist.com/rss
+- https://www.nasa.gov/rss
+- https://www.npr.org/rss
+- https://www.nytimes.com/rss
+- https://www.sciencedaily.com/rss
+- https://www.sciencenews.org/rss
+- https://www.washingtonpost.com/rss
