@@ -1,0 +1,30 @@
+{
+  "date": "2025-07-29",
+  "predictions": [
+    {
+      "text": "The market index will experience a slight decline in the next month due to concerns over the ongoing conflict between Russia and Ukraine, with a confidence of 75%.",
+      "confidence": 75,
+      "outcome": null
+    },
+    {
+      "text": "Tech stocks will outperform traditional industries in the coming weeks as companies continue to innovate and introduce new technologies, with a confidence of 80%.",
+      "confidence": 80,
+      "outcome": null
+    },
+    {
+      "text": "The price of gold will see a temporary dip in the next three months as geopolitical tensions ease in key regions, with a confidence of 70%.",
+      "confidence": 70,
+      "outcome": null
+    },
+    {
+      "text": "Renewable energy stocks will receive a significant boost following the announcement of new environmental regulations by the government, with a confidence of 85%.",
+      "confidence": 85,
+      "outcome": null
+    },
+    {
+      "text": "The housing market will continue to face challenges in the next six months due to fluctuating interest rates and inflation concerns, with a confidence of 65%.",
+      "confidence": 65,
+      "outcome": null
+    }
+  ]
+}
