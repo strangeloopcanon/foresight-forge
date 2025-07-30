@@ -1,0 +1,30 @@
+{
+  "date": "2025-07-30",
+  "predictions": [
+    {
+      "text": "The market index will continue to fluctuate in the next month as uncertainty surrounding global economic recovery persists, with a confidence of 70%.",
+      "confidence": 70,
+      "outcome": null
+    },
+    {
+      "text": "Technology stocks will experience a boost in the coming weeks following positive earnings reports from major tech companies, with a confidence of 75%.",
+      "confidence": 75,
+      "outcome": null
+    },
+    {
+      "text": "The price of gold will see a gradual increase over the next three months as inflation concerns and geopolitical tensions remain prevalent, with a confidence of 80%.",
+      "confidence": 80,
+      "outcome": null
+    },
+    {
+      "text": "Renewable energy stocks will receive further attention from investors as governments worldwide announce new green energy initiatives, with a confidence of 85%.",
+      "confidence": 85,
+      "outcome": null
+    },
+    {
+      "text": "The housing market will face challenges due to rising interest rates and supply chain disruptions impacting construction, with a confidence of 65%.",
+      "confidence": 65,
+      "outcome": null
+    }
+  ]
+}
