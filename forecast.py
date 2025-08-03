@@ -859,6 +859,7 @@ def mark_outcome(date, prediction_index, outcome):
 
 
 @cli.command()
+@click.option('--since-days', type=int, default=7, help='Number of days to look back for discovery.')
 def discover(since_days):
     """Scan recent entries and propose new source domains into discover/ folder."""
     today = datetime.date.today()
