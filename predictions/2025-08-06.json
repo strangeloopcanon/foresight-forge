@@ -1,0 +1,30 @@
+{
+  "date": "2025-08-06",
+  "predictions": [
+    {
+      "text": "The price of oil will see a moderate decrease in the next month as global supply surpasses demand and geopolitical tensions ease, with a confidence of 75%.",
+      "confidence": 75,
+      "outcome": null
+    },
+    {
+      "text": "Tech stocks will experience a minor correction in the next two weeks following a period of rapid growth and investor profit-taking, with a confidence of 70%.",
+      "confidence": 70,
+      "outcome": null
+    },
+    {
+      "text": "Renewable energy stocks will continue to outperform traditional energy sectors in the next month as governments announce new green energy initiatives and funding programs, with a confidence of 80%.",
+      "confidence": 80,
+      "outcome": null
+    },
+    {
+      "text": "The housing market will face further challenges in the next three months as interest rates continue to rise and supply chain disruptions persist, with a confidence of 70%.",
+      "confidence": 70,
+      "outcome": null
+    },
+    {
+      "text": "The overall market index will exhibit increased volatility in the next three weeks as uncertainty surrounding global economic recovery and inflation concerns remain elevated, with a confidence of 75%.",
+      "confidence": 75,
+      "outcome": null
+    }
+  ]
+}
