@@ -1,0 +1,30 @@
+{
+  "date": "2025-08-08",
+  "predictions": [
+    {
+      "text": "The price of oil will see a slight increase in the next month as global demand picks up amidst easing geopolitical tensions, with a confidence of 70%.",
+      "confidence": 70,
+      "outcome": null
+    },
+    {
+      "text": "Tech stocks will face increased volatility in the next two weeks as regulatory scrutiny on big tech companies intensifies and market sentiment shifts, with a confidence of 75%.",
+      "confidence": 75,
+      "outcome": null
+    },
+    {
+      "text": "Renewable energy stocks will continue to outperform traditional energy sectors in the next month as more countries announce new green energy initiatives and commit to reducing carbon emissions, with a confidence of 80%.",
+      "confidence": 80,
+      "outcome": null
+    },
+    {
+      "text": "The housing market will encounter further challenges in the next three months as interest rates remain elevated and supply chain disruptions persist, impacting construction activity, with a confidence of 70%.",
+      "confidence": 70,
+      "outcome": null
+    },
+    {
+      "text": "The overall market index will exhibit fluctuations in the next three weeks as uncertainties surrounding global economic recovery, inflation concerns, and geopolitical tensions continue to influence investor behavior, with a confidence of 75%.",
+      "confidence": 75,
+      "outcome": null
+    }
+  ]
+}
