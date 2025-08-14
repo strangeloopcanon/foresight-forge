@@ -1,0 +1,30 @@
+{
+  "date": "2025-08-14",
+  "predictions": [
+    {
+      "text": "The price of oil will continue to experience fluctuations in the next month due to ongoing geopolitical tensions and uncertainty surrounding global demand, with a confidence of 70%.",
+      "confidence": 70,
+      "outcome": null
+    },
+    {
+      "text": "Tech stocks will face continued regulatory scrutiny in the next two weeks, leading to higher volatility in the market, with a confidence of 75%.",
+      "confidence": 75,
+      "outcome": null
+    },
+    {
+      "text": "Renewable energy stocks will maintain their outperformance over traditional energy sectors in the next month as more countries announce new green energy initiatives, with a confidence of 80%.",
+      "confidence": 80,
+      "outcome": null
+    },
+    {
+      "text": "The housing market will encounter ongoing challenges in the next three months as rising interest rates and supply chain disruptions continue to impact construction activity, with a confidence of 70%.",
+      "confidence": 70,
+      "outcome": null
+    },
+    {
+      "text": "The overall market index will exhibit fluctuations in the next three weeks as uncertainty surrounding global economic recovery and inflation concerns persist, influencing investor behavior, with a confidence of 75%.",
+      "confidence": 75,
+      "outcome": null
+    }
+  ]
+}
