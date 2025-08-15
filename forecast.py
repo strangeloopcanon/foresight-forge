@@ -6,6 +6,8 @@ import os
 import json
 import sys
 import datetime
+import uuid
+import hashlib
 
 import click
 import yaml
@@ -22,6 +24,7 @@ from openai import OpenAI, OpenAIError
 # ---------------------------------------------------------------------------
 
 DEFAULT_LLM_MODEL = os.getenv("FORESIGHT_LLM_MODEL", "gpt-5")
+DEFAULT_TEMPERATURE = float(os.getenv("FORESIGHT_LLM_TEMPERATURE", "0.2"))
 from git import Repo
 import glob
 import re
@@ -78,47 +81,94 @@ def _should_run_digest():
 
     return run
 
-def _llm_respond(prompt: str, max_tokens: int) -> str:
-    """Unified LLM call using the configured model with medium reasoning effort.
+def _llm_respond(
+    prompt,
+    max_tokens,
+    *,
+    system=None,
+    response_format=None,  # "json" for strict JSON, else None for text
+    temperature=None,
+):
+    """Unified LLM call with caching, retries, system message and JSON mode.
 
-    Tries the Responses API (preferred for reasoning models) and falls back to
-    Chat Completions for compatibility. Returns the text output.
+    - Uses Responses API with medium reasoning and optional JSON output.
+    - Falls back to Chat Completions.
+    - Caches by hash of inputs under .cache/llm/.
     """
     client = OpenAI()
-    # First try the Responses API with reasoning effort set to medium
-    try:
-        resp = client.responses.create(
-            model=DEFAULT_LLM_MODEL,
-            input=prompt,
-            max_output_tokens=max_tokens,
-            reasoning={"effort": "medium"},
-        )
-        # New SDKs provide a convenience accessor for text
-        text = getattr(resp, "output_text", None)
-        if not text:
-            # Best-effort extraction if convenience attr not present
-            try:
+    temp = DEFAULT_TEMPERATURE if temperature is None else float(temperature)
+
+    # Cache key
+    cache_dir = os.path.join('.cache', 'llm')
+    os.makedirs(cache_dir, exist_ok=True)
+    key_raw = json.dumps({
+        'model': DEFAULT_LLM_MODEL,
+        'prompt': prompt,
+        'system': system or '',
+        'max_tokens': max_tokens,
+        'response_format': response_format or 'text',
+        'temperature': temp,
+    }, sort_keys=True).encode('utf-8')
+    key = hashlib.sha256(key_raw).hexdigest()
+    cache_path = os.path.join(cache_dir, key + ('.json' if response_format == 'json' else '.txt'))
+    if os.path.exists(cache_path):
+        with open(cache_path, 'r') as f:
+            return f.read()
+
+    last_err = None
+    for attempt in range(3):
+        try:
+            # Prefer Responses API
+            kwargs = {
+                'model': DEFAULT_LLM_MODEL,
+                'max_output_tokens': max_tokens,
+                'reasoning': {"effort": "medium"},
+                'temperature': temp,
+            }
+            if system:
+                kwargs['instructions'] = system
+            if response_format == 'json':
+                kwargs['response_format'] = {"type": "json_object"}
+            kwargs['input'] = prompt
+
+            resp = client.responses.create(**kwargs)
+            text = getattr(resp, "output_text", None)
+            if not text and hasattr(resp, 'output'):  # older SDK structs
                 parts = []
                 for item in getattr(resp, "output", []) or []:
                     for c in getattr(item, "content", []) or []:
                         if getattr(c, "type", "") == "output_text":
                             parts.append(getattr(c, "text", ""))
                 text = "".join(parts).strip()
-            except Exception:
-                text = None
-        if text:
-            return text.strip()
-    except Exception:
-        # Fall through to chat completions
-        pass
-
-    # Fallback path: Chat Completions API
-    resp = client.chat.completions.create(
-        model=DEFAULT_LLM_MODEL,
-        messages=[{"role": "user", "content": prompt}],
-        max_completion_tokens=max_tokens,
-    )
-    return resp.choices[0].message.content.strip()
+            if text:
+                with open(cache_path, 'w') as f:
+                    f.write(text)
+                return text
+        except Exception as e:
+            last_err = e
+        # Fallback to Chat Completions
+        try:
+            messages = []
+            if system:
+                messages.append({"role": "system", "content": system})
+            messages.append({"role": "user", "content": prompt})
+            resp = client.chat.completions.create(
+                model=DEFAULT_LLM_MODEL,
+                messages=messages,
+                max_completion_tokens=max_tokens,
+                temperature=temp,
+            )
+            text = resp.choices[0].message.content.strip()
+            if text:
+                with open(cache_path, 'w') as f:
+                    f.write(text)
+                return text
+        except Exception as e:
+            last_err = e
+        # backoff
+        import time
+        time.sleep(1.5 * (attempt + 1))
+    raise RuntimeError(f"LLM request failed after retries: {last_err}")
 
 def _brain_vet_candidates(candidates, existing_sources):
     """Use LLM to vet candidate sources and return only high-quality ones."""
@@ -146,7 +196,10 @@ def _brain_vet_candidates(candidates, existing_sources):
     )
     
     try:
-        approved_text = _llm_respond(prompt, max_tokens=500)
+        system = (
+            "You are Foresight Forge. Output exactly as specified: a plain list of '- domain', or 'NONE'."
+        )
+        approved_text = _llm_respond(prompt, max_tokens=500, system=system)
         
         if approved_text.upper() == 'NONE':
             return []
@@ -194,7 +247,10 @@ def _brain_source_review(sources):
     )
     
     try:
-        review_text = _llm_respond(prompt, max_tokens=800)
+        system = (
+            "You are Foresight Forge. Output exactly with 'REMOVE:' and 'ADD:' sections as specified; no extra text."
+        )
+        review_text = _llm_respond(prompt, max_tokens=800, system=system)
         
         # Parse the response
         to_remove = []
@@ -419,7 +475,7 @@ def ingest():
 
 @cli.command()
 def summarise():
-    """Summarise today's raw items into bullet points."""
+    """Summarise today's raw items into bullet points and a structured JSON."""
     date = datetime.date.today().isoformat()
     infile = f"raw/{date}.json"
     if not os.path.exists(infile):
@@ -431,7 +487,22 @@ def summarise():
     text = "\n".join(f"- {i['title']} ({i['link']})" for i in items)
     prompt = (
         "Condense the following items into concise bullet points capturing only the most important "
-        "financial, economic, scientific, or geopolitical insights. Be succinct and avoid fluff:\n" + text
+        "financial, economic, scientific, or geopolitical insights. Return ONLY JSON per the schema.\n\n"
+        "Items:\n" + text + "\n\n"
+        "Schema: {\n"
+        "  \"bullets\": [\n"
+        "    {\n"
+        "      \"text\": string,\n"
+        "      \"tags\": array of strings from [\"macro\", \"markets\", \"rates\", \"energy\", \"tech\", \"geopolitics\", \"science\", \"other\"],\n"
+        "      \"link\": string (optional)\n"
+        "    }\n"
+        "  ]\n"
+        "}\n"
+        "Constraints: 8-15 bullets; each bullet max 25 words; no commentary outside JSON.\n"
+    )
+    system = (
+        "You are Foresight Forge. Output exactly one JSON object matching the schema. "
+        "Think step-by-step internally but DO NOT expose chain-of-thought; only output the final JSON."
     )
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
@@ -439,10 +510,37 @@ def summarise():
         return
     openai.api_key = key
     try:
-        summary = _llm_respond(prompt, max_tokens=300)
+        summary_json_text = _llm_respond(prompt, max_tokens=600, system=system, response_format='json')
+        data = json.loads(summary_json_text)
+        bullets = data.get('bullets', [])
+        # write structured JSON sidecar
+        os.makedirs("summaries", exist_ok=True)
+        with open(f"summaries/{date}.json", "w") as jf:
+            json.dump(data, jf, indent=2)
+        # render to markdown
+        lines = []
+        for b in bullets:
+            tags = b.get('tags') or []
+            tag_prefix = f"[{'/'.join(tags)}] " if tags else ""
+            link = b.get('link')
+            t = b.get('text', '').strip()
+            if link:
+                lines.append(f"- {tag_prefix}{t} ({link})")
+            else:
+                lines.append(f"- {tag_prefix}{t}")
+        summary = "\n".join(lines)
     except Exception as e:
-        click.echo(f"Error during summarise: {e}")
-        return
+        click.echo(f"Error during structured summarise; falling back to plain text: {e}")
+        # Fallback to a simple text summary
+        prompt_fb = (
+            "Condense the following items into concise bullet points capturing only the most important "
+            "financial, economic, scientific, or geopolitical insights. Be succinct and avoid fluff:\n" + text
+        )
+        try:
+            summary = _llm_respond(prompt_fb, max_tokens=300, system="You are Foresight Forge. Be concise and return bullets only.")
+        except Exception as e2:
+            click.echo(f"Error during summarise fallback: {e2}")
+            return
     os.makedirs("summaries", exist_ok=True)
     out = f"summaries/{date}.md"
     with open(out, "w") as f:
@@ -452,26 +550,73 @@ def summarise():
 
 @cli.command()
 def predict():
-    """Generate predictions from today's summary with historical context."""
+    """Generate structured predictions (strict JSON) with historical context."""
     date = datetime.date.today().isoformat()
     infile = f"summaries/{date}.md"
     if not os.path.exists(infile):
         click.echo("No summary found for today; skipping predict.")
         return
-    summary = open(infile).read()
-    
-    # Get historical prediction context (last 7 days)
-    historical_context = _get_prediction_history(7)
-    
+    summary_md = open(infile).read()
+    # If structured summary exists, prefer it
+    summary_json_path = f"summaries/{date}.json"
+    structured_summary = json.load(open(summary_json_path)) if os.path.exists(summary_json_path) else None
+
+    # Get historical prediction context (last 7 days), include ids for superseding
+    hist_entries = []
+    today_dt = datetime.date.today()
+    for i in range(1, 8):
+        d = (today_dt - datetime.timedelta(days=i)).isoformat()
+        pth = f"predictions/{d}.json"
+        if os.path.exists(pth):
+            try:
+                data = json.load(open(pth))
+                for p in data.get('predictions', []):
+                    hist_entries.append({
+                        'id': p.get('id'),
+                        'text': p.get('text'),
+                        'category': p.get('category'),
+                        'deadline': p.get('deadline'),
+                        'confidence_pct': p.get('confidence_pct') or p.get('confidence'),
+                    })
+            except Exception:
+                continue
+    hist_json = json.dumps(hist_entries) if hist_entries else '[]'
+
+    # Build strict JSON prompt
+    if structured_summary:
+        summary_for_model = json.dumps(structured_summary)
+        summary_prefix = "STRUCTURED_SUMMARY_JSON: "
+    else:
+        summary_for_model = summary_md
+        summary_prefix = "SUMMARY_MD: "
+
     prompt = (
-        "You are an expert forecasting analyst. Below is your recent prediction performance, "
-        "followed by today's news summary. Use this historical context to improve your predictions.\n\n"
-        f"HISTORICAL PREDICTION PERFORMANCE (Last 7 days):\n{historical_context}\n\n"
-        "TODAY'S NEWS SUMMARY:\n{summary}\n\n"
-        "From the summary above, generate at least FIVE clear, testable financial, market, or economic "
-        "predictions. Each prediction must include an explicit confidence percentage (e.g., 65%). "
-        "Consider your historical performance when calibrating confidence levels. "
-        "Format either as a numbered list or bullet list.\n"
+        "You are an expert forecasting analyst. Use recent history to avoid duplicates and calibrate confidence.\n\n"
+        f"RECENT_PREDICTIONS_JSON: {hist_json}\n\n"
+        f"{summary_prefix}{summary_for_model}\n\n"
+        "Produce ONLY a JSON object with this schema:\n"
+        "{\n"
+        "  \"predictions\": [\n"
+        "    {\n"
+        "      \"text\": string,\n"
+        "      \"category\": one of [\"macro\", \"markets\", \"rates\", \"energy\", \"tech\", \"geopolitics\", \"other\"],\n"
+        "      \"horizon_days\": integer,\n"
+        "      \"deadline\": string (YYYY-MM-DD),\n"
+        "      \"confidence_pct\": integer 0-100,\n"
+        "      \"log_odds\": number (optional),\n"
+        "      \"verification_criteria\": string,\n"
+        "      \"evidence\": array[string],\n"
+        "      \"monitoring_signals\": array[string],\n"
+        "      \"supersedes_id\": string (optional),\n"
+        "      \"rationale\": string (optional, max 50 words)\n"
+        "    }\n"
+        "  ]\n"
+        "}\n"
+        "Constraints: 5-8 items; avoid duplicates vs RECENT_PREDICTIONS_JSON; if refining an existing idea, set supersedes_id to a prior id. Use clear numerical thresholds and concrete deadlines."
+    )
+    system = (
+        "You are Foresight Forge. Output exactly one JSON object matching the schema. "
+        "Do NOT include Markdown. Think step-by-step internally but do NOT reveal your chain-of-thought."
     )
     
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
@@ -480,34 +625,40 @@ def predict():
         return
     openai.api_key = key
     try:
-        preds = _llm_respond(prompt, max_tokens=300)
+        preds_json_text = _llm_respond(prompt, max_tokens=1200, system=system, response_format='json')
     except Exception as e:
         click.echo(f"Error during predict: {e}")
         return
 
-    # --- Persist structured prediction log ---------------------------------
-    # Store the raw model output as well as a best-effort parsed structure so that
-    # future jobs (e.g. an evaluator) can score accuracy without having to
-    # re-parse the newsletters. We intentionally keep this simple JSON file next
-    # to other artefacts to avoid introducing external storage.
-
+    # Parse and persist structured prediction log
     os.makedirs("predictions", exist_ok=True)
     pred_log_path = f"predictions/{date}.json"
+    try:
+        parsed = json.loads(preds_json_text)
+        pred_entries = parsed.get('predictions', [])
+    except Exception as e:
+        click.echo(f"Failed to parse model JSON; aborting: {e}")
+        return
 
-    def _parse_predictions(text: str):  # noqa: E302
-        """Return list[{text, confidence}] parsed from the model output."""
-        lines = [l.strip() for l in text.splitlines() if l.strip()]
-        out = []
-        for ln in lines:
-            # strip leading bullets / numbering
-            ln_clean = re.sub(r"^[-*\d+.\s]+", "", ln)
-            # extract a confidence like "60%" or "60 %" (default None)
-            m = re.search(r"(\d{1,3})\s*%", ln_clean)
-            conf = int(m.group(1)) if m else None
-            out.append({"text": ln_clean, "confidence": conf, "outcome": None})
-        return out
+    # Post-process: add ids and derived fields
+    def _bin_conf(c):
+        try:
+            c = int(c)
+        except Exception:
+            return None
+        c = max(0, min(100, c))
+        low = (c // 10) * 10
+        high = low + 10
+        return f"{low}-{high}"
 
-    pred_entries = _parse_predictions(preds)
+    for p in pred_entries:
+        if not p.get('confidence_pct') and p.get('confidence') is not None:
+            p['confidence_pct'] = p.pop('confidence')
+        p['confidence_pct'] = max(0, min(100, int(p.get('confidence_pct', 0))))
+        p['id'] = p.get('id') or str(uuid.uuid4())
+        p['outcome'] = None
+        p['confidence_bin'] = _bin_conf(p['confidence_pct'])
+
     with open(pred_log_path, "w") as fp:
         json.dump({"date": date, "predictions": pred_entries}, fp, indent=2)
     click.echo(f"Wrote structured predictions to {pred_log_path}")
@@ -516,9 +667,10 @@ def predict():
     with open(out, "w") as f:
         f.write(f"# Daily Newsletter {date}\n\n")
         f.write("## Summary\n\n")
-        f.write(summary + "\n\n")
+        f.write(summary_md + "\n\n")
         f.write("## Predictions\n\n")
-        f.write(preds + "\n")
+        for p in pred_entries:
+            f.write(f"- {p.get('text')} — {p.get('confidence_pct')}% (deadline: {p.get('deadline')})\n")
     click.echo(f"Wrote newsletter to {out}")
 
 
@@ -615,9 +767,9 @@ def _add_prediction_updates_to_newsletter(date):
                     if pred.get('outcome') is not None:
                         updates.append({
                             'date': pred_date,
-                            'prediction': pred['text'],
-                            'confidence': pred.get('confidence'),
-                            'outcome': pred['outcome']
+                            'prediction': pred.get('text'),
+                            'confidence': pred.get('confidence_pct', pred.get('confidence')),
+                            'outcome': pred.get('outcome')
                         })
     
     if not updates:
@@ -754,27 +906,34 @@ def review():
         with open(today_raw_file, 'r') as f:
             today_news = json.load(f)
     
-    # Build review prompt
-    pred_text = "\n".join([
-        f"- {p['text']} (Confidence: {p.get('confidence', 'N/A')}%)"
+    # Build review prompt with strict JSON assessment + prose analysis
+    pred_for_model = [
+        {
+            'id': p.get('id'),
+            'text': p.get('text'),
+            'confidence_pct': p.get('confidence_pct', p.get('confidence')),
+            'deadline': p.get('deadline'),
+            'outcome': p.get('outcome'),
+        }
         for p in predictions
-    ])
-    
+    ]
     news_text = "\n".join([
         f"- {item['title']} ({item['link']})"
         for item in today_news[:50]  # Limit to first 50 items
     ])
-    
     prompt = (
         "You are an expert forecasting analyst reviewing yesterday's predictions against today's news.\n\n"
-        f"YESTERDAY'S PREDICTIONS:\n{pred_text}\n\n"
-        f"TODAY'S NEWS CONTEXT:\n{news_text}\n\n"
-        "Please provide a brief analysis (2-3 paragraphs) covering:\n"
-        "1. Which predictions seem to be playing out or gaining evidence\n"
-        "2. Which predictions appear to be off-track or missing key factors\n"
-        "3. Overall assessment of prediction quality and confidence calibration\n"
-        "4. Any patterns or insights that could improve future predictions\n\n"
-        "Be constructive and specific. Focus on learning opportunities."
+        f"PREDICTIONS_JSON: {json.dumps(pred_for_model)}\n\n"
+        f"TODAY_NEWS_BULLETS:\n{news_text}\n\n"
+        "Return ONLY a JSON object with: {\n"
+        "  \"assessments\": [ { \"id\": string, \"status\": one of [\"correct\", \"incorrect\", \"pending\", \"needs-clarification\"], \"status_rationale\": string } ],\n"
+        "  \"analysis\": string (2-3 paragraphs of high-level review)\n"
+        "}\n"
+        "Update statuses only when evidence is clear."
+    )
+    system = (
+        "You are Foresight Forge. Output exactly one JSON object as specified; no extra text. "
+        "Think internally but do not reveal chain-of-thought."
     )
     
     # Get LLM review
@@ -786,8 +945,23 @@ def review():
     openai.api_key = key
     
     try:
-        review_text = _llm_respond(prompt, max_tokens=600)
-        
+        result_text = _llm_respond(prompt, max_tokens=1200, system=system, response_format='json')
+        result = json.loads(result_text)
+        assessments = result.get('assessments', [])
+        review_text = result.get('analysis', '').strip()
+
+        # Build a human-readable list of predictions for the markdown
+        def _conf(p):
+            v = p.get('confidence_pct', p.get('confidence'))
+            try:
+                return int(v)
+            except Exception:
+                return 'N/A'
+        pred_text = "\n".join([
+            f"- {p.get('text')} (Confidence: {_conf(p)}%)"
+            for p in predictions
+        ])
+
         # Save the review
         os.makedirs('reviews', exist_ok=True)
         review_file = f'reviews/{yesterday}-review.md'
@@ -801,7 +975,26 @@ def review():
             f.write(f"Based on {len(today_news)} news items from {today}\n")
         
         click.echo(f"Wrote prediction review to {review_file}")
-        
+        # Save structured assessments
+        assess_file = f'reviews/{yesterday}-assess.json'
+        with open(assess_file, 'w') as af:
+            json.dump({"date": yesterday, "assessments": assessments}, af, indent=2)
+        click.echo(f"Wrote structured assessments to {assess_file}")
+
+        # Apply outcome updates where provided
+        id_to_status = {a.get('id'): a.get('status') for a in assessments if a.get('id')}
+        changed = False
+        for p in predictions:
+            pid = p.get('id')
+            if pid and pid in id_to_status and id_to_status[pid] is not None:
+                if p.get('outcome') != id_to_status[pid]:
+                    p['outcome'] = id_to_status[pid]
+                    changed = True
+        if changed:
+            with open(yesterday_pred_file, 'w') as pf:
+                pred_data['predictions'] = predictions
+                json.dump(pred_data, pf, indent=2)
+
         # Also append to a running log
         log_file = 'reviews/prediction-review-log.md'
         with open(log_file, 'a') as f:
@@ -918,7 +1111,10 @@ def discover(since_days):
     )
 
     try:
-        approved_text = _llm_respond(prompt, max_tokens=500)
+        system = (
+            "You are Foresight Forge. Output exactly a plain list of '- domain' or 'NONE'."
+        )
+        approved_text = _llm_respond(prompt, max_tokens=500, system=system)
         # Parse the response to get the final list of URLs
         approved_urls = [line.lstrip('- ').strip() for line in approved_text.split('\n') if line.strip()]
 
@@ -1043,7 +1239,11 @@ def dashboard():
 
         # Build HTML list for predictions
         preds_html = '<ul>' + ''.join(
-            f"<li>{p['text']}" + (f" — {p['confidence']}%" if p.get('confidence') is not None else '') + '</li>'
+            (
+                f"<li>{p.get('text')}" + (
+                    f" — {p.get('confidence_pct', p.get('confidence'))}%" if p.get('confidence_pct', p.get('confidence')) is not None else ''
+                ) + '</li>'
+            )
             for p in preds_data) + '</ul>'
 
         # stats: number of raw items ingested
