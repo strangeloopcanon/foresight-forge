@@ -21,7 +21,7 @@ from openai import OpenAI, OpenAIError
 # models in the future.
 # ---------------------------------------------------------------------------
 
-DEFAULT_LLM_MODEL = os.getenv("FORESIGHT_LLM_MODEL", "gpt-3.5-turbo")
+DEFAULT_LLM_MODEL = os.getenv("FORESIGHT_LLM_MODEL", "gpt-5")
 from git import Repo
 import glob
 import re
@@ -78,6 +78,48 @@ def _should_run_digest():
 
     return run
 
+def _llm_respond(prompt: str, max_tokens: int) -> str:
+    """Unified LLM call using the configured model with medium reasoning effort.
+
+    Tries the Responses API (preferred for reasoning models) and falls back to
+    Chat Completions for compatibility. Returns the text output.
+    """
+    client = OpenAI()
+    # First try the Responses API with reasoning effort set to medium
+    try:
+        resp = client.responses.create(
+            model=DEFAULT_LLM_MODEL,
+            input=prompt,
+            max_output_tokens=max_tokens,
+            reasoning={"effort": "medium"},
+        )
+        # New SDKs provide a convenience accessor for text
+        text = getattr(resp, "output_text", None)
+        if not text:
+            # Best-effort extraction if convenience attr not present
+            try:
+                parts = []
+                for item in getattr(resp, "output", []) or []:
+                    for c in getattr(item, "content", []) or []:
+                        if getattr(c, "type", "") == "output_text":
+                            parts.append(getattr(c, "text", ""))
+                text = "".join(parts).strip()
+            except Exception:
+                text = None
+        if text:
+            return text.strip()
+    except Exception:
+        # Fall through to chat completions
+        pass
+
+    # Fallback path: Chat Completions API
+    resp = client.chat.completions.create(
+        model=DEFAULT_LLM_MODEL,
+        messages=[{"role": "user", "content": prompt}],
+        max_completion_tokens=max_tokens,
+    )
+    return resp.choices[0].message.content.strip()
+
 def _brain_vet_candidates(candidates, existing_sources):
     """Use LLM to vet candidate sources and return only high-quality ones."""
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
@@ -104,13 +146,7 @@ def _brain_vet_candidates(candidates, existing_sources):
     )
     
     try:
-        client = OpenAI()
-        resp = client.chat.completions.create(
-            model=DEFAULT_LLM_MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=500,
-        )
-        approved_text = resp.choices[0].message.content.strip()
+        approved_text = _llm_respond(prompt, max_tokens=500)
         
         if approved_text.upper() == 'NONE':
             return []
@@ -158,13 +194,7 @@ def _brain_source_review(sources):
     )
     
     try:
-        client = OpenAI()
-        resp = client.chat.completions.create(
-            model=DEFAULT_LLM_MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=800,
-        )
-        review_text = resp.choices[0].message.content.strip()
+        review_text = _llm_respond(prompt, max_tokens=800)
         
         # Parse the response
         to_remove = []
@@ -409,13 +439,7 @@ def summarise():
         return
     openai.api_key = key
     try:
-        client = OpenAI()
-        resp = client.chat.completions.create(
-            model=DEFAULT_LLM_MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=300,
-        )
-        summary = resp.choices[0].message.content.strip()
+        summary = _llm_respond(prompt, max_tokens=300)
     except Exception as e:
         click.echo(f"Error during summarise: {e}")
         return
@@ -456,13 +480,7 @@ def predict():
         return
     openai.api_key = key
     try:
-        client = OpenAI()
-        resp = client.chat.completions.create(
-            model=DEFAULT_LLM_MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=300,
-        )
-        preds = resp.choices[0].message.content.strip()
+        preds = _llm_respond(prompt, max_tokens=300)
     except Exception as e:
         click.echo(f"Error during predict: {e}")
         return
@@ -689,13 +707,7 @@ def comment(date):
         "Please draft a polite, constructive reply to this comment, referencing any earlier points as needed."
     )
     try:
-        client = OpenAI()
-        resp = client.chat.completions.create(
-            model=DEFAULT_LLM_MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=200,
-        )
-        reply = resp.choices[0].message.content.strip()
+        reply = _llm_respond(prompt, max_tokens=200)
     except Exception as e:
         click.echo(f"Error generating AI reply: {e}")
         return
@@ -774,13 +786,7 @@ def review():
     openai.api_key = key
     
     try:
-        client = OpenAI()
-        resp = client.chat.completions.create(
-            model=DEFAULT_LLM_MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=600,
-        )
-        review_text = resp.choices[0].message.content.strip()
+        review_text = _llm_respond(prompt, max_tokens=600)
         
         # Save the review
         os.makedirs('reviews', exist_ok=True)
@@ -912,13 +918,7 @@ def discover(since_days):
     )
 
     try:
-        client = OpenAI()
-        resp = client.chat.completions.create(
-            model=DEFAULT_LLM_MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=500,
-        )
-        approved_text = resp.choices[0].message.content.strip()
+        approved_text = _llm_respond(prompt, max_tokens=500)
         # Parse the response to get the final list of URLs
         approved_urls = [line.lstrip('- ').strip() for line in approved_text.split('\n') if line.strip()]
 
