@@ -90,12 +90,163 @@ def _sanitize_openai_env():
             os.environ["OPENAI_API_KEY"] = clean
 
 
+def _strict_mode():
+    v = os.getenv("FORESIGHT_STRICT", "").strip().lower()
+    return v in ("1", "true", "yes", "on")
+
+
+def _summary_json_schema():
+    return {
+        "type": "json_schema",
+        "json_schema": {
+            "name": "summary_schema",
+            "schema": {
+                "$schema": "http://json-schema.org/draft-07/schema#",
+                "type": "object",
+                "properties": {
+                    "bullets": {
+                        "type": "array",
+                        "minItems": 8,
+                        "maxItems": 15,
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "text": {"type": "string", "minLength": 1, "maxLength": 180},
+                                "tags": {
+                                    "type": "array",
+                                    "items": {"type": "string", "enum": [
+                                        "macro", "markets", "rates", "energy", "tech", "geopolitics", "science", "other"
+                                    ]}
+                                },
+                                "link": {"type": "string"}
+                            },
+                            "required": ["text", "tags"],
+                            "additionalProperties": False
+                        }
+                    }
+                },
+                "required": ["bullets"],
+                "additionalProperties": False
+            },
+            "strict": True
+        }
+    }
+
+
+def _predict_json_schema():
+    return {
+        "type": "json_schema",
+        "json_schema": {
+            "name": "predict_schema",
+            "schema": {
+                "$schema": "http://json-schema.org/draft-07/schema#",
+                "type": "object",
+                "properties": {
+                    "predictions": {
+                        "type": "array",
+                        "minItems": 5,
+                        "maxItems": 8,
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "text": {"type": "string", "minLength": 5, "maxLength": 500},
+                                "category": {"type": "string", "enum": [
+                                    "macro", "markets", "rates", "energy", "tech", "geopolitics", "other"
+                                ]},
+                                "horizon_days": {"type": "integer", "minimum": 1, "maximum": 3650},
+                                "deadline": {"type": "string"},
+                                "confidence_pct": {"type": "integer", "minimum": 0, "maximum": 100},
+                                "log_odds": {"type": "number"},
+                                "verification_criteria": {"type": "string", "minLength": 5},
+                                "evidence": {"type": "array", "items": {"type": "string"}},
+                                "monitoring_signals": {"type": "array", "items": {"type": "string"}},
+                                "supersedes_id": {"type": "string"},
+                                "rationale": {"type": "string"}
+                            },
+                            "required": [
+                                "text", "category", "horizon_days", "deadline", "confidence_pct",
+                                "verification_criteria", "evidence", "monitoring_signals"
+                            ],
+                            "additionalProperties": False
+                        }
+                    }
+                },
+                "required": ["predictions"],
+                "additionalProperties": False
+            },
+            "strict": True
+        }
+    }
+
+
+def _review_json_schema():
+    return {
+        "type": "json_schema",
+        "json_schema": {
+            "name": "review_schema",
+            "schema": {
+                "$schema": "http://json-schema.org/draft-07/schema#",
+                "type": "object",
+                "properties": {
+                    "assessments": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "id": {"type": "string"},
+                                "status": {"type": "string", "enum": [
+                                    "correct", "incorrect", "pending", "needs-clarification"
+                                ]},
+                                "status_rationale": {"type": "string"}
+                            },
+                            "required": ["id", "status"],
+                            "additionalProperties": False
+                        }
+                    },
+                    "analysis": {"type": "string"}
+                },
+                "required": ["assessments", "analysis"],
+                "additionalProperties": False
+            },
+            "strict": True
+        }
+    }
+
+
+def _grammar_vet_list():
+    return {
+        "type": "grammar",
+        "grammar": r"""
+start: NONE | list
+list: item+
+item: "- " TEXT NEWLINE?
+NONE: "NONE"
+TEXT: /[^\n]+/
+NEWLINE: /\n/
+%ignore /[\t ]+/
+"""
+    }
+
+
+def _grammar_remove_add():
+    return {
+        "type": "grammar",
+        "grammar": r"""
+start: "REMOVE:" NEWLINE items "ADD:" NEWLINE items
+items: ("- " TEXT NEWLINE)*
+TEXT: /[^\n]+/
+NEWLINE: /\n/
+%ignore /[\t ]+/
+"""
+    }
+
+
 def _llm_respond(
     prompt,
     max_tokens,
     *,
     system=None,
-    response_format=None,  # "json" for strict JSON, else None for text
+    response_format=None,  # "json" string, or response_format dict for schemas/grammar
     temperature=None,
 ):
     """Unified LLM call with caching, retries, system message and JSON mode.
@@ -146,8 +297,10 @@ def _llm_respond(
 
             kwargs = dict(base_kwargs)
             added_json_mode = False
-            if response_format == 'json':
-                # Try JSON response_format when supported
+            if isinstance(response_format, dict):
+                kwargs['response_format'] = response_format
+                added_json_mode = True
+            elif response_format == 'json':
                 kwargs['response_format'] = {"type": "json_object"}
                 added_json_mode = True
 
@@ -237,7 +390,8 @@ def _brain_vet_candidates(candidates, existing_sources):
         system = (
             "You are Foresight Forge. Output exactly as specified: a plain list of '- domain', or 'NONE'."
         )
-        approved_text = _llm_respond(prompt, max_tokens=500, system=system)
+        rf = _grammar_vet_list() if _strict_mode() else None
+        approved_text = _llm_respond(prompt, max_tokens=500, system=system, response_format=rf)
         
         if approved_text.upper() == 'NONE':
             return []
@@ -288,7 +442,8 @@ def _brain_source_review(sources):
         system = (
             "You are Foresight Forge. Output exactly with 'REMOVE:' and 'ADD:' sections as specified; no extra text."
         )
-        review_text = _llm_respond(prompt, max_tokens=800, system=system)
+        rf = _grammar_remove_add() if _strict_mode() else None
+        review_text = _llm_respond(prompt, max_tokens=800, system=system, response_format=rf)
         
         # Parse the response
         to_remove = []
@@ -549,7 +704,8 @@ def summarise(date_opt=None):
         return
     openai.api_key = key
     try:
-        summary_json_text = _llm_respond(prompt, max_tokens=600, system=system, response_format='json')
+        rf = _summary_json_schema() if _strict_mode() else 'json'
+        summary_json_text = _llm_respond(prompt, max_tokens=600, system=system, response_format=rf)
         data = json.loads(summary_json_text)
         bullets = data.get('bullets', [])
         # write structured JSON sidecar
@@ -665,7 +821,8 @@ def predict(date_opt=None):
         return
     openai.api_key = key
     try:
-        preds_json_text = _llm_respond(prompt, max_tokens=1200, system=system, response_format='json')
+        rf = _predict_json_schema() if _strict_mode() else 'json'
+        preds_json_text = _llm_respond(prompt, max_tokens=1200, system=system, response_format=rf)
     except Exception as e:
         click.echo(f"Error during predict: {e}")
         return
@@ -989,7 +1146,8 @@ def review():
     openai.api_key = key
     
     try:
-        result_text = _llm_respond(prompt, max_tokens=1200, system=system, response_format='json')
+        rf = _review_json_schema() if _strict_mode() else 'json'
+        result_text = _llm_respond(prompt, max_tokens=1200, system=system, response_format=rf)
         result = json.loads(result_text)
         assessments = result.get('assessments', [])
         review_text = result.get('analysis', '').strip()
@@ -1158,7 +1316,8 @@ def discover(since_days):
         system = (
             "You are Foresight Forge. Output exactly a plain list of '- domain' or 'NONE'."
         )
-        approved_text = _llm_respond(prompt, max_tokens=500, system=system)
+        rf = _grammar_vet_list() if _strict_mode() else None
+        approved_text = _llm_respond(prompt, max_tokens=500, system=system, response_format=rf)
         # Parse the response to get the final list of URLs
         approved_urls = [line.lstrip('- ').strip() for line in approved_text.split('\n') if line.strip()]
 
