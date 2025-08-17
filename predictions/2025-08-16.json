@@ -2,99 +2,161 @@
   "date": "2025-08-16",
   "predictions": [
     {
-      "text": "The price of oil will experience a slight increase in the next month as global demand picks up amidst easing geopolitical tensions.",
+      "text": "ICE Brent front-month settlement will close between $78 and $90 per barrel on 2025-09-16.",
       "category": "energy",
       "horizon_days": 30,
-      "deadline": "2023-11-30",
+      "deadline": "2025-09-16",
+      "confidence_pct": 65,
+      "log_odds": 0.62,
+      "verification_criteria": "Verify the 2025-09-16 official ICE Brent front-month settlement price from ICE or Bloomberg; success if it is >= $78 and <= $90.",
+      "evidence": [
+        "https://www.marketwatch.com/story/why-the-trump-putin-summit-is-no-magic-lever-to-unleash-global-oil-supplies-cf589403?mod=mw_rss_topstories",
+        "https://www.cnbc.com/2025/08/15/nothing-is-off-the-table-as-trump-and-putin-set-to-meet.html"
+      ],
+      "monitoring_signals": [
+        "OPEC+ production guidance and Russia export data",
+        "U.S. DOE/EIA weekly inventory trends",
+        "Headlines from Trump-Putin summit affecting sanctions or supply",
+        "Brent time spreads (backwardation/contango) changes"
+      ],
+      "rationale": "Summit optics unlikely to shift supply near term; OPEC+ constraints cap big moves.",
+      "id": "2ba84a58-6af0-414e-bfbb-e362bbc175b2",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "At the September 2025 FOMC meeting, the Fed will change the target range by no more than 25 bps (i.e., either hold or adjust \u00b125 bps, not \u226550 bps).",
+      "category": "rates",
+      "horizon_days": 33,
+      "deadline": "2025-09-19",
       "confidence_pct": 70,
-      "verification_criteria": "Monitor oil price trends and global demand forecasts.",
+      "log_odds": 0.85,
+      "verification_criteria": "Compare the target federal funds rate range in the post-meeting FOMC statement against the pre-meeting range; success if the absolute change is 0 or 25 bps.",
       "evidence": [
-        "Recent OPEC reports indicate potential demand recovery.",
-        "Analysts predict easing geopolitical tensions affecting supply."
+        "https://www.cnbc.com/2025/08/15/goolsbee-sees-note-of-unease-as-fed-looks-to-next-interest-rate-move.html"
       ],
       "monitoring_signals": [
-        "Crude oil inventory levels.",
-        "Geopolitical news updates."
+        "Fed funds futures-implied probabilities (CME FedWatch)",
+        "Core PCE and CPI monthly prints pre-meeting",
+        "Labor market data (NFP, unemployment rate)",
+        "FOMC communications and speeches"
       ],
-      "id": "777b06a6-3f06-493d-b7cb-332f8ac9ca4a",
+      "rationale": "Fed signals caution; macro data mixed, making outsized moves unlikely.",
+      "id": "2b06d7f1-dca2-465c-ae8d-79261893f9e1",
       "outcome": null,
       "confidence_bin": "70-80"
     },
     {
-      "text": "Tech stocks will face increased volatility in the next two weeks as regulatory scrutiny on big tech companies intensifies.",
+      "text": "By 2025-10-31, at least two U.S.-listed tech IPOs (NYSE/Nasdaq) with IPO valuations \u2265 $1B will close their first trading day \u226510% above offer price.",
       "category": "tech",
-      "horizon_days": 14,
-      "deadline": "2023-11-15",
-      "confidence_pct": 75,
-      "verification_criteria": "Track large tech companies' stock movements and regulatory news.",
+      "horizon_days": 75,
+      "deadline": "2025-10-31",
+      "confidence_pct": 60,
+      "log_odds": 0.41,
+      "verification_criteria": "Count U.S.-listed tech IPOs priced by 2025-10-31 with IPO valuation \u2265 $1B; verify first-day close vs. offer price using exchange data or prospectuses; success if count \u22652.",
       "evidence": [
-        "Upcoming hearings scheduled for major tech firms.",
-        "Market sentiment remains volatile."
+        "https://www.cnbc.com/2025/08/15/tech-ipos-bullish-figma-circle-roaring-after-years-of-prohibition-.html",
+        "https://www.cnbc.com/2025/08/15/openai-6-billion-stock-500-billion-valuation.html"
       ],
       "monitoring_signals": [
-        "Regulatory announcements.",
-        "Stock price volatility indicators."
+        "Renaissance IPO ETF performance",
+        "Initial filing volumes (S-1) for tech",
+        "Proposed price ranges vs. demand (order book coverage)",
+        "VIX and NASDAQ volatility levels"
       ],
-      "id": "323de844-9dcf-4361-98b7-5f58530d2a57",
+      "rationale": "Window has reopened with strong demand; sustained risk appetite likely yields multiple strong debuts.",
+      "id": "0091039c-effd-4f47-8452-d962c809b7e1",
       "outcome": null,
-      "confidence_bin": "70-80"
+      "confidence_bin": "60-70"
     },
     {
-      "text": "The housing market will face ongoing challenges in the next three months due to elevated interest rates and continued supply chain disruptions.",
+      "text": "From 2025-08-15 close to 2025-09-30 close, the Philadelphia Semiconductor Index (SOX) will underperform the S&P 500 by at least 3 percentage points.",
       "category": "markets",
-      "horizon_days": 90,
-      "deadline": "2024-02-15",
-      "confidence_pct": 75,
-      "verification_criteria": "Evaluate housing price trends and interest rate changes.",
+      "horizon_days": 44,
+      "deadline": "2025-09-30",
+      "confidence_pct": 62,
+      "log_odds": 0.49,
+      "verification_criteria": "Compute % change: SOX and S&P 500 closing levels on 2025-08-15 and 2025-09-30. Success if (SOX% - S&P% ) \u2264 -3.0 pp.",
       "evidence": [
-        "Rising mortgage rates are deterring potential buyers.",
-        "Construction activity has slowed significantly."
+        "https://www.cnbc.com/2025/08/15/applied-materials-stock-china-demand-earnings.html",
+        "https://www.cnbc.com/2025/08/15/intel-trump-stake.html"
       ],
       "monitoring_signals": [
-        "Real estate market reports.",
-        "Interest rate announcements."
+        "Semi capex guide from AMAT, LRCX, ASML",
+        "China demand indicators for chips/equipment",
+        "U.S. export controls and licensing news",
+        "Memory pricing trends and inventory data"
       ],
-      "id": "a4f17685-5164-452f-8180-bc5176d58b55",
+      "rationale": "Weak semi-cap guidance and policy headwinds raise downside risk vs. broad market.",
+      "id": "b58cabe9-3685-4083-9735-6e2f3505d56b",
       "outcome": null,
-      "confidence_bin": "70-80"
+      "confidence_bin": "60-70"
     },
     {
-      "text": "The overall market index will exhibit fluctuations in the next three weeks as uncertainties surrounding global economic recovery and inflation concerns continue to influence investor behavior.",
-      "category": "markets",
-      "horizon_days": 21,
-      "deadline": "2023-11-10",
-      "confidence_pct": 75,
-      "verification_criteria": "Assess changes in major stock indices and investor sentiment indicators.",
+      "text": "The MBA Refinance Index 4-week average for the week ending 2025-09-19 will be at least 10% higher than the 4-week average for the week ending 2025-08-15.",
+      "category": "rates",
+      "horizon_days": 33,
+      "deadline": "2025-09-19",
+      "confidence_pct": 66,
+      "log_odds": 0.66,
+      "verification_criteria": "Using MBA weekly reports, compute 4-week moving averages for weeks ending 2025-08-15 and 2025-09-19; success if later average \u2265 1.10x earlier.",
       "evidence": [
-        "Economic data releases are showing divergent trends.",
-        "Investors are reacting to inflation reports."
+        "https://www.cnbc.com/2025/08/15/how-to-know-its-time-to-refinance-a-mortgage.html"
       ],
       "monitoring_signals": [
-        "Market index performance.",
-        "Economic data releases."
+        "Freddie Mac Primary Mortgage Market Survey (PMMS) 30-year rate",
+        "MBS spreads vs. Treasurys",
+        "Lender rate sheets and lock volumes",
+        "Rate volatility (MOVE index)"
       ],
-      "id": "9150d691-7034-4b45-bf60-02e176e71034",
+      "rationale": "Improving mortgage rates should spur incremental refinance activity despite tighter underwriting.",
+      "id": "2dd55204-12ea-4669-94d8-aff35148f444",
       "outcome": null,
-      "confidence_bin": "70-80"
+      "confidence_bin": "60-70"
     },
     {
-      "text": "Renewable energy stocks will continue to outperform traditional energy sectors in the next month due to increasing commitments to green initiatives globally.",
-      "category": "energy",
-      "horizon_days": 30,
-      "deadline": "2023-11-30",
-      "confidence_pct": 80,
-      "verification_criteria": "Track performance of renewable energy stocks against traditional sectors.",
+      "text": "California\u2019s August 2025 unemployment rate will be at least 5.4% in the BLS state employment release.",
+      "category": "macro",
+      "horizon_days": 34,
+      "deadline": "2025-09-20",
+      "confidence_pct": 68,
+      "log_odds": 0.75,
+      "verification_criteria": "Check BLS LAUS state unemployment rate for California, August 2025 (released mid-September); success if rate \u2265 5.4%.",
       "evidence": [
-        "New government policies favoring renewable investments.",
-        "Major corporations announcing sustainability goals."
+        "https://www.sfchronicle.com/california/article/unemployment-rate-rises-tech-20819276.php"
       ],
       "monitoring_signals": [
-        "Stock performance metrics.",
-        "News from energy policy developments."
+        "California weekly initial jobless claims",
+        "Tech sector layoff announcements",
+        "State-level payroll and labor force participation",
+        "Job openings data in CA metros"
       ],
-      "id": "914005fa-822b-467f-b87e-780efb6d5732",
+      "rationale": "Persistent tech softness and regional divergence suggest elevated unemployment persists near current highs.",
+      "id": "c245f82a-cde6-4450-862b-852edbe914a3",
       "outcome": null,
-      "confidence_bin": "80-90"
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "OpenAI will announce completion of a secondary share sale of at least $5B at an implied valuation between $450B and $550B by 2025-10-31.",
+      "category": "tech",
+      "horizon_days": 75,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "Confirm via OpenAI/company press release or major financial media that a \u2265$5B secondary transaction closed, with stated valuation within $450\u2013$550B, by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/15/openai-6-billion-stock-500-billion-valuation.html"
+      ],
+      "monitoring_signals": [
+        "Regulatory filings or tender offer documents",
+        "Lead investor confirmations and allocations",
+        "Press reports on pricing and oversubscription",
+        "Broader tech private-market deal activity"
+      ],
+      "rationale": "Investor appetite for AI remains strong despite frothy conditions; negotiations already advanced.",
+      "id": "1ccb57b4-50ea-4c0a-b4c7-a7f432a25adf",
+      "outcome": null,
+      "confidence_bin": "50-60"
     }
   ]
 }
