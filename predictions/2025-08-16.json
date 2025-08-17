@@ -1,0 +1,100 @@
+{
+  "date": "2025-08-16",
+  "predictions": [
+    {
+      "text": "The price of oil will experience a slight increase in the next month as global demand picks up amidst easing geopolitical tensions.",
+      "category": "energy",
+      "horizon_days": 30,
+      "deadline": "2023-11-30",
+      "confidence_pct": 70,
+      "verification_criteria": "Monitor oil price trends and global demand forecasts.",
+      "evidence": [
+        "Recent OPEC reports indicate potential demand recovery.",
+        "Analysts predict easing geopolitical tensions affecting supply."
+      ],
+      "monitoring_signals": [
+        "Crude oil inventory levels.",
+        "Geopolitical news updates."
+      ],
+      "id": "777b06a6-3f06-493d-b7cb-332f8ac9ca4a",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "Tech stocks will face increased volatility in the next two weeks as regulatory scrutiny on big tech companies intensifies.",
+      "category": "tech",
+      "horizon_days": 14,
+      "deadline": "2023-11-15",
+      "confidence_pct": 75,
+      "verification_criteria": "Track large tech companies' stock movements and regulatory news.",
+      "evidence": [
+        "Upcoming hearings scheduled for major tech firms.",
+        "Market sentiment remains volatile."
+      ],
+      "monitoring_signals": [
+        "Regulatory announcements.",
+        "Stock price volatility indicators."
+      ],
+      "id": "323de844-9dcf-4361-98b7-5f58530d2a57",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "The housing market will face ongoing challenges in the next three months due to elevated interest rates and continued supply chain disruptions.",
+      "category": "markets",
+      "horizon_days": 90,
+      "deadline": "2024-02-15",
+      "confidence_pct": 75,
+      "verification_criteria": "Evaluate housing price trends and interest rate changes.",
+      "evidence": [
+        "Rising mortgage rates are deterring potential buyers.",
+        "Construction activity has slowed significantly."
+      ],
+      "monitoring_signals": [
+        "Real estate market reports.",
+        "Interest rate announcements."
+      ],
+      "id": "a4f17685-5164-452f-8180-bc5176d58b55",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "The overall market index will exhibit fluctuations in the next three weeks as uncertainties surrounding global economic recovery and inflation concerns continue to influence investor behavior.",
+      "category": "markets",
+      "horizon_days": 21,
+      "deadline": "2023-11-10",
+      "confidence_pct": 75,
+      "verification_criteria": "Assess changes in major stock indices and investor sentiment indicators.",
+      "evidence": [
+        "Economic data releases are showing divergent trends.",
+        "Investors are reacting to inflation reports."
+      ],
+      "monitoring_signals": [
+        "Market index performance.",
+        "Economic data releases."
+      ],
+      "id": "9150d691-7034-4b45-bf60-02e176e71034",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "Renewable energy stocks will continue to outperform traditional energy sectors in the next month due to increasing commitments to green initiatives globally.",
+      "category": "energy",
+      "horizon_days": 30,
+      "deadline": "2023-11-30",
+      "confidence_pct": 80,
+      "verification_criteria": "Track performance of renewable energy stocks against traditional sectors.",
+      "evidence": [
+        "New government policies favoring renewable investments.",
+        "Major corporations announcing sustainability goals."
+      ],
+      "monitoring_signals": [
+        "Stock performance metrics.",
+        "News from energy policy developments."
+      ],
+      "id": "914005fa-822b-467f-b87e-780efb6d5732",
+      "outcome": null,
+      "confidence_bin": "80-90"
+    }
+  ]
+}
