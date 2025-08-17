@@ -27,10 +27,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run daily pipeline
+      - name: Run brain-gated daily pipeline
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python forecast.py run-daily
+        run: |
+          echo "Brain decision + meta-plan:" 
+          python forecast.py brain 
+          echo "---" 
+          python forecast.py run-scheduled
 
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
