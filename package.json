@@ -1,0 +1,9 @@
+{
+  "name": "foresight-forge-build",
+  "private": true,
+  "description": "Vercel build wrapper to run the Python forecasting pipeline and emit docs/",
+  "scripts": {
+    "vercel-build": "python -m pip install -r requirements.txt && python forecast.py run-daily"
+  }
+}
+

@@ -731,6 +731,10 @@ def _get_prediction_history(days_back=7):
 @cli.command()
 def record():
     """Commit all changes for today's run to git, if in a repository."""
+    # Skip commits in CI/Vercel environments to avoid failures during builds
+    if os.getenv("VERCEL") or os.getenv("CI") or os.getenv("SKIP_GIT_COMMIT"):
+        click.echo("CI environment detected; skipping git commit.")
+        return
     try:
         repo = Repo(os.getcwd(), search_parent_directories=True)
     except Exception:
