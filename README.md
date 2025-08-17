@@ -130,6 +130,35 @@ A GitHub Actions workflow (`.github/workflows/daily.yml`) runs the daily pipelin
 and a separate workflow (`.github/workflows/weekly.yml`) performs weekly source discovery
 and automatic self‑updates.
 
+### Brain‑gated daily runs
+
+Daily runs are now gated by the built‑in scheduler ("brain"). The CI calls `python forecast.py run-scheduled`,
+which runs the full pipeline only if the brain indicates it hasn’t run yet today, and then applies any proposed
+source add/remove changes. This prevents duplicate runs and provides a central policy hook.
+
+To preview the decision and meta‑plan locally:
+
+```bash
+python forecast.py brain
+```
+
+### Strict output constraints (config‑driven)
+
+LLM steps support constrained outputs for reliability using JSON Schemas and Lark grammars. Configuration lives in
+`foresight.config.yaml` and is versioned with the repo. Defaults:
+
+```yaml
+strict:
+  summarise: true   # JSON schema
+  predict: true     # JSON schema
+  review: true      # JSON schema
+  vet: false        # Lark grammar (candidate list)
+  sources: false    # Lark grammar (REMOVE:/ADD:)
+```
+
+Flip any toggle to `true`/`false` and commit to adjust behavior. The code falls back safely if the SDK rejects
+constraints, so runs won’t fail if constraints aren’t supported in a given environment.
+
 ## Directory structure
 
 ```plain
