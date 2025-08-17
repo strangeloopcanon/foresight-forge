@@ -24,7 +24,8 @@ from openai import OpenAI, OpenAIError
 # ---------------------------------------------------------------------------
 
 DEFAULT_LLM_MODEL = os.getenv("FORESIGHT_LLM_MODEL", "gpt-5")
-DEFAULT_TEMPERATURE = float(os.getenv("FORESIGHT_LLM_TEMPERATURE", "0.2"))
+# GPT-5 reasoning models only support default temperature=1.0; set 1 by default
+DEFAULT_TEMPERATURE = float(os.getenv("FORESIGHT_LLM_TEMPERATURE", "1"))
 from git import Repo
 import glob
 import re
@@ -81,6 +82,14 @@ def _should_run_digest():
 
     return run
 
+def _sanitize_openai_env():
+    key = os.getenv("OPENAI_API_KEY")
+    if key:
+        clean = key.strip().strip('"').strip("'")
+        if clean != key:
+            os.environ["OPENAI_API_KEY"] = clean
+
+
 def _llm_respond(
     prompt,
     max_tokens,
@@ -95,14 +104,17 @@ def _llm_respond(
     - Falls back to Chat Completions.
     - Caches by hash of inputs under .cache/llm/.
     """
+    _sanitize_openai_env()
     client = OpenAI()
     temp = DEFAULT_TEMPERATURE if temperature is None else float(temperature)
+    model = DEFAULT_LLM_MODEL
+    is_gpt5 = str(model).startswith("gpt-5")
 
     # Cache key
     cache_dir = os.path.join('.cache', 'llm')
     os.makedirs(cache_dir, exist_ok=True)
     key_raw = json.dumps({
-        'model': DEFAULT_LLM_MODEL,
+        'model': model,
         'prompt': prompt,
         'system': system or '',
         'max_tokens': max_tokens,
@@ -119,41 +131,67 @@ def _llm_respond(
     for attempt in range(3):
         try:
             # Prefer Responses API
-            kwargs = {
-                'model': DEFAULT_LLM_MODEL,
-                'max_output_tokens': max_tokens,
+            base_kwargs = {
+                'model': model,
                 'reasoning': {"effort": "medium"},
-                'temperature': temp,
             }
+            if not is_gpt5:
+                base_kwargs['max_output_tokens'] = max_tokens
+            # GPT-5 reasoning models often disallow non-default temperature; omit for GPT-5
+            if not is_gpt5 and temp is not None:
+                base_kwargs['temperature'] = temp
             if system:
-                kwargs['instructions'] = system
-            if response_format == 'json':
-                kwargs['response_format'] = {"type": "json_object"}
-            kwargs['input'] = prompt
+                base_kwargs['instructions'] = system
+            base_kwargs['input'] = prompt
 
-            resp = client.responses.create(**kwargs)
+            kwargs = dict(base_kwargs)
+            added_json_mode = False
+            if response_format == 'json':
+                # Try JSON response_format when supported
+                kwargs['response_format'] = {"type": "json_object"}
+                added_json_mode = True
+
+            try:
+                resp = client.responses.create(**kwargs)
+            except TypeError as te:
+                if added_json_mode and 'response_format' in str(te):
+                    # Retry without response_format for older SDK compatibility
+                    resp = client.responses.create(**base_kwargs)
+                else:
+                    raise
             text = getattr(resp, "output_text", None)
-            if not text and hasattr(resp, 'output'):  # older SDK structs
-                parts = []
-                for item in getattr(resp, "output", []) or []:
-                    for c in getattr(item, "content", []) or []:
-                        if getattr(c, "type", "") == "output_text":
-                            parts.append(getattr(c, "text", ""))
-                text = "".join(parts).strip()
+            # Broader extraction across possible SDK shapes
+            if not text:
+                try:
+                    # Try common nested path: output[*].content[*].text
+                    parts = []
+                    for item in getattr(resp, "output", []) or []:
+                        for c in getattr(item, "content", []) or []:
+                            t = getattr(c, "text", None)
+                            if isinstance(t, str):
+                                parts.append(t)
+                    if parts:
+                        text = "\n".join(parts).strip()
+                except Exception:
+                    pass
             if text:
                 with open(cache_path, 'w') as f:
                     f.write(text)
                 return text
+            else:
+                last_err = RuntimeError('Empty model output')
         except Exception as e:
             last_err = e
-        # Fallback to Chat Completions
+        # Fallback to Chat Completions (avoid for GPT-5; use Responses API only)
+        if is_gpt5:
+            continue
         try:
             messages = []
             if system:
                 messages.append({"role": "system", "content": system})
             messages.append({"role": "user", "content": prompt})
             resp = client.chat.completions.create(
-                model=DEFAULT_LLM_MODEL,
+                model=model,
                 messages=messages,
                 max_completion_tokens=max_tokens,
                 temperature=temp,
@@ -474,9 +512,10 @@ def ingest():
 
 
 @cli.command()
-def summarise():
-    """Summarise today's raw items into bullet points and a structured JSON."""
-    date = datetime.date.today().isoformat()
+@click.option("--date", "date_opt", default=None, help="Date (YYYY-MM-DD) to summarise; defaults to today.")
+def summarise(date_opt=None):
+    """Summarise raw items for a given date (default: today) into bullets + JSON."""
+    date = date_opt or datetime.date.today().isoformat()
     infile = f"raw/{date}.json"
     if not os.path.exists(infile):
         click.echo("No raw data found for today; skipping summarise.")
@@ -549,9 +588,10 @@ def summarise():
 
 
 @cli.command()
-def predict():
-    """Generate structured predictions (strict JSON) with historical context."""
-    date = datetime.date.today().isoformat()
+@click.option("--date", "date_opt", default=None, help="Date (YYYY-MM-DD) to predict for; defaults to today.")
+def predict(date_opt=None):
+    """Generate structured predictions (strict JSON) with historical context for a given date (default: today)."""
+    date = date_opt or datetime.date.today().isoformat()
     infile = f"summaries/{date}.md"
     if not os.path.exists(infile):
         click.echo("No summary found for today; skipping predict.")
