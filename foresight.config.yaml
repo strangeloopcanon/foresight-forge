@@ -1,0 +1,7 @@
+strict:
+  summarise: true
+  predict: true
+  review: true
+  vet: false
+  sources: false
+

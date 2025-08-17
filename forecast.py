@@ -90,9 +90,40 @@ def _sanitize_openai_env():
             os.environ["OPENAI_API_KEY"] = clean
 
 
-def _strict_mode():
-    v = os.getenv("FORESIGHT_STRICT", "").strip().lower()
-    return v in ("1", "true", "yes", "on")
+CONFIG_PATH = os.getenv("FORESIGHT_CONFIG", "foresight.config.yaml")
+_STRICT_DEFAULTS = {
+    'summarise': True,
+    'predict': True,
+    'review': True,
+    'vet': False,
+    'sources': False,
+}
+_CONFIG_CACHE = None
+
+
+def _load_config():
+    global _CONFIG_CACHE
+    if _CONFIG_CACHE is not None:
+        return _CONFIG_CACHE
+    cfg = {}
+    try:
+        if os.path.exists(CONFIG_PATH):
+            with open(CONFIG_PATH, 'r') as f:
+                data = yaml.safe_load(f) or {}
+                if isinstance(data, dict):
+                    cfg = data
+    except Exception:
+        cfg = {}
+    _CONFIG_CACHE = cfg
+    return _CONFIG_CACHE
+
+
+def _strict_for(step: str) -> bool:
+    cfg = _load_config()
+    strict = (cfg.get('strict') or {}) if isinstance(cfg.get('strict'), dict) else {}
+    if step in strict and isinstance(strict[step], bool):
+        return strict[step]
+    return _STRICT_DEFAULTS.get(step, False)
 
 
 def _summary_json_schema():
@@ -390,7 +421,7 @@ def _brain_vet_candidates(candidates, existing_sources):
         system = (
             "You are Foresight Forge. Output exactly as specified: a plain list of '- domain', or 'NONE'."
         )
-        rf = _grammar_vet_list() if _strict_mode() else None
+        rf = _grammar_vet_list() if _strict_for('vet') else None
         approved_text = _llm_respond(prompt, max_tokens=500, system=system, response_format=rf)
         
         if approved_text.upper() == 'NONE':
@@ -442,7 +473,7 @@ def _brain_source_review(sources):
         system = (
             "You are Foresight Forge. Output exactly with 'REMOVE:' and 'ADD:' sections as specified; no extra text."
         )
-        rf = _grammar_remove_add() if _strict_mode() else None
+        rf = _grammar_remove_add() if _strict_for('sources') else None
         review_text = _llm_respond(prompt, max_tokens=800, system=system, response_format=rf)
         
         # Parse the response
@@ -704,7 +735,7 @@ def summarise(date_opt=None):
         return
     openai.api_key = key
     try:
-        rf = _summary_json_schema() if _strict_mode() else 'json'
+        rf = _summary_json_schema() if _strict_for('summarise') else 'json'
         summary_json_text = _llm_respond(prompt, max_tokens=600, system=system, response_format=rf)
         data = json.loads(summary_json_text)
         bullets = data.get('bullets', [])
@@ -821,7 +852,7 @@ def predict(date_opt=None):
         return
     openai.api_key = key
     try:
-        rf = _predict_json_schema() if _strict_mode() else 'json'
+        rf = _predict_json_schema() if _strict_for('predict') else 'json'
         preds_json_text = _llm_respond(prompt, max_tokens=1200, system=system, response_format=rf)
     except Exception as e:
         click.echo(f"Error during predict: {e}")
@@ -1146,7 +1177,7 @@ def review():
     openai.api_key = key
     
     try:
-        rf = _review_json_schema() if _strict_mode() else 'json'
+        rf = _review_json_schema() if _strict_for('review') else 'json'
         result_text = _llm_respond(prompt, max_tokens=1200, system=system, response_format=rf)
         result = json.loads(result_text)
         assessments = result.get('assessments', [])
