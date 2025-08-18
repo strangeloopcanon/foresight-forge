@@ -1,0 +1,139 @@
+{
+  "date": "2025-08-18",
+  "predictions": [
+    {
+      "text": "From 2025-08-18 close to 2025-08-26 close, the U.S. 2-year Treasury yield will move by at least 10 basis points in absolute terms.",
+      "category": "rates",
+      "horizon_days": 8,
+      "deadline": "2025-08-26",
+      "confidence_pct": 64,
+      "log_odds": 0.575,
+      "verification_criteria": "Use U.S. Treasury 2Y constant maturity (FRED series DGS2). Success if |DGS2 at 2025-08-26 close \u2212 DGS2 at 2025-08-18 close| \u2265 0.10 percentage points.",
+      "evidence": [
+        "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-following-trump-putin-summit-wall-street-awaits-feds-jackson-hole-meeting-2264ec53?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "CME FedWatch probabilities for Sep/Nov FOMC",
+        "Powell/Jackson Hole remarks tone on neutral rate and inflation risk",
+        "OIS and Eurodollar/SOFR futures front-end repricing",
+        "2Y yield intraday ranges and options skew"
+      ],
+      "rationale": "Jackson Hole often shifts front-end expectations; 2Y is highly sensitive and has frequently moved >10 bps around prior conferences amid elevated uncertainty.",
+      "id": "2dc3cb8c-140e-4ce0-a5fd-7807b9690482",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "From 2025-08-18 close to 2025-08-29 close, ITB will underperform SPY by at least 2.0 percentage points.",
+      "category": "markets",
+      "horizon_days": 11,
+      "deadline": "2025-08-29",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "Compute returns using closing prices: r_ITB = ITB(2025-08-29)/ITB(2025-08-18)\u22121; r_SPY = SPY(2025-08-29)/SPY(2025-08-18)\u22121. Success if (r_ITB \u2212 r_SPY) \u2264 \u22120.0200.",
+      "evidence": [
+        "https://www.marketwatch.com/story/investors-are-plowing-into-homebuilder-stocks-will-jackson-hole-prove-them-wrong-adff93ec?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "ITB/SPY relative strength line",
+        "10Y UST yield and mortgage rate moves",
+        "Jackson Hole rhetoric on policy path",
+        "Homebuilder order/cancellation commentary in earnings"
+      ],
+      "rationale": "Homebuilders rallied on peak-rate hopes; Jackson Hole event risk could pressure duration-sensitive trades. ITB has high beta to rates.",
+      "id": "fb4b54d7-9795-4a6f-9b96-889b954689e3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Core CPI (CPI-U, all items less food and energy) for August 2025 will be 0.2% to 0.3% m/m (seasonally adjusted).",
+      "category": "macro",
+      "horizon_days": 24,
+      "deadline": "2025-09-11",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Verify in BLS CPI news release for August 2025, Table 1. Success if the SA m/m change for 'All items less food and energy' equals 0.2% or 0.3%.",
+      "evidence": [
+        "https://www.marketwatch.com/story/walmart-and-rivals-report-for-the-clearest-look-at-the-consumer-yet-will-ceos-talk-about-the-elephant-in-the-room-c17d9f55?mod=mw_rss_topstories",
+        "https://www.bls.gov/schedule/news_release/cpi.htm"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed CPI nowcast",
+        "Retailer earnings commentary on pricing/promo intensity",
+        "Used car auction indices (Manheim)",
+        "Rent/OER leading indicators (Zillow, Apartment List)"
+      ],
+      "rationale": "Services stickiness and goods disinflation suggest a 0.2\u20130.3% core print; retailer commentary points to persistent, but cooling, price pressures.",
+      "id": "136d65ad-2b28-477e-98cf-df876b6aea06",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Freddie Mac PMMS 30-year fixed mortgage rate for the week ending 2025-09-19 will be at least 10 bps lower than the week ending 2025-08-15.",
+      "category": "rates",
+      "horizon_days": 32,
+      "deadline": "2025-09-19",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Compare Freddie Mac PMMS weekly averages: PMMS_30y(2025-09-19) \u2264 PMMS_30y(2025-08-15) \u2212 0.10 percentage points.",
+      "evidence": [
+        "https://www.marketwatch.com/story/investors-are-plowing-into-homebuilder-stocks-will-jackson-hole-prove-them-wrong-adff93ec?mod=mw_rss_topstories",
+        "https://www.freddiemac.com/pmms"
+      ],
+      "monitoring_signals": [
+        "10Y UST yield and MBS current coupon",
+        "Primary-secondary mortgage spread",
+        "Fed communication at Jackson Hole",
+        "Mortgage application trends (MBA)"
+      ],
+      "rationale": "Easing inflation and growth data, plus policy clarity, favor modest rate relief; mortgage rates lag but track the 10-year and MBS spreads.",
+      "id": "c16cbff3-7844-4a62-b91d-e3dd74be1a72",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Between 2025-08-21 and 2025-08-26 (inclusive), the S&P 500 will post at least one daily close-to-close decline of 1.25% or more.",
+      "category": "markets",
+      "horizon_days": 8,
+      "deadline": "2025-08-26",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Using SPX official close data, compute daily % change. Success if any day in 2025-08-21 through 2025-08-26 has return \u2264 \u22121.25%.",
+      "evidence": [
+        "https://www.marketwatch.com/story/u-s-stock-futures-inch-higher-following-trump-putin-summit-wall-street-awaits-feds-jackson-hole-meeting-2264ec53?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "VIX term structure into Jackson Hole",
+        "Macro calendar surprises (PMIs, claims)",
+        "Real yields and dollar moves",
+        "Dealer positioning and CTA trend signals"
+      ],
+      "rationale": "Jackson Hole often catalyzes volatility; a single \u22651.25% down day is plausible given rate sensitivity and crowded positioning.",
+      "id": "aa31148d-76d0-441a-b9da-9f6c34a17a96",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, at least one major U.S. bank (Amex, Chase, Citi, Capital One, or Bank of America) will announce an increased annual fee or a material benefit devaluation on a co-branded airline credit card.",
+      "category": "markets",
+      "horizon_days": 74,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "log_odds": 0.281,
+      "verification_criteria": "Confirmed via issuer press release, official card terms update, SEC filing, or major financial press. Success if a fee increase or clear benefit devaluation (e.g., higher MQD/points thresholds, reduced earning rates) is announced by the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/17/business/airlines-credit-cards-loyalty.html"
+      ],
+      "monitoring_signals": [
+        "Issuer earnings calls/outlook on co-brand economics",
+        "Airline partner negotiations and program changes",
+        "Competitor card launches or refreshes",
+        "Interchange/financing cost trends"
+      ],
+      "rationale": "Airlines are demanding more from banks; rising costs have driven recent fee hikes and devaluations, making additional changes likely.",
+      "id": "ddfe0c28-7943-4b69-85b4-63b65cd0097b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
