@@ -1,0 +1,164 @@
+{
+  "date": "2025-08-19",
+  "predictions": [
+    {
+      "text": "The Cboe Volatility Index (VIX) will close above 19.5 at least once by 2025-09-06.",
+      "category": "markets",
+      "horizon_days": 18,
+      "deadline": "2025-09-06",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Success if the official Cboe VIX closing value (>19.5) appears on any trading day from 2025-08-19 through 2025-09-06 inclusive, as reported by Cboe or reliable market data sources (e.g., Yahoo Finance ticker ^VIX).",
+      "evidence": [
+        "https://www.marketwatch.com/story/why-a-wall-of-money-is-unlikely-to-flood-into-stocks-when-the-fed-cuts-rates-this-goldman-strategist-says-c38a8792",
+        "https://www.cnbc.com/2025/08/18/crypto-market-today.html"
+      ],
+      "monitoring_signals": [
+        "VIX futures term structure (contango/backwardation)",
+        "S&P 500 intraday breadth and realized volatility (5\u201310 day)",
+        "Fed communications and rates market repricing (CME FedWatch)",
+        "Credit spreads (CDX IG/HY) and equity-put skew"
+      ],
+      "rationale": "Pre-Fed uncertainty and broader risk-off in global equities raise near-term volatility odds. Crypto liquidation pressure and macro jitters can spill into equities, lifting VIX above typical summer ranges.",
+      "id": "e078d3fe-b192-4c7c-8957-cc84615048af",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-08-30, the U.S. 10-year Treasury yield will close at least 12 bps below its 2025-08-19 close.",
+      "category": "rates",
+      "horizon_days": 11,
+      "deadline": "2025-08-30",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Use U.S. Treasury Daily Treasury Yield Curve Rates or FRED DGS10 series. Let Y0 be the 10y close on 2025-08-19. Success if any subsequent daily close through 2025-08-30 is \u2264 (Y0 \u2212 0.12 percentage points).",
+      "evidence": [
+        "https://www.marketwatch.com/story/why-a-wall-of-money-is-unlikely-to-flood-into-stocks-when-the-fed-cuts-rates-this-goldman-strategist-says-c38a8792",
+        "https://www.cnbc.com/2025/08/18/crypto-market-today.html"
+      ],
+      "monitoring_signals": [
+        "Fed funds futures (CME) and rate-cut odds",
+        "Treasury auction demand (bid-to-cover, tails)",
+        "Economic surprises (PMIs, jobless claims)",
+        "MOVE index and term premium estimates"
+      ],
+      "rationale": "Event risk around the upcoming Fed meeting and flight-to-quality flows amid equity/crypto volatility support a modest rally in duration.",
+      "id": "444fda34-a7f8-40aa-a226-f3f174a8f5f5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade intraday below $108,000 on Coinbase at least once by 2025-08-29.",
+      "category": "markets",
+      "horizon_days": 10,
+      "deadline": "2025-08-29",
+      "confidence_pct": 59,
+      "log_odds": 0.364,
+      "verification_criteria": "Verify using Coinbase BTC-USD trade data or OHLC data (e.g., TradingView). Any recorded intraday low < $108,000 from now until 2025-08-29 23:59:59 UTC counts.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/18/crypto-market-today.html",
+        "https://www.marketwatch.com/story/why-a-wall-of-money-is-unlikely-to-flood-into-stocks-when-the-fed-cuts-rates-this-goldman-strategist-says-c38a8792"
+      ],
+      "monitoring_signals": [
+        "Perpetual funding rates and basis",
+        "Open interest and liquidation heatmaps (e.g., Coinglass)",
+        "Dollar index (DXY) moves and U.S. yields",
+        "Stablecoin netflows and BTC realized volatility"
+      ],
+      "rationale": "Post-surge washouts and elevated leverage make further downside probes likely into Fed-related macro volatility.",
+      "id": "2ac2e74a-e6c9-4052-9822-e7781128a4dd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-19 close to 2025-09-13 close, Intel (INTC) will outperform the PHLX Semiconductor Index (SOX) by at least 5.0 percentage points.",
+      "category": "markets",
+      "horizon_days": 25,
+      "deadline": "2025-09-13",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Compute simple percentage returns using official closes (dividends ignored). INTC_return \u2212 SOX_return \u2265 +5.0 pp between 2025-08-19 and 2025-09-13 closings. Data from Nasdaq/Cboe for INTC and Nasdaq for ^SOX/PHLX SOX.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/18/technology/intel-trump-government-stake.html"
+      ],
+      "monitoring_signals": [
+        "U.S. policy headlines on potential government stake/CHIPS grants",
+        "SoftBank/strategic investor flows and analyst revisions for INTC",
+        "SOX breadth (NVDA/AMD leadership) and rotation into laggards",
+        "Foundry updates and customer pipeline news"
+      ],
+      "rationale": "Policy-backed catalysts can compress Intel\u2019s discount versus peers, while broader semis face cyclical digestion after strong runs.",
+      "id": "7ea3032c-8a12-4992-ad14-f8ae56a464b3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-15, at least one Fortune 500 company will disclose a material cybersecurity incident attributed to a third-party supplier or compromised open-source component.",
+      "category": "tech",
+      "horizon_days": 57,
+      "deadline": "2025-10-15",
+      "confidence_pct": 64,
+      "log_odds": 0.574,
+      "verification_criteria": "Success if a Fortune 500 firm files an SEC Form 8-K (Item 1.05) or issues a press release naming a vendor/supplier or open-source component as the breach vector and characterizing the incident as material.",
+      "evidence": [
+        "https://gizmodo.com/hr-giant-workday-got-hacked-2000644474",
+        "https://www.gizmodo.com.au/2025/08/xz-backdoor-still-lurking-in-docker-images-report-finds/"
+      ],
+      "monitoring_signals": [
+        "SEC 8-K filings feed for Item 1.05 disclosures",
+        "CISA advisories and KEV catalog updates",
+        "Vendor security bulletins and SBOM disclosures",
+        "Ransomware group blogs naming suppliers"
+      ],
+      "rationale": "Recent incidents highlight persistent supply-chain exposure; historical cadence suggests another material supplier-linked breach by mid-October.",
+      "id": "de7bc8fa-07f8-4059-b5ea-05030dc4ee7c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. national average regular gasoline price (AAA) will be at least $0.05/gal higher on 2025-09-02 than on 2025-08-19.",
+      "category": "energy",
+      "horizon_days": 14,
+      "deadline": "2025-09-02",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Check gasprices.aaa.com for the posted national average regular price on 2025-08-19 and 2025-09-02. Success if 2025-09-02 \u2265 (2025-08-19 + $0.05/gal).",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.eia.gov/petroleum/gasdiesel/"
+      ],
+      "monitoring_signals": [
+        "AAA daily national average and regional price trends",
+        "EIA weekly gasoline stocks and demand (PADD breakdown)",
+        "Crack spreads and Brent/WTI movements",
+        "Refinery utilization/outages ahead of Labor Day"
+      ],
+      "rationale": "Seasonal demand into Labor Day and tightness in gasoline cracks can nudge national averages higher near-term.",
+      "id": "a6668cc0-9044-46c9-9a60-9a419eecb9cd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, a China-based automaker will announce a new EV assembly plant or a manufacturing investment of at least $200 million outside China (e.g., EU, Mexico, Middle East).",
+      "category": "geopolitics",
+      "horizon_days": 73,
+      "deadline": "2025-10-31",
+      "confidence_pct": 61,
+      "log_odds": 0.447,
+      "verification_criteria": "Company press release or reputable media (Reuters, Bloomberg, FT) reporting a new assembly plant or manufacturing capex \u2265 $200M located outside China; announcement date on or before 2025-10-31.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/18/chinas-electric-car-industry-invests-more-overseas-than-at-home.html"
+      ],
+      "monitoring_signals": [
+        "Announcements from BYD, SAIC, Geely, Chery, Xiaomi Auto",
+        "Host-country incentives and approvals",
+        "Tariff/trade developments in U.S. and EU",
+        "Local JV/partnership MOUs and land-use filings"
+      ],
+      "rationale": "Chinese OEMs are accelerating overseas capacity to navigate tariffs and expand share; recent trend suggests another sizable commitment this quarter.",
+      "id": "0b1f7ea7-ddef-45ee-8a8b-069d146c1543",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}

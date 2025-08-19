@@ -1,0 +1,35 @@
+{
+  "date": "2025-08-18",
+  "assessments": [
+    {
+      "id": "2dc3cb8c-140e-4ce0-a5fd-7807b9690482",
+      "status": "pending",
+      "status_rationale": "The outcome depends on the U.S. 2-year yield change from the 2025-08-18 close to the 2025-08-26 close. Today\u2019s news does not provide end-window closing levels, so the result cannot yet be determined."
+    },
+    {
+      "id": "fb4b54d7-9795-4a6f-9b96-889b954689e3",
+      "status": "pending",
+      "status_rationale": "The performance window runs through the 2025-08-29 close. No definitive data on cumulative ITB vs. SPY performance over the specified dates is included in today\u2019s coverage."
+    },
+    {
+      "id": "136d65ad-2b28-477e-98cf-df876b6aea06",
+      "status": "pending",
+      "status_rationale": "August 2025 Core CPI will be released on 2025-09-11. No official print is available yet."
+    },
+    {
+      "id": "c16cbff3-7844-4a62-b91d-e3dd74be1a72",
+      "status": "pending",
+      "status_rationale": "The forecast targets the PMMS reading for the week ending 2025-09-19 relative to 2025-08-15. That weekly rate is not yet published."
+    },
+    {
+      "id": "aa31148d-76d0-441a-b9da-9f6c34a17a96",
+      "status": "pending",
+      "status_rationale": "The event window (2025-08-21 to 2025-08-26) has not begun. No qualifying S&P 500 move can be assessed yet."
+    },
+    {
+      "id": "ddfe0c28-7943-4b69-85b4-63b65cd0097b",
+      "status": "pending",
+      "status_rationale": "Deadline is 2025-10-31. Today\u2019s news includes no confirmed announcements of fee increases or benefit devaluations on the specified co-branded airline cards."
+    }
+  ]
+}

@@ -20,7 +20,7 @@
       ],
       "rationale": "Jackson Hole often shifts front-end expectations; 2Y is highly sensitive and has frequently moved >10 bps around prior conferences amid elevated uncertainty.",
       "id": "2dc3cb8c-140e-4ce0-a5fd-7807b9690482",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Homebuilders rallied on peak-rate hopes; Jackson Hole event risk could pressure duration-sensitive trades. ITB has high beta to rates.",
       "id": "fb4b54d7-9795-4a6f-9b96-889b954689e3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Services stickiness and goods disinflation suggest a 0.2\u20130.3% core print; retailer commentary points to persistent, but cooling, price pressures.",
       "id": "136d65ad-2b28-477e-98cf-df876b6aea06",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -88,7 +88,7 @@
       ],
       "rationale": "Easing inflation and growth data, plus policy clarity, favor modest rate relief; mortgage rates lag but track the 10-year and MBS spreads.",
       "id": "c16cbff3-7844-4a62-b91d-e3dd74be1a72",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "Jackson Hole often catalyzes volatility; a single \u22651.25% down day is plausible given rate sensitivity and crowded positioning.",
       "id": "aa31148d-76d0-441a-b9da-9f6c34a17a96",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "Airlines are demanding more from banks; rising costs have driven recent fee hikes and devaluations, making additional changes likely.",
       "id": "ddfe0c28-7943-4b69-85b4-63b65cd0097b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

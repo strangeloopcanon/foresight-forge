@@ -1,0 +1,116 @@
+{
+  "bullets": [
+    {
+      "text": "Trump\u2019s stance leaves Ukraine aid uncertain as Europe weighs troop-based \u2018security guarantees,\u2019 shaping Kyiv\u2019s leverage and war dynamics.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/18/world/europe/security-guarantees-troops-ukraine.html"
+    },
+    {
+      "text": "U.S. considers taking 10% stake in Intel as SoftBank invests $2B; shares rally, signaling aggressive industrial policy in chips.",
+      "tags": [
+        "tech",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/18/technology/intel-trump-government-stake.html"
+    },
+    {
+      "text": "Bitcoin dives to $115,000 after record highs as macro jitters trigger liquidations ahead of Fed, rippling across crypto.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/08/18/crypto-market-today.html"
+    },
+    {
+      "text": "Asia stocks track Wall Street lower before Fed meeting; Goldman doubts a post-cut \u2018wall of money\u2019 into equities.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/why-a-wall-of-money-is-unlikely-to-flood-into-stocks-when-the-fed-cuts-rates-this-goldman-strategist-says-c38a8792?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Corporate AI spending surges\u2014advertisers embrace tools\u2014amid bubble warnings from Sam Altman and reports of widespread zero-return projects.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/18/openai-sam-altman-warns-ai-market-is-in-a-bubble.html"
+    },
+    {
+      "text": "Workday breach and lingering XZ Utils backdoor in Docker images highlight persistent supply-chain security exposures.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://gizmodo.com/hr-giant-workday-got-hacked-2000644474"
+    },
+    {
+      "text": "Google boosts stake in TeraWulf and partners with Kairos Power to build TVA small modular reactor by 2030 for AI data centers.",
+      "tags": [
+        "energy",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/18/google-kairos-nuclear-smr-tennessee-valley-authority-tva-data-center-ai.html"
+    },
+    {
+      "text": "Wegovy wins FDA nod for MASH, lifting Novo shares; company also offers Ozempic steep cash discount, pressuring U.S. diabetes pricing.",
+      "tags": [
+        "markets",
+        "science"
+      ],
+      "link": "https://www.cnbc.com/2025/08/18/novo-nordisk-shares-pop-5percent-after-wegovy-receives-us-approval-for-liver-disease.html"
+    },
+    {
+      "text": "Walmart and Target front-load imports ahead of tariffs; retail accounting quirks may mask margin hits as duties bite.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/18/retail-earnings-how-accounting-could-change-profitability-amid-tariffs.html"
+    },
+    {
+      "text": "China\u2019s EV makers now invest more overseas than at home, accelerating global capacity shift amid trade and tariff tensions.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/18/chinas-electric-car-industry-invests-more-overseas-than-at-home.html"
+    },
+    {
+      "text": "Hamas accepts new Gaza cease-fire terms as Israel explores relocating Gazans to South Sudan, signaling volatile negotiations and regional risks.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/18/world/middleeast/hamas-israel-gaza-ceasefire.html"
+    },
+    {
+      "text": "Tighter U.S. immigration enforcement strains local labor\u2014Springfield, Ohio, loses Haitian workforce; D.C. crime crackdown leans on immigration actions.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/18/us/springfield-ohio-haitian-immigrants-trump.html"
+    },
+    {
+      "text": "New findings: NASA\u2019s PREFIRE tracks polar heat loss; hidden drivers behind methane surge identified; rising CO2 may intensify space storms\u2014refining climate risk models.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/08/250817055324.htm"
+    },
+    {
+      "text": "FDA greenlights lab-grown salmon; Oregon restaurant rollout marks U.S. milestone for cultivated seafood and alt-protein commercialization.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.smithsonianmag.com/smart-news/lab-grown-salmon-hits-the-menu-at-an-oregon-restaurant-as-the-fda-greenlights-the-cell-cultured-product-180986769/"
+    }
+  ]
+}

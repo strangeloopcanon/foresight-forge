@@ -280,3 +280,12 @@ Overall, the prediction quality and confidence calibration seem fairly accurate 
 
 ---
 
+
+## 2025-08-18
+
+None of today’s articles provide definitive, time-bound outcomes for the listed forecasts. Markets are focused on the upcoming Fed meeting, with headlines noting risk-off tone in Asia and crypto volatility, alongside firm-specific tech news (Intel investment, AI sector moves). These developments may influence near-term rates and equities, but the prediction windows either have not started, are in progress without end-point data, or are tied to future scheduled releases.
+
+Macro sentiment could increase the odds of larger rate and equity swings in the coming days, which is relevant for the 2-year yield move and the prospect of a 1.25% S&P down day in the 8/21–8/26 window. If risk-off persists or the Fed signals easier policy ahead, mortgage rates could drift lower into September, marginally supporting the PMMS call. Core CPI remains a data wait; sector news (drug pricing, obesity treatments) is unlikely to meaningfully shift August core ex-food/energy, which is dominated by shelter and services. The credit-card devaluation call remains event-driven and unaddressed by today’s reporting.
+
+---
+
