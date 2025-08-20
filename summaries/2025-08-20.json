@@ -1,0 +1,116 @@
+{
+  "bullets": [
+    {
+      "text": "Trump expands 50% steel and aluminum tariffs to 407 additional products, escalating protectionism and supply-chain costs across manufacturing.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/19/trump-trade-steel-aluminum-tariffs-.html"
+    },
+    {
+      "text": "S&P affirms U.S. credit rating; expects tariff revenue to offset tax bill\u2019s fiscal hit, easing deficit concerns near term.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/08/19/us-credit-rating-trump-tariff-revenue-tax-.html"
+    },
+    {
+      "text": "Japan\u2019s July exports fell 2.6%, steepest drop in 4+ years, signaling global demand softness and potential drag on Asia equities.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/20/japan-july-exports-imports-us-shipments-goods-trade-auto-reciprocal-tariffs-trump.html"
+    },
+    {
+      "text": "Nvidia says it\u2019s evaluating \u201cvariety of products\u201d after report of new China AI chip, underscoring shifting U.S.-China tech export constraints.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/19/nvidia-ai-china-chip.html"
+    },
+    {
+      "text": "Databricks valued above $100 billion in latest funding, reinforcing investor appetite for AI infrastructure despite broader market volatility.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/08/19/databricks-valuation-over-100-billion.html"
+    },
+    {
+      "text": "Apple increases iPhone production in India amid geopolitical tensions, accelerating supply-chain diversification away from China.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/19/apple-india-iphone-russia-trump.html"
+    },
+    {
+      "text": "Palo Alto Networks\u2019 earnings beat boosts confidence in cybersecurity demand, signaling resilient enterprise IT spending.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/palo-alto-networks-earnings-beat-sparks-investor-confidence-in-the-cybersecurity-industry-81d9087d?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Home Depot says tariffs will raise prices on select goods; home improvement demand remains solid despite margin pressures.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/home-depots-stock-falls-after-another-profit-miss-but-home-improvement-projects-increase-ac3742c1?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Senior living supply lags surging demand as boomers age, tightening occupancy and supporting rent growth, with investment implications.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/19/senior-living-housing-market-cant-keep-up-with-demand.html"
+    },
+    {
+      "text": "U.S. accuses India of profiteering from Russian oil, spotlighting sanctions leakage and energy trade realignment.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/08/19/us-accuses-india-of-profiteering-from-russian-oil.html"
+    },
+    {
+      "text": "Trump signals Ukraine \u201csecurity guarantees\u201d short of troops, potentially shifting burden to Europe and reshaping NATO commitments.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/08/19/security-guarantees-are-coming-for-ukraine-putting-europe-on-the-hook.html"
+    },
+    {
+      "text": "Shape-shifting single-atom catalyst enables adaptive activity for greener chemistry, promising more efficient industrial reactions.",
+      "tags": [
+        "science",
+        "energy",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/08/250818102955.htm"
+    },
+    {
+      "text": "Experimental cancer vaccine eradicates tumors in mice; early results warrant cautious optimism pending human trials.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/08/250818102951.htm"
+    },
+    {
+      "text": "Critical cache poisoning flaw disclosed in Dnsmasq threatens DNS integrity across embedded devices and routers; patch urgency is high.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
+    }
+  ]
+}

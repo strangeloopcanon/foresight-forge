@@ -1,0 +1,162 @@
+{
+  "date": "2025-08-20",
+  "predictions": [
+    {
+      "text": "By 2025-09-17, Ubuntu, Debian, and Red Hat will each publish a security advisory with fixed package versions addressing the newly disclosed Dnsmasq cache-poisoning vulnerability (CVE assigned August 2025).",
+      "category": "tech",
+      "horizon_days": 28,
+      "deadline": "2025-09-17",
+      "confidence_pct": 70,
+      "verification_criteria": "Official advisories on Ubuntu Security Notices, Debian Security Advisories, and Red Hat Errata list a CVE for Dnsmasq cache poisoning with fixed versions released by the deadline.",
+      "evidence": [
+        "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html",
+        "https://ubuntu.com/security/notices",
+        "https://www.debian.org/security/",
+        "https://access.redhat.com/errata"
+      ],
+      "monitoring_signals": [
+        "MITRE CVE assignment and severity details for the Dnsmasq issue",
+        "Package uploads/fixes in distro repositories (APT/YUM metadata)",
+        "USN/DSA/RHSA advisories referencing Dnsmasq cache poisoning",
+        "CISA alerts or KEV catalog additions involving Dnsmasq"
+      ],
+      "rationale": "Severe DNS flaws in widespread packages typically receive rapid, coordinated fixes from major Linux distributions.",
+      "id": "61f3f58f-95b6-474a-8d0d-7fd4d3af9aa1",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "From 2025-08-20 close to 2025-09-20 close, the ETF HACK will outperform QQQ by at least 2.0 percentage points.",
+      "category": "markets",
+      "horizon_days": 31,
+      "deadline": "2025-09-20",
+      "confidence_pct": 56,
+      "verification_criteria": "Calculate percentage price change (close-to-close, unadjusted for dividends) for HACK and QQQ from 2025-08-20 to 2025-09-20. HACK\u2019s change minus QQQ\u2019s change must be \u2265 2.0 percentage points.",
+      "evidence": [
+        "https://www.marketwatch.com/story/palo-alto-networks-earnings-beat-sparks-investor-confidence-in-the-cybersecurity-industry-81d9087d",
+        "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html"
+      ],
+      "monitoring_signals": [
+        "Cybersecurity vendor earnings/guidance (PANW, CRWD, FTNT, ZS)",
+        "Sector ETF flows (HACK, CIBR) vs. QQQ",
+        "High-profile breach disclosures or advisories boosting demand",
+        "Relative momentum/RSI for HACK vs QQQ"
+      ],
+      "rationale": "Strong cybersecurity prints and fresh high-severity vulns support short-term sector outperformance.",
+      "id": "3ec5745a-f8e5-4dd9-9259-be1feea3e6b9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-15, the U.S. Treasury (OFAC) will sanction at least one non-Russian entity or vessel for Russia oil price-cap evasion, explicitly cited in a Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 56,
+      "deadline": "2025-10-15",
+      "confidence_pct": 62,
+      "verification_criteria": "A U.S. Treasury press release announces designations where the narrative cites price-cap evasion or related maritime services, and the designated entity/vessel is domiciled/flagged outside Russia.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/19/us-accuses-india-of-profiteering-from-russian-oil.html",
+        "https://home.treasury.gov/news/press-releases"
+      ],
+      "monitoring_signals": [
+        "Treasury/OFAC periodic sanctions announcements",
+        "Maritime tracking of shadow fleet movements",
+        "EU/UK complementary sanctions updates",
+        "Fuel export discount dynamics and Urals/ESPO price differentials"
+      ],
+      "rationale": "Ongoing enforcement waves target third-country facilitators amid scrutiny of Russian oil flows.",
+      "id": "b9a36dc0-8726-4a1e-a7ce-df400a4f13a7",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. headline CPI (CPI-U, all items) for August 2025 will be 0.2% to 0.4% m/m (seasonally adjusted).",
+      "category": "macro",
+      "horizon_days": 22,
+      "deadline": "2025-09-11",
+      "confidence_pct": 58,
+      "verification_criteria": "BLS CPI release Table 1 shows the August 2025 seasonally adjusted all-items m/m change between 0.2% and 0.4%, inclusive.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/19/trump-trade-steel-aluminum-tariffs-.html",
+        "https://www.marketwatch.com/story/home-depots-stock-falls-after-another-profit-miss-but-home-improvement-projects-increase-ac3742c1",
+        "https://www.bls.gov/news.release/cpi.t01.htm"
+      ],
+      "monitoring_signals": [
+        "AAA national gasoline prices and EIA retail fuel data",
+        "Cleveland Fed CPI nowcast updates",
+        "Tariff pass-through mentions in retailer earnings",
+        "Core goods vs services price trends in high-frequency data"
+      ],
+      "rationale": "Modest energy contributions and gradual tariff pass-through point to a mid-range monthly print.",
+      "id": "6373f63a-ab4c-41b7-946d-a58d79968148",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-20, COMEX front-month copper (HG) will settle below $3.70/lb on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 31,
+      "deadline": "2025-09-20",
+      "confidence_pct": 57,
+      "verification_criteria": "CME/COMEX official settlement price for the front-month HG futures contract is < $3.7000/lb on any session before or on the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/20/japan-july-exports-imports-us-shipments-goods-trade-auto-reciprocal-tariffs-trump.html",
+        "https://www.cnbc.com/2025/08/19/trump-trade-steel-aluminum-tariffs-.html"
+      ],
+      "monitoring_signals": [
+        "China PMIs and property policy headlines",
+        "LME/SHFE copper inventories and spreads",
+        "Global export data (Japan/Korea/Taiwan) momentum",
+        "USD index (DXY) strength impacting commodities"
+      ],
+      "rationale": "Soft export data and stronger trade barriers weigh on industrial metals demand and prices.",
+      "id": "e54411d9-73f3-4e0f-b46c-9b5a736ff247",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent front-month settlement will close at or above $92.00/bbl at least once by 2025-10-01.",
+      "category": "energy",
+      "horizon_days": 42,
+      "deadline": "2025-10-01",
+      "confidence_pct": 55,
+      "verification_criteria": "ICE official settlement price for the prompt Brent contract is \u2265 $92.00/bbl on any trading day up to the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/19/us-accuses-india-of-profiteering-from-russian-oil.html",
+        "https://www.cnbc.com/2025/08/19/trump-trade-steel-aluminum-tariffs-.html"
+      ],
+      "monitoring_signals": [
+        "OPEC+ supply guidance and compliance",
+        "EIA/IEA inventory and demand revisions",
+        "Hurricane season disruptions and shipping incidents",
+        "Russian/ME export flows and sanction enforcement actions"
+      ],
+      "rationale": "Tighter supplies and sanction frictions raise upside tail risk into peak Atlantic hurricane season.",
+      "id": "06b866b4-4d76-407c-b1a0-1a1d14582e7f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, Nvidia will announce a China-compliant AI accelerator (new or modified model) designed to meet U.S. export rules, via an official Nvidia press release or SEC filing.",
+      "category": "tech",
+      "horizon_days": 72,
+      "deadline": "2025-10-31",
+      "confidence_pct": 61,
+      "verification_criteria": "Nvidia newsroom or SEC 8-K explicitly introduces an AI accelerator intended for China market compliance with U.S. export controls, with distinct product naming from existing global SKUs.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/19/nvidia-ai-china-chip.html",
+        "https://www.cnbc.com/2025/08/19/trump-trade-steel-aluminum-tariffs-.html"
+      ],
+      "monitoring_signals": [
+        "Nvidia product roadmaps and partner announcements in China",
+        "U.S. BIS export control updates and licensing guidance",
+        "Media leaks on China-specific GPU specs",
+        "Competitor (AMD/Intel) China-compliant product disclosures"
+      ],
+      "rationale": "Past precedent (H-series variants) and ongoing export constraints incentivize rapid, compliant product iterations.",
+      "id": "19df556f-0b39-4017-899b-285b850d74fb",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}

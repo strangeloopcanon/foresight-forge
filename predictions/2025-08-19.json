@@ -21,7 +21,7 @@
       ],
       "rationale": "Pre-Fed uncertainty and broader risk-off in global equities raise near-term volatility odds. Crypto liquidation pressure and macro jitters can spill into equities, lifting VIX above typical summer ranges.",
       "id": "e078d3fe-b192-4c7c-8957-cc84615048af",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Event risk around the upcoming Fed meeting and flight-to-quality flows amid equity/crypto volatility support a modest rally in duration.",
       "id": "444fda34-a7f8-40aa-a226-f3f174a8f5f5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Post-surge washouts and elevated leverage make further downside probes likely into Fed-related macro volatility.",
       "id": "2ac2e74a-e6c9-4052-9822-e7781128a4dd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Policy-backed catalysts can compress Intel\u2019s discount versus peers, while broader semis face cyclical digestion after strong runs.",
       "id": "7ea3032c-8a12-4992-ad14-f8ae56a464b3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -112,7 +112,7 @@
       ],
       "rationale": "Recent incidents highlight persistent supply-chain exposure; historical cadence suggests another material supplier-linked breach by mid-October.",
       "id": "de7bc8fa-07f8-4059-b5ea-05030dc4ee7c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -135,7 +135,7 @@
       ],
       "rationale": "Seasonal demand into Labor Day and tightness in gasoline cracks can nudge national averages higher near-term.",
       "id": "a6668cc0-9044-46c9-9a60-9a419eecb9cd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -157,7 +157,7 @@
       ],
       "rationale": "Chinese OEMs are accelerating overseas capacity to navigate tariffs and expand share; recent trend suggests another sizable commitment this quarter.",
       "id": "0b1f7ea7-ddef-45ee-8a8b-069d146c1543",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]

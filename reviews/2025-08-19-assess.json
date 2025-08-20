@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-19",
+  "assessments": [
+    {
+      "id": "e078d3fe-b192-4c7c-8957-cc84615048af",
+      "status": "pending",
+      "status_rationale": "No coverage of VIX levels or closes; deadline remains open through 2025-09-06."
+    },
+    {
+      "id": "444fda34-a7f8-40aa-a226-f3f174a8f5f5",
+      "status": "pending",
+      "status_rationale": "No specific 10-year Treasury yield close data versus 2025-08-19 provided; deadline is 2025-08-30."
+    },
+    {
+      "id": "2ac2e74a-e6c9-4052-9822-e7781128a4dd",
+      "status": "pending",
+      "status_rationale": "News mentions risk-off in crypto stocks but gives no verified BTC intraday price on Coinbase; deadline is 2025-08-29."
+    },
+    {
+      "id": "7ea3032c-8a12-4992-ad14-f8ae56a464b3",
+      "status": "pending",
+      "status_rationale": "No comparative performance data for INTC vs. SOX from 2025-08-19 to 2025-09-13; window still open."
+    },
+    {
+      "id": "de7bc8fa-07f8-4059-b5ea-05030dc4ee7c",
+      "status": "pending",
+      "status_rationale": "No Fortune 500 disclosure of a material cyber incident tied to a supplier or open-source component reported; only earnings/news sentiment on cybersecurity."
+    },
+    {
+      "id": "a6668cc0-9044-46c9-9a60-9a419eecb9cd",
+      "status": "pending",
+      "status_rationale": "No AAA national average gasoline price data cited for 2025-08-19 or 2025-09-02; deadline not reached."
+    },
+    {
+      "id": "0b1f7ea7-ddef-45ee-8a8b-069d146c1543",
+      "status": "pending",
+      "status_rationale": "No report of a China-based automaker committing \u2265$200M to an overseas EV plant/investment; deadline is 2025-10-31."
+    }
+  ]
+}
