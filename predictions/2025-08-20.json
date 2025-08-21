@@ -22,7 +22,7 @@
       ],
       "rationale": "Severe DNS flaws in widespread packages typically receive rapid, coordinated fixes from major Linux distributions.",
       "id": "61f3f58f-95b6-474a-8d0d-7fd4d3af9aa1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Strong cybersecurity prints and fresh high-severity vulns support short-term sector outperformance.",
       "id": "3ec5745a-f8e5-4dd9-9259-be1feea3e6b9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -66,7 +66,7 @@
       ],
       "rationale": "Ongoing enforcement waves target third-country facilitators amid scrutiny of Russian oil flows.",
       "id": "b9a36dc0-8726-4a1e-a7ce-df400a4f13a7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Modest energy contributions and gradual tariff pass-through point to a mid-range monthly print.",
       "id": "6373f63a-ab4c-41b7-946d-a58d79968148",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -111,7 +111,7 @@
       ],
       "rationale": "Soft export data and stronger trade barriers weigh on industrial metals demand and prices.",
       "id": "e54411d9-73f3-4e0f-b46c-9b5a736ff247",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -133,7 +133,7 @@
       ],
       "rationale": "Tighter supplies and sanction frictions raise upside tail risk into peak Atlantic hurricane season.",
       "id": "06b866b4-4d76-407c-b1a0-1a1d14582e7f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -155,7 +155,7 @@
       ],
       "rationale": "Past precedent (H-series variants) and ongoing export constraints incentivize rapid, compliant product iterations.",
       "id": "19df556f-0b39-4017-899b-285b850d74fb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]

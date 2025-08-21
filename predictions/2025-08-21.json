@@ -1,0 +1,165 @@
+{
+  "date": "2025-08-21",
+  "predictions": [
+    {
+      "text": "The U.S. Core PCE price index (m/m, SA) for August 2025 will be between 0.1% and 0.3%.",
+      "category": "macro",
+      "horizon_days": 36,
+      "deadline": "2025-09-26",
+      "confidence_pct": 58,
+      "verification_criteria": "From the BEA 'Personal Income and Outlays' release for Aug 2025, confirm the monthly percent change for 'PCE Price Index Excluding Food and Energy (SA)' is >=0.1% and <=0.3%.",
+      "evidence": [
+        "https://www.bea.gov/news/schedule",
+        "https://www.bea.gov/data/inflation-prices/personal-consumption-expenditures-price-index",
+        "https://www.cnbc.com/2025/08/20/fed-minutes-august-2025.html"
+      ],
+      "monitoring_signals": [
+        "August CPI and PPI details (core goods, supercore services)",
+        "Unit labor cost and productivity revisions",
+        "Company pricing commentary in earnings",
+        "High-frequency card and airfare data"
+      ],
+      "rationale": "Core goods disinflation and easing shelter should offset sticky services, keeping core PCE in a moderate range.",
+      "id": "9611c1b2-c84a-4a2f-8010-f7f0eb1ae485",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-12, the U.S. 2s10s Treasury yield spread (10Y minus 2Y, closing values) will be at least 8 basis points larger than on 2025-08-20.",
+      "category": "rates",
+      "horizon_days": 22,
+      "deadline": "2025-09-12",
+      "confidence_pct": 58,
+      "verification_criteria": "Use Federal Reserve H.15 or FRED (DGS10 minus DGS2) daily closes. Compare 2025-09-12 close to 2025-08-20 close; increase >= 0.08 percentage points confirms.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.cnbc.com/2025/08/20/fed-minutes-august-2025.html",
+        "https://www.cnbc.com/2025/08/20/hassett-likely-to-be-trumps-pick-for-fed-chief-though-warsh-is-more-qualified-cnbc-survey-finds.html"
+      ],
+      "monitoring_signals": [
+        "CME FedWatch probabilities for September",
+        "2Y and 10Y auction results and tails",
+        "MOVE index (rates volatility)",
+        "Inflation data surprises (CPI/PCE)"
+      ],
+      "rationale": "Rising cut odds should pull the 2Y down faster than the 10Y, modestly steepening the curve.",
+      "id": "da552ede-7795-4a5a-9fee-1e81976bc2be",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-21 close to 2025-09-26 close, XLU will outperform SPY by at least 2.0 percentage points based on adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 36,
+      "deadline": "2025-09-26",
+      "confidence_pct": 56,
+      "verification_criteria": "Calculate percentage change in adjusted close from 2025-08-21 to 2025-09-26 for XLU and SPY (e.g., Yahoo Finance). If (XLU % change \u2212 SPY % change) >= 2.0 pp, the prediction is correct.",
+      "evidence": [
+        "https://www.marketwatch.com/story/the-s-p-500-is-at-its-most-expensive-by-this-measure-these-stocks-have-bucked-the-trend-16fac7be",
+        "https://finance.yahoo.com/quote/XLU/history",
+        "https://finance.yahoo.com/quote/SPY/history"
+      ],
+      "monitoring_signals": [
+        "10Y Treasury yield direction",
+        "VIX level and breadth into defensives",
+        "Utility rate case headlines",
+        "Storm and outage risks impacting utilities"
+      ],
+      "rationale": "Defensive bid and mild rate relief typically support utilities versus the broad market during policy uncertainty.",
+      "id": "6a11ea84-3618-44e6-8bc2-0ab905aa9e5e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-01, NYMEX Henry Hub natural gas front-month futures will settle at or above $3.10 per MMBtu at least once.",
+      "category": "energy",
+      "horizon_days": 41,
+      "deadline": "2025-10-01",
+      "confidence_pct": 55,
+      "verification_criteria": "Use CME Group official daily settlements for the prompt NG contract; any settlement on or before 2025-10-01 >= $3.10/MMBtu confirms.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.html",
+        "https://www.eia.gov/naturalgas/weekly/",
+        "https://www.noaa.gov/news"
+      ],
+      "monitoring_signals": [
+        "Gulf hurricane tracks and LNG terminal impacts",
+        "EIA storage weekly injections/withdrawals",
+        "LNG feedgas volumes and export outages",
+        "Power burn and temperature anomalies"
+      ],
+      "rationale": "Late-summer heat, LNG flows, and hurricane risks can tighten near-term balances and lift the prompt contract.",
+      "id": "f9f7ff71-b0e2-4127-9901-d5e0ec75e95b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-15, Intel will announce a strategic equity or equity-linked financing of at least $5 billion involving SoftBank Group or its affiliates, via an Intel press release or SEC filing.",
+      "category": "tech",
+      "horizon_days": 55,
+      "deadline": "2025-10-15",
+      "confidence_pct": 55,
+      "verification_criteria": "An Intel IR press release or SEC Form 8-K/10-Q naming SoftBank (or affiliates) and disclosing >= $5B of new equity, convertible, or similar financing satisfies the condition.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/20/intel-investors-equity-softbank-trump.html",
+        "https://www.intc.com/",
+        "https://group.softbank/en/news"
+      ],
+      "monitoring_signals": [
+        "Intel IR updates and 8-K filings",
+        "SoftBank investment announcements",
+        "Press reports on deal terms and regulatory reviews",
+        "Rating agency notes on Intel funding"
+      ],
+      "rationale": "Capital needs and reported SoftBank talks create a plausible window for a sizeable financing announcement.",
+      "id": "5d1e2756-818e-4917-87c8-03f182f39e0f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-21 00:00 UTC to 2025-09-30 00:00 UTC, Ethereum (ETH-USD) will outperform Bitcoin (BTC-USD) by at least 4.0 percentage points in USD return.",
+      "category": "markets",
+      "horizon_days": 40,
+      "deadline": "2025-09-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Using CoinMarketCap daily close (00:00 UTC), compute % change in ETH and BTC between the timestamps; if ETH return minus BTC return >= 4.0 pp, this is correct.",
+      "evidence": [
+        "https://coinmarketcap.com/currencies/bitcoin/",
+        "https://coinmarketcap.com/currencies/ethereum/"
+      ],
+      "monitoring_signals": [
+        "ETH/BTC ratio moves",
+        "ETF/fund flow headlines",
+        "L2 activity and gas fees",
+        "Perpetual funding rates and open interest"
+      ],
+      "rationale": "Rotation into higher-beta crypto and ecosystem activity can drive relative ETH strength near-term.",
+      "id": "cbf6afb0-319a-4792-82a9-7063ab22bba3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-30, COMEX Gold (GC) front-month futures will settle at or above $2,600 per troy ounce at least once.",
+      "category": "markets",
+      "horizon_days": 40,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Use CME Group official daily settlement for the active GC contract; any settlement on or before 2025-09-30 >= $2,600/oz confirms.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/20/fed-minutes-august-2025.html",
+        "https://www.cmegroup.com/markets/metals/precious/gold.html"
+      ],
+      "monitoring_signals": [
+        "DXY and real 10Y yields (TIPS)",
+        "Central bank gold purchase data",
+        "Geopolitical risk headlines",
+        "ETF flows (e.g., GLD) and futures positioning (CFTC COT)"
+      ],
+      "rationale": "Policy uncertainty and resilient central-bank demand support upside tail risk in gold.",
+      "id": "9f9bd19a-5940-43de-ac98-a9682a32cf79",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

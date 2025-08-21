@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-20",
+  "assessments": [
+    {
+      "id": "61f3f58f-95b6-474a-8d0d-7fd4d3af9aa1",
+      "status": "pending",
+      "status_rationale": "No vendor advisories or CVE-specific coverage appeared in today's news; deadline 2025-09-17 remains ahead."
+    },
+    {
+      "id": "3ec5745a-f8e5-4dd9-9259-be1feea3e6b9",
+      "status": "pending",
+      "status_rationale": "The performance window runs from 2025-08-20 close to 2025-09-20 close; outcome cannot be determined yet."
+    },
+    {
+      "id": "b9a36dc0-8726-4a1e-a7ce-df400a4f13a7",
+      "status": "pending",
+      "status_rationale": "No OFAC press release or reporting of new non-Russian price-cap sanctions in today's coverage; deadline is 2025-10-15."
+    },
+    {
+      "id": "6373f63a-ab4c-41b7-946d-a58d79968148",
+      "status": "pending",
+      "status_rationale": "August CPI data has not been released (expected mid-September); no m/m figure reported yet."
+    },
+    {
+      "id": "e54411d9-73f3-4e0f-b46c-9b5a736ff247",
+      "status": "pending",
+      "status_rationale": "No COMEX copper settlement levels were cited today; threshold check continues through 2025-09-20."
+    },
+    {
+      "id": "06b866b4-4d76-407c-b1a0-1a1d14582e7f",
+      "status": "pending",
+      "status_rationale": "No report of ICE Brent settling at or above $92 appeared today; deadline remains 2025-10-01."
+    },
+    {
+      "id": "19df556f-0b39-4017-899b-285b850d74fb",
+      "status": "pending",
+      "status_rationale": "No Nvidia announcement of a China-compliant accelerator was reported today; deadline is 2025-10-31."
+    }
+  ]
+}
