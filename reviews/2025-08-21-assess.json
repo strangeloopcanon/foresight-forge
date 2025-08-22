@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-21",
+  "assessments": [
+    {
+      "id": "9611c1b2-c84a-4a2f-8010-f7f0eb1ae485",
+      "status": "pending",
+      "status_rationale": "No August Core PCE print has been released; none of today's reports provide the m/m value."
+    },
+    {
+      "id": "da552ede-7795-4a5a-9fee-1e81976bc2be",
+      "status": "pending",
+      "status_rationale": "No definitive 2s10s spread levels versus 2025-08-20 were reported; deadline not yet reached."
+    },
+    {
+      "id": "6a11ea84-3618-44e6-8bc2-0ab905aa9e5e",
+      "status": "pending",
+      "status_rationale": "The performance window has just begun and no conclusive XLU vs. SPY return data was provided."
+    },
+    {
+      "id": "f9f7ff71-b0e2-4127-9901-d5e0ec75e95b",
+      "status": "pending",
+      "status_rationale": "No confirmed Henry Hub front-month settlement at or above $3.10/MMBtu in the coverage."
+    },
+    {
+      "id": "5d1e2756-818e-4917-87c8-03f182f39e0f",
+      "status": "pending",
+      "status_rationale": "No Intel announcement of a $5B+ equity or equity-linked deal with SoftBank was reported."
+    },
+    {
+      "id": "cbf6afb0-319a-4792-82a9-7063ab22bba3",
+      "status": "pending",
+      "status_rationale": "ETH vs. BTC relative performance over the specified window remains unresolved; no outcome data today."
+    },
+    {
+      "id": "9f9bd19a-5940-43de-ac98-a9682a32cf79",
+      "status": "pending",
+      "status_rationale": "No evidence that COMEX Gold front-month settled at or above $2,600/oz; deadline still ahead."
+    }
+  ]
+}

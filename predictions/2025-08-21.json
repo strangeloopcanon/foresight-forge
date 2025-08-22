@@ -21,7 +21,7 @@
       ],
       "rationale": "Core goods disinflation and easing shelter should offset sticky services, keeping core PCE in a moderate range.",
       "id": "9611c1b2-c84a-4a2f-8010-f7f0eb1ae485",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Rising cut odds should pull the 2Y down faster than the 10Y, modestly steepening the curve.",
       "id": "da552ede-7795-4a5a-9fee-1e81976bc2be",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -68,7 +68,7 @@
       ],
       "rationale": "Defensive bid and mild rate relief typically support utilities versus the broad market during policy uncertainty.",
       "id": "6a11ea84-3618-44e6-8bc2-0ab905aa9e5e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -91,7 +91,7 @@
       ],
       "rationale": "Late-summer heat, LNG flows, and hurricane risks can tighten near-term balances and lift the prompt contract.",
       "id": "f9f7ff71-b0e2-4127-9901-d5e0ec75e95b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -114,7 +114,7 @@
       ],
       "rationale": "Capital needs and reported SoftBank talks create a plausible window for a sizeable financing announcement.",
       "id": "5d1e2756-818e-4917-87c8-03f182f39e0f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "Rotation into higher-beta crypto and ecosystem activity can drive relative ETH strength near-term.",
       "id": "cbf6afb0-319a-4792-82a9-7063ab22bba3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "Policy uncertainty and resilient central-bank demand support upside tail risk in gold.",
       "id": "9f9bd19a-5940-43de-ac98-a9682a32cf79",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

@@ -307,3 +307,12 @@ Market-related items—Fed minutes noting concern over tariffs and inflation, te
 
 ---
 
+
+## 2025-08-21
+
+Today’s news flow centered on U.S. politics and expectations for Chair Powell’s Jackson Hole remarks, with several pieces noting potential market sensitivity but providing no hard economic prints or asset settlement levels. There were no concrete data releases on PCE, Treasury curve levels, or specific price milestones for gold, natural gas, or crypto in the items summarized.
+
+Given this, none of yesterday’s forecasts can be resolved. Several remain in early or mid-window phases (yield spread by mid-September; asset performance through late September; commodities thresholds by end-September/early October). Upcoming macro catalysts—Jackson Hole guidance and subsequent data—could materially affect rates, gold, and crypto paths, but today’s coverage does not furnish decisive evidence to change statuses.
+
+---
+

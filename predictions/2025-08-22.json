@@ -1,0 +1,173 @@
+{
+  "date": "2025-08-22",
+  "predictions": [
+    {
+      "text": "USD/JPY spot will trade at or above 152.00 at least once by 2025-09-20 (UTC).",
+      "category": "markets",
+      "horizon_days": 29,
+      "deadline": "2025-09-20",
+      "confidence_pct": 57,
+      "log_odds": 0.281,
+      "verification_criteria": "Any reputable FX data source (Bloomberg, Refinitiv, ICE/TradingView) shows intraday USD/JPY high >= 152.00 before 2025-09-20 23:59:59 UTC.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/22/japan-core-inflation-dips-to-lowest-since-march-as-rice-prices-cool-toyko-cpi-food-energy.html",
+        "https://www.cnbc.com/2025/08/21/powell-to-deliver-jackson-hole-speech-friday-what-wall-street-expects.html"
+      ],
+      "monitoring_signals": [
+        "US 10Y Treasury yield (DGS10) daily moves",
+        "BOJ policy commentary and JGB purchase operations",
+        "Tokyo CPI and wage data",
+        "US payrolls and PCE surprises",
+        "Risk sentiment and oil prices"
+      ],
+      "rationale": "BOJ normalization remains tentative while US yields stay elevated; rising policy risk premia and data-dependent Fed path support USD strength.",
+      "id": "6297488f-1b0d-46f6-b271-6526ef057dad",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PPI Final Demand m/m (seasonally adjusted) for August 2025 will print between 0.1% and 0.4%.",
+      "category": "macro",
+      "horizon_days": 22,
+      "deadline": "2025-09-13",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "BLS news release for Producer Price Index shows the August 2025 Final Demand m/m SA change >= 0.1% and <= 0.4%.",
+      "evidence": [
+        "https://www.bls.gov/ppi/",
+        "https://www.cnbc.com/2025/08/21/walmart-wmt-q2-2026-earnings.html"
+      ],
+      "monitoring_signals": [
+        "ISM Prices Paid indices",
+        "Energy and diesel price trends",
+        "Freight spot rates and supply chain indicators",
+        "Wholesale inventories",
+        "Unit labor cost revisions"
+      ],
+      "rationale": "Goods disinflation persists and services pressures are moderating; energy base effects are contained, pointing to a modest PPI print.",
+      "id": "6638e212-7511-4570-8948-a7f71e9da362",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-22 close to 2025-09-27 close, XLP will outperform XLY by at least 3.0 percentage points based on adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 36,
+      "deadline": "2025-09-27",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Using adjusted close prices (e.g., Yahoo Finance/Bloomberg), compute total return % from 2025-08-22 close to 2025-09-27 close for XLP and XLY; (XLP_return \u2212 XLY_return) >= 3.0 pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/21/walmart-wmt-q2-2026-earnings.html"
+      ],
+      "monitoring_signals": [
+        "AAA national gasoline prices",
+        "Retail sales control group",
+        "Consumer sentiment and revolving credit",
+        "Big-box/discount retailer guidance",
+        "Jobless claims trend"
+      ],
+      "rationale": "Consumers are trading down; staples defensiveness and pricing power should beat discretionary amid margin and demand pressure.",
+      "id": "c385911f-c901-4fb2-9781-8b05859c3964",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-year Treasury yield (constant maturity) will close at or above 4.45% on at least one trading day by 2025-09-20.",
+      "category": "rates",
+      "horizon_days": 29,
+      "deadline": "2025-09-20",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "U.S. Treasury Daily Treasury Yield Curve Rates (series DGS10) shows any close >= 4.45% on or before 2025-09-20.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/21/powell-to-deliver-jackson-hole-speech-friday-what-wall-street-expects.html",
+        "https://www.cnbc.com/2025/08/21/trump-powell-cook-fed-mortgage-fraud.html",
+        "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv"
+      ],
+      "monitoring_signals": [
+        "FOMC communications and rate path probability",
+        "CPI/PCE surprises",
+        "Treasury refunding/auction outcomes",
+        "MOVE index readings",
+        "Term premium estimates"
+      ],
+      "rationale": "Policy uncertainty and Treasury supply can lift term premium; a cautious Fed path keeps long rates elevated.",
+      "id": "8f39f6a3-4d4a-4b70-957b-75b17793ee3f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-30, at least one of TP-Link, Netgear, Asus, or Ubiquiti will publish a firmware update or security advisory explicitly addressing the August 2025 Dnsmasq cache-poisoning CVE.",
+      "category": "tech",
+      "horizon_days": 39,
+      "deadline": "2025-09-30",
+      "confidence_pct": 62,
+      "log_odds": 0.49,
+      "verification_criteria": "A vendor advisory or firmware release notes on the official site for TP-Link, Netgear, Asus, or Ubiquiti that names the August 2025 Dnsmasq CVE and indicates a fix/mitigation, dated on or before 2025-09-30.",
+      "evidence": [
+        "Dnsmasq cache-poisoning CVE assigned August 2025 (industry disclosures)",
+        "https://ubuntu.com/security/notices",
+        "https://www.thekelleys.org.uk/dnsmasq/doc.html"
+      ],
+      "monitoring_signals": [
+        "Vendor PSIRT/advisory feeds",
+        "Upstream dnsmasq release notes",
+        "Linux distro patch releases",
+        "CVE updates on cve.org",
+        "CERT/CSIRT alerts"
+      ],
+      "rationale": "Vulnerability severity and broad device exposure make vendor advisories likely after distro fixes emerge.",
+      "id": "79fe6cd8-0a91-4ecd-a5a8-35c191758ed9",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "From 2025-08-22 close to 2025-09-30 close, Alphabet (GOOGL) will outperform Microsoft (MSFT) by at least 2.0 percentage points based on adjusted close prices.",
+      "category": "tech",
+      "horizon_days": 39,
+      "deadline": "2025-09-30",
+      "confidence_pct": 57,
+      "log_odds": 0.281,
+      "verification_criteria": "Using adjusted close prices (e.g., Nasdaq/Yahoo Finance), compute total returns for GOOGL and MSFT from 2025-08-22 close to 2025-09-30 close; (GOOGL_return \u2212 MSFT_return) >= 2.0 pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/21/google-scores-six-year-meta-cloud-deal-worth-over-10-billion.html",
+        "https://www.cnbc.com/2025/08/21/workday-wday-q2-earnings-report-2026.html"
+      ],
+      "monitoring_signals": [
+        "Hyperscaler deal announcements/backlog disclosures",
+        "AI infra capex guidance from large platforms",
+        "Cloud price/performance narratives",
+        "GPU supply and delivery timelines",
+        "Customer migrations between clouds"
+      ],
+      "rationale": "A headline GCP win and competitive momentum can shift relative sentiment toward Alphabet versus Azure-heavy Microsoft near term.",
+      "id": "539e857f-8cf4-4202-92d1-8e62327251f9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-22 close to 2025-09-30 close, Tesla (TSLA) will underperform QQQ by at least 4.0 percentage points based on adjusted close prices.",
+      "category": "tech",
+      "horizon_days": 39,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Using adjusted close prices (e.g., Nasdaq/Yahoo Finance), compute total returns from 2025-08-22 close to 2025-09-30 close; (TSLA_return \u2212 QQQ_return) <= \u22124.0 pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/21/tesla-musk-safety-probe-crash-report.html"
+      ],
+      "monitoring_signals": [
+        "NHTSA investigation updates",
+        "Delivery trackers and pricing changes",
+        "EV incentives and competitive pricing in China/EU",
+        "Interest rate moves and credit conditions",
+        "Autopilot/FSD regulatory developments"
+      ],
+      "rationale": "Regulatory overhang and pricing pressure amid a competitive EV backdrop can weigh on TSLA relative to broad tech.",
+      "id": "d83d51e8-375f-4d9f-8a03-a4e267e47b0f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
