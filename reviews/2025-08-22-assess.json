@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-22",
+  "assessments": [
+    {
+      "id": "6297488f-1b0d-46f6-b271-6526ef057dad",
+      "status": "pending",
+      "status_rationale": "No report that USD/JPY hit 152.00; deadline is still in the future."
+    },
+    {
+      "id": "6638e212-7511-4570-8948-a7f71e9da362",
+      "status": "pending",
+      "status_rationale": "August 2025 PPI has not been released yet; no print cited in today\u2019s news."
+    },
+    {
+      "id": "c385911f-c901-4fb2-9781-8b05859c3964",
+      "status": "pending",
+      "status_rationale": "Performance window has just begun and no definitive XLP vs. XLY outcome is available."
+    },
+    {
+      "id": "8f39f6a3-4d4a-4b70-957b-75b17793ee3f",
+      "status": "pending",
+      "status_rationale": "Reports highlight a bond rally after Powell\u2019s speech, but no evidence of a 10Y close at or above 4.45%."
+    },
+    {
+      "id": "79fe6cd8-0a91-4ecd-a5a8-35c191758ed9",
+      "status": "pending",
+      "status_rationale": "No vendor advisories from the listed companies about the August 2025 Dnsmasq CVE were noted; deadline remains ahead."
+    },
+    {
+      "id": "539e857f-8cf4-4202-92d1-8e62327251f9",
+      "status": "pending",
+      "status_rationale": "While Google shares reportedly rose on Siri/Gemini news, the multi-week relative return vs. Microsoft is unresolved."
+    },
+    {
+      "id": "d83d51e8-375f-4d9f-8a03-a4e267e47b0f",
+      "status": "pending",
+      "status_rationale": "No clear evidence yet of Tesla underperforming QQQ by the specified margin over the full period."
+    }
+  ]
+}

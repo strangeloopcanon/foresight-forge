@@ -22,7 +22,7 @@
       ],
       "rationale": "BOJ normalization remains tentative while US yields stay elevated; rising policy risk premia and data-dependent Fed path support USD strength.",
       "id": "6297488f-1b0d-46f6-b271-6526ef057dad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Goods disinflation persists and services pressures are moderating; energy base effects are contained, pointing to a modest PPI print.",
       "id": "6638e212-7511-4570-8948-a7f71e9da362",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -69,7 +69,7 @@
       ],
       "rationale": "Consumers are trading down; staples defensiveness and pricing power should beat discretionary amid margin and demand pressure.",
       "id": "c385911f-c901-4fb2-9781-8b05859c3964",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "rationale": "Policy uncertainty and Treasury supply can lift term premium; a cautious Fed path keeps long rates elevated.",
       "id": "8f39f6a3-4d4a-4b70-957b-75b17793ee3f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Vulnerability severity and broad device exposure make vendor advisories likely after distro fixes emerge.",
       "id": "79fe6cd8-0a91-4ecd-a5a8-35c191758ed9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -143,7 +143,7 @@
       ],
       "rationale": "A headline GCP win and competitive momentum can shift relative sentiment toward Alphabet versus Azure-heavy Microsoft near term.",
       "id": "539e857f-8cf4-4202-92d1-8e62327251f9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Regulatory overhang and pricing pressure amid a competitive EV backdrop can weigh on TSLA relative to broad tech.",
       "id": "d83d51e8-375f-4d9f-8a03-a4e267e47b0f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

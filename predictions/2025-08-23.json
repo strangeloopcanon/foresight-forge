@@ -1,0 +1,156 @@
+{
+  "date": "2025-08-23",
+  "predictions": [
+    {
+      "text": "By 2025-09-30, U.S. Customs and Border Protection will publish in the Federal Register an NPRM or interim final rule modifying de minimis treatment under 19 U.S.C. 1321.",
+      "category": "geopolitics",
+      "horizon_days": 38,
+      "deadline": "2025-09-30",
+      "confidence_pct": 61,
+      "verification_criteria": "A Federal Register entry from CBP/DHS by the deadline labeled 'Notice of Proposed Rulemaking' or 'Interim Final Rule' that changes de minimis eligibility or threshold under 19 U.S.C. 1321. Third-party reports are insufficient.",
+      "evidence": [
+        "https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end",
+        "https://www.cnbc.com/2025/08/22/trump-tariffs-furniture-trade.html"
+      ],
+      "monitoring_signals": [
+        "New CBP or DHS entries on federalregister.gov referencing de minimis",
+        "OIRA/OMB reginfo.gov status updates for CBP de minimis rules",
+        "CBP press releases, USTR announcements, or White House statements on small parcel imports",
+        "Carrier and postal service policy updates on U.S.-bound parcels"
+      ],
+      "rationale": "Policy momentum and carrier disruptions suggest imminent formal rulemaking to alter de minimis.",
+      "id": "09dd0314-6795-4eae-8c1d-ebb61816add7",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-10-15, at least one U.S. offshore wind project of \u2265 500 MW will be officially paused, canceled, or have permits suspended by a federal or state authority or by the developer citing regulatory action.",
+      "category": "energy",
+      "horizon_days": 53,
+      "deadline": "2025-10-15",
+      "confidence_pct": 60,
+      "verification_criteria": "A dated public order or press release from BOEM, a state regulator, or the project developer confirming a pause, cancellation, or permit suspension affecting a \u2265 500 MW offshore wind project by the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/22/climate/trump-administration-halts-revolution-wind.html"
+      ],
+      "monitoring_signals": [
+        "BOEM docket updates and Federal Register notices",
+        "State PSC agenda items and orders related to offshore wind",
+        "Developer (e.g., \u00d8rsted, Equinor) earnings calls and press releases",
+        "Litigation stays or injunctions affecting project permits"
+      ],
+      "rationale": "Recent federal intervention raises project risk; further regulatory actions are likely near term.",
+      "id": "f1350980-5250-4104-8d0f-f9542931ab49",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "University of Michigan September 2025 preliminary 1-year inflation expectations will print between 2.8% and 3.3%.",
+      "category": "macro",
+      "horizon_days": 21,
+      "deadline": "2025-09-13",
+      "confidence_pct": 57,
+      "verification_criteria": "Confirm the preliminary September 2025 1-year inflation expectations value in the University of Michigan Surveys of Consumers press release on the official website; value must fall within 2.8%\u20133.3%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/22/powell-indicates-conditions-may-warrant-interest-rate-cuts-as-fed-proceeds-carefully.html",
+        "https://gasprices.aaa.com/"
+      ],
+      "monitoring_signals": [
+        "AAA national gasoline price trends",
+        "Inflation swap pricing and TIPS breakevens",
+        "Tariff announcements and import cost developments",
+        "UMich preview notes and high-frequency consumer sentiment indicators"
+      ],
+      "rationale": "Easing policy tone offsets tariff and fuel risks, keeping short-term expectations anchored.",
+      "id": "a0ed798a-b98f-4a25-a18f-d6f4357589f4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-30, the U.S. 2s10s Treasury yield spread (DGS10 minus DGS2, FRED daily close) will be positive (>0 bps) on at least one trading day.",
+      "category": "rates",
+      "horizon_days": 38,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Using FRED daily series DGS10 and DGS2, compute DGS10 \u2212 DGS2. Any close > 0.00 percentage points by the deadline satisfies the condition.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/22/powell-indicates-conditions-may-warrant-interest-rate-cuts-as-fed-proceeds-carefully.html"
+      ],
+      "monitoring_signals": [
+        "Moves in 2-year and 10-year Treasury yields",
+        "Fed funds/SONIA/SOFR futures pricing of cuts",
+        "Key data releases (CPI, PCE, payrolls), and Fedspeak",
+        "Treasury refunding announcements and term premium proxies"
+      ],
+      "rationale": "Front-end should lead on cut pricing, enabling a brief bear/bull steepening to positive.",
+      "id": "51a5432f-cd00-4038-af0d-55b9de17a185",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-23 close to 2025-09-30 close, the iShares Transportation Average ETF (IYT) will underperform SPDR S&P 500 ETF (SPY) by at least 2.0 percentage points based on adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 38,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Use adjusted close prices from a reputable source (e.g., Yahoo Finance). Compute percentage returns over the interval; IYT return minus SPY return must be \u2264 -2.0 percentage points.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/22/trump-tariffs-furniture-trade.html",
+        "https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end",
+        "https://www.eia.gov/petroleum/gasdiesel/"
+      ],
+      "monitoring_signals": [
+        "Brent and WTI prices; EIA diesel retail prices",
+        "Cass Freight Index and freight spot rates",
+        "UPS, FedEx, airline unit revenue and fuel guidance",
+        "U.S. customs/de minimis policy changes and shipping delays"
+      ],
+      "rationale": "Fuel cost risk and trade frictions weigh on transports versus broad equities.",
+      "id": "7c6a61d5-504e-4f74-8e72-a47b37c0ec3e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the White House will announce a nominee for Director of the Defense Intelligence Agency.",
+      "category": "geopolitics",
+      "horizon_days": 69,
+      "deadline": "2025-10-31",
+      "confidence_pct": 65,
+      "verification_criteria": "An official White House or DoD press release by the deadline naming an individual nominated to serve as DIA Director.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/22/us/politics/defense-intelligence-agency-chief-fired.html"
+      ],
+      "monitoring_signals": [
+        "White House personnel announcements and nomination trackers",
+        "DoD press releases and leadership statements",
+        "Senate Armed Services Committee schedules and notices"
+      ],
+      "rationale": "Rapid replacement is typical to stabilize intelligence leadership amid heightened geopolitical tensions.",
+      "id": "abfbbfc5-a45e-4db5-a930-830a2d196e40",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "From 2025-08-23 close to 2025-09-30 close, Alphabet (GOOGL) will outperform SPDR S&P 500 ETF (SPY) by at least 3.0 percentage points based on adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 38,
+      "deadline": "2025-09-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Use adjusted close prices from a reputable source. Compute percentage return for GOOGL and SPY over the interval; GOOGL return minus SPY return must be \u2265 3.0 percentage points.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/22/google-shares-rise-on-report-of-apple-using-gemini-for-siri.html",
+        "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html"
+      ],
+      "monitoring_signals": [
+        "Updates on any Apple\u2013Google AI collaboration",
+        "Gemini feature launches and model upgrades",
+        "Waymo deployment milestones and regulatory developments",
+        "Rate moves and growth/tech factor performance"
+      ],
+      "rationale": "Potential Apple-Gemini tie-up and Waymo progress support relative strength in GOOGL.",
+      "id": "6fbb5277-2a27-47ef-9cbb-46252b9cb13b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

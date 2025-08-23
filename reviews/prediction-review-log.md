@@ -316,3 +316,12 @@ Given this, none of yesterday’s forecasts can be resolved. Several remain in e
 
 ---
 
+
+## 2025-08-22
+
+Macro signals today leaned dovish after Powell suggested conditions may warrant rate cuts, prompting a bond rally and likely exerting downward pressure on Treasury yields and the dollar. That backdrop could modestly reduce near-term odds for USD/JPY spiking through 152 and for the 10-year yield breaching 4.45%, though one day’s reaction is not dispositive and other Fed voices expressed caution.
+
+On equities, the report of Apple considering Gemini for Siri lifted Alphabet, while tariff headlines weighed on some discretionary names—both directionally supportive for the XLP-over-XLY and GOOGL-over-MSFT calls, respectively, but still far from definitive given the multi-week horizons. There was no news confirming vendor advisories on the Dnsmasq CVE. Overall, none of today’s developments conclusively resolves any prediction; all remain pending with slightly shifted near-term risk skews.
+
+---
+

@@ -1,0 +1,129 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. takes 10% equity stake in Intel, signaling deeper state role in strategic chips and potential precedent for other semiconductor firms.",
+      "tags": [
+        "tech",
+        "geopolitics,",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html"
+    },
+    {
+      "text": "Nvidia designing China-compliant AI chip to navigate U.S. export controls, underscoring persistent tech decoupling pressures on revenue and supply chains.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html"
+    },
+    {
+      "text": "Powell signals rate cuts may be warranted; bonds rally and rate-sensitive equities surge as markets price easier policy path.",
+      "tags": [
+        "rates",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/08/22/powell-indicates-conditions-may-warrant-interest-rate-cuts-as-fed-proceeds-carefully.html"
+    },
+    {
+      "text": "Canada drops many retaliatory tariffs on U.S., easing bilateral trade tensions and potentially reducing cost pressures.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/22/canada-retaliatory-tariffs-trump-autos-steel.html"
+    },
+    {
+      "text": "Trump vows furniture tariffs; sector stocks fall as retailers warn broader tariff pass-through to consumers.",
+      "tags": [
+        "markets",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/08/22/trump-tariffs-furniture-trade.html"
+    },
+    {
+      "text": "Mail carriers pause some U.S.-bound deliveries amid looming de minimis changes, signaling customs disruption and near-term import cost uncertainty.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.bloomberg.com/news/articles/2025-08-21/global-mail-services-halt-us-deliveries-ahead-of-de-minimis-end"
+    },
+    {
+      "text": "Pentagon fires Defense Intelligence Agency chief, raising questions about intelligence stability during global flashpoints.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/22/us/politics/defense-intelligence-agency-chief-fired.html"
+    },
+    {
+      "text": "U.S. begins naval buildup off Venezuela; escalation risk rises though analysts remain skeptical of imminent confrontation.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/22/world/americas/trump-venezuela-maduro-regime-change.html"
+    },
+    {
+      "text": "Trump administration orders halt of nearly completed offshore wind farm, highlighting regulatory risk and uncertain outlook for U.S. renewables investment.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/22/climate/trump-administration-halts-revolution-wind.html"
+    },
+    {
+      "text": "Texas Instruments launches $60B U.S. megaproject; Apple to make iPhone chips there, accelerating domestic semiconductor reshoring.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html"
+    },
+    {
+      "text": "Ether hits new record post-Powell as rate-cut hopes lift risk appetite and crypto-sensitive liquidity.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/08/22/crypto-market-today.html"
+    },
+    {
+      "text": "Alphabet shares rise on report Apple may use Gemini for Siri, signaling shifting AI platform dynamics.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/22/google-shares-rise-on-report-of-apple-using-gemini-for-siri.html"
+    },
+    {
+      "text": "Waymo wins permit to test autonomous vehicles in New York City, marking a major regulatory milestone for robotaxis.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html"
+    },
+    {
+      "text": "Scientists report an oxygen-exchanging 'breathing' crystal, promising advances in catalysis, energy storage and gas separation.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/08/250821004248.htm"
+    },
+    {
+      "text": "New Ethiopian fossil discovery reshapes timeline of human origins, challenging prevailing models of early hominin evolution.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/08/250821094506.htm"
+    }
+  ]
+}
