@@ -20,7 +20,7 @@
       ],
       "rationale": "Policy momentum and carrier disruptions suggest imminent formal rulemaking to alter de minimis.",
       "id": "09dd0314-6795-4eae-8c1d-ebb61816add7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Recent federal intervention raises project risk; further regulatory actions are likely near term.",
       "id": "f1350980-5250-4104-8d0f-f9542931ab49",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Easing policy tone offsets tariff and fuel risks, keeping short-term expectations anchored.",
       "id": "a0ed798a-b98f-4a25-a18f-d6f4357589f4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Front-end should lead on cut pricing, enabling a brief bear/bull steepening to positive.",
       "id": "51a5432f-cd00-4038-af0d-55b9de17a185",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -107,7 +107,7 @@
       ],
       "rationale": "Fuel cost risk and trade frictions weigh on transports versus broad equities.",
       "id": "7c6a61d5-504e-4f74-8e72-a47b37c0ec3e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rationale": "Rapid replacement is typical to stabilize intelligence leadership amid heightened geopolitical tensions.",
       "id": "abfbbfc5-a45e-4db5-a930-830a2d196e40",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "rationale": "Potential Apple-Gemini tie-up and Waymo progress support relative strength in GOOGL.",
       "id": "6fbb5277-2a27-47ef-9cbb-46252b9cb13b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

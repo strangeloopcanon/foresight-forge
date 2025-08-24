@@ -1,0 +1,172 @@
+{
+  "date": "2025-08-24",
+  "predictions": [
+    {
+      "text": "At the September 2025 FOMC meeting, the Federal Reserve will lower the federal funds target range by at least 25 basis points.",
+      "category": "rates",
+      "horizon_days": 25,
+      "deadline": "2025-09-18",
+      "confidence_pct": 62,
+      "verification_criteria": "The post-meeting statement on federalreserve.gov and the H.15 release show the federal funds target range at least 25 bps lower than immediately prior to the meeting.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/23/business/powell-fed-trump-economy-jackson-hole.html",
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html"
+      ],
+      "monitoring_signals": [
+        "Fed communications tone (speeches, minutes)",
+        "Core PCE and CPI surprises vs consensus",
+        "Weekly initial jobless claims trend",
+        "Financial conditions indexes",
+        "Fed funds futures implied cut probabilities"
+      ],
+      "rationale": "Cooling growth and Powell\u2019s guidance increase odds of a precautionary cut absent inflation upside surprises.",
+      "id": "f9f7f10e-5b45-421b-8711-59cba39597b2",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "From 2025-08-24 close to 2025-09-30 close, iShares Russell 2000 (IWM) will outperform SPDR S&P 500 (SPY) by at least 2.5 percentage points based on adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 37,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Using adjusted close data (e.g., Yahoo Finance), compute percentage returns from 2025-08-24 close to 2025-09-30 close; IWM return minus SPY return is \u2265 2.5 percentage points.",
+      "evidence": [
+        "https://www.marketwatch.com/story/why-the-russell-2000-has-a-real-chance-to-beat-the-s-p-500-finally-bd0c825b",
+        "https://www.nytimes.com/2025/08/23/business/powell-fed-trump-economy-jackson-hole.html",
+        "https://www.cnbc.com/2025/08/23/retail-rush-into-speculative-etfs-may-be-flashing-market-warning.html"
+      ],
+      "monitoring_signals": [
+        "Yield curve steepening (2s10s)",
+        "Credit conditions for small caps (bank lending surveys)",
+        "USD trend and commodity prices",
+        "Breadth indicators (advance-decline, equal-weight vs cap-weight)",
+        "Earnings revisions for Russell 2000 constituents"
+      ],
+      "rationale": "Prospective rate cuts and broader breadth support mean reversion favoring small caps over megacaps.",
+      "id": "3a597735-9088-4e82-82ca-c144ae1ac753",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. total nonfarm payrolls change for August 2025 (preliminary) will be between +100,000 and +200,000 jobs.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-09-06",
+      "confidence_pct": 57,
+      "verification_criteria": "BLS Employment Situation report\u2019s first release: the headline change in total nonfarm payroll employment (seasonally adjusted) for August 2025 falls within +100k to +200k.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/23/business/powell-fed-trump-economy-jackson-hole.html",
+        "https://www.cnbc.com/2025/08/23/recession-specials-could-be-the-latest-sign-of-deteriorating-consumer-sentiment.html",
+        "https://www.cnbc.com/2025/08/21/trump-immigration-policy-labor-force.html"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims (DOL)",
+        "ADP employment change",
+        "ISM services and manufacturing employment indices",
+        "Challenger job-cut announcements",
+        "Regional Fed employment subindexes"
+      ],
+      "rationale": "Softening demand and tighter labor supply point to a moderate, below-trend payroll gain.",
+      "id": "56f19b6f-8283-4929-9060-3d7375e736ae",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Cboe Volatility Index (VIX) will close above 22.5 at least once by 2025-09-30.",
+      "category": "markets",
+      "horizon_days": 37,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Cboe official historical data shows VIX daily close > 22.5 on any trading day on or before 2025-09-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/23/retail-rush-into-speculative-etfs-may-be-flashing-market-warning.html",
+        "https://www.nytimes.com/2025/08/23/business/powell-fed-trump-economy-jackson-hole.html",
+        "https://www.cboe.com/tradable_products/vix/vix_historical_data/"
+      ],
+      "monitoring_signals": [
+        "Equity market breadth deterioration",
+        "Options skew and put/call ratios",
+        "Macro event calendar (CPI, payrolls, FOMC)",
+        "Credit spreads (HY OAS)",
+        "Rates volatility (MOVE index proxies)"
+      ],
+      "rationale": "Late-cycle fragility and key macro events raise the likelihood of a volatility spike.",
+      "id": "34a2506b-1abd-4a9d-a594-1a1cf11f84e4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent front-month futures will settle at or above $94.00 per barrel at least once by 2025-10-15.",
+      "category": "energy",
+      "horizon_days": 52,
+      "deadline": "2025-10-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Intercontinental Exchange official daily settlement price for the front-month Brent contract reaches or exceeds $94.00/bbl on or before the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/23/world/middleeast/gaza-famine-report-us-reaction.html",
+        "https://www.theice.com/products/219/Brent-Crude-Futures",
+        "https://www.eia.gov/petroleum/weekly/"
+      ],
+      "monitoring_signals": [
+        "OPEC+ supply announcements and compliance",
+        "Middle East security developments",
+        "EIA crude and product inventory changes",
+        "USD index trend",
+        "Refinery runs and crack spreads"
+      ],
+      "rationale": "Geopolitical risks and potential supply tightness can push Brent into the mid-$90s.",
+      "id": "2992aadd-8443-4984-91d1-dfe4932e2127",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-30, the ICE BofA US High Yield Option-Adjusted Spread (FRED: BAMLH0A0HYM2) will be at least 30 basis points higher than on 2025-08-23.",
+      "category": "markets",
+      "horizon_days": 37,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Compare the series value on FRED for 2025-09-30 (or nearest prior business day available) to the value for 2025-08-23 (or 2025-08-22 if needed); increase \u2265 0.30 percentage points.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+        "https://www.cnbc.com/2025/08/23/retail-rush-into-speculative-etfs-may-be-flashing-market-warning.html",
+        "https://www.cnbc.com/2025/08/23/recession-specials-could-be-the-latest-sign-of-deteriorating-consumer-sentiment.html"
+      ],
+      "monitoring_signals": [
+        "HY ETF flows (HYG, JNK)",
+        "Default and distressed exchange activity",
+        "Equity volatility (VIX)",
+        "Earnings revisions and guidance cuts",
+        "Financial conditions indexes"
+      ],
+      "rationale": "Softening demand and risk appetite fragility tend to widen high-yield risk premia.",
+      "id": "d4639f97-c483-4969-8341-4b1b5699556f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.S. SEC will publish an Investor Alert or press release warning about unauthorized special purpose vehicles (SPVs) or secondary share sales related to private AI companies.",
+      "category": "tech",
+      "horizon_days": 68,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "An item on sec.gov (Press Releases or Investor Alerts/Bulletins) explicitly warns about unauthorized SPVs or secondary offerings involving private AI firms.",
+      "evidence": [
+        "https://techcrunch.com/2025/08/23/openai-warns-against-spvs-and-other-unauthorized-investments/",
+        "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins"
+      ],
+      "monitoring_signals": [
+        "Media coverage of AI-related SPVs and secondary sales",
+        "SEC enforcement actions or risk alerts concerning private offerings",
+        "Investor complaints and state regulator notices",
+        "Marketing by unregistered intermediaries on social media",
+        "Fundraising activity at large private AI companies"
+      ],
+      "rationale": "High investor demand and opacity around AI unicorn access raise regulatory warning odds.",
+      "id": "414b3113-dc19-4b39-8522-54b6511dd4e5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

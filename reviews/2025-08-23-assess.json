@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-23",
+  "assessments": [
+    {
+      "id": "09dd0314-6795-4eae-8c1d-ebb61816add7",
+      "status": "pending",
+      "status_rationale": "No reporting of a CBP NPRM or interim final rule on de minimis; deadline is still in the future."
+    },
+    {
+      "id": "f1350980-5250-4104-8d0f-f9542931ab49",
+      "status": "pending",
+      "status_rationale": "No articles indicate a \u2265500 MW U.S. offshore wind project has been paused, canceled, or had permits suspended."
+    },
+    {
+      "id": "a0ed798a-b98f-4a25-a18f-d6f4357589f4",
+      "status": "pending",
+      "status_rationale": "No University of Michigan preliminary inflation expectations print reported; release date not yet reached."
+    },
+    {
+      "id": "51a5432f-cd00-4038-af0d-55b9de17a185",
+      "status": "pending",
+      "status_rationale": "Coverage references Fed/Jackson Hole but provides no yield curve readings; no confirmation of a positive 2s10s day."
+    },
+    {
+      "id": "7c6a61d5-504e-4f74-8e72-a47b37c0ec3e",
+      "status": "pending",
+      "status_rationale": "Performance window has just begun and no comparative return data for IYT vs SPY is provided."
+    },
+    {
+      "id": "abfbbfc5-a45e-4db5-a930-830a2d196e40",
+      "status": "pending",
+      "status_rationale": "No White House announcement of a DIA Director nominee appears in the coverage."
+    },
+    {
+      "id": "6fbb5277-2a27-47ef-9cbb-46252b9cb13b",
+      "status": "pending",
+      "status_rationale": "No price performance data shown for GOOGL vs SPY over the specified window."
+    }
+  ]
+}
