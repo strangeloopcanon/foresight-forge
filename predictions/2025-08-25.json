@@ -1,0 +1,164 @@
+{
+  "date": "2025-08-25",
+  "predictions": [
+    {
+      "text": "By 2025-10-15, Keurig Dr Pepper will announce a definitive agreement to acquire JDE Peet\u2019s in a transaction valued at $15 billion or more.",
+      "category": "markets",
+      "horizon_days": 51,
+      "deadline": "2025-10-15",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "An official press release or regulatory filing (e.g., KDP 8-K or JDE Peet\u2019s AFM/Euronext announcement) explicitly announcing a definitive acquisition/merger agreement, with stated equity or enterprise value >= $15B.",
+      "evidence": [
+        "https://www.marketwatch.com/story/keurig-dr-pepper-reportedly-near-18-billion-deal-to-buy-coffee-company-jde-peets-a36ac577?mod=mw_rss_topstories",
+        "https://investors.keurigdrpepper.com",
+        "https://www.jdepeets.com/media/"
+      ],
+      "monitoring_signals": [
+        "Bloomberg/WSJ deal scoop updates and exclusivity reports",
+        "Unusual trading halts or volatility in JDEP on Euronext",
+        "Board approvals, antitrust pre-filings, or leak of deal financing terms"
+      ],
+      "rationale": "Multiple reports suggest advanced talks; execution risk from financing, valuation, and antitrust remains.",
+      "id": "3a93621a-47a1-4152-a18c-cfc418b51cb8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-09-10, the Comet AI browser will publish a security advisory and release a patch addressing the August 2025 prompt-injection account-draining vulnerability.",
+      "category": "tech",
+      "horizon_days": 16,
+      "deadline": "2025-09-10",
+      "confidence_pct": 67,
+      "log_odds": 0.708,
+      "verification_criteria": "Public advisory or release notes from Comet explicitly referencing the August 2025 prompt-injection/account-draining issue, with fixed version numbers; or an NVD/CVE entry listing fixed versions released by the deadline.",
+      "evidence": [
+        "https://twitter.com/zack_overflow/status/1959308058200551721",
+        "https://nvd.nist.gov",
+        "Vendor advisories/release notes on the Comet official site or repositories"
+      ],
+      "monitoring_signals": [
+        "CVE assignment and NVD entry publication",
+        "Comet release notes on website/GitHub; app store update logs",
+        "Security researchers confirming mitigation effectiveness"
+      ],
+      "rationale": "High-severity user-impacting bug; typical vendor cadence is to hotfix within 1\u20132 weeks.",
+      "id": "8cddf0dd-d298-4726-8d9d-a135e5cd7d9a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-09-07, Cloudflare will publish a detailed postmortem with root cause and corrective actions for the August 21, 2025 outage.",
+      "category": "tech",
+      "horizon_days": 13,
+      "deadline": "2025-09-07",
+      "confidence_pct": 72,
+      "log_odds": 0.946,
+      "verification_criteria": "A Cloudflare blog or status page post titled as an incident report/postmortem describing root cause and listing remediation or preventive measures for the Aug 21, 2025 incident.",
+      "evidence": [
+        "https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/",
+        "https://www.cloudflarestatus.com/"
+      ],
+      "monitoring_signals": [
+        "Updates on Cloudflare status page incident summary",
+        "Cloudflare blog RSS feed entries labeled post-incident analysis",
+        "Official posts from Cloudflare leadership (CTO/CEO) outlining RCA"
+      ],
+      "rationale": "Cloudflare typically publishes thorough RCAs within ~1\u20132 weeks for major incidents.",
+      "id": "9bf3b384-ce85-4c78-850c-7aafdad8a512",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "A Starship integrated flight test (IFT-10) will lift off from Starbase, Texas by 2025-09-30 (mission outcome after liftoff not required).",
+      "category": "tech",
+      "horizon_days": 36,
+      "deadline": "2025-09-30",
+      "confidence_pct": 59,
+      "log_odds": 0.365,
+      "verification_criteria": "Confirmation of liftoff via SpaceX official stream/X post or FAA AST launch record identifying Starship IFT-10 occurring on or before the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
+        "https://www.faa.gov/space/stakeholders/licenses"
+      ],
+      "monitoring_signals": [
+        "FAA license updates or TFR/NOTAMs for Boca Chica",
+        "Cameron County road closures and static fire tests",
+        "SpaceX webcast scheduling and tanking rehearsals"
+      ],
+      "rationale": "Recent scrub suggests readiness; SpaceX typically turns around quickly pending FAA windows and weather.",
+      "id": "49c25391-4e5d-423f-ae75-7404f7b23bdf",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-30, the U.S. 10-year Treasury yield (FRED: DGS10) will close at or below 3.95% on at least one trading day.",
+      "category": "rates",
+      "horizon_days": 36,
+      "deadline": "2025-09-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Using FRED daily close for DGS10, check if any closing observation on or before the deadline is <= 3.95%.",
+      "evidence": [
+        "https://www.marketwatch.com/story/after-9-months-on-hold-the-fed-could-cut-rates-in-september-why-the-long-pause-may-extend-stocks-rally-e90f3012?mod=mw_rss_topstories",
+        "https://fred.stlouisfed.org/series/DGS10"
+      ],
+      "monitoring_signals": [
+        "Fed communications and September FOMC odds",
+        "CPI/PCE prints, payrolls, and ISM data surprises",
+        "Treasury auctions and term-premium moves; risk-off flows"
+      ],
+      "rationale": "Markets are pricing a September cut; soft data and risk aversion could pull long rates lower.",
+      "id": "dced0e31-c348-4915-8680-03658139f797",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-25 close to 2025-09-30 close, KraneShares CSI China Internet ETF (KWEB) will underperform SPDR S&P 500 ETF (SPY) by at least 4.0 percentage points based on adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 36,
+      "deadline": "2025-09-30",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "Compute total return using adjusted close: Return = (AdjClose_end/AdjClose_start - 1). Verify [Return_KWEB - Return_SPY] <= -0.040 from 2025-08-25 close to 2025-09-30 close.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/24/business/china-evergrande-delisted.html",
+        "https://www.kraneshares.com/kweb/",
+        "https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy"
+      ],
+      "monitoring_signals": [
+        "China macro data (credit impulse, retail sales, PMI) and policy support",
+        "USD/CNY moves; ADR/HK listing performance (BABA/Tencent/Meituan)",
+        "Property-sector stress headlines and regulatory actions"
+      ],
+      "rationale": "China growth and property risks weigh on internet sentiment versus resilient U.S. large caps.",
+      "id": "df3cabb0-9d9b-4c15-8363-c9dce4ac7898",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.S. 2s10s Treasury yield spread (FRED: DGS10 minus DGS2, daily close) will be positive (>0 bps) on at least three trading days.",
+      "category": "rates",
+      "horizon_days": 67,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "log_odds": 0.161,
+      "verification_criteria": "Using FRED daily closes for DGS10 and DGS2, count days with (DGS10 \u2212 DGS2) > 0 between now and the deadline; success requires at least 3 such days.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.marketwatch.com/story/after-9-months-on-hold-the-fed-could-cut-rates-in-september-why-the-long-pause-may-extend-stocks-rally-e90f3012?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Shift in Fed path expectations; term premium changes",
+        "Inflation and growth surprises affecting 2y vs 10y differently",
+        "Treasury issuance mix and QT expectations"
+      ],
+      "supersedes_id": "51a5432f-cd00-4038-af0d-55b9de17a185",
+      "rationale": "As cuts approach, curve likely re-steepens episodically even absent a full regime shift.",
+      "id": "65a5526e-4ea2-4503-aa91-b6b948728a66",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

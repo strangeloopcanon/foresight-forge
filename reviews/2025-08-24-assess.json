@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-24",
+  "assessments": [
+    {
+      "id": "f9f7f10e-5b45-421b-8711-59cba39597b2",
+      "status": "pending",
+      "status_rationale": "No decision from the September 2025 FOMC meeting has been reported; articles only indicate increased market expectations for a cut."
+    },
+    {
+      "id": "3a597735-9088-4e82-82ca-c144ae1ac753",
+      "status": "pending",
+      "status_rationale": "The performance window (2025-08-24 close to 2025-09-30 close) is ongoing; no conclusive comparative returns are available."
+    },
+    {
+      "id": "56f19b6f-8283-4929-9060-3d7375e736ae",
+      "status": "pending",
+      "status_rationale": "The preliminary August 2025 U.S. nonfarm payrolls report has not been released yet (expected early September)."
+    },
+    {
+      "id": "34a2506b-1abd-4a9d-a594-1a1cf11f84e4",
+      "status": "pending",
+      "status_rationale": "No report of the VIX closing above 22.5; the window remains open through 2025-09-30."
+    },
+    {
+      "id": "2992aadd-8443-4984-91d1-dfe4932e2127",
+      "status": "pending",
+      "status_rationale": "No settlement at or above $94 for ICE Brent was reported; the window remains open through 2025-10-15."
+    },
+    {
+      "id": "d4639f97-c483-4969-8341-4b1b5699556f",
+      "status": "pending",
+      "status_rationale": "No clear update on the ICE BofA US High Yield OAS relative to 2025-08-23; deadline is 2025-09-30."
+    },
+    {
+      "id": "414b3113-dc19-4b39-8522-54b6511dd4e5",
+      "status": "pending",
+      "status_rationale": "No SEC Investor Alert or press release on unauthorized SPVs/secondary sales tied to private AI companies is reported; deadline is 2025-10-31."
+    }
+  ]
+}

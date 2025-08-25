@@ -1,0 +1,114 @@
+{
+  "bullets": [
+    {
+      "text": "Markets price September Fed rate cut; futures flat after rally, Asia stocks follow, supporting risk appetite.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/after-9-months-on-hold-the-fed-could-cut-rates-in-september-why-the-long-pause-may-extend-stocks-rally-e90f3012?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Keurig Dr Pepper reportedly nears $18 billion acquisition of JDE Peet\u2019s, consolidating global coffee market and boosting scale.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/keurig-dr-pepper-reportedly-near-18-billion-deal-to-buy-coffee-company-jde-peets-a36ac577?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Evergrande delisted, marking collapse of China\u2019s former property titan; signals prolonged real-estate deleveraging and lingering risks to China\u2019s growth and credit markets.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/08/24/business/china-evergrande-delisted.html"
+    },
+    {
+      "text": "Solar executives warn proposed Trump tariffs and tax-credit rollbacks could trigger power supply crunch and higher electricity prices, stalling U.S. energy transition.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/08/24/solar-wind-renewable-trump-tariff-utility-tax-credit-itc-ptc-obbb-electricity-price.html"
+    },
+    {
+      "text": "SpaceX scrubbed Starship\u2019s 10th test; U.S. space sector\u2019s reliance on SpaceX raises concentration risk for launches, defense missions, and commercial access to orbit.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html"
+    },
+    {
+      "text": "Ukraine peace efforts increasingly center on Donbas control; Moscow says no Putin\u2013Zelensky meeting planned, signaling continued stalemate.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/24/world/europe/russia-ukraine-donbas-peace-talks-putin-trump-zelensky.html"
+    },
+    {
+      "text": "South Korea courts U.S. ties amid China tensions as President meets Trump; semiconductor, supply-chain and security coordination weigh heavily.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/24/world/asia/south-korea-president-trump-meeting-us-china.html"
+    },
+    {
+      "text": "Israel\u2019s ultra-Orthodox resist conscription as war casualties mount, intensifying coalition strains and raising questions about defense manpower.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/24/world/middleeast/israel-gaza-ultra-orthodox.html"
+    },
+    {
+      "text": "Eli Lilly\u2019s oral obesity pill remains a credible rival to Novo\u2019s Wegovy despite underwhelming data, underscoring enormous obesity-treatment market.",
+      "tags": [
+        "markets",
+        "science"
+      ],
+      "link": "https://www.cnbc.com/2025/08/24/eli-lilly-oral-obesity-pill-novo-nordisk.html"
+    },
+    {
+      "text": "Astronomers detect closest, brightest fast radio burst and localize a one-off FRB precisely, advancing understanding of extreme cosmic phenomena.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://iopscience.iop.org/article/10.3847/2041-8213/adf62f"
+    },
+    {
+      "text": "Juno data suggest Jupiter\u2019s core composition differs from expectations, reshaping models of gas-giant formation and planetary evolution.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/"
+    },
+    {
+      "text": "Comet AI browser reportedly vulnerable to prompt injection from any site, enabling account-draining actions\u2014highlighting risks of autonomous agents interfacing with sensitive services.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://twitter.com/zack_overflow/status/1959308058200551721"
+    },
+    {
+      "text": "Cloudflare outage on Aug. 21 disrupted services globally, underscoring systemic dependence on few internet infrastructure providers.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://blog.cloudflare.com/cloudflare-incident-on-august-21-2025/"
+    },
+    {
+      "text": "xAI claims to open-source Grok 2.5, intensifying AI model competition and potential enterprise adoption dynamics.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/"
+    },
+    {
+      "text": "Y Combinator backs Epic Games against Apple, arguing app-store fees stifle startups, adding pressure on mobile platform economics.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.macrumors.com/2025/08/21/y-combinator-epic-games-amicus-brief/"
+    }
+  ]
+}

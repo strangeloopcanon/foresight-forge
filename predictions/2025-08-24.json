@@ -22,7 +22,7 @@
       ],
       "rationale": "Cooling growth and Powell\u2019s guidance increase odds of a precautionary cut absent inflation upside surprises.",
       "id": "f9f7f10e-5b45-421b-8711-59cba39597b2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Prospective rate cuts and broader breadth support mean reversion favoring small caps over megacaps.",
       "id": "3a597735-9088-4e82-82ca-c144ae1ac753",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -70,7 +70,7 @@
       ],
       "rationale": "Softening demand and tighter labor supply point to a moderate, below-trend payroll gain.",
       "id": "56f19b6f-8283-4929-9060-3d7375e736ae",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "rationale": "Late-cycle fragility and key macro events raise the likelihood of a volatility spike.",
       "id": "34a2506b-1abd-4a9d-a594-1a1cf11f84e4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Geopolitical risks and potential supply tightness can push Brent into the mid-$90s.",
       "id": "2992aadd-8443-4984-91d1-dfe4932e2127",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -142,7 +142,7 @@
       ],
       "rationale": "Softening demand and risk appetite fragility tend to widen high-yield risk premia.",
       "id": "d4639f97-c483-4969-8341-4b1b5699556f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -165,7 +165,7 @@
       ],
       "rationale": "High investor demand and opacity around AI unicorn access raise regulatory warning odds.",
       "id": "414b3113-dc19-4b39-8522-54b6511dd4e5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
