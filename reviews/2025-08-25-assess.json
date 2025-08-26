@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-25",
+  "assessments": [
+    {
+      "id": "3a93621a-47a1-4152-a18c-cfc418b51cb8",
+      "status": "pending",
+      "status_rationale": "No reports in today\u2019s coverage of a Keurig Dr Pepper\u2013JDE Peet\u2019s definitive agreement; the deadline (2025-10-15) is still in the future."
+    },
+    {
+      "id": "8cddf0dd-d298-4726-8d9d-a135e5cd7d9a",
+      "status": "pending",
+      "status_rationale": "No mention of a Comet AI browser security advisory or patch release in today\u2019s news; deadline is 2025-09-10."
+    },
+    {
+      "id": "9bf3b384-ce85-4c78-850c-7aafdad8a512",
+      "status": "pending",
+      "status_rationale": "No Cloudflare postmortem for the Aug 21 outage cited in today\u2019s articles; deadline is 2025-09-07."
+    },
+    {
+      "id": "49c25391-4e5d-423f-ae75-7404f7b23bdf",
+      "status": "pending",
+      "status_rationale": "NYT notes Starship IFT-10 was scrubbed for weather on Aug 25; no liftoff yet, but the window remains open through 2025-09-30."
+    },
+    {
+      "id": "dced0e31-c348-4915-8680-03658139f797",
+      "status": "pending",
+      "status_rationale": "Coverage discusses rate-cut expectations and Fed turmoil but provides no specific evidence of a 10-year close at or below 3.95%; deadline is 2025-09-30."
+    },
+    {
+      "id": "df3cabb0-9d9b-4c15-8363-c9dce4ac7898",
+      "status": "pending",
+      "status_rationale": "Performance window (2025-08-25 close to 2025-09-30 close) has just begun; no end-of-window results yet."
+    },
+    {
+      "id": "65a5526e-4ea2-4503-aa91-b6b948728a66",
+      "status": "pending",
+      "status_rationale": "No confirmation that the 2s10s spread has been positive on three days; deadline is 2025-10-31."
+    }
+  ]
+}

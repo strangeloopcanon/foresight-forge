@@ -21,7 +21,7 @@
       ],
       "rationale": "Multiple reports suggest advanced talks; execution risk from financing, valuation, and antitrust remains.",
       "id": "3a93621a-47a1-4152-a18c-cfc418b51cb8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "High-severity user-impacting bug; typical vendor cadence is to hotfix within 1\u20132 weeks.",
       "id": "8cddf0dd-d298-4726-8d9d-a135e5cd7d9a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -66,7 +66,7 @@
       ],
       "rationale": "Cloudflare typically publishes thorough RCAs within ~1\u20132 weeks for major incidents.",
       "id": "9bf3b384-ce85-4c78-850c-7aafdad8a512",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -88,7 +88,7 @@
       ],
       "rationale": "Recent scrub suggests readiness; SpaceX typically turns around quickly pending FAA windows and weather.",
       "id": "49c25391-4e5d-423f-ae75-7404f7b23bdf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "Markets are pricing a September cut; soft data and risk aversion could pull long rates lower.",
       "id": "dced0e31-c348-4915-8680-03658139f797",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -133,7 +133,7 @@
       ],
       "rationale": "China growth and property risks weigh on internet sentiment versus resilient U.S. large caps.",
       "id": "df3cabb0-9d9b-4c15-8363-c9dce4ac7898",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -157,7 +157,7 @@
       "supersedes_id": "51a5432f-cd00-4038-af0d-55b9de17a185",
       "rationale": "As cuts approach, curve likely re-steepens episodically even absent a full regime shift.",
       "id": "65a5526e-4ea2-4503-aa91-b6b948728a66",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

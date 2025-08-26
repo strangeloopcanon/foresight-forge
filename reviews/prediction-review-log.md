@@ -343,3 +343,12 @@ Geopolitical stories (Ukraine talks centered on Donbas, U.S.–South Korea–Chi
 
 ---
 
+
+## 2025-08-25
+
+None of the tracked predictions reached resolution in today’s news flow. The notable development is the scrubbing of SpaceX’s IFT-10 due to weather, which delays but does not preclude a liftoff before the September 30 window closes. Corporate M&A and cybersecurity items tied to Keurig Dr Pepper/JDE Peet’s and the Comet AI browser saw no updates.
+
+Macro headlines focused on President Trump’s move against Fed Governor Lisa Cook and heightened expectations of a September rate cut. If sustained, easier policy expectations could pressure Treasury yields lower, marginally boosting the odds for the 10-year dipping to 3.95% and for intermittent 2s10s steepenings. Equity rotation and China sentiment will be key for the KWEB vs. SPY relative performance call, but no decisive signals emerged today.
+
+---
+
