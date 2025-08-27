@@ -352,3 +352,12 @@ Macro headlines focused on President Trump’s move against Fed Governor Lisa Co
 
 ---
 
+
+## 2025-08-26
+
+Today’s news flow is dominated by U.S. political developments around Federal Reserve governance and trade/tariff policy signaling, plus assorted corporate headlines. None of the items provide definitive market closes or official data releases needed to resolve the tracked forecasts, so all remain pending.
+
+That said, the attempted Fed shake-up and rhetoric about pushing rates lower could pressure real yields and potentially the dollar, while heightened policy uncertainty can widen credit spreads. Tariff narratives and geopolitical tensions may support a stronger USD on risk aversion but could also weigh on growth-sensitive assets. These crosscurrents raise volatility odds into September, which could impact the IBKR/SPY and WBA/SPY relative performance calls, as well as DXY, TIPS real yields, and credit spreads; confirmation will depend on forthcoming market data and scheduled economic releases.
+
+---
+

@@ -20,7 +20,7 @@
       ],
       "rationale": "Risk-off and tariff rhetoric tend to support the dollar; markets price Fed cuts but global uncertainty is elevated.",
       "id": "e9e70b03-2514-46b0-80c7-9bfd7bda7580",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Heightened policy uncertainty and priced-in easing increase odds of duration bids and lower real yields.",
       "id": "7b495912-2039-4d6a-b5b9-09a2636dc479",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "IG spreads often drift wider on policy uncertainty and macro jitters, even amid lower rates.",
       "id": "830c2504-98f9-41c0-85d2-7ad0214ace83",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Incoming index demand and attention tailwinds typically lift new S&P 500 entrants into effective date.",
       "id": "71af1dc0-1a46-4966-a94a-337bf33dd2b4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -102,7 +102,7 @@
       ],
       "rationale": "S&P removal can pressure shares via passive selling, with fundamentals still challenged.",
       "id": "7e3f3ec5-c793-4232-ade5-e883950c3e45",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "rationale": "Seasonal demand into Labor Day and tightness risks can lift retail prices modestly.",
       "id": "210b4680-acf3-48d8-93c4-9b281eea1326",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -143,7 +143,7 @@
       ],
       "rationale": "Early European shipment pauses suggest broader express network adjustments ahead of policy change.",
       "id": "e5f56951-66f9-4419-a099-9d3a5ef7a3a7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Heightened policy and geopolitical uncertainty may depress consumer sentiment near-term.",
       "id": "c73801f1-d64f-4eec-8c09-fb9d57ed2b00",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

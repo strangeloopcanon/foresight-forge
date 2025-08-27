@@ -1,0 +1,165 @@
+{
+  "date": "2025-08-27",
+  "predictions": [
+    {
+      "text": "At its September 9, 2025 event, Apple will announce at least one new iPhone model featuring on-device generative AI capabilities (e.g., text or image generation) that run locally without requiring cloud inference.",
+      "category": "tech",
+      "horizon_days": 16,
+      "deadline": "2025-09-12",
+      "confidence_pct": 63,
+      "verification_criteria": "Apple Newsroom press release or official product pages published 2025-09-09 to 2025-09-12 explicitly state on-device generative AI features for a new iPhone model; acceptable terms include 'on-device' or 'runs on device'.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/26/apple-announces-iphone-launch-on-sept-9-.html",
+        "Recent industry trend toward local LLM features on mobile NPUs",
+        "Apple\u2019s prior positioning of Apple Intelligence with on-device components"
+      ],
+      "monitoring_signals": [
+        "Apple event invite and agenda details",
+        "Leaked A18/A19 NPU TOPS and memory specs",
+        "Developer documentation updates referencing on-device AI",
+        "Carrier marketing materials mentioning AI capabilities"
+      ],
+      "rationale": "Apple guided to a Sept 9 launch and is incentivized to showcase tangible, privacy-preserving AI features leveraging upgraded NPUs.",
+      "id": "83753d96-8936-4967-aeee-b65243d693a7",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Core CPI (CPI-U less food and energy) for August 2025 will be 0.2% to 0.3% m/m (seasonally adjusted).",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-09-11",
+      "confidence_pct": 59,
+      "verification_criteria": "BLS CPI news release on 2025-09-11 shows the SA Core CPI m/m in [0.2%, 0.3%].",
+      "evidence": [
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "Shelter disinflation trend and softer core goods indicators",
+        "Commodity energy volatility excluded from core"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed inflation nowcast",
+        "Manheim Used Vehicle Value Index",
+        "Zumper/Rent.com rent trends",
+        "Airfares and apparel price trackers"
+      ],
+      "rationale": "Core goods softness and gradual shelter moderation point to a stable 0.2\u20130.3% monthly print.",
+      "id": "be75c405-38e1-40fd-b55d-aca22bb0d162",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-27 close to 2025-10-15 close, Advanced Micro Devices (AMD) will underperform Nvidia (NVDA) by at least 8.0 percentage points based on adjusted close prices.",
+      "category": "tech",
+      "horizon_days": 49,
+      "deadline": "2025-10-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Using adjusted close data (e.g., Bloomberg, Yahoo Finance), compute AMD%return \u2212 NVDA%return from 2025-08-27 close to 2025-10-15 close; value must be \u2264 \u22128.0 pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/26/4-big-questions-for-nvidia-the-most-important-stock-in-the-market.html",
+        "NVDA ecosystem/software advantage and shipment cadence",
+        "Investor preference for scale and margins in data center AI"
+      ],
+      "monitoring_signals": [
+        "Hyperscaler capex updates",
+        "NVDA supply/lead-time commentary (H200/B200/Blackwell)",
+        "AMD MI300/MI325/MI350 deployment disclosures",
+        "AI software stack adoption news (CUDA, Triton, ROCm)"
+      ],
+      "rationale": "Nvidia\u2019s stronger software moat and supply positioning should sustain relative outperformance near term.",
+      "id": "8f325dda-db58-4f50-8d6b-b62f6e581dbe",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-15, AT&T will announce a definitive agreement to acquire EchoStar spectrum or related licenses in a transaction valued at $20 billion or more.",
+      "category": "markets",
+      "horizon_days": 49,
+      "deadline": "2025-10-15",
+      "confidence_pct": 62,
+      "verification_criteria": "An AT&T or EchoStar press release or SEC filing (e.g., 8-K) dated on/before 2025-10-15 states a signed definitive agreement with stated value \u2265 $20B for spectrum/license assets.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/26/echostar-stock-att-wireless-musk.html",
+        "Industry consolidation incentives for 5G spectrum",
+        "Market reaction indicating seriousness of negotiations"
+      ],
+      "monitoring_signals": [
+        "AT&T investor relations updates or 8-K filings",
+        "EchoStar board approvals and disclosures",
+        "Bank financing commitments",
+        "FCC stakeholder commentary"
+      ],
+      "rationale": "Public reporting and price action imply advanced negotiations; a definitive agreement is a logical next step.",
+      "id": "38046ebf-1504-437c-9d64-e2699e618d57",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-09-15, a U.S. federal court will issue a temporary restraining order or preliminary injunction preventing removal or suspension of Fed Governor Lisa Cook pending litigation.",
+      "category": "rates",
+      "horizon_days": 19,
+      "deadline": "2025-09-15",
+      "confidence_pct": 55,
+      "verification_criteria": "A federal court docketed order (PACER/CourtListener or court website) on/before 2025-09-15 enjoins the White House from removing or suspending Lisa Cook; the order must explicitly be a TRO or preliminary injunction.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/26/trump-fed-cook-respond-court.html",
+        "https://www.cnbc.com/2025/08/26/us-treasury-yields-trump-says-hes-firing-fed-governor-lisa-cook-.html",
+        "Legal precedent requiring cause for removal of independent board members"
+      ],
+      "monitoring_signals": [
+        "Emergency motions for TRO/PI on the docket",
+        "Scheduling orders/hearing dates",
+        "DOJ responses and declarations",
+        "Statements from the Federal Reserve\u2019s counsel"
+      ],
+      "rationale": "Courts often preserve the status quo in separation-of-powers disputes pending full adjudication.",
+      "id": "2a75b1c2-33b8-4d7d-a332-bcd229fdd16c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.S. Department of Defense will publish a public RFI, memo, or Federal Register notice discussing potential government equity stakes or warrants in major U.S. defense contractors.",
+      "category": "geopolitics",
+      "horizon_days": 65,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "An official DoD website posting or Federal Register notice dated on/before 2025-10-31 references consideration of equity stakes or warrants in defense primes (e.g., Lockheed, RTX, Northrop, GD, Boeing).",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/26/trump-pentagon-equity-stakes-in-defense-contractors.html",
+        "DoD precedent for alternative financing mechanisms in defense industrial base"
+      ],
+      "monitoring_signals": [
+        "Federal Register entries by DoD/OSD/Acquisition",
+        "DoD press releases and memos",
+        "Congressional correspondence or hearings",
+        "Industry association (NDIA, AIA) reactions"
+      ],
+      "rationale": "Public float of the idea suggests a policy exploration phase likely to produce a formal document.",
+      "id": "8e94c5b2-30fa-46d5-b42e-2330c9f13a1e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Freddie Mac PMMS 30-year fixed-rate mortgage average will print at or above 7.50% in at least one weekly release by 2025-09-30.",
+      "category": "rates",
+      "horizon_days": 34,
+      "deadline": "2025-09-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Freddie Mac\u2019s PMMS weekly report dated on or before 2025-09-30 shows the national average 30-year fixed mortgage rate \u2265 7.50%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/26/us-treasury-yields-trump-says-hes-firing-fed-governor-lisa-cook-.html",
+        "Mortgage rates track 10Y UST and MBS spreads; recent volatility and term premia",
+        "Policy uncertainty around Fed governance"
+      ],
+      "monitoring_signals": [
+        "10-year Treasury yield levels",
+        "MBS current coupon spreads",
+        "Fed communications and rate-cut odds",
+        "Mortgage application rate-lock data"
+      ],
+      "rationale": "Increased term premia and policy risk can lift mortgage rates even if front-end yields ease.",
+      "id": "46686246-1589-46dd-99b7-b5c5498ffa16",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

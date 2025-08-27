@@ -1,0 +1,45 @@
+{
+  "date": "2025-08-26",
+  "assessments": [
+    {
+      "id": "e9e70b03-2514-46b0-80c7-9bfd7bda7580",
+      "status": "pending",
+      "status_rationale": "No evidence in today's news of the DXY closing at or above 106.00; deadline is still in the future (2025-09-20)."
+    },
+    {
+      "id": "7b495912-2039-4d6a-b5b9-09a2636dc479",
+      "status": "pending",
+      "status_rationale": "No reporting of the U.S. 10-year TIPS real yield level; outcome depends on future closes before 2025-09-30."
+    },
+    {
+      "id": "830c2504-98f9-41c0-85d2-7ad0214ace83",
+      "status": "pending",
+      "status_rationale": "No data on ICE BofA US Corporate Index OAS; comparison targets 2025-09-30 versus 2025-08-26 and cannot be assessed yet."
+    },
+    {
+      "id": "71af1dc0-1a46-4966-a94a-337bf33dd2b4",
+      "status": "pending",
+      "status_rationale": "Relative performance of IBKR vs. SPY is determined by future adjusted close prices through 2025-09-20; no conclusive update in the news."
+    },
+    {
+      "id": "7e3f3ec5-c793-4232-ade5-e883950c3e45",
+      "status": "pending",
+      "status_rationale": "Outcome relies on cumulative performance through 2025-09-30; today\u2019s news does not establish WBA vs. SPY underperformance by \u22654 pp."
+    },
+    {
+      "id": "210b4680-acf3-48d8-93c4-9b281eea1326",
+      "status": "pending",
+      "status_rationale": "No AAA national average gasoline price cited; the comparison date is 2025-09-20 vs. 2025-08-26, so result is not yet knowable."
+    },
+    {
+      "id": "e5f56951-66f9-4419-a099-9d3a5ef7a3a7",
+      "status": "pending",
+      "status_rationale": "No reports of DHL Express, UPS, or FedEx issuing EU-to-U.S. surcharge/service-change notices tied to de minimis; deadline is 2025-09-15."
+    },
+    {
+      "id": "c73801f1-d64f-4eec-8c09-fb9d57ed2b00",
+      "status": "pending",
+      "status_rationale": "University of Michigan September preliminary reading has not been reported; comparison to August final awaits data before 2025-09-13."
+    }
+  ]
+}
