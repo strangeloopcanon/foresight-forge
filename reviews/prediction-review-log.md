@@ -361,3 +361,12 @@ That said, the attempted Fed shake-up and rhetoric about pushing rates lower cou
 
 ---
 
+
+## 2025-08-27
+
+Today’s news touched two forecasts indirectly: Nvidia’s earnings and the escalating situation around Fed Governor Lisa Cook. Nvidia beat expectations but the stock reaction was mixed; with the AMD–NVDA relative performance window just starting, this provides early context but not a verdict. On Lisa Cook, the White House pressure and public commentary heightened the stakes, yet there is no reporting of a federal court issuing a TRO or preliminary injunction, so that call remains unresolved.
+
+For the remaining items, there were no decisive updates. The Apple on‑device AI announcement hinges on the Sept. 9 event; the August Core CPI print is due in mid‑September; the Freddie Mac PMMS rate could trigger on any Thursday release before Sept. 30; and no signals emerged on an AT&T–EchoStar spectrum deal or a DoD notice contemplating equity stakes. Monitoring event dates and official releases remains key in the coming weeks.
+
+---
+

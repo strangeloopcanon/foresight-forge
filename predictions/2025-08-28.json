@@ -1,0 +1,179 @@
+{
+  "date": "2025-08-28",
+  "predictions": [
+    {
+      "text": "At its September 12, 2025 meeting, the European Central Bank will lower the deposit facility rate by at least 25 basis points.",
+      "category": "rates",
+      "horizon_days": 15,
+      "deadline": "2025-09-12",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "ECB Governing Council monetary policy press release on 2025-09-12 shows the deposit facility rate reduced by \u22650.25 percentage points versus the prior setting.",
+      "evidence": [
+        "https://www.ecb.europa.eu/press/govcdec/monetary/html/index.en.html",
+        "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Inflation_in_the_euro_area",
+        "https://www.reuters.com/markets/europe/"
+      ],
+      "monitoring_signals": [
+        "Euro area HICP (flash and core) prints vs. forecasts",
+        "ECB speakers\u2019 guidance and meeting accounts",
+        "Wage growth and negotiated pay indicators",
+        "Euro area PMIs (S&P Global) and industrial production",
+        "Eonia/\u20acSTR OIS curve implied path"
+      ],
+      "rationale": "Cooling euro-area inflation and soft PMIs raise odds of another ECB cut, while markets price modest easing.",
+      "id": "a93af596-1d91-46ef-9a72-877c390c8f07",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EUR/USD spot will trade at or below 1.0600 at least once by 2025-09-20 (UTC).",
+      "category": "markets",
+      "horizon_days": 23,
+      "deadline": "2025-09-20",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Any reputable feed (Bloomberg, Refinitiv, EBS, or TradingView/OANDA) shows EURUSD touching \u22641.0600 at any time before 2025-09-20 23:59:59 UTC.",
+      "evidence": [
+        "https://www.bloomberg.com/quote/EURUSD:CUR",
+        "https://www.marketwatch.com/investing/currency/eurusd",
+        "https://www.marketwatch.com/investing/index/dxy"
+      ],
+      "monitoring_signals": [
+        "DXY trend and U.S. rates (2Y/10Y) moves",
+        "Risk sentiment (VIX), equity drawdowns",
+        "ECB/Fed policy surprises and guidance",
+        "Energy prices impacting Eurozone trade balance",
+        "Eurozone data surprises vs. U.S. data surprises (Citi surprise indexes)"
+      ],
+      "rationale": "Risk-off flows and relative growth/rate momentum favor USD; ECB easing risk adds downside pressure on EUR.",
+      "id": "0e41e977-136c-4950-919a-a33bec69c0d0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-28 close to 2025-09-30 close, iShares iBoxx $ High Yield Corporate Bond ETF (HYG) will underperform iShares iBoxx $ Investment Grade Corporate Bond ETF (LQD) by at least 1.5 percentage points based on adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 33,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Using adjusted close prices from a public data source (e.g., Yahoo Finance), compute total return from 2025-08-28 close to 2025-09-30 close. HYG_return \u2212 LQD_return \u2264 \u22121.5 percentage points.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/HYG/history",
+        "https://finance.yahoo.com/quote/LQD/history",
+        "https://fred.stlouisfed.org/series/BAMLH0A0HYM2"
+      ],
+      "monitoring_signals": [
+        "High-yield OAS and CDX HY spreads",
+        "Primary market issuance conditions (HY vs IG)",
+        "Equity volatility (VIX) and credit ETF flows",
+        "Default/Distress ratios and downgrades",
+        "Macro data surprises impacting risk appetite"
+      ],
+      "rationale": "Tightening financial conditions and volatility tend to widen HY spreads, pressuring HYG relative to higher-quality LQD.",
+      "id": "aebaa1ea-84a7-44a7-9a7f-836bba60c6bd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX WTI Light Sweet Crude Oil front-month futures (CME: CL) will settle at or above $91.50 per barrel at least once by 2025-10-15.",
+      "category": "energy",
+      "horizon_days": 48,
+      "deadline": "2025-10-15",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "CME Group official daily settlement for the active front-month CL contract on any session through 2025-10-15 is \u2265 $91.50/bbl.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.quotes.html",
+        "https://www.eia.gov/petroleum/weekly/prices.php",
+        "https://gasprices.aaa.com"
+      ],
+      "monitoring_signals": [
+        "OPEC+ supply guidance and compliance",
+        "U.S. crude and product inventories (EIA/API)",
+        "Refinery runs and crack spreads",
+        "NOAA Atlantic hurricane activity updates",
+        "Geopolitical disruptions (Middle East, Russia/Ukraine)"
+      ],
+      "rationale": "Tight balances into peak maintenance/hurricane season and geopolitical risks support a test of low-$90s WTI.",
+      "id": "a4074089-bd09-4b23-a660-8b019dd1890d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The August 2025 ISM Manufacturing PMI (headline) will print below 50.0.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-09-04",
+      "confidence_pct": 59,
+      "log_odds": 0.364,
+      "verification_criteria": "Institute for Supply Management report on business for August 2025 shows headline PMI < 50.0 on release dated around 2025-09-03.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/",
+        "https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines",
+        "https://www.clevelandfed.org/indicators-and-data/ism-pmi"
+      ],
+      "monitoring_signals": [
+        "Regional Fed manufacturing surveys (Empire, Philly, Richmond, Dallas)",
+        "S&P Global U.S. manufacturing PMI flash/final",
+        "New orders vs inventories spread",
+        "Export orders and supplier delivery times",
+        "Energy and input cost trends"
+      ],
+      "rationale": "Regional surveys and soft new orders suggest contractionary conditions persist in U.S. manufacturing.",
+      "id": "b68b4db9-faa1-48c9-b239-65a4329af1ca",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. initial jobless claims (seasonally adjusted) for the week ending 2025-09-13 will be at least 245,000, as reported on 2025-09-18.",
+      "category": "macro",
+      "horizon_days": 22,
+      "deadline": "2025-09-19",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "U.S. Department of Labor weekly unemployment insurance news release on 2025-09-18 reports SA initial claims \u2265 245,000 for the week ending 2025-09-13.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/ICSA",
+        "https://www.dol.gov/ui"
+      ],
+      "monitoring_signals": [
+        "Continuing claims trend (SA and NSA)",
+        "Challenger job-cut announcements",
+        "Indeed/LinkUp job postings and hiring indicators",
+        "NFIB hiring plans",
+        "Layoff announcements in tech/retail/transport"
+      ],
+      "rationale": "Labor market cooling signs and rising continuing claims point to modestly higher weekly claims.",
+      "id": "c3345c0c-94ef-403f-a3e6-6cec2efbaf83",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-20, PayPal will publish a public security advisory, blog post, or press release detailing remedial actions taken in response to the August 2025 German bank payment disruptions.",
+      "category": "tech",
+      "horizon_days": 23,
+      "deadline": "2025-09-20",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "A dated item on PayPal\u2019s official newsroom, corporate blog, status page, or an SEC 8-K explicitly references the August 2025 incident affecting German bank payments and outlines specific remediation steps.",
+      "evidence": [
+        "https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187",
+        "https://newsroom.paypal-corp.com/",
+        "https://www.bafin.de/EN/PublikationenDaten/publikationen_node_en.html"
+      ],
+      "monitoring_signals": [
+        "PayPal status page and security advisories",
+        "Statements from German banks and BaFin",
+        "User reports/outage trackers (e.g., Downdetector)",
+        "PayPal social media and developer notices",
+        "Any CVEs or vendor advisories linked to the incident"
+      ],
+      "rationale": "Scale and regulatory exposure create pressure for transparent disclosure and remediation details.",
+      "id": "f1a1d45f-27b0-4735-adb3-ea2984a59b12",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

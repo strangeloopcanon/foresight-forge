@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-27",
+  "assessments": [
+    {
+      "id": "83753d96-8936-4967-aeee-b65243d693a7",
+      "status": "pending",
+      "status_rationale": "No coverage of Apple's Sept. 9 event or on\u2011device generative AI announcements appeared in today\u2019s news; the event has not occurred yet and the deadline is still ahead."
+    },
+    {
+      "id": "be75c405-38e1-40fd-b55d-aca22bb0d162",
+      "status": "pending",
+      "status_rationale": "August Core CPI is scheduled for release in mid-September; today\u2019s news included no CPI print or leak indicating the m/m outcome."
+    },
+    {
+      "id": "8f325dda-db58-4f50-8d6b-b62f6e581dbe",
+      "status": "pending",
+      "status_rationale": "Nvidia reported earnings and the stock moved on the news, but the performance window runs through Oct. 15. One day of moves is insufficient to determine an \u22658 pp underperformance by AMD."
+    },
+    {
+      "id": "38046ebf-1504-437c-9d64-e2699e618d57",
+      "status": "pending",
+      "status_rationale": "No reports of a definitive AT&T\u2013EchoStar spectrum deal valued at $20B+ appeared in today\u2019s coverage; the deadline remains in October."
+    },
+    {
+      "id": "2a75b1c2-33b8-4d7d-a332-bcd229fdd16c",
+      "status": "pending",
+      "status_rationale": "Multiple articles discuss moves to remove Fed Governor Lisa Cook and potential litigation, but none report a federal court issuing a TRO or preliminary injunction."
+    },
+    {
+      "id": "8e94c5b2-30fa-46d5-b42e-2330c9f13a1e",
+      "status": "pending",
+      "status_rationale": "No DoD RFI/memo/Federal Register notice about potential equity stakes or warrants in major defense contractors was noted in today\u2019s news."
+    },
+    {
+      "id": "46686246-1589-46dd-99b7-b5c5498ffa16",
+      "status": "pending",
+      "status_rationale": "There is no mention of the Freddie Mac PMMS 30\u2011year average reaching \u22657.50% in today\u2019s reports; upcoming weekly prints before Sept. 30 will determine this."
+    }
+  ]
+}

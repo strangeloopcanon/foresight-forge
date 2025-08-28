@@ -1,0 +1,110 @@
+{
+  "bullets": [
+    {
+      "text": "Nvidia posts strong AI-chip sales beat, but shares dip on valuation and supply concerns; underscores sustained datacenter demand driving capex.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/08/27/nvidia-nvda-earnings-report-q2-2026.html"
+    },
+    {
+      "text": "Snowflake beats expectations, touts AI-driven demand; stock rallies as enterprise data platform monetizes LLM workloads and partnerships.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/snowflake-wows-investors-with-ai-momentum-and-the-stock-rallies-after-earnings-beat-6b616265"
+    },
+    {
+      "text": "MongoDB soars 37% after earnings, highlighting accelerating customer growth and AI application workloads on Atlas.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/08/27/mongodb-mdb-q2-earnings-report-2026.html"
+    },
+    {
+      "text": "Google cut 35% of small-team managers, signaling efficiency push and flatter orgs to fund AI; potential margin tailwind.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html"
+    },
+    {
+      "text": "Treasury yields steady as White House pressures Fed Governor Lisa Cook, spotlighting central-bank independence risks for policy and markets.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/08/27/feds-john-williams-stresses-independence-as-trump-moves-to-fire-lisa-cook.html"
+    },
+    {
+      "text": "Trump\u2019s tariff threats push nations to dilute climate targets; India\u2019s nascent solar exports are collateral damage.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/08/27/climate/trump-international-pressure-climate-oil.html"
+    },
+    {
+      "text": "Ukraine eases travel restrictions for young men, reflecting manpower pressures and diaspora support calculus amid prolonged war.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/27/world/europe/young-ukrainians-18-22-leave.html"
+    },
+    {
+      "text": "China\u2019s EV surge reshapes global auto market with exports and price pressure, challenging incumbents and trade policies.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/08/28/autos-chinas-electric-vehicle-juggernaut-is-reshaping-the-car-market.html"
+    },
+    {
+      "text": "FDA approves updated Covid vaccines with eligibility limits, reshaping fall rollout and signaling tighter federal control over public health guidance.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.cnbc.com/2025/08/27/fda-covid-vaccine-authorization--rfk.html"
+    },
+    {
+      "text": "PayPal security failures prompt German banks to block billions in payments, exposing fintech systemic weak points and counterparty risk.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187"
+    },
+    {
+      "text": "Retail coffee prices up 30% year over year; JDE Peet\u2019s\u2013Keurig Dr Pepper merger could alter bargaining power and consumer pricing.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/retail-coffee-prices-have-spiked-30-year-over-year-can-the-jde-peets-keurig-dr-pepper-merger-bring-consumers-some-relief-782796de"
+    },
+    {
+      "text": "Tiny iron catalyst promises cheaper, efficient green-fuel production, potentially transforming hydrogen and ammonia economics.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/08/250827010717.htm"
+    },
+    {
+      "text": "SpaceX Starship returns to flight testing, advancing fully reusable heavy-lift capability with long-term implications for launch costs and space economy.",
+      "tags": [
+        "tech",
+        "science",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/27/spacex-makes-comeback-with-starship-test-launch-after-fiery-setbacks.html"
+    }
+  ]
+}

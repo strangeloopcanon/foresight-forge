@@ -21,7 +21,7 @@
       ],
       "rationale": "Apple guided to a Sept 9 launch and is incentivized to showcase tangible, privacy-preserving AI features leveraging upgraded NPUs.",
       "id": "83753d96-8936-4967-aeee-b65243d693a7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Core goods softness and gradual shelter moderation point to a stable 0.2\u20130.3% monthly print.",
       "id": "be75c405-38e1-40fd-b55d-aca22bb0d162",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Nvidia\u2019s stronger software moat and supply positioning should sustain relative outperformance near term.",
       "id": "8f325dda-db58-4f50-8d6b-b62f6e581dbe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Public reporting and price action imply advanced negotiations; a definitive agreement is a logical next step.",
       "id": "38046ebf-1504-437c-9d64-e2699e618d57",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -113,7 +113,7 @@
       ],
       "rationale": "Courts often preserve the status quo in separation-of-powers disputes pending full adjudication.",
       "id": "2a75b1c2-33b8-4d7d-a332-bcd229fdd16c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -135,7 +135,7 @@
       ],
       "rationale": "Public float of the idea suggests a policy exploration phase likely to produce a formal document.",
       "id": "8e94c5b2-30fa-46d5-b42e-2330c9f13a1e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "Increased term premia and policy risk can lift mortgage rates even if front-end yields ease.",
       "id": "46686246-1589-46dd-99b7-b5c5498ffa16",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
