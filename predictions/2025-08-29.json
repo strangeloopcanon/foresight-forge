@@ -1,0 +1,161 @@
+{
+  "date": "2025-08-29",
+  "predictions": [
+    {
+      "text": "Euro area August 2025 core HICP (Eurostat, flash) will be between 2.6% and 2.9% year-over-year.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-09-03",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify using Eurostat flash HICP release for August 2025. Core HICP defined as HICP excluding energy and unprocessed food. Success if reported YoY rate is \u22652.6% and \u22642.9%.",
+      "evidence": [
+        "EU to remove tariffs on U.S. industrial goods, hinting at easing goods-price pressures (transatlantic supply chains) https://www.cnbc.com/2025/08/28/eu-tariffs-us-trade-trump-autos.html",
+        "Oil price pressures have risen but not spiked decisively into late August; core remains driven by services/wages."
+      ],
+      "monitoring_signals": [
+        "Germany, Spain, France August CPI flash prints",
+        "Euro area services PMI price components",
+        "Brent and European natural gas prices",
+        "Wage growth indicators (ECB/Eurostat)"
+      ],
+      "rationale": "Goods disinflation continues while services cool modestly; energy passthrough limited so core likely high-2s.",
+      "id": "08b65d52-510f-4b4c-98b5-9751d893c657",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. ISM Services PMI (August 2025, headline) will print at or above 51.0.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-09-05",
+      "confidence_pct": 57,
+      "verification_criteria": "Use the Institute for Supply Management\u2019s official August 2025 Services PMI headline index. Success if reported value \u226551.0.",
+      "evidence": [
+        "Q2 U.S. GDP revised to 3.3% indicates resilient demand in services-heavy economy https://www.cnbc.com/2025/08/28/us-economy-grew-3point3percent-in-q2-growth-was-stronger-than-initially-thought.html",
+        "Retail bifurcation but still solid categories (Ulta, Dick\u2019s) suggest services spending resilience https://www.cnbc.com/2025/08/28/gap-gap-q2-2025-earnings.html"
+      ],
+      "monitoring_signals": [
+        "S&P Global U.S. Services PMI (final) trajectory",
+        "High-frequency card spend on travel/leisure",
+        "Airline load factors and hotel occupancy",
+        "Job openings in services (JOLTS) and hiring intentions"
+      ],
+      "rationale": "Services activity remains expansionary despite softer goods; labor demand and consumer spend still support \u226551.",
+      "id": "f2219bd0-d624-43e8-a274-8c35ab08e9ef",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. unemployment rate (U-3) for August 2025 will be between 4.2% and 4.4%.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-09-06",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify with BLS Employment Situation report for August 2025. Success if the seasonally adjusted U-3 rate is \u22654.2% and \u22644.4%.",
+      "evidence": [
+        "Pending home sales decline and financing strains imply some cooling in labor-intensive housing-related services https://www.cnbc.com/2025/08/28/pending-home-sales-july-canceled-contracts-spike.html",
+        "AI-linked job displacement pressures entry-level segments, potentially nudging unemployment higher https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims",
+        "Household survey employment and participation rate",
+        "NFIB hiring plans and JOLTS openings",
+        "Challenger job-cut announcements"
+      ],
+      "rationale": "Labor market cooling at the margin with modest uptick from tight conditions; range hedges survey noise.",
+      "id": "b1954fce-fcf2-4443-be96-222f866606b2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX Henry Hub natural gas front-month futures (CME: NG) will settle at or above $3.20/MMBtu at least once by 2025-10-15.",
+      "category": "energy",
+      "horizon_days": 47,
+      "deadline": "2025-10-15",
+      "confidence_pct": 54,
+      "verification_criteria": "Use CME Group official daily settlement price for the prompt (front-month) Henry Hub natural gas futures contract. Success if any settlement on or before 2025-10-15 is \u2265$3.20/MMBtu.",
+      "evidence": [
+        "Seasonal shoulder-to-winter transition and potential hurricane risks can tighten balances.",
+        "Power burn remains elevated with hot summer tail; storage trajectories matter (EIA weekly)."
+      ],
+      "monitoring_signals": [
+        "EIA weekly storage injections vs 5-year average",
+        "NOAA hurricane outlook and Gulf of Mexico production impacts",
+        "Power sector gas burn and coal-to-gas switching",
+        "Lower-48 dry gas production and pipeline maintenance"
+      ],
+      "rationale": "Seasonality, weather risk, and modest demand strength provide a path to at least one $3.20+ settle.",
+      "id": "03ab6b3e-db93-4e22-ad4b-167f022b6912",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At the September 2025 FOMC meeting, the Federal Reserve will lower the federal funds target range by at least 50 basis points.",
+      "category": "rates",
+      "horizon_days": 20,
+      "deadline": "2025-09-18",
+      "confidence_pct": 52,
+      "verification_criteria": "Verify via the FOMC statement on decision day. Success if the target range midpoint is reduced by \u226550 bps versus prior setting.",
+      "evidence": [
+        "Fed Governor Waller backs a series of rate cuts over the next six months, signaling an easing bias https://www.marketwatch.com/story/feds-waller-backs-a-series-of-interest-rate-cuts-over-the-next-six-months-f1f730bb",
+        "Cooling housing and rising cancellations indicate tighter financial conditions biting demand https://www.cnbc.com/2025/08/28/pending-home-sales-july-canceled-contracts-spike.html",
+        "Central bank independence tensions could favor decisive early easing to stabilize outlook."
+      ],
+      "monitoring_signals": [
+        "CME FedWatch probabilities for 50 bps vs 25 bps",
+        "August CPI and PPI prints",
+        "August payrolls and unemployment rate",
+        "Fedspeak from core leadership ahead of blackout"
+      ],
+      "supersedes_id": "f9f7f10e-5b45-421b-8711-59cba39597b2",
+      "rationale": "Easing bias plus softer activity data raise odds of a front-loaded 50 bps move.",
+      "id": "ae8e7452-6e2c-4dd1-8ed6-510dd4e415a7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI-U headline m/m (seasonally adjusted) for August 2025 will be between 0.2% and 0.4%.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-09-11",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify using BLS CPI news release for August 2025. Success if headline CPI month-over-month SA change is \u22650.2% and \u22640.4%.",
+      "evidence": [
+        "National average gasoline prices have firmed into late August (energy uplift).",
+        "Core goods disinflation and moderating shelter temper upside; services still sticky but easing at margin."
+      ],
+      "monitoring_signals": [
+        "AAA daily national gasoline price averages",
+        "Wholesale gasoline and PPI for energy",
+        "Manheim used vehicle index",
+        "Apartment rent indices and OER leads"
+      ],
+      "rationale": "Energy adds to headline while core components moderate; likely a 0.3% center with 0.2\u20130.4% band.",
+      "id": "92cebd5c-bb98-441c-86fb-5891dec4d752",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-29 close to 2025-09-30 close, iShares Semiconductor ETF (SOXX) will underperform Invesco QQQ Trust (QQQ) by at least 3.0 percentage points based on adjusted close prices.",
+      "category": "tech",
+      "horizon_days": 32,
+      "deadline": "2025-09-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Use adjusted close prices from a consistent source (e.g., Yahoo Finance). Compute (SOXX_return \u2212 QQQ_return); success if \u2264 \u22123.0 percentage points between 2025-08-29 and 2025-09-30 closes.",
+      "evidence": [
+        "AI hardware divergence: some suppliers sliding on softer outlooks vs AI hype https://www.cnbc.com/2025/08/28/pure-storage-stock-soars-to-record-meta-deal-bolsters-results-outlook.html",
+        "Nvidia\u2019s revenue concentration risk highlights fragility in semis leadership https://www.cnbc.com/2025/08/28/nvidias-top-two-mystery-customers-made-up-39percent-of-its-q2-revenue-.html"
+      ],
+      "monitoring_signals": [
+        "Guidance and capex updates from hyperscalers (Meta, Amazon, Microsoft, Google)",
+        "Export controls headlines for China-related semis",
+        "Relative momentum: NVDA/QQQ, SOXX breadth vs mega-cap software",
+        "Rates volatility impacting long-duration growth equities"
+      ],
+      "rationale": "Concentration risk and mixed supplier outlooks raise odds of semis lagging broader mega-cap tech.",
+      "id": "9cd4905f-7946-4414-a5dc-88e283bf1e8e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

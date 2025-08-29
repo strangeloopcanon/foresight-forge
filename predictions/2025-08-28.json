@@ -23,7 +23,7 @@
       ],
       "rationale": "Cooling euro-area inflation and soft PMIs raise odds of another ECB cut, while markets price modest easing.",
       "id": "a93af596-1d91-46ef-9a72-877c390c8f07",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -48,7 +48,7 @@
       ],
       "rationale": "Risk-off flows and relative growth/rate momentum favor USD; ECB easing risk adds downside pressure on EUR.",
       "id": "0e41e977-136c-4950-919a-a33bec69c0d0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -73,7 +73,7 @@
       ],
       "rationale": "Tightening financial conditions and volatility tend to widen HY spreads, pressuring HYG relative to higher-quality LQD.",
       "id": "aebaa1ea-84a7-44a7-9a7f-836bba60c6bd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "Tight balances into peak maintenance/hurricane season and geopolitical risks support a test of low-$90s WTI.",
       "id": "a4074089-bd09-4b23-a660-8b019dd1890d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "rationale": "Regional surveys and soft new orders suggest contractionary conditions persist in U.S. manufacturing.",
       "id": "b68b4db9-faa1-48c9-b239-65a4329af1ca",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -147,7 +147,7 @@
       ],
       "rationale": "Labor market cooling signs and rising continuing claims point to modestly higher weekly claims.",
       "id": "c3345c0c-94ef-403f-a3e6-6cec2efbaf83",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -172,7 +172,7 @@
       ],
       "rationale": "Scale and regulatory exposure create pressure for transparent disclosure and remediation details.",
       "id": "f1a1d45f-27b0-4735-adb3-ea2984a59b12",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

@@ -370,3 +370,12 @@ For the remaining items, there were no decisive updates. The Apple on‑device A
 
 ---
 
+
+## 2025-08-28
+
+Today's news flow is dominated by U.S. political actions affecting the Fed and CDC, legal challenges around Fed governance, and mixed corporate earnings, none of which directly resolve the specific forecasts. Fed Governor Waller’s support for rate cuts and a stronger Q2 GDP revision offer mixed signals for the dollar: dovish policy guidance could weigh on USD, while stronger growth can support it. Neither angle provides clear confirmation for the EUR/USD threshold call.
+
+Market coverage did not include oil settlement levels, the August ISM print, jobless claims for mid-September, or any PayPal communication tied to German payment disruptions. Credit and equity headlines (AI-related tech volatility, retail updates) may influence risk sentiment and yields, indirectly relevant to HYG vs LQD, but there is no concrete performance evidence yet. All items remain pending awaiting specific data releases or price triggers.
+
+---
+
