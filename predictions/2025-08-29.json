@@ -20,7 +20,7 @@
       ],
       "rationale": "Goods disinflation continues while services cool modestly; energy passthrough limited so core likely high-2s.",
       "id": "08b65d52-510f-4b4c-98b5-9751d893c657",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Services activity remains expansionary despite softer goods; labor demand and consumer spend still support \u226551.",
       "id": "f2219bd0-d624-43e8-a274-8c35ab08e9ef",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Labor market cooling at the margin with modest uptick from tight conditions; range hedges survey noise.",
       "id": "b1954fce-fcf2-4443-be96-222f866606b2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Seasonality, weather risk, and modest demand strength provide a path to at least one $3.20+ settle.",
       "id": "03ab6b3e-db93-4e22-ad4b-167f022b6912",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -110,7 +110,7 @@
       "supersedes_id": "f9f7f10e-5b45-421b-8711-59cba39597b2",
       "rationale": "Easing bias plus softer activity data raise odds of a front-loaded 50 bps move.",
       "id": "ae8e7452-6e2c-4dd1-8ed6-510dd4e415a7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "Energy adds to headline while core components moderate; likely a 0.3% center with 0.2\u20130.4% band.",
       "id": "92cebd5c-bb98-441c-86fb-5891dec4d752",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "rationale": "Concentration risk and mixed supplier outlooks raise odds of semis lagging broader mega-cap tech.",
       "id": "9cd4905f-7946-4414-a5dc-88e283bf1e8e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

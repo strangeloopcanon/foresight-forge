@@ -1,0 +1,163 @@
+{
+  "date": "2025-08-30",
+  "predictions": [
+    {
+      "text": "U.S. ISM Services Prices Paid index (August 2025) will be at or above 56.0.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-09-05",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify in the August 2025 ISM Services Report on Business: Prices index value. Satisfy if Prices is >= 56.0.",
+      "evidence": [
+        "Core PCE inflation rose to 2.9% in July, signaling sticky services inflation pressures. https://www.cnbc.com/2025/08/29/pce-inflation-report-july-2025.html"
+      ],
+      "monitoring_signals": [
+        "WTI and Brent front-month price moves",
+        "S&P Global U.S. Services Input Costs",
+        "NFIB small business price plans",
+        "Dollar index (DXY) and import prices",
+        "Freight and parcel surcharge announcements"
+      ],
+      "rationale": "Services input costs remain firm amid sticky core inflation; modest energy volatility and wage pressures support elevated prices paid.",
+      "id": "0db1ba7c-b2ef-4f0c-8b90-d0cccf2976c4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-30 close to 2025-09-30 close, Invesco S&P 500 Equal Weight ETF (RSP) will outperform SPDR S&P 500 ETF (SPY) by at least 1.5 percentage points based on adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 31,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Compute percentage return using adjusted close from 2025-08-30 to 2025-09-30 for RSP and SPY (e.g., Yahoo Finance). Outcome true if RSP return \u2212 SPY return >= 1.5 pp.",
+      "evidence": [
+        "Equal-weight S&P 500 shows improving breadth on rate-cut hopes. https://www.marketwatch.com/story/equal-weight-s-p-500-sees-longest-winning-streak-since-2021-amid-september-rate-cut-expectations-79f7ca92"
+      ],
+      "monitoring_signals": [
+        "Fed rate-cut expectations (Fed funds futures)",
+        "Mega-cap earnings revisions and guidance",
+        "Advance-decline lines and % of stocks above 50/200dma",
+        "Financial conditions indices",
+        "Volatility regime (VIX level and term structure)"
+      ],
+      "rationale": "Improving market breadth and rate-cut expectations favor equal-weight over mega-cap-led cap-weighted indices.",
+      "id": "3fd41fc8-02ba-465a-9289-b774cc2ae7f4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/CNH spot will trade at or above 7.45 at least once by 2025-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 31,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm an intraday or closing print >= 7.45 on reputable FX data sources (Bloomberg, Refinitiv, TradingView, or central bank fix).",
+      "evidence": [
+        "Trade and policy uncertainty around de minimis changes could weigh on China-linked trade flows. https://www.cnbc.com/2025/08/29/trump-de-minimis-shipping-trade-war-tariffs.html",
+        "Appeals court ruling adds uncertainty to tariff policy path. https://www.cnbc.com/2025/08/29/trump-trade-tariffs-appeals-court-ieepa.html"
+      ],
+      "monitoring_signals": [
+        "PBoC USD/CNY fix and FX policy signals",
+        "China macro data (PMIs, credit impulse, exports)",
+        "U.S.\u2013China policy headlines (tariffs, de minimis, sanctions)",
+        "Dollar strength (DXY), U.S. yields",
+        "Chinese equity performance (CSI 300, Hang Seng Tech)"
+      ],
+      "rationale": "Policy and growth uncertainty in China and a firm USD bias support upside pressure on USD/CNH.",
+      "id": "1ae8c393-a9af-4eb8-9204-34509191f02a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. initial jobless claims (seasonally adjusted) for the week ending 2025-09-06 will be at or below 230,000, as reported on 2025-09-11.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-09-11",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify the seasonally adjusted initial claims figure in the U.S. Department of Labor weekly release dated 2025-09-11 for the week ending 2025-09-06. True if <= 230,000.",
+      "evidence": [
+        "Labor market remains resilient despite slowing growth; no sharp deterioration in claims evident recently."
+      ],
+      "monitoring_signals": [
+        "High-frequency job postings (Indeed, LinkUp)",
+        "Continuing claims trend",
+        "Challenger job cuts report",
+        "ADP employment changes",
+        "Regional Fed employment subindices"
+      ],
+      "rationale": "Claims remain range-bound; no clear catalyst for a near-term spike beyond seasonal noise.",
+      "id": "74bf219c-982a-4e38-bc9d-5706dba5db8a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "For the week ending 2025-09-06, EIA will report a U.S. crude oil inventory build of at least 3.0 million barrels (ex-SPR) on 2025-09-11.",
+      "category": "energy",
+      "horizon_days": 12,
+      "deadline": "2025-09-11",
+      "confidence_pct": 54,
+      "verification_criteria": "Check EIA Weekly Petroleum Status Report dated 2025-09-11. Compare U.S. commercial crude stocks (excluding SPR) vs prior week; true if change is >= +3.0 million barrels.",
+      "evidence": [
+        "Shoulder-season demand softens post-Labor Day, with potential refinery runs easing and imports variability.",
+        "Recent reports suggest cheaper holiday gas, implying adequate supply. https://www.marketwatch.com/story/travelers-may-pay-the-cheapest-labor-day-gas-prices-in-5-years-heres-the-reason-why-951738b5"
+      ],
+      "monitoring_signals": [
+        "API weekly crude inventory estimates",
+        "Refinery utilization rates and planned maintenance",
+        "Import/export flows (weekly EIA estimates)",
+        "Gulf Coast shipping disruptions and weather",
+        "WTI time spreads (contango/backwardation)"
+      ],
+      "rationale": "Post-holiday demand normalization and refinery maintenance increase the odds of a weekly build.",
+      "id": "1f930637-2df2-429f-b55d-9ef07dd3d1a9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The 5-Year, 5-Year Forward Inflation Expectation Rate (FRED: T5YIFR) will close at or below 2.25% on at least one trading day by 2025-09-30.",
+      "category": "rates",
+      "horizon_days": 31,
+      "deadline": "2025-09-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify on FRED series T5YIFR daily close by 2025-09-30; condition met if any close <= 2.25%.",
+      "evidence": [
+        "Markets price meaningful September Fed cuts amid mixed inflation data.",
+        "ECB rate-cut expectations could anchor global inflation expectations alongside risk-off moves."
+      ],
+      "monitoring_signals": [
+        "Fed communications and September SEP/dots",
+        "CPI/PPI/PCE prints and surprises",
+        "Oil price trend and gasoline dynamics",
+        "Rates volatility (MOVE index)",
+        "Breakeven curves and TIPS auction results"
+      ],
+      "rationale": "Potential policy easing and risk-off flows may compress longer-term inflation expectations temporarily.",
+      "id": "63d6e534-254e-4530-8ec5-bf24c35e8359",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. JOLTS Job Openings (July 2025, seasonally adjusted total) will be at or below 7.75 million.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-09-04",
+      "confidence_pct": 57,
+      "verification_criteria": "Confirm in BLS JOLTS July 2025 release: total job openings (SA). True if value <= 7.75 million.",
+      "evidence": [
+        "Ongoing normalization of labor demand as rate-sensitive sectors cool.",
+        "Claims remain contained, but openings have trended lower through 2025."
+      ],
+      "monitoring_signals": [
+        "BLS revisions to prior JOLTS months",
+        "Online vacancy indices (Indeed, LinkUp)",
+        "NFIB jobs-hard-to-fill",
+        "Regional Fed labor demand indicators",
+        "Corporate hiring freezes/layoff announcements"
+      ],
+      "rationale": "Vacancies are drifting toward pre-pandemic norms as hiring appetite cools without a sharp labor downturn.",
+      "id": "5fe7d96a-153a-4f3c-ab42-24894bdb7185",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

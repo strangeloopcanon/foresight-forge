@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-29",
+  "assessments": [
+    {
+      "id": "08b65d52-510f-4b4c-98b5-9751d893c657",
+      "status": "pending",
+      "status_rationale": "No Eurostat flash reading for August core HICP is cited in today\u2019s news; the release is due by the stated deadline."
+    },
+    {
+      "id": "f2219bd0-d624-43e8-a274-8c35ab08e9ef",
+      "status": "pending",
+      "status_rationale": "ISM Services PMI (August) is scheduled for release on Sept. 5; no result appears in the news items."
+    },
+    {
+      "id": "b1954fce-fcf2-4443-be96-222f866606b2",
+      "status": "pending",
+      "status_rationale": "The August U.S. unemployment rate will be reported with the September jobs release; no outcome reported yet."
+    },
+    {
+      "id": "03ab6b3e-db93-4e22-ad4b-167f022b6912",
+      "status": "pending",
+      "status_rationale": "No mention of Henry Hub front-month settles at or above $3.20/MMBtu; the window remains open through Oct. 15."
+    },
+    {
+      "id": "ae8e7452-6e2c-4dd1-8ed6-510dd4e415a7",
+      "status": "pending",
+      "status_rationale": "No FOMC decision has been made; headlines reference September rate-cut expectations but not an official action or size."
+    },
+    {
+      "id": "92cebd5c-bb98-441c-86fb-5891dec4d752",
+      "status": "pending",
+      "status_rationale": "August CPI data are not yet released (due Sept. 11); today\u2019s news includes only July U.S. core PCE, which does not resolve this."
+    },
+    {
+      "id": "9cd4905f-7946-4414-a5dc-88e283bf1e8e",
+      "status": "pending",
+      "status_rationale": "The performance window has just begun; no evidence on end-period relative returns between SOXX and QQQ."
+    }
+  ]
+}

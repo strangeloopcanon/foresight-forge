@@ -379,3 +379,12 @@ Market coverage did not include oil settlement levels, the August ISM print, job
 
 ---
 
+
+## 2025-08-29
+
+None of the tracked indicators posted definitive results in today’s coverage. The macro-relevant items include a report that U.S. core PCE rose to 2.9% y/y in July and market chatter about September rate cuts, but there is no direct resolution for Euro area August core HICP, ISM Services, U.S. unemployment, or CPI. Market and policy headlines (tariff rulings, offshore wind funding changes) provide context but no final outcomes for the forecasts.
+
+Implication-wise, the uptick in core PCE may tilt expectations for August CPI toward the middle of the forecast range, while risk assets’ optimism around a September cut does not clarify the magnitude the FOMC might choose. Energy headlines point to cheaper gasoline for Labor Day, but nothing conclusive for Henry Hub. Tech strength and AI-related gains could challenge the SOXX-underperformance thesis, yet it remains too early to call.
+
+---
+
