@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-30",
+  "assessments": [
+    {
+      "id": "0db1ba7c-b2ef-4f0c-8b90-d0cccf2976c4",
+      "status": "pending",
+      "status_rationale": "No reporting on the August ISM Services Prices Paid index in today's news; release window not yet closed."
+    },
+    {
+      "id": "3fd41fc8-02ba-465a-9289-b774cc2ae7f4",
+      "status": "pending",
+      "status_rationale": "Performance window runs through 2025-09-30 and no comparative RSP vs. SPY data was provided in today's news."
+    },
+    {
+      "id": "1ae8c393-a9af-4eb8-9204-34509191f02a",
+      "status": "pending",
+      "status_rationale": "No evidence on USD/CNH reaching 7.45; coverage did not include FX levels and the deadline is 2025-09-30."
+    },
+    {
+      "id": "74bf219c-982a-4e38-bc9d-5706dba5db8a",
+      "status": "pending",
+      "status_rationale": "No initial jobless claims figures for the week ending 2025-09-06 were reported; official release due 2025-09-11."
+    },
+    {
+      "id": "1f930637-2df2-429f-b55d-9ef07dd3d1a9",
+      "status": "pending",
+      "status_rationale": "No EIA crude inventory data for the week ending 2025-09-06 in today's news; report due 2025-09-11."
+    },
+    {
+      "id": "63d6e534-254e-4530-8ec5-bf24c35e8359",
+      "status": "pending",
+      "status_rationale": "No mention of the 5y5y forward inflation rate reaching 2.25% or below; deadline is end of September."
+    },
+    {
+      "id": "5fe7d96a-153a-4f3c-ab42-24894bdb7185",
+      "status": "pending",
+      "status_rationale": "No JOLTS July 2025 figure reported; release expected imminently but not covered in today's bullets."
+    }
+  ]
+}

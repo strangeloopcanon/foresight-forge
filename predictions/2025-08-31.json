@@ -1,0 +1,158 @@
+{
+  "date": "2025-08-31",
+  "predictions": [
+    {
+      "text": "USD/JPY spot will trade at or above 152.50 at least once by 2025-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 30,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Verified if any reputable FX data source (e.g., Bloomberg, Refinitiv, ICE, TradingView) shows USD/JPY spot reaching 152.50 or higher intraday before 2025-09-30 23:59 UTC.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/30/heres-what-it-really-means-for-trump-to-get-control-of-the-federal-reserve-board.html",
+        "https://www.cnbc.com/2025/08/30/trump-trade-tariffs-appeals.html",
+        "https://www.nytimes.com/2025/08/30/world/middleeast/houthi-prime-minister-killed-israel.html"
+      ],
+      "monitoring_signals": [
+        "US yields and DXY trends",
+        "BoJ/MoF commentary on FX and YCC",
+        "US macro prints (ISM, NFP, CPI)",
+        "Risk-off flows tied to Middle East/Red Sea events"
+      ],
+      "rationale": "Dollar-supportive risks\u2014Fed politics, trade uncertainty, and geopolitical stress\u2014raise odds USD/JPY retests intervention-watch highs.",
+      "id": "8bfe52ff-0f87-458f-93c8-ea67aa3bcacd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Between 2025-08-31 and 2025-09-30 (UTC), Yemen\u2019s Houthi movement will claim at least two attacks on commercial vessels in the Red Sea or Gulf of Aden.",
+      "category": "geopolitics",
+      "horizon_days": 30,
+      "deadline": "2025-09-30",
+      "confidence_pct": 60,
+      "verification_criteria": "Count incidents if Reuters/AP/BBC or official maritime advisories (UKMTO/MSC-HOA) report Houthi-claimed attacks on commercial vessels within the specified window.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/30/world/middleeast/houthi-prime-minister-killed-israel.html",
+        "https://www.nytimes.com/2025/08/30/world/middleeast/gaza-israel-deadly-strikes.html"
+      ],
+      "monitoring_signals": [
+        "UKMTO/MSC-HOA incident reports",
+        "Al-Masirah/Houthi spokesperson announcements",
+        "Israeli strikes in Yemen/Gaza escalation",
+        "AIS traffic rerouting around Bab el-Mandeb"
+      ],
+      "rationale": "Fresh grievances and escalation signals increase the likelihood of renewed maritime attacks and claims.",
+      "id": "8b72612f-24d6-44c3-b981-adad43187f6a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "USD/MXN spot will trade at or above 18.50 at least once by 2025-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 30,
+      "deadline": "2025-09-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Verified if USD/MXN spot prints 18.50 or higher on any reputable FX platform (Bloomberg, Refinitiv, TradingView) before 2025-09-30 23:59 UTC.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/30/world/americas/mexico-us-trump-sheinbaum.html",
+        "https://www.cnbc.com/2025/08/30/trump-trade-tariffs-appeals.html"
+      ],
+      "monitoring_signals": [
+        "U.S.-Mexico policy headlines on migration/trade/security",
+        "Banxico guidance and U.S. rates path",
+        "EMFX risk sentiment and oil prices",
+        "Tariff-related legal and regulatory updates"
+      ],
+      "rationale": "Rising U.S. policy pressure on Mexico and broader dollar strength bias increase upside risks for USD/MXN.",
+      "id": "fac7f4a3-7a85-4310-8bda-69817b8e6f87",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-30, U.S. Customs and Border Protection or the Federal Register will publish implementation guidance addressing the August 2025 appellate ruling on Trump-era tariffs.",
+      "category": "macro",
+      "horizon_days": 30,
+      "deadline": "2025-09-30",
+      "confidence_pct": 58,
+      "verification_criteria": "A Federal Register notice or CBP CSMS bulletin explicitly referencing the appellate decision and giving implementation details (scope, collection, or refunds) is published by 2025-09-30 23:59 ET.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/30/trump-trade-tariffs-appeals.html"
+      ],
+      "monitoring_signals": [
+        "FederalRegister.gov docket updates",
+        "CBP CSMS announcements",
+        "USTR and Commerce press releases",
+        "Trade law firm client alerts"
+      ],
+      "rationale": "Agencies typically issue operational guidance within weeks after major trade rulings to reduce importer uncertainty.",
+      "id": "70d249e8-1c16-4bd2-9eb2-672669ae0dc3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Shanghai\u2013Rotterdam weekly rate published on or before 2025-09-26 will be at least 10% higher than the 2025-08-29 reading.",
+      "category": "markets",
+      "horizon_days": 26,
+      "deadline": "2025-09-26",
+      "confidence_pct": 55,
+      "verification_criteria": "Compare Drewry\u2019s WCI Shanghai\u2013Rotterdam spot rates: the weekly rate released on or before 2025-09-26 must be \u2265110% of the 2025-08-29 weekly rate per Drewry\u2019s public postings.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/30/world/middleeast/houthi-prime-minister-killed-israel.html",
+        "https://www.cnbc.com/2025/08/30/trump-trade-tariffs-appeals.html"
+      ],
+      "monitoring_signals": [
+        "Carrier GRI/PSS announcements",
+        "Suez/Red Sea rerouting levels",
+        "Port congestion and schedule reliability metrics",
+        "Fuel/bunker price trends",
+        "Spot quotes from Xeneta/Freightos"
+      ],
+      "rationale": "Security risks and policy uncertainty can tighten capacity and lift spot rates on Asia\u2013Europe lanes.",
+      "id": "c2eca997-ff94-4f79-8d68-7613b05ea011",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-08-30 close to 2025-09-20 close, Rexford Industrial Realty (REXR) will outperform Vanguard Real Estate ETF (VNQ) by at least 3.0 percentage points based on adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 20,
+      "deadline": "2025-09-20",
+      "confidence_pct": 58,
+      "verification_criteria": "Using a reputable data source (e.g., Bloomberg, Yahoo Finance), compute percentage change in adjusted close from 2025-08-30 to 2025-09-20. Outcome is true if REXR change \u2212 VNQ change \u2265 3.0 pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/30/elliott-sees-opportunities-to-create-value-at-warehouse-reit-rexford-industrial-.html"
+      ],
+      "monitoring_signals": [
+        "Activist updates or board/strategic review news",
+        "Industrial rent/occupancy data in Southern California",
+        "Sector flows into VNQ and rate moves",
+        "Sell-side rating/target changes for REXR"
+      ],
+      "rationale": "Activist involvement often catalyzes near-term alpha versus broad REIT benchmarks.",
+      "id": "3ab0d9bc-2cf0-404f-a581-11fd3e2b9e32",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-17, CME FedWatch will show a combined probability of at least 40% for a 50 bp or larger cut at the September 2025 FOMC meeting on at least one trading day.",
+      "category": "rates",
+      "horizon_days": 17,
+      "deadline": "2025-09-17",
+      "confidence_pct": 56,
+      "verification_criteria": "CME FedWatch Tool\u2019s \u2018Target Rate Probabilities\u2019 page for the September 2025 meeting must show the sum of probabilities for \u226550 bp cut outcomes \u2265 40% on any day up to 2025-09-17 23:59 ET.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/30/heres-what-it-really-means-for-trump-to-get-control-of-the-federal-reserve-board.html"
+      ],
+      "monitoring_signals": [
+        "CPI, PCE, and payrolls releases",
+        "Fedspeak and market OIS/fed funds futures",
+        "Political developments affecting Fed governance",
+        "Risk sentiment and credit spreads"
+      ],
+      "rationale": "Policy uncertainty and softening growth/inflation data could shift market-implied odds toward a larger cut.",
+      "id": "0a34a814-4715-4f91-810e-a51945f09dbb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

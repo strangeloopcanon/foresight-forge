@@ -388,3 +388,12 @@ Implication-wise, the uptick in core PCE may tilt expectations for August CPI to
 
 ---
 
+
+## 2025-08-30
+
+Today's news flow is dominated by geopolitics (China summits, Middle East tensions), U.S. political dynamics around the Federal Reserve, and assorted cultural and business items. None of the articles provide hard data on the specific economic indicators or market levels tied to these forecasts, so there is no basis to mark any prediction as resolved.
+
+While the themes could influence macro variables—geopolitical risk affecting the dollar and oil, and Fed governance debates shaping inflation expectations—the coverage offers no quantitative updates on ISM services prices, JOLTS, jobless claims, EIA inventories, 5y5y inflation expectations, or the RSP vs. SPY performance gap. All items remain pending until official releases or market data become available.
+
+---
+

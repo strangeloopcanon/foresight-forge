@@ -20,7 +20,7 @@
       ],
       "rationale": "Services input costs remain firm amid sticky core inflation; modest energy volatility and wage pressures support elevated prices paid.",
       "id": "0db1ba7c-b2ef-4f0c-8b90-d0cccf2976c4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Improving market breadth and rate-cut expectations favor equal-weight over mega-cap-led cap-weighted indices.",
       "id": "3fd41fc8-02ba-465a-9289-b774cc2ae7f4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Policy and growth uncertainty in China and a firm USD bias support upside pressure on USD/CNH.",
       "id": "1ae8c393-a9af-4eb8-9204-34509191f02a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "Claims remain range-bound; no clear catalyst for a near-term spike beyond seasonal noise.",
       "id": "74bf219c-982a-4e38-bc9d-5706dba5db8a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "Post-holiday demand normalization and refinery maintenance increase the odds of a weekly build.",
       "id": "1f930637-2df2-429f-b55d-9ef07dd3d1a9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -133,7 +133,7 @@
       ],
       "rationale": "Potential policy easing and risk-off flows may compress longer-term inflation expectations temporarily.",
       "id": "63d6e534-254e-4530-8ec5-bf24c35e8359",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -156,7 +156,7 @@
       ],
       "rationale": "Vacancies are drifting toward pre-pandemic norms as hiring appetite cools without a sharp labor downturn.",
       "id": "5fe7d96a-153a-4f3c-ab42-24894bdb7185",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
