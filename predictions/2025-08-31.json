@@ -21,7 +21,7 @@
       ],
       "rationale": "Dollar-supportive risks\u2014Fed politics, trade uncertainty, and geopolitical stress\u2014raise odds USD/JPY retests intervention-watch highs.",
       "id": "8bfe52ff-0f87-458f-93c8-ea67aa3bcacd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Fresh grievances and escalation signals increase the likelihood of renewed maritime attacks and claims.",
       "id": "8b72612f-24d6-44c3-b981-adad43187f6a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Rising U.S. policy pressure on Mexico and broader dollar strength bias increase upside risks for USD/MXN.",
       "id": "fac7f4a3-7a85-4310-8bda-69817b8e6f87",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Agencies typically issue operational guidance within weeks after major trade rulings to reduce importer uncertainty.",
       "id": "70d249e8-1c16-4bd2-9eb2-672669ae0dc3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "Security risks and policy uncertainty can tighten capacity and lift spot rates on Asia\u2013Europe lanes.",
       "id": "c2eca997-ff94-4f79-8d68-7613b05ea011",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Activist involvement often catalyzes near-term alpha versus broad REIT benchmarks.",
       "id": "3ab0d9bc-2cf0-404f-a581-11fd3e2b9e32",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "rationale": "Policy uncertainty and softening growth/inflation data could shift market-implied odds toward a larger cut.",
       "id": "0a34a814-4715-4f91-810e-a51945f09dbb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

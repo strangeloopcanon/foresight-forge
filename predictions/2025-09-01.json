@@ -1,0 +1,194 @@
+{
+  "date": "2025-09-01",
+  "predictions": [
+    {
+      "text": "U.S. Average Hourly Earnings m/m (seasonally adjusted) for August 2025 will be between 0.2% and 0.3%.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-09-06",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Verify using the BLS Employment Situation news release for August 2025: Table B-3 shows total private employees\u2019 average hourly earnings m/m percent change equals 0.2% or 0.3% on the initial release.",
+      "evidence": [
+        "https://www.marketwatch.com/story/why-investors-should-brace-for-extreme-sensitivity-in-the-stock-market-around-this-weeks-jobs-data-b3430779"
+      ],
+      "monitoring_signals": [
+        "ADP payrolls (Sept release for Aug)",
+        "Initial jobless claims trend",
+        "JOLTS quits and openings trajectory",
+        "NFIB compensation plans",
+        "Indeed/Atlanta Fed wage trackers"
+      ],
+      "rationale": "Wage growth is slowing alongside softer labor demand; base-case m/m remains 0.2\u20130.3%.",
+      "id": "a7143e24-6fc3-44b1-87b6-28007f82ba1c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. nonfarm payrolls (change in total nonfarm employment, SA) for August 2025 will be between +130,000 and +230,000.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-09-06",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Verify via the BLS Employment Situation news release: the initial August 2025 headline change in total nonfarm payroll employment is within +130k to +230k.",
+      "evidence": [
+        "https://www.marketwatch.com/story/why-investors-should-brace-for-extreme-sensitivity-in-the-stock-market-around-this-weeks-jobs-data-b3430779"
+      ],
+      "monitoring_signals": [
+        "ADP employment change",
+        "Initial and continuing jobless claims",
+        "Homebase/UKG small-business hiring indicators",
+        "Challenger layoffs",
+        "Seasonal adjustment effects in August"
+      ],
+      "rationale": "Hiring is cooling but not collapsing; a print near 180k remains plausible.",
+      "id": "1490b04f-68eb-4404-a3ec-bde7b5597d8d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 3.85% on at least one trading day by 2025-09-30.",
+      "category": "rates",
+      "horizon_days": 29,
+      "deadline": "2025-09-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Confirm using FRED series DGS2 daily close values: any close \u2264 3.85% from 2025-09-01 through 2025-09-30.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.marketwatch.com/story/why-investors-should-brace-for-extreme-sensitivity-in-the-stock-market-around-this-weeks-jobs-data-b3430779"
+      ],
+      "monitoring_signals": [
+        "CME FedWatch probabilities for September FOMC",
+        "ISM Services (prices, employment)",
+        "CPI/PPI prints and revisions",
+        "ECB guidance and global risk sentiment",
+        "Jobless claims trend"
+      ],
+      "rationale": "Soft U.S. data and global easing bias increase odds of a front-end rally.",
+      "id": "000fdfcf-960f-4a13-a4b5-b1ca38e180ef",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Cboe Volatility Index (VIX) will close at or above 20.00 on at least two trading days by 2025-09-30.",
+      "category": "markets",
+      "horizon_days": 29,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Use Cboe historical data for symbol VIX: count official closes \u2265 20.00 from 2025-09-01 through 2025-09-30; require at least two distinct trading days.",
+      "evidence": [
+        "https://www.cnbc.com/2025/08/31/global-week-ahead-welcome-to-september-wall-streets-least-loved-month.html",
+        "https://www.marketwatch.com/story/why-investors-should-brace-for-extreme-sensitivity-in-the-stock-market-around-this-weeks-jobs-data-b3430779"
+      ],
+      "monitoring_signals": [
+        "SPX realized volatility and drawdowns",
+        "VIX futures term structure and VVIX",
+        "Macro event calendar (NFP, CPI, ECB, FOMC)",
+        "Geopolitical escalation headlines",
+        "Credit spreads (CDX IG/HY) widening"
+      ],
+      "rationale": "September seasonality and dense macro/geopolitical catalysts support multiple VIX spikes.",
+      "id": "8262321a-b6b9-4dce-bbe8-3be03a55370d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "For the week ending 2025-09-06, EIA will report a U.S. total motor gasoline inventory draw of at least 1.5 million barrels on 2025-09-11.",
+      "category": "energy",
+      "horizon_days": 10,
+      "deadline": "2025-09-11",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Verify via EIA Weekly Petroleum Status Report dated 2025-09-11: total motor gasoline ending stocks decreased by \u22651.5 million barrels versus the prior week for week ending 2025-09-06.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "Refinery utilization by PADD (especially PADD 1/3)",
+        "GasBuddy demand indices",
+        "Hurricane/storm disruptions",
+        "Colonial Pipeline flows and outages",
+        "Rack and wholesale gasoline price trends"
+      ],
+      "rationale": "Late-season demand plus refinery transitions often draw gasoline stocks into mid-September.",
+      "id": "211575df-97f0-4a9b-ae63-6022622c5861",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Between 2025-09-01 and 2025-09-30 (UTC), UKMTO will issue at least six incident reports/advisories for the Red Sea, Bab el-Mandeb, or Gulf of Aden.",
+      "category": "geopolitics",
+      "horizon_days": 29,
+      "deadline": "2025-09-30",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Count UKMTO advisories/alerts/incident reports dated 2025-09-01 to 2025-09-30 inclusive with locations in the Red Sea, Bab el-Mandeb, or Gulf of Aden; total must be \u22656 as listed on ukmto.org.",
+      "evidence": [
+        "https://www.nytimes.com/2025/08/31/world/middleeast/yemen-houthis-israel.html",
+        "https://ukmto.org/alerts"
+      ],
+      "monitoring_signals": [
+        "UKMTO alert feed and area maps",
+        "CENTCOM and EUNAVFOR/CMF statements",
+        "AIS anomalies near Bab el-Mandeb",
+        "Carrier advisories (Maersk, Hapag-Lloyd, MSC)",
+        "Drone/missile activity reports"
+      ],
+      "rationale": "Retaliatory rhetoric and persistent threat activity sustain frequent maritime incident reporting.",
+      "id": "25bcdee5-02c2-4b09-ba8d-b6865ef33cfc",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Drewry WCI Shanghai\u2013Los Angeles weekly spot rate published on or before 2025-09-26 will be at least 12% higher than the 2025-08-29 reading.",
+      "category": "markets",
+      "horizon_days": 25,
+      "deadline": "2025-09-26",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Compare Drewry World Container Index route 'Shanghai\u2013Los Angeles' value published on or before 2025-09-26 to the 2025-08-29 reading; success if percentage increase \u226512%.",
+      "evidence": [
+        "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+        "https://www.nytimes.com/2025/08/31/world/middleeast/yemen-houthis-israel.html"
+      ],
+      "monitoring_signals": [
+        "Carrier GRIs/surcharges and capacity blankings",
+        "Port congestion at LA/LB",
+        "Panama Canal transit restrictions",
+        "FBX/Xeneta transpac indices",
+        "Red Sea risk and rerouting impacts"
+      ],
+      "rationale": "Peak-season demand, capacity management, and disruption spillovers support higher Transpacific spot rates.",
+      "id": "e47244d3-51d7-4b13-905e-f037449a8487",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At Apple\u2019s September 9, 2025 event, the U.S. starting price for the base iPhone 16 will be announced as $799 (unchanged from iPhone 15).",
+      "category": "tech",
+      "horizon_days": 11,
+      "deadline": "2025-09-12",
+      "confidence_pct": 59,
+      "log_odds": 0.365,
+      "verification_criteria": "Confirm via Apple\u2019s press release or product page that the base iPhone 16 U.S. MSRP is $799 at announcement; verify against Apple Newsroom/product pages.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/01/2025/09/01/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+        "https://www.apple.com/newsroom/"
+      ],
+      "monitoring_signals": [
+        "Apple event invitations and agenda",
+        "BOM cost estimates for new iPhone",
+        "USD index and FX hedging impacts",
+        "Supply chain checks (camera, memory, NPU)",
+        "Competitive pricing from Android flagships"
+      ],
+      "rationale": "Apple often holds baseline prices to preserve unit demand; competitive dynamics and stable FX support unchanged MSRP.",
+      "id": "92090037-0308-4dfb-8fa8-51a98bbabe86",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

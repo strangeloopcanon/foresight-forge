@@ -397,3 +397,12 @@ While the themes could influence macro variables—geopolitical risk affecting t
 
 ---
 
+
+## 2025-08-31
+
+None of the tracked forecasts were conclusively resolved by today’s headlines. The tariff-related stories confirm an appellate ruling exists, but there’s no sign yet of CBP/Federal Register implementation guidance. FX-linked predictions (USD/JPY, USD/MXN) saw no quoted levels, and the Drewry Shanghai–Rotterdam index was not updated in the reporting sampled. The Houthi coverage signals heightened risk but does not document multiple claimed attacks within the specified window.
+
+Looking ahead, the week’s U.S. jobs data and associated rate expectations could move FedWatch probabilities and the dollar pairs, while holiday trading conditions may mute immediate signals. Escalation risks in the Red Sea/Gulf of Aden could influence both attack-claim probabilities and container rates if disruptions intensify. We will monitor official publications for tariff guidance and the next Drewry print to reassess these calls.
+
+---
+

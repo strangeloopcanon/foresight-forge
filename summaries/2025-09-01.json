@@ -1,0 +1,112 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. suspends visas for Palestinian passport holders, escalating travel restrictions and regional tensions; potential impacts on migration and diaspora flows.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/31/world/middleeast/us-palestinian-visa-suspensions.html"
+    },
+    {
+      "text": "Israel says it killed Abu Obeida, Hamas's armed-wing spokesman, signaling continued leadership targeting and possible retaliation.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/08/31/world/middleeast/hamas-abu-obeida-israel-gaza-city.html"
+    },
+    {
+      "text": "Yemen's Houthis vow revenge after Israeli strike kills senior officials, heightening risk to Red Sea shipping and regional energy infrastructure.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/08/31/world/middleeast/yemen-houthis-israel.html"
+    },
+    {
+      "text": "Asia stocks fell as investors digested U.S. court ruling on Trump tariffs, underscoring renewed trade-policy uncertainty.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/01/2025/09/01/asia-stock-markets-today-live-updates-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html"
+    },
+    {
+      "text": "Trump trade adviser blasted tariff ruling as partisan, signaling persistent confrontational trade posture that could unsettle markets.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/31/trump-trade-adviser-tariff-ruling-peter-navarro-.html"
+    },
+    {
+      "text": "Markets primed for extreme sensitivity to this week's U.S. jobs report, with rate expectations and volatility hinging on labor data.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/why-investors-should-brace-for-extreme-sensitivity-in-the-stock-market-around-this-weeks-jobs-data-b3430779"
+    },
+    {
+      "text": "September's seasonality looms: historically the weakest month for equities, adding caution to an already data-dependent market.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/08/31/global-week-ahead-welcome-to-september-wall-streets-least-loved-month.html"
+    },
+    {
+      "text": "States adopt Taylor Swift tax on high-end vacation homes, expanding luxury property levies and potential headwinds for premium real estate.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/08/31/taylor-swift-tax-on-high-end-vacation-homes-spreads-to-more-states.html"
+    },
+    {
+      "text": "$7,500 EV tax credit remains accessible post-deadline via leasing workarounds, supporting demand and price competitiveness.",
+      "tags": [
+        "tech",
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/08/31/how-to-get-7500-ev-tax-credit-after-the-deadline.html"
+    },
+    {
+      "text": "One-third of senior developers report over half their code is AI-generated, signaling rapid shift in software production workflows.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://www.fastly.com/blog/senior-developers-ship-more-ai-code"
+    },
+    {
+      "text": "James Webb identifies 300 unexpectedly early galaxies, challenging standard models of cosmic structure formation.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/08/250830001153.htm"
+    },
+    {
+      "text": "Researchers find wildfire paradox exposing 440 million people to increased risk due to suppression policies and fuel buildup.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/08/250831010536.htm"
+    },
+    {
+      "text": "Large study finds common heart medication ineffective and potentially risky, prompting calls to reevaluate treatment guidelines.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/08/250831010539.htm"
+    },
+    {
+      "text": "New solar-powered method sinters lunar soil into bricks, advancing in-situ resource utilization for off-world construction.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html"
+    }
+  ]
+}

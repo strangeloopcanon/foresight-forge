@@ -1,0 +1,40 @@
+{
+  "date": "2025-08-31",
+  "assessments": [
+    {
+      "id": "8bfe52ff-0f87-458f-93c8-ea67aa3bcacd",
+      "status": "pending",
+      "status_rationale": "No report today confirmed USD/JPY touching 152.50; deadline is 2025-09-30, so the event window remains open."
+    },
+    {
+      "id": "8b72612f-24d6-44c3-b981-adad43187f6a",
+      "status": "pending",
+      "status_rationale": "Coverage notes the Houthis vowed revenge, but there are no verified claims of at least two attacks since 2025-08-31; window runs through 2025-09-30."
+    },
+    {
+      "id": "fac7f4a3-7a85-4310-8bda-69817b8e6f87",
+      "status": "pending",
+      "status_rationale": "No evidence today that USD/MXN reached 18.50; the deadline is 2025-09-30."
+    },
+    {
+      "id": "70d249e8-1c16-4bd2-9eb2-672669ae0dc3",
+      "status": "pending",
+      "status_rationale": "News references the recent appellate ruling on Trump-era tariffs, but there is no indication CBP or the Federal Register has published implementation guidance yet; deadline 2025-09-30."
+    },
+    {
+      "id": "c2eca997-ff94-4f79-8d68-7613b05ea011",
+      "status": "pending",
+      "status_rationale": "No Drewry WCI Shanghai\u2013Rotterdam data was reported today; target date is on or before 2025-09-26."
+    },
+    {
+      "id": "3ab0d9bc-2cf0-404f-a581-11fd3e2b9e32",
+      "status": "pending",
+      "status_rationale": "The measurement window (2025-08-30 close to 2025-09-20 close) has just begun and U.S. markets are impacted by the Labor Day schedule; no outcome yet."
+    },
+    {
+      "id": "0a34a814-4715-4f91-810e-a51945f09dbb",
+      "status": "pending",
+      "status_rationale": "No explicit CME FedWatch probabilities were cited; with the deadline on 2025-09-17, this remains unresolved."
+    }
+  ]
+}
