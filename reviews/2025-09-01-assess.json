@@ -1,0 +1,45 @@
+{
+  "date": "2025-09-01",
+  "assessments": [
+    {
+      "id": "a7143e24-6fc3-44b1-87b6-28007f82ba1c",
+      "status": "pending",
+      "status_rationale": "No official August 2025 Average Hourly Earnings release yet; coverage references expectations, not results."
+    },
+    {
+      "id": "1490b04f-68eb-4404-a3ec-bde7b5597d8d",
+      "status": "pending",
+      "status_rationale": "Nonfarm payrolls for August 2025 have not been reported; articles discuss potential Fed implications, not the actual print."
+    },
+    {
+      "id": "000fdfcf-960f-4a13-a4b5-b1ca38e180ef",
+      "status": "pending",
+      "status_rationale": "No verified close for the 2-year Treasury at or below 3.85% in the news; requires market close or FRED data."
+    },
+    {
+      "id": "8262321a-b6b9-4dce-bbe8-3be03a55370d",
+      "status": "pending",
+      "status_rationale": "No evidence of VIX closes at or above 20; market commentary is forward-looking without specific close data."
+    },
+    {
+      "id": "211575df-97f0-4a9b-ae63-6022622c5861",
+      "status": "pending",
+      "status_rationale": "EIA gasoline inventories for the week ending 2025-09-06 will be reported on 2025-09-11; no data yet."
+    },
+    {
+      "id": "25bcdee5-02c2-4b09-ba8d-b6865ef33cfc",
+      "status": "pending",
+      "status_rationale": "No tally of UKMTO incident reports provided; need official UKMTO advisories during September to confirm."
+    },
+    {
+      "id": "e47244d3-51d7-4b13-905e-f037449a8487",
+      "status": "pending",
+      "status_rationale": "No Drewry WCI Shanghai\u2013Los Angeles update versus the 2025-08-29 baseline in today\u2019s coverage."
+    },
+    {
+      "id": "92090037-0308-4dfb-8fa8-51a98bbabe86",
+      "status": "pending",
+      "status_rationale": "Apple\u2019s pricing will be announced at the September 9 event; no definitive reporting yet."
+    }
+  ]
+}

@@ -406,3 +406,12 @@ Looking ahead, the week’s U.S. jobs data and associated rate expectations coul
 
 ---
 
+
+## 2025-09-01
+
+Today’s news is heavy on geopolitical developments and macro commentary, but light on the specific data needed to resolve these forecasts. The U.S. jobs report and wage figures are still pending, and while outlets note that only an outsized print might alter Fed-cut expectations, no actual BLS results are cited. Market pieces highlight gold at record highs and ongoing rate-cut odds, which could be supportive of lower front-end yields and potential equity volatility, yet there are no concrete closes for the 2-year Treasury or VIX to score against.
+
+Supply chain and regional risk items (e.g., Russia-related tensions, SCO summit optics) don’t directly confirm UKMTO incident counts or container spot-rate moves, and there are no specific Drewry WCI updates. The EIA gasoline inventory outcome is scheduled for next week, and Apple’s iPhone pricing won’t be known until the September 9 event. Net: all predictions remain pending, with macro tone incrementally supportive of the rates- and volatility-related calls but without decisive evidence.
+
+---
+

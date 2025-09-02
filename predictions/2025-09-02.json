@@ -1,0 +1,166 @@
+{
+  "date": "2025-09-02",
+  "predictions": [
+    {
+      "text": "The LBMA Gold Price PM will fix at or above $2,600/oz on at least five days by 2025-09-30.",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-09-30",
+      "confidence_pct": 60,
+      "verification_criteria": "Count LBMA Gold Price PM fixes at or above $2,600 from 2025-09-02 through 2025-09-30 using the official LBMA/IBA daily publication. If there are five or more qualifying fix dates, this resolves true.",
+      "evidence": [
+        "https://www.marketwatch.com/story/gold-prices-hit-all-time-high-on-rising-uncertainty-while-u-s-stock-futures-little-changed-2a6eb69b",
+        "https://www.lbma.org.uk/prices-and-data/precious-metal-prices#gold"
+      ],
+      "monitoring_signals": [
+        "US real yields (DFII10) trend",
+        "US Dollar Index (DXY) movements",
+        "CME FedWatch probabilities for September/November cuts",
+        "ETF gold flows (GLD/IAU)",
+        "CFTC COMEX gold net speculative positioning",
+        "Central bank gold purchase headlines",
+        "Geopolitical escalation headlines"
+      ],
+      "rationale": "Record-high prints, dovish Fed expectations, and geopolitical risk support repeated high LBMA PM fixes.",
+      "id": "b4534be8-4468-4fef-be92-430f95f4d7e6",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "From 2025-09-02 close to 2025-09-30 close, BAE Systems plc (BA/ LN) will outperform the FTSE 100 Index (UKX) by at least 3.5 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-09-30",
+      "confidence_pct": 58,
+      "verification_criteria": "Compute percent change: [(BA/ LN adjusted close on 2025-09-30 \u00f7 2025-09-02) \u2212 1] \u2212 [(UKX close on 2025-09-30 \u00f7 2025-09-02) \u2212 1]. If the result \u2265 3.5 percentage points, resolve true.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/01/european-markets-on-mon-septpoint1-stoxx-600-ftse-dax-data.html"
+      ],
+      "monitoring_signals": [
+        "New UK/NATO/EU defense contract awards",
+        "Escalation in Russia-Ukraine or Red Sea tensions",
+        "UK defense budget announcements",
+        "Sector rotation toward defense/aerospace",
+        "GBPUSD volatility impacting foreign revenues"
+      ],
+      "rationale": "Rearmament trend and fresh contracts support UK defense names outperforming a heavyweight, rate-sensitive FTSE 100.",
+      "id": "ccfd58e2-da6e-40cf-ade1-88228c3b5499",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-02 close to 2025-09-30 close, \u00d8rsted A/S (ORSTED DC) will outperform the STOXX Europe 600 Utilities Index (SX6P) by at least 6.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "energy",
+      "horizon_days": 28,
+      "deadline": "2025-09-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Compute percent change for ORSTED DC adjusted close and SX6P closing level between 2025-09-02 and 2025-09-30. If ORSTED\u2019s change minus SX6P\u2019s change \u2265 6.0 percentage points, resolve true.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/01/equinor-backs-orsted-after-trump-ramps-up-attacks-on-offshore-wind.html"
+      ],
+      "monitoring_signals": [
+        "EU/UK offshore wind policy and CfD announcements",
+        "Financing cost spreads for renewables",
+        "Turbine supply-chain updates and CAPEX guidance",
+        "European power prices and forward curves",
+        "Company news on project impairments or equity raises"
+      ],
+      "rationale": "Strategic backing signals improving sentiment; sector peer index is weighed down by regulated utilities and rates sensitivity.",
+      "id": "f2c6e808-2a12-4169-8a8e-5ea16938f28c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE EUA December-2025 futures will settle at or above \u20ac75.00 per metric ton on at least five trading days by 2025-09-30.",
+      "category": "energy",
+      "horizon_days": 28,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Using ICE Endex official settlements for EUA Dec-2025, count trading days from 2025-09-02 to 2025-09-30 with settlement \u2265 \u20ac75.00. If count \u2265 5, resolve true.",
+      "evidence": [
+        "https://www.economist.com/business/2025/08/28/how-a-power-shortage-could-short-circuit-nvidias-rise",
+        "https://www.sciencedaily.com/releases/2025/08/250830001201.htm"
+      ],
+      "monitoring_signals": [
+        "German day-ahead/forward power prices",
+        "European gas (TTF) prices and storage data",
+        "EU ETS policy headlines and auction results",
+        "Thermal generation load factors",
+        "Weather anomalies affecting demand",
+        "Speculative positioning and time spreads in EUAs"
+      ],
+      "rationale": "Rising power demand and climate risk narratives can firm EUA prices into early autumn.",
+      "id": "34085954-9f85-45e8-84d6-69b31ea21067",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent front-month futures will settle at or above $95.00 per barrel at least once by 2025-10-15.",
+      "category": "energy",
+      "horizon_days": 43,
+      "deadline": "2025-10-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Use ICE Futures Europe official daily settlement for the front-month Brent contract. Any settlement on or before 2025-10-15 \u2265 $95.00 resolves true.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/01/behind-the-beijing-smiles-with-putin-modi-and-xi.html",
+        "https://www.cnbc.com/2025/09/02/trump-india-us-china-tariffs-trade.html"
+      ],
+      "monitoring_signals": [
+        "OPEC+ production/headline risk",
+        "EIA weekly U.S. crude and product inventories",
+        "Middle East maritime security incidents (UKMTO)",
+        "Time-spread backwardation (Brent M1-M2)",
+        "Dollar strength (DXY) and global growth data",
+        "Refinery runs and crack spreads"
+      ],
+      "rationale": "Geopolitical risks and potential inventory draws can push Brent to test mid-90s into autumn.",
+      "id": "7256e4b1-8341-4dba-9d58-7f1a53622fe8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-02 close to 2025-09-30 close, Novo Nordisk (NOVO-B DC) will outperform the STOXX Europe 600 Health Care Index (SXDP) by at least 4.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-09-30",
+      "confidence_pct": 59,
+      "verification_criteria": "Compute percent change for NOVO-B DC adjusted close and SXDP closing level between 2025-09-02 and 2025-09-30. If NOVO\u2019s change minus SXDP\u2019s change \u2265 4.0 percentage points, resolve true.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/01/wegovy-heart-disease-trial-gives-boost-to-novo-nordisk-amid-us-woes.html"
+      ],
+      "monitoring_signals": [
+        "Label expansion and reimbursement developments for obesity drugs",
+        "Competitor trial readouts (e.g., Lilly)",
+        "Pricing/regulatory headlines in U.S. and EU",
+        "Supply capacity updates for GLP-1 products",
+        "Sector rotation within European healthcare"
+      ],
+      "rationale": "Fresh cardiovascular benefit data reinforce Novo\u2019s moat and can drive relative outperformance.",
+      "id": "e3337f58-9815-407f-a257-230847386d2c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-02 close to 2025-09-30 close, Dollar General (DG) will underperform SPDR S&P Retail ETF (XRT) by at least 4.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-09-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Compute percent change of DG and XRT adjusted closing prices between 2025-09-02 and 2025-09-30. If DG\u2019s performance minus XRT\u2019s performance \u2264 \u22124.0 percentage points, resolve true.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/01/snap-benefit-cuts-americans-food-grocery-shopping.html"
+      ],
+      "monitoring_signals": [
+        "Company traffic/comp commentary at conferences",
+        "SNAP policy implementation and state-level timing",
+        "Gasoline prices impacting low-income consumers",
+        "Promotional intensity among discounters",
+        "Credit card delinquencies and subprime trends"
+      ],
+      "rationale": "SNAP cuts pressure lower-income spending, creating relative headwinds for deep-discounters versus diversified retail baskets.",
+      "id": "0b55bde8-8610-45a9-9e9f-48e7a1be2a0c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
