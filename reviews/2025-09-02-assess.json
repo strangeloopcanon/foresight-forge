@@ -1,0 +1,40 @@
+{
+  "date": "2025-09-02",
+  "assessments": [
+    {
+      "id": "b4534be8-4468-4fef-be92-430f95f4d7e6",
+      "status": "pending",
+      "status_rationale": "No reporting on LBMA PM fixes near $2,600 or count of such days, and the deadline remains in the future."
+    },
+    {
+      "id": "ccfd58e2-da6e-40cf-ade1-88228c3b5499",
+      "status": "pending",
+      "status_rationale": "Outcome depends on end-of-period relative performance through 2025-09-30; today\u2019s news provides no conclusive price data."
+    },
+    {
+      "id": "f2c6e808-2a12-4169-8a8e-5ea16938f28c",
+      "status": "pending",
+      "status_rationale": "Requires relative performance from 2025-09-02 close to 2025-09-30 close; no definitive market data provided."
+    },
+    {
+      "id": "34085954-9f85-45e8-84d6-69b31ea21067",
+      "status": "pending",
+      "status_rationale": "No evidence on ICE EUA Dec-2025 settlement levels or count of \u2265\u20ac75 days; window remains open."
+    },
+    {
+      "id": "7256e4b1-8341-4dba-9d58-7f1a53622fe8",
+      "status": "pending",
+      "status_rationale": "No reported Brent front-month settlements near $95 and the deadline is 2025-10-15."
+    },
+    {
+      "id": "e3337f58-9815-407f-a257-230847386d2c",
+      "status": "pending",
+      "status_rationale": "End-of-period relative performance vs SXDP is required; today\u2019s articles don\u2019t provide necessary pricing."
+    },
+    {
+      "id": "0b55bde8-8610-45a9-9e9f-48e7a1be2a0c",
+      "status": "pending",
+      "status_rationale": "Needs comparative returns through 2025-09-30; no definitive data on DG or XRT provided."
+    }
+  ]
+}

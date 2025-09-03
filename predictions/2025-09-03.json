@@ -1,0 +1,186 @@
+{
+  "date": "2025-09-03",
+  "predictions": [
+    {
+      "text": "From 2025-09-03 close to 2025-09-30 close, Alphabet Inc. Class A (GOOGL) will outperform SPDR S&P 500 ETF Trust (SPY) by at least 2.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 27,
+      "deadline": "2025-09-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Use adjusted close prices from a consistent source (e.g., Yahoo Finance). Compute percentage change from 2025-09-03 close to 2025-09-30 close for GOOGL and SPY; GOOGL must exceed SPY by >=2.0 percentage points.",
+      "evidence": [
+        "Judge orders Google to share data/end exclusivity but avoids breakup; core search intact; Alphabet rallied.",
+        "https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html"
+      ],
+      "monitoring_signals": [
+        "Further remedies or appeals affecting Google search defaults",
+        "Ad demand trends and search volume data",
+        "Peers\u2019 performance (MSFT, META) and Nasdaq breadth",
+        "Rates moves impacting mega-cap duration sensitivity"
+      ],
+      "rationale": "Antitrust remedy avoided structural breakup; relief rally and reduced tail risk favor near-term outperformance.",
+      "id": "133168af-2d3a-4cfa-a75e-6d9ff2a60279",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-03 close to 2025-10-15 close, PepsiCo (PEP) will outperform Coca-Cola (KO) by at least 3.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 42,
+      "deadline": "2025-10-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Use adjusted close prices from a consistent source (e.g., Yahoo Finance). Compute percentage change from 2025-09-03 close to 2025-10-15 close for PEP and KO; PEP must exceed KO by >=3.0 percentage points.",
+      "evidence": [
+        "Elliott takes ~$4B stake in PepsiCo, pushing for portfolio/capital allocation changes; activism often catalyzes relative outperformance.",
+        "https://www.cnbc.com/2025/09/02/pepsi-shares-jump-4percent-after-wsj-reports-elliott-planning-major-activist-campaign.html"
+      ],
+      "monitoring_signals": [
+        "Public letters, board changes, or asset review announcements from PEP",
+        "Buyback or margin targets vs KO commentary",
+        "Staples sector flows and defensive rotation dynamics",
+        "Commodity input costs (sugar, aluminum) and FX exposure"
+      ],
+      "rationale": "Fresh activist catalyst at PEP vs. KO\u2019s steadier profile should drive relative rerating near term.",
+      "id": "02be223b-8b50-4ea9-b88b-6ac225898a1b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 30-Year Treasury yield (FRED: DGS30) will close at or above 5.05% on at least one trading day by 2025-09-30.",
+      "category": "rates",
+      "horizon_days": 27,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify with FRED series DGS30 daily close. Success if any observation on or before 2025-09-30 is >= 5.05%.",
+      "evidence": [
+        "30-year yield topped ~4.97% amid tariff refund risks and supply concerns.",
+        "https://www.cnbc.com/2025/09/02/us-treasury-yields-investors-look-to-key-jobs-report.html"
+      ],
+      "monitoring_signals": [
+        "Treasury refunding details and long-end auction demand",
+        "Inflation prints (CPI, PCE) and oil prices",
+        "Fed communications on balance sheet and cuts",
+        "Term premium estimates and curve moves"
+      ],
+      "rationale": "Rising term premium, supply, and inflation uncertainty make a marginal new high plausible.",
+      "id": "e1d18a1e-6286-443d-8bb7-c0c0badb0e50",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-03 close to 2025-10-15 close, Salesforce (CRM) will underperform Invesco QQQ Trust (QQQ) by at least 4.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "tech",
+      "horizon_days": 42,
+      "deadline": "2025-10-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Use adjusted close prices from a consistent source (e.g., Yahoo Finance). Compute percentage change from 2025-09-03 close to 2025-10-15 close for CRM and QQQ; CRM must lag QQQ by >=4.0 percentage points.",
+      "evidence": [
+        "Salesforce to cut ~4,000 jobs; investors pressing for faster AI-driven growth amid margin focus.",
+        "https://www.cnbc.com/2025/09/02/salesforce-ceo-confirms-4000-layoffs-because-i-need-less-heads-with-ai.html"
+      ],
+      "monitoring_signals": [
+        "CRM guidance commentary and AI product monetization updates",
+        "Large-cap AI leaders\u2019 momentum (NVDA, MSFT) lifting QQQ",
+        "Enterprise IT spending surveys and deal cycles",
+        "USD strength impacting SaaS FX headwinds"
+      ],
+      "rationale": "Layoffs highlight growth trade-offs; mega-cap AI leaders may keep pulling QQQ ahead of legacy SaaS.",
+      "id": "552f1253-1105-4d49-8461-6673f31318b8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-30, the U.S. Treasury\u2019s OFAC will announce at least one new sanctions designation targeting Venezuelan individuals, entities, or vessels via a public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 27,
+      "deadline": "2025-09-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm via treasury.gov official OFAC press releases or SDN/GL updates explicitly referencing Venezuela between 2025-09-03 and 2025-09-30 (UTC).",
+      "evidence": [
+        "Escalating U.S.-Venezuela tensions after reported lethal maritime incident and rhetorical escalation.",
+        "https://www.nytimes.com/2025/09/02/us/politics/trump-venezuela-boat-drugs-attack.html"
+      ],
+      "monitoring_signals": [
+        "White House/State Department statements on Venezuela",
+        "US Coast Guard or DoD updates on maritime incidents",
+        "Regional diplomatic responses (OAS, Colombia, Brazil)",
+        "OFAC enforcement cadence in Latin America"
+      ],
+      "rationale": "Sanctions are a common U.S. policy tool amid rising tensions without immediate military escalation.",
+      "id": "fd78fba9-0bcd-4977-bbb2-b00db74d4088",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Composite published on or before 2025-09-26 will be at least 8% higher than the 2025-08-29 reading.",
+      "category": "markets",
+      "horizon_days": 23,
+      "deadline": "2025-09-26",
+      "confidence_pct": 55,
+      "verification_criteria": "Use Drewry\u2019s weekly WCI composite index values. Compare the latest reading published on or before 2025-09-26 to 2025-08-29; require >=+8.0%.",
+      "evidence": [
+        "Heightened Red Sea/Gulf of Aden risks strain capacity; route-specific rates already rising.",
+        "https://www.cnbc.com/2025/09/02/china-military-parade-victory-day.html",
+        "https://www.cnbc.com/2025/09/02/airplane-leasing-air-lease-takeover.html",
+        "https://www.cnbc.com/2025/09/02/pepsi-shares-jump-4percent-after-wsj-reports-elliott-planning-major-activist-campaign.html",
+        "https://www.cnbc.com/2025/09/02/us-treasury-yields-investors-look-to-key-jobs-report.html",
+        "https://www.cnbc.com/2025/09/02/openai-buys-statsig-for-1point1-billion-hires-ceo-as-applications-exec.html"
+      ],
+      "monitoring_signals": [
+        "UKMTO incident reports in Red Sea/Bab el-Mandeb",
+        "Carrier surcharges, blank sailings, and port congestion updates",
+        "Fuel prices (bunker) and Suez diversions",
+        "China export trends and U.S./EU demand indicators"
+      ],
+      "rationale": "Security disruptions and demand resilience should lift composite shipping rates near term.",
+      "id": "f3757639-cc9d-4d53-bd7c-f661858cabc3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-27, U.S. Core PCE price index m/m (seasonally adjusted) for August 2025 will be between 0.2% and 0.3%.",
+      "category": "macro",
+      "horizon_days": 24,
+      "deadline": "2025-09-27",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify in BEA\u2019s Personal Income and Outlays news release for August 2025. Use the monthly percent change of PCE excluding food and energy (SA). Must be >=0.2% and <=0.3%.",
+      "evidence": [
+        "Labor data and services inflation moderating; consensus for stable core momentum.",
+        "BlackRock notes 60/40 risks tied to rates/inflation but not deflationary collapse.",
+        "https://www.marketwatch.com/story/with-the-traditional-mix-of-stocks-and-bonds-now-riskier-here-are-ways-to-diversify-says-blackrock-b3c06314"
+      ],
+      "monitoring_signals": [
+        "CPI core services ex-shelter proxies and PPI for core goods",
+        "Wage indicators (AHE, ECI) and job openings",
+        "Shelter inflation trajectory",
+        "Healthcare price revisions in PCE"
+      ],
+      "rationale": "Core inflation trend remains sticky but easing, making a 0.2\u20130.3% print most likely.",
+      "id": "d754d9aa-1427-45bd-8167-28c221f495b9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "On at least one trading day by 2025-09-10, CME FedWatch will show a combined probability at or below 20% for a 50 bp or larger cut at the September 2025 FOMC meeting.",
+      "category": "rates",
+      "horizon_days": 7,
+      "deadline": "2025-09-10",
+      "confidence_pct": 56,
+      "verification_criteria": "Check CME FedWatch Tool snapshots for the Sep 2025 meeting. Sum probabilities for -50 bps or more; success if any trading day through 2025-09-10 shows <=20%. Archive/screenshot acceptable.",
+      "evidence": [
+        "Rising long-end yields and firm services inflation reduce likelihood of an outsized cut.",
+        "https://www.cnbc.com/2025/09/02/us-treasury-yields-investors-look-to-key-jobs-report.html"
+      ],
+      "monitoring_signals": [
+        "NFP, unemployment rate, and AHE prints",
+        "ISM Services Prices Paid and PMI",
+        "Fed speakers guiding toward gradualism",
+        "Market risk sentiment and credit spreads"
+      ],
+      "rationale": "Markets likely fade extreme cut odds ahead of key data and as yields rise.",
+      "id": "bfe9b118-8259-442c-923e-bfc500249f04",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

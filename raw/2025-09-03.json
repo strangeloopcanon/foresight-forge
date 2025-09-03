@@ -1,0 +1,836 @@
+[
+  {
+    "id": "https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html",
+    "title": "Google Must Share Search Data With Rivals, Judge Rules in Antitrust Case",
+    "link": "https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html",
+    "published": "Tue, 02 Sep 2025 23:59:51 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/technology/google-antitrust-case-ruling.html",
+    "title": "What Will Happen to Google After the Antitrust Ruling?",
+    "link": "https://www.nytimes.com/2025/09/02/technology/google-antitrust-case-ruling.html",
+    "published": "Tue, 02 Sep 2025 22:33:02 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/technology/personaltech/what-the-fixes-for-googles-search-monopoly-mean-for-you-its-a-nothingburger.html",
+    "title": "What the Fixes for Google\u2019s Search Monopoly Mean for You: It\u2019s a \u2018Nothingburger\u2019",
+    "link": "https://www.nytimes.com/2025/09/02/technology/personaltech/what-the-fixes-for-googles-search-monopoly-mean-for-you-its-a-nothingburger.html",
+    "published": "Wed, 03 Sep 2025 00:09:08 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/us/politics/trump-health-bruise-conspiracies.html",
+    "title": "Trump Responds to Rumors About His Health During Oval Office Press Conference",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/trump-health-bruise-conspiracies.html",
+    "published": "Tue, 02 Sep 2025 22:23:44 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/business/trump-fed-lisa-cook.html",
+    "title": "Cook\u2019s Lawyers Fire Back at Trump\u2019s Claim of Vast Powers to Oust Fed Officials",
+    "link": "https://www.nytimes.com/2025/09/02/business/trump-fed-lisa-cook.html",
+    "published": "Tue, 02 Sep 2025 21:37:41 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/us/trump-military-cities.html",
+    "title": "L.A. Ruling Complicates Trump\u2019s Threats to Send Troops to More Cities",
+    "link": "https://www.nytimes.com/2025/09/02/us/trump-military-cities.html",
+    "published": "Tue, 02 Sep 2025 20:47:35 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/us/politics/epstein-files-release-house-oversight.html",
+    "title": "House Oversight Panel Releases Some Epstein Files as Pressure Mounts",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/epstein-files-release-house-oversight.html",
+    "published": "Wed, 03 Sep 2025 01:16:50 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/nyregion/rescue-medic-wall-street-.html",
+    "title": "The Millionaire Who Left Wall Street to Become a Paramedic",
+    "link": "https://www.nytimes.com/2025/09/02/nyregion/rescue-medic-wall-street-.html",
+    "published": "Tue, 02 Sep 2025 07:00:17 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/world/europe/us-open-drog-bruk-ceo-szczerek.html",
+    "title": "After Name Mix-Up, Online Rage Is Directed at Wrong C.E.O. in U.S. Open Hat Scandal",
+    "link": "https://www.nytimes.com/2025/09/02/world/europe/us-open-drog-bruk-ceo-szczerek.html",
+    "published": "Tue, 02 Sep 2025 22:54:08 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/us/politics/trump-venezuela-boat-drugs-attack.html",
+    "title": "Trump Says U.S. Attacked Boat Carrying Venezuelan Gang Members, Killing 11",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/trump-venezuela-boat-drugs-attack.html",
+    "published": "Wed, 03 Sep 2025 01:17:13 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/world/americas/maduro-trump-venezuela-war.html",
+    "title": "Maduro Says War With Venezuela Would Stain Trump\u2019s Hands with Blood",
+    "link": "https://www.nytimes.com/2025/09/02/world/americas/maduro-trump-venezuela-war.html",
+    "published": "Tue, 02 Sep 2025 21:19:07 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/us/politics/rubio-sheinbaum-cartels-mexico.html",
+    "title": "Rubio Flies to Mexico for Security Talks Amid Trump Pressure Campaign",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/rubio-sheinbaum-cartels-mexico.html",
+    "published": "Tue, 02 Sep 2025 22:32:48 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/business/china-chongqing-protest.html",
+    "title": "A Hidden Camera Protest Turned the Tables on China\u2019s Surveillance State",
+    "link": "https://www.nytimes.com/2025/09/02/business/china-chongqing-protest.html",
+    "published": "Tue, 02 Sep 2025 20:29:32 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/world/asia/xi-putin-kim-parade.html",
+    "title": "Xi\u2019s Parade Will Send a Message: China Won\u2019t Be Bullied Again",
+    "link": "https://www.nytimes.com/2025/09/02/world/asia/xi-putin-kim-parade.html",
+    "published": "Tue, 02 Sep 2025 23:53:56 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/world/middleeast/netanyahu-israel-gaza-war-ceasefire.html",
+    "title": "Netanyahu Faces High-Level Opposition to His Stance on Gaza Truce",
+    "link": "https://www.nytimes.com/2025/09/02/world/middleeast/netanyahu-israel-gaza-war-ceasefire.html",
+    "published": "Tue, 02 Sep 2025 19:58:51 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/nyregion/nadler-retire-successor-replace.html",
+    "title": "A Kennedy, a Prot\u00e9g\u00e9 and a Progressive Star Eye Nadler\u2019s N.Y. House Seat",
+    "link": "https://www.nytimes.com/2025/09/02/nyregion/nadler-retire-successor-replace.html",
+    "published": "Tue, 02 Sep 2025 22:53:54 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/world/middleeast/assad-warrant-marie-colvin.html",
+    "title": "Assad and Aides Are Wanted in France for Deadly Strike on Journalists",
+    "link": "https://www.nytimes.com/2025/09/02/world/middleeast/assad-warrant-marie-colvin.html",
+    "published": "Tue, 02 Sep 2025 20:21:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/us/california-farmers-animal-activists-bay-area-sonoma.html",
+    "title": "Animal Activists Target Farmers in Sonoma, Known as \u2018America\u2019s Provence\u2019",
+    "link": "https://www.nytimes.com/2025/09/02/us/california-farmers-animal-activists-bay-area-sonoma.html",
+    "published": "Tue, 02 Sep 2025 20:16:28 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/01/movies/wizard-of-oz-sphere-review.html",
+    "title": "Is \u2018The Wizard of Oz\u2019 at Sphere the Future of Cinema? Or the End of It?",
+    "link": "https://www.nytimes.com/2025/09/01/movies/wizard-of-oz-sphere-review.html",
+    "published": "Mon, 01 Sep 2025 09:03:28 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/arts/television/snl-cast-departures-season-51.html",
+    "title": "Heidi Gardner and More \u2018SNL\u2019 Cast Members Exit Show Ahead of Season 51",
+    "link": "https://www.nytimes.com/2025/09/02/arts/television/snl-cast-departures-season-51.html",
+    "published": "Tue, 02 Sep 2025 19:47:11 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/arts/music/salzburg-festival-austria.html",
+    "title": "In Salzburg, a Cultural Kingdom Where Classical Music Still Reigns",
+    "link": "https://www.nytimes.com/2025/09/02/arts/music/salzburg-festival-austria.html",
+    "published": "Tue, 02 Sep 2025 09:02:33 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/opinion/immigration-liberal-europe-merkel.html",
+    "title": "Mass Migration and Liberalism\u2019s Fall",
+    "link": "https://www.nytimes.com/2025/09/02/opinion/immigration-liberal-europe-merkel.html",
+    "published": "Tue, 02 Sep 2025 21:00:10 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/opinion/google-antitrust-ruling-data-business.html",
+    "title": "The Government Just Walloped Google. That\u2019s Good Business.",
+    "link": "https://www.nytimes.com/2025/09/02/opinion/google-antitrust-ruling-data-business.html",
+    "published": "Tue, 02 Sep 2025 21:39:12 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/briefing/la-google-putin.html",
+    "title": "Trump\u2019s L.A. Deployment Ruled Illegal",
+    "link": "https://www.nytimes.com/2025/09/02/briefing/la-google-putin.html",
+    "published": "Tue, 02 Sep 2025 22:19:34 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/arts/music/cardi-b-verdict-assault-trial.html",
+    "title": "Cardi B Is Found Not Liable for Assault in Civil Trial",
+    "link": "https://www.nytimes.com/2025/09/02/arts/music/cardi-b-verdict-assault-trial.html",
+    "published": "Wed, 03 Sep 2025 00:10:24 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/world/europe/greece-asylum-seekers.html",
+    "title": "Under New Law, Greece Can Imprison Rejected Asylum Seekers",
+    "link": "https://www.nytimes.com/2025/09/02/world/europe/greece-asylum-seekers.html",
+    "published": "Tue, 02 Sep 2025 22:26:52 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/business/media/mark-knoller-dead.html",
+    "title": "Mark Knoller, 73, White House Reporter and Font of Presidential Facts, Dies",
+    "link": "https://www.nytimes.com/2025/09/02/business/media/mark-knoller-dead.html",
+    "published": "Tue, 02 Sep 2025 23:09:21 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/09/02/world/canada/alberta-canada-edmonton-school-book-ban.html",
+    "title": "Alberta Backs Off on School Library Book Ban",
+    "link": "https://www.nytimes.com/2025/09/02/world/canada/alberta-canada-edmonton-school-book-ban.html",
+    "published": "Wed, 03 Sep 2025 01:16:11 +0000"
+  },
+  {
+    "id": "WP-MKTW-0004424322",
+    "title": "With the traditional mix of stocks and bonds now riskier, here are ways to diversify, says BlackRock",
+    "link": "https://www.marketwatch.com/story/with-the-traditional-mix-of-stocks-and-bonds-now-riskier-here-are-ways-to-diversify-says-blackrock-b3c06314?mod=mw_rss_topstories",
+    "published": "Wed, 03 Sep 2025 00:22:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004393776",
+    "title": "Alphabet and Apple stocks rally after Google antitrust ruling avoids the worst-case scenario",
+    "link": "https://www.marketwatch.com/story/alphabets-stock-is-rising-after-google-antitrust-ruling-avoids-the-worst-case-scenario-39d1c284?mod=mw_rss_topstories",
+    "published": "Tue, 02 Sep 2025 23:28:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004422347",
+    "title": "Activist Elliott wants PepsiCo to emulate Coke\u2019s playbook. This is why.",
+    "link": "https://www.marketwatch.com/story/activist-elliott-wants-pepsico-to-emulate-cokes-playbook-this-is-why-b09b6fc1?mod=mw_rss_topstories",
+    "published": "Tue, 02 Sep 2025 23:12:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004423268",
+    "title": "Treasury market comes under fire as September bond supply gives investors choices",
+    "link": "https://www.marketwatch.com/story/treasury-market-comes-under-fire-as-september-bond-supply-gives-investors-choices-ab6c1d80?mod=mw_rss_topstories",
+    "published": "Tue, 02 Sep 2025 22:05:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004423966",
+    "title": "Is your job among the \u2018no tax on tips\u2019 winners? Here\u2019s how to make sure you qualify.",
+    "link": "https://www.marketwatch.com/story/is-your-job-among-the-no-tax-on-tips-winners-heres-how-to-make-sure-you-qualify-4081df66?mod=mw_rss_topstories",
+    "published": "Tue, 02 Sep 2025 21:46:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004423255",
+    "title": "CoreWeave\u2019s stock slides as insider selling sparks investor concerns",
+    "link": "https://www.marketwatch.com/story/coreweaves-stock-slides-as-insider-selling-sparks-investor-concerns-fef032fe?mod=mw_rss_topstories",
+    "published": "Tue, 02 Sep 2025 21:21:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004412969",
+    "title": "Intel\u2019s management must now make decisive changes \u2014 or Trump will do it for them",
+    "link": "https://www.marketwatch.com/story/intels-management-must-now-make-decisive-changes-or-trump-will-do-it-for-them-2f22df42?mod=mw_rss_topstories",
+    "published": "Tue, 02 Sep 2025 20:38:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004421538",
+    "title": "Stock investors\u2019 favorite AI tools are faring much worse than the S&P 500",
+    "link": "https://www.marketwatch.com/story/ai-can-do-a-lot-of-things-like-tearing-down-your-stock-portfolio-and-adding-risk-795d37cb?mod=mw_rss_topstories",
+    "published": "Tue, 02 Sep 2025 20:36:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004421009",
+    "title": "This one move could give Trump a win on global tariffs \u2014 and calm the bond market",
+    "link": "https://www.marketwatch.com/story/this-one-move-could-give-trump-a-win-on-global-tariffs-and-calm-the-bond-market-23bc9675?mod=mw_rss_topstories",
+    "published": "Tue, 02 Sep 2025 20:29:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004415123",
+    "title": "Dr. Oz is saving the government more money than Elon Musk and \u2018DOGE\u2019 ever did",
+    "link": "https://www.marketwatch.com/story/dr-oz-is-saving-the-government-more-money-than-elon-musk-and-doge-ever-did-385f9a59?mod=mw_rss_topstories",
+    "published": "Tue, 02 Sep 2025 20:28:00 GMT"
+  },
+  {
+    "id": "108174642",
+    "title": "Google stock jumps 8% after search giant avoids worst-case penalties in antitrust case",
+    "link": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+    "published": "Tue, 02 Sep 2025 23:38:35 GMT"
+  },
+  {
+    "id": "108193330",
+    "title": "Trump will ask Supreme Court for 'expedited ruling' on tariffs appeal",
+    "link": "https://www.cnbc.com/2025/09/02/trump-trade-supreme-court-tariffs-appeal.html",
+    "published": "Tue, 02 Sep 2025 20:56:19 GMT"
+  },
+  {
+    "id": "108192457",
+    "title": "Shut windows and empty offices: China's massive military parade is closed to the public",
+    "link": "https://www.cnbc.com/2025/09/02/china-military-parade-victory-day.html",
+    "published": "Tue, 02 Sep 2025 23:57:51 GMT"
+  },
+  {
+    "id": "108193069",
+    "title": "What Trump's tariff loss in court means for shippers and the billions in trade duties collected by U.S. government",
+    "link": "https://www.cnbc.com/2025/09/02/what-trump-court-loss-means-for-billions-in-tariffs-paid-to-government.html",
+    "published": "Tue, 02 Sep 2025 20:10:18 GMT"
+  },
+  {
+    "id": "108193094",
+    "title": "Fed Governor Lisa Cook 'did not ever commit mortgage fraud,' her lawyer says",
+    "link": "https://www.cnbc.com/2025/09/02/trump-lisa-cook-fed-powell-fraud.html",
+    "published": "Tue, 02 Sep 2025 21:59:42 GMT"
+  },
+  {
+    "id": "108192876",
+    "title": "'Gringos leave': Protests targeting travelers rise as overtourism anger grows",
+    "link": "https://www.cnbc.com/2025/09/03/protests-in-spain-mexico-target-travelers-as-overtourism-anger-grows.html",
+    "published": "Tue, 02 Sep 2025 23:09:51 GMT"
+  },
+  {
+    "id": "108190429",
+    "title": "Salesforce is having a bad year. This is where investors want to see growth",
+    "link": "https://www.cnbc.com/2025/09/02/salesforce-investors-hope-for-faster-growth-ai-progress-in-earnings-.html",
+    "published": "Tue, 02 Sep 2025 19:25:24 GMT"
+  },
+  {
+    "id": "108192866",
+    "title": "Asia markets track declines on Wall Street as tariff concerns weigh",
+    "link": "https://www.cnbc.com/2025/09/03/asia-stock-markets-today-nikkei-225-asx-200-kospi-hang-seng-csi-300-sensex-nifty-50.html",
+    "published": "Wed, 03 Sep 2025 01:13:08 GMT"
+  },
+  {
+    "id": "108193100",
+    "title": "Abbe Lowell: The veteran defense lawyer squaring off against Trump in Federal Reserve fight",
+    "link": "https://www.cnbc.com/2025/09/02/abbe-lowell-trump-lawyer-lisa-cook-.html",
+    "published": "Tue, 02 Sep 2025 21:26:30 GMT"
+  },
+  {
+    "id": "108191462",
+    "title": "There's a \u2018golden opportunity\u2019 to pay 0% capital gains under Trump\u2019s \u2018big beautiful bill,\u2019 experts say",
+    "link": "https://www.cnbc.com/2025/09/02/capital-gains-taxes-trump-big-beautiful-bill.html",
+    "published": "Tue, 02 Sep 2025 17:17:59 GMT"
+  },
+  {
+    "id": "108193261",
+    "title": "Jim Cramer explains how to handle Tuesday's market decline",
+    "link": "https://www.cnbc.com/2025/09/02/jim-cramer-explains-how-to-handle-tuesdays-market-decline.html",
+    "published": "Tue, 02 Sep 2025 22:50:18 GMT"
+  },
+  {
+    "id": "108193356",
+    "title": "Waymo starts testing in Denver, Seattle in bid to expand robotaxi service across U.S.",
+    "link": "https://www.cnbc.com/2025/09/02/waymo-starts-testing-in-denver-seattle-expands-us-robotaxi-service.html",
+    "published": "Tue, 02 Sep 2025 21:40:43 GMT"
+  },
+  {
+    "id": "108192965",
+    "title": "Treasury yields jump on prospect of U.S. having to refund tariff money; 30-year yield tops 4.97%",
+    "link": "https://www.cnbc.com/2025/09/02/us-treasury-yields-investors-look-to-key-jobs-report.html",
+    "published": "Tue, 02 Sep 2025 19:34:36 GMT"
+  },
+  {
+    "id": "108193413",
+    "title": "Salesforce CEO confirms 4,000 layoffs \u2018because I need less heads' with AI",
+    "link": "https://www.cnbc.com/2025/09/02/salesforce-ceo-confirms-4000-layoffs-because-i-need-less-heads-with-ai.html",
+    "published": "Tue, 02 Sep 2025 23:59:01 GMT"
+  },
+  {
+    "id": "108193182",
+    "title": "Amazon cracks down on Prime free shipping sharing",
+    "link": "https://www.cnbc.com/2025/09/02/amazon-eliminates-prime-share-shipping.html",
+    "published": "Tue, 02 Sep 2025 20:45:23 GMT"
+  },
+  {
+    "id": "108193108",
+    "title": "Warren Buffett says he is 'disappointed' in Kraft Heinz split; shares fall 7%",
+    "link": "https://www.cnbc.com/2025/09/02/warren-buffett-says-he-is-disappointed-in-kraft-heinz-split.html",
+    "published": "Tue, 02 Sep 2025 17:28:27 GMT"
+  },
+  {
+    "id": "108189244",
+    "title": "The hidden gem of Home Depot's over $22 billion of deals to boost its pro sales",
+    "link": "https://www.cnbc.com/2025/09/02/the-hidden-gem-of-home-depots-over-22-billion-of-deals-to-boost-its-pro-sales.html",
+    "published": "Tue, 02 Sep 2025 17:23:51 GMT"
+  },
+  {
+    "id": "108193279",
+    "title": "OpenAI acquires Statsig for $1.1 billion, brings on CEO as applications executive",
+    "link": "https://www.cnbc.com/2025/09/02/openai-buys-statsig-for-1point1-billion-hires-ceo-as-applications-exec.html",
+    "published": "Tue, 02 Sep 2025 19:44:06 GMT"
+  },
+  {
+    "id": "108193071",
+    "title": "Musk looks past Tesla sales slump, says 80% of value will come from Optimus",
+    "link": "https://www.cnbc.com/2025/09/02/musk-tesla-value-optimus-robot.html",
+    "published": "Tue, 02 Sep 2025 16:48:02 GMT"
+  },
+  {
+    "id": "108193089",
+    "title": "Trump can\u2019t use National Guard, military in California to enforce laws, Judge Breyer rules",
+    "link": "https://www.cnbc.com/2025/09/02/trump-national-guard-california-newsom.html",
+    "published": "Tue, 02 Sep 2025 18:30:27 GMT"
+  },
+  {
+    "id": "108193224",
+    "title": "Airplane leasing world shrinks with $7.4 billion takeover of Air Lease",
+    "link": "https://www.cnbc.com/2025/09/02/airplane-leasing-air-lease-takeover.html",
+    "published": "Tue, 02 Sep 2025 21:05:51 GMT"
+  },
+  {
+    "id": "108193133",
+    "title": "Paramount and Activision partner on Call of Duty live-action film",
+    "link": "https://www.cnbc.com/2025/09/02/call-of-duty-movie-paramount-activision-live-action-film.html",
+    "published": "Tue, 02 Sep 2025 15:07:31 GMT"
+  },
+  {
+    "id": "108193210",
+    "title": "Anthropic raises $13 billion funding round at $183 billion valuation",
+    "link": "https://www.cnbc.com/2025/09/02/anthropic-raises-13-billion-at-18-billion-valuation.html",
+    "published": "Tue, 02 Sep 2025 19:43:22 GMT"
+  },
+  {
+    "id": "108193066",
+    "title": "Starbucks to launch protein-packed cold foam, lattes later this month",
+    "link": "https://www.cnbc.com/2025/09/02/starbucks-to-launch-protein-packed-cold-foam-lattes-sept-29.html",
+    "published": "Tue, 02 Sep 2025 16:00:01 GMT"
+  },
+  {
+    "id": "108191577",
+    "title": "'Don't freak out just yet': How LGBTQ couples can plan ahead in case marriage equality is overturned",
+    "link": "https://www.cnbc.com/2025/09/02/how-lgbtq-couples-can-plan-ahead-in-case-marriage-equality-is-overturned.html",
+    "published": "Tue, 02 Sep 2025 15:39:00 GMT"
+  },
+  {
+    "id": "108193111",
+    "title": "Bitcoin bucks stock market downtrend but lags gold rally",
+    "link": "https://www.cnbc.com/2025/09/02/crypto-market-today.html",
+    "published": "Tue, 02 Sep 2025 20:38:12 GMT"
+  },
+  {
+    "id": "108193024",
+    "title": "Pepsi shares jump as activist Elliott takes $4 billion stake, sees 'historic' value opportunity",
+    "link": "https://www.cnbc.com/2025/09/02/pepsi-shares-jump-4percent-after-wsj-reports-elliott-planning-major-activist-campaign.html",
+    "published": "Tue, 02 Sep 2025 16:18:37 GMT"
+  },
+  {
+    "id": "108192449",
+    "title": "McDonald's to expand value menu as CEO says the chain aims to reach more customers",
+    "link": "https://www.cnbc.com/2025/09/02/mcdonalds-value-menu-combo-meals.html",
+    "published": "Tue, 02 Sep 2025 12:44:02 GMT"
+  },
+  {
+    "id": "108193036",
+    "title": "Constellation Brands shares sink as Modelo maker slashes guidance, sees Hispanic consumer decline",
+    "link": "https://www.cnbc.com/2025/09/02/constellation-brands-guidance-hispanic.html",
+    "published": "Tue, 02 Sep 2025 20:03:40 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250902085004.htm",
+    "title": "Distant suns covered in dark spots could shape the search for life",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250902085004.htm",
+    "published": "Tue, 02 Sep 2025 10:25:58 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250902084959.htm",
+    "title": "NASA\u2019s SPHEREx Captures Comet 3I/ATLAS, a Visitor From Beyond the Solar System",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250902084959.htm",
+    "published": "Tue, 02 Sep 2025 10:03:12 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250902084955.htm",
+    "title": "NASA\u2019s Webb Space Telescope Reveals Secrets of Interstellar Comet 3I/ATLAS",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250902084955.htm",
+    "published": "Tue, 02 Sep 2025 08:49:55 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250901104658.htm",
+    "title": "Study finds cannabis improves sleep where other drugs fail",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250901104658.htm",
+    "published": "Tue, 02 Sep 2025 08:42:05 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250901104656.htm",
+    "title": "Scientists reveal how breathwork unlocks psychedelic bliss in the brain",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250901104656.htm",
+    "published": "Tue, 02 Sep 2025 08:24:12 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250901104654.htm",
+    "title": "The midlife crisis is over, but something worse took its place",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250901104654.htm",
+    "published": "Tue, 02 Sep 2025 07:26:20 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250901104652.htm",
+    "title": "Mysterious bone disease ravaged Brazil\u2019s giant dinosaurs",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250901104652.htm",
+    "published": "Mon, 01 Sep 2025 10:46:52 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250901104649.htm",
+    "title": "Powerful new painkiller ADRIANA shows promise in ending opioid dependence",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250901104649.htm",
+    "published": "Tue, 02 Sep 2025 03:32:58 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250901104647.htm",
+    "title": "Stronger weed, higher risk? Potent THC linked to psychosis and addiction",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250901104647.htm",
+    "published": "Tue, 02 Sep 2025 03:11:31 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250901104645.htm",
+    "title": "The next Ozempic: A 4-in-1 breakthrough for lasting weight loss",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250901104645.htm",
+    "published": "Mon, 01 Sep 2025 23:48:41 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250901104643.htm",
+    "title": "Your nose could detect Alzheimer\u2019s years before memory loss",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250901104643.htm",
+    "published": "Mon, 01 Sep 2025 23:19:34 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250901104640.htm",
+    "title": "How long can one RSV shot protect seniors? Study shows surprising two-year shield",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250901104640.htm",
+    "published": "Mon, 01 Sep 2025 22:55:42 EDT"
+  },
+  {
+    "id": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+    "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
+    "link": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+    "published": "Tue, 02 Sep 2025 20:26:47 +0000"
+  },
+  {
+    "id": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
+    "title": "%CPU utilization is a lie",
+    "link": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
+    "published": "Wed, 03 Sep 2025 00:01:02 +0000"
+  },
+  {
+    "id": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/",
+    "title": "This blog is running on a recycled Google Pixel 5 (2024)",
+    "link": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/",
+    "published": "Tue, 02 Sep 2025 22:58:23 +0000"
+  },
+  {
+    "id": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
+    "title": "Introduction to Ada: a project-based exploration with rosettas",
+    "link": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
+    "published": "Tue, 02 Sep 2025 17:32:08 +0000"
+  },
+  {
+    "id": "https://dgross.ca/blog/linux-home-server-auto-sleep",
+    "title": "Making a Linux home server sleep on idle and wake on demand (2023)",
+    "link": "https://dgross.ca/blog/linux-home-server-auto-sleep",
+    "published": "Tue, 02 Sep 2025 19:42:48 +0000"
+  },
+  {
+    "id": "https://blog.ctms.me/posts/2024-07-26-i-want-to-be-left-alone/",
+    "title": "I want to be left alone",
+    "link": "https://blog.ctms.me/posts/2024-07-26-i-want-to-be-left-alone/",
+    "published": "Wed, 03 Sep 2025 01:11:46 +0000"
+  },
+  {
+    "id": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
+    "title": "A staff engineer's journey with Claude Code",
+    "link": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
+    "published": "Tue, 02 Sep 2025 19:34:24 +0000"
+  },
+  {
+    "id": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
+    "title": "<template>: The Content Template element",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
+    "published": "Tue, 02 Sep 2025 17:16:42 +0000"
+  },
+  {
+    "id": "https://github.com/the-litte-book-of/linear-algebra",
+    "title": "The Little Book of Linear Algebra",
+    "link": "https://github.com/the-litte-book-of/linear-algebra",
+    "published": "Tue, 02 Sep 2025 14:17:07 +0000"
+  },
+  {
+    "id": "https://idiallo.com/blog/performing-for-the-job-title",
+    "title": "You're Not Interviewing for the Job. You're Auditioning for the Job Title",
+    "link": "https://idiallo.com/blog/performing-for-the-job-title",
+    "published": "Tue, 02 Sep 2025 21:31:37 +0000"
+  },
+  {
+    "id": "https://imadr.me/pbr/",
+    "title": "Physically based rendering from first principles",
+    "link": "https://imadr.me/pbr/",
+    "published": "Tue, 02 Sep 2025 18:07:22 +0000"
+  },
+  {
+    "id": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/",
+    "title": "Vijaye Raji to become CTO of Applications with acquisition of Statsig",
+    "link": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig/",
+    "published": "Tue, 02 Sep 2025 18:18:10 +0000"
+  },
+  {
+    "id": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
+    "title": "Static sites enable a good time travel experience",
+    "link": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
+    "published": "Tue, 02 Sep 2025 15:25:44 +0000"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=45104974",
+    "title": "Launch HN: Datafruit (YC S25) \u2013 AI for DevOps",
+    "link": "https://news.ycombinator.com/item?id=45104974",
+    "published": "Tue, 02 Sep 2025 16:08:31 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
+    "title": "'World Models,' an old idea in AI, mount a comeback",
+    "link": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
+    "published": "Tue, 02 Sep 2025 16:53:29 +0000"
+  },
+  {
+    "id": "https://joegm.github.io/blog/indices-not-pointers/",
+    "title": "Indices, not Pointers",
+    "link": "https://joegm.github.io/blog/indices-not-pointers/",
+    "published": "Tue, 02 Sep 2025 23:21:30 +0000"
+  },
+  {
+    "id": "https://github.com/Tortured-Metaphor/LightCycle",
+    "title": "Show HN: LightCycle, a FOSS game in Rust based on Tron",
+    "link": "https://github.com/Tortured-Metaphor/LightCycle",
+    "published": "Wed, 03 Sep 2025 00:08:54 +0000"
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/The_staff_ate_it_later",
+    "title": "The staff ate it later",
+    "link": "https://en.wikipedia.org/wiki/The_staff_ate_it_later",
+    "published": "Tue, 02 Sep 2025 15:24:48 +0000"
+  },
+  {
+    "id": "https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/",
+    "title": "Chicago has the most lead pipes in the nation. We mapped them all",
+    "link": "https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/",
+    "published": "Sun, 31 Aug 2025 01:27:06 +0000"
+  },
+  {
+    "id": "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf",
+    "title": "Still Asking: How Good Are Query Optimizers, Really? [pdf]",
+    "link": "https://www.vldb.org/pvldb/vol18/p5531-viktor.pdf",
+    "published": "Sun, 31 Aug 2025 05:53:19 +0000"
+  },
+  {
+    "id": "https://eclecticlight.co/2025/08/29/what-happens-during-startup/",
+    "title": "What Happens During Startup?",
+    "link": "https://eclecticlight.co/2025/08/29/what-happens-during-startup/",
+    "published": "Sat, 30 Aug 2025 02:35:00 +0000"
+  },
+  {
+    "id": "https://aresluna.org/the-primitive-tortureboard/",
+    "title": "Untangling the myths and mysteries of Dvorak and QWERTY (2023)",
+    "link": "https://aresluna.org/the-primitive-tortureboard/",
+    "published": "Fri, 29 Aug 2025 13:59:33 +0000"
+  },
+  {
+    "id": "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/",
+    "title": "Amazon must face US nationwide class action over third-party sales",
+    "link": "https://www.reuters.com/legal/government/amazon-must-face-us-nationwide-class-action-over-third-party-sales-2025-09-02/",
+    "published": "Tue, 02 Sep 2025 19:28:43 +0000"
+  },
+  {
+    "id": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+    "title": "Anthropic raises $13B Series F",
+    "link": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+    "published": "Tue, 02 Sep 2025 16:04:15 +0000"
+  },
+  {
+    "id": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
+    "title": "Python has had async for 10 years \u2013 why isn't it more popular?",
+    "link": "https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html",
+    "published": "Tue, 02 Sep 2025 17:24:57 +0000"
+  },
+  {
+    "id": "https://dynomight.net/liking/",
+    "title": "Take something you don\u2019t like and try to like it",
+    "link": "https://dynomight.net/liking/",
+    "published": "Tue, 02 Sep 2025 12:56:37 +0000"
+  },
+  {
+    "id": "https://kvachev.com/blog/posts/triangular-grid/",
+    "title": "Triangle Grids",
+    "link": "https://kvachev.com/blog/posts/triangular-grid/",
+    "published": "Sat, 30 Aug 2025 08:46:05 +0000"
+  },
+  {
+    "id": "https://useamber.app/",
+    "title": "Show HN: Amber \u2013 better Beeper, a modern all-in-one messenger",
+    "link": "https://useamber.app/",
+    "published": "Tue, 02 Sep 2025 18:48:26 +0000"
+  },
+  {
+    "id": "https://queue.acm.org/detail.cfm?id=3703126",
+    "title": "Civics is boring, so, let's encrypt something (2024)",
+    "link": "https://queue.acm.org/detail.cfm?id=3703126",
+    "published": "Tue, 02 Sep 2025 18:58:00 +0000"
+  },
+  {
+    "id": "https://www.worksinprogress.news/p/torontos-underground-labyrinth",
+    "title": "Toronto\u2019s network of pedestrian tunnels",
+    "link": "https://www.worksinprogress.news/p/torontos-underground-labyrinth",
+    "published": "Tue, 02 Sep 2025 11:44:14 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041692",
+    "title": "Waymo expands to Denver and Seattle with its Zeekr-made vans",
+    "link": "https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans/",
+    "published": "Tue, 02 Sep 2025 20:48:09 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041111",
+    "title": "Google avoids break up, but has to give up exclusive search deals in  antitrust trial",
+    "link": "https://techcrunch.com/2025/09/02/google-avoids-break-up-faces-new-oversight-in-search-antitrust-trial/",
+    "published": "Tue, 02 Sep 2025 20:45:20 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041425",
+    "title": "OpenAI to route sensitive conversations to GPT-5, introduce parental controls",
+    "link": "https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/",
+    "published": "Tue, 02 Sep 2025 20:13:04 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041645",
+    "title": "Judges side with Trump EPA over canceled Inflation Reduction Act grants to nonprofits",
+    "link": "https://techcrunch.com/2025/09/02/judges-side-with-trump-epa-over-canceled-inflation-reduction-act-grants-to-nonprofits/",
+    "published": "Tue, 02 Sep 2025 19:53:50 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041636",
+    "title": "Amazon launches Lens Live, an AI-powered shopping tool for use in the real world",
+    "link": "https://techcrunch.com/2025/09/02/amazon-launches-lens-live-an-ai-powered-shopping-tool-for-use-in-the-real-world/",
+    "published": "Tue, 02 Sep 2025 19:42:23 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041595",
+    "title": "OpenAI acquires product testing startup Statsig and shakes up its leadership team",
+    "link": "https://techcrunch.com/2025/09/02/openai-acquires-product-testing-startup-statsig-and-shakes-up-its-leadership-team/",
+    "published": "Tue, 02 Sep 2025 19:04:05 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=2998087",
+    "title": "Astro Teller, \u2018Captain of Moonshots,\u2019 joins TechCrunch Disrupt 2025 this October",
+    "link": "https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/",
+    "published": "Tue, 02 Sep 2025 18:44:48 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041412",
+    "title": "Tesla\u2019s 4th \u2018Master Plan\u2019 reads like LLM-generated nonsense",
+    "link": "https://techcrunch.com/2025/09/02/teslas-4th-master-plan-reads-like-llm-generated-nonsense/",
+    "published": "Tue, 02 Sep 2025 17:18:12 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=2834629",
+    "title": "Tesla\u2019s Dojo, a timeline",
+    "link": "https://techcrunch.com/2025/09/02/teslas-dojo-a-timeline/",
+    "published": "Tue, 02 Sep 2025 16:39:01 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041496",
+    "title": "Anthropic raises $13B Series F at $183B valuation",
+    "link": "https://techcrunch.com/2025/09/02/anthropic-raises-13b-series-f-at-183b-valuation/",
+    "published": "Tue, 02 Sep 2025 16:34:16 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041433",
+    "title": "WordPress shows off Telex, its experimental AI development tool",
+    "link": "https://techcrunch.com/2025/09/02/wordpress-shows-off-telex-its-experimental-ai-development-tool/",
+    "published": "Tue, 02 Sep 2025 16:26:48 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=2819319",
+    "title": "Tesla Dojo: The rise and fall of Elon Musk\u2019s AI supercomputer",
+    "link": "https://techcrunch.com/2025/09/02/tesla-dojo-the-rise-and-fall-of-elon-musks-ai-supercomputer/",
+    "published": "Tue, 02 Sep 2025 16:18:46 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041426",
+    "title": "ICE reactivates contract with spyware maker Paragon",
+    "link": "https://techcrunch.com/2025/09/02/ice-reactivates-contract-with-spyware-maker-paragon/",
+    "published": "Tue, 02 Sep 2025 16:11:25 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041462",
+    "title": "MrBeast reportedly plans to launch a phone company",
+    "link": "https://techcrunch.com/2025/09/02/mrbeast-reportedly-plans-to-launch-a-phone-company/",
+    "published": "Tue, 02 Sep 2025 15:58:30 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041421",
+    "title": "Instagram tests Picture-in-Picture viewing for reels",
+    "link": "https://techcrunch.com/2025/09/02/instagram-tests-picture-in-picture-viewing-for-reels/",
+    "published": "Tue, 02 Sep 2025 15:31:11 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041400",
+    "title": "Klarna revives IPO plans, aims to raise $1.27B",
+    "link": "https://techcrunch.com/2025/09/02/klarna-revives-ipo-plans-aims-to-raise-1-27b/",
+    "published": "Tue, 02 Sep 2025 14:30:52 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3040834",
+    "title": "Just 4 days left to exhibit at TechCrunch Disrupt 2025 \u2014 10 tables remain",
+    "link": "https://techcrunch.com/2025/09/02/just-4-days-left-to-exhibit-at-techcrunch-disrupt-2025-10-tables-remain/",
+    "published": "Tue, 02 Sep 2025 14:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041387",
+    "title": "BMW, I am so breaking up with you",
+    "link": "https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/",
+    "published": "Tue, 02 Sep 2025 06:07:36 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041326",
+    "title": "Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants",
+    "link": "https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/",
+    "published": "Tue, 02 Sep 2025 04:30:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3041373",
+    "title": "US and Indian VCs just formed a $1B+ alliance to fund India\u2019s deep tech startups",
+    "link": "https://techcrunch.com/2025/09/01/u-s-and-indian-vcs-just-formed-a-1b-alliance-to-fund-indias-deep-tech-startups/",
+    "published": "Tue, 02 Sep 2025 03:30:00 +0000"
+  },
+  {
+    "id": "68b6d95d68674507eb897ef2",
+    "title": "Four Ideas (AI edition): Adaptive Regulation, AI in Hospitality, AI Bubble Warnings, Insurer Innovations",
+    "link": "https://paulkedrosky.com/four-ideas-ai-edition-adaptive-regulation-ai-in-hospitality-ai-bubble-warnings-insurer-innovations/",
+    "published": "Tue, 02 Sep 2025 11:47:41 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=91411",
+    "title": "Stablecoins competing with banks?",
+    "link": "https://feeds.feedblitz.com/~/924243536/0/marginalrevolution~Stablecoins-competing-with-banks.html",
+    "published": "Tue, 02 Sep 2025 18:36:45 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=91398",
+    "title": "Tuesday assorted links",
+    "link": "https://feeds.feedblitz.com/~/924235421/0/marginalrevolution~Tuesday-assorted-links.html",
+    "published": "Tue, 02 Sep 2025 15:26:54 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=91349",
+    "title": "Could China Have Gone Christian?",
+    "link": "https://feeds.feedblitz.com/~/924215831/0/marginalrevolution~Could-China-Have-Gone-Christian.html",
+    "published": "Tue, 02 Sep 2025 11:16:36 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=91401",
+    "title": "Policy uncertainty matters right now",
+    "link": "https://feeds.feedblitz.com/~/924203264/0/marginalrevolution~Policy-uncertainty-matters-right-now.html",
+    "published": "Tue, 02 Sep 2025 06:24:46 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=91407",
+    "title": "The polity that is Brazil",
+    "link": "https://feeds.feedblitz.com/~/924200492/0/marginalrevolution~The-polity-that-is-Brazil.html",
+    "published": "Tue, 02 Sep 2025 04:41:12 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=153460",
+    "title": "\u2018World Models,\u2019 an Old Idea in AI, Mount a Comeback",
+    "link": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
+    "published": "Tue, 02 Sep 2025 13:17:56 +0000"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/09/250901104650.htm",
+    "title": "Strange \u201cheavy\u201d electrons could be the future of quantum computing",
+    "link": "https://www.sciencedaily.com/releases/2025/09/250901104650.htm",
+    "published": "Tue, 02 Sep 2025 05:05:44 EDT"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3158909",
+    "title": "This lizard can tolerate extreme levels of lead",
+    "link": "https://www.sciencenews.org/article/lizard-cuban-brown-anole-extreme-lead",
+    "published": "Tue, 02 Sep 2025 15:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3158959",
+    "title": "A Mars rock analysis tool proved its mettle on a chance find from Arizona",
+    "link": "https://www.sciencenews.org/article/mars-rock-analysis-tool-proved-arizona",
+    "published": "Tue, 02 Sep 2025 13:00:00 +0000"
+  }
+]

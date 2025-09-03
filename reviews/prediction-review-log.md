@@ -415,3 +415,12 @@ Supply chain and regional risk items (e.g., Russia-related tensions, SCO summit 
 
 ---
 
+
+## 2025-09-02
+
+Today’s coverage is dominated by Google’s antitrust ruling, U.S. political/legal developments, and general market commentary. None of the items provide concrete settlement prices for gold, Brent, or EU carbon allowances, nor do they include the end-of-period adjusted closes needed to adjudicate the equity relative-performance forecasts.
+
+While macro themes like tariff uncertainty, bond supply, and geopolitical tensions could influence equities, oil, and carbon in coming weeks, the articles offer no decisive evidence to mark any forecast as correct or incorrect today. All items remain open with outcomes contingent on future market data and deadlines later in September or mid-October.
+
+---
+

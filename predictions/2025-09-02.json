@@ -23,7 +23,7 @@
       ],
       "rationale": "Record-high prints, dovish Fed expectations, and geopolitical risk support repeated high LBMA PM fixes.",
       "id": "b4534be8-4468-4fef-be92-430f95f4d7e6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Rearmament trend and fresh contracts support UK defense names outperforming a heavyweight, rate-sensitive FTSE 100.",
       "id": "ccfd58e2-da6e-40cf-ade1-88228c3b5499",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Strategic backing signals improving sentiment; sector peer index is weighed down by regulated utilities and rates sensitivity.",
       "id": "f2c6e808-2a12-4169-8a8e-5ea16938f28c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -91,7 +91,7 @@
       ],
       "rationale": "Rising power demand and climate risk narratives can firm EUA prices into early autumn.",
       "id": "34085954-9f85-45e8-84d6-69b31ea21067",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -115,7 +115,7 @@
       ],
       "rationale": "Geopolitical risks and potential inventory draws can push Brent to test mid-90s into autumn.",
       "id": "7256e4b1-8341-4dba-9d58-7f1a53622fe8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -137,7 +137,7 @@
       ],
       "rationale": "Fresh cardiovascular benefit data reinforce Novo\u2019s moat and can drive relative outperformance.",
       "id": "e3337f58-9815-407f-a257-230847386d2c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "SNAP cuts pressure lower-income spending, creating relative headwinds for deep-discounters versus diversified retail baskets.",
       "id": "0b55bde8-8610-45a9-9e9f-48e7a1be2a0c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
