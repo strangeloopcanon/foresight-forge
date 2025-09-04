@@ -1,0 +1,45 @@
+{
+  "date": "2025-09-03",
+  "assessments": [
+    {
+      "id": "133168af-2d3a-4cfa-a75e-6d9ff2a60279",
+      "status": "pending",
+      "status_rationale": "Deadline is 2025-09-30 and no conclusive performance data versus SPY is provided. Antitrust ruling headlines may affect sentiment, but they do not establish a \u22652 pp outperformance by the close-date window."
+    },
+    {
+      "id": "02be223b-8b50-4ea9-b88b-6ac225898a1b",
+      "status": "pending",
+      "status_rationale": "Deadline is 2025-10-15 and no comparative price-change data for PEP vs KO is cited in today\u2019s news."
+    },
+    {
+      "id": "e1d18a1e-6286-443d-8bb7-c0c0badb0e50",
+      "status": "pending",
+      "status_rationale": "No evidence that DGS30 closed at or above 5.05% yet, and the deadline is 2025-09-30. Macro headlines do not include a qualifying yield print."
+    },
+    {
+      "id": "552f1253-1105-4d49-8461-6673f31318b8",
+      "status": "pending",
+      "status_rationale": "CRM fell on guidance while broader tech sentiment was mixed, which supports underperformance risk, but the window runs to 2025-10-15 and no definitive \u22654 pp gap vs QQQ by the end-date is established."
+    },
+    {
+      "id": "fd78fba9-0bcd-4977-bbb2-b00db74d4088",
+      "status": "pending",
+      "status_rationale": "News references U.S. actions against Venezuelan cartels, but there is no cited OFAC press release or list update with new Venezuelan designations. Deadline is 2025-09-30."
+    },
+    {
+      "id": "f3757639-cc9d-4d53-bd7c-f661858cabc3",
+      "status": "pending",
+      "status_rationale": "No Drewry World Container Index reading is reported. The deadline (on or before 2025-09-26) has not arrived."
+    },
+    {
+      "id": "d754d9aa-1427-45bd-8167-28c221f495b9",
+      "status": "pending",
+      "status_rationale": "August 2025 Core PCE m/m has not been released yet; target window is 0.2%\u20130.3% by 2025-09-27."
+    },
+    {
+      "id": "bfe9b118-8259-442c-923e-bfc500249f04",
+      "status": "pending",
+      "status_rationale": "No FedWatch probability snapshot is provided. The threshold (\u226420% combined odds for a \u226550 bp cut) could still occur by 2025-09-10."
+    }
+  ]
+}

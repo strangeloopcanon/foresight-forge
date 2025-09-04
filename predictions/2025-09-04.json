@@ -1,0 +1,165 @@
+{
+  "date": "2025-09-04",
+  "predictions": [
+    {
+      "text": "By 2025-10-31, the U.S. Department of Justice will file a remedies proposal in the Google Search antitrust case that seeks to prohibit Google from paying for default search placement on browsers or devices.",
+      "category": "tech",
+      "horizon_days": 57,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Verified if a filing appears on the court docket in U.S. et al. v. Google LLC (Search) or via a DOJ press release that explicitly includes a prohibition on default-search payment agreements with browser/device partners.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/03/technology/google-ruling-antitrust.html",
+        "Google liability ruling increases likelihood of prompt remedies phase and behavioral prohibitions on default-deal payments."
+      ],
+      "monitoring_signals": [
+        "Court scheduling orders and deadlines in the Google case",
+        "DOJ press statements or leaks on remedy scope",
+        "Reports about Google-Apple default search arrangements",
+        "Analogous behavioral remedies proposed in prior tech antitrust cases"
+      ],
+      "rationale": "Liability finding heightens pressure for behavioral remedies; default-payment bans are a natural focus.",
+      "id": "4c6feac5-5fcc-4454-aff5-6f54f325ab62",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The LBMA Gold Price PM will fix at or above $2,650/oz on at least two trading days by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 57,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Count days with LBMA Gold Price PM fixes \u2265 $2,650/oz using ICE Benchmark Administration/LBMA published data up to 2025-10-31.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/03/gold-hits-record-high-what-costco-bar-bought-last-year-is-worth.html",
+        "https://www.cnbc.com/2025/09/03/waller-in-the-running-for-chair-says-fed-should-cut-in-september.html"
+      ],
+      "monitoring_signals": [
+        "Fed cut probabilities and real yields (TIPS)",
+        "USD index (DXY) moves",
+        "Central bank gold purchases and ETF flows",
+        "Escalation in geopolitical risks or trade uncertainty"
+      ],
+      "rationale": "Falling real yields and policy uncertainty support further highs after recent records.",
+      "id": "9d2b6f84-5bbc-4b54-86fe-4a8d3c4def11",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 3.95% on at least one trading day by 2025-09-30.",
+      "category": "rates",
+      "horizon_days": 26,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Confirmed via FRED series DGS10 daily close \u2264 3.95% on any trading day through 2025-09-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/03/waller-in-the-running-for-chair-says-fed-should-cut-in-september.html",
+        "https://www.cnbc.com/2025/09/03/job-opening-data-falls-to-levels-rarely-seen-since-pandemic.html"
+      ],
+      "monitoring_signals": [
+        "Core CPI/PCE prints and labor data surprises",
+        "FOMC guidance and SEP projections",
+        "Auction demand (bid-to-cover, tail) for UST 10Y",
+        "Risk sentiment and term premium estimates"
+      ],
+      "rationale": "Cooling labor demand and growing cut odds favor a dip in long yields.",
+      "id": "4970b86a-da95-4db9-b095-4035cb5bdb88",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At Apple\u2019s September 9, 2025 event, the U.S. starting price for the base iPhone 16 Pro will be announced as at least $1,099.",
+      "category": "tech",
+      "horizon_days": 8,
+      "deadline": "2025-09-12",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Apple event materials or Apple Newsroom press releases list iPhone 16 Pro starting U.S. MSRP \u2265 $1,099.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/03/trump-tariffs-trade-supreme-court.html",
+        "Historically higher component costs and feature upgrades have supported occasional Pro-tier price increases."
+      ],
+      "monitoring_signals": [
+        "Pre-event supply chain and BOM cost reports",
+        "Tariff and trade policy developments impacting iPhone costs",
+        "Apple margin guidance and channel checks",
+        "Leaked pricing from carrier partners"
+      ],
+      "rationale": "Cost pressures and positioning of Pro models increase odds of a price floor at $1,099.",
+      "id": "a8204ad3-0a61-46b2-bb9f-989bdd005e22",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas futures will settle at or above \u20ac40.00/MWh on at least one trading day by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 57,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Check official daily settlement prices for ICE Endex TTF front-month; success if any settle \u2265 \u20ac40.00/MWh by 2025-10-31.",
+      "evidence": [
+        "Seasonal Norwegian maintenance and LNG supply variability can tighten near-term balances.",
+        "Early heating season weather and storage withdrawals often elevate volatility."
+      ],
+      "monitoring_signals": [
+        "Norwegian and UKCS outage reports",
+        "European gas storage levels vs 5-year norms",
+        "LNG send-out rates and U.S. export facility uptime",
+        "Weather forecasts (HDDs) and industrial demand"
+      ],
+      "rationale": "Seasonal risks and supply hiccups can briefly lift front-month TTF above \u20ac40.",
+      "id": "15f451ed-5105-48bd-8850-730a4fa2b855",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NOAA\u2019s Space Weather Prediction Center will issue at least one G3 (Strong) geomagnetic storm watch or warning by 2025-10-31 (UTC).",
+      "category": "other",
+      "horizon_days": 57,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Confirmed via SWPC Alerts, Watches and Warnings archive showing a G3 Watch or G3 Warning issued between now and 2025-10-31 (UTC).",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2025/09/250903075244.htm",
+        "Solar Cycle 25 is near peak, elevating probabilities of strong storms."
+      ],
+      "monitoring_signals": [
+        "Emergence of large active regions and sunspot counts",
+        "Halo CME detections and WSA\u2013Enlil model outputs",
+        "Kp forecasts and solar wind parameters (Bz, speed) from DSCOVR"
+      ],
+      "rationale": "Solar maximum conditions raise odds of at least a G3-level event in coming weeks.",
+      "id": "8b95ee77-9f88-4fd2-b4f6-1497adb9c3f9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI-U core m/m (seasonally adjusted) for August 2025 will be at or below 0.3%, as reported by BLS on 2025-09-11.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-09-11",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "BLS CPI news release shows monthly percent change for All items less food and energy (core CPI) for Aug 2025 \u2264 0.3%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/03/job-opening-data-falls-to-levels-rarely-seen-since-pandemic.html",
+        "https://www.cnbc.com/2025/09/03/waller-in-the-running-for-chair-says-fed-should-cut-in-september.html"
+      ],
+      "monitoring_signals": [
+        "High-frequency rent indices and OER trends",
+        "Used car auction prices and airfare",
+        "Medical services and core goods price trackers",
+        "Dollar strength and import prices"
+      ],
+      "rationale": "Cooling labor demand and goods disinflation should cap core at 0.3%.",
+      "id": "24fa0a34-0f02-4c0c-b88b-c716096abaf9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

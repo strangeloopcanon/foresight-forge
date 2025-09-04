@@ -424,3 +424,12 @@ While macro themes like tariff uncertainty, bond supply, and geopolitical tensio
 
 ---
 
+
+## 2025-09-03
+
+None of the tracked forecasts can be resolved from today’s headlines. Several items are market- or data-release dependent with deadlines later in September or October, and the articles do not provide definitive price moves, official statistics, or primary-source regulatory actions that satisfy the criteria.
+
+There are early directional signals: Salesforce’s weak guidance and stock drop raise the chance of underperforming QQQ over the window, and antitrust headlines around Google could influence GOOGL vs SPY—but neither outcome is locked in. Macro pieces (weaker job openings) could weigh on rate expectations and the 30-year yield and may affect the FedWatch probabilities, while Venezuela-related coverage suggests geopolitical momentum without an explicit OFAC designation. We’ll need forthcoming data prints (Core PCE), index updates (Drewry WCI), market closes over the specified windows, and any OFAC press releases to adjudicate.
+
+---
+
