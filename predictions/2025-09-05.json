@@ -1,0 +1,170 @@
+{
+  "date": "2025-09-05",
+  "predictions": [
+    {
+      "text": "Between 2025-09-05 and 2025-09-20, the S&P 500 Index (SPX) will set at least three new all-time closing highs.",
+      "category": "markets",
+      "horizon_days": 15,
+      "deadline": "2025-09-20",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Count trading days in 2025-09-05 through 2025-09-20 where the official SPX closing level strictly exceeds every prior historical closing high. Use S&P Dow Jones Indices or major market data providers (Bloomberg/Refinitiv). Success if count >= 3.",
+      "evidence": [
+        "S&P 500 hits record as falling yields offer relief, though bond market divergence warns of volatility.",
+        "ADP estimates U.S. added 54,000 jobs in August, underscoring cooling labor market ahead of payrolls."
+      ],
+      "monitoring_signals": [
+        "U.S. 10Y Treasury yield (FRED: DGS10)",
+        "VIX level and term structure",
+        "Fed funds futures implied cuts",
+        "Mega-cap tech performance (NVDA, AVGO, AAPL)",
+        "Advance/decline breadth metrics"
+      ],
+      "rationale": "Easing yields and softer labor data support multiple incremental highs amid momentum and systematic inflows.",
+      "id": "30c56087-641c-44c3-a0f3-bf4e33f88aae",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-05 close to 2025-09-20 close, Broadcom (AVGO) will outperform iShares Semiconductor ETF (SOXX) by at least 3.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "tech",
+      "horizon_days": 15,
+      "deadline": "2025-09-20",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Using a consistent data source (e.g., Yahoo Finance or Bloomberg), compute adjusted-close percentage returns for AVGO and SOXX from 2025-09-05 close to 2025-09-20 close. Success if AVGO_return \u2212 SOXX_return >= 3.0 percentage points.",
+      "evidence": [
+        "Broadcom jumps on mystery $10B AI customer and strong AI sales growth, reinforcing semiconductor demand strength."
+      ],
+      "monitoring_signals": [
+        "Post-earnings drift in AVGO",
+        "Analyst target and estimate revisions for AVGO",
+        "News on custom accelerators/AI orders",
+        "Peer moves (NVDA, AMD, TSMC)",
+        "Semiconductor order book commentary"
+      ],
+      "rationale": "Fresh catalysts and upward estimate revisions tend to drive short-term post-earnings relative outperformance.",
+      "id": "443a758c-19e3-4553-b663-84a0ecc08797",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-05 close to 2025-09-30 close, T. Rowe Price (TROW) will outperform SPDR S&P 500 ETF (SPY) by at least 6.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 25,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "log_odds": 0.2412,
+      "verification_criteria": "Using a consistent data source (e.g., Yahoo Finance or Bloomberg), compute adjusted-close percentage returns for TROW and SPY from 2025-09-05 close to 2025-09-30 close. Success if TROW_return \u2212 SPY_return >= 6.0 percentage points.",
+      "evidence": [
+        "T. Rowe Price spikes after $1B Goldman investment, signaling strategic capital partnerships in asset management."
+      ],
+      "monitoring_signals": [
+        "Details/closing of Goldman investment",
+        "Potential buybacks/dividend commentary",
+        "Asset flows into TROW funds",
+        "Financials sector relative performance",
+        "Market risk appetite"
+      ],
+      "rationale": "A major strategic investment and potential capital actions can fuel multi-week outperformance versus the broad market.",
+      "id": "f33e0578-f932-4e6b-9ebc-0c7a8ddb93ee",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Shanghai\u2013New York weekly spot rate published on or before 2025-09-26 will be at least 10% higher than the 2025-08-29 reading.",
+      "category": "markets",
+      "horizon_days": 21,
+      "deadline": "2025-09-26",
+      "confidence_pct": 56,
+      "log_odds": 0.2412,
+      "verification_criteria": "Compare the Drewry WCI Shanghai\u2013New York rate published on or before 2025-09-26 with the rate published on 2025-08-29 on Drewry\u2019s website. Success if the later reading is >= 10% higher than the 2025-08-29 reading.",
+      "evidence": [
+        "Global shipping disruptions and security risks have been supporting higher transpacific spot rates in recent weeks.",
+        "Sustained Red Sea/Bab el-Mandeb risk is redirecting traffic and tightening capacity on key lanes."
+      ],
+      "monitoring_signals": [
+        "UKMTO incident reports for Red Sea/Gulf of Aden",
+        "Suez Canal transit counts",
+        "Port congestion metrics (US East Coast)",
+        "Bunker fuel prices",
+        "Freightos/Xeneta spot booking trends"
+      ],
+      "rationale": "Persistent security and capacity pressures tend to transmit faster to US East Coast rates than the composite.",
+      "id": "da34636f-51f6-4861-8567-9a8a5815787c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The 10-Year Breakeven Inflation Rate (FRED: T10YIE) will close at or below 2.20% on at least one trading day by 2025-09-30.",
+      "category": "rates",
+      "horizon_days": 25,
+      "deadline": "2025-09-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Using the FRED series T10YIE, success if any daily close on or before 2025-09-30 is <= 2.20%.",
+      "evidence": [
+        "S&P 500 hits record as falling yields offer relief, indicating a bid for duration and disinflation pricing.",
+        "ADP estimates U.S. added 54,000 jobs in August, hinting at cooling demand and easing inflation pressure."
+      ],
+      "monitoring_signals": [
+        "U.S. CPI/PPI (especially 2025-09-11 CPI)",
+        "Oil prices (Brent/WTI) and gasoline",
+        "Fed communications and OIS-implied cuts",
+        "5y5y inflation expectation (FRED: T5YIFR)",
+        "Treasury auction demand"
+      ],
+      "rationale": "Cooling growth signals and declining yields raise odds of a downtick in market-based inflation expectations.",
+      "id": "230d1882-bc4a-4829-82a5-ff98b48e52b5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31 (UTC), NOAA SWPC will record at least one X1.0-class or stronger solar flare.",
+      "category": "other",
+      "horizon_days": 56,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "NOAA SWPC solar event lists or daily reports must show at least one flare of class X1.0 or higher occurring between now and 2025-10-31 (UTC).",
+      "evidence": [
+        "NOAA\u2019s Space Weather Prediction Center will issue G3 (Strong) watch/warning by 2025-10-31, indicating elevated solar activity.",
+        "Solar Cycle 25 is near peak in 2025, increasing frequency of major flares."
+      ],
+      "monitoring_signals": [
+        "Sunspot numbers (SILSO)",
+        "F10.7 cm solar flux index",
+        "Active region complexity (beta-gamma-delta)",
+        "SWPC 3-day flare probabilities"
+      ],
+      "rationale": "Solar maximum conditions heighten the baseline probability of at least one X-class flare over a two-month window.",
+      "id": "566c838f-d518-479a-9cec-d3df8b141706",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE UK Emissions Allowance (UKA) December-2025 futures will settle at or above \u00a344.00 per metric ton at least once by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 56,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Use ICE settlement data for UK ETS December-2025 futures. Success if any official daily settlement on or before 2025-10-31 is >= 44.00 GBP/tonne.",
+      "evidence": [
+        "Orsted sues to save offshore wind farm from administration cancellation, spotlighting renewable policy uncertainty.",
+        "Energy market tightness and European gas risks can lift carbon prices; UKA often correlates with EUA direction."
+      ],
+      "monitoring_signals": [
+        "UK ETS policy announcements",
+        "EUA-UKA spread dynamics",
+        "TTF natural gas prices",
+        "UK power demand and generation mix",
+        "Industrial activity indicators"
+      ],
+      "rationale": "Policy and energy-price volatility can catalyze a test of nearby resistance in UKA within the horizon.",
+      "id": "b41a102f-4ab6-4799-ae11-7294768a7917",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

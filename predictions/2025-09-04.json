@@ -21,7 +21,7 @@
       ],
       "rationale": "Liability finding heightens pressure for behavioral remedies; default-payment bans are a natural focus.",
       "id": "4c6feac5-5fcc-4454-aff5-6f54f325ab62",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Falling real yields and policy uncertainty support further highs after recent records.",
       "id": "9d2b6f84-5bbc-4b54-86fe-4a8d3c4def11",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Cooling labor demand and growing cut odds favor a dip in long yields.",
       "id": "4970b86a-da95-4db9-b095-4035cb5bdb88",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Cost pressures and positioning of Pro models increase odds of a price floor at $1,099.",
       "id": "a8204ad3-0a61-46b2-bb9f-989bdd005e22",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -113,7 +113,7 @@
       ],
       "rationale": "Seasonal risks and supply hiccups can briefly lift front-month TTF above \u20ac40.",
       "id": "15f451ed-5105-48bd-8850-730a4fa2b855",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -135,7 +135,7 @@
       ],
       "rationale": "Solar maximum conditions raise odds of at least a G3-level event in coming weeks.",
       "id": "8b95ee77-9f88-4fd2-b4f6-1497adb9c3f9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "Cooling labor demand and goods disinflation should cap core at 0.3%.",
       "id": "24fa0a34-0f02-4c0c-b88b-c716096abaf9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

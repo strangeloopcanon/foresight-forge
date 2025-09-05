@@ -1,0 +1,113 @@
+{
+  "bullets": [
+    {
+      "text": "Trump administration will end U.S. security programs shielding European allies from Russia, potentially weakening deterrence on continent.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/04/us/politics/trump-europe-russia-security.html"
+    },
+    {
+      "text": "Trump claims authority to summarily kill suspected drug smugglers, signaling harsher extraterritorial counternarcotics posture.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/04/us/politics/trump-drug-smugglers-military.html"
+    },
+    {
+      "text": "After Ecuador boat strike, Sen. Rubio says U.S. will help partners blow up crime groups, foreshadowing escalated regional security cooperation.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/04/world/americas/rubio-ecuador-crime-groups-boat-strike.html"
+    },
+    {
+      "text": "Trump formalizes lower tariffs on Japanese autos; Asia-Pacific stocks open higher on trade optimism.",
+      "tags": [
+        "geopolitics",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/05/asia-pacific-markets-set-to-open-mixed-after-trump-formalizes-lower-japanese-auto-tariffs.html"
+    },
+    {
+      "text": "ADP estimates U.S. added 54,000 jobs in August, underscoring cooling labor market ahead of payrolls.",
+      "tags": [
+        "macro",
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/09/04/adp-jpb-data-august-2025.html"
+    },
+    {
+      "text": "S&P 500 hits record as falling yields offer relief, though bond market divergence warns of volatility.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.marketwatch.com/story/s-p-500-books-record-as-falling-rates-bring-relief-but-beware-the-tale-of-two-bond-markets-73165c57"
+    },
+    {
+      "text": "Broadcom jumps on mystery $10B AI customer and strong AI sales growth, reinforcing semiconductor demand strength.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/04/broadcom-avgo-q3-2025-earnings-report.html"
+    },
+    {
+      "text": "Salesforce and Figma shares slide on weak outlooks, highlighting software growth deceleration despite AI enthusiasm.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/04/salesforce-stock-guidance-earnings.html"
+    },
+    {
+      "text": "T. Rowe Price spikes after $1B Goldman investment, signaling strategic capital partnerships in asset management.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/04/t-rowe-price-shares-rocket-higher-after-deal-where-goldman-will-invest-1-billion-in-asset-manager.html"
+    },
+    {
+      "text": "Record numbers of savers now 401(k)/IRA millionaires, benefiting from market rally and higher contributions.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/04/ira-401k-millionaires-hit-record-highs.html"
+    },
+    {
+      "text": "Orsted sues to save offshore wind farm from administration cancellation, spotlighting U.S. renewable policy uncertainty.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/04/trump-offshore-wind-lawsuit-orsted.html"
+    },
+    {
+      "text": "Honeywell\u2019s Quantinuum advances toward key commercialization milestone, boosting quantum computing\u2019s investability.",
+      "tags": [
+        "tech",
+        "markets",
+        "science"
+      ],
+      "link": "https://www.cnbc.com/2025/09/04/honeywells-quantinuum-inches-closer-to-a-pivotal-step-for-investors.html"
+    },
+    {
+      "text": "A 3-minute EEG-based brainwave test could detect Alzheimer\u2019s years early, promising cheaper screening.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250904014153.htm"
+    },
+    {
+      "text": "Mars quakes reveal new details of planetary interior, refining models of crust and mantle structure.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2025/09/04/science/astronomy-geology-mars-quakes.html"
+    }
+  ]
+}

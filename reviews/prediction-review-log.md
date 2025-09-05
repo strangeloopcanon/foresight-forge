@@ -433,3 +433,12 @@ There are early directional signals: Salesforce’s weak guidance and stock drop
 
 ---
 
+
+## 2025-09-04
+
+None of today’s articles directly resolve the listed forecasts. The coverage is dominated by U.S. political developments, corporate earnings, and market color, with no concrete updates on DOJ’s Google remedies proposal, Apple’s iPhone pricing, TTF gas settlements, LBMA gold fixes, NOAA geomagnetic alerts, or the upcoming CPI release.
+
+Macro context hints at potential movement relevant to one call: headlines cite falling rates and an equity rally, which could support the possibility of the 10-year yield dipping to the 3.95% threshold before month-end. The Apple event is imminent and will likely settle the iPhone pricing forecast within days. Commodity and space-weather items saw no new signals today.
+
+---
+
