@@ -1,0 +1,40 @@
+{
+  "date": "2025-09-05",
+  "assessments": [
+    {
+      "id": "30c56087-641c-44c3-a0f3-bf4e33f88aae",
+      "status": "pending",
+      "status_rationale": "No clear evidence that the S&P 500 has set three new all-time closing highs; headlines note strong megacaps and index additions (e.g., Robinhood, AppLovin) but do not confirm ATH closes. Window remains open through 2025-09-20."
+    },
+    {
+      "id": "443a758c-19e3-4553-b663-84a0ecc08797",
+      "status": "pending",
+      "status_rationale": "CNBC highlights Broadcom\u2019s strength and AMD\u2019s drop, which could favor AVGO vs. SOXX, but the performance is defined from 2025-09-05 close to 2025-09-20 close. No period-end data yet."
+    },
+    {
+      "id": "f33e0578-f932-4e6b-9ebc-0c7a8ddb93ee",
+      "status": "pending",
+      "status_rationale": "Outcome depends on relative returns through 2025-09-30 close; no conclusive data provided."
+    },
+    {
+      "id": "da34636f-51f6-4861-8567-9a8a5815787c",
+      "status": "pending",
+      "status_rationale": "No update on the Drewry WCI Shanghai\u2013New York rate in today\u2019s coverage; deadline is 2025-09-26."
+    },
+    {
+      "id": "230d1882-bc4a-4829-82a5-ff98b48e52b5",
+      "status": "pending",
+      "status_rationale": "Reports note tumbling Treasury yields and higher Fed cut odds, but no confirmation that the 10-Year Breakeven (T10YIE) closed at or below 2.20% on any day yet."
+    },
+    {
+      "id": "566c838f-d518-479a-9cec-d3df8b141706",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC report of an X1.0-class flare in the news; window remains open until 2025-10-31."
+    },
+    {
+      "id": "b41a102f-4ab6-4799-ae11-7294768a7917",
+      "status": "pending",
+      "status_rationale": "No mention of UKA Dec-2025 futures pricing; outcome requires a print at or above \u00a344 by 2025-10-31."
+    }
+  ]
+}

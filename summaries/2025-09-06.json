@@ -1,0 +1,127 @@
+{
+  "bullets": [
+    {
+      "text": "Second weak US jobs report (+22k) boosts odds of a 50 bp Fed cut; 10-year yield tumbles; mortgage rates see biggest one-day drop.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/05/jobs-report-august-2025.html"
+    },
+    {
+      "text": "Immigration crackdown, including factory raids, constrains labor supply and production, increasingly cited as a driver of slower job and wage growth.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/09/05/opinion/jobs-report-immigration-trump-fed.html"
+    },
+    {
+      "text": "OPEC+ meets amid fragile demand and compliance risks; any supply shift could swing crude prices and near-term inflation expectations.",
+      "tags": [
+        "energy",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/opec-meets-this-weekend-at-a-precarious-time-for-crude-oil-heres-whats-at-stake-a8379d98"
+    },
+    {
+      "text": "Treasuries' safe-haven status erodes as volatility and deficits lift risk premia, implying higher long-run borrowing costs for taxpayers despite cyclical yield dips.",
+      "tags": [
+        "markets",
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/treasury-bonds-arent-the-safe-haven-theyve-been-in-the-past-and-taxpayers-will-pay-a-price-78bb81ec"
+    },
+    {
+      "text": "Robinhood and AppLovin join the S&P 500, likely triggering index inflows and increased liquidity for both stocks.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/05/applovin-robinhood-sp-500.html"
+    },
+    {
+      "text": "Mega-cap tech extends rally to $21T combined market cap, helped by Google's antitrust 'resolution' and AI-driven earnings momentum.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/05/tech-megacaps-worth-market-cap.html"
+    },
+    {
+      "text": "Broadcom jumps on a $10B custom-silicon order, widely assumed from OpenAI, underscoring sustained AI infrastructure capex.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/05/broadcom-avgo-stock-openai-earnings.html"
+    },
+    {
+      "text": "Anthropic to pay $1.5B to settle authors\u2019 copyright suit, signaling rising AI training content costs and legal standard-setting for data licensing.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html"
+    },
+    {
+      "text": "EU fines Google \u20ac2.95B for ad tech abuses, tightening oversight of platform dominance and potentially reshaping digital advertising markets.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992"
+    },
+    {
+      "text": "Senate draft would rein in stock tokenization, signaling stricter guardrails between securities law and crypto rails.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/05/senate-stock-tokenization-crypto-bill.html"
+    },
+    {
+      "text": "White House signals 'substantial' chip tariffs while carving exceptions for major OEMs, complicating semiconductor supply chains and China trade tensions.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/05/trump-warns-of-fairly-substantial-chip-tariffs-signals-apple-others-safe-ai-tim-cook-tech.html"
+    },
+    {
+      "text": "Brazil braces for possible U.S. sanctions linked to Bolsonaro trial, raising risks for trade, capital flows, and the real.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/09/05/world/americas/bolsonaro-trial-us-brazil-sanctions.html"
+    },
+    {
+      "text": "U.S. industrial space demand falls for first time in 15 years, signaling logistics slowdown and post-pandemic normalization.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/05/demand-for-industrial-space-falls-for-the-first-time-in-15-years.html"
+    },
+    {
+      "text": "Oceans could hit a tipping point by 2050, threatening fisheries, carbon sinks, and extreme-weather buffering without rapid emissions cuts.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250905180728.htm"
+    },
+    {
+      "text": "Transparent solar-window tech advances promise building-integrated generation, potentially decarbonizing urban electricity without sacrificing daylighting.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250905112312.htm"
+    }
+  ]
+}

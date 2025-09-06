@@ -22,7 +22,7 @@
       ],
       "rationale": "Easing yields and softer labor data support multiple incremental highs amid momentum and systematic inflows.",
       "id": "30c56087-641c-44c3-a0f3-bf4e33f88aae",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Fresh catalysts and upward estimate revisions tend to drive short-term post-earnings relative outperformance.",
       "id": "443a758c-19e3-4553-b663-84a0ecc08797",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -68,7 +68,7 @@
       ],
       "rationale": "A major strategic investment and potential capital actions can fuel multi-week outperformance versus the broad market.",
       "id": "f33e0578-f932-4e6b-9ebc-0c7a8ddb93ee",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -92,7 +92,7 @@
       ],
       "rationale": "Persistent security and capacity pressures tend to transmit faster to US East Coast rates than the composite.",
       "id": "da34636f-51f6-4861-8567-9a8a5815787c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -116,7 +116,7 @@
       ],
       "rationale": "Cooling growth signals and declining yields raise odds of a downtick in market-based inflation expectations.",
       "id": "230d1882-bc4a-4829-82a5-ff98b48e52b5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Solar maximum conditions heighten the baseline probability of at least one X-class flare over a two-month window.",
       "id": "566c838f-d518-479a-9cec-d3df8b141706",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -163,7 +163,7 @@
       ],
       "rationale": "Policy and energy-price volatility can catalyze a test of nearby resistance in UKA within the horizon.",
       "id": "b41a102f-4ab6-4799-ae11-7294768a7917",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

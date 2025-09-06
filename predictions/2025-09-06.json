@@ -1,0 +1,164 @@
+{
+  "date": "2025-09-06",
+  "predictions": [
+    {
+      "text": "U.S. CPI-U headline m/m (seasonally adjusted) for August 2025 will be between 0.0% and 0.2%, as reported by BLS on 2025-09-11.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-09-11",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify in the BLS CPI news release dated 2025-09-11 that the 'All items' seasonally adjusted percent change from the previous month is >= 0.0% and <= 0.2%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/05/jobs-report-august-2025.html",
+        "https://www.cnbc.com/2025/09/05/demand-for-industrial-space-falls-for-the-first-time-in-15-years.html",
+        "https://www.marketwatch.com/story/opec-meets-this-weekend-at-a-precarious-time-for-crude-oil-heres-whats-at-stake-a8379d98"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed Inflation Nowcast for August 2025",
+        "AAA/EIA weekly gasoline price trends",
+        "Manheim used vehicle value index",
+        "BLS CPI methodological notes and seasonal adjustment factors",
+        "Brent/WTI price changes into CPI reference period"
+      ],
+      "rationale": "Labor softness and cooling demand point to subdued headline inflation; energy risk is the swing factor.",
+      "id": "075c0c5e-395a-4ef7-b48c-64d3f6f1240a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 5-Year Treasury yield (FRED: DGS5) will close at or below 3.95% on at least one trading day by 2025-09-30.",
+      "category": "rates",
+      "horizon_days": 24,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm via FRED series DGS5 that any daily close on or before 2025-09-30 is <= 3.95%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/05/jobs-report-august-2025.html",
+        "https://www.marketwatch.com/story/treasury-bonds-arent-the-safe-haven-theyve-been-in-the-past-and-taxpayers-will-pay-a-price-78bb81ec"
+      ],
+      "monitoring_signals": [
+        "CME FedWatch probabilities for September FOMC",
+        "Core CPI/PPI prints for August",
+        "Fed communication (speeches, blackout timing)",
+        "MOVE index and Treasury futures positioning",
+        "Term premium estimates and auction demand (5Y/7Y)"
+      ],
+      "rationale": "Soft data and higher cut odds should pressure intermediate yields despite elevated term premia.",
+      "id": "4284c192-1ca4-4962-92f0-d1fa1cbc3cb9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-09, OPEC+ will announce no net increase to aggregate production targets for October 2025 versus September 2025 in its official post-meeting communiqu\u00e9.",
+      "category": "energy",
+      "horizon_days": 3,
+      "deadline": "2025-09-09",
+      "confidence_pct": 58,
+      "verification_criteria": "Check OPEC/OPEC+ press release or ministerial statement by 2025-09-09; targets must be described as unchanged overall for October vs September. Minor member reallocations that do not raise the combined target count as no net increase.",
+      "evidence": [
+        "https://www.marketwatch.com/story/opec-meets-this-weekend-at-a-precarious-time-for-crude-oil-heres-whats-at-stake-a8379d98"
+      ],
+      "monitoring_signals": [
+        "JMMC/JMMC press briefings and leaks",
+        "Saudi and Russian energy ministry statements",
+        "Front-month Brent/WTI time spreads",
+        "Tanker tracking and export guidance",
+        "IEA/OPEC demand revisions"
+      ],
+      "rationale": "Fragile demand and compliance risks argue for maintaining current targets to support prices.",
+      "id": "31c7caf2-bbde-444b-bdc0-8b0588e17c28",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-06 close to 2025-09-27 close, AppLovin (APP) will outperform SPDR S&P 500 ETF (SPY) by at least 4.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 21,
+      "deadline": "2025-09-27",
+      "confidence_pct": 55,
+      "verification_criteria": "Using a single data source (e.g., Yahoo Finance), compute adjusted close percentage change for APP and SPY from 2025-09-06 close to 2025-09-27 close. APP minus SPY must be >= +4.0 percentage points.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/05/applovin-robinhood-sp-500.html",
+        "https://www.cnbc.com/2025/09/05/tech-megacaps-worth-market-cap.html",
+        "https://www.cnbc.com/2025/09/05/broadcom-avgo-stock-openai-earnings.html"
+      ],
+      "monitoring_signals": [
+        "S&P index rebalancing effective date and passive inflows",
+        "APP trading volume and short interest/borrow rates",
+        "Options skew/open interest around inclusion",
+        "Sector momentum in software/adtech peers",
+        "SPY ETF flows and macro risk sentiment"
+      ],
+      "rationale": "Index inclusion typically drives pre-effective-date inflows and momentum in newly added names.",
+      "id": "3e43624b-6bb6-459e-82b4-4f830375850c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-15, the U.S. Treasury\u2019s OFAC will announce at least one new sanctions designation targeting Brazilian individuals or entities via a public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 39,
+      "deadline": "2025-10-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm on treasury.gov (press releases or SDN list updates) that at least one Brazilian person or entity is newly designated on or before 2025-10-15.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/05/world/americas/bolsonaro-trial-us-brazil-sanctions.html"
+      ],
+      "monitoring_signals": [
+        "Developments in Bolsonaro-related legal proceedings",
+        "Statements from U.S. State Department and White House",
+        "Congressional letters or hearings referencing Brazil",
+        "Brazil\u2013U.S. diplomatic engagements and media leaks",
+        "OFAC update cadence and regional focus shifts"
+      ],
+      "rationale": "Escalating political-legal tensions increase the likelihood of targeted U.S. sanctions actions.",
+      "id": "e0b6c1b3-ed63-4df0-a3f8-70fbd0b9ad89",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX WTI front-month futures will settle at or above $92.50 per barrel at least once by 2025-10-15.",
+      "category": "energy",
+      "horizon_days": 39,
+      "deadline": "2025-10-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Use CME/NYMEX official settlement prices for the nearest-month WTI Light Sweet Crude (ticker CL). Any settlement on or before 2025-10-15 of >= $92.50 satisfies the condition.",
+      "evidence": [
+        "https://www.marketwatch.com/story/opec-meets-this-weekend-at-a-precarious-time-for-crude-oil-heres-whats-at-stake-a8379d98",
+        "https://www.marketwatch.com/story/treasury-bonds-arent-the-safe-haven-theyve-been-in-the-past-and-taxpayers-will-pay-a-price-78bb81ec"
+      ],
+      "monitoring_signals": [
+        "OPEC+ output decisions and compliance",
+        "EIA weekly crude balances and SPR activity",
+        "Brent\u2013WTI spreads and time-spread backwardation",
+        "China demand indicators and refinery runs",
+        "USD index (DXY) movements"
+      ],
+      "rationale": "Tight supply management and geopolitics can lift prompt crude despite demand fragility.",
+      "id": "01a1a2b8-2dda-4748-86eb-f213eac573b3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, Google (Alphabet Inc.) will file an appeal against the European Commission\u2019s \u20ac2.95B ad tech fine with the General Court of the European Union.",
+      "category": "tech",
+      "horizon_days": 55,
+      "deadline": "2025-10-31",
+      "confidence_pct": 59,
+      "verification_criteria": "Verify via EU General Court docket, EU Official Journal notices, Alphabet statements, or major press that an action for annulment/appeal was filed by 2025-10-31.",
+      "evidence": [
+        "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1992"
+      ],
+      "monitoring_signals": [
+        "DG COMP and EU court registry updates",
+        "Alphabet investor relations and blog posts",
+        "Law firm alerts on EU competition litigation",
+        "Reporting from FT, Reuters, Bloomberg on filings"
+      ],
+      "rationale": "Alphabet routinely contests major EU competition fines; an appeal is standard procedure.",
+      "id": "ededc53c-2deb-4b2e-9884-5bbd0d58b58f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

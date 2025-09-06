@@ -442,3 +442,12 @@ Macro context hints at potential movement relevant to one call: headlines cite f
 
 ---
 
+
+## 2025-09-05
+
+Today’s news flow was dominated by a weaker-than-expected jobs report, a sharp drop in Treasury yields, and increased odds of a larger Fed rate cut. That setup is typically supportive for equities and long-duration assets, which could aid the S&P 500 ATH call, but there is no explicit confirmation of new all-time closing highs. Index composition headlines (Robinhood and AppLovin to the S&P 500) and strong megacap tech breadth are constructive overall.
+
+Within semis, Broadcom-specific optimism contrasts with weakness in AMD, which could favor the AVGO vs. SOXX relative call if the trend persists into the measurement window. Macro-sensitive indicators like the 10-year breakeven may drift lower on growth concerns, but we lack specific readings to validate the 2.20% trigger. There were no updates on the Drewry Shanghai–New York rate, solar flares, or UK carbon allowances, leaving those forecasts unchanged for now.
+
+---
+
