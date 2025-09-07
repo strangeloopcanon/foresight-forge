@@ -22,7 +22,7 @@
       ],
       "rationale": "Labor softness and cooling demand point to subdued headline inflation; energy risk is the swing factor.",
       "id": "075c0c5e-395a-4ef7-b48c-64d3f6f1240a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Soft data and higher cut odds should pressure intermediate yields despite elevated term premia.",
       "id": "4284c192-1ca4-4962-92f0-d1fa1cbc3cb9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Fragile demand and compliance risks argue for maintaining current targets to support prices.",
       "id": "31c7caf2-bbde-444b-bdc0-8b0588e17c28",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -91,7 +91,7 @@
       ],
       "rationale": "Index inclusion typically drives pre-effective-date inflows and momentum in newly added names.",
       "id": "3e43624b-6bb6-459e-82b4-4f830375850c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -113,7 +113,7 @@
       ],
       "rationale": "Escalating political-legal tensions increase the likelihood of targeted U.S. sanctions actions.",
       "id": "e0b6c1b3-ed63-4df0-a3f8-70fbd0b9ad89",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "Tight supply management and geopolitics can lift prompt crude despite demand fragility.",
       "id": "01a1a2b8-2dda-4748-86eb-f213eac573b3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -157,7 +157,7 @@
       ],
       "rationale": "Alphabet routinely contests major EU competition fines; an appeal is standard procedure.",
       "id": "ededc53c-2deb-4b2e-9884-5bbd0d58b58f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

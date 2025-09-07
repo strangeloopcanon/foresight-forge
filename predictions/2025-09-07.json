@@ -1,0 +1,162 @@
+{
+  "date": "2025-09-07",
+  "predictions": [
+    {
+      "text": "By 2025-10-31, the U.S. Trade Representative will formally announce initiation of a Section 301 investigation into alleged discriminatory EU actions against U.S. tech firms via a USTR press release or Federal Register notice.",
+      "category": "geopolitics",
+      "horizon_days": 54,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirmation requires an official USTR press release or a Federal Register notice explicitly stating initiation of a Section 301 investigation targeting EU/European Commission measures impacting U.S. tech firms.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/05/trump-threatens-trade-probe-after-discriminatory-eu-fines-against-google-apple.html",
+        "https://techcrunch.com/2025/09/06/eu-fines-google-3-5b-over-adtech-abuse/",
+        "https://ustr.gov/issue-areas/enforcement/section-301-investigations"
+      ],
+      "monitoring_signals": [
+        "White House and USTR public schedules and remarks",
+        "Federal Register filings mentioning Section 301 and EU digital policies",
+        "U.S.-EU Trade and Technology Council statements",
+        "Follow-on EU enforcement actions against U.S. platforms"
+      ],
+      "rationale": "Escalating U.S.\u2013EU tech tensions and precedent for Section 301 probes make initiation plausible.",
+      "id": "56e631f6-02a6-4a30-a8f6-86cc48310c45",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "For the week ending 2025-09-13, EIA will report a U.S. distillate fuel oil inventory build of at least 2.0 million barrels in the Weekly Petroleum Status Report released on 2025-09-18.",
+      "category": "energy",
+      "horizon_days": 11,
+      "deadline": "2025-09-18",
+      "confidence_pct": 55,
+      "verification_criteria": "Use EIA Weekly Petroleum Status Report (Table 3). Compare total U.S. distillate fuel oil ending stocks for week ending 2025-09-13 versus prior week; increase must be \u2265 2.0 million barrels.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.eia.gov/petroleum/weekly/",
+        "https://www.cnbc.com/2025/09/06/wall-streets-dilemma-how-fed-rate-cut-hopes-clashed-with-slowing-jobs-growth.html"
+      ],
+      "monitoring_signals": [
+        "Refinery utilization rates and yields (diesel vs. gasoline)",
+        "Ultra-low sulfur diesel crack spread trends",
+        "Imports/exports of distillate (PADD-level flows)",
+        "Freight demand indices and industrial activity"
+      ],
+      "rationale": "Shoulder-season patterns and refinery operations favor distillate stock builds.",
+      "id": "b3b5d137-7902-4423-b1e8-7d0499706f71",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "COMEX Gold front-month futures will settle at or above $2,680/oz on at least one trading day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 54,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify via CME Group official daily settlement for the most-active COMEX Gold contract (symbol GC; front-month). Any settlement price \u2265 $2,680/oz on or before 2025-10-31 (U.S. calendar) qualifies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/06/how-to-invest-in-gold-amid-record-run.html",
+        "https://www.cmegroup.com/markets/metals/precious/gold.html",
+        "https://www.cnbc.com/2025/09/06/wall-streets-dilemma-how-fed-rate-cut-hopes-clashed-with-slowing-jobs-growth.html"
+      ],
+      "monitoring_signals": [
+        "U.S. real 10Y yield (FRED: DFII10)",
+        "Dollar index (DXY) and FX volatility",
+        "Gold ETF flows (e.g., GLD holdings)",
+        "Central bank gold purchases and geopolitical risk headlines"
+      ],
+      "rationale": "Falling real yields and risk hedging support higher gold settlements.",
+      "id": "7f2790e1-c44b-4d18-8536-1cbf91fad1c4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-08 close to 2025-10-31 close, Kraft Heinz (KHC) will underperform Consumer Staples Select Sector SPDR (XLP) by at least 5.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 54,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Compute percentage change in adjusted close for KHC and XLP from 2025-09-08 close to 2025-10-31 close using a recognized source (e.g., Bloomberg, Yahoo Finance). KHC return minus XLP return must be \u2264 -5.0 percentage points.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/06/warren-buffetts-public-kraft-heinz-criticism-is-extremely-unusual-for-the-typically-passive-owner.html"
+      ],
+      "monitoring_signals": [
+        "KHC earnings pre-announcements or guidance changes",
+        "Analyst rating/target revisions for KHC",
+        "Staples sector rotation and defensives\u2019 relative strength",
+        "KHC credit spreads and dividend coverage commentary"
+      ],
+      "rationale": "Unusual public critique heightens governance risk and downside pressure.",
+      "id": "2e63b971-4795-44ae-8a32-2863c12de8fa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31 (UTC), at least one of Microsoft Azure Status or Google Cloud Status will post a public incident citing subsea cable disruption in the Red Sea/Suez/Gulf of Aden region causing connectivity degradation or traffic rerouting.",
+      "category": "tech",
+      "horizon_days": 54,
+      "deadline": "2025-10-31",
+      "confidence_pct": 53,
+      "verification_criteria": "A dated incident on status.azure.com or status.cloud.google.com must explicitly reference subsea cable disruption in the specified region and note user-impacting connectivity degradation or rerouting.",
+      "evidence": [
+        "https://azure.status.microsoft/en-gb/status",
+        "https://status.cloud.google.com/",
+        "https://azure.status.microsoft/en-gb/status"
+      ],
+      "monitoring_signals": [
+        "UKMTO advisories and maritime incident reports",
+        "Telecom consortium notices (AAE-1, SEA-ME-WE, etc.)",
+        "Cloudflare Radar/ThousandEyes network telemetry",
+        "Regional ISP outage reports"
+      ],
+      "rationale": "Recent Red Sea cable cuts raise recurrence risk affecting cloud networks.",
+      "id": "2fbda6ff-9244-4297-9ad2-28cb94e8140e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.S. Treasury\u2019s OFAC will announce at least one new sanctions designation targeting Russian defense-industrial or financial sector entities or individuals via a public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 54,
+      "deadline": "2025-10-31",
+      "confidence_pct": 60,
+      "verification_criteria": "An OFAC SDN list update or Treasury press release must explicitly label the action as Russia-related and designate at least one target in defense-industrial or financial sectors.",
+      "evidence": [
+        "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions",
+        "https://home.treasury.gov/news/press-releases"
+      ],
+      "monitoring_signals": [
+        "U.S./EU/UK coordination on Russia sanctions",
+        "Reports on Russian procurement networks",
+        "Escalations in Ukraine conflict",
+        "Congressional or White House statements foreshadowing designations"
+      ],
+      "rationale": "Regular cadence of Russia-related designations makes additional actions likely.",
+      "id": "1070d74f-c08c-4f89-9273-50538a74b619",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The 10-Year Treasury Inflation-Indexed Security, Constant Maturity (FRED: DFII10) will close at or below 1.50% on at least one trading day by 2025-10-31.",
+      "category": "rates",
+      "horizon_days": 54,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm via FRED series DFII10 daily close. Any observation \u2264 1.50% on or before 2025-10-31 (New York trading calendar) satisfies the condition.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DFII10",
+        "https://www.cnbc.com/2025/09/06/wall-streets-dilemma-how-fed-rate-cut-hopes-clashed-with-slowing-jobs-growth.html"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE inflation surprises",
+        "FOMC communications and Fed funds futures implied path",
+        "Nominal 10Y yields and breakeven moves",
+        "Risk sentiment and flight-to-quality flows"
+      ],
+      "rationale": "Rising cut odds and softer data can compress real yields below 1.5%.",
+      "id": "b4f02132-1c06-4b76-9962-ff3f333d3f75",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

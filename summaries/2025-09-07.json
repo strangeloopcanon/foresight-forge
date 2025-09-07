@@ -1,0 +1,112 @@
+{
+  "bullets": [
+    {
+      "text": "D.C. grand juries reject many charges under Trump\u2019s crackdown, signaling legal pushback against expanded federal policing tactics.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/06/us/trump-dc-national-guard-grand-juries-crime.html"
+    },
+    {
+      "text": "Trump administration threatens federal crackdown in Chicago as ICE ramps raids, raising civil liberties concerns and potential community-economic disruptions.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/06/us/trump-chicago-ice-raids-immigration.html"
+    },
+    {
+      "text": "ICE begins Boston-area immigration operation, signaling broader enforcement campaign across Massachusetts.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/06/us/politics/ice-operation-boston.html"
+    },
+    {
+      "text": "Immigration raid at Hyundai\u2013LG plant in Georgia strains U.S.\u2013South Korea ties and highlights supply-chain, labor, and compliance risks for foreign manufacturers.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/09/06/world/asia/immigration-raid-hyundai-lg-south-korea-georgia.html"
+    },
+    {
+      "text": "EU fines Google $3.5B for adtech abuse, intensifying regulatory pressure on digital ads and potentially shifting spend toward rivals.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/09/06/eu-fines-google-3-5b-over-adtech-abuse/"
+    },
+    {
+      "text": "Trump threatens trade probe over 'discriminatory' EU fines on Google and Apple, escalating U.S.\u2013EU tech tensions.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/05/trump-threatens-trade-probe-after-discriminatory-eu-fines-against-google-apple.html"
+    },
+    {
+      "text": "Wall Street weighs slowing job growth against rising Fed rate-cut expectations, complicating risk appetite and equity valuations.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/06/wall-streets-dilemma-how-fed-rate-cut-hopes-clashed-with-slowing-jobs-growth.html"
+    },
+    {
+      "text": "Gold hits record run as investors hedge policy uncertainty and geopolitical risk; advisors outline allocation options.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/06/how-to-invest-in-gold-amid-record-run.html"
+    },
+    {
+      "text": "Activist Elliott pushes PepsiCo to invest in core brands and divest others, signaling portfolio reshaping to boost returns.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/06/elliotts-plan-for-pepsico-includes-investing-in-some-of-its-iconic-brands-shedding-others.html"
+    },
+    {
+      "text": "Warren Buffett publicly criticizes Kraft Heinz performance, an unusual move that increases governance pressure on management.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/06/warren-buffetts-public-kraft-heinz-criticism-is-extremely-unusual-for-the-typically-passive-owner.html"
+    },
+    {
+      "text": "Multiple subsea cable cuts in the Red Sea disrupt international connectivity, exposing geopolitical infrastructure risks for cloud and telecom providers.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://azure.status.microsoft/en-gb/status"
+    },
+    {
+      "text": "Satellites confirm 1990s sea-level rise projections were highly accurate, reinforcing climate risk assessments for coastal infrastructure and insurers.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250906013453.htm"
+    },
+    {
+      "text": "Scientists create carbon-eating plastic, hinting at future materials that sequester CO2 and reshape decarbonization economics.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250905180736.htm"
+    },
+    {
+      "text": "AI talent wars intensify as tech giants offer outsized pay packages, raising cost structures and fueling bubble concerns.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/06/ai-talent-war-tech-giants-pay-talent-millions-of-dollars.html"
+    }
+  ]
+}

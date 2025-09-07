@@ -451,3 +451,12 @@ Within semis, Broadcom-specific optimism contrasts with weakness in AMD, which c
 
 ---
 
+
+## 2025-09-06
+
+None of today’s articles directly confirm or refute any of the tracked predictions. Key events remain ahead: the BLS CPI release on September 11, an OPEC+ communiqué by September 9, and market-dependent outcomes for Treasury yields, WTI settlements, and APP vs. SPY relative performance. The news flow is dominated by U.S. political enforcement actions and international tensions, which do not resolve these forecasts.
+
+There are indirect signals worth monitoring. Coverage of slowing U.S. job growth and rate-cut hopes could influence the 5-year yield trajectory into late September, while geopolitical and policy uncertainty may affect oil markets, though no specific price milestones were reached. EU Big Tech enforcement remains in the headlines, but there is no reporting of an Alphabet court filing yet. We will watch scheduled releases, official communiqués, market closes, and regulatory press releases for decisive evidence.
+
+---
+
