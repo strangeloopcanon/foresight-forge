@@ -126,6 +126,64 @@ def _strict_for(step: str) -> bool:
     return _STRICT_DEFAULTS.get(step, False)
 
 
+def _looks_like_feed_url(url: str) -> bool:
+    """Heuristic: does this URL look like an RSS/Atom endpoint?"""
+    if not isinstance(url, str):
+        return False
+    u = url.lower()
+    # Common feed patterns
+    if u.endswith('.rss') or u.endswith('.xml'):
+        return True
+    if '/rss' in u or '/feeds/' in u or '/feed/' in u:
+        return True
+    if 'format=rss' in u:
+        return True
+    return False
+
+
+def _probe_is_feed(url: str, timeout: int = 10) -> bool:
+    """Try fetching the URL and detect RSS/Atom by content-type or signature.
+
+    Returns True if content-type indicates XML/Atom/RSS or the payload contains
+    typical tags (<rss, <feed, <?xml), else False. Swallows errors.
+    """
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (compatible; ForesightForgeBot/1.0; +https://example.com)'
+        }
+        resp = requests.get(url, headers=headers, timeout=timeout, stream=True)
+        # Some feeds respond 200 only to GET (HEAD may 403/405)
+        ct = (resp.headers.get('content-type') or '').lower()
+        if 'xml' in ct or 'atom' in ct or 'rss' in ct:
+            return True
+        # Peek first bytes
+        chunk = next(resp.iter_content(chunk_size=2048), b'')
+        sniff = chunk.decode('utf-8', errors='ignore').strip()[:2048]
+        if sniff.startswith('<?xml') or '<rss' in sniff or '<feed' in sniff or '<rdf' in sniff:
+            return True
+    except Exception:
+        return False
+    finally:
+        try:
+            resp.close()
+        except Exception:
+            pass
+    return False
+
+
+def _filter_feed_urls(urls):
+    """Return only URLs that are likely valid RSS/Atom feeds.
+
+    Strategy: accept if heuristic matches OR probe confirms. This balances
+    speed and robustness while avoiding HTML calendars.
+    """
+    out = []
+    for u in urls or []:
+        if _looks_like_feed_url(u) or _probe_is_feed(u):
+            out.append(u)
+    return out
+
+
 def _summary_json_schema():
     return {
         "type": "json_schema",
@@ -1391,12 +1449,22 @@ def self_update(pr):
         sources = [s for s in sources if s not in to_remove]
         click.echo(f'Removed {len(to_remove)} sources: {", ".join(to_remove)}')
     
-    # Apply additions
-    if to_add:
-        sources.extend(to_add)
-        click.echo(f'Added {len(to_add)} sources: {", ".join(to_add)}')
+    # RSS-only: filter additions to valid feed URLs
+    filtered_add = _filter_feed_urls(to_add)
+    skipped = [u for u in (to_add or []) if u not in filtered_add]
+    if skipped:
+        click.echo(f'Skipping non-feed URLs ({len(skipped)}): ' + ", ".join(skipped))
+
+    # Apply additions (dedupe while preserving order)
+    added = []
+    for u in filtered_add:
+        if u not in sources:
+            sources.append(u)
+            added.append(u)
+    if added:
+        click.echo(f'Added {len(added)} sources: ' + ", ".join(added))
     
-    if not to_add and not to_remove:
+    if not added and not to_remove:
         click.echo('No changes to apply.')
         return
     with open('sources.yaml', 'w') as f:
@@ -1407,8 +1475,8 @@ def self_update(pr):
         repo = Repo(os.getcwd(), search_parent_directories=True)
         repo.git.add('sources.yaml')
         date = datetime.date.today().isoformat()
-        repo.index.commit(f'Brain auto-update sources: {date}')
-        click.echo(f'Applied brain\'s source changes: {len(to_add)} added, {len(to_remove)} removed')
+        repo.index.commit(f'Brain auto-update sources (RSS-only): {date}')
+        click.echo(f'Applied brain\'s source changes: {len(added)} added, {len(to_remove)} removed (RSS-only)')
     except Exception as e:
         click.echo(f'Applied changes to sources.yaml but git commit failed: {e}')
 
