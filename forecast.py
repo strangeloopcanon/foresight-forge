@@ -31,6 +31,11 @@ import glob
 import re
 import shutil
 from dotenv import load_dotenv
+try:
+    import tiktoken  # optional, used for token estimation
+    _TIKTOKEN_ENC = tiktoken.get_encoding('cl100k_base')
+except Exception:  # pragma: no cover
+    _TIKTOKEN_ENC = None
 
 
 def load_sources(path="sources.yaml"):  # noqa: E302
@@ -182,6 +187,21 @@ def _filter_feed_urls(urls):
         if _looks_like_feed_url(u) or _probe_is_feed(u):
             out.append(u)
     return out
+
+
+def _estimate_tokens(text: str) -> int:
+    """Rough token estimate for prompt sizing.
+
+    Uses tiktoken if available (cl100k_base), else a 4 chars/token heuristic.
+    """
+    if not text:
+        return 0
+    try:
+        if _TIKTOKEN_ENC is not None:
+            return len(_TIKTOKEN_ENC.encode(text))
+    except Exception:
+        pass
+    return max(1, len(text) // 4)
 
 
 def _summary_json_schema():
@@ -799,8 +819,9 @@ def summarise(date_opt=None):
     openai.api_key = key
 
     # Chunking parameters (env-tunable)
-    chunk_size = int(os.getenv('FORESIGHT_SUMMARISE_CHUNK_SIZE', '80'))
+    chunk_size_default = int(os.getenv('FORESIGHT_SUMMARISE_CHUNK_SIZE', '80'))
     max_merge_tokens = int(os.getenv('FORESIGHT_SUMMARISE_MAX_TOKENS', '900'))
+    prompt_limit = int(os.getenv('FORESIGHT_SUMMARISE_PROMPT_LIMIT', '90000'))  # tokens
 
     def _summarise_block(block_items):
         text = "\n".join(f"- {i.get('title')} ({i.get('link')})" for i in block_items)
@@ -827,10 +848,19 @@ def summarise(date_opt=None):
         return json.loads(summary_json_text).get('bullets', [])
 
     try:
-        # Single pass if small; otherwise map-reduce
-        if len(items) <= chunk_size:
+        # Estimate tokens for all items to decide single-pass or chunking
+        all_text = "\n".join(f"- {i.get('title')} ({i.get('link')})" for i in items)
+        total_tokens = _estimate_tokens(all_text)
+        # Single pass if within prompt limit; otherwise dynamic chunking
+        if total_tokens <= prompt_limit:
+            click.echo(f"Summarising {len(items)} items in 1 chunk (~{total_tokens} toks)")
             bullets = _summarise_block(items)
         else:
+            # Determine items per chunk based on token estimate with a safety margin
+            avg_per_item = max(1, total_tokens // max(1, len(items)))
+            items_per_chunk = max(40, int((prompt_limit * 0.8) / avg_per_item))
+            chunk_size = max(40, min(items_per_chunk, chunk_size_default))
+            click.echo(f"Summarising {len(items)} items in chunks of {chunk_size} (~{avg_per_item} toks/item)")
             # Map: summarise each chunk
             all_bullets = []
             for i in range(0, len(items), chunk_size):
