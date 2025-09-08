@@ -45,7 +45,7 @@ You can also invoke individual stages:
 ```bash
 python forecast.py ingest
 python forecast.py summarise
-python forecast.py predict
+python forecast.py predict   # now produces 5–15 predictions
 python forecast.py record
 python forecast.py discover   # weekly source discovery
 python forecast.py self-update [--pr]  # merge candidates and optionally open a PR
@@ -83,6 +83,9 @@ python forecast.py cleanup-sources  # Manually trigger source cleanup
 python forecast.py discover         # Find new candidate sources
 python forecast.py self-update      # Apply source changes
 ```
+Notes on sources
+- Comment‑suggested additions must be valid RSS/Atom endpoints to ingest; non‑feed pages are ignored by `self-update`.
+- Weekly cleanup (LLM‑driven) may propose removals and additions; the brain applies them automatically in scheduled runs.
 ## Brain scheduler
 
 You can use a lightweight scheduler to decide whether to run the daily pipeline. The command below
@@ -158,6 +161,19 @@ strict:
 
 Flip any toggle to `true`/`false` and commit to adjust behavior. The code falls back safely if the SDK rejects
 constraints, so runs won’t fail if constraints aren’t supported in a given environment.
+
+### Scaling & Summarisation
+
+- The summariser processes all ingested items each day. It estimates token size and:
+  - Runs in a single pass when within the configured token budget
+  - Otherwise splits into chunks and merges results (map‑reduce)
+- Priority sources (BLS/BEA/Census/Fed/EIA/Treasury/Conference Board) are summarised first.
+- Tunables (environment variables):
+  - `FORESIGHT_SUMMARISE_PROMPT_LIMIT` (default `90000`) — token budget for a single‑pass prompt
+  - `FORESIGHT_SUMMARISE_CHUNK_SIZE` (default `80`) — upper bound for per‑chunk items when chunking is needed
+  - `FORESIGHT_SUMMARISE_MAX_TOKENS` (default `900`) — merge‑step output budget
+
+Prediction generation now emits 5–15 structured predictions.
 
 ## Directory structure
 
