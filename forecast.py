@@ -758,50 +758,122 @@ def ingest():
 @cli.command()
 @click.option("--date", "date_opt", default=None, help="Date (YYYY-MM-DD) to summarise; defaults to today.")
 def summarise(date_opt=None):
-    """Summarise raw items for a given date (default: today) into bullets + JSON."""
+    """Summarise ALL raw items for a date into bullets via chunked map-reduce with priority feeds."""
     date = date_opt or datetime.date.today().isoformat()
     infile = f"raw/{date}.json"
     if not os.path.exists(infile):
         click.echo("No raw data found for today; skipping summarise.")
         return
     items = json.load(open(infile))
-    # Limit to first 100 items to avoid context length issues
-    items = items[:100]
-    text = "\n".join(f"- {i['title']} ({i['link']})" for i in items)
-    prompt = (
-        "Condense the following items into concise bullet points capturing only the most important "
-        "financial, economic, scientific, or geopolitical insights. Return ONLY JSON per the schema.\n\n"
-        "Items:\n" + text + "\n\n"
-        "Schema: {\n"
-        "  \"bullets\": [\n"
-        "    {\n"
-        "      \"text\": string,\n"
-        "      \"tags\": array of strings from [\"macro\", \"markets\", \"rates\", \"energy\", \"tech\", \"geopolitics\", \"science\", \"other\"],\n"
-        "      \"link\": string (optional)\n"
-        "    }\n"
-        "  ]\n"
-        "}\n"
-        "Constraints: 8-15 bullets; each bullet max 25 words; no commentary outside JSON.\n"
-    )
-    system = (
-        "You are Foresight Forge. Output exactly one JSON object matching the schema. "
-        "Think step-by-step internally but DO NOT expose chain-of-thought; only output the final JSON."
-    )
+
+    # Prioritise key economic indicator feeds, then keep remaining in original order
+    priority_domains = [
+        'bls.gov',
+        'apps.bea.gov', 'bea.gov',
+        'census.gov',
+        'federalreserve.gov',
+        'eia.gov',
+        'conference-board.org',
+        'home.treasury.gov',
+    ]
+
+    def _score(link: str) -> int:
+        try:
+            u = (link or '').lower()
+        except Exception:
+            return 0
+        score = 0
+        # Strong priority for PFEI sources
+        if 'bls.gov' in u or 'apps.bea.gov' in u or 'federalreserve.gov' in u:
+            score += 3
+        if 'census.gov' in u or 'eia.gov' in u or 'conference-board.org' in u or 'home.treasury.gov' in u:
+            score += 2
+        return score
+
+    items = sorted(items, key=lambda i: _score(i.get('link')), reverse=True)
+
     key = os.getenv("OPENAI_API_KEY", "").strip().strip('"')
     if not key:
         click.echo("OPENAI_API_KEY is not set; skipping summarise.")
         return
     openai.api_key = key
-    try:
+
+    # Chunking parameters (env-tunable)
+    chunk_size = int(os.getenv('FORESIGHT_SUMMARISE_CHUNK_SIZE', '80'))
+    max_merge_tokens = int(os.getenv('FORESIGHT_SUMMARISE_MAX_TOKENS', '900'))
+
+    def _summarise_block(block_items):
+        text = "\n".join(f"- {i.get('title')} ({i.get('link')})" for i in block_items)
+        prompt = (
+            "Condense the following items into concise bullet points capturing only the most important "
+            "financial, economic, scientific, or geopolitical insights. Return ONLY JSON per the schema.\n\n"
+            "Items:\n" + text + "\n\n"
+            "Schema: {\n"
+            "  \"bullets\": [\n"
+            "    {\n"
+            "      \"text\": string,\n"
+            "      \"tags\": array of strings from [\"macro\", \"markets\", \"rates\", \"energy\", \"tech\", \"geopolitics\", \"science\", \"other\"],\n"
+            "      \"link\": string (optional)\n"
+            "    }\n"
+            "  ]\n"
+            "}\n"
+            "Constraints: 8-15 bullets; each bullet max 25 words; no commentary outside JSON.\n"
+        )
         rf = _summary_json_schema() if _strict_for('summarise') else 'json'
-        summary_json_text = _llm_respond(prompt, max_tokens=600, system=system, response_format=rf)
-        data = json.loads(summary_json_text)
-        bullets = data.get('bullets', [])
-        # write structured JSON sidecar
+        summary_json_text = _llm_respond(prompt, max_tokens=600, system=(
+            "You are Foresight Forge. Output exactly one JSON object matching the schema. "
+            "Think step-by-step internally but DO NOT expose chain-of-thought; only output the final JSON."
+        ), response_format=rf)
+        return json.loads(summary_json_text).get('bullets', [])
+
+    try:
+        # Single pass if small; otherwise map-reduce
+        if len(items) <= chunk_size:
+            bullets = _summarise_block(items)
+        else:
+            # Map: summarise each chunk
+            all_bullets = []
+            for i in range(0, len(items), chunk_size):
+                blk = items[i:i+chunk_size]
+                try:
+                    all_bullets.extend(_summarise_block(blk))
+                except Exception as e:
+                    click.echo(f"Chunk summarise failed at [{i}:{i+chunk_size}]: {e}")
+            # Deduplicate by text
+            seen = set()
+            dedup = []
+            for b in all_bullets:
+                t = (b.get('text') or '').strip().lower()
+                if t and t not in seen:
+                    seen.add(t)
+                    dedup.append(b)
+            # Reduce: ask the model to merge and pick the most important 10-15 bullets
+            merge_input = {
+                'bullets': dedup
+            }
+            merge_prompt = (
+                "You are merging multiple partial summaries into a final concise summary. "
+                "From the provided bullets (with optional links), select and rewrite the most important items, "
+                "avoid duplication, and produce ONLY JSON per the schema."
+            )
+            rf = _summary_json_schema() if _strict_for('summarise') else 'json'
+            merged_text = _llm_respond(
+                json.dumps(merge_input),
+                max_tokens=max_merge_tokens,
+                system=(
+                    "You are Foresight Forge. Output exactly one JSON object matching the schema. "
+                    "Target 10-15 bullets."
+                ),
+                response_format=rf,
+            )
+            bullets = json.loads(merged_text).get('bullets', [])
+
+        # Persist structured JSON
         os.makedirs("summaries", exist_ok=True)
         with open(f"summaries/{date}.json", "w") as jf:
-            json.dump(data, jf, indent=2)
-        # render to markdown
+            json.dump({'bullets': bullets}, jf, indent=2)
+
+        # Render to markdown
         lines = []
         for b in bullets:
             tags = b.get('tags') or []
@@ -812,23 +884,24 @@ def summarise(date_opt=None):
                 lines.append(f"- {tag_prefix}{t} ({link})")
             else:
                 lines.append(f"- {tag_prefix}{t}")
-        summary = "\n".join(lines)
+        summary_md = "\n".join(lines)
     except Exception as e:
         click.echo(f"Error during structured summarise; falling back to plain text: {e}")
-        # Fallback to a simple text summary
-        prompt_fb = (
-            "Condense the following items into concise bullet points capturing only the most important "
-            "financial, economic, scientific, or geopolitical insights. Be succinct and avoid fluff:\n" + text
-        )
+        # Fallback to a simple text summary over ALL items
+        text = "\n".join(f"- {i.get('title')} ({i.get('link')})" for i in items)
         try:
-            summary = _llm_respond(prompt_fb, max_tokens=300, system="You are Foresight Forge. Be concise and return bullets only.")
+            summary_md = _llm_respond(
+                "Condense the following items into concise bullets. Be succinct, avoid fluff:\n" + text,
+                max_tokens=400,
+                system="You are Foresight Forge. Return bullets only.")
         except Exception as e2:
             click.echo(f"Error during summarise fallback: {e2}")
             return
+
     os.makedirs("summaries", exist_ok=True)
     out = f"summaries/{date}.md"
     with open(out, "w") as f:
-        f.write(summary)
+        f.write(summary_md)
     click.echo(f"Wrote summary to {out}")
 
 
@@ -1405,7 +1478,7 @@ def discover(since_days):
         system = (
             "You are Foresight Forge. Output exactly a plain list of '- domain' or 'NONE'."
         )
-        rf = _grammar_vet_list() if _strict_mode() else None
+        rf = _grammar_vet_list() if _strict_for('vet') else None
         approved_text = _llm_respond(prompt, max_tokens=500, system=system, response_format=rf)
         # Parse the response to get the final list of URLs
         approved_urls = [line.lstrip('- ').strip() for line in approved_text.split('\n') if line.strip()]
