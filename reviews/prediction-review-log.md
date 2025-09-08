@@ -460,3 +460,12 @@ There are indirect signals worth monitoring. Coverage of slowing U.S. job growth
 
 ---
 
+
+## 2025-09-07
+
+None of the predictions are resolved by today’s reporting. The news cycle highlights geopolitics (Russia’s largest drone assault of the war, Houthi strike in Israel), macro backdrops (volatile bonds ahead of inflation prints, ECB meeting), and commodities (OPEC+ planning an October production boost with oil still rising). However, there are no concrete triggers for the specific forecasted events: no USTR Section 301 action against the EU, no OFAC Russia designations, no cloud status incidents tied to Red Sea cables, no gold settlement at the target level, and the EIA distillate figure is not due until September 18.
+
+Today’s developments modestly affect priors rather than outcomes: heightened geopolitical risk could incrementally support safe-haven flows (gold) and keep policy and sanctions risks elevated, while energy-market news may influence inventory dynamics at the margin, though timing is tight for the near-term EIA call. Overall, all items remain pending until direct, verifiable evidence (agency releases, market settlements, official data, or status-page incidents) emerges.
+
+---
+

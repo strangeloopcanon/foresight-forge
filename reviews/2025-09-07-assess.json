@@ -1,0 +1,40 @@
+{
+  "date": "2025-09-07",
+  "assessments": [
+    {
+      "id": "56e631f6-02a6-4a30-a8f6-86cc48310c45",
+      "status": "pending",
+      "status_rationale": "No USTR press release or Federal Register notice reported; today's news does not mention a Section 301 action against the EU. Deadline remains in the future."
+    },
+    {
+      "id": "b3b5d137-7902-4423-b1e8-7d0499706f71",
+      "status": "pending",
+      "status_rationale": "EIA data for the week ending 2025-09-13 will be released on 2025-09-18; no advance report in today\u2019s news."
+    },
+    {
+      "id": "7f2790e1-c44b-4d18-8536-1cbf91fad1c4",
+      "status": "pending",
+      "status_rationale": "No report of COMEX gold settling at or above $2,680/oz in today\u2019s news; window remains open through 2025-10-31."
+    },
+    {
+      "id": "2e63b971-4795-44ae-8a32-2863c12de8fa",
+      "status": "pending",
+      "status_rationale": "Performance window just opened (2025-09-08 to 2025-10-31); no comparative return data yet."
+    },
+    {
+      "id": "2fbda6ff-9244-4297-9ad2-28cb94e8140e",
+      "status": "pending",
+      "status_rationale": "Despite regional tensions, there are no Azure or Google Cloud status-page incidents citing Red Sea/Suez/Gulf of Aden subsea cable disruption in today\u2019s news."
+    },
+    {
+      "id": "1070d74f-c08c-4f89-9273-50538a74b619",
+      "status": "pending",
+      "status_rationale": "No OFAC press release or list update targeting Russian defense-industrial or financial entities noted today; deadline remains open."
+    },
+    {
+      "id": "b4f02132-1c06-4b76-9962-ff3f333d3f75",
+      "status": "pending",
+      "status_rationale": "No evidence today that DFII10 closed at or below 1.50%; bonds remain volatile ahead of data, and the window runs to 2025-10-31."
+    }
+  ]
+}

@@ -21,7 +21,7 @@
       ],
       "rationale": "Escalating U.S.\u2013EU tech tensions and precedent for Section 301 probes make initiation plausible.",
       "id": "56e631f6-02a6-4a30-a8f6-86cc48310c45",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Shoulder-season patterns and refinery operations favor distillate stock builds.",
       "id": "b3b5d137-7902-4423-b1e8-7d0499706f71",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Falling real yields and risk hedging support higher gold settlements.",
       "id": "7f2790e1-c44b-4d18-8536-1cbf91fad1c4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -88,7 +88,7 @@
       ],
       "rationale": "Unusual public critique heightens governance risk and downside pressure.",
       "id": "2e63b971-4795-44ae-8a32-2863c12de8fa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -111,7 +111,7 @@
       ],
       "rationale": "Recent Red Sea cable cuts raise recurrence risk affecting cloud networks.",
       "id": "2fbda6ff-9244-4297-9ad2-28cb94e8140e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -133,7 +133,7 @@
       ],
       "rationale": "Regular cadence of Russia-related designations makes additional actions likely.",
       "id": "1070d74f-c08c-4f89-9273-50538a74b619",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -155,7 +155,7 @@
       ],
       "rationale": "Rising cut odds and softer data can compress real yields below 1.5%.",
       "id": "b4f02132-1c06-4b76-9962-ff3f333d3f75",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

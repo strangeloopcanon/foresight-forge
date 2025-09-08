@@ -1,0 +1,167 @@
+{
+  "date": "2025-09-08",
+  "predictions": [
+    {
+      "text": "The Cboe Volatility Index (VIX) will close at or below 12.50 on at least one trading day by 2025-09-30.",
+      "category": "markets",
+      "horizon_days": 22,
+      "deadline": "2025-09-30",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "Using Cboe historical data or Yahoo Finance (^VIX), identify any trading day with the official closing value \u2264 12.50 on or before 2025-09-30 (U.S. market date).",
+      "evidence": [
+        "https://www.marketwatch.com/story/stock-futures-dip-ahead-of-inflation-reports-oil-gains-after-opec-raises-output-6b4f90dd?mod=mw_rss_topstories",
+        "https://www.cboe.com/tradable_products/vix/vix_historical_data/"
+      ],
+      "monitoring_signals": [
+        "10-day realized volatility of S&P 500",
+        "VIX futures term structure (contango/backwardation)",
+        "Options skew and put/call ratios",
+        "Macro event risk (CPI on 2025-09-11)",
+        "Equity market breadth and megacap leadership"
+      ],
+      "rationale": "Calm equities, positive breadth, and contangoed vol term structure into mid-September favor at least one low-volatility close, though CPI and oil are risks.",
+      "id": "f7510926-8d5a-494e-bd1c-55bd0beafcc9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY (Yahoo Finance: JPY=X) will close at or above 152.00 on at least one trading day by 2025-09-30.",
+      "category": "markets",
+      "horizon_days": 22,
+      "deadline": "2025-09-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "On Yahoo Finance ticker JPY=X, any daily close \u2265 152.00 by 2025-09-30 (UTC) satisfies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/07/japan-prime-minister-ishiba-shigeru-announces-his-resignation.html"
+      ],
+      "monitoring_signals": [
+        "BoJ policy guidance and speeches",
+        "U.S.\u2013Japan 10-year yield differential",
+        "Japan MoF intervention rhetoric or actions",
+        "Nikkei 225 performance",
+        "Energy import cost trends (Brent)"
+      ],
+      "rationale": "Political uncertainty and persistent U.S.\u2013Japan rate differentials support yen weakness; intervention risk tempers odds.",
+      "id": "d23b478b-f4c0-4491-8d65-28c8336d6b26",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Producer Price Index (final demand) m/m for August 2025 will be between 0.2% and 0.5% in the BLS release on 2025-09-12.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-09-12",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "As published by BLS in the Producer Price Index news release on 2025-09-12; accepts seasonally adjusted final demand m/m change in the inclusive range [0.2%, 0.5%].",
+      "evidence": [
+        "https://www.marketwatch.com/story/stock-futures-dip-ahead-of-inflation-reports-oil-gains-after-opec-raises-output-6b4f90dd?mod=mw_rss_topstories",
+        "https://www.bls.gov/schedule/2025/news_release/ppi.htm"
+      ],
+      "monitoring_signals": [
+        "WTI/Brent monthly price change",
+        "ISM Manufacturing and Services Prices Paid indices",
+        "Freight costs (Drewry WCI, Baltic Dry Index)",
+        "Core goods PPI components momentum"
+      ],
+      "rationale": "Energy rebound and steady core goods pressures point to a moderate PPI print, likely above 0.1% but contained.",
+      "id": "668b76cf-8c0c-462f-89ed-1dcd2bf06b81",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-09-30, the U.S. Department of Defense will announce at least one Ukraine security assistance package via Presidential Drawdown Authority valued at $250 million or more.",
+      "category": "geopolitics",
+      "horizon_days": 22,
+      "deadline": "2025-09-30",
+      "confidence_pct": 60,
+      "log_odds": 0.41,
+      "verification_criteria": "A DoD press release on defense.gov explicitly labeled as a Presidential Drawdown for Ukraine with stated value \u2265 $250,000,000, dated on or before 2025-09-30 (ET).",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/07/world/europe/russian-strike-kyiv-ukraine.html",
+        "https://www.defense.gov/News/Releases/"
+      ],
+      "monitoring_signals": [
+        "DoD/White House briefings",
+        "Ramstein-format aid coordination updates",
+        "Battlefield intensity (missile/drone strike cadence)",
+        "Congressional notifications and appropriations status"
+      ],
+      "rationale": "Escalating Russian strikes increase urgency; PDA packages recur roughly monthly and often exceed $250M.",
+      "id": "8264af64-f8dc-4e0b-aeb4-6a328734a4f0",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-10-31 (UTC), Cloudflare Status will post an incident citing subsea cable disruption in the Red Sea/Suez/Gulf of Aden region causing connectivity degradation or traffic rerouting.",
+      "category": "tech",
+      "horizon_days": 53,
+      "deadline": "2025-10-31",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "An incident on status.cloudflare.com during the window that explicitly mentions subsea cable issues in the Red Sea/Suez/Gulf of Aden and resulting latency, packet loss, or traffic rerouting.",
+      "evidence": [
+        "https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/",
+        "https://www.cloudflarestatus.com/"
+      ],
+      "monitoring_signals": [
+        "UKMTO advisories in Red Sea/Bab el-Mandeb/Gulf of Aden",
+        "Operator notices from SEA-ME-WE/AAE-1/EIG consortia",
+        "BGP route-change monitors (e.g., Kentik, BGPStream)",
+        "Other cloud/CDN status pages (Azure, Google Cloud, Akamai)"
+      ],
+      "rationale": "Recent Red Sea cable cuts hit Azure; broader routing stress makes knock-on incidents at major CDNs plausible.",
+      "id": "f342303a-6ef4-4854-8b18-3480c260f4d1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX RBOB Gasoline front-month futures will settle at or above $2.75 per gallon on at least one trading day by 2025-10-15.",
+      "category": "energy",
+      "horizon_days": 37,
+      "deadline": "2025-10-15",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "CME Group official daily settlement for the front-month RBOB Gasoline futures (symbol RB) \u2265 $2.75/gal on or before 2025-10-15 (CT).",
+      "evidence": [
+        "https://www.marketwatch.com/story/opec-agrees-to-another-oil-production-boost-in-october-f06413fb?mod=mw_rss_topstories",
+        "https://www.cmegroup.com/markets/energy/refined-products/rbob-gasoline.html"
+      ],
+      "monitoring_signals": [
+        "Brent and WTI front-month prices",
+        "U.S. refinery utilization and outages (EIA)",
+        "Gulf hurricane activity and refinery corridor impacts",
+        "Gasoline inventories by PADD (EIA Weekly Petroleum Status Report)"
+      ],
+      "rationale": "Tighter crude balances, hurricane season risk, and low gasoline stocks could lift RBOB above $2.75 despite demand seasonality fading.",
+      "id": "194e33eb-c3ff-44f2-b5b1-afdca92aa290",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the Council of the European Union will adopt and publish in the Official Journal at least one new Russia-related restrictive measures act (package or listings).",
+      "category": "geopolitics",
+      "horizon_days": 53,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Publication in the Official Journal (eur-lex.europa.eu) of a Council Decision/Regulation amending or adding Russia-related restrictive measures dated on or before 2025-10-31.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/07/world/europe/russian-strike-kyiv-ukraine.html",
+        "https://www.consilium.europa.eu/en/policies/sanctions/restrictive-measures-ukraine-russia/"
+      ],
+      "monitoring_signals": [
+        "EU Council and Coreper agendas",
+        "Member state statements (Poland, Baltics, Germany, France)",
+        "G7 sanctions coordination announcements",
+        "Escalation in Russian strikes on civilian infrastructure"
+      ],
+      "rationale": "Escalation in Ukraine and G7 coordination raise odds of at least incremental EU listings this fall.",
+      "id": "14aeb069-c5ad-4280-a9f3-60af580bcb5b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

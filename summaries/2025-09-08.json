@@ -1,0 +1,114 @@
+{
+  "bullets": [
+    {
+      "text": "Russia launches war\u2019s largest drone assault, striking Kyiv government building, signaling escalation and strain on Ukraine\u2019s air defenses.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/07/world/europe/russian-strike-kyiv-ukraine.html"
+    },
+    {
+      "text": "Kremlin ramps disinformation campaigns as U.S. administration eases countermeasures, increasing election interference and information security risks.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/09/07/business/russia-disinformation-trump.html"
+    },
+    {
+      "text": "Houthi drone penetrates Israeli defenses, hitting airport after warning failure, exposing gaps in regional air defense integration.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/07/world/middleeast/houthi-drone-israeli-airport.html"
+    },
+    {
+      "text": "Egypt-Israel tensions rise after Gaza City attack, threatening security cooperation and complicating border, aid, and energy dynamics.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/07/world/middleeast/egypt-israel-gaza-city.html"
+    },
+    {
+      "text": "OPEC+ approves additional October production increase; crude rises, tightening supply expectations and complicating inflation trajectories.",
+      "tags": [
+        "energy",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/opec-agrees-to-another-oil-production-boost-in-october-f06413fb?mod=mw_rss_topstories"
+    },
+    {
+      "text": "US stock futures steady ahead of key inflation reports; oil gains add upside risk to CPI and rates path.",
+      "tags": [
+        "markets",
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/stock-futures-dip-ahead-of-inflation-reports-oil-gains-after-opec-raises-output-6b4f90dd?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Japan\u2019s PM Ishiba to resign after election setback; Nikkei jumps on hopes of policy reset, yen volatility risk persists.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/07/japan-prime-minister-ishiba-shigeru-announces-his-resignation.html"
+    },
+    {
+      "text": "Treasury\u2019s Bessent warns Supreme Court reversal of Trump tariffs could force massive refunds, creating fiscal and trade uncertainty.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/07/trump-trade-supreme-court-refunds-bessent.html"
+    },
+    {
+      "text": "Azure services disrupted after Red Sea submarine cables cut, underscoring geopolitical choke points in global cloud connectivity.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/"
+    },
+    {
+      "text": "Nature reports analog optical computer accelerating AI inference and optimization, signaling alternative hardware pathways beyond GPUs.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://www.nature.com/articles/s41586-025-09430-z"
+    },
+    {
+      "text": "Researchers triple CRISPR editing effectiveness, potentially lowering costs and expanding therapeutic applications.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250907024543.htm"
+    },
+    {
+      "text": "Study warns Earth\u2019s environmental \u2018safe zones\u2019 shrinking rapidly, heightening climate risk and policy urgency.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250906155053.htm"
+    },
+    {
+      "text": "London Tube strike begins, threatening major transit disruption and economic losses for millions of commuters and businesses.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/09/07/world/europe/london-tube-strike.html"
+    },
+    {
+      "text": "U.S. inbound tourism declines; competing destinations gain share, pressuring travel, hospitality revenues and service trade balance.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/07/where-are-travelers-going-if-they-arent-going-to-the-us.html"
+    }
+  ]
+}
