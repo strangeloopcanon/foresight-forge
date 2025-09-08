@@ -234,7 +234,7 @@ def _predict_json_schema():
                     "predictions": {
                         "type": "array",
                         "minItems": 5,
-                        "maxItems": 8,
+                        "maxItems": 15,
                         "items": {
                             "type": "object",
                             "properties": {
@@ -897,7 +897,7 @@ def predict(date_opt=None):
         "    }\n"
         "  ]\n"
         "}\n"
-        "Constraints: 5-8 items; avoid duplicates vs RECENT_PREDICTIONS_JSON; if refining an existing idea, set supersedes_id to a prior id. Use clear numerical thresholds and concrete deadlines."
+        "Constraints: 5-15 items; avoid duplicates vs RECENT_PREDICTIONS_JSON; if refining an existing idea, set supersedes_id to a prior id. Use clear numerical thresholds and concrete deadlines."
     )
     system = (
         "You are Foresight Forge. Output exactly one JSON object matching the schema. "
