@@ -1,0 +1,112 @@
+{
+  "bullets": [
+    {
+      "text": "US job growth cooled in 2025; unemployment 4.0\u20134.3%; openings steady; NY Fed shows record-low job-finding confidence, signaling softer labor demand.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/08/worker-confidence-in-finding-a-new-job-hits-record-low-in-new-york-fed-survey.html"
+    },
+    {
+      "text": "Inflation stayed moderate: CPI rose 0.2% in July with shelter persistent; PPI jumped 0.9%, hinting upstream pressures.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/cpi_08122025.htm"
+    },
+    {
+      "text": "Wage\u2013price backdrop improved: ECI up 3.6% y/y in Q2; productivity revised to +3.3%, with unit labor costs up 1.0% annualized.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/prod2_09042025.htm"
+    },
+    {
+      "text": "Markets price rising odds of a 50 bp Fed cut this month amid cooling inflation and growth risks.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/08/traders-see-a-chance-the-fed-cuts-by-a-half-point.html"
+    },
+    {
+      "text": "Fed finalizes bank-specific capital requirements for large banks, effective October 1, potentially constraining lending and shareholder payouts.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250829a.htm"
+    },
+    {
+      "text": "Fed sunsets its novel activities supervision program, shifting crypto and other innovations back to standard oversight, reducing regulatory uncertainty.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250815a.htm"
+    },
+    {
+      "text": "China\u2019s shipments to the U.S. fell 33% in August; overall exports growth hit a six\u2011month low, highlighting weakening demand and supply\u2011chain shifts.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/08/china-exports-growth-in-august-drops-missing-expectations-.html"
+    },
+    {
+      "text": "Japan\u2019s Nikkei crossed 44,000 to fresh highs, extending rally after Ishiba\u2019s resignation announcement; supportive backdrop for Japanese equities.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/09/asia-markets-nikkei-225-kospi-nifty-50.html"
+    },
+    {
+      "text": "Robinhood jumps 15% on S&P 500 inclusion, likely boosting passive inflows and trading liquidity.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/08/robinhood-shares-soar-14percent-after-getting-long-sought-addition-to-sp-500.html"
+    },
+    {
+      "text": "Stanford study reversed autism\u2011like symptoms in mice via brain intervention, suggesting new therapeutic targets; human applicability remains uncertain.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250907172644.htm"
+    },
+    {
+      "text": "Nebius soars on multibillion\u2011dollar AI infrastructure deal with Microsoft, underscoring robust demand for AI compute build\u2011outs.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/08/nebius-stock-soars-on-ai-infrastructure-deal-with-microsoft-.html"
+    },
+    {
+      "text": "Microsoft joins the World Nuclear Association, signaling corporate interest in nuclear to power energy\u2011hungry data centers.",
+      "tags": [
+        "energy",
+        "tech"
+      ],
+      "link": "https://world-nuclear.org/news-and-media/press-statements/world-nuclear-association-welcomes-microsoft-corporation-as-newest-member"
+    },
+    {
+      "text": "Potential Trump tariff refund legislation could exceed $1 trillion, with a looming Supreme Court fight adding fiscal and trade uncertainty.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/08/trump-tariff-refund-trade-treasury-bessent-supreme-court.html"
+    },
+    {
+      "text": "Tesla\u2019s U.S. market share falls to its lowest since 2017 as rivals surge, intensifying price and margin pressures.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.reuters.com/business/autos-transportation/tesla-market-share-us-drops-lowest-since-2017-competition-heats-up-2025-09-08/"
+    }
+  ]
+}

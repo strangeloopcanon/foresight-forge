@@ -22,7 +22,7 @@
       ],
       "rationale": "Calm equities, positive breadth, and contangoed vol term structure into mid-September favor at least one low-volatility close, though CPI and oil are risks.",
       "id": "f7510926-8d5a-494e-bd1c-55bd0beafcc9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Political uncertainty and persistent U.S.\u2013Japan rate differentials support yen weakness; intervention risk tempers odds.",
       "id": "d23b478b-f4c0-4491-8d65-28c8336d6b26",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -68,7 +68,7 @@
       ],
       "rationale": "Energy rebound and steady core goods pressures point to a moderate PPI print, likely above 0.1% but contained.",
       "id": "668b76cf-8c0c-462f-89ed-1dcd2bf06b81",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -91,7 +91,7 @@
       ],
       "rationale": "Escalating Russian strikes increase urgency; PDA packages recur roughly monthly and often exceed $250M.",
       "id": "8264af64-f8dc-4e0b-aeb4-6a328734a4f0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -114,7 +114,7 @@
       ],
       "rationale": "Recent Red Sea cable cuts hit Azure; broader routing stress makes knock-on incidents at major CDNs plausible.",
       "id": "f342303a-6ef4-4854-8b18-3480c260f4d1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -137,7 +137,7 @@
       ],
       "rationale": "Tighter crude balances, hurricane season risk, and low gasoline stocks could lift RBOB above $2.75 despite demand seasonality fading.",
       "id": "194e33eb-c3ff-44f2-b5b1-afdca92aa290",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "Escalation in Ukraine and G7 coordination raise odds of at least incremental EU listings this fall.",
       "id": "14aeb069-c5ad-4280-a9f3-60af580bcb5b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

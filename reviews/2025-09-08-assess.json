@@ -1,0 +1,40 @@
+{
+  "date": "2025-09-08",
+  "assessments": [
+    {
+      "id": "f7510926-8d5a-494e-bd1c-55bd0beafcc9",
+      "status": "pending",
+      "status_rationale": "No report indicates the VIX closed at or below 12.50; today\u2019s market coverage does not cite such a move, and the deadline has not yet passed."
+    },
+    {
+      "id": "d23b478b-f4c0-4491-8d65-28c8336d6b26",
+      "status": "pending",
+      "status_rationale": "No evidence USD/JPY closed at or above 152.00; while Japan equities hit highs, the articles do not confirm the FX threshold. Deadline remains open."
+    },
+    {
+      "id": "668b76cf-8c0c-462f-89ed-1dcd2bf06b81",
+      "status": "pending",
+      "status_rationale": "The August 2025 PPI is slated for release on 2025-09-12; no data has been published yet."
+    },
+    {
+      "id": "8264af64-f8dc-4e0b-aeb4-6a328734a4f0",
+      "status": "pending",
+      "status_rationale": "No announcement in today\u2019s news of a Ukraine PDA package \u2265 $250M by the U.S. DoD; the window remains open through 2025-09-30."
+    },
+    {
+      "id": "f342303a-6ef4-4854-8b18-3480c260f4d1",
+      "status": "pending",
+      "status_rationale": "No Cloudflare Status incident citing Red Sea/Suez/Gulf of Aden subsea cable disruption was reported; the deadline is 2025-10-31."
+    },
+    {
+      "id": "194e33eb-c3ff-44f2-b5b1-afdca92aa290",
+      "status": "pending",
+      "status_rationale": "No mention of NYMEX RBOB front-month settling \u2265 $2.75 in today\u2019s coverage; deadline is 2025-10-15."
+    },
+    {
+      "id": "14aeb069-c5ad-4280-a9f3-60af580bcb5b",
+      "status": "pending",
+      "status_rationale": "No report of the Council of the EU adopting and publishing a new Russia-related restrictive measures act; the deadline is 2025-10-31."
+    }
+  ]
+}

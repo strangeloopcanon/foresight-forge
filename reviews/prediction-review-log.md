@@ -469,3 +469,12 @@ Today’s developments modestly affect priors rather than outcomes: heightened g
 
 ---
 
+
+## 2025-09-08
+
+Today’s news cycle was dominated by U.S. politics, legal matters, media ownership changes, and select corporate/market headlines. While there is some macro context—such as traders pricing potential Fed cuts, equity strength, and Japan’s Nikkei hitting fresh highs—none of the articles provide definitive data points that resolve the specific thresholds in our forecasts.
+
+Key upcoming checkpoints remain: the U.S. August PPI release on 2025-09-12, ongoing monitoring of VIX and USD/JPY levels into month-end, energy market settlements for RBOB through mid-October, and policy/event-driven items like potential DoD Ukraine PDA announcements, EU sanctions publications in the Official Journal, and any Cloudflare Status advisories tied to Red Sea subsea cables. Until concrete evidence emerges on these fronts, all items stay pending.
+
+---
+

@@ -1,0 +1,228 @@
+{
+  "date": "2025-09-09",
+  "predictions": [
+    {
+      "text": "U.S. CPI-U headline year-over-year for August 2025 will be between 2.7% and 3.1%, as reported by BLS on 2025-09-11.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-09-11",
+      "confidence_pct": 58,
+      "verification_criteria": "Confirm the 12-month percent change in CPI-U (all items, U.S. city average) in the BLS CPI news release on 2025-09-11 falls within 2.7%\u20133.1% inclusive.",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/cpi_08122025.htm",
+        "https://www.cnbc.com/2025/09/08/worker-confidence-in-finding-a-new-job-hits-record-low-in-new-york-fed-survey.html"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed CPI nowcast updates",
+        "Gasoline prices and AAA daily data",
+        "Shelter/rent trackers (Zillow, Apartment List) momentum",
+        "Used car auction prices (Manheim index) and food commodities"
+      ],
+      "rationale": "Softening demand and moderate recent monthly prints suggest y/y stays near 3%, with shelter the main upside risk.",
+      "id": "5772c072-5dc7-4e01-8e3c-7b8c7f1afb69",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At the September 2025 FOMC meeting (decision expected 2025-09-17), the Fed will cut the target range for the federal funds rate by 25 bp to 4.75%\u20135.00%.",
+      "category": "rates",
+      "horizon_days": 8,
+      "deadline": "2025-09-17",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify the target range specified in the Federal Reserve FOMC statement on 2025-09-17 is 4.75%\u20135.00%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/08/traders-see-a-chance-the-fed-cuts-by-a-half-point.html",
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      ],
+      "monitoring_signals": [
+        "CME FedWatch probability path into meeting",
+        "CPI/PPI prints and revisions pre-meeting",
+        "Labor data (claims, JOLTS, payrolls) and ISM surveys",
+        "Fedspeak and SEP projections reporting"
+      ],
+      "rationale": "Cooling growth and moderate inflation argue for easing, but uncertainty on inflation stickiness likely keeps the Fed at 25 bp rather than 50.",
+      "id": "6818cb23-5b57-4360-9725-80b2cf081282",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 3.95% on at least one trading day by 2025-10-31.",
+      "category": "rates",
+      "horizon_days": 52,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm any daily close for FRED series DGS2 on or before 2025-10-31 is \u2264 3.95%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.bls.gov/news.release/archives/prod2_09042025.htm"
+      ],
+      "monitoring_signals": [
+        "Fed policy path repricing (Fed funds futures, OIS)",
+        "CPI/PPI/core PCE outcomes vs expectations",
+        "Jobless claims trend and unemployment rate",
+        "Treasury auction demand, bid-to-cover, and term premium estimates"
+      ],
+      "rationale": "Front-end yields are sensitive to near-term policy. Softer growth + disinflation should pull the 2-year lower at least briefly.",
+      "id": "8685ec2e-3d1a-41a5-a092-608820b807a2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-09 close to 2025-10-15 close, Robinhood Markets (HOOD) will outperform SPDR S&P 500 ETF Trust (SPY) by at least 6.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 36,
+      "deadline": "2025-10-15",
+      "confidence_pct": 57,
+      "verification_criteria": "Using Yahoo Finance adjusted close data for HOOD and SPY: compute percentage change from 2025-09-09 close to 2025-10-15 close. Outcome is true if HOOD% \u2212 SPY% \u2265 6.0 ppt.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/08/robinhood-shares-soar-14percent-after-getting-long-sought-addition-to-sp-500.html",
+        "https://finance.yahoo.com/quote/HOOD/",
+        "https://finance.yahoo.com/quote/SPY/"
+      ],
+      "monitoring_signals": [
+        "Index inclusion effective date flows and passive fund buys",
+        "Short interest, borrow rates, and days-to-cover",
+        "Options skew/volume and realized volatility",
+        "Retail trading activity metrics and revenue catalysts"
+      ],
+      "rationale": "S&P 500 inclusion typically catalyzes passive inflows and visibility. Near-term technicals and positioning can amplify relative outperformance.",
+      "id": "9d48c4f4-dabe-442b-a25f-8c0de043c995",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31 (UTC), the AWS Service Health Dashboard will post at least one public incident citing subsea cable disruption in the Red Sea/Suez/Gulf of Aden region causing connectivity degradation or traffic rerouting.",
+      "category": "tech",
+      "horizon_days": 52,
+      "deadline": "2025-10-31",
+      "confidence_pct": 53,
+      "verification_criteria": "Check status.aws.amazon.com (or official AWS status history). Any incident within the window explicitly referencing subsea cable issues in Red Sea/Suez/Gulf of Aden that impacts connectivity/latency/rerouting qualifies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/08/china-exports-growth-in-august-drops-missing-expectations-.html",
+        "https://www.cnbc.com/2025/09/08/nebius-stock-soars-on-ai-infrastructure-deal-with-microsoft-.html"
+      ],
+      "monitoring_signals": [
+        "Kentik/ThousandEyes telemetry showing reroutes via Middle East",
+        "Submarine cable outage reports (SubTel Forum, Cloudflare Radar)",
+        "Regional geopolitical disruptions affecting cable security",
+        "Other cloud providers\u2019 status pages indicating correlated cable events"
+      ],
+      "rationale": "Regional cable damage has recurred in 2024\u20132025; large providers periodically report impact. Another incident in peak traffic periods is plausible.",
+      "id": "3be42b4e-8fd2-40f5-b0a6-38c94733e4d5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "For the week ending 2025-09-20, EIA will report a U.S. motor gasoline inventory build of at least 1.5 million barrels in the Weekly Petroleum Status Report released on 2025-09-25.",
+      "category": "energy",
+      "horizon_days": 16,
+      "deadline": "2025-09-25",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify in EIA\u2019s Weekly Petroleum Status Report on 2025-09-25 that total motor gasoline ending stocks increased by \u2265 1.5 million barrels versus the prior week.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.cnbc.com/2025/09/08/worker-confidence-in-finding-a-new-job-hits-record-low-in-new-york-fed-survey.html"
+      ],
+      "monitoring_signals": [
+        "Refinery utilization rates and planned maintenance schedules",
+        "Product supplied (implied demand) for gasoline",
+        "Gasoline imports/exports and PADD-level shifts",
+        "Retail gasoline prices and blending component inventories"
+      ],
+      "rationale": "Shoulder-season demand typically eases post-Labor Day while refinery runs remain elevated, favoring near-term inventory builds.",
+      "id": "f5fcb5b6-2dbc-4a72-889f-53231030ad08",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.S. Treasury\u2019s OFAC will announce at least one new sanctions designation targeting Iranian defense, missile, or UAV sector entities or individuals via a public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 52,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Confirm at least one OFAC action posted on home.treasury.gov adds Iranian defense/missile/UAV-related targets to the SDN or related lists within the window.",
+      "evidence": [
+        "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions",
+        "https://www.cnbc.com/2025/09/08/trump-tariff-refund-trade-treasury-bessent-supreme-court.html"
+      ],
+      "monitoring_signals": [
+        "DoD/State briefings on Iranian arms transfers",
+        "Regional escalation incidents and UN/think-tank reporting",
+        "Prior OFAC cadence and thematic designations",
+        "Congressional or allied sanctions announcements"
+      ],
+      "rationale": "OFAC regularly targets Iran\u2019s UAV/missile network; continued regional tensions and proliferation risks support further listings.",
+      "id": "5b98c44d-9889-4062-ba9f-0caf99a5ad6a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Nikkei 225 (N225) will close at or above 44,500 on at least one trading day by 2025-10-15 (Tokyo time).",
+      "category": "markets",
+      "horizon_days": 36,
+      "deadline": "2025-10-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Use official close data for the Nikkei 225 (ticker ^N225 on major data vendors). Outcome is true if any daily close through 2025-10-15 is \u2265 44,500.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/09/asia-markets-nikkei-225-kospi-nifty-50.html",
+        "https://www.cnbc.com/2025/09/08/robinhood-shares-soar-14percent-after-getting-long-sought-addition-to-sp-500.html"
+      ],
+      "monitoring_signals": [
+        "USD/JPY level and BoJ communications",
+        "Global semiconductor/electronics sector performance",
+        "Japan earnings revisions and buyback announcements",
+        "Foreign investor flows into Japanese equities"
+      ],
+      "rationale": "A weak yen, tech momentum, and supportive domestic policy backdrop favor new highs after the index crossed 44,000.",
+      "id": "53fbe5f7-02f7-40c2-ba1e-11390d19cb1f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX Henry Hub front-month natural gas futures will settle at or above $3.40 per MMBtu on at least one trading day by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 52,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirm any official CME/NYMEX front-month Henry Hub daily settlement price through 2025-10-31 is \u2265 $3.40/MMBtu.",
+      "evidence": [
+        "https://www.eia.gov/naturalgas/weekly/",
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.html"
+      ],
+      "monitoring_signals": [
+        "EIA weekly storage injections vs 5-year norm",
+        "NOAA temperature forecasts and HDD/CDD trends",
+        "Production/pipe maintenance and LNG feedgas flows",
+        "Gulf weather risks and storm-related shut-ins"
+      ],
+      "rationale": "Seasonal volatility, production swings, and LNG demand resumption can push prompt gas above $3.40 at least briefly.",
+      "id": "060d6246-cd59-41ec-8979-39393b92a2f2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 3.80% on at least one trading day by 2025-10-31.",
+      "category": "rates",
+      "horizon_days": 52,
+      "deadline": "2025-10-31",
+      "confidence_pct": 53,
+      "verification_criteria": "Confirm any daily close for FRED series DGS10 on or before 2025-10-31 is \u2264 3.80%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.bls.gov/news.release/archives/prod2_09042025.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250829a.htm"
+      ],
+      "monitoring_signals": [
+        "Inflation data trajectory (CPI/PCE) and growth surprises",
+        "Term premium estimates and Treasury supply/auction metrics",
+        "Risk sentiment (equity drawdowns, credit spreads, VIX)",
+        "Fed guidance and balance sheet policy signals"
+      ],
+      "supersedes_id": "4970b86a-da95-4db9-b095-4035cb5bdb88",
+      "rationale": "Moderating inflation and growth risks, plus haven demand, can compress 10-year yields to the high-3s at least temporarily.",
+      "id": "bac8f07a-86d8-4da6-9e11-8e4d631c3c49",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
