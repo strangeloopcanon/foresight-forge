@@ -1,0 +1,121 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. payrolls revised down by 911,000 through March, signaling softer labor market and complicating Fed policy.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/09/09/jobs-report-revisions-september-2025-.html"
+    },
+    {
+      "text": "Fed schedules third public outreach on bank regulations; corrects consumer credit data; terminates enforcement with Sumitomo Mitsui\u2019s New York branch.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250909a.htm"
+    },
+    {
+      "text": "Supreme Court fast-tracks Trump tariffs case; billions in duties at stake for importers and markets.",
+      "tags": [
+        "macro",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/09/trump-tariffs-trade-supreme-court-.html"
+    },
+    {
+      "text": "Klarna prices IPO at $40, above range, raising $1.37 billion\u2014signaling renewed investor appetite for profitable fintechs.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/klarna-prices-ipo-well-above-expected-range-raising-1-37-billion-bb23d3c5?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Oracle shares surge on blowout AI and cloud guidance, marking best day since 1999.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/oracles-stock-surges-toward-best-day-in-years-these-huge-numbers-explain-why-4a7e95ab?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Apple raises iPhone Pro starting price; unveils ultra-thin iPhone Air and AirPods Pro 3 with live translation.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/09/apple-iphone-price-pro-max-us.html"
+    },
+    {
+      "text": "Israel strikes Doha targeting Hamas leaders; U.S. criticizes attack, heightening regional tensions and diplomatic strains with Qatar.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/09/israel-hamas-qatar-doha-attack.html"
+    },
+    {
+      "text": "Trump orders crackdown on direct-to-consumer drug ads, potentially pressuring telehealth and pharma marketing models.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/09/trump-signs-memo-to-crack-down-on-direct-to-consumer-pharma-ads.html"
+    },
+    {
+      "text": "China grapples with deflationary pressures; investors await inflation data as multinationals reassess pricing and demand outlook.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/09/china-business-economy-deflation.html"
+    },
+    {
+      "text": "Nasdaq to invest $50 million in Gemini crypto exchange, signaling cautious institutional reengagement with digital assets.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/09/nasdaq-to-invest-50-million-in-winklevoss-founded-crypto-exchange-gemini.html"
+    },
+    {
+      "text": "Studies find Antarctica\u2019s interior warming faster than models predicted, underscoring underestimated climate risks and sea-level implications.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250909031503.htm"
+    },
+    {
+      "text": "Immunotherapy trial shows roughly 50% tumor responses, including remissions, in aggressive cancers\u2014promising advance for oncology.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/"
+    },
+    {
+      "text": "DuckDB Node.js packages compromised with malware, highlighting persistent software supply-chain risks for developers.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c"
+    },
+    {
+      "text": "Microsoft diversifies AI stack by purchasing Anthropic services; investor reaction lifts AI infrastructure partner Nebius shares.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/09/09/microsoft-to-lessen-reliance-on-openai-by-buying-ai-from-rival-anthropic/"
+    },
+    {
+      "text": "Supreme Court lets Trump temporarily block foreign aid, reshaping U.S. leverage and geopolitical commitments.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/09/09/us/politics/supreme-court-trump-foreign-aid.html"
+    }
+  ]
+}

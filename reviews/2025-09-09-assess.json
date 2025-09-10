@@ -1,0 +1,55 @@
+{
+  "date": "2025-09-09",
+  "assessments": [
+    {
+      "id": "5772c072-5dc7-4e01-8e3c-7b8c7f1afb69",
+      "status": "pending",
+      "status_rationale": "The August 2025 CPI report is scheduled for release on 2025-09-11. No published results or credible leaks are in today\u2019s news."
+    },
+    {
+      "id": "6818cb23-5b57-4360-9725-80b2cf081282",
+      "status": "pending",
+      "status_rationale": "The September 2025 FOMC decision is due 2025-09-17. No definitive policy signals or outcomes are reported today."
+    },
+    {
+      "id": "8685ec2e-3d1a-41a5-a092-608820b807a2",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s coverage confirms the U.S. 2-year Treasury closed at or below 3.95% on any day. Outcome window remains open through 2025-10-31."
+    },
+    {
+      "id": "9d48c4f4-dabe-442b-a25f-8c0de043c995",
+      "status": "pending",
+      "status_rationale": "The measurement window (2025-09-09 close to 2025-10-15 close) has just begun, and no relative performance data for HOOD vs. SPY is provided."
+    },
+    {
+      "id": "3be42b4e-8fd2-40f5-b0a6-38c94733e4d5",
+      "status": "pending",
+      "status_rationale": "No AWS Service Health Dashboard incident citing Red Sea/Suez/Gulf of Aden subsea cable disruption is referenced in today\u2019s news."
+    },
+    {
+      "id": "f5fcb5b6-2dbc-4a72-889f-53231030ad08",
+      "status": "pending",
+      "status_rationale": "The EIA report for the week ending 2025-09-20 will be released on 2025-09-25. No early data available."
+    },
+    {
+      "id": "5b98c44d-9889-4062-ba9f-0caf99a5ad6a",
+      "status": "pending",
+      "status_rationale": "No OFAC press release or sanctions list update targeting Iranian defense/missile/UAV entities is cited today. Deadline is 2025-10-31."
+    },
+    {
+      "id": "53fbe5f7-02f7-40c2-ba1e-11390d19cb1f",
+      "status": "pending",
+      "status_rationale": "There is no confirmation that the Nikkei 225 has closed at or above 44,500. The window is open through 2025-10-15."
+    },
+    {
+      "id": "060d6246-cd59-41ec-8979-39393b92a2f2",
+      "status": "pending",
+      "status_rationale": "No settlement data indicates Henry Hub front-month reached or exceeded $3.40/MMBtu. The deadline is 2025-10-31."
+    },
+    {
+      "id": "bac8f07a-86d8-4da6-9e11-8e4d631c3c49",
+      "status": "pending",
+      "status_rationale": "No reporting confirms the U.S. 10-year Treasury closed at or below 3.80% on any day. The window remains open through 2025-10-31."
+    }
+  ]
+}

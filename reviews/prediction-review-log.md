@@ -478,3 +478,12 @@ Key upcoming checkpoints remain: the U.S. August PPI release on 2025-09-12, ongo
 
 ---
 
+
+## 2025-09-09
+
+Today’s headlines are heavy on politics, tech product launches, and geopolitics, but light on the specific macro data or market closes needed to adjudicate any forecasts. The CPI print arrives tomorrow, the FOMC decision is a week out, and there are no validated treasury yield closes, commodity settlements, or index levels cited that would resolve the rate and market threshold calls.
+
+Geopolitical developments (Israel-Qatar strike, regional tensions) and policy headlines (drug-advertising crackdown, tariffs litigation) could shape risk appetite, energy markets, and inflation expectations, but none provide definitive evidence for outcomes yet. For now, all items appropriately remain pending, with key catalysts coming soon: the CPI release (2025-09-11), FOMC (2025-09-17), and ongoing market moves into October.
+
+---
+

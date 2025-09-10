@@ -1,0 +1,271 @@
+{
+  "date": "2025-09-10",
+  "predictions": [
+    {
+      "text": "U.S. CPI-U core (all items less food and energy) year-over-year for August 2025 will be between 3.1% and 3.4%, as reported by BLS on 2025-09-11.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-09-11",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify in the BLS CPI news release for August 2025: the 12-month percent change for the index for all items less food and energy (seasonally unadjusted).",
+      "evidence": [
+        "https://www.bls.gov/cpi/",
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://www.cnbc.com/2025/09/09/jobs-report-revisions-september-2025-.html"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed Inflation Nowcast for core CPI",
+        "High-frequency rent/shelter indicators (Zillow, Apartment List)",
+        "Used car auction prices (Manheim)",
+        "Health insurance CPI methodology impacts"
+      ],
+      "rationale": "Labor market softening and ongoing core disinflation trends should cap core CPI YoY, with shelter deceleration offsetting services stickiness.",
+      "id": "9bb13cf3-ad99-481f-9e50-2138e4a0214b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Retail Sales control group (ex autos, gasoline, building materials, and food services) month-over-month for August 2025 will be between -0.1% and 0.3% in the Census release on 2025-09-17.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-09-17",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify in the Census Advance Monthly Retail Trade report. Compute control group as retail sales excluding motor vehicle & parts dealers, gasoline stations, building materials & garden equipment dealers, and food services & drinking places.",
+      "evidence": [
+        "https://www.census.gov/retail.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250909a.htm"
+      ],
+      "monitoring_signals": [
+        "Card-spending trackers (BAC, JPM, Citi)",
+        "Gasoline prices vs. ex-gas control group",
+        "Back-to-school spending surveys",
+        "Consumer sentiment (UMich, Conference Board)"
+      ],
+      "rationale": "Consumer momentum is moderating; ex-energy and autos, spending likely flattish to modestly positive.",
+      "id": "e9bc742d-9c2b-4eab-b194-3c97497d0390",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At the September 17, 2025 FOMC, the SEP median projection for the federal funds rate at end-2025 will be between 4.50% and 5.00% (midpoint terms).",
+      "category": "rates",
+      "horizon_days": 7,
+      "deadline": "2025-09-17",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify in the Federal Reserve\u2019s Summary of Economic Projections: the median of participants\u2019 projections for the federal funds rate, end of 2025, reported as the midpoint of the target range.",
+      "evidence": [
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "https://www.cnbc.com/2025/09/09/jobs-report-revisions-september-2025-.html"
+      ],
+      "monitoring_signals": [
+        "Fed communications and speeches pre-meeting",
+        "SEP leaks/consensus from major banks",
+        "OIS and fed funds futures-implied path",
+        "Inflation and labor data revisions"
+      ],
+      "rationale": "Softening labor data argue for lower path, but inflation persistence keeps the median near 4.75% (+/- 25 bp).",
+      "id": "7eb4b194-a895-4702-8503-0a6c5c55934c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-10 close to 2025-09-30 close, Oracle (ORCL) will outperform SPDR S&P 500 ETF (SPY) by at least 4.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "tech",
+      "horizon_days": 20,
+      "deadline": "2025-10-01",
+      "confidence_pct": 57,
+      "verification_criteria": "Calculate percentage change in adjusted close for ORCL and SPY from 2025-09-10 to 2025-09-30. ORCL outperformance must be \u22654.0 percentage points.",
+      "evidence": [
+        "https://www.marketwatch.com/story/oracles-stock-surges-toward-best-day-in-years-these-huge-numbers-explain-why-4a7e95ab",
+        "https://www.cnbc.com/2025/09/09/apple-iphone-price-pro-max-us.html"
+      ],
+      "monitoring_signals": [
+        "Follow-through in ORCL post-earnings drift",
+        "Cloud/AI order book disclosures and analyst upgrades",
+        "Peer moves (MSFT, AMZN, GOOGL cloud)",
+        "Options skew and volume for ORCL"
+      ],
+      "rationale": "Positive earnings surprise and AI/cloud guidance historically sustain short-term relative momentum.",
+      "id": "af2e72c1-c7fc-43f8-b8af-e4fb523b9e80",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Cboe Volatility Index (VIX) will close at or above 20.00 on at least one trading day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 51,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirm via Cboe official VIX historical closing data that VIX close \u2265 20.00 on any session through 2025-10-31.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/vix_historical_data/",
+        "https://www.cnbc.com/2025/09/09/trump-tariffs-trade-supreme-court-.html",
+        "https://www.nytimes.com/2025/09/09/us/politics/supreme-court-trump-foreign-aid.html"
+      ],
+      "monitoring_signals": [
+        "FOMC outcome and SEP surprises",
+        "Tariff/litigation headlines and geopolitical escalations",
+        "Earnings pre-announcements and guidance cuts",
+        "Credit spreads and equity put/call skew"
+      ],
+      "rationale": "Event risk (FOMC, geopolitics, courts) and thin liquidity can trigger a brief vol spike.",
+      "id": "bfda312a-7727-4f45-9cb3-219e8d42fbea",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/CNH (Yahoo Finance: CNH=X) will close at or above 7.45 on at least one trading day by 2025-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 51,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify the daily close for CNH=X on Yahoo Finance (or equivalent reputable data source) reaches \u2265 7.45 by the deadline.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/CNH%3DX",
+        "https://www.cnbc.com/2025/09/09/china-business-economy-deflation.html"
+      ],
+      "monitoring_signals": [
+        "PBoC daily USD/CNY fix vs. estimates",
+        "China CPI/PPI releases and credit data",
+        "Capital flow controls and policy headlines",
+        "Broad dollar index (DXY) trends"
+      ],
+      "rationale": "Deflation pressures and policy easing bias in China tend to pressure CNH weaker versus USD.",
+      "id": "94157976-6ba1-46fa-87eb-c653708666ad",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent front-month crude futures will settle at or above $94.00 per barrel on at least one trading day by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 51,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirm via ICE official settlement prices (front-month Brent) that a daily settlement is \u2265 $94.00 before the deadline.",
+      "evidence": [
+        "https://www.theice.com/products/219/Brent-Crude-Futures",
+        "https://www.cnbc.com/2025/09/09/israel-hamas-qatar-doha-attack.html"
+      ],
+      "monitoring_signals": [
+        "OPEC+ communications and compliance",
+        "Middle East geopolitical disruptions",
+        "Inventory draws (EIA/IEA) and refinery runs",
+        "Time spreads (Brent M1-M2) tightening"
+      ],
+      "rationale": "Geopolitical risk premia and steady demand can lift front-month Brent above $94 intraperiod.",
+      "id": "4087dc99-24c0-46a6-8acc-be5f7d7e7fd9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.S. Treasury\u2019s OFAC will designate at least one PRC-based individual or entity for fentanyl, precursor chemicals, or related trafficking via a public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 51,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify on OFAC\u2019s \u2018Recent Actions\u2019 page or press releases that at least one new SDN listing targets a PRC-based party for fentanyl/precursor trafficking.",
+      "evidence": [
+        "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions"
+      ],
+      "monitoring_signals": [
+        "White House/DEA/State Department statements on fentanyl",
+        "Joint actions with DOJ or DHS",
+        "Bilateral U.S.-China counternarcotics updates",
+        "Prior OFAC targeting patterns"
+      ],
+      "rationale": "U.S. pressure on fentanyl supply chains is ongoing; periodic PRC-linked designations are likely.",
+      "id": "cbcfd7a3-4df7-4773-b921-6567625b03ed",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Copernicus ERA5 global surface air temperature for September 2025 will rank within the top 3 warmest Septembers on record, per the C3S monthly Climate Bulletin released by 2025-10-10.",
+      "category": "other",
+      "horizon_days": 30,
+      "deadline": "2025-10-10",
+      "confidence_pct": 59,
+      "verification_criteria": "Check the Copernicus Climate Change Service monthly bulletin for September 2025; confirm the rank is top-3 for Septembers in their record.",
+      "evidence": [
+        "https://climate.copernicus.eu/monthly-climate-bulletins",
+        "https://www.sciencedaily.com/releases/2025/09/250909031503.htm"
+      ],
+      "monitoring_signals": [
+        "Global SST anomalies (NOAA OISST)",
+        "ERA5 daily reanalysis previews",
+        "Regional heatwave reports",
+        "Greenhouse-gas and volcanic aerosol context"
+      ],
+      "rationale": "Persistently elevated ocean heat and observed polar amplification support exceptionally warm monthly rankings.",
+      "id": "a01ddd89-8c78-4977-b729-5f6ed74391a5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or above $68,000 on at least one day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 51,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirm via a widely used reference (CoinDesk XBX Index or Coinbase BTC-USD) that the intraday or closing price reaches \u2265 $68,000 by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/09/nasdaq-to-invest-50-million-in-winklevoss-founded-crypto-exchange-gemini.html",
+        "https://www.coindesk.com/indices/xbx/",
+        "https://www.coinbase.com/price/bitcoin"
+      ],
+      "monitoring_signals": [
+        "Spot ETF flows and fund inflows",
+        "Risk sentiment (tech equities, VIX)",
+        "Crypto exchange volumes and funding rates",
+        "Dollar index and real yields"
+      ],
+      "rationale": "Institutional re-engagement and positive risk sentiment can drive a test of upper ranges.",
+      "id": "3a5fd1c4-4b3f-4861-b579-f0425f2d0a05",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-15, the npm/GitHub Advisory Database will publish at least one Critical-severity advisory for a compromised npm package with \u2265100,000 weekly downloads at time of disclosure.",
+      "category": "tech",
+      "horizon_days": 35,
+      "deadline": "2025-10-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify a Critical severity advisory in the npm or GitHub Security Advisories affecting an npm package; confirm weekly downloads \u2265100,000 via npm registry statistics near disclosure.",
+      "evidence": [
+        "https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c",
+        "https://github.com/advisories?query=type%3Areviewed+ecosystem%3Anpm+severity%3Acritical"
+      ],
+      "monitoring_signals": [
+        "npm security advisories feed",
+        "Supply chain threat intel (e.g., Snyk, ReversingLabs)",
+        "Unusual publish patterns in npm registry",
+        "Typosquatting detections"
+      ],
+      "rationale": "Active supply-chain attacks and high npm ecosystem reach make another critical advisory likely.",
+      "id": "1514d66f-eebe-4043-b555-4d35133f705a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. initial jobless claims (seasonally adjusted) will be at or above 240,000 for at least one weekly reading reported by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 51,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Check the U.S. Department of Labor weekly Unemployment Insurance Initial Claims press releases; confirm any reported week has initial claims \u2265 240,000.",
+      "evidence": [
+        "https://www.dol.gov/newsroom/releases/eta",
+        "https://www.cnbc.com/2025/09/09/jobs-report-revisions-september-2025-.html"
+      ],
+      "monitoring_signals": [
+        "Challenger job cuts reports",
+        "Continuing claims trend",
+        "Small business hiring plans (NFIB)",
+        "Layoff announcements and WARN notices"
+      ],
+      "rationale": "Downward payroll revisions and slowing activity point to a mild uptick in claims.",
+      "id": "f031a577-96ae-4893-b794-ae47aaca1c9f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

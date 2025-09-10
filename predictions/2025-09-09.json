@@ -20,7 +20,7 @@
       ],
       "rationale": "Softening demand and moderate recent monthly prints suggest y/y stays near 3%, with shelter the main upside risk.",
       "id": "5772c072-5dc7-4e01-8e3c-7b8c7f1afb69",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Cooling growth and moderate inflation argue for easing, but uncertainty on inflation stickiness likely keeps the Fed at 25 bp rather than 50.",
       "id": "6818cb23-5b57-4360-9725-80b2cf081282",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Front-end yields are sensitive to near-term policy. Softer growth + disinflation should pull the 2-year lower at least briefly.",
       "id": "8685ec2e-3d1a-41a5-a092-608820b807a2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "S&P 500 inclusion typically catalyzes passive inflows and visibility. Near-term technicals and positioning can amplify relative outperformance.",
       "id": "9d48c4f4-dabe-442b-a25f-8c0de043c995",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "Regional cable damage has recurred in 2024\u20132025; large providers periodically report impact. Another incident in peak traffic periods is plausible.",
       "id": "3be42b4e-8fd2-40f5-b0a6-38c94733e4d5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -131,7 +131,7 @@
       ],
       "rationale": "Shoulder-season demand typically eases post-Labor Day while refinery runs remain elevated, favoring near-term inventory builds.",
       "id": "f5fcb5b6-2dbc-4a72-889f-53231030ad08",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "rationale": "OFAC regularly targets Iran\u2019s UAV/missile network; continued regional tensions and proliferation risks support further listings.",
       "id": "5b98c44d-9889-4062-ba9f-0caf99a5ad6a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "rationale": "A weak yen, tech momentum, and supportive domestic policy backdrop favor new highs after the index crossed 44,000.",
       "id": "53fbe5f7-02f7-40c2-ba1e-11390d19cb1f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "rationale": "Seasonal volatility, production swings, and LNG demand resumption can push prompt gas above $3.40 at least briefly.",
       "id": "060d6246-cd59-41ec-8979-39393b92a2f2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -221,7 +221,7 @@
       "supersedes_id": "4970b86a-da95-4db9-b095-4035cb5bdb88",
       "rationale": "Moderating inflation and growth risks, plus haven demand, can compress 10-year yields to the high-3s at least temporarily.",
       "id": "bac8f07a-86d8-4da6-9e11-8e4d631c3c49",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
