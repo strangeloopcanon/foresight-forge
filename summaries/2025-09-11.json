@@ -1,0 +1,97 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. PPI fell 0.1% in August, with services -0.2% and goods +0.1%, easing pipeline inflation ahead of Fed decision.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/ppi_09102025.htm"
+    },
+    {
+      "text": "Investors piled into bonds ahead of the Fed decision, locking elevated yields; strategists see opportunity across duration if inflation keeps easing.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.marketwatch.com/story/investors-are-chasing-bond-yields-ahead-of-the-feds-rate-decision-heres-the-opportunity-eb12d5dc?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Oracle surged 36%, adding $244B market value, amid reports of an OpenAI cloud deal and booming AI backlog.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html"
+    },
+    {
+      "text": "Klarna's NYSE debut jumped about 15% after pricing above range, raising $1.4B and signaling revived appetite for fintech IPOs.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/10/klarna-klar-stock-soars-after-us-ipo.html"
+    },
+    {
+      "text": "Israel struck Houthi targets in Yemen after Qatar incident, signaling willingness to hit regional adversaries and raising Red Sea risk.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/09/10/world/middleeast/israel-houthi-yemen-strikes-qatar.html"
+    },
+    {
+      "text": "Security experts warn of a China-led 'anti-Western alliance' coalescing, potentially reshaping global power alignments and supply chains.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/11/china-led-anti-western-alliance-is-worrisome-security-expert-warns.html"
+    },
+    {
+      "text": "Labor Department watchdog opened a probe into BLS jobs and inflation data collection, raising scrutiny of official U.S. statistics.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/10/trump-bls-jobs-data-labor.html"
+    },
+    {
+      "text": "Trump appealed order blocking him from firing Fed Governor Lisa Cook, while Stephen Miran advanced in Senate, stoking central-bank independence debate.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/10/trump-appeals-fed-lisa-cook.html"
+    },
+    {
+      "text": "Boeing reached a tentative deal with striking defense workers, potentially averting prolonged disruptions in defense production.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/10/iam-union-boeing-agreement-strike.html"
+    },
+    {
+      "text": "Wells Fargo's CEO warned of more downside for the U.S. economy as lower-income consumers weaken, implying tighter credit and slower growth.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/10/wells-fargo-ceo-charles-scharf-sees-downside-to-us-economy.html"
+    },
+    {
+      "text": "FDA tightened rules on copycat GLP-1 drugs, curbing compounders and reinforcing market power of branded obesity treatments.",
+      "tags": [
+        "markets",
+        "science"
+      ],
+      "link": "https://www.cnbc.com/2025/09/10/new-fda-rules-affect-glp-1s-apple-adds-health-tools-to-latest-watch.html"
+    },
+    {
+      "text": "Gravitational-wave 'ringdown' measurements delivered clearest confirmation yet of Kerr black holes, bolstering Einstein and Hawking predictions.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencenews.org/article/ringing-black-hole-test-hawking-kerr"
+    }
+  ]
+}

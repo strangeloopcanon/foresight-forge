@@ -1,0 +1,239 @@
+{
+  "date": "2025-09-11",
+  "predictions": [
+    {
+      "text": "Euro area HICP flash year-over-year for September 2025 will be between 2.4% and 2.8%, per Eurostat release on 2025-09-30.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2025-09-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify using Eurostat\u2019s \u201cEuro area annual inflation \u2013 flash estimate\u201d news release on 2025-09-30. Success if the published YoY HICP headline is within [2.4%, 2.8%].",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/ppi_09102025.htm",
+        "https://www.marketwatch.com/story/investors-are-chasing-bond-yields-ahead-of-the-feds-rate-decision-heres-the-opportunity-eb12d5dc",
+        "https://ec.europa.eu/eurostat"
+      ],
+      "monitoring_signals": [
+        "Brent and TTF price trends",
+        "Germany/France preliminary CPI prints",
+        "Eurozone PMIs (input/output price components)",
+        "EUR trade-weighted index"
+      ],
+      "rationale": "Cooling producer prices and softer demand should cap headline inflation, while energy stabilizes.",
+      "id": "f463eaf4-8875-434f-9f88-d8873cad3742",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan 1-year inflation expectations (prelim) for September 2025 will be between 2.8% and 3.2%, reported on 2025-09-13.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-09-13",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify from University of Michigan Surveys of Consumers preliminary September release on 2025-09-13. Success if 1-year inflation expectations in report are within [2.8%, 3.2%].",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/ppi_09102025.htm",
+        "https://www.cnbc.com/2025/09/10/wells-fargo-ceo-charles-scharf-sees-downside-to-us-economy.html"
+      ],
+      "monitoring_signals": [
+        "Gasoline prices (AAA) and food price trackers",
+        "Market-based breakevens (T5YIFR, T10YIE)",
+        "Press coverage of price pressures"
+      ],
+      "rationale": "Pipeline inflation is easing and consumer sentiment is fragile; expectations should remain anchored near 3%.",
+      "id": "1843978e-7a1c-4096-ad46-2acdfad2efbc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The S&P 500 Index (SPX) will close at or above 5650 on at least one trading day by 2025-10-15 (New York time).",
+      "category": "markets",
+      "horizon_days": 34,
+      "deadline": "2025-10-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Use official S&P DJI or exchange close for SPX. Success if any closing level >= 5650 by 2025-10-15.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html",
+        "https://www.cnbc.com/2025/09/10/klarna-klar-stock-soars-after-us-ipo.html",
+        "https://www.marketwatch.com/story/investors-are-chasing-bond-yields-ahead-of-the-feds-rate-decision-heres-the-opportunity-eb12d5dc"
+      ],
+      "monitoring_signals": [
+        "Mega-cap tech momentum and AI-related earnings/news",
+        "Breadth indicators and dealer gamma positioning",
+        "FOMC path and real yields (DFII10)"
+      ],
+      "rationale": "AI momentum and easing inflation support risk appetite; modest new highs are plausible.",
+      "id": "a90ce14b-be00-41d4-93f6-6e35d96fba7d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe VIX futures curve will be in backwardation (VX1 settlement > VX2 settlement) for at least 2 consecutive trading days by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 50,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify using CFE daily settlements for VX1 and VX2. Success if VX1 settle exceeds VX2 settle for two consecutive trading days before or on 2025-10-31.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/10/world/middleeast/israel-houthi-yemen-strikes-qatar.html",
+        "https://www.marketwatch.com/story/investors-are-chasing-bond-yields-ahead-of-the-feds-rate-decision-heres-the-opportunity-eb12d5dc"
+      ],
+      "monitoring_signals": [
+        "Geopolitical headlines (Middle East/Red Sea)",
+        "Earnings season pre-announcements",
+        "Spot VIX vs VIX futures term structure"
+      ],
+      "rationale": "Event risk into earnings and geopolitics increases odds of near-term vol spikes vs further-dated.",
+      "id": "a446affe-7026-41ba-97f8-70b3fd5add50",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 2-year/10-year Treasury yield spread (FRED: T10Y2Y) will close at or above 0.00% on at least one trading day by 2025-10-31.",
+      "category": "rates",
+      "horizon_days": 50,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Use FRED series T10Y2Y daily close. Success if the value is >= 0.00% on any date through 2025-10-31.",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/ppi_09102025.htm",
+        "https://www.cnbc.com/2025/09/10/trump-appeals-fed-lisa-cook.html"
+      ],
+      "monitoring_signals": [
+        "FOMC cut probability (FedWatch)",
+        "Term premium estimates",
+        "Auction demand and bond fund inflows"
+      ],
+      "rationale": "Easing inflation and prospective Fed cuts should steepen the curve, allowing a brief uninversion.",
+      "id": "5e33ef89-9ea5-4373-ac91-e0d53f937718",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent front-month crude futures will settle at or above $96.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 80,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify using ICE settlement for the front-month Brent contract. Success if any official settlement >= $96.00 by 2025-11-30.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/10/world/middleeast/israel-houthi-yemen-strikes-qatar.html",
+        "https://www.cnbc.com/2025/09/11/china-led-anti-western-alliance-is-worrisome-security-expert-warns.html"
+      ],
+      "monitoring_signals": [
+        "Red Sea shipping disruptions and insurance premia",
+        "OPEC+ production policy and compliance",
+        "OECD inventories and refinery margins"
+      ],
+      "rationale": "Heightened Middle East and maritime risks plus steady demand can push Brent to mid-$90s.",
+      "id": "d7be40de-ee0e-4220-a862-ca97d9323f22",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/CNH (Yahoo Finance: CNH=X) will close at or above 7.50 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 80,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Use Yahoo Finance CNH=X daily close (UTC). Success if the close is >= 7.50 on any day by 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/11/china-led-anti-western-alliance-is-worrisome-security-expert-warns.html",
+        "https://www.marketwatch.com/story/investors-are-chasing-bond-yields-ahead-of-the-feds-rate-decision-heres-the-opportunity-eb12d5dc"
+      ],
+      "monitoring_signals": [
+        "PBoC daily USD/CNY fix vs estimates",
+        "Chinese growth and credit data (TSF, PMIs)",
+        "DXY trend and U.S. rates path"
+      ],
+      "rationale": "Growth concerns and policy divergence can pressure the yuan, nudging USD/CNH higher.",
+      "id": "9ad7b2d8-45d8-45ad-9c48-faeee69502be",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Ethereum (ETH-USD) will trade at or above $3,300 on at least one day by 2025-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 50,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify using CoinMarketCap ETH price (global average) intraday high by 2025-10-31 UTC. Success if any intraday high >= $3,300.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/10/oracle-stock-cloud-backlog-ai.html",
+        "https://www.marketwatch.com/story/investors-are-chasing-bond-yields-ahead-of-the-feds-rate-decision-heres-the-opportunity-eb12d5dc"
+      ],
+      "monitoring_signals": [
+        "BTC price momentum and dominance",
+        "ETH ETF flow headlines/regulatory news",
+        "Funding rates and perpetual futures basis"
+      ],
+      "rationale": "Risk-on moves around easing inflation and crypto beta could lift ETH to test recent highs.",
+      "id": "3a553a75-4d9b-4d0c-90d1-d0f1f25ae0b6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex EU ETS EUA December-2025 futures will settle at or above \u20ac67.00 per metric ton at least once by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 50,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify using ICE Endex EUA Dec-2025 official settlement prices. Success if any settlement >= \u20ac67.00 by 2025-10-31.",
+      "evidence": [
+        "https://ec.europa.eu/eurostat",
+        "https://www.cnbc.com/2025/09/10/wells-fargo-ceo-charles-scharf-sees-downside-to-us-economy.html"
+      ],
+      "monitoring_signals": [
+        "EU energy demand/weather forecasts",
+        "Policy headlines on EU ETS and MSR",
+        "Natural gas (TTF) price volatility"
+      ],
+      "rationale": "Energy market tightness and policy support can lift EU carbon prices toward late-summer highs.",
+      "id": "234cd49c-b5c0-4c3c-bbcc-20799c947d4a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, OFAC will announce at least one sanctions designation explicitly naming Hezbollah or Hezbollah-linked individuals/entities via a public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 50,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify via U.S. Treasury press releases or SDN list updates. Success if the text explicitly references Hezbollah or named affiliates by 2025-10-31.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/10/world/middleeast/israel-houthi-yemen-strikes-qatar.html",
+        "https://www.cnbc.com/2025/09/10/iam-union-boeing-agreement-strike.html"
+      ],
+      "monitoring_signals": [
+        "Escalation along Israel\u2013Lebanon front",
+        "U.S. Treasury/State Department advisories",
+        "Regional terrorism finance investigations"
+      ],
+      "rationale": "Regional escalation raises the likelihood of targeted U.S. sanctions on Hezbollah networks.",
+      "id": "fec8ab09-a1e5-4e0d-afc9-afcdb09514e3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The LBMA Silver Price PM will fix at or above $35.00/oz on at least one trading day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 50,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify using LBMA Silver Price PM fix data. Success if any PM fix is >= $35.00/oz by 2025-10-31.",
+      "evidence": [
+        "https://www.sciencenews.org/article/ringing-black-hole-test-hawking-kerr",
+        "https://www.marketwatch.com/story/investors-are-chasing-bond-yields-ahead-of-the-feds-rate-decision-heres-the-opportunity-eb12d5dc"
+      ],
+      "monitoring_signals": [
+        "Gold price momentum and real yields",
+        "Industrial demand indicators (solar, electronics)",
+        "ETF flows into silver funds"
+      ],
+      "rationale": "Falling real yields and strong precious metals sentiment can drive a breakout in silver.",
+      "id": "7d4bc56e-d9c3-4903-a889-da0a61169194",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

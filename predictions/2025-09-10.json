@@ -21,7 +21,7 @@
       ],
       "rationale": "Labor market softening and ongoing core disinflation trends should cap core CPI YoY, with shelter deceleration offsetting services stickiness.",
       "id": "9bb13cf3-ad99-481f-9e50-2138e4a0214b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Consumer momentum is moderating; ex-energy and autos, spending likely flattish to modestly positive.",
       "id": "e9bc742d-9c2b-4eab-b194-3c97497d0390",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Softening labor data argue for lower path, but inflation persistence keeps the median near 4.75% (+/- 25 bp).",
       "id": "7eb4b194-a895-4702-8503-0a6c5c55934c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "Positive earnings surprise and AI/cloud guidance historically sustain short-term relative momentum.",
       "id": "af2e72c1-c7fc-43f8-b8af-e4fb523b9e80",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "Event risk (FOMC, geopolitics, courts) and thin liquidity can trigger a brief vol spike.",
       "id": "bfda312a-7727-4f45-9cb3-219e8d42fbea",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "Deflation pressures and policy easing bias in China tend to pressure CNH weaker versus USD.",
       "id": "94157976-6ba1-46fa-87eb-c653708666ad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "rationale": "Geopolitical risk premia and steady demand can lift front-month Brent above $94 intraperiod.",
       "id": "4087dc99-24c0-46a6-8acc-be5f7d7e7fd9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "rationale": "U.S. pressure on fentanyl supply chains is ongoing; periodic PRC-linked designations are likely.",
       "id": "cbcfd7a3-4df7-4773-b921-6567625b03ed",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "rationale": "Persistently elevated ocean heat and observed polar amplification support exceptionally warm monthly rankings.",
       "id": "a01ddd89-8c78-4977-b729-5f6ed74391a5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -220,7 +220,7 @@
       ],
       "rationale": "Institutional re-engagement and positive risk sentiment can drive a test of upper ranges.",
       "id": "3a5fd1c4-4b3f-4861-b579-f0425f2d0a05",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -242,7 +242,7 @@
       ],
       "rationale": "Active supply-chain attacks and high npm ecosystem reach make another critical advisory likely.",
       "id": "1514d66f-eebe-4043-b555-4d35133f705a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -264,7 +264,7 @@
       ],
       "rationale": "Downward payroll revisions and slowing activity point to a mild uptick in claims.",
       "id": "f031a577-96ae-4893-b794-ae47aaca1c9f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

@@ -487,3 +487,12 @@ Geopolitical developments (Israel-Qatar strike, regional tensions) and policy he
 
 ---
 
+
+## 2025-09-10
+
+None of the tracked forecasts have definitive outcomes based on today’s news flow. Inflation coverage focuses on PPI and generalized “positive inflation” sentiment ahead of the CPI release, leaving the core CPI YoY call unresolved for now. Upcoming macro catalysts—the September 17 Retail Sales and FOMC/SEP—remain pending, with no leaks or concrete figures indicated.
+
+Market headlines highlight a dramatic Oracle rally on 9/10, which sets a high starting base for the ORCL vs. SPY outperformance window that begins at the 9/10 close; the ultimate result depends on subsequent relative moves into month-end. Broader risk sentiment appears constructive (IPO pops, tech strength), which could weigh on volatility-linked and defensive-leaning forecasts, but there’s insufficient evidence today to change any statuses.
+
+---
+

@@ -1,0 +1,65 @@
+{
+  "date": "2025-09-10",
+  "assessments": [
+    {
+      "id": "9bb13cf3-ad99-481f-9e50-2138e4a0214b",
+      "status": "pending",
+      "status_rationale": "CPI (including core YoY for August) is due today; provided news bullets reference PPI and general \u2018positive inflation data\u2019 but do not report the CPI figure."
+    },
+    {
+      "id": "e9bc742d-9c2b-4eab-b194-3c97497d0390",
+      "status": "pending",
+      "status_rationale": "Retail Sales control group for August will be released on 2025-09-17; no result yet."
+    },
+    {
+      "id": "7eb4b194-a895-4702-8503-0a6c5c55934c",
+      "status": "pending",
+      "status_rationale": "The SEP and FOMC decision arrive on 2025-09-17; today\u2019s news offers no SEP projections."
+    },
+    {
+      "id": "af2e72c1-c7fc-43f8-b8af-e4fb523b9e80",
+      "status": "pending",
+      "status_rationale": "Performance window runs from 2025-09-10 close to 2025-09-30 close. Despite a major 9/10 surge in ORCL noted in the news, the outcome depends on end-window closes."
+    },
+    {
+      "id": "bfda312a-7727-4f45-9cb3-219e8d42fbea",
+      "status": "pending",
+      "status_rationale": "VIX \u226520 by 2025-10-31; no bullet confirms such a reading yet."
+    },
+    {
+      "id": "94157976-6ba1-46fa-87eb-c653708666ad",
+      "status": "pending",
+      "status_rationale": "USD/CNH \u22657.45 by 2025-10-31; no evidence in today\u2019s bullets of such a close."
+    },
+    {
+      "id": "4087dc99-24c0-46a6-8acc-be5f7d7e7fd9",
+      "status": "pending",
+      "status_rationale": "Brent \u2265$94 by 2025-10-31; no settlement data provided in the bullets."
+    },
+    {
+      "id": "cbcfd7a3-4df7-4773-b921-6567625b03ed",
+      "status": "pending",
+      "status_rationale": "No report in the bullets of an OFAC designation tied to PRC fentanyl/precursors; deadline is 2025-10-31."
+    },
+    {
+      "id": "a01ddd89-8c78-4977-b729-5f6ed74391a5",
+      "status": "pending",
+      "status_rationale": "ERA5 September 2025 ranking will be known by the C3S bulletin due by 2025-10-10; no current data."
+    },
+    {
+      "id": "3a5fd1c4-4b3f-4861-b579-f0425f2d0a05",
+      "status": "pending",
+      "status_rationale": "BTC \u2265$68,000 by 2025-10-31; today\u2019s bullets do not cite a price at or above that level."
+    },
+    {
+      "id": "1514d66f-eebe-4043-b555-4d35133f705a",
+      "status": "pending",
+      "status_rationale": "No advisory noted in the bullets about a critical npm compromise meeting the threshold; deadline is 2025-10-15."
+    },
+    {
+      "id": "f031a577-96ae-4893-b794-ae47aaca1c9f",
+      "status": "pending",
+      "status_rationale": "Initial jobless claims \u2265240k by 2025-10-31; no claims figure is reported in the bullets."
+    }
+  ]
+}
