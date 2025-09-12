@@ -21,7 +21,7 @@
       ],
       "rationale": "Cooling producer prices and softer demand should cap headline inflation, while energy stabilizes.",
       "id": "f463eaf4-8875-434f-9f88-d8873cad3742",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Pipeline inflation is easing and consumer sentiment is fragile; expectations should remain anchored near 3%.",
       "id": "1843978e-7a1c-4096-ad46-2acdfad2efbc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "AI momentum and easing inflation support risk appetite; modest new highs are plausible.",
       "id": "a90ce14b-be00-41d4-93f6-6e35d96fba7d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "Event risk into earnings and geopolitics increases odds of near-term vol spikes vs further-dated.",
       "id": "a446affe-7026-41ba-97f8-70b3fd5add50",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "rationale": "Easing inflation and prospective Fed cuts should steepen the curve, allowing a brief uninversion.",
       "id": "5e33ef89-9ea5-4373-ac91-e0d53f937718",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rationale": "Heightened Middle East and maritime risks plus steady demand can push Brent to mid-$90s.",
       "id": "d7be40de-ee0e-4220-a862-ca97d9323f22",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -148,7 +148,7 @@
       ],
       "rationale": "Growth concerns and policy divergence can pressure the yuan, nudging USD/CNH higher.",
       "id": "9ad7b2d8-45d8-45ad-9c48-faeee69502be",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "rationale": "Risk-on moves around easing inflation and crypto beta could lift ETH to test recent highs.",
       "id": "3a553a75-4d9b-4d0c-90d1-d0f1f25ae0b6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -190,7 +190,7 @@
       ],
       "rationale": "Energy market tightness and policy support can lift EU carbon prices toward late-summer highs.",
       "id": "234cd49c-b5c0-4c3c-bbcc-20799c947d4a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -211,7 +211,7 @@
       ],
       "rationale": "Regional escalation raises the likelihood of targeted U.S. sanctions on Hezbollah networks.",
       "id": "fec8ab09-a1e5-4e0d-afc9-afcdb09514e3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -232,7 +232,7 @@
       ],
       "rationale": "Falling real yields and strong precious metals sentiment can drive a breakout in silver.",
       "id": "7d4bc56e-d9c3-4903-a889-da0a61169194",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

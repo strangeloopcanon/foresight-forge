@@ -1,0 +1,288 @@
+{
+  "date": "2025-09-12",
+  "predictions": [
+    {
+      "text": "University of Michigan 5-year inflation expectations (prelim) for September 2025 will be between 2.8% and 3.1%, reported on 2025-09-13.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-09-13",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify using the University of Michigan Surveys of Consumers preliminary September 2025 release; the 5-year (long-run) inflation expectations series must be within [2.8%, 3.1%].",
+      "evidence": [
+        "US CPI rose 0.4% in August; sticky inflation keeps Fed cautious (BLS CPI 2025-09-11).",
+        "Tariffs filtering into prices add persistence to inflation pressures."
+      ],
+      "monitoring_signals": [
+        "Gasoline prices and weekly AAA averages",
+        "Market breakevens (5y5y forward, TIPS)",
+        "Consumer sentiment trend and prior UMich readings",
+        "Newsflow on tariffs and price pass-through"
+      ],
+      "rationale": "Sticky inflation and tariff pass-through anchor long-run expectations near 3%.",
+      "id": "2573d68c-d5b3-45a5-b574-9883c2bc30b8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Import Price Index excluding petroleum m/m for August 2025 will be at or above 0.2% in the BLS release on 2025-09-13.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-09-13",
+      "confidence_pct": 54,
+      "verification_criteria": "Use BLS Import/Export Price Indexes news release; confirm the Import Price Index excluding petroleum monthly percent change is >= +0.2%.",
+      "evidence": [
+        "Tariffs are slowly finding their way into consumer prices (CNBC, 2025-09-11).",
+        "Sticky inflation in August CPI suggests upstream price firmness."
+      ],
+      "monitoring_signals": [
+        "USD broad index (DXY) moves",
+        "Shipping/freight rate changes",
+        "Supplier delivery times and input cost PMIs",
+        "China PPI/export prices"
+      ],
+      "rationale": "Tariff effects and firm input costs likely lift non-petroleum import prices.",
+      "id": "e39c6f14-ee41-422d-a85c-87ba106b8808",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Retail Sales headline m/m for August 2025 will be between 0.1% and 0.5% in the Census release on 2025-09-17.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-09-17",
+      "confidence_pct": 55,
+      "verification_criteria": "Check U.S. Census Advance Monthly Retail Trade report for August 2025; the headline m/m percent change must fall within [0.1%, 0.5%].",
+      "evidence": [
+        "August CPI rose 0.4% m/m; nominal spending tends to track price gains.",
+        "Real average hourly earnings fell 0.1% in August, tempering real demand."
+      ],
+      "monitoring_signals": [
+        "High-frequency card data (BAC, JPM) and Redbook",
+        "Gasoline prices\u2019 contribution to nominal sales",
+        "Auto sales SAAR and dealer channel checks",
+        "Consumer confidence/sentiment indicators"
+      ],
+      "rationale": "Price gains support nominal sales, but real income softness caps upside.",
+      "id": "edc09018-445d-45a9-8349-27d86257aff0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PPI final demand less foods, energy, and trade services m/m for August 2025 will be between 0.2% and 0.5% in the BLS release on 2025-09-12.",
+      "category": "macro",
+      "horizon_days": 0,
+      "deadline": "2025-09-12",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify in BLS PPI news release that the 'final demand less foods, energy, and trade services' monthly change is within [0.2%, 0.5%].",
+      "evidence": [
+        "CPI details show sticky categories (shelter, health care) firming.",
+        "Tariff pass-through raises upstream pricing pressure."
+      ],
+      "monitoring_signals": [
+        "ISM/S&P Global PMI input price indices",
+        "Freight and trucking spot rates",
+        "Corporate guidance on cost inflation"
+      ],
+      "rationale": "Underlying producer price pressures remain firm amid sticky services and tariffs.",
+      "id": "81deef70-b7f8-49e3-bce9-14a6e12743ff",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At the September 17, 2025 FOMC, the SEP median projection for the federal funds rate at end-2026 will be between 3.0% and 3.5% (midpoint terms).",
+      "category": "rates",
+      "horizon_days": 5,
+      "deadline": "2025-09-17",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm in the Federal Reserve\u2019s Summary of Economic Projections (September 2025) that the median end-2026 federal funds rate (midpoint) falls within [3.0%, 3.5%].",
+      "evidence": [
+        "Sticky U.S. inflation keeps the Fed cautious on rate cuts.",
+        "Policy uncertainty around Fed independence may bias higher-for-longer signaling."
+      ],
+      "monitoring_signals": [
+        "Fed communications and blackout-period speeches",
+        "Market-implied terminal/2026 rates (OIS, Eurodollars/SOFR futures)",
+        "Inflation breakevens and real yields"
+      ],
+      "rationale": "Cautious path with disinflation progress implies a 3\u20133.5% 2026 median.",
+      "id": "5ef04bcb-ee27-4232-925d-9ad306adc928",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EUR/USD (Yahoo Finance: EURUSD=X) will close at or below 1.0600 on at least one trading day by 2025-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 49,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Use Yahoo Finance (EURUSD=X) daily close (UTC). Success if any close on or before 2025-10-31 is <= 1.0600.",
+      "evidence": [
+        "Sticky U.S. inflation and Fed caution support USD strength.",
+        "Euro area growth remains fragile relative to the U.S."
+      ],
+      "monitoring_signals": [
+        "Rate differentials (U.S.-EU 2y/10y spreads)",
+        "ECB guidance vs Fed path",
+        "Euro area PMIs and energy price shocks",
+        "DXY trend"
+      ],
+      "rationale": "Rate and growth differentials favor a firmer USD near term.",
+      "id": "4ddd3a62-bcf1-4bee-ac4a-3b197d7c5072",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Nasdaq-100 Index (^NDX) will close at or above 20,000 on at least one trading day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 49,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify via official Nasdaq closing value for the Nasdaq-100 (symbol ^NDX on Yahoo Finance). Success if any close on or before 2025-10-31 is >= 20,000.",
+      "evidence": [
+        "Renewed crypto/tech risk appetite (e.g., Gemini IPO).",
+        "AI and consolidation narratives (Paramount/Skydance-WBD bid) support mega-cap tech sentiment."
+      ],
+      "monitoring_signals": [
+        "Earnings revisions for mega-cap tech",
+        "Semiconductor order/lead-time data",
+        "Financial conditions and real yields",
+        "IPO pipeline performance"
+      ],
+      "rationale": "Risk appetite and AI tailwinds leave room for marginal new highs.",
+      "id": "c3275cc4-ebaf-4726-a9d8-fb5834a85c13",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "COMEX Copper front-month futures (HG) will settle at or above $4.20 per pound on at least one trading day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 49,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirm using CME Group official settlement for the COMEX HG front-month contract; success if any settlement >= $4.20/lb by 2025-10-31.",
+      "evidence": [
+        "Improved risk appetite alongside record gold suggests commodity bid.",
+        "Tariff and supply-chain frictions can underpin base metal prices."
+      ],
+      "monitoring_signals": [
+        "LME/SHFE inventories and canceled warrants",
+        "China construction/industrial PMIs",
+        "USD level and U.S. real yields",
+        "Mine disruption headlines"
+      ],
+      "rationale": "Tight inventories and risk-on tone could lift copper to $4.20+.",
+      "id": "860b2371-7906-4d3d-994d-75314dcd8d7a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "For the week ending 2025-09-19, EIA will report a U.S. working natural gas storage change between +70 and +95 Bcf in the Weekly Natural Gas Storage Report released on 2025-09-26.",
+      "category": "energy",
+      "horizon_days": 14,
+      "deadline": "2025-09-26",
+      "confidence_pct": 55,
+      "verification_criteria": "Use EIA Weekly Natural Gas Storage Report; success if the reported net change for week ending 2025-09-19 is within [+70, +95] Bcf.",
+      "evidence": [
+        "Seasonal shoulder-period injections typically persist into late September.",
+        "Recent temperatures moderate, easing power burn."
+      ],
+      "monitoring_signals": [
+        "Production (Lower 48 dry gas) and pipeline flows",
+        "NOAA HDD/CDD forecasts",
+        "Power burn vs industrial demand",
+        "Regional basis spreads and LNG feedgas flows"
+      ],
+      "rationale": "Seasonality and moderate demand favor a mid-curve injection pace.",
+      "id": "32523fe8-8270-48e6-b368-ac307722d475",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31 (UTC), NOAA SWPC will record at least one Kp index reading of 7 or higher.",
+      "category": "other",
+      "horizon_days": 49,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm via NOAA SWPC Kp index records/alerts; success if any Kp value >= 7 occurs on or before 2025-10-31 (UTC).",
+      "evidence": [
+        "Solar activity remains elevated; SWPC expects strong flares this cycle.",
+        "Recent prediction: X-class flare likelihood by end-October is elevated."
+      ],
+      "monitoring_signals": [
+        "Solar region complexity and CME frequency",
+        "SWPC 3-day geomagnetic forecasts",
+        "ACE/DSCOVR solar wind metrics"
+      ],
+      "rationale": "Solar maximum conditions raise odds of a G3-level geomagnetic event.",
+      "id": "16452089-37cf-4c62-adde-10feda29ee47",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "UK CPI core (ex food, energy, alcohol & tobacco) year-over-year for August 2025 will be between 2.8% and 3.2%, as reported by ONS on 2025-09-18.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-09-18",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify in ONS Consumer price inflation, UK: August 2025 release; core CPI (excluding food, energy, alcohol & tobacco) YoY must be within [2.8%, 3.2%].",
+      "evidence": [
+        "UK core inflation has trended lower through summer 2025.",
+        "Energy base effects and easing goods inflation continue to weigh on core."
+      ],
+      "monitoring_signals": [
+        "ONS prior month core CPI prints",
+        "UK services inflation and wage growth (AWE)",
+        "GBP moves and imported inflation",
+        "Retailer pricing surveys"
+      ],
+      "rationale": "Core disinflation continues but remains modestly above target.",
+      "id": "58af68c6-d68d-4036-9998-4af3fa96c704",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "On 2025-09-18, the Bank of England will cut Bank Rate by 25 basis points.",
+      "category": "rates",
+      "horizon_days": 6,
+      "deadline": "2025-09-18",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirm via Bank of England Monetary Policy Summary (2025-09-18) that the MPC reduces Bank Rate by 0.25 percentage points.",
+      "evidence": [
+        "UK core inflation moderating and growth headwinds argue for gradual easing.",
+        "Global central banks signaling cautious normalization as inflation cools."
+      ],
+      "monitoring_signals": [
+        "Market-implied BOE path (SONIA futures)",
+        "UK wage growth and services CPI",
+        "MPC member commentary and vote splits",
+        "GBP reaction and financial conditions"
+      ],
+      "rationale": "Cooling inflation and softer growth likely prompt a cautious 25 bp cut.",
+      "id": "4961f971-2bee-4c4d-ae8d-7bbb7267484c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Shanghai\u2013Rotterdam weekly spot rate published on or before 2025-09-26 will be at least 10% higher than the 2025-08-29 reading.",
+      "category": "markets",
+      "horizon_days": 14,
+      "deadline": "2025-09-26",
+      "confidence_pct": 56,
+      "verification_criteria": "Compare Drewry WCI Shanghai\u2013Rotterdam spot rate on/before 2025-09-26 to the 2025-08-29 value; success if increase >= 10%.",
+      "evidence": [
+        "Logistics costs sensitive to geopolitical and tariff developments.",
+        "Recent market chatter indicates tightening capacity and higher bunker costs."
+      ],
+      "monitoring_signals": [
+        "Blank sailings and carrier capacity announcements",
+        "Port congestion indicators",
+        "Bunker fuel prices (VLSFO)",
+        "Suez/Red Sea routing disruptions"
+      ],
+      "rationale": "Tightening capacity and risk premia likely lift Trans-Europe spot rates.",
+      "id": "1fc57160-f534-497c-b52a-b1f89a49b2fb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "date": "2025-09-11",
+  "assessments": [
+    {
+      "id": "f463eaf4-8875-434f-9f88-d8873cad3742",
+      "status": "pending",
+      "status_rationale": "No Eurostat flash HICP for September 2025 has been released yet; release due 2025-09-30. Today's articles focus on U.S. CPI, not euro area inflation."
+    },
+    {
+      "id": "1843978e-7a1c-4096-ad46-2acdfad2efbc",
+      "status": "pending",
+      "status_rationale": "The University of Michigan prelim inflation expectations for September 2025 are scheduled for 2025-09-13; no result reported in today's news."
+    },
+    {
+      "id": "a90ce14b-be00-41d4-93f6-6e35d96fba7d",
+      "status": "pending",
+      "status_rationale": "Though headlines mention a record day for indexes, there is no confirmation that the S&P 500 closed at or above 5650; the deadline is 2025-10-15."
+    },
+    {
+      "id": "a446affe-7026-41ba-97f8-70b3fd5add50",
+      "status": "pending",
+      "status_rationale": "No evidence provided about VIX futures term structure or two consecutive days of backwardation. Deadline 2025-10-31."
+    },
+    {
+      "id": "5e33ef89-9ea5-4373-ac91-e0d53f937718",
+      "status": "pending",
+      "status_rationale": "No data on the U.S. 2y/10y Treasury spread reaching 0.00% or higher. Deadline 2025-10-31."
+    },
+    {
+      "id": "d7be40de-ee0e-4220-a862-ca97d9323f22",
+      "status": "pending",
+      "status_rationale": "No Brent front-month settlement levels cited; threshold $96 not referenced. Deadline 2025-11-30."
+    },
+    {
+      "id": "9ad7b2d8-45d8-45ad-9c48-faeee69502be",
+      "status": "pending",
+      "status_rationale": "No USD/CNH closing levels mentioned; threshold 7.50 not referenced. Deadline 2025-11-30."
+    },
+    {
+      "id": "3a553a75-4d9b-4d0c-90d1-d0f1f25ae0b6",
+      "status": "pending",
+      "status_rationale": "Crypto news (Gemini IPO) does not provide ETH price levels; no confirmation of $3,300 breach. Deadline 2025-10-31."
+    },
+    {
+      "id": "234cd49c-b5c0-4c3c-bbcc-20799c947d4a",
+      "status": "pending",
+      "status_rationale": "No reporting on EU ETS EUA Dec-2025 settlement prices; \u20ac67 threshold unverified. Deadline 2025-10-31."
+    },
+    {
+      "id": "fec8ab09-a1e5-4e0d-afc9-afcdb09514e3",
+      "status": "pending",
+      "status_rationale": "No OFAC action today explicitly naming Hezbollah; only UN Security Council criticism noted. Deadline 2025-10-31."
+    },
+    {
+      "id": "7d4bc56e-d9c3-4903-a889-da0a61169194",
+      "status": "pending",
+      "status_rationale": "No LBMA Silver PM fixing cited; $35 threshold not referenced. Deadline 2025-10-31."
+    }
+  ]
+}

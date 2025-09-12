@@ -496,3 +496,11 @@ Market headlines highlight a dramatic Oracle rally on 9/10, which sets a high st
 
 ---
 
+
+## 2025-09-11
+
+None of yesterday’s tracked forecasts were resolved by today’s headlines. The only imminent datapoint, University of Michigan’s prelim 1-year inflation expectations for September, is due tomorrow. U.S. CPI coverage suggests sticky inflation that may keep the Fed cautious on cuts, and separate reporting notes tariffs filtering into consumer prices—both relevant to near-term inflation sentiment but not dispositive for any forecast yet.
+Broader market and geopolitical news could influence several open calls: equity strength after a record day bears on the S&P 500 threshold; policy uncertainty around the Fed leadership and legal challenges could affect rates, the curve, and volatility; Middle East developments could shape oil prices and the odds of OFAC actions related to Hezbollah. Crypto-centric IPO headlines point to supportive risk appetite but provide no direct confirmation of ETH price levels. For now, all items remain pending awaiting concrete releases or price/settlement evidence.
+
+---
+
