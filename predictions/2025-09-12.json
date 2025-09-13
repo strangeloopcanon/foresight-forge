@@ -20,7 +20,7 @@
       ],
       "rationale": "Sticky inflation and tariff pass-through anchor long-run expectations near 3%.",
       "id": "2573d68c-d5b3-45a5-b574-9883c2bc30b8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Tariff effects and firm input costs likely lift non-petroleum import prices.",
       "id": "e39c6f14-ee41-422d-a85c-87ba106b8808",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Price gains support nominal sales, but real income softness caps upside.",
       "id": "edc09018-445d-45a9-8349-27d86257aff0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "Underlying producer price pressures remain firm amid sticky services and tariffs.",
       "id": "81deef70-b7f8-49e3-bce9-14a6e12743ff",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "rationale": "Cautious path with disinflation progress implies a 3\u20133.5% 2026 median.",
       "id": "5ef04bcb-ee27-4232-925d-9ad306adc928",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -128,7 +128,7 @@
       ],
       "rationale": "Rate and growth differentials favor a firmer USD near term.",
       "id": "4ddd3a62-bcf1-4bee-ac4a-3b197d7c5072",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -150,7 +150,7 @@
       ],
       "rationale": "Risk appetite and AI tailwinds leave room for marginal new highs.",
       "id": "c3275cc4-ebaf-4726-a9d8-fb5834a85c13",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -172,7 +172,7 @@
       ],
       "rationale": "Tight inventories and risk-on tone could lift copper to $4.20+.",
       "id": "860b2371-7906-4d3d-994d-75314dcd8d7a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -194,7 +194,7 @@
       ],
       "rationale": "Seasonality and moderate demand favor a mid-curve injection pace.",
       "id": "32523fe8-8270-48e6-b368-ac307722d475",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -215,7 +215,7 @@
       ],
       "rationale": "Solar maximum conditions raise odds of a G3-level geomagnetic event.",
       "id": "16452089-37cf-4c62-adde-10feda29ee47",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -237,7 +237,7 @@
       ],
       "rationale": "Core disinflation continues but remains modestly above target.",
       "id": "58af68c6-d68d-4036-9998-4af3fa96c704",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -259,7 +259,7 @@
       ],
       "rationale": "Cooling inflation and softer growth likely prompt a cautious 25 bp cut.",
       "id": "4961f971-2bee-4c4d-ae8d-7bbb7267484c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -281,7 +281,7 @@
       ],
       "rationale": "Tightening capacity and risk premia likely lift Trans-Europe spot rates.",
       "id": "1fc57160-f534-497c-b52a-b1f89a49b2fb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

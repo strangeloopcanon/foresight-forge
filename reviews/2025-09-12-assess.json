@@ -1,0 +1,70 @@
+{
+  "date": "2025-09-12",
+  "assessments": [
+    {
+      "id": "2573d68c-d5b3-45a5-b574-9883c2bc30b8",
+      "status": "pending",
+      "status_rationale": "No coverage of University of Michigan 5-year inflation expectations in the provided news; awaiting the official preliminary release for September 2025."
+    },
+    {
+      "id": "e39c6f14-ee41-422d-a85c-87ba106b8808",
+      "status": "pending",
+      "status_rationale": "No mention of the BLS Import Price Index excluding petroleum in the provided news; outcome cannot be verified."
+    },
+    {
+      "id": "edc09018-445d-45a9-8349-27d86257aff0",
+      "status": "pending",
+      "status_rationale": "Release is scheduled for 2025-09-17; no early read or leak indicated in the news."
+    },
+    {
+      "id": "81deef70-b7f8-49e3-bce9-14a6e12743ff",
+      "status": "pending",
+      "status_rationale": "No data on PPI final demand less foods, energy, and trade services appears in the news; cannot confirm the August print from the 2025-09-12 release."
+    },
+    {
+      "id": "5ef04bcb-ee27-4232-925d-9ad306adc928",
+      "status": "pending",
+      "status_rationale": "FOMC SEP projections will be released on 2025-09-17; nothing in the news confirms the 2026 median rate."
+    },
+    {
+      "id": "4ddd3a62-bcf1-4bee-ac4a-3b197d7c5072",
+      "status": "pending",
+      "status_rationale": "No evidence provided on EUR USD closing levels; deadline remains in the future."
+    },
+    {
+      "id": "c3275cc4-ebaf-4726-a9d8-fb5834a85c13",
+      "status": "pending",
+      "status_rationale": "No confirmation that Nasdaq-100 has closed at or above 20,000; articles reference S and P 500 broadly but not this specific threshold."
+    },
+    {
+      "id": "860b2371-7906-4d3d-994d-75314dcd8d7a",
+      "status": "pending",
+      "status_rationale": "No mention of COMEX copper settlement prices; deadline remains in the future."
+    },
+    {
+      "id": "32523fe8-8270-48e6-b368-ac307722d475",
+      "status": "pending",
+      "status_rationale": "EIA storage data for the week ending 2025-09-19 will be released on 2025-09-26; too early to assess."
+    },
+    {
+      "id": "16452089-37cf-4c62-adde-10feda29ee47",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC Kp index readings are referenced; horizon remains open through 2025-10-31."
+    },
+    {
+      "id": "58af68c6-d68d-4036-9998-4af3fa96c704",
+      "status": "pending",
+      "status_rationale": "UK core CPI for August 2025 will be reported on 2025-09-18; no early read in the news."
+    },
+    {
+      "id": "4961f971-2bee-4c4d-ae8d-7bbb7267484c",
+      "status": "pending",
+      "status_rationale": "Bank of England decision is scheduled for 2025-09-18; no confirmed action yet."
+    },
+    {
+      "id": "1fc57160-f534-497c-b52a-b1f89a49b2fb",
+      "status": "pending",
+      "status_rationale": "No update on Drewry Shanghai to Rotterdam spot rates in the provided news; outcome remains unresolved."
+    }
+  ]
+}

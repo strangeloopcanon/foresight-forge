@@ -504,3 +504,12 @@ Broader market and geopolitical news could influence several open calls: equity 
 
 ---
 
+
+## 2025-09-12
+
+The provided news flow is dominated by political events, corporate headlines, and market color, but it does not include concrete economic data prints needed to verify the time-sensitive macro predictions. Specifically, there is no direct reporting on University of Michigan inflation expectations, Import Prices ex petroleum, or the detailed PPI core measure released on September 12, so none of these can be graded from the available sources.
+
+Looking ahead, several forecasts hinge on upcoming catalysts in the next week, including US Retail Sales and the September FOMC with the SEP, as well as the Bank of England decision and UK CPI. Market commentary suggests elevated focus on rates and equities, but without quantified data points relevant to these forecasts. As such, all items remain pending until official releases or clear reporting emerge.
+
+---
+

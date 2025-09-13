@@ -1,0 +1,220 @@
+{
+  "date": "2025-09-13",
+  "predictions": [
+    {
+      "text": "At the September 17, 2025 FOMC, the SEP median longer-run federal funds rate will be 2.8%.",
+      "category": "rates",
+      "horizon_days": 4,
+      "deadline": "2025-09-17",
+      "confidence_pct": 62,
+      "log_odds": 0.49,
+      "verification_criteria": "Confirm the 'longer-run' median projection equals 2.8% (midpoint terms) in the Federal Reserve's Summary of Economic Projections tables released on 2025-09-17.",
+      "evidence": [
+        "https://www.marketwatch.com/story/as-fed-nears-highly-anticipated-rate-cut-the-market-really-hinges-on-10-year-treasury-yield-a7509df4?mod=mw_rss_topstories",
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+      ],
+      "monitoring_signals": [
+        "Embargoed press reports detailing SEP tables",
+        "Primary dealer/WSJ previews of the longer-run dot",
+        "Fed press conference Q&A on r* and longer-run dot"
+      ],
+      "rationale": "The longer-run dot has been stable recently and communications suggest no near-term reassessment of neutral.",
+      "id": "2930c808-7989-465c-914d-b1417cd075fc",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Industrial Production m/m (seasonally adjusted) for August 2025 will be between -0.3% and 0.2% in the Board of Governors G.17 release on 2025-09-17.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-09-17",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Use the 'Industrial Production and Capacity Utilization (G.17)' total industrial production month-over-month percent change as published by the Federal Reserve on 2025-09-17.",
+      "evidence": [
+        "https://www.marketwatch.com/story/as-fed-nears-highly-anticipated-rate-cut-the-market-really-hinges-on-10-year-treasury-yield-a7509df4?mod=mw_rss_topstories",
+        "https://www.federalreserve.gov/releases/g17/"
+      ],
+      "monitoring_signals": [
+        "ISM Manufacturing PMI and production subindex for August",
+        "Regional Fed factory surveys (Empire, Philly, Richmond)",
+        "Utility output proxies (cooling degree days), auto assemblies"
+      ],
+      "rationale": "Mixed factory surveys and auto production suggest a flat-to-soft print.",
+      "id": "ec78a5ec-df38-419c-9587-da3a2cd0f36d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/MXN (Yahoo Finance: MXN=X) will close at or above 19.00 on at least one trading day by 2025-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 48,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Any daily 'Close' on Yahoo Finance for MXN=X at or above 19.00 before or on 2025-10-31 (UTC).",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/12/china-mexico-tariff-hike-countermeasures.html"
+      ],
+      "monitoring_signals": [
+        "Mexico tariff announcements in Diario Oficial",
+        "Banxico guidance and U.S. yields",
+        "EM FX risk sentiment (DXY, VIX)"
+      ],
+      "rationale": "Escalating China\u2013Mexico trade friction and potential Fed cuts volatility can pressure MXN.",
+      "id": "65c8b823-b35f-4f5c-b0c1-102874aa74f5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, either Joby Aviation or Archer Aviation will publicly announce completion of at least one passenger-carrying flight in the U.S. conducted under the FAA\u2019s limited pre-certification eVTOL operations program.",
+      "category": "tech",
+      "horizon_days": 48,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "Official FAA communication or company press release stating a passenger-carrying flight occurred under the FAA limited operations program before or on 2025-10-31.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/12/joby-archer-evtol-testing-faa.html"
+      ],
+      "monitoring_signals": [
+        "FAA program updates and advisory circulars",
+        "Joby and Archer IR/press pages",
+        "Local NOTAMs and media coverage near test sites"
+      ],
+      "rationale": "FAA opened a pathway and both firms are program participants, accelerating real-world demos.",
+      "id": "11e6efe6-af5d-4262-aa25-76e74e85a120",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, OFAC will announce at least one sanctions designation of a Mexico-based individual or entity under the Kingpin Act (SDNT/SDNTK).",
+      "category": "geopolitics",
+      "horizon_days": 48,
+      "deadline": "2025-10-31",
+      "confidence_pct": 62,
+      "log_odds": 0.49,
+      "verification_criteria": "An OFAC press release or SDN List update adding at least one Mexico-based individual/entity with program tag SDNT or SDNTK by 2025-10-31.",
+      "evidence": [
+        "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions"
+      ],
+      "monitoring_signals": [
+        "Weekly OFAC updates and FinCEN advisories",
+        "DEA/DOJ enforcement announcements",
+        "Regional security developments in Mexico"
+      ],
+      "rationale": "OFAC routinely updates Kingpin designations; regional dynamics increase likelihood of additions.",
+      "id": "780a0544-b4bd-4b9a-83e7-3cd5578bd02e",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "ICE Endex Dutch TTF Natural Gas front-month futures will settle at or above \u20ac45.00 per MWh on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 78,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Use ICE Endex official daily settlement for the front-month TTF contract; any settlement \u2265 \u20ac45.00/MWh by 2025-11-30 counts.",
+      "evidence": [
+        "Seasonal winter risk and storage draw potential",
+        "Recent volatility in European gas benchmarks"
+      ],
+      "monitoring_signals": [
+        "Dutch TTF futures curve and spreads",
+        "Norwegian maintenance, LNG send-out, and weather forecasts",
+        "Geopolitical risks affecting European supply"
+      ],
+      "rationale": "Seasonal demand, maintenance, and supply risks can briefly lift front-month settlements.",
+      "id": "14f2544e-690f-4e72-bd01-9f78675927bf",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-13 close to 2025-10-31 close, Tesla (TSLA) will underperform SPDR S&P 500 ETF (SPY) by at least 5.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 48,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Compute pct change for TSLA and SPY using Yahoo Finance adjusted close from 2025-09-13 to 2025-10-31; TSLA return minus SPY return \u2264 -5.0 pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/12/stellantis-ram-ev-1500-pickup-truck.html"
+      ],
+      "monitoring_signals": [
+        "Monthly EV sales/registration data",
+        "Price cuts or margin guidance from Tesla",
+        "Auto credit conditions and rates"
+      ],
+      "rationale": "Signals of cooling EV demand and pricing pressure weigh on high-beta auto tech.",
+      "id": "76772c30-8b72-4c77-bfef-bf2ffd8999cd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. national average regular gasoline price (AAA) will reach at or above $3.90 per gallon on at least one day by 2025-10-15.",
+      "category": "energy",
+      "horizon_days": 32,
+      "deadline": "2025-10-15",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "AAA Gas Prices daily national average for regular unleaded shows \u2265 $3.90/gal on any date on or before 2025-10-15.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "Seasonal refinery maintenance and strong crude benchmarks"
+      ],
+      "monitoring_signals": [
+        "NYMEX RBOB futures and crack spreads",
+        "Gulf Coast refinery utilization/outages",
+        "EIA gasoline inventory and demand data"
+      ],
+      "rationale": "Refinery maintenance and firm crude products markets can lift retail averages into late driving season.",
+      "id": "aebac1f6-c5b3-461d-958d-a69425f6cee8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "UK CPI headline year-over-year for August 2025 will be between 2.8% and 3.2%, as reported by ONS on 2025-09-18.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-09-18",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Use the ONS Consumer price inflation statistical bulletin for August 2025; confirm the CPI (headline) 12-month rate falls within 2.8%\u20133.2%.",
+      "evidence": [
+        "https://www.ons.gov.uk/economy/inflationandpriceindices",
+        "Energy base effects and services disinflation trends"
+      ],
+      "monitoring_signals": [
+        "ONS microdata previews via analysts",
+        "Energy and food price trackers",
+        "GBP moves and rate expectations into the print"
+      ],
+      "rationale": "Ongoing disinflation with volatile energy and food likely keeps headline near 3%.",
+      "id": "3d41b290-f049-4425-a4c4-061f2276db6b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Boeing defense workers strike will still be ongoing on 2025-09-30 (no ratified agreement announced by that date).",
+      "category": "markets",
+      "horizon_days": 17,
+      "deadline": "2025-09-30",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "As of 2025-09-30 23:59 U.S. Eastern, no official union or Boeing announcement of a ratified contract ending the strike.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/12/boeing-contract-defense-workers-strike.html"
+      ],
+      "monitoring_signals": [
+        "Union local updates and vote schedules",
+        "Boeing press releases and WARN notices",
+        "Mediation status and federal involvement"
+      ],
+      "rationale": "Initial rejection suggests gaps remain; defense program schedules reduce bargaining flexibility, prolonging talks.",
+      "id": "7b5243d3-0dd3-4059-bafa-3cd58f92a68c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
