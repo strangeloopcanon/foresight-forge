@@ -1,0 +1,115 @@
+{
+  "bullets": [
+    {
+      "text": "Stock market\u2019s relentless rally threatens melt-up; investors weigh sustainability ahead of Fed meeting.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/stock-markets-relentless-rally-threatens-to-turn-into-a-melt-up-whats-next-f4dac854?mod=mw_rss_topstories"
+    },
+    {
+      "text": "OpenAI\u2019s spending spree boosts enterprise tech demand; Oracle emerges as latest beneficiary of AI infrastructure build-out.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/13/openai-spending-spree-powering-much-of-tech-oracle-latest-example.html"
+    },
+    {
+      "text": "Chinese EV makers intensify competition in Europe, pressuring legacy automakers on pricing, speed, and technology.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/09/13/chinese-ev-firms-take-fight-to-european-automakers-on-their-home-turf.html"
+    },
+    {
+      "text": "Charts show consumer costs climbed across categories since Trump\u2019s tariffs, underscoring inflationary impact of trade barriers.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/13/charts-how-much-costs-have-risen-since-trump-tariffs-went-into-effect.html"
+    },
+    {
+      "text": "Trump signals willingness for major Russia sanctions if NATO aligns, raising risks for energy markets and trade.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/13/trump-russia-nato-putin-trade-sanctions-.html"
+    },
+    {
+      "text": "Panama Canal unveils megaproject plans to withstand future droughts, protecting global shipping capacity amid climate volatility.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/13/panama-canal-drought-el-nino-climate-change-shipping-trade.html"
+    },
+    {
+      "text": "Judge rules mass firing of probationary federal employees illegal, curbing executive branch efforts to rapidly reshape workforce.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/09/13/us/politics/probationary-employees-firing-illegal.html"
+    },
+    {
+      "text": "Fed Governor Lisa Cook\u2019s mortgage records list Atlanta property as vacation home, undercutting claims challenging her residency and eligibility.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/fed-governor-cook-declared-2nd-residence-as-vacation-home-undermining-trumps-claims-00369716?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Quantum advances: Google creates exotic state; new teleportation methods promise scalable quantum networks and computing breakthroughs.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250912195122.htm"
+    },
+    {
+      "text": "Johns Hopkins discovery could enable microchips smaller than ever, improving performance and energy efficiency in future electronics.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250912195126.htm"
+    },
+    {
+      "text": "NASA Perseverance finds signs of ancient Martian chemistry compatible with life, strengthening case for past habitability.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250912195114.htm"
+    },
+    {
+      "text": "Arctic \u201corange rivers\u201d indicate heavy-metal mobilization from thawing permafrost, signaling accelerating ecological risks.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://news.ucr.edu/articles/2025/09/08/orange-rivers-signal-toxic-shift-arctic-wilderness"
+    },
+    {
+      "text": "Brazil upholds Bolsonaro conviction despite Trump pressure, highlighting judicial independence and potential political instability ahead.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/13/world/americas/brazil-trump-bolsonaro.html"
+    },
+    {
+      "text": "AI safety bill SB 53 passes California legislature; veto threat looms, shaping AI compliance landscape.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/"
+    }
+  ]
+}

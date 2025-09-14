@@ -20,7 +20,7 @@
       ],
       "rationale": "The longer-run dot has been stable recently and communications suggest no near-term reassessment of neutral.",
       "id": "2930c808-7989-465c-914d-b1417cd075fc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Mixed factory surveys and auto production suggest a flat-to-soft print.",
       "id": "ec78a5ec-df38-419c-9587-da3a2cd0f36d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Escalating China\u2013Mexico trade friction and potential Fed cuts volatility can pressure MXN.",
       "id": "65c8b823-b35f-4f5c-b0c1-102874aa74f5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "FAA opened a pathway and both firms are program participants, accelerating real-world demos.",
       "id": "11e6efe6-af5d-4262-aa25-76e74e85a120",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "OFAC routinely updates Kingpin designations; regional dynamics increase likelihood of additions.",
       "id": "780a0544-b4bd-4b9a-83e7-3cd5578bd02e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rationale": "Seasonal demand, maintenance, and supply risks can briefly lift front-month settlements.",
       "id": "14f2544e-690f-4e72-bd01-9f78675927bf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -148,7 +148,7 @@
       ],
       "rationale": "Signals of cooling EV demand and pricing pressure weigh on high-beta auto tech.",
       "id": "76772c30-8b72-4c77-bfef-bf2ffd8999cd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -170,7 +170,7 @@
       ],
       "rationale": "Refinery maintenance and firm crude products markets can lift retail averages into late driving season.",
       "id": "aebac1f6-c5b3-461d-958d-a69425f6cee8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -192,7 +192,7 @@
       ],
       "rationale": "Ongoing disinflation with volatile energy and food likely keeps headline near 3%.",
       "id": "3d41b290-f049-4425-a4c4-061f2276db6b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -213,7 +213,7 @@
       ],
       "rationale": "Initial rejection suggests gaps remain; defense program schedules reduce bargaining flexibility, prolonging talks.",
       "id": "7b5243d3-0dd3-4059-bafa-3cd58f92a68c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

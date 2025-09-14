@@ -1,0 +1,269 @@
+{
+  "date": "2025-09-14",
+  "predictions": [
+    {
+      "text": "U.S. PCE price index excluding food and energy (core) year-over-year for August 2025 will be between 2.6% and 2.9%, as reported by BEA on 2025-09-27.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-09-27",
+      "confidence_pct": 58,
+      "verification_criteria": "BEA Personal Income and Outlays release dated 2025-09-27; confirm the core PCE YoY rate is within [2.6%, 2.9%].",
+      "evidence": [
+        "https://www.bea.gov/news/schedule",
+        "https://fred.stlouisfed.org/series/PCEPILFE",
+        "https://fred.stlouisfed.org/series/CPILFESL"
+      ],
+      "monitoring_signals": [
+        "August CPI and PPI details (shelter, core goods)",
+        "High-frequency credit/debit card and retail data",
+        "Nowcasts from regional Feds and private forecasters"
+      ],
+      "rationale": "Core PCE typically runs ~40\u201350 bps below core CPI; August CPI core moderation and softer goods prices point to high-2% YoY.",
+      "id": "b3a2e964-023d-47cf-8487-b26c0ac25601",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing PMI for September 2025 will print between 47.0 and 49.5 in the 2025-10-01 release.",
+      "category": "macro",
+      "horizon_days": 17,
+      "deadline": "2025-10-01",
+      "confidence_pct": 56,
+      "verification_criteria": "Institute for Supply Management report on 2025-10-01; headline PMI within [47.0, 49.5].",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/",
+        "https://www.spglobal.com/marketintelligence/en/pmis",
+        "https://www.philadelphiafed.org/surveys-and-data/regional-economic-analysis/manufacturing-business-outlook-survey"
+      ],
+      "monitoring_signals": [
+        "S&P Global US Manufacturing PMI flash/final",
+        "Regional Fed surveys (Empire, Philly, Richmond, Dallas)",
+        "New orders vs inventories spread, export orders"
+      ],
+      "rationale": "Manufacturing remains in mild contraction; orders/inventories balance suggests subdued momentum despite easing input costs.",
+      "id": "d39b9178-5bd7-412f-9194-43d2a1eef54f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Freddie Mac Primary Mortgage Market Survey 30-year fixed mortgage rate will be at or below 6.40% in at least one weekly reading released by 2025-10-31.",
+      "category": "rates",
+      "horizon_days": 47,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Weekly PMMS publication by Freddie Mac; any reading through 2025-10-31 shows 30-year fixed <= 6.40%.",
+      "evidence": [
+        "https://www.freddiemac.com/pmms",
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.freddiemac.com/research/insight"
+      ],
+      "monitoring_signals": [
+        "10-year Treasury yield and term premium",
+        "Agency MBS spreads and mortgage application trends",
+        "FOMC communications and economic data surprises"
+      ],
+      "rationale": "Falling yields post-Fed cut and easing inflation should pull mortgage rates lower, even with sticky MBS spreads.",
+      "id": "f495bc76-420a-454e-b578-1395b093e538",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-15 close to 2025-10-31 close, NVIDIA (NVDA) will underperform the Nasdaq-100 Index (^NDX) by at least 5.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 47,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Compare percentage change in adjusted close from 2025-09-15 to 2025-10-31 for NVDA and ^NDX on Yahoo Finance; NVDA performance minus ^NDX <= -5.0 pp.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/NVDA/history",
+        "https://finance.yahoo.com/quote/%5ENDX/history",
+        "https://www.cnbc.com/2025/09/13/openai-spending-spree-powering-much-of-tech-oracle-latest-example.html"
+      ],
+      "monitoring_signals": [
+        "Semiconductor order/inventory updates and export controls",
+        "AI capex commentary from hyperscalers and enterprises",
+        "Factor rotations (momentum vs value/defensives)"
+      ],
+      "rationale": "Positioning and valuation are extended; rotation within AI beneficiaries and supply constraints risk near-term relative mean reversion.",
+      "id": "edfd8fa6-0e9c-4486-bf45-e41e52c5b84d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-14, California Governor Gavin Newsom will veto AI safety bill SB 53 (or return it without signature), as recorded on the California Legislative Information site.",
+      "category": "tech",
+      "horizon_days": 30,
+      "deadline": "2025-10-14",
+      "confidence_pct": 56,
+      "verification_criteria": "Bill status on leginfo.legislature.ca.gov shows VETOED or returned without signature for SB 53 by 2025-10-14.",
+      "evidence": [
+        "https://techcrunch.com/2025/09/13/california-lawmakers-pass-ai-safety-bill-sb-53-but-newsom-could-still-veto/",
+        "https://leginfo.legislature.ca.gov/",
+        "https://www.gov.ca.gov/newsroom/"
+      ],
+      "monitoring_signals": [
+        "Governor\u2019s public statements and industry lobbying",
+        "Amendment negotiations and stakeholder letters",
+        "Staff policy memos or trailer bill activity"
+      ],
+      "rationale": "Newsom has signaled veto concerns over implementation and innovation impacts, and similar tech bills have faced gubernatorial pushback.",
+      "id": "34952ee4-212a-4e33-964e-25bee8b9c8f9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. national average diesel price (AAA) will reach at or above $4.25 per gallon on at least one day by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 47,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "AAA daily national average diesel price series shows any reading >= $4.25/gal by 2025-10-31.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.eia.gov/petroleum/gasdiesel/",
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "ULSD futures and cracks, refinery maintenance schedules",
+        "Brent crude prices and Middle East risk premia",
+        "EIA distillate inventories and freight demand"
+      ],
+      "rationale": "Refinery maintenance, tight distillate stocks, and geopolitical risks elevate diesel price spikes into autumn.",
+      "id": "36da030c-7db7-403e-896d-a5e7e7c6f30f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EUR/GBP (Yahoo Finance: EURGBP=X) will close at or above 0.8600 on at least one trading day by 2025-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 47,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Yahoo Finance daily historical data for EURGBP=X shows a daily close >= 0.8600 by 2025-10-31 (UTC).",
+      "evidence": [
+        "https://finance.yahoo.com/quote/EURGBP%3DX/history",
+        "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes",
+        "https://www.ecb.europa.eu/press/govcdec/mopo/html/index.en.html"
+      ],
+      "monitoring_signals": [
+        "BoE rate decisions and guidance",
+        "Eurozone data surprises vs UK data surprises",
+        "Risk sentiment and carry positioning shifts"
+      ],
+      "rationale": "A BoE cut and softer UK growth backdrop could weaken GBP versus EUR near term.",
+      "id": "0d0428fb-c169-4864-aa95-7afc7dd20d8d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area HICP core (excluding energy and unprocessed food) flash estimate year-over-year for September 2025 will be between 2.6% and 2.9%, per Eurostat release on 2025-09-30.",
+      "category": "macro",
+      "horizon_days": 16,
+      "deadline": "2025-09-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Eurostat HICP flash press release on 2025-09-30 shows core (ex energy and unprocessed food) YoY within [2.6%, 2.9%].",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/news/release-calendar",
+        "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Inflation_in_the_euro_area",
+        "https://www.ecb.europa.eu/press/blog/date/2025/html/index.en.html"
+      ],
+      "monitoring_signals": [
+        "Country CPI prints (DE, FR, ES, IT) ahead of flash",
+        "Energy base effects and services momentum",
+        "Wage growth indicators and PMI price components"
+      ],
+      "rationale": "Core disinflation continues on goods; services remain sticky but easing with slower wage momentum.",
+      "id": "73e1a9c7-1dce-499e-b839-f17a5856a5bb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, OFAC will announce at least one sanctions designation under its North Korea-related program (DPRK), via public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 47,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Treasury press release or SDN list update explicitly citing the DPRK program or E.O. authorities related to North Korea posted by 2025-10-31.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/north-korea-sanctions",
+        "https://www.state.gov/reports/arms-transfers-to-and-from-the-dprk/"
+      ],
+      "monitoring_signals": [
+        "DPRK missile tests and satellite launches",
+        "Reporting on DPRK\u2013Russia arms transfers",
+        "UN Panel of Experts findings and advisories"
+      ],
+      "rationale": "Persistent DPRK provocations and sanctions evasion networks make additional U.S. designations likely in the near term.",
+      "id": "77476b97-830e-4c30-8f27-2c42d3fb8369",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Shanghai\u2013Los Angeles weekly spot rate published on or before 2025-10-31 will be at least 15% higher than the 2025-09-05 reading.",
+      "category": "markets",
+      "horizon_days": 47,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Compare Drewry WCI Shanghai\u2013Los Angeles rate in any weekly release through 2025-10-31 to the 2025-09-05 value; increase >= 15%.",
+      "evidence": [
+        "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+        "https://www.cnbc.com/2025/09/13/panama-canal-drought-el-nino-climate-change-shipping-trade.html",
+        "https://www.drewry.co.uk/maritime-research-opinion-browser"
+      ],
+      "monitoring_signals": [
+        "Carrier GRI/blank sailing announcements",
+        "Panama Canal and Red Sea routing updates",
+        "U.S. import demand and retailer inventory data"
+      ],
+      "rationale": "Peak-season demand, routing disruptions, and canal constraints support higher Transpacific spot rates.",
+      "id": "c2b2a1a2-274b-466f-8762-54483aaa598c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Copernicus ERA5 global surface air temperature for October 2025 will rank within the top 3 warmest Octobers on record, per the C3S monthly Climate Bulletin released by 2025-11-10.",
+      "category": "other",
+      "horizon_days": 57,
+      "deadline": "2025-11-10",
+      "confidence_pct": 59,
+      "verification_criteria": "C3S monthly climate bulletin published by 2025-11-10 shows October 2025 global ERA5 temperature ranked 1st\u20133rd among Octobers.",
+      "evidence": [
+        "https://climate.copernicus.eu/monthly-climate-bulletins",
+        "https://climate.copernicus.eu/surface-air-temperature",
+        "https://www.ecmwf.int/en/forecasts/charts/catalogue"
+      ],
+      "monitoring_signals": [
+        "ERA5 daily anomalies trackers",
+        "ENSO updates and ocean heat content",
+        "Regional heatwave frequency and persistence"
+      ],
+      "rationale": "Baseline warmth remains elevated; oceanic heat and persistent anomalies make another top-tier monthly ranking probable.",
+      "id": "201d73bc-9b70-41cf-8abe-e30d4171ea26",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. insured unemployment (continuing claims, seasonally adjusted) will be at or above 1.92 million in at least one weekly reading reported by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 47,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "U.S. Department of Labor weekly Unemployment Insurance Weekly Claims news release shows SA continuing claims >= 1,920,000 in any report through 2025-10-31.",
+      "evidence": [
+        "https://www.dol.gov/ui/data.pdf",
+        "https://www.dol.gov/ui",
+        "https://fred.stlouisfed.org/series/CCSA"
+      ],
+      "monitoring_signals": [
+        "Initial claims trend and seasonal factors",
+        "Layoff announcements (Challenger report)",
+        "Job openings and hiring rates (JOLTS)"
+      ],
+      "rationale": "Gradual labor market cooling and rising separations should lift continuing claims modestly into early Q4.",
+      "id": "29404eb5-62a5-4955-9d2c-09e3f950bd6a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

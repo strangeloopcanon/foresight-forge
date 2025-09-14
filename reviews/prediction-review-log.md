@@ -513,3 +513,12 @@ Looking ahead, several forecasts hinge on upcoming catalysts in the next week, i
 
 ---
 
+
+## 2025-09-13
+
+None of today’s headlines provide definitive outcomes for the listed forecasts. The key event-driven items—namely the FOMC SEP, U.S. Industrial Production, and UK CPI—are scheduled for release in the coming days, and there are no leaks or early data cited here. Market-related articles discuss sentiment and strategy but do not include the specific price, index, or FX levels needed to resolve any claims.
+
+Accordingly, all items remain pending. Focus in the next review cycle should be on the 2025-09-17 Fed releases (SEP and Industrial Production) and the 2025-09-18 UK CPI print, while continuing to monitor OFAC press releases, AAA fuel price updates, TTF settlement data, and any official announcements from Joby or Archer.
+
+---
+

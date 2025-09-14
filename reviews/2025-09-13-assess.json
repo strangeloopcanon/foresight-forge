@@ -1,0 +1,55 @@
+{
+  "date": "2025-09-13",
+  "assessments": [
+    {
+      "id": "2930c808-7989-465c-914d-b1417cd075fc",
+      "status": "pending",
+      "status_rationale": "The FOMC meeting and SEP release are scheduled for 2025-09-17; today\u2019s articles do not report the longer-run rate."
+    },
+    {
+      "id": "ec78a5ec-df38-419c-9587-da3a2cd0f36d",
+      "status": "pending",
+      "status_rationale": "The G.17 Industrial Production data for August will be released on 2025-09-17; no result is cited in today\u2019s news."
+    },
+    {
+      "id": "65c8b823-b35f-4f5c-b0c1-102874aa74f5",
+      "status": "pending",
+      "status_rationale": "No coverage of USD/MXN levels in today\u2019s headlines; the window remains open until 2025-10-31."
+    },
+    {
+      "id": "11e6efe6-af5d-4262-aa25-76e74e85a120",
+      "status": "pending",
+      "status_rationale": "No reports of passenger-carrying pre-certification eVTOL flights by Joby or Archer in the U.S."
+    },
+    {
+      "id": "780a0544-b4bd-4b9a-83e7-3cd5578bd02e",
+      "status": "pending",
+      "status_rationale": "No OFAC Kingpin Act designations involving Mexico-based targets are mentioned in today\u2019s news."
+    },
+    {
+      "id": "14f2544e-690f-4e72-bd01-9f78675927bf",
+      "status": "pending",
+      "status_rationale": "No settlement prices for Dutch TTF front-month futures are referenced; the deadline is 2025-11-30."
+    },
+    {
+      "id": "76772c30-8b72-4c77-bfef-bf2ffd8999cd",
+      "status": "pending",
+      "status_rationale": "The performance window just began on 2025-09-13 and runs to 2025-10-31; no comparative return data provided."
+    },
+    {
+      "id": "aebac1f6-c5b3-461d-958d-a69425f6cee8",
+      "status": "pending",
+      "status_rationale": "No AAA national average gasoline price updates are cited; outcome window remains open through 2025-10-15."
+    },
+    {
+      "id": "3d41b290-f049-4425-a4c4-061f2276db6b",
+      "status": "pending",
+      "status_rationale": "UK CPI for August 2025 is due on 2025-09-18; no figures reported today."
+    },
+    {
+      "id": "7b5243d3-0dd3-4059-bafa-3cd58f92a68c",
+      "status": "pending",
+      "status_rationale": "The target date is 2025-09-30; there is no confirmation of a ratified agreement or strike status in today\u2019s news."
+    }
+  ]
+}
