@@ -1,0 +1,65 @@
+{
+  "date": "2025-09-14",
+  "assessments": [
+    {
+      "id": "b3a2e964-023d-47cf-8487-b26c0ac25601",
+      "status": "pending",
+      "status_rationale": "No BEA release yet; today's news provides no PCE data. Deadline is 2025-09-27."
+    },
+    {
+      "id": "d39b9178-5bd7-412f-9194-43d2a1eef54f",
+      "status": "pending",
+      "status_rationale": "ISM September PMI has not been released; no mention in today's coverage. Deadline is 2025-10-01."
+    },
+    {
+      "id": "f495bc76-420a-454e-b578-1395b093e538",
+      "status": "pending",
+      "status_rationale": "No Freddie Mac PMMS rate cited today; outcome depends on weekly readings through 2025-10-31."
+    },
+    {
+      "id": "edfd8fa6-0e9c-4486-bf45-e41e52c5b84d",
+      "status": "pending",
+      "status_rationale": "Performance window runs 2025-09-15 to 2025-10-31; no comparative return data provided today."
+    },
+    {
+      "id": "34952ee4-212a-4e33-964e-25bee8b9c8f9",
+      "status": "pending",
+      "status_rationale": "No report of action on SB 53 in today's news; deadline 2025-10-14 has not arrived."
+    },
+    {
+      "id": "36da030c-7db7-403e-896d-a5e7e7c6f30f",
+      "status": "pending",
+      "status_rationale": "No AAA diesel price update in the articles; threshold can still be met by 2025-10-31."
+    },
+    {
+      "id": "0d0428fb-c169-4864-aa95-7afc7dd20d8d",
+      "status": "pending",
+      "status_rationale": "No EUR/GBP close level reported; window remains open through 2025-10-31."
+    },
+    {
+      "id": "73e1a9c7-1dce-499e-b839-f17a5856a5bb",
+      "status": "pending",
+      "status_rationale": "Eurostat September flash core HICP not released yet; no figures in today's news. Deadline 2025-09-30."
+    },
+    {
+      "id": "77476b97-830e-4c30-8f27-2c42d3fb8369",
+      "status": "pending",
+      "status_rationale": "No OFAC DPRK sanctions update referenced; possibility remains until 2025-10-31."
+    },
+    {
+      "id": "c2b2a1a2-274b-466f-8762-54483aaa598c",
+      "status": "pending",
+      "status_rationale": "No Drewry WCI Shanghai\u2013Los Angeles rate cited today; assessment awaits future weekly prints through 2025-10-31."
+    },
+    {
+      "id": "201d73bc-9b70-41cf-8abe-e30d4171ea26",
+      "status": "pending",
+      "status_rationale": "October 2025 temperature ranking will be known in November; no relevant data today."
+    },
+    {
+      "id": "29404eb5-62a5-4955-9d2c-09e3f950bd6a",
+      "status": "pending",
+      "status_rationale": "No insured unemployment level reported; weekly data between now and 2025-10-31 could satisfy the condition."
+    }
+  ]
+}

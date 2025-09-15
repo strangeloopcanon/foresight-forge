@@ -522,3 +522,12 @@ Accordingly, all items remain pending. Focus in the next review cycle should be 
 
 ---
 
+
+## 2025-09-14
+
+Today’s headlines focus on political security developments, U.S.-China talks, and expectations for the upcoming Fed meeting, but they do not provide definitive data points for any of the tracked forecasts. None of the relevant economic releases (PCE, ISM, Eurostat HICP) have occurred, market thresholds (EUR/GBP, mortgage rates, diesel, container rates) were not cited, and event-driven items (California SB 53 veto, OFAC DPRK actions) were not reported.
+
+Looking ahead, the anticipated Fed rate cut could influence mortgage rates and the dollar, indirectly affecting the PMMS threshold and EUR/GBP path, while equity volatility around policy moves could shape NVDA’s relative performance versus the Nasdaq-100. Geopolitical tensions and trade negotiations may also sway shipping rates and energy prices, but as of today there is no conclusive evidence to update any outcomes.
+
+---
+

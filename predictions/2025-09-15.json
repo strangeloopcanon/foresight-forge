@@ -1,0 +1,229 @@
+{
+  "date": "2025-09-15",
+  "predictions": [
+    {
+      "text": "On 2025-09-18, the Bank of England MPC vote split will include at least one member voting to keep Bank Rate unchanged.",
+      "category": "rates",
+      "horizon_days": 3,
+      "deadline": "2025-09-18",
+      "confidence_pct": 60,
+      "log_odds": 0.41,
+      "verification_criteria": "BoE Monetary Policy Summary and minutes dated 2025-09-18 show at least one vote for 'no change' in Bank Rate.",
+      "evidence": [
+        "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/september-2025",
+        "https://www.ons.gov.uk/economy/inflationandpriceindices",
+        "https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371"
+      ],
+      "monitoring_signals": [
+        "UK CPI and core CPI prints before the meeting",
+        "Average Weekly Earnings growth",
+        "Gilt yield moves and OIS-implied cut odds"
+      ],
+      "rationale": "Inflation progress is uneven and growth is soft; prior MPC meetings frequently had dissent. At least one member is likely to prefer a slower easing pace.",
+      "id": "c7387372-24fe-4ded-bb4a-71ef6c07e6aa",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "ISM Services PMI for September 2025 will print between 50.0 and 52.5 in the 2025-10-03 release.",
+      "category": "macro",
+      "horizon_days": 18,
+      "deadline": "2025-10-03",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Institute for Supply Management's official September 2025 Services ISM Report on Business headline PMI is between 50.0 and 52.5.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/",
+        "https://www.cnbc.com/2025/09/14/underwater-car-trade-ins-are-at-a-4-year-high-what-that-means-when-buying-a-new-vehicle.html",
+        "https://www.cnbc.com/2025/09/14/heres-why-banks-credit-card-companies-are-wary-of-buy-now-pay-later-loans.html"
+      ],
+      "monitoring_signals": [
+        "S&P Global U.S. Services PMI (flash/final)",
+        "Jobless claims and continuing claims",
+        "Small business hiring plans and input cost surveys"
+      ],
+      "rationale": "Consumer resilience is mixed; credit conditions are tightening at the margin. Services expansion likely continues but at a modest pace.",
+      "id": "1f756e9e-3659-4cb6-b8da-c045d7d205f9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. core PCE price index month-over-month for August 2025 will be between 0.1% and 0.2% in the BEA release on 2025-09-27.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-09-27",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "BEA Personal Income and Outlays release dated 2025-09-27 shows core PCE m/m change in [0.1%, 0.2%].",
+      "evidence": [
+        "https://www.bea.gov/news/schedule",
+        "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+      ],
+      "monitoring_signals": [
+        "CPI core and shelter components",
+        "PPI core and trade services",
+        "Unit labor costs and wage growth measures"
+      ],
+      "rationale": "Recent CPI/PPI components and nowcasts imply sticky-but-cooling core inflation, consistent with a 0.1\u20130.2% core PCE print.",
+      "id": "5ed4788f-4a51-4eda-b9ea-8ada5554c55b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Freddie Mac Primary Mortgage Market Survey 15-year fixed mortgage rate will be at or below 5.85% in at least one weekly reading released by 2025-10-31.",
+      "category": "rates",
+      "horizon_days": 46,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "A Freddie Mac PMMS weekly report published on or before 2025-10-31 shows the 15-year fixed-rate mortgage average at or below 5.85%.",
+      "evidence": [
+        "https://www.freddiemac.com/pmms",
+        "https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371"
+      ],
+      "monitoring_signals": [
+        "10-year U.S. Treasury yield",
+        "Agency MBS current coupon/TBA prices",
+        "Fed policy guidance and balance sheet signals"
+      ],
+      "rationale": "A Fed cut and easing term premia could flow through to MBS yields, nudging mortgage rates lower at the margin.",
+      "id": "f5848c50-9ace-42ba-88b8-88a30f25c539",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The ICE BofA US High Yield Option-Adjusted Spread (FRED: BAMLH0A0HYM2) will reach at or above 4.50% on at least one day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 46,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "FRED series BAMLH0A0HYM2 daily reading shows a value \u2265 4.50% on or before 2025-10-31.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+        "https://www.marketwatch.com/story/a-divided-fed-is-expected-to-settle-on-a-25-basis-point-cut-this-week-the-key-question-is-what-comes-next-82eb0371"
+      ],
+      "monitoring_signals": [
+        "VIX and credit ETF (HYG/LQD) moves",
+        "Primary HY issuance and concessions",
+        "Macro surprise indices and earnings revisions"
+      ],
+      "rationale": "Policy uncertainty and softer growth can widen risk premia from tight starting points.",
+      "id": "ef3abd21-8467-4e64-9eb7-5e90b754b4e9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The LBMA Gold Price PM will fix at or above $2,550 per troy ounce on at least one trading day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 46,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "LBMA Gold Price PM daily fix shows a level \u2265 $2,550/oz on or before 2025-10-31.",
+      "evidence": [
+        "https://www.lbma.org.uk/prices-and-data/precious-metal-prices#lbmagoldprice",
+        "https://www.nytimes.com/2025/09/14/world/europe/russia-ukraine-drone-attacks-production.html"
+      ],
+      "monitoring_signals": [
+        "U.S. 10-year real yield (TIPS)",
+        "Dollar index (DXY) trend",
+        "Geopolitical escalation headlines and ETF flows"
+      ],
+      "rationale": "Lower real yields and elevated geopolitical risk support a test of higher gold levels.",
+      "id": "8c85b48a-74d3-425c-93a0-9f78af33888b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "For the week ending 2025-09-27, EIA will report a U.S. working natural gas storage change between +75 and +100 Bcf in the Weekly Natural Gas Storage Report released by 2025-10-03.",
+      "category": "energy",
+      "horizon_days": 18,
+      "deadline": "2025-10-03",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "EIA Weekly Natural Gas Storage Report covering week ending 2025-09-27 shows a net injection within +75 to +100 Bcf.",
+      "evidence": [
+        "https://www.eia.gov/naturalgas/storage/",
+        "https://www.eia.gov/schedule/"
+      ],
+      "monitoring_signals": [
+        "Cooling/heating degree days (NOAA)",
+        "Lower-48 dry gas production and LNG feedgas",
+        "Regional basis spreads (e.g., Henry Hub vs. Permian)"
+      ],
+      "rationale": "Shoulder-season injections with robust production and moderate weather imply a sizable build.",
+      "id": "c5e6d2a3-9893-4eaa-a336-6b0a05a3a169",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Industrial Production month-over-month for September 2025 will be between -0.2% and +0.3% in the Federal Reserve G.17 release on 2025-10-16.",
+      "category": "macro",
+      "horizon_days": 31,
+      "deadline": "2025-10-16",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Federal Reserve G.17 release dated 2025-10-16 shows total Industrial Production m/m in [-0.2%, +0.3%].",
+      "evidence": [
+        "https://www.federalreserve.gov/releases/g17/current/",
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/manufacturing/"
+      ],
+      "monitoring_signals": [
+        "ISM Manufacturing PMI and production subindex",
+        "Auto assemblies and capacity utilization",
+        "Electric/gas utilities output (degree days)"
+      ],
+      "rationale": "Manufacturing remains soft but stabilizing; utilities output should be range-bound, keeping headline IP near flat.",
+      "id": "cdea9310-ef34-410a-bad4-4b6bc801366c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the CFPB will announce at least one enforcement action or consent order involving a Buy-Now-Pay-Later provider.",
+      "category": "tech",
+      "horizon_days": 46,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "A CFPB press release or consent order posted on consumerfinance.gov by 2025-10-31 names a BNPL provider as a subject of enforcement.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/14/heres-why-banks-credit-card-companies-are-wary-of-buy-now-pay-later-loans.html",
+        "https://www.consumerfinance.gov/about-us/newsroom/",
+        "https://www.consumerfinance.gov/data-research/research-reports/buy-now-pay-later-market-trends/"
+      ],
+      "monitoring_signals": [
+        "CFPB enforcement docket and press releases",
+        "State AG actions against BNPL firms",
+        "BNPL consumer complaint volumes (CFPB database)"
+      ],
+      "rationale": "Heightened scrutiny of BNPL risk and disclosures increases near-term enforcement likelihood.",
+      "id": "165122c0-5fad-4e8f-88b0-601d917a5c1f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY (Yahoo Finance: JPY=X) will close at or above 152.50 on at least one trading day by 2025-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 46,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Yahoo Finance historical data for JPY=X shows a daily close \u2265 152.50 on or before 2025-10-31 (UTC).",
+      "evidence": [
+        "https://finance.yahoo.com/quote/JPY=X/history",
+        "https://fred.stlouisfed.org/series/DGS10"
+      ],
+      "monitoring_signals": [
+        "U.S.-Japan 10-year yield spread",
+        "BoJ policy guidance and YCC tweaks",
+        "Japanese MoF FX intervention rhetoric"
+      ],
+      "rationale": "Relative rate differentials remain wide even with a Fed cut; absent forceful intervention, yen weakness can re-test highs.",
+      "id": "56f29c45-da5c-41df-841d-6988f8fbc0b7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

@@ -20,7 +20,7 @@
       ],
       "rationale": "Core PCE typically runs ~40\u201350 bps below core CPI; August CPI core moderation and softer goods prices point to high-2% YoY.",
       "id": "b3a2e964-023d-47cf-8487-b26c0ac25601",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Manufacturing remains in mild contraction; orders/inventories balance suggests subdued momentum despite easing input costs.",
       "id": "d39b9178-5bd7-412f-9194-43d2a1eef54f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Falling yields post-Fed cut and easing inflation should pull mortgage rates lower, even with sticky MBS spreads.",
       "id": "f495bc76-420a-454e-b578-1395b093e538",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Positioning and valuation are extended; rotation within AI beneficiaries and supply constraints risk near-term relative mean reversion.",
       "id": "edfd8fa6-0e9c-4486-bf45-e41e52c5b84d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Newsom has signaled veto concerns over implementation and innovation impacts, and similar tech bills have faced gubernatorial pushback.",
       "id": "34952ee4-212a-4e33-964e-25bee8b9c8f9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Refinery maintenance, tight distillate stocks, and geopolitical risks elevate diesel price spikes into autumn.",
       "id": "36da030c-7db7-403e-896d-a5e7e7c6f30f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "A BoE cut and softer UK growth backdrop could weaken GBP versus EUR near term.",
       "id": "0d0428fb-c169-4864-aa95-7afc7dd20d8d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Core disinflation continues on goods; services remain sticky but easing with slower wage momentum.",
       "id": "73e1a9c7-1dce-499e-b839-f17a5856a5bb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "Persistent DPRK provocations and sanctions evasion networks make additional U.S. designations likely in the near term.",
       "id": "77476b97-830e-4c30-8f27-2c42d3fb8369",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -218,7 +218,7 @@
       ],
       "rationale": "Peak-season demand, routing disruptions, and canal constraints support higher Transpacific spot rates.",
       "id": "c2b2a1a2-274b-466f-8762-54483aaa598c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -240,7 +240,7 @@
       ],
       "rationale": "Baseline warmth remains elevated; oceanic heat and persistent anomalies make another top-tier monthly ranking probable.",
       "id": "201d73bc-9b70-41cf-8abe-e30d4171ea26",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -262,7 +262,7 @@
       ],
       "rationale": "Gradual labor market cooling and rising separations should lift continuing claims modestly into early Q4.",
       "id": "29404eb5-62a5-4955-9d2c-09e3f950bd6a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
