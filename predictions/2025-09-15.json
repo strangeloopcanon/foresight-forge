@@ -21,7 +21,7 @@
       ],
       "rationale": "Inflation progress is uneven and growth is soft; prior MPC meetings frequently had dissent. At least one member is likely to prefer a slower easing pace.",
       "id": "c7387372-24fe-4ded-bb4a-71ef6c07e6aa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Consumer resilience is mixed; credit conditions are tightening at the margin. Services expansion likely continues but at a modest pace.",
       "id": "1f756e9e-3659-4cb6-b8da-c045d7d205f9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Recent CPI/PPI components and nowcasts imply sticky-but-cooling core inflation, consistent with a 0.1\u20130.2% core PCE print.",
       "id": "5ed4788f-4a51-4eda-b9ea-8ada5554c55b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "A Fed cut and easing term premia could flow through to MBS yields, nudging mortgage rates lower at the margin.",
       "id": "f5848c50-9ace-42ba-88b8-88a30f25c539",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -111,7 +111,7 @@
       ],
       "rationale": "Policy uncertainty and softer growth can widen risk premia from tight starting points.",
       "id": "ef3abd21-8467-4e64-9eb7-5e90b754b4e9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -133,7 +133,7 @@
       ],
       "rationale": "Lower real yields and elevated geopolitical risk support a test of higher gold levels.",
       "id": "8c85b48a-74d3-425c-93a0-9f78af33888b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -155,7 +155,7 @@
       ],
       "rationale": "Shoulder-season injections with robust production and moderate weather imply a sizable build.",
       "id": "c5e6d2a3-9893-4eaa-a336-6b0a05a3a169",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -177,7 +177,7 @@
       ],
       "rationale": "Manufacturing remains soft but stabilizing; utilities output should be range-bound, keeping headline IP near flat.",
       "id": "cdea9310-ef34-410a-bad4-4b6bc801366c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -200,7 +200,7 @@
       ],
       "rationale": "Heightened scrutiny of BNPL risk and disclosures increases near-term enforcement likelihood.",
       "id": "165122c0-5fad-4e8f-88b0-601d917a5c1f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "rationale": "Relative rate differentials remain wide even with a Fed cut; absent forceful intervention, yen weakness can re-test highs.",
       "id": "56f29c45-da5c-41df-841d-6988f8fbc0b7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

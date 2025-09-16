@@ -1,0 +1,55 @@
+{
+  "date": "2025-09-15",
+  "assessments": [
+    {
+      "id": "c7387372-24fe-4ded-bb4a-71ef6c07e6aa",
+      "status": "pending",
+      "status_rationale": "No reporting on the Bank of England\u2019s Sept. 18 MPC vote split in today\u2019s news. Coverage centers on the Federal Reserve; outcome awaits the BoE meeting and minutes on 2025-09-18."
+    },
+    {
+      "id": "1f756e9e-3659-4cb6-b8da-c045d7d205f9",
+      "status": "pending",
+      "status_rationale": "The ISM Services PMI for September 2025 has not been released yet; the scheduled release is 2025-10-03."
+    },
+    {
+      "id": "5ed4788f-4a51-4eda-b9ea-8ada5554c55b",
+      "status": "pending",
+      "status_rationale": "No August 2025 core PCE print is in the news; the BEA release is due 2025-09-27."
+    },
+    {
+      "id": "f5848c50-9ace-42ba-88b8-88a30f25c539",
+      "status": "pending",
+      "status_rationale": "No Freddie Mac PMMS update on 15-year rates to confirm \u22645.85% appears in today\u2019s coverage; deadline is 2025-10-31."
+    },
+    {
+      "id": "ef3abd21-8467-4e64-9eb7-5e90b754b4e9",
+      "status": "pending",
+      "status_rationale": "No evidence provided that the ICE BofA US HY OAS has reached \u22654.50%. Market news mentions equities and Fed developments but not HY spreads."
+    },
+    {
+      "id": "8c85b48a-74d3-425c-93a0-9f78af33888b",
+      "status": "pending",
+      "status_rationale": "No report of the LBMA Gold Price PM fixing at or above $2,550 in the cited articles; deadline remains 2025-10-31."
+    },
+    {
+      "id": "c5e6d2a3-9893-4eaa-a336-6b0a05a3a169",
+      "status": "pending",
+      "status_rationale": "EIA storage data for the week ending 2025-09-27 is not yet available; release expected by 2025-10-03."
+    },
+    {
+      "id": "cdea9310-ef34-410a-bad4-4b6bc801366c",
+      "status": "pending",
+      "status_rationale": "September 2025 Industrial Production will be released on 2025-10-16; no early figures are reported today."
+    },
+    {
+      "id": "165122c0-5fad-4e8f-88b0-601d917a5c1f",
+      "status": "pending",
+      "status_rationale": "No mention of a CFPB BNPL enforcement action or consent order in today\u2019s news; window remains open until 2025-10-31."
+    },
+    {
+      "id": "56f29c45-da5c-41df-841d-6988f8fbc0b7",
+      "status": "pending",
+      "status_rationale": "No confirmation that USD/JPY has closed \u2265152.50 in the articles provided. The deadline is 2025-10-31."
+    }
+  ]
+}

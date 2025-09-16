@@ -1,0 +1,270 @@
+{
+  "date": "2025-09-16",
+  "predictions": [
+    {
+      "text": "China NBS Manufacturing PMI for September 2025 will print between 49.5 and 50.5 in the release on 2025-09-30.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-09-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Use the official National Bureau of Statistics (NBS) release for September 2025 Manufacturing PMI headline index. Prediction is correct if the reported PMI is \u226549.5 and \u226450.5.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/15/china-retail-sales-industrial-output-slow-in-august-missing-estimates-as-real-estate-slump-worsens.html",
+        "https://www.stats.gov.cn/"
+      ],
+      "monitoring_signals": [
+        "High-frequency China manufacturing surveys (Caixin PMI)",
+        "Iron ore and steel prices",
+        "Power generation and freight indicators",
+        "Credit impulse and property sales data"
+      ],
+      "rationale": "Recent weak China data and property drag suggest manufacturing near the contraction/expansion threshold.",
+      "id": "daac8e16-b08e-4571-871b-732fbc51717d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Tokyo CPI \u2018core-core\u2019 (excluding fresh food and energy) year-over-year for September 2025 will be between 1.6% and 1.9% in the release by 2025-10-04.",
+      "category": "macro",
+      "horizon_days": 18,
+      "deadline": "2025-10-04",
+      "confidence_pct": 55,
+      "verification_criteria": "Use Statistics Bureau of Japan Tokyo area CPI for September 2025: \u2018All items less fresh food and energy\u2019 YoY. Correct if value is \u22651.6% and \u22641.9%.",
+      "evidence": [
+        "https://www.stat.go.jp/english/data/cpi/index.html",
+        "https://fred.stlouisfed.org/series/DEXJPUS"
+      ],
+      "monitoring_signals": [
+        "Tokyo electricity/gas tariff adjustments",
+        "Wage growth from Shunto settlements",
+        "Services inflation and hotel rates",
+        "Yen exchange rate pass-through"
+      ],
+      "rationale": "Base effects and easing goods prices offset services firmness, keeping core-core subdued.",
+      "id": "c9cfd126-2b7f-4c2c-81d8-3208ec10d2e6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. unemployment rate for September 2025 will be between 4.0% and 4.2%, per BLS Employment Situation on 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 17,
+      "deadline": "2025-10-03",
+      "confidence_pct": 58,
+      "verification_criteria": "Use BLS Employment Situation news release Table A-1 (seasonally adjusted unemployment rate) for September 2025. Correct if rate is \u22654.0% and \u22644.2%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/ICSA",
+        "https://www.bls.gov/news.release/empsit.nr0.htm"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims",
+        "Household survey employment and participation",
+        "Challenger layoff announcements",
+        "NFIB hiring plans and Indeed hiring trends"
+      ],
+      "rationale": "Claims have drifted higher and labor demand cooled; unemployment likely stays near 4.1%.",
+      "id": "2cac1ccb-8862-4a3c-b290-c592d041d5df",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI-U headline year-over-year for September 2025 will be between 2.7% and 3.1%, as reported by BLS on 2025-10-10.",
+      "category": "macro",
+      "horizon_days": 24,
+      "deadline": "2025-10-10",
+      "confidence_pct": 57,
+      "verification_criteria": "Use BLS CPI-U all items YoY for September 2025 from the CPI news release. Correct if value is \u22652.7% and \u22643.1%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/15/trump-trade-inflation-tariffs.html",
+        "https://gasprices.aaa.com/",
+        "https://www.bls.gov/cpi/latest-numbers.htm"
+      ],
+      "monitoring_signals": [
+        "Retail gasoline and diesel prices (AAA)",
+        "Food-at-home price indexes",
+        "Shelter/rent measures and OER",
+        "Used car auction prices (Manheim) and airfare"
+      ],
+      "rationale": "Energy base effects and steady core keep headline near 3%, despite tariff-related pressures.",
+      "id": "a3519fad-f2d3-4b41-84d7-6b840d326623",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI-U core (all items less food and energy) year-over-year for September 2025 will be between 3.0% and 3.3%, as reported by BLS on 2025-10-10.",
+      "category": "macro",
+      "horizon_days": 24,
+      "deadline": "2025-10-10",
+      "confidence_pct": 56,
+      "verification_criteria": "Use BLS CPI-U core YoY for September 2025 from the CPI news release. Correct if value is \u22653.0% and \u22643.3%.",
+      "evidence": [
+        "https://www.bls.gov/cpi/latest-numbers.htm",
+        "https://www.marketwatch.com/story/blackrock-turns-neutral-on-long-term-treasurys-ahead-of-potential-fed-rate-cuts-eb48eba5?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Rent and owners\u2019 equivalent rent trends",
+        "Core goods prices (used cars, apparel)",
+        "Health insurance CPI methodology impacts",
+        "Services ex-shelter momentum"
+      ],
+      "rationale": "Shelter disinflation is gradual; services ex-shelter moderates, keeping core near low-3%.",
+      "id": "78a9d0ed-622f-4b81-9f76-2f4910a110b9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX WTI front-month crude futures will settle at or above $93.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 75,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Use CME Group official daily settlement for the prompt WTI (CL) futures contract. Correct if any settlement on or before 2025-11-30 is \u2265$93.00.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/15/world/americas/venezuela-boat-strikes-maduro-trump.html",
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "OECD crude inventories and U.S. Cushing stocks",
+        "OPEC+ compliance and guidance",
+        "U.S. shale production growth and rig counts",
+        "Geopolitical disruptions (Venezuela, Middle East)"
+      ],
+      "rationale": "Tight inventories and geopolitical risks provide upside tails to crude before winter.",
+      "id": "434ff53c-c743-488b-af75-f0ba65052e1a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The LBMA Gold Price PM will fix at or above $2,600 per troy ounce on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 75,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Use the LBMA Gold Price PM auction result. Correct if any PM fix published on or before 2025-11-30 is \u2265$2,600/oz.",
+      "evidence": [
+        "https://www.lbma.org.uk/prices-and-data/gold-price",
+        "https://www.marketwatch.com/story/blackrock-turns-neutral-on-long-term-treasurys-ahead-of-potential-fed-rate-cuts-eb48eba5?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Real yields (U.S. 10y TIPS)",
+        "Dollar index (DXY)",
+        "ETF gold flows and central bank purchases",
+        "Geopolitical escalation headlines"
+      ],
+      "rationale": "Falling real yields and geopolitical risks support a test of new highs into year-end.",
+      "id": "1cd68c1f-6b49-4a41-aa67-814d55530273",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY (Yahoo Finance: JPY=X) will close at or above 154.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 75,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Use Yahoo Finance JPY=X daily adjusted close in UTC. Correct if any close on or before 2025-11-30 is \u2265154.00.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DEXJPUS",
+        "https://www.cnbc.com/2025/09/16/asia-stocks-poised-to-climb-after-trump-says-us-china-trade-negotiations-progressing-well.html"
+      ],
+      "monitoring_signals": [
+        "U.S.-Japan rate differentials (2y and 10y)",
+        "BoJ policy guidance and YCC balance-sheet changes",
+        "MoF intervention rhetoric and actions",
+        "Risk sentiment and carry trade positioning"
+      ],
+      "rationale": "Wide rate differentials and carry demand keep upside pressure on USD/JPY absent forceful intervention.",
+      "id": "2385d779-414d-4e4e-b3cf-8e53d03e2455",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Solana (SOL-USD) will trade at or above $190 on at least one day by 2025-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 45,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Use a major consolidated source (CoinMarketCap or CoinGecko) for SOL-USD intraday highs in UTC. Correct if any recorded high on or before 2025-10-31 is \u2265$190.",
+      "evidence": [
+        "https://techcrunch.com/2025/09/15/paypal-adds-new-one-to-one-payment-links-that-will-soon-support-crypto/",
+        "https://coinmarketcap.com/currencies/solana/"
+      ],
+      "monitoring_signals": [
+        "On-chain activity (TPS, fees) and DeFi TVL on Solana",
+        "Stablecoin flows and BTC/ETH momentum",
+        "U.S. macro risk sentiment and liquidity",
+        "Ecosystem catalysts (airdrops, launches)"
+      ],
+      "rationale": "Crypto beta improving with broader risk-on; payments news and ecosystem growth support upside tails.",
+      "id": "a582d7e4-0a7e-44e1-a3f9-90d0d084b7d0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, OFAC will announce at least one sanctions designation under its Russia-related program via public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 45,
+      "deadline": "2025-10-31",
+      "confidence_pct": 62,
+      "verification_criteria": "Correct if the U.S. Treasury (OFAC) publishes any Russia-related sanctions designation by 2025-10-31 on its website press releases or SDN list updates.",
+      "evidence": [
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russia-related-sanctions",
+        "https://home.treasury.gov/news/press-releases"
+      ],
+      "monitoring_signals": [
+        "White House and State Department statements on Russia",
+        "EU/UK coordinated sanctions announcements",
+        "OFAC press room and SDN list update cadence",
+        "Defense procurement and evasion network exposures"
+      ],
+      "rationale": "Regular cadence of Russia-related designations is likely to continue into October.",
+      "id": "aef1bbdf-4fbb-4d0f-8531-24d8be7d4232",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. JOLTS Job Openings for August 2025 will be at or above 8.5 million in the BLS release on 2025-10-01.",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-10-01",
+      "confidence_pct": 55,
+      "verification_criteria": "Use BLS JOLTS news release for August 2025 total job openings level (seasonally adjusted). Correct if openings \u2265 8.5 million.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/JTSJOL",
+        "https://www.bls.gov/news.release/jolts.nr0.htm"
+      ],
+      "monitoring_signals": [
+        "Conference Board Help Wanted Online index",
+        "Indeed job postings trends",
+        "NFIB job openings hard to fill",
+        "Layoff announcements and hiring freezes"
+      ],
+      "rationale": "Openings have declined but remain elevated; a floor near mid-8 millions is plausible.",
+      "id": "34caf453-07ca-4fb2-9fc5-0410f51c54e7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 3.65% on at least one trading day by 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 75,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Use FRED series DGS10 daily close. Correct if any observation on or before 2025-11-30 is \u22643.65%.",
+      "evidence": [
+        "https://www.marketwatch.com/story/blackrock-turns-neutral-on-long-term-treasurys-ahead-of-potential-fed-rate-cuts-eb48eba5?mod=mw_rss_topstories",
+        "https://fred.stlouisfed.org/series/DGS10"
+      ],
+      "monitoring_signals": [
+        "FOMC policy path and SEP",
+        "Inflation prints (CPI/PCE) and growth surprises",
+        "Term premium estimates and Treasury supply",
+        "Risk-off episodes and equity volatility"
+      ],
+      "rationale": "A Fed easing pivot and growth wobble could pull 10-year yields toward mid-3s at times.",
+      "id": "cf283cee-6d96-4ddb-be1f-c436c3ccd5b7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

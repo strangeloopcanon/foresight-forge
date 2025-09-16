@@ -531,3 +531,12 @@ Looking ahead, the anticipated Fed rate cut could influence mortgage rates and t
 
 ---
 
+
+## 2025-09-15
+
+Today’s news flow centers on U.S. monetary policy governance and market sentiment: an appeals court keeps Lisa Cook on the Fed, and Stephen Miran is confirmed to the Board, with markets weighing potential Fed rate cuts this week. None of the items provide definitive datapoints for the specific macro prints or market thresholds in our predictions, such as ISM Services, core PCE, Industrial Production, HY spreads, or LBMA gold fixes.
+
+Given the absence of outcome-specific evidence, all forecasts remain pending. The most time-sensitive resolution will be the Bank of England’s Sept. 18 vote split, while U.S. data points arrive later (core PCE on Sept. 27, ISM on Oct. 3, IP on Oct. 16). Broader market coverage on equities, AI, and policy developments may influence probabilities indirectly but does not settle any of the tracked outcomes today.
+
+---
+
