@@ -1,0 +1,112 @@
+{
+  "bullets": [
+    {
+      "text": "Stephen I. Miran sworn in to Federal Reserve Board, potentially shifting policy debates.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20250916a.htm"
+    },
+    {
+      "text": "U.S. G.17 industrial production data for August released, updating manufacturing momentum ahead of Fed decisions.",
+      "tags": [
+        "macro"
+      ],
+      "link": "http://www.federalreserve.gov/feeds/G17.html#3772"
+    },
+    {
+      "text": "Markets price three Fed cuts by year-end; mortgage rates fall to 3-year low ahead of decision.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/16/mortgage-rates-drop-to-3-year-low-ahead-of-fed-meeting.html"
+    },
+    {
+      "text": "U.S. credit scores decline for second straight year as missed payments rise, signaling household financial stress.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/16/fico-credit-scores-fall-year-over-year-more-borrowers-miss-payments.html"
+    },
+    {
+      "text": "Bessent sees U.S.-China trade deal likely before November reciprocal-tariffs deadline, easing market uncertainty.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/16/bessent-sees-trade-deal-likely-with-china-before-november-deadline-on-reciprocal-tariffs.html"
+    },
+    {
+      "text": "House Republicans again defer tariff authority to Trump, reinforcing executive leverage over U.S. trade policy.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/09/16/us/politics/republicans-house-tariffs-emergency-trump.html"
+    },
+    {
+      "text": "China\u2019s tight rare-earths curbs hit European manufacturers, costing millions and underscoring strategic materials dependency.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/17/china-rare-earths-curbs-hit-europe-businesses.html"
+    },
+    {
+      "text": "Oracle and Silver Lake join TikTok investor group; Trump extends deadline as Oracle cloud pact persists pending China approval.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/16/tiktok-bytedance-oracle-china.html"
+    },
+    {
+      "text": "Tech giants plan $40B+ new AI investments in the UK, bolstering compute capacity, talent, and regional competitiveness.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/16/tech-giants-to-pour-billions-into-uk-ai-heres-what-we-know-so-far.html"
+    },
+    {
+      "text": "StubHub prices IPO at $23.50, valuing company at $8.6B, testing investor appetite for ticket-resale economics.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/16/stubhub-ipo-price-23point50-valuing-company-8point6-billion.html"
+    },
+    {
+      "text": "Israeli ground forces push into Gaza City amid major buildup, escalating conflict and humanitarian risks.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/16/world/middleeast/gaza-city-israel-invasion.html"
+    },
+    {
+      "text": "Mars rock \u2018leopard spots\u2019 present potential biosignatures, offering strongest hint yet of past life, pending rigorous verification.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250916032210.htm"
+    },
+    {
+      "text": "GLP-1 drugs like semaglutide alter taste perception and quiet 'food noise,' elucidating mechanisms behind reduced cravings and weight loss.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250915202848.htm"
+    },
+    {
+      "text": "California gasoline prices risk further increases as refinery closures curtail supply, intensifying regional energy cost pressures.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/09/16/business/energy-environment/california-gas-prices-oil-refineries.html"
+    }
+  ]
+}

@@ -20,7 +20,7 @@
       ],
       "rationale": "Recent weak China data and property drag suggest manufacturing near the contraction/expansion threshold.",
       "id": "daac8e16-b08e-4571-871b-732fbc51717d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Base effects and easing goods prices offset services firmness, keeping core-core subdued.",
       "id": "c9cfd126-2b7f-4c2c-81d8-3208ec10d2e6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Claims have drifted higher and labor demand cooled; unemployment likely stays near 4.1%.",
       "id": "2cac1ccb-8862-4a3c-b290-c592d041d5df",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "Energy base effects and steady core keep headline near 3%, despite tariff-related pressures.",
       "id": "a3519fad-f2d3-4b41-84d7-6b840d326623",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "Shelter disinflation is gradual; services ex-shelter moderates, keeping core near low-3%.",
       "id": "78a9d0ed-622f-4b81-9f76-2f4910a110b9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -131,7 +131,7 @@
       ],
       "rationale": "Tight inventories and geopolitical risks provide upside tails to crude before winter.",
       "id": "434ff53c-c743-488b-af75-f0ba65052e1a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "rationale": "Falling real yields and geopolitical risks support a test of new highs into year-end.",
       "id": "1cd68c1f-6b49-4a41-aa67-814d55530273",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "rationale": "Wide rate differentials and carry demand keep upside pressure on USD/JPY absent forceful intervention.",
       "id": "2385d779-414d-4e4e-b3cf-8e53d03e2455",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "rationale": "Crypto beta improving with broader risk-on; payments news and ecosystem growth support upside tails.",
       "id": "a582d7e4-0a7e-44e1-a3f9-90d0d084b7d0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "rationale": "Regular cadence of Russia-related designations is likely to continue into October.",
       "id": "aef1bbdf-4fbb-4d0f-8531-24d8be7d4232",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -241,7 +241,7 @@
       ],
       "rationale": "Openings have declined but remain elevated; a floor near mid-8 millions is plausible.",
       "id": "34caf453-07ca-4fb2-9fc5-0410f51c54e7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -263,7 +263,7 @@
       ],
       "rationale": "A Fed easing pivot and growth wobble could pull 10-year yields toward mid-3s at times.",
       "id": "cf283cee-6d96-4ddb-be1f-c436c3ccd5b7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

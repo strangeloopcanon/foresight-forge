@@ -1,0 +1,65 @@
+{
+  "date": "2025-09-16",
+  "assessments": [
+    {
+      "id": "daac8e16-b08e-4571-871b-732fbc51717d",
+      "status": "pending",
+      "status_rationale": "No report of the September China NBS Manufacturing PMI in today's news; the official release is due 2025-09-30."
+    },
+    {
+      "id": "c9cfd126-2b7f-4c2c-81d8-3208ec10d2e6",
+      "status": "pending",
+      "status_rationale": "No Tokyo CPI core-core figure reported; the cited articles focus on markets and politics, and the deadline is 2025-10-04."
+    },
+    {
+      "id": "2cac1ccb-8862-4a3c-b290-c592d041d5df",
+      "status": "pending",
+      "status_rationale": "No BLS unemployment rate for September 2025 has been released yet; coverage references politicization concerns but provides no data."
+    },
+    {
+      "id": "a3519fad-f2d3-4b41-84d7-6b840d326623",
+      "status": "pending",
+      "status_rationale": "September CPI headline YoY has not been reported; release scheduled for 2025-10-10."
+    },
+    {
+      "id": "78a9d0ed-622f-4b81-9f76-2f4910a110b9",
+      "status": "pending",
+      "status_rationale": "No September core CPI YoY figure in today's news; BLS release is set for 2025-10-10."
+    },
+    {
+      "id": "434ff53c-c743-488b-af75-f0ba65052e1a",
+      "status": "pending",
+      "status_rationale": "Articles mention energy and gasoline dynamics but no confirmation that WTI settled at or above $93; window remains open until 2025-11-30."
+    },
+    {
+      "id": "1cd68c1f-6b49-4a41-aa67-814d55530273",
+      "status": "pending",
+      "status_rationale": "No report of the LBMA Gold Price PM fixing at or above $2,600; deadline is 2025-11-30."
+    },
+    {
+      "id": "2385d779-414d-4e4e-b3cf-8e53d03e2455",
+      "status": "pending",
+      "status_rationale": "Coverage notes Asia market moves but gives no USD/JPY close level; target has until 2025-11-30."
+    },
+    {
+      "id": "a582d7e4-0a7e-44e1-a3f9-90d0d084b7d0",
+      "status": "pending",
+      "status_rationale": "No mention of Solana price levels; the threshold can still be met by 2025-10-31."
+    },
+    {
+      "id": "aef1bbdf-4fbb-4d0f-8531-24d8be7d4232",
+      "status": "pending",
+      "status_rationale": "No OFAC Russia-related designation reported in today's summaries; the period remains open until 2025-10-31."
+    },
+    {
+      "id": "34caf453-07ca-4fb2-9fc5-0410f51c54e7",
+      "status": "pending",
+      "status_rationale": "No JOLTS August 2025 figure reported; BLS release slated for 2025-10-01."
+    },
+    {
+      "id": "cf283cee-6d96-4ddb-be1f-c436c3ccd5b7",
+      "status": "pending",
+      "status_rationale": "While rate-cut expectations and lower mortgage rates are discussed, there is no confirmation that the 10-year yield closed at or below 3.65%; deadline is 2025-11-30."
+    }
+  ]
+}

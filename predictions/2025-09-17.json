@@ -1,0 +1,314 @@
+{
+  "date": "2025-09-17",
+  "predictions": [
+    {
+      "text": "U.S. housing starts (SAAR) for August 2025 will be between 1.23 million and 1.34 million in the Census Bureau New Residential Construction release on 2025-09-18.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-09-18",
+      "confidence_pct": 57,
+      "log_odds": 0.281,
+      "verification_criteria": "Verify the seasonally adjusted annual rate for Housing Starts (total) in the Census Bureau's New Residential Construction press release/Table 2 on 2025-09-18 falls within [1.23, 1.34] million.",
+      "evidence": [
+        "http://www.census.gov/construction/nrc/",
+        "http://www.federalreserve.gov/feeds/G17.html#3772",
+        "https://www.cnbc.com/2025/09/16/mortgage-rates-drop-to-3-year-low-ahead-of-fed-meeting.html"
+      ],
+      "monitoring_signals": [
+        "Building permits SAAR (lead indicator)",
+        "NAHB/Wells Fargo Housing Market Index",
+        "MBA purchase applications",
+        "Regional starts data from states with large single-family activity"
+      ],
+      "rationale": "Lower mortgage rates support single-family starts; mixed consumer credit trends and softer manufacturing temper upside.",
+      "id": "4097740f-9582-456f-ad5d-640d4aa31cd5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "On 2025-09-26, the Swiss National Bank will cut its policy rate by 25 basis points.",
+      "category": "rates",
+      "horizon_days": 9,
+      "deadline": "2025-09-26",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "Compare the policy rate in the SNB Monetary Policy Assessment on 2025-09-26 to the prior meeting; a reduction of exactly 0.25 percentage points constitutes success.",
+      "evidence": [
+        "https://www.snb.ch/en",
+        "https://tradingeconomics.com/switzerland/interest-rate",
+        "https://www.cnbc.com/2025/09/16/mortgage-rates-drop-to-3-year-low-ahead-of-fed-meeting.html"
+      ],
+      "monitoring_signals": [
+        "Swiss CPI and core inflation",
+        "CHF OIS curve and meeting-implied probabilities",
+        "SNB leadership speeches/interviews",
+        "Eurozone growth and ECB stance"
+      ],
+      "rationale": "Inflation remains contained and global easing bias builds; SNB likely to maintain accommodative path.",
+      "id": "832e2576-80c2-421b-87b7-adc3cbbd4f71",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, OFAC will announce at least one sanctions designation under its Iran-related program via public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 44,
+      "deadline": "2025-10-31",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Success if U.S. Treasury OFAC posts a press release or SDN list update explicitly citing Iran-related authorities or program tags (e.g., Iran, IRGC) dated on/before 2025-10-31.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://ofac.treasury.gov/sanctions-programs-and-country-information/iran-sanctions",
+        "https://www.nytimes.com/2025/09/16/world/middleeast/gaza-city-israel-invasion.html"
+      ],
+      "monitoring_signals": [
+        "OFAC press room and sanctions list updates",
+        "State Department terrorism and human-rights advisories",
+        "Escalatory incidents in the Middle East involving Iran-linked groups"
+      ],
+      "rationale": "Escalation in the region and ongoing U.S. sanctions cadence make an Iran-related action likely.",
+      "id": "51c44523-8035-4f35-9679-c41b4a3d5e6f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The AAA-reported California state average price for regular gasoline will reach at or above $5.60 per gallon on at least one day by 2025-10-15.",
+      "category": "energy",
+      "horizon_days": 28,
+      "deadline": "2025-10-15",
+      "confidence_pct": 57,
+      "log_odds": 0.281,
+      "verification_criteria": "Using AAA Gas Prices state data for California, success if any daily statewide average regular grade price on/before 2025-10-15 is \u2265 $5.60.",
+      "evidence": [
+        "https://gasprices.aaa.com/state-gas-price-averages/",
+        "https://www.nytimes.com/2025/09/16/business/energy-environment/california-gas-prices-oil-refineries.html",
+        "https://www.cnbc.com/2025/09/16/mortgage-rates-drop-to-3-year-low-ahead-of-fed-meeting.html"
+      ],
+      "monitoring_signals": [
+        "CARBOB spot prices (Los Angeles, San Francisco)",
+        "Refinery outages/utilization on West Coast (PADD 5)",
+        "Crack spreads and inventories (EIA weekly)",
+        "Brent and WTI futures trends"
+      ],
+      "rationale": "Refinery constraints and seasonal factors support higher California pump prices.",
+      "id": "b8ac2782-77bb-46fa-8837-501538d6167b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31 (UTC), NOAA SWPC will record at least one solar flare of class X1.0 or higher.",
+      "category": "other",
+      "horizon_days": 44,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Confirm via NOAA SWPC solar event reports that an X-class (\u2265X1.0) flare is listed with date/time on or before 2025-10-31 (UTC).",
+      "evidence": [
+        "https://www.swpc.noaa.gov/products/solar-and-geophysical-event-reports",
+        "https://www.swpc.noaa.gov/products/goes-x-ray-flux",
+        "https://www.swpc.noaa.gov/"
+      ],
+      "monitoring_signals": [
+        "Sunspot number and areas",
+        "10.7 cm solar radio flux",
+        "Magnetically complex active regions (beta-gamma-delta)"
+      ],
+      "rationale": "High solar-cycle activity increases the odds of at least one X-class flare in the window.",
+      "id": "4fa2500d-2ffa-4b53-a981-d3b53884fcd3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Germany Ifo Business Climate index for September 2025 will print between 84.0 and 87.0 in the release on 2025-09-25.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-09-25",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Verify the headline Ifo Business Climate index value on ifo.de's official press release for September 2025 falls within [84.0, 87.0].",
+      "evidence": [
+        "https://www.ifo.de/en",
+        "https://www.cnbc.com/2025/09/17/china-rare-earths-curbs-hit-europe-businesses.html",
+        "https://tradingeconomics.com/germany/business-confidence"
+      ],
+      "monitoring_signals": [
+        "ZEW Expectations and Current Conditions",
+        "S&P Global/BME Germany PMI prints",
+        "German industrial orders and production",
+        "Energy prices impacting German industry"
+      ],
+      "rationale": "Persistent manufacturing softness and materials constraints keep sentiment subdued but not collapsing.",
+      "id": "e0b0411d-a921-4034-9877-9a215b723ed1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EUR/USD (Yahoo Finance: EURUSD=X) will close at or above 1.0900 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 74,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Using Yahoo Finance daily historical data for EURUSD=X (UTC close), success if any close on/before 2025-11-30 is \u2265 1.0900.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/EURUSD%3DX/history",
+        "https://www.cnbc.com/2025/09/16/mortgage-rates-drop-to-3-year-low-ahead-of-fed-meeting.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/other20250916a.htm"
+      ],
+      "monitoring_signals": [
+        "UST-Bund 2y/10y yield differentials",
+        "ECB/Fed guidance and SEP outcomes",
+        "Risk sentiment (equities, credit spreads)",
+        "Eurozone inflation and growth surprises"
+      ],
+      "rationale": "Markets price Fed easing; narrowing rate differentials and improved risk appetite can lift EUR.",
+      "id": "a89bcd28-9767-4f9c-9530-525e694abe8f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "LME 3-month Nickel official settlement price will reach at or above $19,000 per metric ton on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 74,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Check the London Metal Exchange Official Prices for Nickel 3-Month; success if any official 3M settlement on/before 2025-11-30 is \u2265 $19,000/mt.",
+      "evidence": [
+        "https://www.lme.com/",
+        "https://www.cnbc.com/2025/09/17/china-rare-earths-curbs-hit-europe-businesses.html",
+        "https://www.cnbc.com/markets/commodities/"
+      ],
+      "monitoring_signals": [
+        "Indonesian supply policy and mine output",
+        "LME/SHFE nickel inventories",
+        "Stainless steel and battery sector demand",
+        "USD index movements"
+      ],
+      "rationale": "Tightness risk and cyclical stabilization can spark upside tests despite supply growth.",
+      "id": "9eb3af8f-4e54-456f-ab26-f43b71add037",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Chicago Fed National Activity Index (CFNAI) for August 2025 will print between -0.20 and +0.15 in the release on 2025-09-23.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-09-23",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Verify the single-summary CFNAI value on the Chicago Fed website for August 2025 lies within [-0.20, +0.15].",
+      "evidence": [
+        "https://www.chicagofed.org/research/indicators/cfnai",
+        "http://www.federalreserve.gov/feeds/G17.html#3772",
+        "https://www.cnbc.com/2025/09/16/fico-credit-scores-fall-year-over-year-more-borrowers-miss-payments.html"
+      ],
+      "monitoring_signals": [
+        "Industrial production and capacity utilization",
+        "Employment-related indicators",
+        "Housing starts and permits",
+        "Survey PMIs and new orders"
+      ],
+      "rationale": "Mixed activity data suggest near-trend growth, keeping CFNAI near zero with modest downside risk.",
+      "id": "7739d989-6ab2-4774-bb54-58a55482e039",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "UK GfK Consumer Confidence index for September 2025 will be at or above -13 in the release due by 2025-09-20.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-09-20",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Confirm the headline GfK Consumer Confidence index level in the September 2025 press release on or before 2025-09-20 is \u2265 -13.",
+      "evidence": [
+        "https://www.gfk.com/press",
+        "https://www.cnbc.com/2025/09/16/tech-giants-to-pour-billions-into-uk-ai-heres-what-we-know-so-far.html",
+        "https://tradingeconomics.com/united-kingdom/consumer-confidence"
+      ],
+      "monitoring_signals": [
+        "UK inflation prints and BoE guidance",
+        "Labor market and wage growth",
+        "Retail sales and card spending data",
+        "Energy price developments"
+      ],
+      "rationale": "Improving rate outlook and investment announcements support sentiment stabilization.",
+      "id": "47b65bb7-21e6-4ead-b1a1-4e8973765d5a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX RBOB gasoline front-month futures will settle at or above $2.60 per gallon on at least one trading day by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 44,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Use CME Group official daily settlement for the front-month RB contract; success if any settlement on/before 2025-10-31 is \u2265 $2.60/gal.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/refined-products/rbob-gasoline.quote.html",
+        "https://www.nytimes.com/2025/09/16/business/energy-environment/california-gas-prices-oil-refineries.html",
+        "https://www.eia.gov/petroleum/weekly/"
+      ],
+      "monitoring_signals": [
+        "EIA gasoline inventories and refinery utilization",
+        "Brent/WTI price trends",
+        "Crack spreads (gasoline vs crude)",
+        "West Coast refinery outages and CARB specifications"
+      ],
+      "rationale": "Refinery tightness and seasonal demand can lift gasoline cracks and futures toward late-season highs.",
+      "id": "c5921e0b-0c09-4f4d-b332-f53e414dcde6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. ISM Manufacturing New Orders Index for September 2025 will print at or above 49.0 in the 2025-10-01 release.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-10-01",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Check the ISM Manufacturing Report On Business for September 2025; success if the New Orders subindex is \u2265 49.0.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/",
+        "http://www.federalreserve.gov/feeds/G17.html#3772",
+        "https://www.cnbc.com/2025/09/16/mortgage-rates-drop-to-3-year-low-ahead-of-fed-meeting.html"
+      ],
+      "monitoring_signals": [
+        "Regional Fed manufacturing surveys (Empire, Philly, Richmond, Dallas)",
+        "S&P Global US Manufacturing PMI new orders",
+        "Customer inventories and supplier deliveries"
+      ],
+      "rationale": "Stabilizing demand and inventory normalization support an improvement toward the 50 threshold.",
+      "id": "756323ac-3d26-4eb4-b518-0cefdaed0410",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China Total Social Financing (TSF) for September 2025 will be at or above CNY 3.2 trillion in the PBoC release by 2025-10-15.",
+      "category": "macro",
+      "horizon_days": 28,
+      "deadline": "2025-10-15",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Verify in PBoC monthly data that Aggregate Financing to the Real Economy for September 2025 is \u2265 CNY 3.2T.",
+      "evidence": [
+        "https://www.pbc.gov.cn/en/3688229/index.html",
+        "https://www.cnbc.com/2025/09/16/bessent-sees-trade-deal-likely-with-china-before-november-deadline-on-reciprocal-tariffs.html",
+        "https://www.cnbc.com/2025/09/17/china-rare-earths-curbs-hit-europe-businesses.html"
+      ],
+      "monitoring_signals": [
+        "PBoC liquidity operations and RRR moves",
+        "Credit impulse gauges",
+        "Local government bond issuance",
+        "Property sales and mortgage rate policies"
+      ],
+      "rationale": "Easing measures and targeted support should keep credit flows resilient into Q4.",
+      "id": "bbde337a-47a6-4347-bfc8-a22801e2de03",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
