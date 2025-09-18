@@ -22,7 +22,7 @@
       ],
       "rationale": "Lower mortgage rates support single-family starts; mixed consumer credit trends and softer manufacturing temper upside.",
       "id": "4097740f-9582-456f-ad5d-640d4aa31cd5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Inflation remains contained and global easing bias builds; SNB likely to maintain accommodative path.",
       "id": "832e2576-80c2-421b-87b7-adc3cbbd4f71",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -69,7 +69,7 @@
       ],
       "rationale": "Escalation in the region and ongoing U.S. sanctions cadence make an Iran-related action likely.",
       "id": "51c44523-8035-4f35-9679-c41b4a3d5e6f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -93,7 +93,7 @@
       ],
       "rationale": "Refinery constraints and seasonal factors support higher California pump prices.",
       "id": "b8ac2782-77bb-46fa-8837-501538d6167b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -116,7 +116,7 @@
       ],
       "rationale": "High solar-cycle activity increases the odds of at least one X-class flare in the window.",
       "id": "4fa2500d-2ffa-4b53-a981-d3b53884fcd3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "Persistent manufacturing softness and materials constraints keep sentiment subdued but not collapsing.",
       "id": "e0b0411d-a921-4034-9877-9a215b723ed1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "Markets price Fed easing; narrowing rate differentials and improved risk appetite can lift EUR.",
       "id": "a89bcd28-9767-4f9c-9530-525e694abe8f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Tightness risk and cyclical stabilization can spark upside tests despite supply growth.",
       "id": "9eb3af8f-4e54-456f-ab26-f43b71add037",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -212,7 +212,7 @@
       ],
       "rationale": "Mixed activity data suggest near-trend growth, keeping CFNAI near zero with modest downside risk.",
       "id": "7739d989-6ab2-4774-bb54-58a55482e039",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -236,7 +236,7 @@
       ],
       "rationale": "Improving rate outlook and investment announcements support sentiment stabilization.",
       "id": "47b65bb7-21e6-4ead-b1a1-4e8973765d5a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -260,7 +260,7 @@
       ],
       "rationale": "Refinery tightness and seasonal demand can lift gasoline cracks and futures toward late-season highs.",
       "id": "c5921e0b-0c09-4f4d-b332-f53e414dcde6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -283,7 +283,7 @@
       ],
       "rationale": "Stabilizing demand and inventory normalization support an improvement toward the 50 threshold.",
       "id": "756323ac-3d26-4eb4-b518-0cefdaed0410",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -307,7 +307,7 @@
       ],
       "rationale": "Easing measures and targeted support should keep credit flows resilient into Q4.",
       "id": "bbde337a-47a6-4347-bfc8-a22801e2de03",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

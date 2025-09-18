@@ -1,0 +1,70 @@
+{
+  "date": "2025-09-17",
+  "assessments": [
+    {
+      "id": "4097740f-9582-456f-ad5d-640d4aa31cd5",
+      "status": "pending",
+      "status_rationale": "The August 2025 U.S. housing starts release is scheduled for 2025-09-18, but no figure appears in the provided news items."
+    },
+    {
+      "id": "832e2576-80c2-421b-87b7-adc3cbbd4f71",
+      "status": "pending",
+      "status_rationale": "The SNB decision is due on 2025-09-26; no coverage here confirms the outcome."
+    },
+    {
+      "id": "51c44523-8035-4f35-9679-c41b4a3d5e6f",
+      "status": "pending",
+      "status_rationale": "No mention of new OFAC Iran-related sanctions in the provided news."
+    },
+    {
+      "id": "b8ac2782-77bb-46fa-8837-501538d6167b",
+      "status": "pending",
+      "status_rationale": "No AAA-reported California gasoline price updates are cited."
+    },
+    {
+      "id": "4fa2500d-2ffa-4b53-a981-d3b53884fcd3",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC report of an X1.0+ solar flare in the news items."
+    },
+    {
+      "id": "e0b0411d-a921-4034-9877-9a215b723ed1",
+      "status": "pending",
+      "status_rationale": "The September 2025 Ifo index is due 2025-09-25; no result reported here."
+    },
+    {
+      "id": "a89bcd28-9767-4f9c-9530-525e694abe8f",
+      "status": "pending",
+      "status_rationale": "No evidence provided on EUR/USD closes reaching 1.0900."
+    },
+    {
+      "id": "9eb3af8f-4e54-456f-ab26-f43b71add037",
+      "status": "pending",
+      "status_rationale": "No LME nickel settlement prices are mentioned."
+    },
+    {
+      "id": "7739d989-6ab2-4774-bb54-58a55482e039",
+      "status": "pending",
+      "status_rationale": "The CFNAI for August 2025 is due 2025-09-23; no print is cited."
+    },
+    {
+      "id": "47b65bb7-21e6-4ead-b1a1-4e8973765d5a",
+      "status": "pending",
+      "status_rationale": "The UK GfK September reading is due by 2025-09-20; not in the provided news."
+    },
+    {
+      "id": "c5921e0b-0c09-4f4d-b332-f53e414dcde6",
+      "status": "pending",
+      "status_rationale": "No RBOB futures settlement levels are referenced."
+    },
+    {
+      "id": "756323ac-3d26-4eb4-b518-0cefdaed0410",
+      "status": "pending",
+      "status_rationale": "The ISM Manufacturing New Orders for September 2025 is due 2025-10-01; no data yet."
+    },
+    {
+      "id": "bbde337a-47a6-4347-bfc8-a22801e2de03",
+      "status": "pending",
+      "status_rationale": "No report on China\u2019s September TSF is included; deadline is 2025-10-15."
+    }
+  ]
+}

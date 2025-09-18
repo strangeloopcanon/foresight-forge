@@ -1,0 +1,116 @@
+{
+  "bullets": [
+    {
+      "text": "Fed cuts interest rates, citing cooling inflation and softening labor market; signals data-dependent path ahead.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm"
+    },
+    {
+      "text": "Fed\u2019s September projections show inflation easing and growth slowing, implying gradual further easing over coming meetings.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917b.htm"
+    },
+    {
+      "text": "New Fed Governor Miran dissents, urging a 50 bp cut; rest of FOMC backs smaller move.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/17/new-trump-appointee-miran-calls-for-half-point-cut-in-only-dissent-as-rest-of-fed-bands-together.html"
+    },
+    {
+      "text": "Mortgage refinance applications jump nearly 60% as rates drop sharply post-Fed.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html"
+    },
+    {
+      "text": "Global equities mixed after Fed; Japan\u2019s Nikkei hits record while U.S. stocks struggle for direction.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/18/asia-pacific-markets-fed-cut-rates-as-expected-nikkei-225-hang-seng-index-kospi-nifty-50.html"
+    },
+    {
+      "text": "China reportedly bans purchases of Nvidia AI chips; Nvidia shares dip, escalating U.S.-China tech tensions.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/17/nvidia-ceo-disappointed-after-reports-china-has-banned-its-ai-chips.html"
+    },
+    {
+      "text": "U.S. investors and Trump administration near TikTok deal with China, potentially reshaping control and data safeguards.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f"
+    },
+    {
+      "text": "Netskope prices IPO at $19; StubHub slips on debut, signaling selective appetite for listings.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/17/stubhub-stub-stock-starts-trading-on-nyse-opens-at-25point35.html"
+    },
+    {
+      "text": "Meta unveils $799 Ray-Ban Display smart glasses and new spatial computing tools, expanding wearables and AR ecosystem.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/17/zuckerberg-799-meta-ray-ban-display-glasses.html"
+    },
+    {
+      "text": "Jaguar Land Rover halts production for third week after cyberattack, highlighting industrial cyber risk and supply chain fragility.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/09/17/jaguar-land-rover-to-pause-production-for-third-week-due-to-cyberattack/"
+    },
+    {
+      "text": "National Academies reaffirm robust evidence that greenhouse gases pose major risks, countering political skepticism.",
+      "tags": [
+        "science",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/17/climate/national-academies-climate-trump.html"
+    },
+    {
+      "text": "Researchers reverse stroke damage using stem cells in early studies, pointing to potential new therapies.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250916221821.htm"
+    },
+    {
+      "text": "Soil warming experiments suggest stronger long-term carbon release from soils than models assume, challenging climate projections.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250916221823.htm"
+    },
+    {
+      "text": "DOJ sues Rhode Island over race-based student loan forgiveness program, testing limits of targeted debt relief.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/17/student-loan-forgiveness-rhode-island-doj-lawsuit.html"
+    }
+  ]
+}

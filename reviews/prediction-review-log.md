@@ -549,3 +549,11 @@ Macro narrative remains relevant: expectations for Fed easing, falling mortgage 
 
 ---
 
+
+## 2025-09-17
+
+Today's coverage centers on the Federal Reserve’s first rate cut of the year and related market reactions, plus political and media headlines. None of the items explicitly report on the economic indicators, commodity levels, or policy actions tied to the listed forecasts.
+Key data with near-term deadlines—especially U.S. housing starts due today—are not cited in the provided news, so all calls remain pending. The Fed cut could influence FX, energy prices, and risk sentiment ahead of several targets, but without explicit figures or official releases in the summaries, there isn’t sufficient evidence to mark any forecast correct or incorrect yet.
+
+---
+

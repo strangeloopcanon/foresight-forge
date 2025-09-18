@@ -1,0 +1,266 @@
+{
+  "date": "2025-09-18",
+  "predictions": [
+    {
+      "text": "On 2025-09-21 (JST release window), the Bank of Japan will leave its short-term policy rate unchanged at its September meeting.",
+      "category": "rates",
+      "horizon_days": 3,
+      "deadline": "2025-09-21",
+      "confidence_pct": 62,
+      "log_odds": 0.49,
+      "verification_criteria": "BoJ Monetary Policy Statement shows the uncollateralized overnight call rate target/band unchanged from the prior meeting.",
+      "evidence": [
+        "https://www.boj.or.jp/en/announcements/release_2025/monetary.htm",
+        "https://www.reuters.com/markets/asia/bank-japan-policy-preview-2025-09-18/",
+        "https://www.cnbc.com/2025/09/18/asia-pacific-markets-fed-cut-rates-as-expected-nikkei-225-hang-seng-index-kospi-nifty-50.html"
+      ],
+      "monitoring_signals": [
+        "Japan core CPI and wage growth surprises",
+        "USD/JPY level and volatility",
+        "10-year JGB yield movements and BOJ bond operations",
+        "Credible media leaks prior to decision"
+      ],
+      "rationale": "Domestic inflation is easing and yen weakness argues against tightening now; BoJ likely waits for more data.",
+      "id": "32717251-1259-43fc-be02-bba650aeb4e0",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Cboe Volatility Index (VIX) will close at or above 22.00 on at least one trading day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 43,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Official Cboe daily close of VIX \u2265 22.00 on any session through 2025-10-31.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/",
+        "https://www.cnbc.com/2025/09/18/asia-pacific-markets-fed-cut-rates-as-expected-nikkei-225-hang-seng-index-kospi-nifty-50.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm"
+      ],
+      "monitoring_signals": [
+        "S&P 500 drawdowns and realized volatility",
+        "Credit spreads (CDX IG/HY) widening",
+        "Geopolitical headlines and event risk calendar",
+        "Options market skew and VVIX levels"
+      ],
+      "rationale": "Post-Fed regime shift, macro data volatility, and geopolitical risks raise odds of a volatility spike.",
+      "id": "9b86d1db-9ba8-4c5d-9895-9271d027dc28",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or above $74,000 on at least one day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 73,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Yahoo Finance BTC-USD or major exchange data shows an intraday high or close \u2265 $74,000 on any UTC date through 2025-11-30.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/BTC-USD/",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm",
+        "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html"
+      ],
+      "monitoring_signals": [
+        "Spot Bitcoin ETF net inflows/outflows",
+        "Dollar index (DXY) and U.S. real yields",
+        "Crypto perpetual funding rates and open interest",
+        "Risk sentiment in tech/growth equities"
+      ],
+      "rationale": "Easier U.S. financial conditions and potential ETF inflows support upside tail moves.",
+      "id": "9debafc7-2ec8-4231-8f6b-f63e54185d24",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX Henry Hub natural gas front-month futures will settle at or above $3.20 per MMBtu on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 73,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "CME Group official daily settlement for the front-month NG futures contract \u2265 $3.20/MMBtu on any session through 2025-11-30.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/natural-gas/natural-gas/natural-gas.html",
+        "https://www.eia.gov/naturalgas/storage/",
+        "https://www.cnbc.com/2025/09/18/asia-pacific-markets-fed-cut-rates-as-expected-nikkei-225-hang-seng-index-kospi-nifty-50.html"
+      ],
+      "monitoring_signals": [
+        "Weather-driven HDD/CDD forecasts",
+        "U.S. production and LNG feedgas volumes",
+        "Weekly EIA storage deviations from 5-year average",
+        "European TTF price moves and supply risks"
+      ],
+      "rationale": "Seasonal demand, storage trajectory, and LNG dynamics raise the chance of a Q4 price pop.",
+      "id": "e461a9e3-0b96-4e34-b92e-ba7e7e82eaf8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Initial Jobless Claims (seasonally adjusted) will be at or above 245,000 in at least one weekly report released by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 43,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Department of Labor UI Weekly Claims news release shows Initial Claims SA \u2265 245,000 in any weekly print through 2025-10-31.",
+      "evidence": [
+        "https://oui.doleta.gov/press/press.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917b.htm",
+        "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html"
+      ],
+      "monitoring_signals": [
+        "Continuing claims trend and insured unemployment levels",
+        "Layoff announcements (e.g., Challenger) and hiring freezes",
+        "Strike activity and seasonal adjustment quirks",
+        "Business surveys indicating demand softening"
+      ],
+      "rationale": "Softening labor indicators and slowing growth increase the odds of a claims uptick.",
+      "id": "8546fae0-12ea-46e4-bf2b-646bba0e6a6a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Copernicus ERA5 global surface air temperature for September 2025 will be the warmest September on record, per C3S monthly bulletin released by 2025-10-10.",
+      "category": "other",
+      "horizon_days": 22,
+      "deadline": "2025-10-10",
+      "confidence_pct": 59,
+      "log_odds": 0.36,
+      "verification_criteria": "Copernicus Climate Change Service monthly bulletin or dataset explicitly ranks September 2025 as warmest September since record start.",
+      "evidence": [
+        "https://climate.copernicus.eu/surface-air-temperature",
+        "https://www.nytimes.com/2025/09/17/climate/national-academies-climate-trump.html",
+        "https://www.sciencedaily.com/releases/2025/09/250916221823.htm"
+      ],
+      "monitoring_signals": [
+        "Global SST anomalies and marine heatwaves",
+        "Daily reanalysis anomalies leading into month-end",
+        "ENSO state and tropospheric temperature indices"
+      ],
+      "rationale": "Persistently elevated SSTs and recent records point to another monthly high-water mark.",
+      "id": "a3e58d7d-fe1a-40e0-b511-d99ea39c6e6a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The MBA Refinance Share of Mortgage Applications will reach at or above 36% in at least one weekly report released by 2025-10-31.",
+      "category": "rates",
+      "horizon_days": 43,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Mortgage Bankers Association Weekly Mortgage Applications Survey shows the refinance share of total applications \u2265 36% in any release through 2025-10-31.",
+      "evidence": [
+        "https://www.mba.org/news-research-and-resources/industry-news",
+        "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm"
+      ],
+      "monitoring_signals": [
+        "30-year and 15-year mortgage rate levels",
+        "MBS spreads and rate lock volumes",
+        "Refi application volumes and lender pricing changes"
+      ],
+      "rationale": "Rate cuts and falling mortgage rates should boost the refi mix temporarily.",
+      "id": "52e206eb-532f-434b-8052-370273997c28",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 3.95% on at least one trading day by 2025-10-31.",
+      "category": "rates",
+      "horizon_days": 43,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "FRED series DGS2 daily close \u2264 3.95% on any trading day through 2025-10-31.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917b.htm"
+      ],
+      "monitoring_signals": [
+        "Fed funds futures path for 2025-2026",
+        "Core inflation prints (CPI, PCE)",
+        "Treasury auction demand and term premium proxies",
+        "Economic surprise indices"
+      ],
+      "rationale": "Market pricing of additional easing and cooling inflation bias the 2y lower at least briefly.",
+      "id": "b29a358f-9a22-4d08-b62c-7d4486c744f6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.S. Commerce Department\u2019s BIS will publish a Federal Register rule expanding export controls on advanced AI chips to China.",
+      "category": "geopolitics",
+      "horizon_days": 43,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "A BIS interim/final rule appears in the Federal Register expanding performance thresholds or scope for AI accelerators/semiconductor tools to China.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/17/nvidia-ceo-disappointed-after-reports-china-has-banned-its-ai-chips.html",
+        "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+        "https://www.bis.doc.gov/index.php/newsroom/press-releases"
+      ],
+      "monitoring_signals": [
+        "Administration statements on tech controls",
+        "Hill pressure and hearings on China tech",
+        "Industry lobbying disclosures",
+        "Chinese retaliatory measures or procurement shifts"
+      ],
+      "rationale": "Escalating U.S.-China tech tensions and precedent of iterative BIS updates support new curbs.",
+      "id": "be0ed04e-51ab-4a98-a2b5-151c9adcf1ca",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Nikkei 225 (^N225) will close at or above 42,500 on at least one trading day by 2025-10-31 (Tokyo time).",
+      "category": "markets",
+      "horizon_days": 43,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Official close of the Nikkei 225 index \u2265 42,500 on any trading day through 2025-10-31.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/%5EN225/",
+        "https://www.cnbc.com/2025/09/18/asia-pacific-markets-fed-cut-rates-as-expected-nikkei-225-hang-seng-index-kospi-nifty-50.html",
+        "https://www.boj.or.jp/en/announcements/release_2025/monetary.htm"
+      ],
+      "monitoring_signals": [
+        "USD/JPY movements",
+        "BoJ policy stance and 10Y JGB yields",
+        "Foreign investor net flows into Japan",
+        "Earnings revisions for major exporters"
+      ],
+      "rationale": "A weaker yen and steady BoJ policy support Japanese equities near record highs.",
+      "id": "202a30ff-6a13-4577-9ab2-b7b6a6b5666c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Conference Board U.S. Consumer Confidence Index for September 2025 will be at or below 102.0 in the 2025-09-24 release.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-09-24",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Conference Board press release shows headline Consumer Confidence Index \u2264 102.0 for September 2025.",
+      "evidence": [
+        "https://www.conference-board.org/data/consumerconfidence.cfm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917b.htm",
+        "https://www.cnbc.com/2025/09/17/mortgage-refinance-demand-spikes-nearly-60percent-as-interest-rates-drop-sharply.html"
+      ],
+      "monitoring_signals": [
+        "Gasoline prices and real wage trends",
+        "Equity market moves during the survey window",
+        "Labor market indicators (claims, job postings)",
+        "Political/policy uncertainty headlines"
+      ],
+      "rationale": "Softening labor sentiment and mixed markets tend to weigh on confidence readings.",
+      "id": "16f7df8c-3328-440b-a610-4ccabdb66e92",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
