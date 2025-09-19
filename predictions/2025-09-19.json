@@ -1,0 +1,263 @@
+{
+  "date": "2025-09-19",
+  "predictions": [
+    {
+      "text": "From 2025-09-19 close to 2025-10-31 close, Intel (INTC) will outperform iShares Semiconductor ETF (SOXX) by at least 3.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 42,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Use Yahoo Finance adjusted close for INTC and SOXX. Compute percent change from 2025-09-19 close to 2025-10-31 close. If (PctChange_INTL - PctChange_SOXX) >= 3.0 percentage points, resolve True.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/18/intel-nvidia-investment.html",
+        "https://finance.yahoo.com/quote/INTC",
+        "https://finance.yahoo.com/quote/SOXX"
+      ],
+      "monitoring_signals": [
+        "Analyst rating/target changes on INTC and semiconductor peers",
+        "Details or milestones in Nvidia\u2013Intel collaboration",
+        "Sector flows into/out of semis ETFs (SOXX, SMH)",
+        "Headlines on China AI chip restrictions affecting competitors",
+        "Relative strength charts INTC vs SOXX"
+      ],
+      "rationale": "Partnership momentum, sentiment rotation toward diversified foundry/packaging exposure, and potential China-related headwinds for peers support near-term INTC relative outperformance.",
+      "id": "c5525f47-ac7b-4341-afc7-7a9e9b4ea8f1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, Netskope (NTSK) will close at or above its IPO price on at least 10 trading days since listing (counting from 2025-09-18 to 2025-10-31, Nasdaq trading days).",
+      "category": "markets",
+      "horizon_days": 42,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Obtain NTSK IPO price from the company press release or Nasdaq IPO summary. Count Nasdaq trading days from 2025-09-18 through 2025-10-31 where adjusted close >= IPO price. If count >= 10, resolve True.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/18/netskope-ipo-stock-nasdaq-ntsk.html",
+        "https://www.nasdaq.com/market-activity/stocks/ntsk/historical",
+        "https://www.nasdaq.com/market-activity/ipos"
+      ],
+      "monitoring_signals": [
+        "Lockup terms and insider selling disclosures",
+        "Cybersecurity peer earnings/guidance (PANW, CRWD, ZS)",
+        "IPO market breadth and aftermarket performance indices",
+        "Daily trading volume and intraday volatility in NTSK",
+        "Sell-side initiation coverage and price targets"
+      ],
+      "rationale": "Strong IPO reception and secular AI-driven security demand should sustain aftermarket support despite broader risk swings.",
+      "id": "2a100b7c-5cc9-4972-8c75-37a04fb72173",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, Google or PayPal will announce a live U.S. retailer pilot enabling AI agent\u2013guided shopping with checkout via PayPal/Braintree in Chrome, Search, or Shopping, via an official blog post or press release naming the retailer.",
+      "category": "tech",
+      "horizon_days": 42,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "A dated Google or PayPal official blog/press release by 2025-10-31 that explicitly names a U.S. retailer and describes a live (not future/planned) pilot where an AI agent initiates shopping flow and completes checkout using PayPal/Braintree on a Google surface.",
+      "evidence": [
+        "https://techcrunch.com/2025/09/18/google-and-paypal-team-up-on-agentic-commerce/",
+        "https://techcrunch.com/2025/09/18/google-brings-gemini-in-chrome-to-us-users-unveils-agentic-browsing-capabilities-and-more/",
+        "https://www.paypal.com/us/webapps/mpp/press-releases"
+      ],
+      "monitoring_signals": [
+        "Google/PayPal developer docs or SDK updates referencing agentic checkout",
+        "Retail partner leaks or case studies",
+        "Mentions during conferences or earnings calls",
+        "Chrome feature flags rollouts and user availability",
+        "Merchant adoption signals in PayPal/Braintree merchant updates"
+      ],
+      "rationale": "Aligned incentives and public partnership reveal suggest a near-term pilot to showcase agentic commerce capabilities.",
+      "id": "cd4cb536-6b19-4cb1-baa0-a66e3e448d95",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.S. 10Y\u20132Y Treasury yield spread (FRED: DGS10 minus DGS2) will be at or above -0.10 percentage points on at least one trading day.",
+      "category": "rates",
+      "horizon_days": 42,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Using FRED daily series DGS10 and DGS2, compute DGS10 - DGS2 each business day through 2025-10-31. If any day\u2019s spread >= -0.10 percentage points, resolve True.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.marketwatch.com/story/treasury-yields-rise-after-fed-rate-cut-with-powell-in-no-sprint-to-loosen-policy-5fbcfc3d"
+      ],
+      "monitoring_signals": [
+        "Fed communications and dot-path interpretations",
+        "Inflation data (CPI/PCE) surprises",
+        "Treasury auction bid-to-covers and tailing",
+        "Risk sentiment (VIX) and oil price trajectory",
+        "Labor market prints affecting front-end rates"
+      ],
+      "rationale": "Post-cut dynamics favor partial dis-inversion via front-end repricing and term premium variability.",
+      "id": "67308a5c-6915-41b3-bf61-4da74268341f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Shanghai\u2013New York weekly spot rate published on or before 2025-10-31 will be at least 15% higher than the 2025-09-05 reading.",
+      "category": "markets",
+      "horizon_days": 42,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Compare Drewry WCI Shanghai\u2013New York USD/FEU rate on 2025-09-05 to the highest weekly reading published up to 2025-10-31. If increase >= 15% [(new/old - 1) >= 0.15], resolve True.",
+      "evidence": [
+        "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index",
+        "https://www.cnbc.com/2025/09/18/fedex-fdx-q1-2026-earnings.html"
+      ],
+      "monitoring_signals": [
+        "Carrier blank sailings and GRIs on transpacific East Coast routes",
+        "Red Sea rerouting impacts and Panama Canal constraints",
+        "U.S. East Coast port congestion metrics",
+        "Bunker fuel prices and surcharges",
+        "Freight booking platform spot quotes"
+      ],
+      "rationale": "Peak-season demand, rerouting, and capacity management should keep upward pressure on East Coast spot rates.",
+      "id": "0a762de6-bc0e-441b-a49c-2a577b454c56",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area flash HICP headline inflation (YoY) for September 2025 will be between 2.3% and 2.7% in Eurostat\u2019s 2025-09-30 release.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-09-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Check Eurostat\u2019s flash HICP news release on 2025-09-30 for the euro area all-items HICP YoY. If the value is within [2.3%, 2.7%], inclusive, resolve True.",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Inflation_in_the_euro_area",
+        "https://www.cnbc.com/2025/09/19/asia-pacific-markets-nikkei-225-kospi-bank-of-japan.html"
+      ],
+      "monitoring_signals": [
+        "Country CPI flashes (Germany, Spain, France, Italy)",
+        "Energy price developments (Brent, natural gas)",
+        "Euro exchange rate pass-through",
+        "Wage growth and negotiated pay data",
+        "PMIs and services inflation components"
+      ],
+      "rationale": "Disinflation trend continues with energy base effects moderating; services inflation remains sticky but easing.",
+      "id": "07f3539e-c2a4-40ef-8cb9-25fc71846862",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Advance Retail and Food Services sales month-over-month for September 2025 will be between -0.2% and +0.5% in the Census release on 2025-10-16.",
+      "category": "macro",
+      "horizon_days": 27,
+      "deadline": "2025-10-16",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify the headline m/m percentage change in the U.S. Census Advance Monthly Retail Trade report released 2025-10-16. If value \u2208 [-0.2%, +0.5%], inclusive, resolve True.",
+      "evidence": [
+        "https://www.census.gov/retail.html",
+        "https://www.cnbc.com/2025/09/18/american-express-platinum-card-refresh-895-fee-3500-perks.html",
+        "https://www.cnbc.com/2025/09/18/fedex-fdx-q1-2026-earnings.html"
+      ],
+      "monitoring_signals": [
+        "Bank card spending trackers (BAC, JPM) and Redbook",
+        "Auto SAAR and gasoline sales volumes",
+        "Back-to-school seasonal effects",
+        "Online sales trends (Adobe Digital Economy Index)",
+        "Consumer confidence and labor market prints"
+      ],
+      "rationale": "Consumer momentum is mixed: services resilience offsets goods softness; gas prices add volatility.",
+      "id": "6b8b2529-eee4-49da-a41f-8acf8dd5b45e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Tokyo CPI excluding fresh food (core) year-over-year for September 2025 will be between 2.3% and 2.7% in the release due by 2025-10-04 (JST).",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-10-04",
+      "confidence_pct": 56,
+      "verification_criteria": "Check the Statistics Bureau of Japan release for Tokyo CPI \u2018All items less fresh food\u2019 YoY for September 2025. If within [2.3%, 2.7%], inclusive, resolve True.",
+      "evidence": [
+        "https://www.stat.go.jp/english/data/cpi/",
+        "https://www.cnbc.com/2025/09/19/asia-pacific-markets-nikkei-225-kospi-bank-of-japan.html"
+      ],
+      "monitoring_signals": [
+        "Utility tariff adjustments and fuel pass-throughs",
+        "Yen exchange rate vs USD and import prices",
+        "Services inflation components",
+        "BOJ commentary on inflation drivers",
+        "Base effects from prior-year data"
+      ],
+      "rationale": "Core inflation is easing but remains above BOJ\u2019s target; currency and energy dynamics keep it elevated.",
+      "id": "14611453-f5f7-4d33-8330-bc892f427436",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "UK GfK Consumer Confidence index for October 2025 will be at or above -12 in the release due by 2025-10-25.",
+      "category": "macro",
+      "horizon_days": 36,
+      "deadline": "2025-10-25",
+      "confidence_pct": 55,
+      "verification_criteria": "Use the GfK UK Consumer Confidence monthly press release for October 2025. If the reported headline index is >= -12, resolve True.",
+      "evidence": [
+        "https://www.gfk.com/press",
+        "https://www.cnbc.com/2025/09/19/asia-pacific-markets-nikkei-225-kospi-bank-of-japan.html"
+      ],
+      "monitoring_signals": [
+        "Mortgage rates and housing market indicators",
+        "Energy bills and Ofgem price cap dynamics",
+        "Labor market data (unemployment, wage growth)",
+        "Fiscal policy announcements and tax changes",
+        "Equity market performance influencing wealth effects"
+      ],
+      "rationale": "Falling inflation and potential BoE easing support a gradual recovery in sentiment.",
+      "id": "023c81c1-91c7-4cc7-a478-94e7ce523b17",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly U.S. Field Production of Crude Oil will reach at or above 13.4 million barrels per day in at least one report for a week ending by 2025-10-25, published by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 42,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Check EIA Weekly Petroleum Status Report or series WCRFPUS2. If any weekly data point for week ending on or before 2025-10-25 is >= 13.4 mb/d in a report published by 2025-10-31, resolve True.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCRFPUS2&f=W"
+      ],
+      "monitoring_signals": [
+        "Rig counts and frac spread counts",
+        "Permian productivity and DUC trends",
+        "Hurricane or maintenance disruptions",
+        "WTI price levels influencing activity",
+        "Pipeline takeaway and midstream updates"
+      ],
+      "rationale": "Near-record output and incremental productivity gains make a marginal new high plausible barring disruptions.",
+      "id": "89afb7b6-0477-4047-be3d-c8f8a46db7a0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, OFAC will announce at least one sanctions designation under its Venezuela-related program via public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 42,
+      "deadline": "2025-10-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Confirm a U.S. Treasury (OFAC) press release or Recent Actions update dated by 2025-10-31 that adds at least one SDN entry under the Venezuela program identifiers.",
+      "evidence": [
+        "https://ofac.treasury.gov/recent-actions",
+        "https://home.treasury.gov/news/press-releases"
+      ],
+      "monitoring_signals": [
+        "U.S.\u2013Venezuela diplomatic developments and election-related milestones",
+        "Oil sanctions waivers and licensing changes",
+        "Regional security or corruption cases tied to Venezuela",
+        "Congressional statements urging sanctions",
+        "OFAC cadence of weekly updates"
+      ],
+      "rationale": "OFAC actions against Venezuela entities remain frequent amid shifting oil licensing and political timelines.",
+      "id": "0b399fad-d245-46ba-9ae0-02a1c9136070",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}

@@ -22,7 +22,7 @@
       ],
       "rationale": "Domestic inflation is easing and yen weakness argues against tightening now; BoJ likely waits for more data.",
       "id": "32717251-1259-43fc-be02-bba650aeb4e0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Post-Fed regime shift, macro data volatility, and geopolitical risks raise odds of a volatility spike.",
       "id": "9b86d1db-9ba8-4c5d-9895-9271d027dc28",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -70,7 +70,7 @@
       ],
       "rationale": "Easier U.S. financial conditions and potential ETF inflows support upside tail moves.",
       "id": "9debafc7-2ec8-4231-8f6b-f63e54185d24",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "rationale": "Seasonal demand, storage trajectory, and LNG dynamics raise the chance of a Q4 price pop.",
       "id": "e461a9e3-0b96-4e34-b92e-ba7e7e82eaf8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Softening labor indicators and slowing growth increase the odds of a claims uptick.",
       "id": "8546fae0-12ea-46e4-bf2b-646bba0e6a6a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rationale": "Persistently elevated SSTs and recent records point to another monthly high-water mark.",
       "id": "a3e58d7d-fe1a-40e0-b511-d99ea39c6e6a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "Rate cuts and falling mortgage rates should boost the refi mix temporarily.",
       "id": "52e206eb-532f-434b-8052-370273997c28",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Market pricing of additional easing and cooling inflation bias the 2y lower at least briefly.",
       "id": "b29a358f-9a22-4d08-b62c-7d4486c744f6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -211,7 +211,7 @@
       ],
       "rationale": "Escalating U.S.-China tech tensions and precedent of iterative BIS updates support new curbs.",
       "id": "be0ed04e-51ab-4a98-a2b5-151c9adcf1ca",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -235,7 +235,7 @@
       ],
       "rationale": "A weaker yen and steady BoJ policy support Japanese equities near record highs.",
       "id": "202a30ff-6a13-4577-9ab2-b7b6a6b5666c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -259,7 +259,7 @@
       ],
       "rationale": "Softening labor sentiment and mixed markets tend to weigh on confidence readings.",
       "id": "16f7df8c-3328-440b-a610-4ccabdb66e92",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

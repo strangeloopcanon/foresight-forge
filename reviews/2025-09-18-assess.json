@@ -1,0 +1,60 @@
+{
+  "date": "2025-09-18",
+  "assessments": [
+    {
+      "id": "32717251-1259-43fc-be02-bba650aeb4e0",
+      "status": "pending",
+      "status_rationale": "BOJ decision not yet released; coverage says the rate decision is 'on deck' with Japan inflation cooling."
+    },
+    {
+      "id": "9b86d1db-9ba8-4c5d-9895-9271d027dc28",
+      "status": "pending",
+      "status_rationale": "No evidence today that VIX closed \u2265 22; timeline still open."
+    },
+    {
+      "id": "9debafc7-2ec8-4231-8f6b-f63e54185d24",
+      "status": "pending",
+      "status_rationale": "No report of BTC \u2265 $74,000; deadline remains in November."
+    },
+    {
+      "id": "e461a9e3-0b96-4e34-b92e-ba7e7e82eaf8",
+      "status": "pending",
+      "status_rationale": "No Henry Hub settlement data cited; window remains open through Nov 30."
+    },
+    {
+      "id": "8546fae0-12ea-46e4-bf2b-646bba0e6a6a",
+      "status": "pending",
+      "status_rationale": "No weekly claims figures in today\u2019s news; at/above 245k not confirmed."
+    },
+    {
+      "id": "a3e58d7d-fe1a-40e0-b511-d99ea39c6e6a",
+      "status": "pending",
+      "status_rationale": "September not complete and C3S bulletin due by Oct 10; no outcome yet."
+    },
+    {
+      "id": "52e206eb-532f-434b-8052-370273997c28",
+      "status": "pending",
+      "status_rationale": "No MBA refinance share update reported; threshold not verified."
+    },
+    {
+      "id": "b29a358f-9a22-4d08-b62c-7d4486c744f6",
+      "status": "pending",
+      "status_rationale": "Story notes Treasury yields rose post-Fed cut; no confirmation of 2Y \u2264 3.95%."
+    },
+    {
+      "id": "be0ed04e-51ab-4a98-a2b5-151c9adcf1ca",
+      "status": "pending",
+      "status_rationale": "Tension around Nvidia/China noted, but no BIS Federal Register rule expanding AI chip controls reported."
+    },
+    {
+      "id": "202a30ff-6a13-4577-9ab2-b7b6a6b5666c",
+      "status": "pending",
+      "status_rationale": "Nikkei hit record highs, but a close \u2265 42,500 is not explicitly confirmed."
+    },
+    {
+      "id": "16f7df8c-3328-440b-a610-4ccabdb66e92",
+      "status": "pending",
+      "status_rationale": "Conference Board September reading releases on Sep 24; result unknown."
+    }
+  ]
+}

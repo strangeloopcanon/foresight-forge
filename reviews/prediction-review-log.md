@@ -557,3 +557,12 @@ Key data with near-term deadlines—especially U.S. housing starts due today—a
 
 ---
 
+
+## 2025-09-18
+
+Today's flow tilts supportive for two Japan-related calls but does not resolve them. Cooling Japan core inflation and global easing chatter post-Fed cut raise odds the BOJ stays put, while the Nikkei’s fresh records suggest momentum toward the 42,500 target. However, neither the BOJ decision nor a definitive Nikkei close at or above 42,500 is confirmed yet.
+
+In the U.S., Treasury yields reportedly rose after the Fed cut, which works against a near-term 2-year yield drop to 3.95%, though the window remains open through October. Macro and market volatility signals (VIX ≥ 22) aren’t evidenced in today’s news. Energy, crypto, and mortgage-refi share items saw no concrete updates; the ERA5 September temperature assessment and U.S. consumer confidence are still ahead. On tech-export policy, headlines spotlight China constraining Nvidia’s market access, but there’s no U.S. BIS rulemaking update yet toward expanded AI chip controls.
+
+---
+

@@ -1,0 +1,120 @@
+{
+  "bullets": [
+    {
+      "text": "Nvidia invests $5B in Intel for AI chip collaboration; Intel shares surge, signaling deepening partnership across data center and PC silicon.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/18/intel-nvidia-investment.html"
+    },
+    {
+      "text": "China restricts Nvidia AI chips; Huawei unveils new AI infrastructure, accelerating domestic alternatives and U.S.-China tech decoupling.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/18/china-blocks-nvidia-ai-chips.html"
+    },
+    {
+      "text": "Fed cuts rates, but Treasury yields rise as Powell signals no sprint to loosen policy; market expects gradual easing path.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/treasury-yields-rise-after-fed-rate-cut-with-powell-in-no-sprint-to-loosen-policy-5fbcfc3d"
+    },
+    {
+      "text": "Fed cut sets stage for Asia easing; Japan core inflation hits lowest since 2024, Nikkei reaches record ahead of BOJ decision.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/19/asia-pacific-markets-nikkei-225-kospi-bank-of-japan.html"
+    },
+    {
+      "text": "FedEx beats expectations and points to easing trade uncertainty; shares rise on improved demand and efficiency.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/18/fedex-fdx-q1-2026-earnings.html"
+    },
+    {
+      "text": "Cybersecurity firm Netskope jumps 18% in IPO, valuing it at $8.6B; underscores robust investor appetite for AI-driven security.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/18/netskope-ipo-stock-nasdaq-ntsk.html"
+    },
+    {
+      "text": "Google brings Gemini to Chrome for U.S. users, unveiling agentic browsing and shareable AI assistants.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/09/18/google-brings-gemini-in-chrome-to-us-users-unveils-agentic-browsing-capabilities-and-more/"
+    },
+    {
+      "text": "Google and PayPal partner on agentic commerce, enabling AI-driven shopping flows and integrated payments.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/09/18/google-and-paypal-team-up-on-agentic-commerce/"
+    },
+    {
+      "text": "Notion surpasses $500M annual revenue and launches AI agents for analysis and automation, intensifying competition with Microsoft.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/18/notion-launches-ai-agent-as-it-crosses-500-million-in-annual-revenue.html"
+    },
+    {
+      "text": "American Express raises Platinum annual fee to $895 while adding perks, highlighting resilient high-end consumer demand.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/18/american-express-platinum-card-refresh-895-fee-3500-perks.html"
+    },
+    {
+      "text": "Trump asks Supreme Court to allow firing Fed Governor Lisa Cook, escalating challenge to central bank independence.",
+      "tags": [
+        "geopolitics",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/09/18/trump-supreme-court-lisa-cook-fed.html"
+    },
+    {
+      "text": "RFK Jr.'s vaccine panel to vote on Hepatitis B and Covid shots, potentially affecting access and insurance coverage.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/18/covid-shot-access-coverage-at-stake-as-rfk-jrs-vaccine-panel-meets-.html"
+    },
+    {
+      "text": "DACLab claims direct air capture uses less electricity than competitors, promising lower costs for CO2 removal.",
+      "tags": [
+        "energy",
+        "science"
+      ],
+      "link": "https://techcrunch.com/2025/09/18/daclab-says-it-can-remove-co2-using-less-electricity-than-many-competitors/"
+    },
+    {
+      "text": "NASA Perseverance finds new evidence of past habitability in Jezero crater, bolstering case for ancient Martian life-friendly environments.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250917220959.htm"
+    },
+    {
+      "text": "Simple stool DNA test detects 90% of colorectal cancers, signaling a less invasive screening option.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250916221920.htm"
+    }
+  ]
+}
