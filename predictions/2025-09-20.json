@@ -1,0 +1,236 @@
+{
+  "date": "2025-09-20",
+  "predictions": [
+    {
+      "text": "The U.S. federal government will enter a lapse in appropriations (shutdown) beginning 2025-10-01 due to no enacted continuing resolution or full-year appropriations.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-10-02",
+      "confidence_pct": 57,
+      "verification_criteria": "OMB publicly confirms a lapse in appropriations and agencies implement shutdown contingency plans on or about 2025-10-01, per official OMB/agency notices.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/19/us/politics/house-spending-extension.html"
+      ],
+      "monitoring_signals": [
+        "House/Senate floor schedule and CR text filings",
+        "Statements from Congressional leadership and the White House",
+        "OMB and OPM memos on contingency plans",
+        "Market stress indicators (VIX, front-end bill yields)"
+      ],
+      "rationale": "Talks are stalled and timeline is short; brinkmanship raises shutdown odds despite last-minute deal risk.",
+      "id": "ece76790-7628-47e6-a791-db138826e481",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the SEC will publish a Notice of Proposed Rulemaking to modify quarterly earnings/reporting cadence (e.g., changes to Form 10-Q or issuer earnings release expectations).",
+      "category": "markets",
+      "horizon_days": 41,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "A proposed rule appears on sec.gov or federalregister.gov explicitly addressing issuer periodic reporting frequency or related disclosure cadence.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/19/sec-to-propose-rule-change-on-trumps-call-to-end-quarterly-earnings-reporting-says-chair-atkins.html"
+      ],
+      "monitoring_signals": [
+        "SEC open meeting agendas and rulemaking calendar",
+        "Public comments or speeches by SEC Commissioners/Staff",
+        "Federal Register docket activity for Exchange Act reporting rules"
+      ],
+      "rationale": "Public signaling suggests near-term action; scope may be exploratory but a proposal is plausible by end-October.",
+      "id": "108872d6-4ffd-4982-ba11-606c20a44333",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. AAA national average price for regular gasoline will be at or below $3.45 per gallon on at least one day by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 56,
+      "deadline": "2025-11-15",
+      "confidence_pct": 57,
+      "verification_criteria": "AAA Gas Prices (gasprices.aaa.com) shows a U.S. national average regular gasoline price \u2264 $3.45 on any day up to the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/19/gas-expected-to-get-cheaper-this-fall.html"
+      ],
+      "monitoring_signals": [
+        "EIA gasoline inventories and implied demand",
+        "RBOB futures and gasoline crack spreads",
+        "Refinery utilization and maintenance schedules",
+        "Hurricane disruptions and regional price spikes"
+      ],
+      "rationale": "Seasonal demand softening, easing cracks, and improved supply suggest lower pump prices into mid-November.",
+      "id": "ab43b695-669f-4f9e-8943-f5728da401ac",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "S&P 500 Index (^GSPC) will close at or below 5,200 on at least one trading day by 2025-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 41,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Yahoo Finance (^GSPC) or S&P DJI official close shows an index closing level \u2264 5200 on any trading day before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/19/us-treasury-yields-investors-weigh-the-state-of-the-us-economy.html",
+        "https://www.nytimes.com/2025/09/19/us/politics/house-spending-extension.html"
+      ],
+      "monitoring_signals": [
+        "10Y Treasury yield (FRED: DGS10) and term premium",
+        "HY credit spreads (ICE BofA OAS)",
+        "VIX term structure",
+        "Earnings preannouncements and revisions"
+      ],
+      "rationale": "Higher real yields, shutdown risk, and softening growth odds raise the chance of a pullback.",
+      "id": "f60d3622-d06b-4b8c-a7e5-6901622433f1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Ethereum (ETH-USD) will trade at or above $3,900 on at least one day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 71,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "CoinMarketCap or Coinbase high/last trade shows ETH-USD \u2265 $3,900 on any UTC day before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/19/musks-xai-10-billion-at-200-billion-valuation.html"
+      ],
+      "monitoring_signals": [
+        "BTC price trend and dominance",
+        "ETH-BTC cross performance",
+        "Spot ETF flows/rumors and regulatory headlines",
+        "On-chain activity and gas fees"
+      ],
+      "rationale": "Risk appetite and crypto-beta could lift majors; BTC strength often pulls ETH through resistance.",
+      "id": "2b76a7b7-e670-48e7-9981-9102afad1351",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan Consumer Sentiment Index (final) for September 2025 will print between 66.0 and 70.0 in the release by 2025-09-27.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-09-27",
+      "confidence_pct": 56,
+      "verification_criteria": "University of Michigan Surveys of Consumers press release shows the final September 2025 headline index within [66.0, 70.0].",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/19/gas-expected-to-get-cheaper-this-fall.html"
+      ],
+      "monitoring_signals": [
+        "Preliminary Michigan sentiment reading",
+        "Gasoline prices and inflation expectations",
+        "Stock market moves and labor market headlines"
+      ],
+      "rationale": "Lower gas prices help, but rate worries cap gains; revisions typically modest.",
+      "id": "0e599445-4c13-4c13-b6f4-360961b3c1b2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. change in total nonfarm payrolls for September 2025 will be between +110,000 and +230,000, per BLS Employment Situation on 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-10-03",
+      "confidence_pct": 56,
+      "verification_criteria": "BLS Employment Situation news release shows the headline change in total nonfarm payroll employment within [+110k, +230k] for September 2025 (initial print).",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/19/us-treasury-yields-investors-weigh-the-state-of-the-us-economy.html"
+      ],
+      "monitoring_signals": [
+        "ADP report and Homebase/Indeed trackers",
+        "Initial and continuing unemployment claims",
+        "ISM employment components",
+        "Challenger job cuts"
+      ],
+      "rationale": "Labor market cooling but still expanding; indicators point to a moderate gain.",
+      "id": "f99b6df9-670a-4963-a2b9-7a33770533a4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PPI Final Demand year-over-year for September 2025 will be between 2.0% and 2.7%, as reported by BLS on 2025-10-09.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2025-10-09",
+      "confidence_pct": 55,
+      "verification_criteria": "BLS Producer Price Index news release headline shows September 2025 Final Demand YoY within [2.0%, 2.7%].",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/19/gas-expected-to-get-cheaper-this-fall.html"
+      ],
+      "monitoring_signals": [
+        "WTI/RBOB moves and refinery margins",
+        "ISM prices paid indices",
+        "Import/export price indices",
+        "Freight rates and supply chain indicators"
+      ],
+      "rationale": "Energy softness and contained core pipeline pressures keep PPI in a moderate range.",
+      "id": "8fd22c3e-a416-42fe-a1f6-25e2c0b54384",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/CNH (Yahoo Finance: USDCNH=X) will close at or above 7.55 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 71,
+      "deadline": "2025-11-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Yahoo Finance historical data for USDCNH=X shows a daily close \u2265 7.55 on any UTC trading day before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/19/us-treasury-yields-investors-weigh-the-state-of-the-us-economy.html"
+      ],
+      "monitoring_signals": [
+        "PBOC daily USD/CNY fix vs models",
+        "Chinese growth data and stimulus headlines",
+        "U.S. rate expectations and DXY",
+        "CNH liquidity (CNH HIBOR) and portfolio flows"
+      ],
+      "rationale": "Growth headwinds and policy divergence support a stronger USD versus CNH.",
+      "id": "b95e43b2-d6d1-46b8-93ed-2f896bf645e6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent front-month crude futures will settle at or above $97.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 71,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "ICE Futures Europe official daily settlement price for the front-month Brent contract is \u2265 $97.00 on any trading day before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/19/panama-canal-energy-lng-pipeline-trade-shipping.html",
+        "https://www.nytimes.com/2025/09/19/world/europe/russian-fighter-jets-estonia-nato.html"
+      ],
+      "monitoring_signals": [
+        "OPEC+ policy headlines and compliance",
+        "OECD inventories and EIA weekly crude balances",
+        "Geopolitical disruptions (Russia, Middle East)",
+        "Brent time spreads (backwardation/contango)"
+      ],
+      "rationale": "Tight supply, geopolitics, and logistics risks can spike Brent despite seasonal demand easing.",
+      "id": "6f7c7d9c-3a83-42b8-a7a5-d8a22686fce4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, xAI will announce or file that it has raised at least $10 billion in new equity funding at a post-money valuation of at least $180 billion.",
+      "category": "tech",
+      "horizon_days": 71,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Confirmed via xAI/company press release or SEC Form D indicating \u2265$10B sold, with valuation threshold corroborated by a company or lead investor statement reported by major outlets.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/19/musks-xai-10-billion-at-200-billion-valuation.html"
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR Form D filings for X.AI Corp or affiliates",
+        "Announcements from lead investors",
+        "Coverage by WSJ/FT/Bloomberg citing on-record statements",
+        "AI model/product launch cadence affecting investor demand"
+      ],
+      "rationale": "Investor appetite for frontier AI remains strong; reported terms imply advanced negotiations.",
+      "id": "9a749e7a-65d1-4d6e-a728-48d2c6024900",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

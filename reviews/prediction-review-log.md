@@ -566,3 +566,12 @@ In the U.S., Treasury yields reportedly rose after the Fed cut, which works agai
 
 ---
 
+
+## 2025-09-19
+
+Today's news flow is dominated by U.S. politics and policy headlines (H-1B fee proposal, shutdown brinkmanship, TikTok negotiations) and a mix of market/tech stories (IPO activity, Microsoft pricing, healthcare approvals). None of these items provide definitive outcomes for the tracked forecasts, which hinge on forthcoming economic data releases, market performance over time windows, or specific corporate/government announcements not covered today.
+
+A potential government shutdown could delay certain U.S. data publications (e.g., Census retail sales), which may affect timing but not necessarily the substance of verification if releases are rescheduled. Market sentiment shifts from macro and geopolitical developments could influence equities and rates (affecting the INTC vs. SOXX call and the 10Y–2Y curve), yet no concrete metrics were provided today to change statuses. Overall, all predictions remain open and await scheduled data, official announcements, or end-of-window market closes.
+
+---
+

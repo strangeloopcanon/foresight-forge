@@ -1,0 +1,60 @@
+{
+  "date": "2025-09-19",
+  "assessments": [
+    {
+      "id": "c5525f47-ac7b-4341-afc7-7a9e9b4ea8f1",
+      "status": "pending",
+      "status_rationale": "Outcome depends on relative performance through 2025-10-31 close; no conclusive intel vs. SOXX performance evidence in today's news."
+    },
+    {
+      "id": "2a100b7c-5cc9-4972-8c75-37a04fb72173",
+      "status": "pending",
+      "status_rationale": "No trading-day count information for NTSK relative to its IPO price; the window runs through 2025-10-31."
+    },
+    {
+      "id": "cd4cb536-6b19-4cb1-baa0-a66e3e448d95",
+      "status": "pending",
+      "status_rationale": "No announcement from Google or PayPal about an AI agent shopping pilot with PayPal/Braintree was reported today."
+    },
+    {
+      "id": "67308a5c-6915-41b3-bf61-4da74268341f",
+      "status": "pending",
+      "status_rationale": "No data on the 10Y\u20132Y Treasury spread reaching -0.10 pp or higher was provided; the period remains open."
+    },
+    {
+      "id": "0a762de6-bc0e-441b-a49c-2a577b454c56",
+      "status": "pending",
+      "status_rationale": "No Drewry Shanghai\u2013New York spot rate update was cited; evaluation depends on weekly readings through 2025-10-31."
+    },
+    {
+      "id": "07f3539e-c2a4-40ef-8cb9-25fc71846862",
+      "status": "pending",
+      "status_rationale": "Euro area flash HICP for September 2025 has not been released yet (due 2025-09-30)."
+    },
+    {
+      "id": "6b8b2529-eee4-49da-a41f-8acf8dd5b45e",
+      "status": "pending",
+      "status_rationale": "September 2025 retail sales are scheduled for 2025-10-16; no preliminary figures in today's coverage."
+    },
+    {
+      "id": "14611453-f5f7-4d33-8330-bc892f427436",
+      "status": "pending",
+      "status_rationale": "Tokyo core CPI for September 2025 is due by 2025-10-04; no data reported yet."
+    },
+    {
+      "id": "023c81c1-91c7-4cc7-a478-94e7ce523b17",
+      "status": "pending",
+      "status_rationale": "GfK UK Consumer Confidence for October 2025 is not out yet (due by 2025-10-25)."
+    },
+    {
+      "id": "89afb7b6-0477-4047-be3d-c8f8a46db7a0",
+      "status": "pending",
+      "status_rationale": "No EIA weekly crude oil production figures reaching \u226513.4 mb/d were mentioned; the window remains open through late October."
+    },
+    {
+      "id": "0b399fad-d245-46ba-9ae0-02a1c9136070",
+      "status": "pending",
+      "status_rationale": "No OFAC actions under the Venezuela sanctions program were reported today; deadline is 2025-10-31."
+    }
+  ]
+}

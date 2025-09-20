@@ -22,7 +22,7 @@
       ],
       "rationale": "Partnership momentum, sentiment rotation toward diversified foundry/packaging exposure, and potential China-related headwinds for peers support near-term INTC relative outperformance.",
       "id": "c5525f47-ac7b-4341-afc7-7a9e9b4ea8f1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Strong IPO reception and secular AI-driven security demand should sustain aftermarket support despite broader risk swings.",
       "id": "2a100b7c-5cc9-4972-8c75-37a04fb72173",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -70,7 +70,7 @@
       ],
       "rationale": "Aligned incentives and public partnership reveal suggest a near-term pilot to showcase agentic commerce capabilities.",
       "id": "cd4cb536-6b19-4cb1-baa0-a66e3e448d95",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "rationale": "Post-cut dynamics favor partial dis-inversion via front-end repricing and term premium variability.",
       "id": "67308a5c-6915-41b3-bf61-4da74268341f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -117,7 +117,7 @@
       ],
       "rationale": "Peak-season demand, rerouting, and capacity management should keep upward pressure on East Coast spot rates.",
       "id": "0a762de6-bc0e-441b-a49c-2a577b454c56",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "Disinflation trend continues with energy base effects moderating; services inflation remains sticky but easing.",
       "id": "07f3539e-c2a4-40ef-8cb9-25fc71846862",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "Consumer momentum is mixed: services resilience offsets goods softness; gas prices add volatility.",
       "id": "6b8b2529-eee4-49da-a41f-8acf8dd5b45e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Core inflation is easing but remains above BOJ\u2019s target; currency and energy dynamics keep it elevated.",
       "id": "14611453-f5f7-4d33-8330-bc892f427436",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -210,7 +210,7 @@
       ],
       "rationale": "Falling inflation and potential BoE easing support a gradual recovery in sentiment.",
       "id": "023c81c1-91c7-4cc7-a478-94e7ce523b17",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "rationale": "Near-record output and incremental productivity gains make a marginal new high plausible barring disruptions.",
       "id": "89afb7b6-0477-4047-be3d-c8f8a46db7a0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -256,7 +256,7 @@
       ],
       "rationale": "OFAC actions against Venezuela entities remain frequent amid shifting oil licensing and political timelines.",
       "id": "0b399fad-d245-46ba-9ae0-02a1c9136070",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]
