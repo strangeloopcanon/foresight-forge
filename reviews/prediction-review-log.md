@@ -575,3 +575,12 @@ A potential government shutdown could delay certain U.S. data publications (e.g.
 
 ---
 
+
+## 2025-09-20
+
+Today’s news highlights renewed brinkmanship over federal funding, with Democratic leaders seeking a meeting to avert a shutdown. This sustains elevated near-term risk but offers no decisive evidence on whether a lapse in appropriations will occur on October 1, so the shutdown call remains unresolved. Broader policy headlines (H-1B fee changes, TikTok deal framework) do not directly settle any listed forecasts.
+
+Market-wise, the week-in-review notes record equity levels alongside a Fed rate cut and rising long-term yields. That mix can raise drawdown risk into October, but there is no specific trigger confirming an S&P 500 close ≤5,200 yet. Energy, FX, and crypto targets lack fresh datapoints in the feed. Private market strength (OpenAI-led surge) marginally supports the plausibility of large funding rounds, but there is no concrete evidence that xAI has announced or filed a qualifying raise. Upcoming key data releases (Michigan sentiment, payrolls, PPI) remain pending within their respective windows.
+
+---
+

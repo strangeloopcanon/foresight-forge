@@ -19,7 +19,7 @@
       ],
       "rationale": "Talks are stalled and timeline is short; brinkmanship raises shutdown odds despite last-minute deal risk.",
       "id": "ece76790-7628-47e6-a791-db138826e481",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Public signaling suggests near-term action; scope may be exploratory but a proposal is plausible by end-October.",
       "id": "108872d6-4ffd-4982-ba11-606c20a44333",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Seasonal demand softening, easing cracks, and improved supply suggest lower pump prices into mid-November.",
       "id": "ab43b695-669f-4f9e-8943-f5728da401ac",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Higher real yields, shutdown risk, and softening growth odds raise the chance of a pullback.",
       "id": "f60d3622-d06b-4b8c-a7e5-6901622433f1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Risk appetite and crypto-beta could lift majors; BTC strength often pulls ETH through resistance.",
       "id": "2b76a7b7-e670-48e7-9981-9102afad1351",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "rationale": "Lower gas prices help, but rate worries cap gains; revisions typically modest.",
       "id": "0e599445-4c13-4c13-b6f4-360961b3c1b2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -144,7 +144,7 @@
       ],
       "rationale": "Labor market cooling but still expanding; indicators point to a moderate gain.",
       "id": "f99b6df9-670a-4963-a2b9-7a33770533a4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -165,7 +165,7 @@
       ],
       "rationale": "Energy softness and contained core pipeline pressures keep PPI in a moderate range.",
       "id": "8fd22c3e-a416-42fe-a1f6-25e2c0b54384",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -186,7 +186,7 @@
       ],
       "rationale": "Growth headwinds and policy divergence support a stronger USD versus CNH.",
       "id": "b95e43b2-d6d1-46b8-93ed-2f896bf645e6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Tight supply, geopolitics, and logistics risks can spike Brent despite seasonal demand easing.",
       "id": "6f7c7d9c-3a83-42b8-a7a5-d8a22686fce4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -229,7 +229,7 @@
       ],
       "rationale": "Investor appetite for frontier AI remains strong; reported terms imply advanced negotiations.",
       "id": "9a749e7a-65d1-4d6e-a728-48d2c6024900",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

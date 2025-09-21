@@ -1,0 +1,60 @@
+{
+  "date": "2025-09-20",
+  "assessments": [
+    {
+      "id": "ece76790-7628-47e6-a791-db138826e481",
+      "status": "pending",
+      "status_rationale": "News notes leadership outreach to avert a shutdown, but there is no definitive evidence that a lapse in appropriations will or will not occur on 2025-10-01."
+    },
+    {
+      "id": "108872d6-4ffd-4982-ba11-606c20a44333",
+      "status": "pending",
+      "status_rationale": "No reporting indicates the SEC has issued an NPRM on quarterly reporting cadence; no resolution before the 2025-10-31 deadline."
+    },
+    {
+      "id": "ab43b695-669f-4f9e-8943-f5728da401ac",
+      "status": "pending",
+      "status_rationale": "No data on AAA national average gasoline prices in the provided news; outcome remains open through 2025-11-15."
+    },
+    {
+      "id": "f60d3622-d06b-4b8c-a7e5-6901622433f1",
+      "status": "pending",
+      "status_rationale": "While markets recently hit records, there is no evidence that the S&P 500 has closed at or below 5,200 since; window remains open until 2025-10-31."
+    },
+    {
+      "id": "2b76a7b7-e670-48e7-9981-9102afad1351",
+      "status": "pending",
+      "status_rationale": "No mention of ETH price levels; target remains testable through 2025-11-30."
+    },
+    {
+      "id": "0e599445-4c13-4c13-b6f4-360961b3c1b2",
+      "status": "pending",
+      "status_rationale": "The final University of Michigan September print is not reported in the news; release due by 2025-09-27."
+    },
+    {
+      "id": "f99b6df9-670a-4963-a2b9-7a33770533a4",
+      "status": "pending",
+      "status_rationale": "September 2025 payrolls are scheduled for 2025-10-03; no early figures provided."
+    },
+    {
+      "id": "8fd22c3e-a416-42fe-a1f6-25e2c0b54384",
+      "status": "pending",
+      "status_rationale": "September 2025 PPI YoY will be reported on 2025-10-09; no interim data cited."
+    },
+    {
+      "id": "b95e43b2-d6d1-46b8-93ed-2f896bf645e6",
+      "status": "pending",
+      "status_rationale": "No reporting of USD/CNH closing at or above 7.55; window remains open until 2025-11-30."
+    },
+    {
+      "id": "6f7c7d9c-3a83-42b8-a7a5-d8a22686fce4",
+      "status": "pending",
+      "status_rationale": "No evidence that ICE Brent has settled at or above $97; outcome still possible through 2025-11-30."
+    },
+    {
+      "id": "9a749e7a-65d1-4d6e-a728-48d2c6024900",
+      "status": "pending",
+      "status_rationale": "No report that xAI has closed a $10B+ equity round at \u2265$180B post-money; related venture market coverage does not confirm this event."
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "date": "2025-09-21",
+  "predictions": [
+    {
+      "text": "U.S. PCE price index excluding food and energy (core) year-over-year for September 2025 will be between 2.6% and 2.9%, as reported by BEA on 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 40,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Confirm the 12-month percent change in core PCE in BEA's Personal Income and Outlays release dated 2025-10-31 falls within [2.6%, 2.9%].",
+      "evidence": [
+        "Fed cut short-term rates but long-term yields rose, tightening conditions; disinflation is gradual.",
+        "https://www.cnbc.com/2025/09/20/the-fed-cut-its-interest-rate-but-mortgage-costs-went-higher.html",
+        "Historical stickiness in services/core PCE vs CPI."
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed PCE nowcast",
+        "CPI and PPI details (services ex-energy, OER, medical)",
+        "BEA deflators in advance GDP update",
+        "Unit labor costs and ECI"
+      ],
+      "rationale": "Core disinflation continues but services prices remain sticky. September CPI components imply a core PCE YoY near the high-2s.",
+      "id": "f6791a5f-9264-47ed-be4c-fa01f91bee04",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI shelter index (BLS series CUSR0000SAH1) month-over-month for September 2025 will be between 0.35% and 0.45% in the CPI release on 2025-10-10.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2025-10-10",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Check BLS CPI detailed tables for series CUSR0000SAH1 (Shelter, SA) MoM percent change; must be \u22650.35% and \u22640.45%.",
+      "evidence": [
+        "Shelter disinflation is slow; private rent measures show moderation, not collapse.",
+        "CPI shelter tends to lag market rents by 6\u201312 months."
+      ],
+      "monitoring_signals": [
+        "Apartment List and Zillow rent indices",
+        "OER and Rent of Primary Residence sub-indexes",
+        "Vacancy rates (CPI/HVS)",
+        "Local CPI shelter trends in large metro areas"
+      ],
+      "rationale": "Lagged lease renewals sustain elevated, but easing, shelter inflation, keeping MoM near 0.4%.",
+      "id": "20cce315-b9dd-4326-958f-302a02128ff7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10Y\u20133M Treasury yield spread (FRED: T10Y3M) will be at or above -0.90 percentage points on at least one trading day by 2025-10-31.",
+      "category": "rates",
+      "horizon_days": 40,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "Using FRED series T10Y3M daily values, confirm any close on or before 2025-10-31 is \u2265 -0.90%.",
+      "evidence": [
+        "Fed cut front-end rates; long-end yields rose, reducing inversion.",
+        "https://www.cnbc.com/2025/09/20/the-fed-cut-its-interest-rate-but-mortgage-costs-went-higher.html"
+      ],
+      "monitoring_signals": [
+        "Futures-implied path of the Fed funds rate",
+        "Term premium estimates",
+        "Treasury supply announcements",
+        "Inflation expectations (T10YIE, T5YIFR)"
+      ],
+      "rationale": "Front-end easing alongside sticky long rates should drive incremental curve steepening toward less negative levels.",
+      "id": "de277f10-1cbe-4bd3-9256-ff83bee5bf42",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area unemployment rate for August 2025 will print between 6.2% and 6.6% in Eurostat\u2019s release on 2025-09-30.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-09-30",
+      "confidence_pct": 61,
+      "log_odds": 0.447,
+      "verification_criteria": "Verify the EA (EA19/EA20) headline unemployment rate in Eurostat\u2019s 2025-09-30 news release falls within [6.2%, 6.6%].",
+      "evidence": [
+        "Euro area unemployment has been stable near mid-6%.",
+        "No major labor shock reported in recent weeks."
+      ],
+      "monitoring_signals": [
+        "Country labor prints (DE, FR, IT, ES)",
+        "PMIs employment components",
+        "Eurostat revisions history",
+        "Job vacancy data (EA)"
+      ],
+      "rationale": "Labor markets remain resilient but softening gradually; headline rate should remain anchored around 6.4%.",
+      "id": "7a1b68d1-3286-4c46-941d-c80af20b4a1d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "UK CPI (headline) year-over-year for September 2025 will be between 2.3% and 3.1% in the ONS release due 2025-10-16.",
+      "category": "macro",
+      "horizon_days": 25,
+      "deadline": "2025-10-16",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Check ONS CPI annual headline rate in the 2025-10-16 release; it must be \u22652.3% and \u22643.1%.",
+      "evidence": [
+        "Energy base effects largely passed; services inflation elevated but easing.",
+        "GBP and fuel dynamics modestly tighten conditions."
+      ],
+      "monitoring_signals": [
+        "ONS CPIH and services CPI",
+        "Energy price caps and utility components",
+        "GBP exchange rate",
+        "Wage growth and services PMIs"
+      ],
+      "rationale": "UK inflation should remain close to target but above 2%, with services inflation offsetting goods disinflation.",
+      "id": "28742876-788b-4b81-b527-b583ea2223c1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, OFAC will announce at least one sanctions designation under its China- or Hong Kong-related programs via public press release or sanctions list update.",
+      "category": "geopolitics",
+      "horizon_days": 40,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Confirm an OFAC press release or sanctions list update adding at least one person/entity under PRC- or Hong Kong-related authorities by 2025-10-31 on home.treasury.gov/sanctions.",
+      "evidence": [
+        "Ongoing U.S.-China policy actions and oversight intensification.",
+        "BIS/OFAC cadence of China-related measures.",
+        "https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html",
+        "https://www.cnbc.com/2025/09/20/trump-golden-share-us-steel.html"
+      ],
+      "monitoring_signals": [
+        "OFAC Press Releases and Recent Actions pages",
+        "Federal Register sanctions notices",
+        "Congressional/Executive statements on PRC policy"
+      ],
+      "rationale": "Heightened U.S.-China tensions and ongoing enforcement cycles make at least one designation likely in the window.",
+      "id": "a34f6c7b-d3fb-42cc-9b56-2d54b09f130c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas futures will settle at or above \u20ac40.00 per MWh on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 70,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Verify ICE Endex front-month TTF settlement \u2265 \u20ac40.00/MWh on any trading day through 2025-11-30 (official exchange settlement).",
+      "evidence": [
+        "Seasonal demand, maintenance, and geopolitical risks can spike European gas.",
+        "Volatility persists despite improved storage norms."
+      ],
+      "monitoring_signals": [
+        "European gas storage levels (GIE)",
+        "Norwegian/Russian supply outages",
+        "Weather/degree-day forecasts",
+        "LNG arrivals and spreads (JKM\u2013TTF)"
+      ],
+      "rationale": "Shoulder-season volatility and supply risks create upside tail scenarios for TTF prices.",
+      "id": "b3fa84d5-7f27-4783-90de-8eb4ae80a796",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "LME 3-month Copper official settlement price will reach at or above $9,800 per metric ton on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 70,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Confirm LME official 3M Copper price \u2265 $9,800/mt on any day through 2025-11-30 via LME price reports.",
+      "evidence": [
+        "Chinese credit impulses (TSF) influence copper demand.",
+        "Tight mine supply and low visible inventories can lift prices.",
+        "Related macro tailwinds from infrastructure/EV demand."
+      ],
+      "monitoring_signals": [
+        "China TSF, PMI new orders, property measures",
+        "LME/SHFE inventories and canceled warrants",
+        "Mine disruptions and treatment charges",
+        "USD strength (DXY)"
+      ],
+      "rationale": "Modest Chinese policy support and constrained supply argue for at least one upside price excursion.",
+      "id": "51476422-783e-4179-9dd3-885221bd6393",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "For the week ending 2025-10-04, the EIA Weekly Natural Gas Storage Report will show a U.S. working gas change between +70 and +100 Bcf, in the report released by 2025-10-10.",
+      "category": "energy",
+      "horizon_days": 19,
+      "deadline": "2025-10-10",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Check EIA Weekly Natural Gas Storage Report published by 2025-10-10; the reported net change for week ending 2025-10-04 must be within [+70, +100] Bcf.",
+      "evidence": [
+        "Seasonal injection window with typical early-October builds.",
+        "Production remains high; weather still moderate."
+      ],
+      "monitoring_signals": [
+        "NOAA HDD/CDD forecasts",
+        "Pipeline flows and LNG feedgas",
+        "EIA weekly supply/demand balance",
+        "Henry Hub prompt futures"
+      ],
+      "rationale": "Seasonality and production suggest a near-average injection in early October.",
+      "id": "0c51052d-4240-40b7-8bd0-96f9fd63e994",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/MXN (Yahoo Finance: MXN=X) will close at or above 18.50 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 70,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Using Yahoo Finance MXN=X (USD/MXN) daily close (UTC), confirm any close \u2265 18.50 by 2025-11-30.",
+      "evidence": [
+        "Higher U.S. long rates tighten global financial conditions.",
+        "EM FX sensitive to risk-off and China growth concerns.",
+        "Oil and trade flows affect MXN."
+      ],
+      "monitoring_signals": [
+        "DXY and U.S. yields",
+        "Banxico policy signals",
+        "Oil prices (WTI/Brent)",
+        "EM portfolio flows and VIX"
+      ],
+      "rationale": "Tighter global conditions and U.S. yield dynamics raise odds of episodic MXN weakness.",
+      "id": "ce509765-77f3-4a7e-92a6-731ee0ce8139",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the Federal Register will publish at least one DHS/USCIS proposed, interim final, or final rule\u2014or fee notice\u2014addressing H-1B petition fees.",
+      "category": "tech",
+      "horizon_days": 40,
+      "deadline": "2025-10-31",
+      "confidence_pct": 53,
+      "log_odds": 0.119,
+      "verification_criteria": "Search federalregister.gov for DHS/USCIS publications through 2025-10-31 that explicitly modify or establish H-1B petition fees.",
+      "evidence": [
+        "Reports of a $100,000 H-1B fee signal imminent regulatory action.",
+        "https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html",
+        "https://techcrunch.com/2025/09/20/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/"
+      ],
+      "monitoring_signals": [
+        "USCIS alerts and policy updates",
+        "OIRA/OIRA reg review dashboard",
+        "Federal Register DHS/USCIS notices",
+        "Industry/legal firm client alerts"
+      ],
+      "rationale": "Public signaling around large fee changes typically precedes formal rulemaking or fee notices.",
+      "id": "bbb35b83-e275-459b-9917-50860db75256",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.S. Commerce Department\u2019s BIS will add at least five entities with PRC addresses to the Entity List, as published in the Federal Register.",
+      "category": "geopolitics",
+      "horizon_days": 40,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "Count additions of entities with PRC addresses to the Entity List in Federal Register notices through 2025-10-31; total must be \u22655.",
+      "evidence": [
+        "Ongoing tightening of AI/semiconductor-related controls on China.",
+        "Expectation of additional BIS actions this fall.",
+        "https://www.cnbc.com/2025/09/20/openai-leads-private-market-surge-as-7-startups-reach-1point3-trillion.html"
+      ],
+      "monitoring_signals": [
+        "BIS press releases and FR notices",
+        "Export control enforcement cases",
+        "Congressional/executive statements on PRC technology"
+      ],
+      "rationale": "Entity List additions are a frequent tool; further PRC-focused designations are likely alongside broader control updates.",
+      "id": "44c4d201-0dfc-40f9-a63a-629bf08eb64b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

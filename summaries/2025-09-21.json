@@ -1,0 +1,106 @@
+{
+  "bullets": [
+    {
+      "text": "Trump's $100,000 H\u20111B visa fee triggers corporate hiring freezes, cost spikes, and uncertainty for tech-heavy employers and foreign governments.",
+      "tags": [
+        "macro",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/20/trump-h-1b-visa-tech-foreign-governments.html"
+    },
+    {
+      "text": "Amazon, Google, Microsoft reportedly urge H\u20111B staff not to travel abroad amid policy volatility, risking workforce mobility and project delays.",
+      "tags": [
+        "tech",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/09/20/amazon-google-microsoft-warn-h-1b-employees-to-stay-in-the-us/"
+    },
+    {
+      "text": "White House outlines TikTok deal with a U.S.-controlled board and oversight, aiming to mitigate national-security concerns without full divestiture.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/20/technology/white-house-tiktok-deal.html"
+    },
+    {
+      "text": "Fed cut short\u2011term rates, but long\u2011term Treasury yields and mortgage rates rose, tightening financial conditions and pressuring housing affordability.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/20/the-fed-cut-its-interest-rate-but-mortgage-costs-went-higher.html"
+    },
+    {
+      "text": "OpenAI leads private-market surge; seven startups reach combined $1.3 trillion valuation, signaling abundant late\u2011stage capital despite public\u2011market caution.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/20/openai-leads-private-market-surge-as-7-startups-reach-1point3-trillion.html"
+    },
+    {
+      "text": "Elliott Management builds Workday stake after multiyear value plan, increasing activist pressure for margin expansion, cash returns, and product focus.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/20/elliott-builds-a-position-in-workday-after-software-company-unveils-a-multiyear-plan-to-boost-value.html"
+    },
+    {
+      "text": "Trump wields \u201cgolden share\u201d to halt U.S. Steel plant closure, highlighting expanding executive industrial policy and potential investor uncertainty.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/20/trump-golden-share-us-steel.html"
+    },
+    {
+      "text": "Democratic leaders seek meeting with Trump to avert government shutdown, underscoring fiscal brinkmanship risks to growth, markets, and federal services.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/09/20/us/politics/jeffries-schumer-trump.html"
+    },
+    {
+      "text": "Proposed Social Security disability eligibility changes could deny benefits to about 750,000 Americans, reducing program costs but raising social risk.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/social-security-could-change-eligibility-rules-for-disability-blocking-benefits-for-750-000-disabled-americans-711ab6ca"
+    },
+    {
+      "text": "Materials scientists report cooling technology nearly doubling efficiency, promising significant cuts in data center energy use and HVAC costs.",
+      "tags": [
+        "science",
+        "energy",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250919085242.htm"
+    },
+    {
+      "text": "New breath sensor rapidly detects diabetes biomarkers, enabling low\u2011cost, noninvasive screening with potential to broaden early diagnosis access.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250919085248.htm"
+    },
+    {
+      "text": "Researchers create living microbial cement supercapacitors with reactivatable energy storage, hinting at bio\u2011integrated infrastructure for distributed power.",
+      "tags": [
+        "science",
+        "energy",
+        "tech"
+      ],
+      "link": "https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00409-6"
+    }
+  ]
+}
