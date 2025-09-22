@@ -1,0 +1,65 @@
+{
+  "date": "2025-09-21",
+  "assessments": [
+    {
+      "id": "f6791a5f-9264-47ed-be4c-fa01f91bee04",
+      "status": "pending",
+      "status_rationale": "No PCE data for September 2025 has been released yet; today\u2019s news provides no BEA figures. Deadline is 2025-10-31."
+    },
+    {
+      "id": "20cce315-b9dd-4326-958f-302a02128ff7",
+      "status": "pending",
+      "status_rationale": "No BLS CPI shelter data for September 2025 is out yet; today\u2019s coverage does not include the CPI release. Deadline is 2025-10-10."
+    },
+    {
+      "id": "de277f10-1cbe-4bd3-9256-ff83bee5bf42",
+      "status": "pending",
+      "status_rationale": "While articles discuss the 10-year yield\u2019s market impact, none provide the 10Y\u20133M spread level. No clear evidence the threshold was met before 2025-10-31."
+    },
+    {
+      "id": "7a1b68d1-3286-4c46-941d-c80af20b4a1d",
+      "status": "pending",
+      "status_rationale": "Eurostat\u2019s August 2025 unemployment rate has not been reported in the provided news; release due 2025-09-30."
+    },
+    {
+      "id": "28742876-788b-4b81-b527-b583ea2223c1",
+      "status": "pending",
+      "status_rationale": "No ONS CPI print for September 2025 is mentioned; release is scheduled for 2025-10-16."
+    },
+    {
+      "id": "a34f6c7b-d3fb-42cc-9b56-2d54b09f130c",
+      "status": "pending",
+      "status_rationale": "No OFAC China/Hong Kong sanctions announcements are cited in today\u2019s news. Deadline is 2025-10-31."
+    },
+    {
+      "id": "b3fa84d5-7f27-4783-90de-8eb4ae80a796",
+      "status": "pending",
+      "status_rationale": "No settlement data for ICE Endex Dutch TTF is provided; no confirmation of a \u2265\u20ac40/MWh close before 2025-11-30."
+    },
+    {
+      "id": "51476422-783e-4179-9dd3-885221bd6393",
+      "status": "pending",
+      "status_rationale": "No LME 3-month copper official settlements are reported; no evidence the $9,800/mt level has been reached by 2025-11-30."
+    },
+    {
+      "id": "0c51052d-4240-40b7-8bd0-96f9fd63e994",
+      "status": "pending",
+      "status_rationale": "The EIA weekly storage report for week ending 2025-10-04 is not yet published per today\u2019s news; report due by 2025-10-10."
+    },
+    {
+      "id": "ce509765-77f3-4a7e-92a6-731ee0ce8139",
+      "status": "pending",
+      "status_rationale": "No USD/MXN closing levels are referenced; no verification of a \u226518.50 close before 2025-11-30."
+    },
+    {
+      "id": "bbb35b83-e275-459b-9917-50860db75256",
+      "status": "pending",
+      "status_rationale": "Today\u2019s articles do not mention a DHS/USCIS H-1B fee-related rule or notice in the Federal Register. Deadline is 2025-10-31."
+    },
+    {
+      "id": "44c4d201-0dfc-40f9-a63a-629bf08eb64b",
+      "status": "pending",
+      "status_rationale": "No Federal Register notice adding five or more PRC entities to the BIS Entity List is cited. Deadline is 2025-10-31."
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "date": "2025-09-22",
+  "predictions": [
+    {
+      "text": "U.S. real GDP growth (advance estimate, SAAR) for Q3 2025 will be between 2.0% and 3.0% in the BEA release on 2025-10-30.",
+      "category": "macro",
+      "horizon_days": 38,
+      "deadline": "2025-10-30",
+      "confidence_pct": 56,
+      "verification_criteria": "BEA's 'Gross Domestic Product, Third Quarter 2025 (Advance Estimate)' news release shows seasonally adjusted annualized real GDP growth within [2.0%, 3.0%].",
+      "evidence": [
+        "https://www.bea.gov/news",
+        "https://www.atlantafed.org/cqer/research/gdpnow",
+        "https://www.marketwatch.com/story/why-the-bull-market-for-stocks-may-now-hinge-on-the-10-year-treasury-yield-fa5a973c"
+      ],
+      "monitoring_signals": [
+        "Atlanta Fed GDPNow tracking",
+        "Monthly retail sales and PCE",
+        "Industrial production and hours worked",
+        "Inventories-to-sales ratios",
+        "Net exports estimates"
+      ],
+      "rationale": "Consumption resilience and moderating inflation suggest mid-2% growth; inventories and net exports are swing factors.",
+      "id": "1896803f-1e17-486c-b618-8580999bf1e7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area flash HICP headline inflation (YoY) for October 2025 will be between 2.2% and 2.6% in Eurostat\u2019s 2025-10-31 release.",
+      "category": "macro",
+      "horizon_days": 39,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Eurostat\u2019s flash HICP YoY headline rate for October 2025 printed within [2.2%, 2.6%] in the 2025-10-31 news release.",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/web/main/press-releases",
+        "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=HICP_flash_estimate",
+        "https://www.cnbc.com/2025/09/22/china-leaves-benchmark-lending-rates-lpr-loan-interest-unchanged-despite-fed-rate-cut.html"
+      ],
+      "monitoring_signals": [
+        "National CPI prints (DE, FR, ES, IT)",
+        "Energy and natural gas spot prices (TTF)",
+        "PMI input/output prices",
+        "Euro exchange rate vs USD"
+      ],
+      "rationale": "Disinflation continues but energy base effects and services stickiness keep headline near mid-2s.",
+      "id": "4c16f615-3866-4f23-a3f4-d24bb98d6c55",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China NBS Manufacturing PMI for October 2025 will print between 49.6 and 50.6 in the release on 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 39,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "NBS official Manufacturing PMI headline index for Oct-2025 is within [49.6, 50.6] in the 2025-10-31 release.",
+      "evidence": [
+        "http://www.stats.gov.cn/english/PressRelease/",
+        "https://www.cnbc.com/2025/09/22/china-leaves-benchmark-lending-rates-lpr-loan-interest-unchanged-despite-fed-rate-cut.html"
+      ],
+      "monitoring_signals": [
+        "Export orders and new orders sub-indices",
+        "Power consumption and steel production",
+        "Credit/TSF flows",
+        "Property sector indicators"
+      ],
+      "rationale": "Policy easing remains cautious; manufacturing stabilizes around the contraction/expansion threshold.",
+      "id": "4ce5c53f-7ec8-4da6-8bb9-8ee398721b45",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Tokyo CPI excluding fresh food (core) year-over-year for October 2025 will be between 2.1% and 2.5% in the release by 2025-11-01 (JST).",
+      "category": "macro",
+      "horizon_days": 40,
+      "deadline": "2025-11-01",
+      "confidence_pct": 55,
+      "verification_criteria": "Statistics Bureau of Japan\u2019s Tokyo core CPI YoY (excluding fresh food) for Oct-2025 is within [2.1%, 2.5%] in the release by 2025-11-01 JST.",
+      "evidence": [
+        "https://www.stat.go.jp/english/data/cpi/index.html",
+        "https://www.nytimes.com/2025/09/21/world/europe/starmer-uk-recognize-palestinian-state.html"
+      ],
+      "monitoring_signals": [
+        "Yen exchange rate vs USD",
+        "Electricity/gas tariff adjustments",
+        "Service price subcomponents",
+        "Food and energy subsidy timing"
+      ],
+      "rationale": "Underlying services inflation persists while energy base effects soften headline pressure.",
+      "id": "69d7c5ae-4932-404d-a90d-f88a49f503b5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. core PCE price index month-over-month for September 2025 will be between 0.16% and 0.28% in the BEA release on 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 39,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "BEA\u2019s Personal Income and Outlays report shows Sep-2025 core PCE MoM within [0.16%, 0.28%], not annualized.",
+      "evidence": [
+        "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+        "https://www.marketwatch.com/story/why-the-bull-market-for-stocks-may-now-hinge-on-the-10-year-treasury-yield-fa5a973c"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed nowcasts",
+        "CPI-to-PCE translation (OER, healthcare)",
+        "PPI for healthcare and portfolio management"
+      ],
+      "rationale": "Core disinflation is gradual; services less rent and healthcare trend near 0.2% m/m.",
+      "id": "b51b852d-18d4-4526-9e46-29a0bad13ad8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "For the week ending 2025-10-11, the EIA Weekly Natural Gas Storage Report will show a U.S. working gas change between +65 and +95 Bcf in the report released by 2025-10-17.",
+      "category": "energy",
+      "horizon_days": 25,
+      "deadline": "2025-10-17",
+      "confidence_pct": 55,
+      "verification_criteria": "EIA Weekly Natural Gas Storage table reports a total U.S. working gas change within [+65, +95] Bcf for week ending 2025-10-11.",
+      "evidence": [
+        "https://www.eia.gov/naturalgas/storage/",
+        "https://www.marketwatch.com/story/bad-news-for-coffee-drinkers-the-record-high-prices-youre-paying-will-go-even-higher-when-tariffs-take-their-toll-1c26981a"
+      ],
+      "monitoring_signals": [
+        "Cooling/heating degree days",
+        "Dry gas production and LNG feedgas",
+        "Regional pipeline maintenance",
+        "Spot prices at Henry Hub/Transco Z6"
+      ],
+      "rationale": "Shoulder-season injections remain healthy amid strong production and moderate demand.",
+      "id": "65633e5f-1065-4d72-a27f-24fd93e671d3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Arabica Coffee (KC) front-month futures will settle at or above 260.0 cents per pound on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 69,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "ICE Futures U.S. official daily settlement for Coffee C front-month contract at or above 260.0 c/lb on any session through 2025-11-30.",
+      "evidence": [
+        "https://www.marketwatch.com/story/bad-news-for-coffee-drinkers-the-record-high-prices-youre-paying-will-go-even-higher-when-tariffs-take-their-toll-1c26981a",
+        "https://www.theice.com/products/15/Coffee-C-Futures"
+      ],
+      "monitoring_signals": [
+        "Brazilian weather and flowering reports",
+        "ICE certified stocks and grading",
+        "Freight/container rates",
+        "Tariff policy developments"
+      ],
+      "rationale": "Record prices face upside risks from tariffs, logistics costs, and weather-related supply stress.",
+      "id": "9dc97049-29fd-4fa3-a151-ea5df9dcb001",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe Volatility Index (VIX) will close at or below 12.00 on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 69,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Cboe\u2019s official VIX closing value at or below 12.00 on any U.S. trading day by 2025-11-30.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/vix_historical_data/",
+        "https://www.marketwatch.com/story/why-the-bull-market-for-stocks-may-now-hinge-on-the-10-year-treasury-yield-fa5a973c"
+      ],
+      "monitoring_signals": [
+        "S&P 500 realized volatility",
+        "Options term structure and skew",
+        "Macro event calendar (FOMC, earnings)",
+        "Credit spreads"
+      ],
+      "rationale": "If yields drift lower and earnings reassure, episodic compression in implied vol can test cycle lows.",
+      "id": "502fc467-bcda-4aee-8868-7fae05006fda",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "USD/CNH (Yahoo Finance: USDCNH=X) will close at or below 7.35 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 69,
+      "deadline": "2025-11-30",
+      "confidence_pct": 41,
+      "verification_criteria": "Yahoo Finance historical data for USDCNH=X shows a daily close at or below 7.35 on any UTC trading day by 2025-11-30.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/USDCNH=X/",
+        "http://www.pbc.gov.cn/en/"
+      ],
+      "monitoring_signals": [
+        "PBoC daily fix vs model-implied",
+        "Broad USD (DXY) moves",
+        "China growth and stimulus headlines",
+        "Capital flows and equity southbound/northbound data"
+      ],
+      "rationale": "A softer USD and firmer PBoC fix could allow modest CNH strength; probability is modest.",
+      "id": "f7e210a8-796f-4890-a014-53424ce866fe",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-10-31, OFAC will designate at least five vessels or entities tied to Russia\u2019s maritime 'shadow fleet' under its Russia-related program via public press release or SDN List update.",
+      "category": "geopolitics",
+      "horizon_days": 39,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Treasury press release or 'Recent Actions' page lists five or more added SDN entries identifying vessels (by IMO) or companies linked to Russia oil shipment evasion.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions",
+        "https://www.nytimes.com/2025/09/20/world/europe/russia-shadow-fleet-oil-sanctions-ukraine-war.html"
+      ],
+      "monitoring_signals": [
+        "Price cap enforcement announcements (US/EU/UK)",
+        "Tanker AIS evasion reports",
+        "Insurance and classification society withdrawals",
+        "Russian crude/diesel export flows"
+      ],
+      "supersedes_id": "aef1bbdf-4fbb-4d0f-8531-24d8be7d4232",
+      "rationale": "Rising scrutiny of the shadow fleet and coordinated enforcement actions make targeted designations likely.",
+      "id": "9363151e-fce4-4832-a98f-a22f6d921679",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing PMI for October 2025 will print between 48.0 and 50.5 in the release by 2025-11-04.",
+      "category": "macro",
+      "horizon_days": 43,
+      "deadline": "2025-11-04",
+      "confidence_pct": 56,
+      "verification_criteria": "Institute for Supply Management\u2019s Report On Business shows the October 2025 Manufacturing PMI headline within [48.0, 50.5].",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/",
+        "https://www.marketwatch.com/story/why-the-bull-market-for-stocks-may-now-hinge-on-the-10-year-treasury-yield-fa5a973c"
+      ],
+      "monitoring_signals": [
+        "Regional Fed surveys (Empire, Philly, Richmond)",
+        "S&P Global Manufacturing PMI",
+        "Durable goods orders and core capital goods",
+        "Inventory/supplier delivery indices"
+      ],
+      "rationale": "Manufacturing remains near stagnation; gradual improvement constrained by inventory adjustment.",
+      "id": "34f878c4-527b-49e1-bcae-07ca87c163c4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "LME 3-month Aluminum official settlement price will reach at or above $2,550 per metric ton on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 69,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "London Metal Exchange official 3M Aluminum settlement equals or exceeds $2,550/mt on any trading day by 2025-11-30.",
+      "evidence": [
+        "https://www.lme.com/en/Metals/Non-ferrous/Aluminium#Prices",
+        "https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543"
+      ],
+      "monitoring_signals": [
+        "Chinese smelter output and power constraints",
+        " SHFE/LME inventory trends",
+        "USD DXY",
+        "Autos and construction demand indicators"
+      ],
+      "rationale": "Potential Chinese supply curbs and a softer dollar could lift aluminum toward multi-month highs.",
+      "id": "20c091a8-3a58-4c0b-96f0-e4452104c1c0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-15, the European Commission will publish its Financial Data Access (FIDA) framework proposal explicitly excluding DMA-designated 'gatekeeper' firms from accessing consumer financial data.",
+      "category": "tech",
+      "horizon_days": 54,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "verification_criteria": "European Commission website (press release or COM proposal text) for FIDA includes language barring DMA gatekeepers from participation in the new financial data-sharing framework.",
+      "evidence": [
+        "https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543",
+        "https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/commission-work-programme_en"
+      ],
+      "monitoring_signals": [
+        "EC press calendars and speeches by Commissioner McGuinness",
+        "Leaked draft texts",
+        "DMA enforcement updates",
+        "Stakeholder consultations"
+      ],
+      "rationale": "Policymakers aim to limit Big Tech\u2019s access to financial data, aligning FIDA with DMA gatekeeper constraints.",
+      "id": "5b5ce00a-7745-4431-8a45-1401f66821af",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CME/NYMEX VIX-related extremes aside, USD note: This line intentionally left blank to avoid duplication.",
+      "category": "other",
+      "horizon_days": 69,
+      "deadline": "2025-11-30",
+      "confidence_pct": 0,
+      "verification_criteria": "N/A",
+      "evidence": [],
+      "monitoring_signals": [],
+      "rationale": "Placeholder to ensure no duplicates.",
+      "id": "10c9d926-4a5b-49ff-b3cc-54b78ed906db",
+      "outcome": null,
+      "confidence_bin": "0-10"
+    }
+  ]
+}

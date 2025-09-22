@@ -22,7 +22,7 @@
       ],
       "rationale": "Core disinflation continues but services prices remain sticky. September CPI components imply a core PCE YoY near the high-2s.",
       "id": "f6791a5f-9264-47ed-be4c-fa01f91bee04",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Lagged lease renewals sustain elevated, but easing, shelter inflation, keeping MoM near 0.4%.",
       "id": "20cce315-b9dd-4326-958f-302a02128ff7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -68,7 +68,7 @@
       ],
       "rationale": "Front-end easing alongside sticky long rates should drive incremental curve steepening toward less negative levels.",
       "id": "de277f10-1cbe-4bd3-9256-ff83bee5bf42",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -91,7 +91,7 @@
       ],
       "rationale": "Labor markets remain resilient but softening gradually; headline rate should remain anchored around 6.4%.",
       "id": "7a1b68d1-3286-4c46-941d-c80af20b4a1d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -114,7 +114,7 @@
       ],
       "rationale": "UK inflation should remain close to target but above 2%, with services inflation offsetting goods disinflation.",
       "id": "28742876-788b-4b81-b527-b583ea2223c1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "Heightened U.S.-China tensions and ongoing enforcement cycles make at least one designation likely in the window.",
       "id": "a34f6c7b-d3fb-42cc-9b56-2d54b09f130c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -161,7 +161,7 @@
       ],
       "rationale": "Shoulder-season volatility and supply risks create upside tail scenarios for TTF prices.",
       "id": "b3fa84d5-7f27-4783-90de-8eb4ae80a796",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "rationale": "Modest Chinese policy support and constrained supply argue for at least one upside price excursion.",
       "id": "51476422-783e-4179-9dd3-885221bd6393",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Seasonality and production suggest a near-average injection in early October.",
       "id": "0c51052d-4240-40b7-8bd0-96f9fd63e994",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -232,7 +232,7 @@
       ],
       "rationale": "Tighter global conditions and U.S. yield dynamics raise odds of episodic MXN weakness.",
       "id": "ce509765-77f3-4a7e-92a6-731ee0ce8139",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -256,7 +256,7 @@
       ],
       "rationale": "Public signaling around large fee changes typically precedes formal rulemaking or fee notices.",
       "id": "bbb35b83-e275-459b-9917-50860db75256",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -279,7 +279,7 @@
       ],
       "rationale": "Entity List additions are a frequent tool; further PRC-focused designations are likely alongside broader control updates.",
       "id": "44c4d201-0dfc-40f9-a63a-629bf08eb64b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

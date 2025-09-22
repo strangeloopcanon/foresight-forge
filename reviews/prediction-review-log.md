@@ -584,3 +584,12 @@ Market-wise, the week-in-review notes record equity levels alongside a Fed rate 
 
 ---
 
+
+## 2025-09-21
+
+Today’s news flow centers on geopolitics (Palestinian state recognition, UNGA), cybersecurity disruptions in Europe, and broad market commentary following a Fed rate cut and China’s decision to keep loan prime rates steady. None of the items provide official releases or market closes necessary to resolve the listed macroeconomic and policy forecasts.
+
+The macro context could influence several probabilities: easing U.S. financial conditions post–Fed cut and market focus on the 10-year yield may affect the 10Y–3M spread trajectory and inflation dynamics relevant to PCE and CPI shelter. Energy and commodity forecasts (TTF gas, copper) remain sensitive to European recovery hopes and geopolitical risk, but there is no concrete price evidence in the headlines. Policy-related items (OFAC/BIS actions, USCIS fee rules) are also unaddressed in today’s reporting. Accordingly, all forecasts remain pending awaiting definitive data releases or notices.
+
+---
+
