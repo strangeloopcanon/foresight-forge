@@ -1,0 +1,268 @@
+{
+  "date": "2025-09-23",
+  "predictions": [
+    {
+      "text": "At its early-November 2025 meeting, the FOMC will lower the federal funds target range by at least 25 basis points.",
+      "category": "rates",
+      "horizon_days": 46,
+      "deadline": "2025-11-08",
+      "confidence_pct": 58,
+      "verification_criteria": "Federal Reserve press release and Implementation Note dated during the November 2025 FOMC meeting show the target range decreased by \u226525 bps versus the prior target range.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/22/fed-governor-stephen-miran-pushes-case-for-central-bank-to-slash-key-interest-rate.html",
+        "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html"
+      ],
+      "monitoring_signals": [
+        "CME FedWatch probabilities for November",
+        "Core PCE and CPI prints",
+        "Nonfarm payrolls and unemployment rate",
+        "FOMC speeches and SEP/Minutes",
+        "Financial conditions indexes"
+      ],
+      "rationale": "Growth is cooling and policymakers are signaling openness to easing; inflation progress allows a starter cut.",
+      "id": "d03cbc02-3c42-415e-b477-e57a9905a64a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-23 close to 2025-10-31 close, Apple (AAPL) will outperform the S&P 500 Index (^GSPC) by at least 3.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 38,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Using Yahoo Finance adjusted closes for AAPL and ^GSPC, compute % change from 2025-09-23 to 2025-10-31; AAPL minus ^GSPC \u2265 3.0 percentage points.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/22/apples-stock-turns-positive-for-year-after-iphone-17-launch-.html"
+      ],
+      "monitoring_signals": [
+        "iPhone 17 lead times and sell-through",
+        "AAPL production/guidance updates",
+        "Treasury yields and mega-cap factor leadership",
+        "S&P 500 breadth and volatility",
+        "USD strength"
+      ],
+      "rationale": "Strong product cycle momentum and mega-cap leadership should support relative outperformance.",
+      "id": "745e7202-8bf7-43d0-908a-3904d02a4ed2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The LBMA Gold Price PM will fix at or above $3,800 per troy ounce on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 68,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "verification_criteria": "LBMA Gold Price PM benchmark (ICE/Refinitiv) shows any PM fix \u2265 $3,800 before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/22/how-to-invest-in-gold-as-bullion-surges-to-record-highs.html"
+      ],
+      "monitoring_signals": [
+        "US real yields (TIPS)",
+        "DXY level",
+        "Central-bank gold purchases",
+        "ETF flows (GLD, IAU)",
+        "Geopolitical risk headlines"
+      ],
+      "rationale": "Record-high momentum, easing-rate expectations, and haven demand could extend the rally to new highs.",
+      "id": "9acf9a43-a843-4d20-bebc-907aed7ba3fe",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-10-31, the European Commission will open a formal DMA non-compliance proceeding or issue a Statement of Objections against at least one designated gatekeeper.",
+      "category": "tech",
+      "horizon_days": 38,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "An official European Commission press release or public case file citing the Digital Markets Act announces opening of proceedings or a Statement of Objections before the deadline.",
+      "evidence": [
+        "https://ec.europa.eu/competition-policy/sectors/ict/digital-markets-act_en"
+      ],
+      "monitoring_signals": [
+        "EC press releases and case registers",
+        "Gatekeeper compliance updates",
+        "Developer complaints and industry filings",
+        "Statements by EU competition officials"
+      ],
+      "rationale": "The EC is escalating enforcement; multiple gatekeepers face unresolved compliance gaps.",
+      "id": "e7b01b61-3fad-40de-962d-fbe5fcae995b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, \u00d8rsted will publicly announce the resumption of construction or offshore installation activities for the Revolution Wind project.",
+      "category": "energy",
+      "horizon_days": 38,
+      "deadline": "2025-10-31",
+      "confidence_pct": 61,
+      "verification_criteria": "An \u00d8rsted press release or official project communication dated after 2025-09-22 explicitly states that construction or offshore installation for Revolution Wind has resumed.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/22/judge-orsted-revolution-wind-trump.html",
+        "https://orsted.com/en/media"
+      ],
+      "monitoring_signals": [
+        "\u00d8rsted investor updates and newsroom",
+        "BOEM filings and state-level permitting",
+        "Port activity and vessel schedules",
+        "Supplier announcements (turbines, cables)"
+      ],
+      "rationale": "A court decision removing the halt enables a prompt restart to protect schedule and credits.",
+      "id": "1131ddd8-e6ab-4b3e-b62f-37f9999dd819",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-10-31, at least three additional UN member states will formally recognize the State of Palestine after 2025-09-22.",
+      "category": "geopolitics",
+      "horizon_days": 38,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Official government statements or foreign ministry communiqu\u00e9s dated after 2025-09-22 explicitly recognizing the State of Palestine; reputable international outlets summarizing recognitions are acceptable corroboration.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/22/world/middleeast/unga-palestinian-state.html"
+      ],
+      "monitoring_signals": [
+        "EU and Latin American government statements",
+        "Arab League and OIC communiqu\u00e9s",
+        "UN General Assembly debates",
+        "Domestic parliamentary votes on recognition"
+      ],
+      "rationale": "UN momentum raises diplomatic pressure and lowers barriers for additional recognitions.",
+      "id": "765053e9-53e4-4cc1-adc9-fc67fafdedc3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, India will approve at least two new semiconductor fab or advanced packaging projects under the India Semiconductor Mission with combined central incentives of $6B or more.",
+      "category": "tech",
+      "horizon_days": 68,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Press Information Bureau or MeitY announcements or cabinet approvals list projects and incentive amounts totaling \u2265 $6B (USD-equivalent) across at least two distinct approvals.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/23/india-is-betting-18-billion-to-build-a-chip-powerhouse-heres-what-it-means.html",
+        "https://pib.gov.in/"
+      ],
+      "monitoring_signals": [
+        "MeitY/PIB press releases",
+        "State-level MoUs and land allotments",
+        "Supplier ecosystem announcements (foundry, OSAT, EDA)",
+        "PLI scheme and budget updates"
+      ],
+      "rationale": "India signaled large funding; tangible approvals are likely to follow to anchor investment.",
+      "id": "3d50dc13-0e0c-42a8-b1ee-7d0d1e6ec4a7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The EIA 4-week average 'product supplied of finished motor gasoline' will fall to at or below 8.50 million barrels per day in at least one weekly report released by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 53,
+      "deadline": "2025-11-15",
+      "confidence_pct": 58,
+      "verification_criteria": "EIA Weekly Petroleum Status Report shows the 4-week average of finished motor gasoline product supplied \u2264 8.50 mb/d in any release through the deadline.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://gasprices.aaa.com/"
+      ],
+      "monitoring_signals": [
+        "Pump prices and RBOB cracks",
+        "Mobility indicators and seasonality",
+        "Weather disruptions and refinery utilization",
+        "Consumer sentiment"
+      ],
+      "rationale": "Shoulder-season patterns, high prices, and softer demand likely pull gasoline consumption lower.",
+      "id": "2a494945-0f8e-48b7-ae1f-425bb91073d0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Services PMI for October 2025 will print between 50.0 and 52.5 in the release due by 2025-11-05.",
+      "category": "macro",
+      "horizon_days": 43,
+      "deadline": "2025-11-05",
+      "confidence_pct": 55,
+      "verification_criteria": "ISM\u2019s official October 2025 Services PMI headline index is within [50.0, 52.5], per the Institute for Supply Management release.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/22/fed-governor-stephen-miran-pushes-case-for-central-bank-to-slash-key-interest-rate.html",
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/"
+      ],
+      "monitoring_signals": [
+        "S&P Global Services PMI flash",
+        "NFIB hiring and compensation plans",
+        "Payrolls and wage growth",
+        "Travel and leisure spending indicators"
+      ],
+      "rationale": "Services growth should cool yet stay modestly expansionary amid slower hiring.",
+      "id": "4bb8069f-279c-40b2-9fbe-a1aa0f62a5c6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The MBA Weekly Survey 30-year fixed mortgage rate (conforming) will print at or below 6.25% in at least one report released by 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 68,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "MBA weekly survey shows the average contract rate for 30-year fixed-rate mortgages (conforming loan balances) \u2264 6.25% in any release before the deadline.",
+      "evidence": [
+        "https://www.mba.org/news-and-research/research-and-economics/surveys/weekly-applications-survey",
+        "https://fred.stlouisfed.org/series/DGS10"
+      ],
+      "monitoring_signals": [
+        "10-year Treasury yield",
+        "MBS spreads and convexity hedging",
+        "Fed rate-cut guidance",
+        "Refinance index and applications"
+      ],
+      "rationale": "Falling Treasury yields and easing inflation should pull mortgage rates lower.",
+      "id": "ce89fade-b9e3-430b-aeb6-044ed8f12a14",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The ICE U.S. Dollar Index (DXY) will close at or below 101.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 68,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "End-of-day close for DXY (ICE index or Yahoo Finance ^DXY) \u2264 101.00 on any date by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/22/how-to-invest-in-gold-as-bullion-surges-to-record-highs.html",
+        "https://finance.yahoo.com/quote/%5EDXY/"
+      ],
+      "monitoring_signals": [
+        "Fed easing expectations",
+        "Relative growth surprises (US vs. rest-of-world)",
+        "Risk appetite and equity flows",
+        "Energy prices and terms of trade"
+      ],
+      "rationale": "An easing-rate outlook and improving ex-US growth can pressure the dollar.",
+      "id": "9d076a6c-240e-4bea-b916-dff5d848c867",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted U.S. insured unemployment (continuing claims) will reach at or above 1.90 million in at least one weekly report released by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 38,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Department of Labor unemployment insurance weekly claims release shows Insured Unemployment (SA) \u2265 1.90 million in any report before the deadline.",
+      "evidence": [
+        "https://www.dol.gov/ui",
+        "https://www.dol.gov/newsroom/releases/eta"
+      ],
+      "monitoring_signals": [
+        "Initial claims trend",
+        "WARN notices and layoff announcements",
+        "Job openings and hiring plans",
+        "Unemployment duration measures"
+      ],
+      "rationale": "Cooling labor demand should gradually lift continuing claims.",
+      "id": "c832997c-4f3f-4530-aed4-a68bc7b8f462",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

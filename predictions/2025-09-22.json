@@ -22,7 +22,7 @@
       ],
       "rationale": "Consumption resilience and moderating inflation suggest mid-2% growth; inventories and net exports are swing factors.",
       "id": "1896803f-1e17-486c-b618-8580999bf1e7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Disinflation continues but energy base effects and services stickiness keep headline near mid-2s.",
       "id": "4c16f615-3866-4f23-a3f4-d24bb98d6c55",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Policy easing remains cautious; manufacturing stabilizes around the contraction/expansion threshold.",
       "id": "4ce5c53f-7ec8-4da6-8bb9-8ee398721b45",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Underlying services inflation persists while energy base effects soften headline pressure.",
       "id": "69d7c5ae-4932-404d-a90d-f88a49f503b5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "Core disinflation is gradual; services less rent and healthcare trend near 0.2% m/m.",
       "id": "b51b852d-18d4-4526-9e46-29a0bad13ad8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "Shoulder-season injections remain healthy amid strong production and moderate demand.",
       "id": "65633e5f-1065-4d72-a27f-24fd93e671d3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "rationale": "Record prices face upside risks from tariffs, logistics costs, and weather-related supply stress.",
       "id": "9dc97049-29fd-4fa3-a151-ea5df9dcb001",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -176,7 +176,7 @@
       ],
       "rationale": "If yields drift lower and earnings reassure, episodic compression in implied vol can test cycle lows.",
       "id": "502fc467-bcda-4aee-8868-7fae05006fda",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -198,7 +198,7 @@
       ],
       "rationale": "A softer USD and firmer PBoC fix could allow modest CNH strength; probability is modest.",
       "id": "f7e210a8-796f-4890-a014-53424ce866fe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -222,7 +222,7 @@
       "supersedes_id": "aef1bbdf-4fbb-4d0f-8531-24d8be7d4232",
       "rationale": "Rising scrutiny of the shadow fleet and coordinated enforcement actions make targeted designations likely.",
       "id": "9363151e-fce4-4832-a98f-a22f6d921679",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -244,7 +244,7 @@
       ],
       "rationale": "Manufacturing remains near stagnation; gradual improvement constrained by inventory adjustment.",
       "id": "34f878c4-527b-49e1-bcae-07ca87c163c4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -266,7 +266,7 @@
       ],
       "rationale": "Potential Chinese supply curbs and a softer dollar could lift aluminum toward multi-month highs.",
       "id": "20c091a8-3a58-4c0b-96f0-e4452104c1c0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -288,7 +288,7 @@
       ],
       "rationale": "Policymakers aim to limit Big Tech\u2019s access to financial data, aligning FIDA with DMA gatekeeper constraints.",
       "id": "5b5ce00a-7745-4431-8a45-1401f66821af",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -302,7 +302,7 @@
       "monitoring_signals": [],
       "rationale": "Placeholder to ensure no duplicates.",
       "id": "10c9d926-4a5b-49ff-b3cc-54b78ed906db",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "0-10"
     }
   ]

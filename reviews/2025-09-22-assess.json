@@ -1,0 +1,75 @@
+{
+  "date": "2025-09-22",
+  "assessments": [
+    {
+      "id": "1896803f-1e17-486c-b618-8580999bf1e7",
+      "status": "pending",
+      "status_rationale": "No BEA Q3 2025 advance GDP release yet; today\u2019s news contains no GDP data points. Deadline is 2025-10-30."
+    },
+    {
+      "id": "4c16f615-3866-4f23-a3f4-d24bb98d6c55",
+      "status": "pending",
+      "status_rationale": "No Eurostat October 2025 flash HICP published; none of today\u2019s articles report euro area inflation. Deadline is 2025-10-31."
+    },
+    {
+      "id": "4ce5c53f-7ec8-4da6-8bb9-8ee398721b45",
+      "status": "pending",
+      "status_rationale": "China\u2019s October 2025 NBS PMI has not been released; today\u2019s news provides no PMI figures. Deadline is 2025-10-31."
+    },
+    {
+      "id": "69d7c5ae-4932-404d-a90d-f88a49f503b5",
+      "status": "pending",
+      "status_rationale": "Tokyo October 2025 core CPI not out yet; no reporting on this metric in today\u2019s news. Deadline is 2025-11-01 (JST)."
+    },
+    {
+      "id": "b51b852d-18d4-4526-9e46-29a0bad13ad8",
+      "status": "pending",
+      "status_rationale": "No BEA release for September 2025 core PCE yet; today\u2019s coverage lacks relevant data. Deadline is 2025-10-31."
+    },
+    {
+      "id": "65633e5f-1065-4d72-a27f-24fd93e671d3",
+      "status": "pending",
+      "status_rationale": "EIA storage change for week ending 2025-10-11 will publish by 2025-10-17; no early figures in today\u2019s news."
+    },
+    {
+      "id": "9dc97049-29fd-4fa3-a151-ea5df9dcb001",
+      "status": "pending",
+      "status_rationale": "No confirmation that ICE Arabica front-month hit \u2265260.0\u00a2/lb; today\u2019s news doesn\u2019t mention coffee futures reaching that level. Deadline is 2025-11-30."
+    },
+    {
+      "id": "502fc467-bcda-4aee-8868-7fae05006fda",
+      "status": "pending",
+      "status_rationale": "No report that VIX closed \u226412.00; today\u2019s articles reference markets broadly but not this threshold. Deadline is 2025-11-30."
+    },
+    {
+      "id": "f7e210a8-796f-4890-a014-53424ce866fe",
+      "status": "pending",
+      "status_rationale": "No evidence that USD/CNH closed \u22647.35; currency levels not cited in today\u2019s news. Deadline is 2025-11-30."
+    },
+    {
+      "id": "9363151e-fce4-4832-a98f-a22f6d921679",
+      "status": "pending",
+      "status_rationale": "No reporting of new OFAC designations tied to Russia\u2019s \u2018shadow fleet\u2019 today; outcome window remains open until 2025-10-31."
+    },
+    {
+      "id": "34f878c4-527b-49e1-bcae-07ca87c163c4",
+      "status": "pending",
+      "status_rationale": "ISM October 2025 Manufacturing PMI not released; no PMI data in today\u2019s coverage. Deadline is 2025-11-04."
+    },
+    {
+      "id": "20c091a8-3a58-4c0b-96f0-e4452104c1c0",
+      "status": "pending",
+      "status_rationale": "No confirmation that LME 3M aluminum hit \u2265$2,550/mt; today\u2019s market pieces don\u2019t cite this commodity level. Deadline is 2025-11-30."
+    },
+    {
+      "id": "5b5ce00a-7745-4431-8a45-1401f66821af",
+      "status": "pending",
+      "status_rationale": "No sign the European Commission has published the FIDA proposal with the specified exclusion; no relevant EU policy news today. Deadline is 2025-11-15."
+    },
+    {
+      "id": "10c9d926-4a5b-49ff-b3cc-54b78ed906db",
+      "status": "needs-clarification",
+      "status_rationale": "The entry explicitly states it is intentionally left blank and lacks a falsifiable outcome, scope, or metric."
+    }
+  ]
+}
