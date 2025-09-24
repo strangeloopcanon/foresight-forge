@@ -602,3 +602,12 @@ Forward-looking implications are worth monitoring: discussion of rate cuts and s
 
 ---
 
+
+## 2025-09-23
+
+None of the tracked forecasts were conclusively resolved by today’s news flow. While Chair Powell referenced a slowing labor market and justified a recent rate cut, there was no definitive guidance on the November FOMC decision. Similarly, market commentary and earnings headlines (e.g., Micron’s beat, OpenAI–Nvidia deal context) do not settle asset-price or macroeconomic threshold forecasts such as DXY ≤101, MBA rates ≤6.25%, ISM Services PMI, or EIA gasoline demand metrics.
+
+The day’s signals modestly tilt some priors: Powell’s tone and labor-market concerns could incrementally support expectations for further easing by year-end, indirectly affecting odds for the November cut, softer mortgage rates, and a weaker dollar. However, without hard data releases or formal regulatory actions, all items remain pending until specific reports (ISM, MBA, EIA, jobless claims), market closes, or official announcements (EU DMA action, Ørsted project status, India semiconductor approvals, recognitions of Palestine) are published.
+
+---
+

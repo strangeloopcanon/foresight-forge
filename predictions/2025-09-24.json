@@ -1,0 +1,237 @@
+{
+  "date": "2025-09-24",
+  "predictions": [
+    {
+      "text": "U.S. JOLTS job openings (seasonally adjusted, total nonfarm) for August 2025 will be between 7.5 million and 7.8 million in the BLS release on 2025-10-01.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-10-01",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Verify the seasonally adjusted total nonfarm job openings level in the BLS JOLTS news release for August 2025; count as correct if the published level lies within [7.5M, 7.8M].",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/23/powell-says-slowing-labor-market-prompted-rate-cut-sees-challenging-situation-ahead.html",
+        "https://www.cnbc.com/2025/09/23/single-family-rent-growth-is-starting-to-show-new-weakness.html",
+        "https://www.cnbc.com/2025/09/23/us-and-global-growth-forecast-lifted-by-oecd-as-economies-surprise-to-the-upside.html"
+      ],
+      "monitoring_signals": [
+        "Indeed and LinkedIn job postings trends",
+        "NFIB Small Business hiring plans",
+        "ISM Manufacturing/Services employment sub-indices",
+        "Challenger job-cut announcements"
+      ],
+      "rationale": "Openings have trended lower with softer labor demand signals. Powell highlighted a slowing labor market. Range allows for noise and revisions.",
+      "id": "fa33e118-da93-4c0a-97c2-ce92dff71dec",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. unemployment rate (U-3, seasonally adjusted) for September 2025 will be between 4.1% and 4.3% in the BLS Employment Situation released 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-10-03",
+      "confidence_pct": 58,
+      "log_odds": 0.31,
+      "verification_criteria": "Check the headline U-3 unemployment rate in the September 2025 Employment Situation news release; correct if within [4.1%, 4.3%].",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/23/powell-says-slowing-labor-market-prompted-rate-cut-sees-challenging-situation-ahead.html",
+        "https://www.cnbc.com/2025/09/23/single-family-rent-growth-is-starting-to-show-new-weakness.html"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims",
+        "Household survey labor force participation",
+        "Temporary help services employment",
+        "Layoff announcements and WARN notices"
+      ],
+      "rationale": "Labor demand is cooling but not collapsing. Expect a modest uptick, bounded by recent trend and participation dynamics.",
+      "id": "d646bb7c-ec4b-4368-93b1-f0156246d2c2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 3.95% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 67,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.17,
+      "verification_criteria": "Using FRED series DGS10 or equivalent daily close, outcome is correct if any trading day on or before 2025-11-30 shows DGS10 \u2264 3.95%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/23/powell-says-slowing-labor-market-prompted-rate-cut-sees-challenging-situation-ahead.html",
+        "https://www.cnbc.com/2025/09/23/single-family-rent-growth-is-starting-to-show-new-weakness.html"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE inflation prints and core trends",
+        "Treasury auction demand and term premium proxies",
+        "Fed communications and dot-plot signaling",
+        "Risk sentiment (equities, credit spreads) and flight-to-quality moves"
+      ],
+      "rationale": "Fed easing and softer growth indicators raise odds of dips in long yields, even if episodic risk-on rallies occur.",
+      "id": "22b4afd1-fb98-4145-8c2c-8870aa4f3260",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The ICE U.S. Dollar Index (DXY) will close at or above 107.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 67,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Confirm via ICE or major data providers (e.g., Yahoo Finance: DX-Y.NYB) that the DXY daily close \u2265 107.00 on or before 2025-11-30 (UTC).",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/23/us-and-global-growth-forecast-lifted-by-oecd-as-economies-surprise-to-the-upside.html",
+        "https://www.cnbc.com/2025/09/23/trump-democrats-shutdown-schumer-jeffries.html"
+      ],
+      "monitoring_signals": [
+        "U.S.\u2013RoW rate differentials and OIS curves",
+        "Risk sentiment (VIX) and safe-haven flows",
+        "Eurozone/UK macro surprises vs U.S.",
+        "Energy prices impacting terms of trade"
+      ],
+      "rationale": "Dollar can spike on risk aversion and relative growth/real-rate support, even amid Fed easing. Tail-events and geopolitics favor upside tests.",
+      "id": "8e052d55-f511-49b3-adbb-29f38ed51ec7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-24 close to 2025-10-31 close, iShares Semiconductor ETF (SOXX) will outperform the S&P 500 Index (^GSPC) by at least 2.5 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 37,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "log_odds": 0.31,
+      "verification_criteria": "Compute percent change in adjusted close from 2025-09-24 to 2025-10-31 for SOXX and ^GSPC (Yahoo Finance). Outcome is correct if (SOXX% \u2212 ^GSPC%) \u2265 2.5pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/23/nvidia-openai-deal-sparks-global-chip-stock-rally.html",
+        "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html",
+        "https://www.cnbc.com/2025/09/23/chinas-byd-says-it-has-a-backup-plan-if-cut-off-from-nvidia-chips.html"
+      ],
+      "monitoring_signals": [
+        "Earnings/guidance from NVDA, MU, TSM, AVGO",
+        "AI data center capex announcements (hyperscalers, cloud)",
+        "Memory pricing/bit shipments and HBM supply news",
+        "Export control headlines affecting supply chains"
+      ],
+      "rationale": "Fresh AI capex catalysts and positive memory dynamics support semis\u2019 relative strength over broad equities near term.",
+      "id": "e44d962d-0972-443a-8148-2b20ea1529fb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. ending stocks of distillate fuel oil will reach at or above 125.0 million barrels in at least one EIA Weekly Petroleum Status Report released by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 52,
+      "deadline": "2025-11-15",
+      "confidence_pct": 54,
+      "log_odds": 0.17,
+      "verification_criteria": "Check EIA Weekly Petroleum Status Report (Table 1). Correct if any weekly report released on/before 2025-11-15 shows total U.S. distillate fuel oil ending stocks \u2265 125.0 million barrels.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.cnbc.com/2025/09/23/single-family-rent-growth-is-starting-to-show-new-weakness.html"
+      ],
+      "monitoring_signals": [
+        "Refinery utilization rates and distillate yields",
+        "Distillate imports/exports",
+        "Freight activity (truck, rail) and industrial production",
+        "Heating degree day forecasts heading into winter"
+      ],
+      "rationale": "Seasonal builds, softer freight/industrial demand, and steady refinery runs raise odds stocks tick to multi-month highs.",
+      "id": "cd2b97fd-9cf0-4ff8-9446-9b2c45723821",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Copernicus ERA5 global surface air temperature for October 2025 will rank within the top 3 warmest Octobers on record in the C3S monthly bulletin released by 2025-11-10.",
+      "category": "other",
+      "horizon_days": 47,
+      "deadline": "2025-11-10",
+      "confidence_pct": 59,
+      "log_odds": 0.37,
+      "verification_criteria": "Verify in the Copernicus Climate Change Service (C3S) monthly climate bulletin for October 2025 that the global mean surface air temperature ranks 1st\u20133rd for October historically.",
+      "evidence": [
+        "https://climate.copernicus.eu/monthly-climate-bulletins",
+        "https://www.cnbc.com/2025/09/23/powell-says-slowing-labor-market-prompted-rate-cut-sees-challenging-situation-ahead.html"
+      ],
+      "monitoring_signals": [
+        "Daily ERA5 global temperature anomalies",
+        "Global SST anomalies and marine heatwaves",
+        "Volcanic/aerosol forcing updates",
+        "ENSO and related teleconnections"
+      ],
+      "rationale": "Persistent warmth and elevated SSTs make another record-proximate month likely barring anomalous late-month cooling.",
+      "id": "2b2690c4-1b69-4a05-9a25-70b61eb83064",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, OpenAI or its named infrastructure partners will publicly announce at least one additional U.S. site for the 'Stargate' AI data center program beyond Texas, via an official blog post, press release, or regulatory filing naming the location.",
+      "category": "tech",
+      "horizon_days": 67,
+      "deadline": "2025-11-30",
+      "confidence_pct": 57,
+      "log_odds": 0.29,
+      "verification_criteria": "Confirmation via OpenAI, Oracle, SoftBank, or other project partner communications (official blog/press release/SEC or local regulatory filings) specifying a new U.S. site location beyond Texas.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html",
+        "https://www.cnbc.com/2025/09/23/nvidia-openai-deal-sparks-global-chip-stock-rally.html"
+      ],
+      "monitoring_signals": [
+        "Local planning/permit filings and utility interconnection requests",
+        "Land acquisition records and data center RFPs",
+        "Oracle/SoftBank/OpenAI capex disclosures",
+        "Hyperscaler vendor contracts for power and equipment"
+      ],
+      "rationale": "Scale and timelines of the Stargate program imply parallel site development to meet AI capacity and power needs.",
+      "id": "f94ade73-feb3-420b-b226-8c4f3b2d75f1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.K. government will announce at least one new sanctions designation under its Russia-related sanctions regime, via an official GOV.UK press release or OFSI consolidated list update.",
+      "category": "geopolitics",
+      "horizon_days": 37,
+      "deadline": "2025-10-31",
+      "confidence_pct": 60,
+      "log_odds": 0.41,
+      "verification_criteria": "Check GOV.UK press releases and the OFSI consolidated list updates by 2025-10-31; correct if at least one new person/entity is designated under Russia-related sanctions.",
+      "evidence": [
+        "https://www.gov.uk/government/collections/uk-sanctions-on-russia",
+        "https://www.cnbc.com/2025/09/23/trump-democrats-shutdown-schumer-jeffries.html"
+      ],
+      "monitoring_signals": [
+        "G7 coordination statements and EU/US sanctions actions",
+        "UK FCDO/OFSI publication schedules",
+        "Escalation in Russia-related conflict theaters",
+        "UK Parliamentary debates on sanctions policy"
+      ],
+      "rationale": "The UK routinely aligns with allied sanctions cycles; further designations remain likely amid persistent geopolitical tensions.",
+      "id": "0d598dc5-4c12-4106-9252-7ed2fa73a7f9",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures will settle at or below $72.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 67,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "log_odds": 0.04,
+      "verification_criteria": "Verify via CME/NYMEX official settlement data that the WTI (CL) front-month contract settlement is \u2264 $72.00 on any trading day by 2025-11-30.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.cnbc.com/2025/09/23/powell-says-slowing-labor-market-prompted-rate-cut-sees-challenging-situation-ahead.html"
+      ],
+      "monitoring_signals": [
+        "U.S. and OECD crude/product inventory trends",
+        "OPEC+ quota compliance and guidance",
+        "Dollar strength (DXY) and global growth indicators",
+        "Refinery runs and product cracks heading into winter"
+      ],
+      "rationale": "Growth and demand risks, stronger USD bursts, and inventory builds could trigger downside tests despite OPEC+ discipline.",
+      "id": "ebca2340-e07b-4ad8-9213-019cea00a1e5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

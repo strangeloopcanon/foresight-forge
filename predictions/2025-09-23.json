@@ -21,7 +21,7 @@
       ],
       "rationale": "Growth is cooling and policymakers are signaling openness to easing; inflation progress allows a starter cut.",
       "id": "d03cbc02-3c42-415e-b477-e57a9905a64a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Strong product cycle momentum and mega-cap leadership should support relative outperformance.",
       "id": "745e7202-8bf7-43d0-908a-3904d02a4ed2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Record-high momentum, easing-rate expectations, and haven demand could extend the rally to new highs.",
       "id": "9acf9a43-a843-4d20-bebc-907aed7ba3fe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "The EC is escalating enforcement; multiple gatekeepers face unresolved compliance gaps.",
       "id": "e7b01b61-3fad-40de-962d-fbe5fcae995b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "A court decision removing the halt enables a prompt restart to protect schedule and credits.",
       "id": "1131ddd8-e6ab-4b3e-b62f-37f9999dd819",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -129,7 +129,7 @@
       ],
       "rationale": "UN momentum raises diplomatic pressure and lowers barriers for additional recognitions.",
       "id": "765053e9-53e4-4cc1-adc9-fc67fafdedc3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "rationale": "India signaled large funding; tangible approvals are likely to follow to anchor investment.",
       "id": "3d50dc13-0e0c-42a8-b1ee-7d0d1e6ec4a7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -173,7 +173,7 @@
       ],
       "rationale": "Shoulder-season patterns, high prices, and softer demand likely pull gasoline consumption lower.",
       "id": "2a494945-0f8e-48b7-ae1f-425bb91073d0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -195,7 +195,7 @@
       ],
       "rationale": "Services growth should cool yet stay modestly expansionary amid slower hiring.",
       "id": "4bb8069f-279c-40b2-9fbe-a1aa0f62a5c6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -217,7 +217,7 @@
       ],
       "rationale": "Falling Treasury yields and easing inflation should pull mortgage rates lower.",
       "id": "ce89fade-b9e3-430b-aeb6-044ed8f12a14",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -239,7 +239,7 @@
       ],
       "rationale": "An easing-rate outlook and improving ex-US growth can pressure the dollar.",
       "id": "9d076a6c-240e-4bea-b916-dff5d848c867",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -261,7 +261,7 @@
       ],
       "rationale": "Cooling labor demand should gradually lift continuing claims.",
       "id": "c832997c-4f3f-4530-aed4-a68bc7b8f462",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

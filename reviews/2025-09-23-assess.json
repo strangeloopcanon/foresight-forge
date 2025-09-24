@@ -1,0 +1,65 @@
+{
+  "date": "2025-09-23",
+  "assessments": [
+    {
+      "id": "d03cbc02-3c42-415e-b477-e57a9905a64a",
+      "status": "pending",
+      "status_rationale": "Powell\u2019s remarks about a prior rate cut and market valuations don\u2019t resolve the FOMC\u2019s early-November 2025 decision."
+    },
+    {
+      "id": "745e7202-8bf7-43d0-908a-3904d02a4ed2",
+      "status": "pending",
+      "status_rationale": "The AAPL vs. S&P performance window runs through 2025-10-31, and today\u2019s news doesn\u2019t provide the necessary close-to-close data."
+    },
+    {
+      "id": "9acf9a43-a843-4d20-bebc-907aed7ba3fe",
+      "status": "pending",
+      "status_rationale": "Coverage on gold market structure (China\u2019s role) offers no confirmation of an LBMA PM fix at or above $3,800."
+    },
+    {
+      "id": "e7b01b61-3fad-40de-962d-fbe5fcae995b",
+      "status": "pending",
+      "status_rationale": "No report of an EU DMA non-compliance proceeding or Statement of Objections in today\u2019s bullets."
+    },
+    {
+      "id": "1131ddd8-e6ab-4b3e-b62f-37f9999dd819",
+      "status": "pending",
+      "status_rationale": "No mention of \u00d8rsted resuming construction or offshore installation for Revolution Wind."
+    },
+    {
+      "id": "765053e9-53e4-4cc1-adc9-fc67fafdedc3",
+      "status": "pending",
+      "status_rationale": "No new state recognitions of Palestine are reported."
+    },
+    {
+      "id": "3d50dc13-0e0c-42a8-b1ee-7d0d1e6ec4a7",
+      "status": "pending",
+      "status_rationale": "No confirmation of India approving two new semiconductor projects with $6B+ incentives."
+    },
+    {
+      "id": "2a494945-0f8e-48b7-ae1f-425bb91073d0",
+      "status": "pending",
+      "status_rationale": "No EIA weekly data cited on the 4-week average for finished motor gasoline supplied."
+    },
+    {
+      "id": "4bb8069f-279c-40b2-9fbe-a1aa0f62a5c6",
+      "status": "pending",
+      "status_rationale": "The October 2025 ISM Services PMI has not been released."
+    },
+    {
+      "id": "ce89fade-b9e3-430b-aeb6-044ed8f12a14",
+      "status": "pending",
+      "status_rationale": "No MBA survey figure today indicating a 30-year conforming rate at or below 6.25%."
+    },
+    {
+      "id": "9d076a6c-240e-4bea-b916-dff5d848c867",
+      "status": "pending",
+      "status_rationale": "There is no reported DXY close at or below 101.00."
+    },
+    {
+      "id": "c832997c-4f3f-4530-aed4-a68bc7b8f462",
+      "status": "pending",
+      "status_rationale": "No weekly insured unemployment update to confirm a reading at or above 1.90 million."
+    }
+  ]
+}
