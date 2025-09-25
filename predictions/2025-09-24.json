@@ -22,7 +22,7 @@
       ],
       "rationale": "Openings have trended lower with softer labor demand signals. Powell highlighted a slowing labor market. Range allows for noise and revisions.",
       "id": "fa33e118-da93-4c0a-97c2-ce92dff71dec",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -68,7 +68,7 @@
       ],
       "rationale": "Fed easing and softer growth indicators raise odds of dips in long yields, even if episodic risk-on rallies occur.",
       "id": "22b4afd1-fb98-4145-8c2c-8870aa4f3260",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -91,7 +91,7 @@
       ],
       "rationale": "Dollar can spike on risk aversion and relative growth/real-rate support, even amid Fed easing. Tail-events and geopolitics favor upside tests.",
       "id": "8e052d55-f511-49b3-adbb-29f38ed51ec7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -115,7 +115,7 @@
       ],
       "rationale": "Fresh AI capex catalysts and positive memory dynamics support semis\u2019 relative strength over broad equities near term.",
       "id": "e44d962d-0972-443a-8148-2b20ea1529fb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "Seasonal builds, softer freight/industrial demand, and steady refinery runs raise odds stocks tick to multi-month highs.",
       "id": "cd2b97fd-9cf0-4ff8-9446-9b2c45723821",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -161,7 +161,7 @@
       ],
       "rationale": "Persistent warmth and elevated SSTs make another record-proximate month likely barring anomalous late-month cooling.",
       "id": "2b2690c4-1b69-4a05-9a25-70b61eb83064",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "Scale and timelines of the Stargate program imply parallel site development to meet AI capacity and power needs.",
       "id": "f94ade73-feb3-420b-b226-8c4f3b2d75f1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -207,7 +207,7 @@
       ],
       "rationale": "The UK routinely aligns with allied sanctions cycles; further designations remain likely amid persistent geopolitical tensions.",
       "id": "0d598dc5-4c12-4106-9252-7ed2fa73a7f9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -230,7 +230,7 @@
       ],
       "rationale": "Growth and demand risks, stronger USD bursts, and inventory builds could trigger downside tests despite OPEC+ discipline.",
       "id": "ebca2340-e07b-4ad8-9213-019cea00a1e5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

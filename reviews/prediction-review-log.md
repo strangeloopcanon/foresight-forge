@@ -611,3 +611,12 @@ The day’s signals modestly tilt some priors: Powell’s tone and labor-market 
 
 ---
 
+
+## 2025-09-24
+
+Today’s news flow is dominated by U.S. politics, UN-related coverage, and assorted corporate headlines. None of the pieces provide official data releases or market-closing levels needed to resolve the macro forecasts (JOLTS, unemployment rate, DGS10, DXY, WTI), so all items remain pending ahead of their respective deadlines.
+
+There are tangential signals: tech sentiment looks mixed with some selling pressure and company-specific moves (Micron, Marvell), which could affect the SOXX vs S&P call, and a strong August new home sales print hints at resilient domestic demand. Climate-related discourse is active, but ERA5 confirmation for October temperatures arrives in November. No items address EIA distillate inventories, UK sanctions updates, or a new ‘Stargate’ site announcement. Overall, no clear evidence today to mark any forecast correct or incorrect.
+
+---
+

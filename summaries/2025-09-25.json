@@ -1,0 +1,117 @@
+{
+  "bullets": [
+    {
+      "text": "Trump signals Ukraine can retake territory; defense stocks rally on perceived policy pivot toward continued support.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/24/defense-stocks-rally-as-trump-says-kyiv-can-win-back-all-of-ukraine.html"
+    },
+    {
+      "text": "U.S. stands isolated at U.N. climate summit, resisting tougher emissions targets, complicating global decarbonization coordination.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/09/24/climate/united-nations-climate-summit-emissions-targets.html"
+    },
+    {
+      "text": "U.S. pursue equity stake in Lithium Americas; shares surge ~95%, underscoring resource-security push in EV supply chains.",
+      "tags": [
+        "markets",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/24/lithium-americas-lac-equity-stake-trump-stock.html"
+    },
+    {
+      "text": "U.S. new home sales jumped 20% in August to three-year high, signaling housing resilience despite elevated mortgage rates.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/24/august-new-home-sales-soar.html"
+    },
+    {
+      "text": "Seasonal retail hiring forecast at lowest since 2009, signaling soft holiday demand and potential consumer-spending headwinds.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/24/seasonal-hiring-2025-to-fall-to-lowest-level-since-2009-recession.html"
+    },
+    {
+      "text": "Microsoft adds Anthropic models to Copilot, reducing reliance on OpenAI and intensifying competition among foundation AI vendors.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/09/24/microsoft-adds-anthropics-ai-to-copilot/"
+    },
+    {
+      "text": "Cohere reaches $7B valuation and partners with AMD, highlighting momentum for alternative AI compute stacks beyond Nvidia.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/09/24/cohere-hits-7b-valuation-a-month-after-its-last-raise-partners-with-amd/"
+    },
+    {
+      "text": "Instagram hits 3 billion monthly users; Meta consolidates attention while testing new feed-control features.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/09/24/instagram-now-has-3-billion-monthly-active-users-will-test-features-to-help-users-control-their-feeds/"
+    },
+    {
+      "text": "AI passes hardest CFA exam level in minutes, challenging white-collar workflows and credential signaling in finance.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/24/ai-cfa-exam-pass-minutes-study.html"
+    },
+    {
+      "text": "India court upholds government takedown powers over X, elevating regulatory risk for platforms and speech online.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/09/24/india-court-rejects-xs-free-speech-argument-backs-government-takedown-powers/"
+    },
+    {
+      "text": "Proposed H-1B visa changes and higher fees draw backlash, with warnings of talent flight and startup competitiveness hits.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/24/trumps-h-1b-visa-changes-could-kneecap-startups-experts-say.html"
+    },
+    {
+      "text": "First-in-human Huntington\u2019s disease treatment trial begins, offering early hope for modifying neurodegeneration.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.bbc.com/news/articles/cevz13xkxpro"
+    },
+    {
+      "text": "Scientists reveal mechanism driving explosive kimberlite eruptions, refining deep-Earth carbon models and diamond resource formation timelines.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250924012229.htm"
+    },
+    {
+      "text": "AI-enabled smart bandage speeds wound healing by 25%, signaling near-term healthcare productivity gains.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250924012232.htm"
+    }
+  ]
+}

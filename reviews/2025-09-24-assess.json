@@ -1,0 +1,55 @@
+{
+  "date": "2025-09-24",
+  "assessments": [
+    {
+      "id": "fa33e118-da93-4c0a-97c2-ce92dff71dec",
+      "status": "pending",
+      "status_rationale": "No JOLTS release yet; none of today\u2019s coverage mentions August 2025 JOLTS figures. Deadline is 2025-10-01."
+    },
+    {
+      "id": "d646bb7b-ec4b-4368-93b1-f0156246d2c2",
+      "status": "pending",
+      "status_rationale": "September 2025 unemployment rate has not been released; no BLS data in today\u2019s news. Deadline is 2025-10-03."
+    },
+    {
+      "id": "22b4afd1-fb98-4145-8c2c-8870aa4f3260",
+      "status": "pending",
+      "status_rationale": "No article provides a 10Y yield close at or below 3.95%; market level not specified. Window remains open through 2025-11-30."
+    },
+    {
+      "id": "8e052d55-f511-49b3-adbb-29f38ed51ec7",
+      "status": "pending",
+      "status_rationale": "No confirmation of DXY closing at or above 107.00 in today\u2019s reports; index level not cited. Window open until 2025-11-30."
+    },
+    {
+      "id": "e44d962d-0972-443a-8148-2b20ea1529fb",
+      "status": "pending",
+      "status_rationale": "Performance window (2025-09-24 close to 2025-10-31 close) is just beginning; today\u2019s headlines don\u2019t provide comparative return data."
+    },
+    {
+      "id": "cd2b97fd-9cf0-4ff8-9446-9b2c45723821",
+      "status": "pending",
+      "status_rationale": "No EIA weekly data cited on distillate stocks; threshold not confirmed. Window open until 2025-11-15."
+    },
+    {
+      "id": "2b2690c4-1b69-4a05-9a25-70b61eb83064",
+      "status": "pending",
+      "status_rationale": "October 2025 has not occurred/finished and no ERA5 bulletin exists yet. Deadline is 2025-11-10."
+    },
+    {
+      "id": "f94ade73-feb3-420b-b226-8c4f3b2d75f1",
+      "status": "pending",
+      "status_rationale": "No announcement of an additional U.S. \u2018Stargate\u2019 site beyond Texas appears in today\u2019s news. Window open through 2025-11-30."
+    },
+    {
+      "id": "0d598dc5-4c12-4106-9252-7ed2fa73a7f9",
+      "status": "pending",
+      "status_rationale": "No GOV.UK/OFSI update on new Russia-related designations is referenced today. Deadline is 2025-10-31."
+    },
+    {
+      "id": "ebca2340-e07b-4ad8-9213-019cea00a1e5",
+      "status": "pending",
+      "status_rationale": "No evidence that WTI settled at or below $72/bbl in today\u2019s coverage; price levels not discussed. Window open until 2025-11-30."
+    }
+  ]
+}
