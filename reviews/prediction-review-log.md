@@ -620,3 +620,12 @@ There are tangential signals: tech sentiment looks mixed with some selling press
 
 ---
 
+
+## 2025-09-25
+
+Today’s news flow is dominated by U.S. policy actions—most notably broad new tariffs on branded pharmaceuticals and heavy trucks—plus political and regulatory developments. None of the items provide official macro releases or market closes needed to resolve the listed predictions, so all remain pending.
+
+Looking forward, the newly announced tariffs could put modest upward pressure on U.S. core goods prices in coming months, though they are unlikely to affect the already-locked September CPI print. Tariff-related inflation expectations and policy uncertainty could nudge rates higher at the margin, with some upside risk to mortgage rates. Market volatility around these policy shifts may influence equity indexes and the dollar path, but there is no clear read-through today for the Nasdaq-100 threshold, jobless claims trajectory, container shipping rates, or specific corporate results like Meta’s Q3 revenue. EU and UK items cited do not include concrete decisions or data relevant to the ECB rate call or UK GDP print.
+
+---
+

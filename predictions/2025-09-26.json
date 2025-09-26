@@ -1,0 +1,272 @@
+{
+  "date": "2025-09-26",
+  "predictions": [
+    {
+      "text": "U.S. PCE price index (headline, seasonally adjusted) month-over-month for September 2025 will be between 0.15% and 0.30% in the BEA release on 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 35,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "BEA Personal Income and Outlays release for September 2025 shows the PCE price index (headline) monthly percent change >= 0.15% and <= 0.30% in the published tables.",
+      "evidence": [
+        "https://www.bea.gov/data/income-saving/personal-income",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+        "https://www.bls.gov/cpi/",
+        "https://gasprices.aaa.com/"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed PCE/CPI nowcast updates",
+        "BLS CPI/PPI monthly releases",
+        "AAA national gasoline price trend",
+        "Used car auction indexes (e.g., Manheim)",
+        "Rental inflation trackers (ZORI, new-lease measures)"
+      ],
+      "rationale": "Gasoline and goods disinflation offset resilient services; recent CPI/PPI and Cleveland Fed nowcast point to a moderate PCE print.",
+      "id": "1df50998-7950-4897-9635-b98925efbdcc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE BofA US Corporate Index Option-Adjusted Spread (FRED: BAMLC0A0CM) will reach at or above 1.50 percentage points on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 65,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "FRED daily series BAMLC0A0CM prints a value >= 1.50 on any business day dated on or before 2025-11-30.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/BAMLC0A0CM",
+        "https://www.cnbc.com/2025/09/26/trump-slaps-25percent-tariffs-on-heavy-trucks-imports-starting-oct-1.html"
+      ],
+      "monitoring_signals": [
+        "Primary IG issuance volume and concessions",
+        "Credit ETF spreads (LQD, HYG) vs Treasuries",
+        "ISM new orders and employment subindexes",
+        "Equity volatility (VIX) spikes",
+        "Treasury term premium and curve shifts"
+      ],
+      "rationale": "Tariff uncertainty, higher term premium, and late\u2011cycle growth risks raise odds of modest credit spread widening.",
+      "id": "05838109-6322-4b31-9b61-8a0b2b57f7d4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The ICE U.S. Dollar Index (DXY) will close at or above 109.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 65,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "verification_criteria": "An official daily close for DXY (e.g., Yahoo Finance ^DXY or equivalent) dated on or before 2025-11-30 is >= 109.00.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/%5EDXY",
+        "https://www.cnbc.com/2025/09/26/trump-slaps-25percent-tariffs-on-heavy-trucks-imports-starting-oct-1.html",
+        "https://www.cnbc.com/2025/09/25/jobless-claims-tumble-to-218000-well-below-estimate-despite-fears-of-labor-market-weakness.html"
+      ],
+      "monitoring_signals": [
+        "U.S. CPI/payrolls surprises vs euro area and Japan data",
+        "Fed vs ECB/BoJ policy expectations",
+        "Trade/tariff headlines affecting risk sentiment",
+        "U.S. yield moves relative to G10"
+      ],
+      "rationale": "Tariff escalation, resilient U.S. data, and relative Euro/yen weakness favor a stronger dollar into November.",
+      "id": "73a944b4-8301-420f-accc-e12671db004e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Amazon (AMZN) will recognize a GAAP charge of at least $2.0B related to the FTC Prime settlement in its Q3 2025 earnings release or Form 10-Q published by 2025-10-31.",
+      "category": "tech",
+      "horizon_days": 35,
+      "deadline": "2025-10-31",
+      "confidence_pct": 62,
+      "verification_criteria": "Amazon\u2019s Q3 2025 earnings materials (press release, shareholder letter, or Form 10\u2011Q) explicitly report a charge/accrual >= $2.0B attributable to the FTC Prime settlement.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/25/amazon-ftc-prime-settlement.html",
+        "https://ir.aboutamazon.com/overview/default.aspx"
+      ],
+      "monitoring_signals": [
+        "Amazon legal contingency footnotes",
+        "Timing of settlement payment/escrow",
+        "Guidance commentary on one\u2011time items",
+        "Accrual accounting policy disclosures"
+      ],
+      "rationale": "Companies typically accrue settled penalties promptly; the settlement amount suggests a multi\u2011billion charge in Q3.",
+      "id": "ac4499bc-8caa-4f05-a6f0-2d24c752bb91",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "EIA Weekly U.S. Field Production of Crude Oil will print at or above 13.6 million barrels per day for at least one week ending by 2025-11-29, as published by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 65,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "EIA Weekly Petroleum Status Report table shows 'U.S. field production of crude oil' >= 13,600 thousand bpd for any qualifying week, with the report published on/before 2025-11-30.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "U.S. oil rig counts and DUC completions",
+        "Shale basin productivity reports",
+        "Hurricane/Gulf of Mexico outages",
+        "Pipeline takeaway capacity updates"
+      ],
+      "rationale": "Rig productivity gains and record output trends point to new highs barring major storm disruptions.",
+      "id": "744a23c2-3e3b-4a79-a290-d4f0bfdadfe6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or above 4.70% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 65,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "FRED DGS10 daily close shows a yield >= 4.70% on any observation dated on or before 2025-11-30.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+        "https://www.cnbc.com/2025/09/26/trump-slaps-25percent-tariffs-on-heavy-trucks-imports-starting-oct-1.html"
+      ],
+      "monitoring_signals": [
+        "Inflation data surprises (CPI/PCE)",
+        "Treasury refunding announcements",
+        "Fed communications and term premium estimates",
+        "Oil price trends"
+      ],
+      "rationale": "Supply risk from tariffs and sticky services inflation could push term yields higher before year\u2011end.",
+      "id": "4aee16f8-8696-49c0-ada0-ea74bf9b3fcc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area unemployment rate (seasonally adjusted) for September 2025 will print between 6.2% and 6.6% in Eurostat\u2019s release due by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 35,
+      "deadline": "2025-10-31",
+      "confidence_pct": 61,
+      "verification_criteria": "Eurostat news release/database reports the euro area SA unemployment rate for Sep 2025 within [6.2%, 6.6%].",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Unemployment_statistics"
+      ],
+      "monitoring_signals": [
+        "Member-state unemployment updates (DE, FR, IT, ES)",
+        "Eurozone PMI employment components",
+        "Job vacancy trends",
+        "Business/consumer confidence surveys"
+      ],
+      "rationale": "Euro labor market remains stable; modest slowdown keeps the rate near 6.4%.",
+      "id": "3db50d8f-3cc8-4339-8841-3f9b60cc8ad8",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "From 2025-09-26 close to 2025-10-31 close, Tesla (TSLA) will underperform the Nasdaq-100 Index (^NDX) by at least 5.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 35,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Using Yahoo Finance adjusted close data, compute pct change for TSLA and ^NDX from 2025-09-26 to 2025-10-31. TSLA return must be \u2264 (^NDX return \u2212 5.0pp).",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/25/teslas-continuing-sales-slump-in-europe-weighs-on-stock-price.html",
+        "https://finance.yahoo.com/quote/TSLA",
+        "https://finance.yahoo.com/quote/%5ENDX"
+      ],
+      "monitoring_signals": [
+        "Monthly deliveries and EU registrations",
+        "Price cuts/incentives and margin guidance",
+        "Competitor launches and EV demand",
+        "Broader megacap tech performance"
+      ],
+      "rationale": "European demand softness and pricing pressure weigh on Tesla relative to megacap tech strength.",
+      "id": "3e87547a-d241-4703-a154-9891104966a9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Copernicus ERA5 global surface air temperature for September 2025 will rank within the top 2 warmest Septembers on record in the C3S monthly bulletin released by 2025-10-07.",
+      "category": "other",
+      "horizon_days": 11,
+      "deadline": "2025-10-07",
+      "confidence_pct": 60,
+      "verification_criteria": "C3S monthly climate bulletin for September 2025 states the month ranks 1st or 2nd warmest September in the ERA5 record.",
+      "evidence": [
+        "https://climate.copernicus.eu/monthly-climate-bulletins"
+      ],
+      "monitoring_signals": [
+        "ERA5 daily anomalies previews",
+        "ENSO status and tropical SSTs",
+        "Global marine heatwave indicators",
+        "NOAA/GISTEMP preliminary signals"
+      ],
+      "rationale": "Persistent ocean warmth and ongoing El Ni\u00f1o/neutral transition make another record\u2011near month likely.",
+      "id": "68efd59a-3377-4eef-ad60-7c7879e8c7bf",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "UK Retail Sales volume (seasonally adjusted, including fuel) month-over-month for September 2025 will print between -0.6% and +0.4% in the ONS release on 2025-10-18.",
+      "category": "macro",
+      "horizon_days": 22,
+      "deadline": "2025-10-18",
+      "confidence_pct": 55,
+      "verification_criteria": "ONS \u2018Retail sales, Great Britain\u2019 bulletin shows the September 2025 SA total retail sales volume m/m change within [-0.6%, +0.4%].",
+      "evidence": [
+        "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/latest",
+        "https://www.cnbc.com/2025/09/25/jobless-claims-tumble-to-218000-well-below-estimate-despite-fears-of-labor-market-weakness.html"
+      ],
+      "monitoring_signals": [
+        "BRC-KPMG retail sales monitor",
+        "Card transaction data (e.g., CHAPS proxies)",
+        "Fuel prices and weather effects",
+        "UK consumer confidence (GfK)"
+      ],
+      "rationale": "Muted real income growth and wet weather/fuel prices suggest flat\u2011to\u2011slightly negative retail volumes.",
+      "id": "48cef7ca-8492-4134-9279-115418ec8d21",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China Caixin Manufacturing PMI for October 2025 will print between 50.0 and 51.5 in the release by 2025-11-01.",
+      "category": "macro",
+      "horizon_days": 36,
+      "deadline": "2025-11-01",
+      "confidence_pct": 55,
+      "verification_criteria": "S&P Global/Caixin press release reports October 2025 Caixin Manufacturing PMI within [50.0, 51.5].",
+      "evidence": [
+        "https://www.pmi.spglobal.com/Public/Release/PressReleases"
+      ],
+      "monitoring_signals": [
+        "Export orders and delivery times",
+        "Power consumption and freight volumes",
+        "Fiscal/credit impulse indicators",
+        "USD/CNY and global demand trends"
+      ],
+      "rationale": "External demand stabilization and policy support should keep the Caixin gauge modestly expansionary.",
+      "id": "3f610bd9-fbd2-4b50-8116-063eb6154598",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At its early-November 2025 meeting, the Bank of England will leave Bank Rate unchanged.",
+      "category": "rates",
+      "horizon_days": 42,
+      "deadline": "2025-11-07",
+      "confidence_pct": 58,
+      "verification_criteria": "The Bank of England\u2019s Monetary Policy Summary for the November 2025 meeting states the Bank Rate is unchanged versus the previous setting.",
+      "evidence": [
+        "https://www.bankofengland.co.uk/monetary-policy-summary"
+      ],
+      "monitoring_signals": [
+        "UK CPI (especially services inflation)",
+        "Average weekly earnings and unemployment",
+        "BoE speeches and meeting minutes",
+        "Market-implied path (SONIA futures)",
+        "Gilt yield movements"
+      ],
+      "rationale": "Cooling inflation and softer growth argue for a hold while assessing prior tightening.",
+      "id": "86f5b546-0800-41ea-b3a7-ae446cb6a4b2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

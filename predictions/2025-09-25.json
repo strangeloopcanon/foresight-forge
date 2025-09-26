@@ -22,7 +22,7 @@
         "Nowcasts from Cleveland Fed/BRI"
       ],
       "id": "c729b961-8ff8-4051-81cc-781fcb85610b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Wage growth is easing but remains above 3.5%, consistent with labor rebalancing without a sharp downturn.",
       "id": "71a0802f-68a1-459b-9102-aab8f2f4b7b1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -70,7 +70,7 @@
       ],
       "rationale": "Inflation is trending closer to target and growth is soft; the ECB likely pauses to assess transmission.",
       "id": "012d423a-cfd3-4a03-b73c-1d7c4dec9449",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "rationale": "AI-driven earnings and user growth support upside; rate sensitivity caps confidence.",
       "id": "1ebc786b-0ae4-4101-8bdf-412fbb3933e9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Autumn refinery turnarounds and steady production typically lift crude stocks.",
       "id": "f88f29f1-d0ea-41ec-a2a4-99d360db62b2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rationale": "Rate volatility remains elevated with term premia; brief spikes above 6.8% are plausible even as the trend eases.",
       "id": "3abaaeac-d094-4929-a0cb-57d7c8f5884f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "Continued conflict and circumvention concerns sustain EU pressure for additional listings and sectoral tweaks.",
       "id": "6149898e-bdfd-4dfc-a781-ffffbeb9f52f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "User scale and improving ad tools support mid-to-high single-digit sequential Q3 uplift within the guided range.",
       "id": "ae8356e9-9ebb-4cc1-903b-c98a89e2e42c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -210,7 +210,7 @@
       ],
       "rationale": "Peak-season demand and rerouting pressures are lifting Transatlantic/Asia\u2013Europe spot rates.",
       "id": "645953e0-9825-4ef0-b15b-3973d73caea6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "rationale": "Cooling labor demand and weak seasonal hiring should nudge the smoother 4-week average higher.",
       "id": "c6bbef6d-e556-4846-8e5f-6e9d645297c0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -257,7 +257,7 @@
       ],
       "rationale": "Wide rate differentials and BoJ gradualism keep yen vulnerable despite intermittent intervention risks.",
       "id": "166ef949-cdf3-4111-8a27-0e2a96c07178",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -280,7 +280,7 @@
       ],
       "rationale": "Mixed PMIs and soft retail suggest a flat-to-slightly positive monthly print amid ongoing stagnation.",
       "id": "9021d231-0421-4ff8-8fbf-f44487d99572",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

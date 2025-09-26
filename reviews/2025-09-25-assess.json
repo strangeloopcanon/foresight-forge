@@ -1,0 +1,65 @@
+{
+  "date": "2025-09-25",
+  "assessments": [
+    {
+      "id": "c729b961-8ff8-4051-81cc-781fcb85610b",
+      "status": "pending",
+      "status_rationale": "No BLS CPI release yet; none of today\u2019s articles report the September CPI figure."
+    },
+    {
+      "id": "71a0802f-68a1-459b-9102-aab8f2f4b7b1",
+      "status": "pending",
+      "status_rationale": "Employment Situation for September has not been released; no wage data in today\u2019s news."
+    },
+    {
+      "id": "012d423a-cfd3-4a03-b73c-1d7c4dec9449",
+      "status": "pending",
+      "status_rationale": "ECB meeting is in the future and no policy decision was reported today."
+    },
+    {
+      "id": "1ebc786b-0ae4-4101-8bdf-412fbb3933e9",
+      "status": "pending",
+      "status_rationale": "No evidence that the Nasdaq-100 closed at or above 20,000 in today\u2019s coverage."
+    },
+    {
+      "id": "f88f29f1-d0ea-41ec-a2a4-99d360db62b2",
+      "status": "pending",
+      "status_rationale": "No EIA inventory figures were cited; threshold not confirmed reached."
+    },
+    {
+      "id": "3abaaeac-d094-4929-a0cb-57d7c8f5884f",
+      "status": "pending",
+      "status_rationale": "No MBA weekly mortgage rate reported; outcome not yet determined."
+    },
+    {
+      "id": "6149898e-bdfd-4dfc-a781-ffffbeb9f52f",
+      "status": "pending",
+      "status_rationale": "No EU Council announcement of a new Russia sanctions package in today\u2019s news."
+    },
+    {
+      "id": "ae8356e9-9ebb-4cc1-903b-c98a89e2e42c",
+      "status": "pending",
+      "status_rationale": "Meta has not reported Q3 results yet; no revenue figures in today\u2019s articles."
+    },
+    {
+      "id": "645953e0-9825-4ef0-b15b-3973d73caea6",
+      "status": "pending",
+      "status_rationale": "No Drewry WCI update provided; comparison to Sep 5 level not verifiable from today\u2019s news."
+    },
+    {
+      "id": "c6bbef6d-e556-4846-8e5f-6e9d645297c0",
+      "status": "pending",
+      "status_rationale": "No DOL jobless-claims data mentioned; 4-week average status unknown."
+    },
+    {
+      "id": "166ef949-cdf3-4111-8a27-0e2a96c07178",
+      "status": "pending",
+      "status_rationale": "No USD/JPY level reported; threshold of 155.00 not confirmed."
+    },
+    {
+      "id": "9021d231-0421-4ff8-8fbf-f44487d99572",
+      "status": "pending",
+      "status_rationale": "ONS August GDP release is still ahead; no figure reported today."
+    }
+  ]
+}
