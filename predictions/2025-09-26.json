@@ -23,7 +23,7 @@
       ],
       "rationale": "Gasoline and goods disinflation offset resilient services; recent CPI/PPI and Cleveland Fed nowcast point to a moderate PCE print.",
       "id": "1df50998-7950-4897-9635-b98925efbdcc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Tariff uncertainty, higher term premium, and late\u2011cycle growth risks raise odds of modest credit spread widening.",
       "id": "05838109-6322-4b31-9b61-8a0b2b57f7d4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -69,7 +69,7 @@
       ],
       "rationale": "Tariff escalation, resilient U.S. data, and relative Euro/yen weakness favor a stronger dollar into November.",
       "id": "73a944b4-8301-420f-accc-e12671db004e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -91,7 +91,7 @@
       ],
       "rationale": "Companies typically accrue settled penalties promptly; the settlement amount suggests a multi\u2011billion charge in Q3.",
       "id": "ac4499bc-8caa-4f05-a6f0-2d24c752bb91",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -112,7 +112,7 @@
       ],
       "rationale": "Rig productivity gains and record output trends point to new highs barring major storm disruptions.",
       "id": "744a23c2-3e3b-4a79-a290-d4f0bfdadfe6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -135,7 +135,7 @@
       ],
       "rationale": "Supply risk from tariffs and sticky services inflation could push term yields higher before year\u2011end.",
       "id": "4aee16f8-8696-49c0-ada0-ea74bf9b3fcc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -156,7 +156,7 @@
       ],
       "rationale": "Euro labor market remains stable; modest slowdown keeps the rate near 6.4%.",
       "id": "3db50d8f-3cc8-4339-8841-3f9b60cc8ad8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "European demand softness and pricing pressure weigh on Tesla relative to megacap tech strength.",
       "id": "3e87547a-d241-4703-a154-9891104966a9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -200,7 +200,7 @@
       ],
       "rationale": "Persistent ocean warmth and ongoing El Ni\u00f1o/neutral transition make another record\u2011near month likely.",
       "id": "68efd59a-3377-4eef-ad60-7c7879e8c7bf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "rationale": "Muted real income growth and wet weather/fuel prices suggest flat\u2011to\u2011slightly negative retail volumes.",
       "id": "48cef7ca-8492-4134-9279-115418ec8d21",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -243,7 +243,7 @@
       ],
       "rationale": "External demand stabilization and policy support should keep the Caixin gauge modestly expansionary.",
       "id": "3f610bd9-fbd2-4b50-8116-063eb6154598",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -265,7 +265,7 @@
       ],
       "rationale": "Cooling inflation and softer growth argue for a hold while assessing prior tightening.",
       "id": "86f5b546-0800-41ea-b3a7-ae446cb6a4b2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

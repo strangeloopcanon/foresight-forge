@@ -1,0 +1,65 @@
+{
+  "date": "2025-09-26",
+  "assessments": [
+    {
+      "id": "1df50998-7950-4897-9635-b98925efbdcc",
+      "status": "pending",
+      "status_rationale": "No BEA PCE release yet and no cited figures in today's news; deadline is 2025-10-31."
+    },
+    {
+      "id": "05838109-6322-4b31-9b61-8a0b2b57f7d4",
+      "status": "pending",
+      "status_rationale": "No reporting on ICE BofA US Corporate OAS levels; outcome remains unverified ahead of 2025-11-30."
+    },
+    {
+      "id": "73a944b4-8301-420f-accc-e12671db004e",
+      "status": "pending",
+      "status_rationale": "No DXY close levels referenced; window remains open through 2025-11-30."
+    },
+    {
+      "id": "ac4499bc-8caa-4f05-a6f0-2d24c752bb91",
+      "status": "pending",
+      "status_rationale": "No mention of an Amazon GAAP charge related to any FTC Prime settlement in Q3 filings; deadline 2025-10-31."
+    },
+    {
+      "id": "744a23c2-3e3b-4a79-a290-d4f0bfdadfe6",
+      "status": "pending",
+      "status_rationale": "No EIA weekly production figures cited; verification awaits future weekly releases by 2025-11-30."
+    },
+    {
+      "id": "4aee16f8-8696-49c0-ada0-ea74bf9b3fcc",
+      "status": "pending",
+      "status_rationale": "No confirmed 10Y close at or above 4.70% in the articles; horizon remains open to 2025-11-30."
+    },
+    {
+      "id": "3db50d8f-3cc8-4339-8841-3f9b60cc8ad8",
+      "status": "pending",
+      "status_rationale": "Eurostat\u2019s September unemployment rate not reported; release due by 2025-10-31."
+    },
+    {
+      "id": "3e87547a-d241-4703-a154-9891104966a9",
+      "status": "pending",
+      "status_rationale": "Performance window has started but no closing price comparison yet; ends 2025-10-31."
+    },
+    {
+      "id": "68efd59a-3377-4eef-ad60-7c7879e8c7bf",
+      "status": "pending",
+      "status_rationale": "C3S ERA5 September 2025 ranking not released; bulletin expected by 2025-10-07."
+    },
+    {
+      "id": "48cef7ca-8492-4134-9279-115418ec8d21",
+      "status": "pending",
+      "status_rationale": "ONS September retail sales not out; release scheduled for 2025-10-18."
+    },
+    {
+      "id": "3f610bd9-fbd2-4b50-8116-063eb6154598",
+      "status": "pending",
+      "status_rationale": "Caixin October PMI not yet published; due by 2025-11-01."
+    },
+    {
+      "id": "86f5b546-0800-41ea-b3a7-ae446cb6a4b2",
+      "status": "pending",
+      "status_rationale": "No Bank of England decision yet for early November; outcome pending."
+    }
+  ]
+}

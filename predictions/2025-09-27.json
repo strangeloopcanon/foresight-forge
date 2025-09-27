@@ -1,0 +1,287 @@
+{
+  "date": "2025-09-27",
+  "predictions": [
+    {
+      "text": "If a U.S. federal government shutdown begins on 2025-10-01, it will end by 2025-10-06 (inclusive) via enactment of a continuing resolution or full-year appropriations.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-10-07",
+      "confidence_pct": 59,
+      "verification_criteria": "Confirmation that federal agencies reopen by 2025-10-06 via a signed public law (congress.gov or whitehouse.gov) or OMB directive ending the lapse in appropriations.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/26/government-shutdown-jobs-economy-trump.html",
+        "https://www.whitehouse.gov/omb/agency-contingency-plans/",
+        "https://crsreports.congress.gov/product/pdf/RL/RL34680"
+      ],
+      "monitoring_signals": [
+        "House and Senate floor schedules and vote announcements",
+        "Text and status of a continuing resolution on congress.gov",
+        "OMB memos on shutdown operations and re-opening"
+      ],
+      "rationale": "Political incentives and typical short durations suggest a brief stoppage even if a lapse occurs.",
+      "id": "83526337-655a-4b09-a87c-3e2381b5f685",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing Prices Index for October 2025 will print between 50.0 and 55.0 in the report due by 2025-11-04.",
+      "category": "macro",
+      "horizon_days": 38,
+      "deadline": "2025-11-04",
+      "confidence_pct": 56,
+      "verification_criteria": "Value as published in the ISM Manufacturing Report On Business for October 2025 on ismworld.org.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/",
+        "https://www.cnbc.com/2025/09/26/pce-inflation-august-2025.html"
+      ],
+      "monitoring_signals": [
+        "Commodity and energy price moves",
+        "Supplier delivery times and order backlogs in regional Fed surveys",
+        "USD strength and import price indices"
+      ],
+      "rationale": "Input cost pressures have stabilized; tariffs risk a modest uptick but not a surge.",
+      "id": "3f52779a-022f-4c8c-abaf-ca281559af05",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. New Home Sales (SAAR) for September 2025 will print between 650,000 and 740,000 in the Census release due 2025-10-29.",
+      "category": "macro",
+      "horizon_days": 32,
+      "deadline": "2025-10-29",
+      "confidence_pct": 55,
+      "verification_criteria": "SAAR level reported on census.gov for September 2025 New Residential Sales.",
+      "evidence": [
+        "https://www.census.gov/construction/nrs/index.html",
+        "https://www.census.gov/calendar/",
+        "https://www.mba.org/news-and-research/economic-and-mortgage-finance-commentary/mortgage-finance-trends"
+      ],
+      "monitoring_signals": [
+        "MBA Purchase Index",
+        "30-year mortgage rate trends (MBA weekly survey)",
+        "Homebuilder guidance and order backlogs"
+      ],
+      "rationale": "Sales likely range-bound as mortgage rates remain elevated but income growth supports demand.",
+      "id": "2c035ec5-2aec-423f-bb36-f41beea034af",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. JOLTS quits rate for August 2025 will print between 2.1% and 2.3% in the BLS release on 2025-10-01.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-10-01",
+      "confidence_pct": 58,
+      "verification_criteria": "Total quits rate as published in the BLS JOLTS news release for August 2025 on bls.gov.",
+      "evidence": [
+        "https://www.bls.gov/schedule/news_release/jolts.htm",
+        "https://www.bls.gov/news.release/jolts.htm",
+        "https://www.cnbc.com/2025/09/26/pce-inflation-august-2025.html"
+      ],
+      "monitoring_signals": [
+        "NFIB jobs-hard-to-fill and compensation plans",
+        "Initial and continuing jobless claims",
+        "Online job postings and wage trackers"
+      ],
+      "rationale": "Cooling labor demand and slower wage growth anchor quits near post-pandemic lows.",
+      "id": "fd1679b4-c8b6-4b16-a90d-ccefcac07e8d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe Volatility Index (VIX) will close at or above 25.00 on at least one trading day by 2025-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 34,
+      "deadline": "2025-10-31",
+      "confidence_pct": 53,
+      "verification_criteria": "Official VIX closing value on cboe.com at or above 25.00 on any date through 2025-10-31 (UTC).",
+      "evidence": [
+        "https://www.cboe.com/vix/",
+        "https://www.cnbc.com/2025/09/26/government-shutdown-jobs-economy-trump.html",
+        "https://www.cnbc.com/2025/09/26/nvidias-investment-portfolio.html"
+      ],
+      "monitoring_signals": [
+        "Macro event risk (shutdown, CPI/PCE, earnings surprises)",
+        "Credit spreads (ICE BofA OAS)",
+        "S&P 500 realized volatility and skew"
+      ],
+      "rationale": "Event-heavy October and policy uncertainty raise tail-risk hedging demand.",
+      "id": "fcec2a2b-9ff8-47fe-b717-2af45b0cbf70",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will close at or below $53,000 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 64,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Daily close for BTC-USD on finance.yahoo.com at or below 53,000.00 on any date through 2025-11-30 (UTC).",
+      "evidence": [
+        "https://finance.yahoo.com/quote/BTC-USD/",
+        "https://www.cnbc.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/",
+        "https://www.cnbc.com/2025/09/26/pce-inflation-august-2025.html"
+      ],
+      "monitoring_signals": [
+        "U.S. real yields and DXY",
+        "Crypto ETF flows and stablecoin net issuance",
+        "Risk sentiment (VIX) and liquidity conditions"
+      ],
+      "rationale": "Tighter financial conditions and risk-off spikes could trigger a downside test.",
+      "id": "c126ec4a-58f1-404d-92e7-accc67240243",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Brent\u2013WTI spot spread (FRED: DCOILBRENTEU minus DCOILWTICO) will reach at or above $7.00 per barrel on at least one daily observation by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 64,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Any FRED daily reading where DCOILBRENTEU \u2212 DCOILWTICO \u2265 7.00 by the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DCOILWTICO",
+        "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+        "https://www.cnbc.com/2025/09/26/trump-tariffs-supreme-court.html"
+      ],
+      "monitoring_signals": [
+        "Cushing inventories and pipeline flows",
+        "OPEC+ production decisions and compliance",
+        "Freight/shipping disruptions affecting Atlantic Basin crude"
+      ],
+      "rationale": "Logistics and policy risks favor a wider Atlantic premium over inland U.S. barrels.",
+      "id": "b5c02738-4890-4899-89a2-3c6a4b2c8e5d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Henry Hub natural gas spot price (FRED: DHHNGSP) will print at or below $2.30 per MMBtu on at least one daily observation by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 64,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Any FRED daily reading for DHHNGSP \u2264 2.30 by the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DHHNGSP",
+        "https://www.eia.gov/naturalgas/storage/",
+        "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/season_fcs.shtml"
+      ],
+      "monitoring_signals": [
+        "EIA weekly storage injections",
+        "Lower-48 dry gas production estimates",
+        "NOAA temperature outlooks affecting HDDs/shoulder-season demand"
+      ],
+      "rationale": "High storage and mild weather risk a shoulder-season dip despite LNG demand.",
+      "id": "a26e92d3-1607-489a-b6d9-cf7de8d80fb5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Caixin China Services PMI for October 2025 will print between 51.0 and 53.5 in the release due by 2025-11-05.",
+      "category": "macro",
+      "horizon_days": 39,
+      "deadline": "2025-11-05",
+      "confidence_pct": 56,
+      "verification_criteria": "Headline Caixin China General Services PMI figure as published by S&P Global/Caixin for October 2025.",
+      "evidence": [
+        "https://www.spglobal.com/marketintelligence/en/solutions/pmi.html",
+        "https://www.cnbc.com/2025/09/26/chinese-stocks-are-on-fire-this-year-drawing-big-interest-from-foreign-and-domestic-investors.html"
+      ],
+      "monitoring_signals": [
+        "Mobility and travel data around Golden Week",
+        "Caixin Manufacturing PMI new orders and employment subindices",
+        "Policy stimulus and credit growth indicators"
+      ],
+      "rationale": "Services activity remains in expansion, supported by policy and improving sentiment.",
+      "id": "019e377f-8fad-4684-baa7-f45d5061c501",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area core HICP (YoY, flash) for October 2025 will print between 2.3% and 2.7% in Eurostat\u2019s 2025-10-31 release.",
+      "category": "macro",
+      "horizon_days": 34,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Eurostat flash estimate for HICP excluding energy and unprocessed food for October 2025 within the stated range.",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/web/main/news/press-releases",
+        "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=HICP_inflation_in_the_euro_area"
+      ],
+      "monitoring_signals": [
+        "Country flash CPI prints (DE, FR, ES, IT)",
+        "Energy base effects and services inflation",
+        "Negotiated wage indicators and PMI prices"
+      ],
+      "rationale": "Underlying inflation continues to ease gradually amid weaker goods inflation and moderating services.",
+      "id": "c145a26d-0d4d-4575-b431-4b86bf5d7d62",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Boeing (BA) will report at least 45 commercial aircraft deliveries for October 2025 in its monthly update published by 2025-11-15.",
+      "category": "markets",
+      "horizon_days": 49,
+      "deadline": "2025-11-15",
+      "confidence_pct": 60,
+      "verification_criteria": "Boeing\u2019s official October 2025 orders and deliveries update or press release lists \u226545 commercial deliveries.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/26/faa-boeing-737-max-787.html",
+        "https://boeing.mediaroom.com/",
+        "https://www.boeing.com/investors/"
+      ],
+      "monitoring_signals": [
+        "FAA oversight changes and issuance of airworthiness certificates",
+        "Supplier cadence (Spirit AeroSystems) and rework progress",
+        "Airline acceptance schedules and ferry flights"
+      ],
+      "rationale": "Self-certification resumption should lift 737 MAX and 787 handovers from subdued levels.",
+      "id": "a2dc7c49-61c1-408e-975e-f2d1d204d0a5",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Electronic Arts (EA) will announce a definitive agreement to be acquired or taken private at an equity value of at least $50 billion by 2025-10-31.",
+      "category": "tech",
+      "horizon_days": 34,
+      "deadline": "2025-10-31",
+      "confidence_pct": 47,
+      "verification_criteria": "An EA press release or 8-K filing confirms a signed definitive merger agreement with stated equity value \u2265 $50B by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/26/electronic-arts-buyout.html",
+        "https://ir.ea.com/"
+      ],
+      "monitoring_signals": [
+        "LBO financing market conditions and loan syndication appetite",
+        "Regulatory/antitrust chatter and HSR filings",
+        "Leak frequency and confirmed bidder consortium composition"
+      ],
+      "rationale": "Reports suggest advanced talks, but financing and regulatory hurdles temper odds.",
+      "id": "a1a2d1d8-f56d-413e-9adc-d5dad9149bc8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. 5-Year Breakeven Inflation Rate (FRED: T5YIE) will reach at or above 2.25% on at least one trading day by 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 64,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Any daily observation for FRED series T5YIE \u2265 2.25% by the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/T5YIE",
+        "https://www.cnbc.com/2025/09/26/pce-inflation-august-2025.html",
+        "https://www.nytimes.com/2025/09/26/us/politics/trump-tariffs-supreme-court.html"
+      ],
+      "monitoring_signals": [
+        "Oil prices and gasoline futures",
+        "Fed communications and term premium moves",
+        "Survey-based measures (UMich, SPF) and inflation swaps"
+      ],
+      "rationale": "Tariff overhang and sticky services inflation support breakevens drifting higher near term.",
+      "id": "c3e3e52d-3a5c-48e0-9488-a9d1bfd8f7bb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

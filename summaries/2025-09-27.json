@@ -1,0 +1,125 @@
+{
+  "bullets": [
+    {
+      "text": "US core PCE inflation held at 2.9% in August, matching expectations and shaping Fed rate path.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/09/26/pce-inflation-august-2025.html"
+    },
+    {
+      "text": "BEA released Q2 2025 GDP and personal income by state, plus 2024 state PCE, highlighting regional growth and consumption patterns.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bea.gov/news/2025/gross-domestic-product-state-and-personal-income-state-2nd-quarter-2025-and-personal"
+    },
+    {
+      "text": "Supreme Court allowed Trump to withhold $4B in foreign aid, expanding executive discretion over appropriations with diplomatic ramifications.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/09/26/us/politics/supreme-court-trump-foreign-aid.html"
+    },
+    {
+      "text": "Trump expanded tariffs beyond Supreme Court\u2019s reach, raising trade uncertainty across sectors and potential consumer cost pass-throughs.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/09/26/us/politics/trump-tariffs-supreme-court.html"
+    },
+    {
+      "text": "Heavy-truck tariffs boosted Paccar shares; trade policy jolted transportation manufacturing valuations.",
+      "tags": [
+        "markets",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/26/peterbilt-owner-paccar-jumps-after-trump-tariffs-on-heavy-trucks.html"
+    },
+    {
+      "text": "US pharma tariffs spared India\u2019s generic drugmakers, but investors remain jittery about supply chains and pricing.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/26/us-pharma-tariffs-investors-of-indias-generic-drugmakers-rattled.html"
+    },
+    {
+      "text": "FAA will let Boeing self-certify 737 Max and 787 deliveries, improving production cadence and supporting shares.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/26/faa-boeing-737-max-787.html"
+    },
+    {
+      "text": "Electronic Arts reportedly nearing a $50B take-private; participants said to include Jared Kushner\u2019s firm; stock jumped.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/26/electronic-arts-buyout.html"
+    },
+    {
+      "text": "Nvidia\u2019s $100B OpenAI deal highlights growing strategic investments; AI trade concentration heightens market dependency risk.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/26/nvidias-investment-portfolio.html"
+    },
+    {
+      "text": "Chinese equities are surging YTD, attracting strong foreign and domestic inflows amid supportive policy signals.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/26/chinese-stocks-are-on-fire-this-year-drawing-big-interest-from-foreign-and-domestic-investors.html"
+    },
+    {
+      "text": "Potential federal government shutdown looms; risk to jobs, markets, and timely economic data releases.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/26/government-shutdown-jobs-economy-trump.html"
+    },
+    {
+      "text": "Quantum internet pilot went live on Verizon\u2019s network, advancing secure quantum key distribution over metropolitan fiber.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250925025409.htm"
+    },
+    {
+      "text": "Experimental gene therapy slowed Huntington\u2019s disease progression in a first, marking a milestone for neurodegenerative treatment.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencenews.org/article/huntingtons-slowed-with-gene-therapy"
+    },
+    {
+      "text": "Pasteurization eliminated H5N1 bird flu in milk, underscoring the safety of the commercial dairy supply.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencenews.org/article/pasteurization-milk-no-h5n1-bird-flu"
+    },
+    {
+      "text": "Massive AI data center spending persists, signaling multi-year capex tailwinds for semiconductors, power infrastructure, and industrial real estate.",
+      "tags": [
+        "markets",
+        "tech",
+        "energy"
+      ],
+      "link": "https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/"
+    }
+  ]
+}

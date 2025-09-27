@@ -629,3 +629,12 @@ Looking forward, the newly announced tariffs could put modest upward pressure on
 
 ---
 
+
+## 2025-09-26
+
+Today’s coverage is dominated by U.S. political and legal developments, media industry moves, and select corporate headlines (notably Electronic Arts’ buyout talks and Boeing’s regulatory progress). While these stories can influence broader market sentiment, none provide definitive data points or official releases required to resolve the current forecasts.
+
+Macro-relevant items such as potential government shutdown risks, tariff developments, and AI sector dynamics could affect the dollar, Treasury yields, and credit spreads in coming sessions, but today’s reporting lacks hard figures. The next concrete checkpoints for this slate are the C3S ERA5 September bulletin (by Oct 7), UK retail sales (Oct 18), and end-October releases for PCE and euro area unemployment, alongside ongoing daily monitoring of DXY, the 10Y yield, OAS, EIA weekly oil, and TSLA vs. NDX performance.
+
+---
+
