@@ -1,0 +1,70 @@
+{
+  "date": "2025-09-27",
+  "assessments": [
+    {
+      "id": "83526337-655a-4b09-a87c-3e2381b5f685",
+      "status": "pending",
+      "status_rationale": "News notes a looming U.S. government shutdown but provides no confirmation of a shutdown starting on 2025-10-01 or ending by 2025-10-06."
+    },
+    {
+      "id": "3f52779a-022f-4c8c-abaf-ca281559af05",
+      "status": "pending",
+      "status_rationale": "No ISM Manufacturing Prices Index data for October 2025 is reported in today\u2019s news; release is due by 2025-11-04."
+    },
+    {
+      "id": "2c035ec5-2aec-423f-bb36-f41beea034af",
+      "status": "pending",
+      "status_rationale": "No Census print for September 2025 New Home Sales is mentioned; release is due 2025-10-29."
+    },
+    {
+      "id": "fd1679b4-c8b6-4b16-a90d-ccefcac07e8d",
+      "status": "pending",
+      "status_rationale": "JOLTS quits rate for August 2025 is scheduled for 2025-10-01; no figures appear in the news."
+    },
+    {
+      "id": "fcec2a2b-9ff8-47fe-b717-2af45b0cbf70",
+      "status": "pending",
+      "status_rationale": "No report of VIX \u2265 25.00 in today\u2019s coverage; deadline remains 2025-10-31."
+    },
+    {
+      "id": "c126ec4a-58f1-404d-92e7-accc67240243",
+      "status": "pending",
+      "status_rationale": "No BTC price levels are cited; no confirmation of a close at or below $53,000."
+    },
+    {
+      "id": "b5c02738-4890-4899-89a2-3c6a4b2c8e5d",
+      "status": "pending",
+      "status_rationale": "No mention of the Brent\u2013WTI spot spread levels; no evidence it reached \u2265 $7.00."
+    },
+    {
+      "id": "a26e92d3-1607-489a-b6d9-cf7de8d80fb5",
+      "status": "pending",
+      "status_rationale": "No Henry Hub spot price figures are provided; no confirmation of \u2264 $2.30."
+    },
+    {
+      "id": "019e377f-8fad-4684-baa7-f45d5061c501",
+      "status": "pending",
+      "status_rationale": "Caixin China Services PMI for October 2025 is not yet released; no relevant data in the news."
+    },
+    {
+      "id": "c145a26d-0d4d-4575-b431-4b86bf5d7d62",
+      "status": "pending",
+      "status_rationale": "Euro area core HICP (YoY, flash) for October 2025 is not covered; release due 2025-10-31."
+    },
+    {
+      "id": "a2dc7c49-61c1-408e-975e-f2d1d204d0a5",
+      "status": "pending",
+      "status_rationale": "No Boeing October 2025 delivery figures are reported; update expected by 2025-11-15."
+    },
+    {
+      "id": "a1a2d1d8-f56d-413e-9adc-d5dad9149bc8",
+      "status": "pending",
+      "status_rationale": "No announcement of an EA acquisition or take-private at \u2265 $50B appears in the news."
+    },
+    {
+      "id": "c3e3e52d-3a5c-48e0-9488-a9d1bfd8f7bb",
+      "status": "pending",
+      "status_rationale": "No reference to the 5-Year Breakeven Inflation Rate hitting \u2265 2.25%; no market data provided."
+    }
+  ]
+}

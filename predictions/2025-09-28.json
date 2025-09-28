@@ -1,0 +1,263 @@
+{
+  "date": "2025-09-28",
+  "predictions": [
+    {
+      "text": "ICE Brent crude oil front-month futures will settle at or above $92.00 per barrel on at least one trading day by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 33,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Verify via ICE Futures Europe official settlement for the front-month Brent contract (e.g., BRN). Any official settlement price \u2265 $92.00 on or before 2025-10-31 (UTC) satisfies.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/27/world/middleeast/sanctions-iran-economy-snapback.html"
+      ],
+      "monitoring_signals": [
+        "Iran sanctions enforcement and waivers",
+        "OPEC+ output policy and compliance",
+        "EIA U.S. crude/product inventory trends",
+        "Red Sea/Suez and Strait of Hormuz shipping risks",
+        "Brent time-spreads (prompt backwardation)",
+        "Dollar strength (DXY)"
+      ],
+      "rationale": "Iran snapback sanctions raise Middle East risk premium into Q4 amid tight non-OPEC supply and seasonal demand.",
+      "id": "4136e3b4-4db9-41f6-8e5a-a7903b41bab4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EUR/USD will trade at or below 1.0400 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 63,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Per Yahoo Finance (ticker EURUSD=X), any daily intraday low \u2264 1.0400 between publication and 2025-11-30 (UTC) qualifies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
+        "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html",
+        "https://www.nytimes.com/2025/09/27/business/trump-tariffs-policies-economy-retail.html"
+      ],
+      "monitoring_signals": [
+        "U.S.\u2013euro area 2-year yield and swap differentials",
+        "ECB policy guidance and 2025-10-23 decision",
+        "U.S. data surprises (CPI/PCE, payrolls)",
+        "European growth PMIs and energy prices",
+        "DXY trend and risk sentiment"
+      ],
+      "rationale": "Higher-for-longer U.S. yields and lingering risk premia support the dollar while euro area growth underperforms.",
+      "id": "6844bd69-957d-4788-a276-66107fa498e3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. nonfarm payrolls (change, seasonally adjusted) for September 2025 will be between 120,000 and 220,000 in the BLS Employment Situation on 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-10-03",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "BLS Employment Situation news release: headline change in total nonfarm payroll employment (seasonally adjusted). Range inclusive.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/27/business/trump-tariffs-policies-economy-retail.html",
+        "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
+        "https://www.cnbc.com/2025/09/27/spectacular-ai-growth-to-spark-serious-jobs-issue-for-fed-zervos.html"
+      ],
+      "monitoring_signals": [
+        "ADP employment change",
+        "Initial and continuing jobless claims (4-week average)",
+        "ISM manufacturing/services employment indices",
+        "Challenger job-cut announcements",
+        "NFIB hiring plans"
+      ],
+      "rationale": "Hiring cools but remains positive amid softer goods demand and still-tight labor markets.",
+      "id": "40fc9b56-d85c-4eab-9437-0a1abd7b9cdb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Retail Sales 'control group' (advance) month-over-month for September 2025 will print between -0.2% and +0.4% in the Census release on 2025-10-16.",
+      "category": "macro",
+      "horizon_days": 18,
+      "deadline": "2025-10-16",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "U.S. Census Advance Monthly Retail and Food Services: control group defined as sales excluding motor vehicles & parts, gasoline, building materials, and food services; verify the MoM percent change; range inclusive.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/27/business/trump-tariffs-policies-economy-retail.html",
+        "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html"
+      ],
+      "monitoring_signals": [
+        "Credit/debit-card trackers (bank spending data)",
+        "Back-to-school promo intensity and retailer commentary",
+        "Gasoline prices and CPI goods inflation",
+        "Auto strike/production disruptions (if any)"
+      ],
+      "rationale": "Promotions and soft goods demand are partly offset by wealth effects; nominal growth remains modest.",
+      "id": "ad695a32-6331-4f2b-b358-ff0b03732a0f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan Consumer Sentiment (final) for October 2025 will print between 65.0 and 74.0 in the release due 2025-10-25.",
+      "category": "macro",
+      "horizon_days": 27,
+      "deadline": "2025-10-25",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "University of Michigan Surveys of Consumers\u2014final headline index value for October 2025; range inclusive.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
+        "https://www.nytimes.com/2025/09/27/business/trump-tariffs-policies-economy-retail.html",
+        "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html"
+      ],
+      "monitoring_signals": [
+        "Gasoline prices at the pump",
+        "Equity market performance",
+        "Mortgage rates and housing activity",
+        "News-based sentiment indicators"
+      ],
+      "rationale": "Sentiment steadies as equities stay firm, but high rates and price levels cap gains.",
+      "id": "7cc82a17-fae9-4163-a574-929ddaebaff5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. 2-Year Treasury yield (FRED: DGS2) will close at or above 4.90% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 63,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "FRED series DGS2 daily close; any observation \u2265 4.90% through 2025-11-30 (UTC) qualifies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
+        "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html"
+      ],
+      "monitoring_signals": [
+        "Fed communications and dot-plot rhetoric",
+        "Core CPI/PCE prints and surprises",
+        "Treasury issuance/bill supply and term premium estimates",
+        "Labor market data (NFP, claims)"
+      ],
+      "rationale": "Sticky services inflation and policy uncertainty keep front-end yields elevated at times.",
+      "id": "8fdd5e73-411c-4ee0-886b-6907c83ec366",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-09-26 close to 2025-10-31 close, the Russell 2000 Index (^RUT) will underperform the S&P 500 Index (^GSPC) by at least 3.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 33,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Use Yahoo Finance adjusted close prices. Compute percent change for ^RUT and ^GSPC between 2025-09-26 and 2025-10-31 closes. Outcome satisfied if (^RUT %chg) \u2212 (^GSPC %chg) \u2264 -3.0 percentage points.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
+        "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html",
+        "https://www.nytimes.com/2025/09/27/business/trump-tariffs-policies-economy-retail.html"
+      ],
+      "monitoring_signals": [
+        "2Y and 10Y Treasury yields and credit spreads",
+        "Small-cap earnings revisions and margin guidance",
+        "Market breadth and risk appetite indicators",
+        "Loan and private credit conditions"
+      ],
+      "rationale": "Small caps are more rate-sensitive and exposed to margin pressures from tariffs and financing costs.",
+      "id": "676d8fa2-382f-4dbb-a161-52334be59352",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. core CPI (all items less food and energy, year-over-year) for September 2025 will be between 3.1% and 3.3% in the BLS release on 2025-10-10.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-10-10",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "BLS CPI press release: 12-month percent change for 'All items less food and energy'. Range inclusive.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/27/spectacular-ai-growth-to-spark-serious-jobs-issue-for-fed-zervos.html",
+        "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed inflation nowcast",
+        "Shelter inflation (rent/OER) and new lease indicators",
+        "Used car/airfare/medical CPI components",
+        "ISM prices-paid indexes"
+      ],
+      "rationale": "Core disinflation progresses gradually, restrained by sticky services categories.",
+      "id": "0ac23eb5-7b00-4c97-9eb8-b84df4145233",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA-reported 4-week average U.S. crude oil exports will reach at or above 4.50 million barrels per day in at least one Weekly Petroleum Status Report published by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 48,
+      "deadline": "2025-11-15",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "EIA Weekly Petroleum Status Report: check the 4-week moving average for U.S. Exports of Crude Oil; any report with value \u2265 4.50 mb/d through 2025-11-15 qualifies.",
+      "evidence": [
+        "https://www.nytimes.com/2025/09/27/world/middleeast/sanctions-iran-economy-snapback.html"
+      ],
+      "monitoring_signals": [
+        "Brent\u2013WTI price spread and arbitrage",
+        "Gulf Coast terminal loadings (LOOP/Corpus Christi)",
+        "VLCC freight rates and availability",
+        "Foreign demand (Europe/Asia) and refinery runs"
+      ],
+      "rationale": "Sanctions-driven rerouting and wider Brent\u2013WTI spreads support higher U.S. crude export flows.",
+      "id": "b8e696bb-cce3-40bf-86ae-a426b1de0267",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX Henry Hub natural gas front-month futures will settle at or above $3.75 per MMBtu on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 63,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "CME/NYMEX official settlement for the prompt-month NG contract (ticker NG). Any settlement \u2265 $3.75/MMBtu through 2025-11-30 (UTC) satisfies.",
+      "evidence": [
+        "https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128"
+      ],
+      "monitoring_signals": [
+        "Storage trajectory vs 5-year average",
+        "HDD forecasts and early-winter weather",
+        "LNG feedgas flows and export capacity",
+        "Power sector gas burns and coal-to-gas switching"
+      ],
+      "rationale": "Shoulder season fades; early winter risk plus strong power demand can lift prompt gas prices.",
+      "id": "9cfcfb3c-c68a-4856-bb9a-0bc3825e7bcf",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area HCOB Flash Composite PMI for October 2025 will print at or below 50.2 in the release due 2025-10-24.",
+      "category": "macro",
+      "horizon_days": 26,
+      "deadline": "2025-10-24",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "S&P Global/HCOB euro area flash PMI news release; verify the headline composite PMI value for October 2025. Outcome satisfied if value \u2264 50.2.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
+        "https://www.nytimes.com/2025/09/27/business/trump-tariffs-policies-economy-retail.html"
+      ],
+      "monitoring_signals": [
+        "German and French flash PMIs (manufacturing/services)",
+        "Euro area new orders and export orders subindices",
+        "Credit standards (ECB BLS) and energy costs",
+        "Survey price pressures vs demand indicators"
+      ],
+      "rationale": "Manufacturing softness and cautious services keep composite near stagnation.",
+      "id": "4c3a68d1-2425-44d1-bd54-e057b3c5795b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

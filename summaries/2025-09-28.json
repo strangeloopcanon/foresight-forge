@@ -1,0 +1,127 @@
+{
+  "bullets": [
+    {
+      "text": "New U.N. sanctions on Iran threaten rial, stoke inflation, and add oil risk premium amid constrained supply. Businesses brace for trade and payments disruptions.",
+      "tags": [
+        "macro",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/27/world/middleeast/sanctions-iran-economy-snapback.html"
+    },
+    {
+      "text": "Netanyahu\u2019s defiant U.N. stance signals limited concessions; planned U.S. ambassador trip to Egypt suggests intensified shuttle diplomacy over Gaza, hostages, and regional normalization.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/27/world/middleeast/ambassador-huckabee-istael-egypt-travel.html"
+    },
+    {
+      "text": "Trump ordering troops to Portland to protect ICE heightens federal\u2013state tensions and civil-military politicization, with protest risk and legal challenges.",
+      "tags": [
+        "geopolitics",
+        "other"
+      ],
+      "link": "https://www.nytimes.com/2025/09/27/us/politics/trump-portland-troops.html"
+    },
+    {
+      "text": "U.S. retail chiefs grapple with revived tariffs, shifting regulations, and soft demand, implying margin compression, cautious hiring, and promotion-heavy holiday strategies.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/09/27/business/trump-tariffs-policies-economy-retail.html"
+    },
+    {
+      "text": "Surging equities sustain consumer spending via wealth effect, delaying recession but complicating inflation control and potentially forcing higher-for-longer rates.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html"
+    },
+    {
+      "text": "Trump\u2019s cartoon targeting Fed Chair Powell underscores political pressure on central bank independence, risking higher term premium and market volatility.",
+      "tags": [
+        "rates",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html"
+    },
+    {
+      "text": "Corporate AI spending has reached historic levels; payoff depends on productivity gains versus bubble risk amid power, data-center, and semiconductor bottlenecks.",
+      "tags": [
+        "tech",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.wsj.com/tech/ai/ai-bubble-building-spree-55ee6128"
+    },
+    {
+      "text": "Explosive AI growth may displace roles while boosting productivity, complicating Fed\u2019s mandate through mixed signals on wages, unemployment, and inflation.",
+      "tags": [
+        "macro",
+        "rates",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/09/27/spectacular-ai-growth-to-spark-serious-jobs-issue-for-fed-zervos.html"
+    },
+    {
+      "text": "New ETF offers retail access to private credit, expanding investor base but raising liquidity, valuation transparency, and downturn-loss risks.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/27/private-credit-boom-behind-new-etf-designed-for-retail-investors.html"
+    },
+    {
+      "text": "UK underwriting \u00a31.5B loan to Jaguar Land Rover after cyberattack highlights industrial cyber risk and willingness for targeted state backstops to protect manufacturing jobs.",
+      "tags": [
+        "geopolitics",
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.theguardian.com/business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says"
+    },
+    {
+      "text": "High-power microwave system disabling 49 drones in one blast shifts air-defense economics, favoring low-cost counters to massed UAV swarms.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://newatlas.com/military/microwave-beam-anti-drone-weapon/"
+    },
+    {
+      "text": "Norway\u2019s new airborne radioactivity monitoring over Svalbard reflects Arctic security vigilance and environmental risk management near strategic Russian facilities and shipping lanes.",
+      "tags": [
+        "geopolitics",
+        "science"
+      ],
+      "link": "https://www.highnorthnews.com/en/norway-monitor-airborne-radioactivity-svalbard"
+    },
+    {
+      "text": "South Korea\u2019s collapsing birthrate threatens long-run growth, strains pensions and healthcare, tightens labor supply, and pressures immigration and productivity reforms.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/27/south-koreas-birth-rate-collapse-threatens-growth.html"
+    },
+    {
+      "text": "Six-month survival after pig kidney transplant marks major xenotransplant milestone, promising to ease organ shortages and reshape transplant economics and insurance models.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nature.com/articles/d41586-025-02851-w"
+    },
+    {
+      "text": "Discovery of quantum echo in superconductors could enable new sensing or computing architectures, expanding quantum device performance and applications.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250926035059.htm"
+    }
+  ]
+}

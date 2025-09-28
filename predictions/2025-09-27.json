@@ -20,7 +20,7 @@
       ],
       "rationale": "Political incentives and typical short durations suggest a brief stoppage even if a lapse occurs.",
       "id": "83526337-655a-4b09-a87c-3e2381b5f685",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Input cost pressures have stabilized; tariffs risk a modest uptick but not a surge.",
       "id": "3f52779a-022f-4c8c-abaf-ca281559af05",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Sales likely range-bound as mortgage rates remain elevated but income growth supports demand.",
       "id": "2c035ec5-2aec-423f-bb36-f41beea034af",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "Cooling labor demand and slower wage growth anchor quits near post-pandemic lows.",
       "id": "fd1679b4-c8b6-4b16-a90d-ccefcac07e8d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -107,7 +107,7 @@
       ],
       "rationale": "Event-heavy October and policy uncertainty raise tail-risk hedging demand.",
       "id": "fcec2a2b-9ff8-47fe-b717-2af45b0cbf70",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -129,7 +129,7 @@
       ],
       "rationale": "Tighter financial conditions and risk-off spikes could trigger a downside test.",
       "id": "c126ec4a-58f1-404d-92e7-accc67240243",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "rationale": "Logistics and policy risks favor a wider Atlantic premium over inland U.S. barrels.",
       "id": "b5c02738-4890-4899-89a2-3c6a4b2c8e5d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -173,7 +173,7 @@
       ],
       "rationale": "High storage and mild weather risk a shoulder-season dip despite LNG demand.",
       "id": "a26e92d3-1607-489a-b6d9-cf7de8d80fb5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -194,7 +194,7 @@
       ],
       "rationale": "Services activity remains in expansion, supported by policy and improving sentiment.",
       "id": "019e377f-8fad-4684-baa7-f45d5061c501",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -215,7 +215,7 @@
       ],
       "rationale": "Underlying inflation continues to ease gradually amid weaker goods inflation and moderating services.",
       "id": "c145a26d-0d4d-4575-b431-4b86bf5d7d62",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -237,7 +237,7 @@
       ],
       "rationale": "Self-certification resumption should lift 737 MAX and 787 handovers from subdued levels.",
       "id": "a2dc7c49-61c1-408e-975e-f2d1d204d0a5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -258,7 +258,7 @@
       ],
       "rationale": "Reports suggest advanced talks, but financing and regulatory hurdles temper odds.",
       "id": "a1a2d1d8-f56d-413e-9adc-d5dad9149bc8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -280,7 +280,7 @@
       ],
       "rationale": "Tariff overhang and sticky services inflation support breakevens drifting higher near term.",
       "id": "c3e3e52d-3a5c-48e0-9488-a9d1bfd8f7bb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
