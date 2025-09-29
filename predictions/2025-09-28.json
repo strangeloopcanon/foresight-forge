@@ -22,7 +22,7 @@
       ],
       "rationale": "Iran snapback sanctions raise Middle East risk premium into Q4 amid tight non-OPEC supply and seasonal demand.",
       "id": "4136e3b4-4db9-41f6-8e5a-a7903b41bab4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -47,7 +47,7 @@
       ],
       "rationale": "Higher-for-longer U.S. yields and lingering risk premia support the dollar while euro area growth underperforms.",
       "id": "6844bd69-957d-4788-a276-66107fa498e3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -72,7 +72,7 @@
       ],
       "rationale": "Hiring cools but remains positive amid softer goods demand and still-tight labor markets.",
       "id": "40fc9b56-d85c-4eab-9437-0a1abd7b9cdb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -95,7 +95,7 @@
       ],
       "rationale": "Promotions and soft goods demand are partly offset by wealth effects; nominal growth remains modest.",
       "id": "ad695a32-6331-4f2b-b358-ff0b03732a0f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Sentiment steadies as equities stay firm, but high rates and price levels cap gains.",
       "id": "7cc82a17-fae9-4163-a574-929ddaebaff5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -142,7 +142,7 @@
       ],
       "rationale": "Sticky services inflation and policy uncertainty keep front-end yields elevated at times.",
       "id": "8fdd5e73-411c-4ee0-886b-6907c83ec366",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Small caps are more rate-sensitive and exposed to margin pressures from tariffs and financing costs.",
       "id": "676d8fa2-382f-4dbb-a161-52334be59352",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "rationale": "Core disinflation progresses gradually, restrained by sticky services categories.",
       "id": "0ac23eb5-7b00-4c97-9eb8-b84df4145233",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -211,7 +211,7 @@
       ],
       "rationale": "Sanctions-driven rerouting and wider Brent\u2013WTI spreads support higher U.S. crude export flows.",
       "id": "b8e696bb-cce3-40bf-86ae-a426b1de0267",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "rationale": "Shoulder season fades; early winter risk plus strong power demand can lift prompt gas prices.",
       "id": "9cfcfb3c-c68a-4856-bb9a-0bc3825e7bcf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -256,7 +256,7 @@
       ],
       "rationale": "Manufacturing softness and cautious services keep composite near stagnation.",
       "id": "4c3a68d1-2425-44d1-bd54-e057b3c5795b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

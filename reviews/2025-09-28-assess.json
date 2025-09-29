@@ -1,0 +1,60 @@
+{
+  "date": "2025-09-28",
+  "assessments": [
+    {
+      "id": "4136e3b4-4db9-41f6-8e5a-a7903b41bab4",
+      "status": "pending",
+      "status_rationale": "No reported Brent settlement levels in today\u2019s news; the deadline (2025-10-31) is still ahead."
+    },
+    {
+      "id": "6844bd69-957d-4788-a276-66107fa498e3",
+      "status": "pending",
+      "status_rationale": "No EUR/USD pricing provided in the news flow; outcome window remains open through 2025-11-30."
+    },
+    {
+      "id": "40fc9b56-d85c-4eab-9437-0a1abd7b9cdb",
+      "status": "pending",
+      "status_rationale": "The September 2025 NFP is scheduled for release on 2025-10-03; no early figures cited today."
+    },
+    {
+      "id": "ad695a32-6331-4f2b-b358-ff0b03732a0f",
+      "status": "pending",
+      "status_rationale": "Advance retail sales control group for September 2025 is due 2025-10-16; no relevant data in today\u2019s news."
+    },
+    {
+      "id": "7cc82a17-fae9-4163-a574-929ddaebaff5",
+      "status": "pending",
+      "status_rationale": "University of Michigan October 2025 final sentiment is due 2025-10-25; no print yet."
+    },
+    {
+      "id": "8fdd5e73-411c-4ee0-886b-6907c83ec366",
+      "status": "pending",
+      "status_rationale": "No 2-year Treasury yield figures cited; the threshold can still be met before 2025-11-30."
+    },
+    {
+      "id": "676d8fa2-382f-4dbb-a161-52334be59352",
+      "status": "pending",
+      "status_rationale": "The performance window (2025-09-26 to 2025-10-31) is ongoing; today\u2019s items don\u2019t provide index return data."
+    },
+    {
+      "id": "0ac23eb5-7b00-4c97-9eb8-b84df4145233",
+      "status": "pending",
+      "status_rationale": "September 2025 core CPI is scheduled for 2025-10-10; no preliminary figures provided."
+    },
+    {
+      "id": "b8e696bb-cce3-40bf-86ae-a426b1de0267",
+      "status": "pending",
+      "status_rationale": "No EIA weekly export metrics mentioned; the target can still be reached by 2025-11-15."
+    },
+    {
+      "id": "9cfcfb3c-c68a-4856-bb9a-0bc3825e7bcf",
+      "status": "pending",
+      "status_rationale": "No Henry Hub front-month settlement levels reported; window remains open through 2025-11-30."
+    },
+    {
+      "id": "4c3a68d1-2425-44d1-bd54-e057b3c5795b",
+      "status": "pending",
+      "status_rationale": "Euro area HCOB Flash Composite PMI for October is due 2025-10-24; no data today."
+    }
+  ]
+}

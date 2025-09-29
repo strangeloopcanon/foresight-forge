@@ -1,0 +1,118 @@
+{
+  "bullets": [
+    {
+      "text": "US shutdown risk persists; Trump meets congressional leaders, threatens federal firings; markets cautious, futures flat, Asia mixed; shutdown seen as near-term equity headwind.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-eye-possible-government-shutdown-eae1c8fd?mod=mw_rss_topstories"
+    },
+    {
+      "text": "GOP leaders shelve Obamacare tax credit fight to avert shutdown, signaling pragmatic compromise priority over ideological battles.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/09/28/government-shutdown-trump-democrats-republicans-health-care.html"
+    },
+    {
+      "text": "Comey indictment sets retribution precedent, escalating perceived politicization of justice and potential governance risk for allies and markets.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/28/us/politics/trump-comey-retribution-precedent.html"
+    },
+    {
+      "text": "Planned troop deployment to Portland over protests heightens federal-state tensions and domestic instability risk.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/28/us/portland-trump-ice-protests.html"
+    },
+    {
+      "text": "US wielding state power to back critical mineral firms; rare earths and lithium names could be next beneficiaries of industrial policy.",
+      "tags": [
+        "energy",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/28/mp-materials-lithium-americas-lac-rare-earth-trump-stake.html"
+    },
+    {
+      "text": "JD Vance claims TikTok is successfully separated from ByteDance, potentially reducing China exposure risk and validating forced divestiture playbook.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/09/28/jd-vance-trump-tiktok-china-bytedance.html"
+    },
+    {
+      "text": "DJI loses suit over U.S. 'Chinese military company' label, keeping restrictions intact and underscoring deepening tech decoupling.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/09/28/dji-loses-lawsuit-over-classification-as-chinese-military-company/"
+    },
+    {
+      "text": "China's MSS-linked 'Salt Typhoon' shows expanding cyber-espionage capacity, elevating corporate IP theft and critical infrastructure risks globally.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/28/world/asia/how-chinas-secretive-spy-agency-became-a-cyber-powerhouse.html"
+    },
+    {
+      "text": "Supermicro server motherboards susceptible to unremovable malware, intensifying hardware supply-chain security concerns for enterprises and hyperscalers.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/"
+    },
+    {
+      "text": "Moldova's projected pro-EU win weakens Kremlin leverage, bolstering EU integration momentum on Russia's frontier.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/09/28/world/europe/moldova-election-russia.html"
+    },
+    {
+      "text": "Tesla deliveries report will test revived sentiment; outcome likely to move EV valuations, charging ecosystem, and suppliers.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/tesla-is-about-to-show-a-snapshot-of-its-global-sales-is-recent-optimism-deserved-329dc13c?mod=mw_rss_topstories"
+    },
+    {
+      "text": "AI boom marked by heavy capex and aggressive dealmaking; signals maturing cycle versus dot-com-style froth, with winners consolidating.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/09/28/cramer-why-the-crazy-spending-of-this-ai-boom-isnt-like-the-dot-com-bubble.html"
+    },
+    {
+      "text": "U.S. health officials warn of rising drug-resistant 'nightmare' bacteria, threatening higher healthcare costs and mortality without new antibiotics.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us"
+    },
+    {
+      "text": "Quantum chips demonstrate real-world readiness, boosting prospects for near-term quantum advantage in optimization and simulation niches.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250927031230.htm"
+    },
+    {
+      "text": "New inhaler halves childhood asthma attacks in trials, implying substantial public-health impact and potential payer savings.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250928095611.htm"
+    }
+  ]
+}

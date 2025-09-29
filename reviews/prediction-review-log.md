@@ -647,3 +647,12 @@ Near-term catalysts include the potential onset of a U.S. federal shutdown on 20
 
 ---
 
+
+## 2025-09-28
+
+Today’s news flow is dominated by U.S. political developments around a potential government shutdown and broader domestic headlines, with markets described as little changed in futures trading. None of the items provide hard economic prints or market settlements relevant to the forecasts listed, so there is no basis to mark any prediction as resolved.
+
+Looking ahead, the next decisive checkpoints for this set are the U.S. September jobs report (10/03), CPI (10/10), retail sales control group (10/16), euro area October flash PMI (10/24), and University of Michigan October final sentiment (10/25). Shutdown risk and policy uncertainty could influence small-cap relative performance and rates volatility, but the articles do not supply quantitative outcomes; continued monitoring of official releases and market closes is required.
+
+---
+

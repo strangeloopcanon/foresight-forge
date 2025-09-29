@@ -1,0 +1,226 @@
+{
+  "date": "2025-09-29",
+  "predictions": [
+    {
+      "text": "No U.S. federal government shutdown will begin at 00:01 EDT on 2025-10-01 because a continuing resolution or full-year appropriations will be enacted into law by that time.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-10-01",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify that a CR or appropriations bill is signed into law and published (e.g., Congress.gov/WhiteHouse.gov) before 2025-10-01 00:01 EDT. If funding lapses and OMB issues a shutdown memo, this is false.",
+      "evidence": [
+        "https://www.cnbc.com/2025/09/28/government-shutdown-trump-democrats-republicans-health-care.html",
+        "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-eye-possible-government-shutdown-eae1c8fd?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "House/Senate floor schedules and vote counts",
+        "Text of CR/appropriations bills and enrollment status on Congress.gov",
+        "White House statements/signing schedule",
+        "OMB contingency/shutdown guidance updates"
+      ],
+      "rationale": "Leadership signaling pragmatic compromise; short-window CR is the path of least resistance to avoid blame and market turmoil.",
+      "id": "96b5188d-3e50-4fd7-91ee-03d029d88ed4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Tesla (TSLA) Q3 2025 global deliveries will be between 415,000 and 460,000 vehicles in the company\u2019s press release published by 2025-10-04.",
+      "category": "markets",
+      "horizon_days": 5,
+      "deadline": "2025-10-04",
+      "confidence_pct": 55,
+      "verification_criteria": "Use Tesla\u2019s official Q3 2025 production and deliveries press release on ir.tesla.com. The reported deliveries figure must fall within [415,000, 460,000].",
+      "evidence": [
+        "https://www.marketwatch.com/story/tesla-is-about-to-show-a-snapshot-of-its-global-sales-is-recent-optimism-deserved-329dc13c",
+        "https://ir.tesla.com/press"
+      ],
+      "monitoring_signals": [
+        "Weekly China insurance registrations for Tesla",
+        "Export ship tracking from Shanghai and Berlin",
+        "U.S./Europe inventory tracker data",
+        "Recent price cuts/incentives and order lead times"
+      ],
+      "rationale": "Seasonality plus stabilized production; mixed demand signals suggest a mid-400k outcome.",
+      "id": "d48f7088-1778-4769-93dd-2e3f88e09dd0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "UK CPI (headline, YoY) for September 2025 will print between 2.8% and 3.3% in the ONS release due 2025-10-16.",
+      "category": "macro",
+      "horizon_days": 17,
+      "deadline": "2025-10-16",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm the September 2025 headline CPI year-over-year rate in the ONS CPI release on 2025-10-16. Value must be within [2.8%, 3.3%].",
+      "evidence": [
+        "https://www.ons.gov.uk/releases",
+        "https://www.ons.gov.uk/economy/inflationandpriceindices"
+      ],
+      "monitoring_signals": [
+        "UK energy prices and Ofgem cap effects",
+        "Wage growth and services inflation indicators",
+        "GBP exchange rate impacts on import prices",
+        "Retail discounting and supermarket price surveys"
+      ],
+      "rationale": "Disinflation trend continues with energy base effects; services sticky but easing slowly.",
+      "id": "2524c148-a388-408e-9b6d-d063fb87f26f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI shelter index (month-over-month, seasonally adjusted) for September 2025 will print between 0.30% and 0.45% in the BLS CPI release on 2025-10-10.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-10-10",
+      "confidence_pct": 57,
+      "verification_criteria": "Check BLS CPI Detailed Report (Table 1/Section on Shelter). September 2025 shelter MoM SA must be within [0.30%, 0.45%].",
+      "evidence": [
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://www.bls.gov/cpi/",
+        "https://www.zillow.com/research/data/"
+      ],
+      "monitoring_signals": [
+        "New lease rent indexes (ZORI, Apartment List)",
+        "Owner\u2019s equivalent rent and primary rent diffusion in CPI microdata",
+        "Vacancy rates and lease renewal spreads",
+        "Lagged relationship between private rent indices and CPI shelter"
+      ],
+      "rationale": "Private rent indices imply gradual disinflation but shelter remains elevated due to lagged OER.",
+      "id": "5e25f1f8-ac49-4de7-b895-6a7387b11e32",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. working natural gas in storage will reach at or above 3.80 trillion cubic feet in at least one EIA Weekly Natural Gas Storage Report published by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 47,
+      "deadline": "2025-11-15",
+      "confidence_pct": 60,
+      "verification_criteria": "Use EIA Weekly Natural Gas Storage Report. Any published total U.S. working gas level at or above 3,800 Bcf by the 2025-11-15 report qualifies.",
+      "evidence": [
+        "https://ir.eia.gov/ngs/ngs.html",
+        "https://www.eia.gov/naturalgas/storageweekly/"
+      ],
+      "monitoring_signals": [
+        "Weekly injection magnitudes vs 5-year average",
+        "Production levels and pipeline maintenance",
+        "LNG feedgas demand and export terminal outages",
+        "Cooling/heating degree days forecasts"
+      ],
+      "rationale": "Above-average inventories and robust production support reaching high end-of-shoulder-season levels.",
+      "id": "b2a59c4d-2bb3-49fe-beb2-ea640aebae44",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "LME 3-month Copper official settlement price will reach at or above $9,500 per metric ton on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 62,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Verify via LME daily official prices: 3-month Copper cash/official settlement at or above $9,500/t on any trading day through 2025-11-30.",
+      "evidence": [
+        "https://www.lme.com/",
+        "https://www.spglobal.com/commodityinsights/en/commodities/metals/copper"
+      ],
+      "monitoring_signals": [
+        "China property stimulus and infrastructure spend",
+        "Exchange inventories (LME/SHFE) and time spreads",
+        "USD DXY movements",
+        "Global PMIs and electrical/renewables demand"
+      ],
+      "rationale": "Tight concentrates, energy transition demand, and potential China policy support can lift prices.",
+      "id": "81352fab-6fe2-4988-a17c-1aee108c095c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will close at or above $75,000 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 62,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Use Yahoo Finance BTC-USD daily close (UTC). Any daily close \u2265 $75,000 by 2025-11-30 qualifies.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/BTC-USD/",
+        "https://www.coindesk.com/price/bitcoin/"
+      ],
+      "monitoring_signals": [
+        "U.S. spot ETF net flows and AUM",
+        "Real yields and DXY",
+        "Risk appetite and tech/crypto beta performance",
+        "On-chain activity and stablecoin net issuance"
+      ],
+      "rationale": "ETF flows and easing financial conditions could drive a breakout, but volatility warrants sub-50% odds.",
+      "id": "1fbdc8eb-5b67-41b1-8618-e92160304daf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 30Y\u20135Y Treasury yield spread (FRED: DGS30 minus DGS5) will close at or above 0.60 percentage points on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 62,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "From FRED daily series DGS30 and DGS5, compute DGS30 \u2212 DGS5. Any daily close \u2265 0.60 pp through 2025-11-30 qualifies.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS30",
+        "https://fred.stlouisfed.org/series/DGS5"
+      ],
+      "monitoring_signals": [
+        "Fed rate-cut expectations and forward guidance",
+        "Inflation breakevens and term premium estimates",
+        "Treasury supply/auction outcomes",
+        "Growth data (ISM, payrolls) affecting curve steepening"
+      ],
+      "rationale": "Prospective Fed easing with resilient growth can steepen the curve via front-end decline and term premium stabilization.",
+      "id": "465d923e-7386-44d5-b68e-c3fba746c34a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Shanghai\u2013Los Angeles weekly spot rate published on or before 2025-10-31 will be at least 15% higher than its 2025-09-05 reading.",
+      "category": "markets",
+      "horizon_days": 32,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Compare Drewry WCI Shanghai\u2013Los Angeles rate on 2025-09-05 versus any weekly print up to and including 2025-10-31. A rise \u2265 15% qualifies.",
+      "evidence": [
+        "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index",
+        "https://www.cnbc.com/2025/09/28/mp-materials-lithium-americas-lac-rare-earth-trump-stake.html"
+      ],
+      "monitoring_signals": [
+        "Blank sailings and capacity management announcements",
+        "Port congestion metrics (LA/LB) and dwell times",
+        "U.S. import demand/retail restocking indicators",
+        "Bunker fuel prices and Panama/Suez constraints"
+      ],
+      "rationale": "Capacity discipline and seasonal restocking support higher Transpac spot rates near term.",
+      "id": "3607bd42-fd19-45dd-8ea1-2109bbc2016b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Alphabet (GOOGL) Q3 2025 revenue will be between $83.0B and $87.0B, per the company\u2019s earnings release published by 2025-10-31.",
+      "category": "tech",
+      "horizon_days": 32,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Use Alphabet\u2019s Q3 2025 press release/10-Q. Total revenue must fall within [$83.0B, $87.0B].",
+      "evidence": [
+        "https://abc.xyz/investor/",
+        "https://www.cnbc.com/2025/09/28/cramer-why-the-crazy-spending-of-this-ai-boom-isnt-like-the-dot-com-bubble.html"
+      ],
+      "monitoring_signals": [
+        "Digital ad spend trackers (Search/YouTube)",
+        "YouTube RPMs and engagement trends",
+        "Google Cloud bookings and profitability trajectory",
+        "FX impact (USD strength) on international revenue"
+      ],
+      "rationale": "Search and YouTube stabilize with improving ad budgets; Cloud growth remains solid.",
+      "id": "cd4c805d-b450-4f16-bb54-f03e9ad12e04",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
