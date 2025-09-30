@@ -1,0 +1,215 @@
+{
+  "date": "2025-09-30",
+  "predictions": [
+    {
+      "text": "ISM Manufacturing PMI (headline) for September 2025 will print between 47.5 and 49.5 in the ISM release on 2025-10-01.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-10-01",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm the September 2025 ISM Manufacturing PMI headline index value in the ISM Manufacturing Report On Business published 2025-10-01.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/",
+        "https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/us-regional-fed-manufacturing-surveys-2025"
+      ],
+      "monitoring_signals": [
+        "Chicago, Dallas, Richmond, Philly Fed manufacturing indices",
+        "S&P Global US Manufacturing PMI final for September",
+        "ISM supplier deliveries and new orders components"
+      ],
+      "rationale": "Regional Fed surveys and soft orders suggest contractionary manufacturing with stabilization near high-40s.",
+      "id": "8d669ee1-85bd-4eaf-bf6c-c1b97c57678f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ADP National Employment Report change for September 2025 will be between 120,000 and 190,000 in the release on 2025-10-01.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-10-01",
+      "confidence_pct": 55,
+      "verification_criteria": "Check the total private payroll change for September 2025 in the ADP National Employment Report published on 2025-10-01.",
+      "evidence": [
+        "https://adpemploymentreport.com/",
+        "https://www.bls.gov/news.release/empsit.nr0.htm"
+      ],
+      "monitoring_signals": [
+        "High-frequency payroll data from Homebase/UKG",
+        "Job postings levels (Indeed, LinkUp)",
+        "Initial and continuing jobless claims trends"
+      ],
+      "rationale": "Hiring remains resilient but cooling; ADP typically tracks private payrolls below 200k in slowing labor markets.",
+      "id": "6acded2d-f38f-4df5-bc9e-7a9a35a7b4e7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Average Hourly Earnings (total private, seasonally adjusted) month-over-month for September 2025 will print between 0.20% and 0.40% in the BLS Employment Situation on 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-10-03",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify the 1-month percentage change for series CES0500000003 in the BLS Employment Situation news release dated 2025-10-03.",
+      "evidence": [
+        "https://www.bls.gov/news.release/empsit.toc.htm",
+        "https://fred.stlouisfed.org/series/CES0500000003"
+      ],
+      "monitoring_signals": [
+        "Wage trackers (Atlanta Fed Wage Growth Tracker)",
+        "Average weekly hours changes",
+        "Industry mix shifts in payroll gains"
+      ],
+      "rationale": "Wage growth is moderating with cooler labor demand and easing job switching.",
+      "id": "e5b0fd76-1d23-481f-b2be-275b81506534",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area HICP (headline, YoY, flash) for September 2025 will print between 2.3% and 2.7% in Eurostat\u2019s release on 2025-10-02.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-10-02",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm the flash estimate YoY HICP for September 2025 on ec.europa.eu/eurostat in the 2025-10-02 news release.",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/news/",
+        "https://ec.europa.eu/eurostat/cache/infographs/economy/infographs_hicp_en.html"
+      ],
+      "monitoring_signals": [
+        "Country CPI flashes (Germany, Spain, France, Italy)",
+        "Energy price movements and base effects",
+        "Core goods vs services inflation components"
+      ],
+      "rationale": "Energy base effects fade while services remain sticky; headline near mid-2s plausible.",
+      "id": "7ebbb985-e930-4034-9fc6-adaef1d5f484",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. AAA national average price for regular gasoline will print at or below $3.40 per gallon on at least one day by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 31,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Check the daily national average for regular gasoline on gasprices.aaa.com; any reading \u2264 $3.40 before or on 2025-10-31 counts.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.eia.gov/petroleum/gasdiesel/"
+      ],
+      "monitoring_signals": [
+        "WTI/Brent price trends and refining margins",
+        "EIA gasoline inventories and product supplied",
+        "Seasonal demand slowdown post-summer"
+      ],
+      "rationale": "Seasonal demand drop and stable crude suggest modest retail price easing into October.",
+      "id": "fcba9c92-2fd2-41f7-8b32-24a8d376388e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-15, OPEC+ will issue an official statement maintaining current production targets with no net increase for November\u2013December 2025.",
+      "category": "energy",
+      "horizon_days": 15,
+      "deadline": "2025-10-15",
+      "confidence_pct": 60,
+      "verification_criteria": "Verify via an official press release or communiqu\u00e9 on opec.org or an OPEC Secretariat/JMMC statement stating no net increase to group targets for Nov\u2013Dec 2025.",
+      "evidence": [
+        "https://www.opec.org/opec_web/en/press_room/28.htm",
+        "https://www.reuters.com/markets/commodities/"
+      ],
+      "monitoring_signals": [
+        "Saudi and Russian guidance on voluntary cuts",
+        "Market balances and OECD inventories",
+        "Brent time spreads indicating tightness"
+      ],
+      "rationale": "Producers likely sustain discipline amid uncertain demand and inventory rebuilding.",
+      "id": "61b20723-5f61-43f5-8bba-6e0b4f3401db",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NVIDIA (NVDA) Q3 FY2026 revenue will be between $32.0B and $35.0B, per the company\u2019s earnings release or Form 10-Q published by 2025-11-30.",
+      "category": "tech",
+      "horizon_days": 61,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm GAAP revenue for the quarter ending around Oct 2025 in NVIDIA\u2019s press release or 10-Q filed on sec.gov by 2025-11-30.",
+      "evidence": [
+        "https://investor.nvidia.com/financial-info/financial-results/default.aspx",
+        "https://www.sec.gov/edgar/browse/?CIK=1045810"
+      ],
+      "monitoring_signals": [
+        "Data center GPU supply and lead times",
+        "Cloud capex commentary (hyperscalers)",
+        "Export restrictions and product mix"
+      ],
+      "rationale": "Data center demand remains robust; supply expansions support sequential growth within a broad range.",
+      "id": "c36f57f2-c76f-4a9b-a2ef-b56b9d09da25",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "TSMC (2330.TW) consolidated revenue year-over-year change for September 2025 will be between +20% and +30% in the company\u2019s monthly revenue report published by 2025-10-10.",
+      "category": "tech",
+      "horizon_days": 10,
+      "deadline": "2025-10-10",
+      "confidence_pct": 56,
+      "verification_criteria": "Check TSMC\u2019s September 2025 monthly revenue press release on tsmc.com; compute YoY growth vs September 2024.",
+      "evidence": [
+        "https://www.tsmc.com/english/investorRelations/financialStatements",
+        "https://www.tsmc.com/english/investorRelations/MonthlyRevenue"
+      ],
+      "monitoring_signals": [
+        "HPC/AI wafer starts and advanced node utilization",
+        "Smartphone seasonality and Apple supply chain signals",
+        "Exchange rate TWD/USD impact on reported figures"
+      ],
+      "rationale": "Advanced node demand and AI-related orders drive strong double-digit growth off a high 2024 base.",
+      "id": "95e96738-821e-4f9e-8e1f-21a9002420e4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Shanghai\u2013New York weekly spot rate published on or before 2025-10-31 will be at least 15% higher than its 2025-09-05 reading.",
+      "category": "markets",
+      "horizon_days": 31,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Compare Drewry WCI Shanghai\u2013New York rate from the 2025-09-05 report to any subsequent weekly report up to 2025-10-31; increase \u2265 15% satisfies.",
+      "evidence": [
+        "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry",
+        "https://www.freightos.com/freight-resources/weekly-update/"
+      ],
+      "monitoring_signals": [
+        "Transpacific demand and blank sailings",
+        "Port congestion and Panama Canal constraints",
+        "Bunker fuel prices and GRIs announced by carriers"
+      ],
+      "rationale": "Tight capacity, GRIs, and resilient U.S. import demand support higher Transpacific East Coast rates.",
+      "id": "12ff43d0-a2f4-46d4-a647-be9c9739bbb7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EUR/JPY (Yahoo Finance: EURJPY=X) will trade at or above 165.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 61,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Observe the intraday high on Yahoo Finance (EURJPY=X) or equivalent reputable data source; any print \u2265 165.00 by 2025-11-30 counts.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/EURJPY%3DX/",
+        "https://www.ecb.europa.eu/stats/financial_markets_and_interest_rates/euro_fx/html/index.en.html"
+      ],
+      "monitoring_signals": [
+        "ECB policy guidance vs BoJ YCC normalization pace",
+        "Rate differentials (Germany 2Y vs Japan 2Y)",
+        "Risk sentiment and carry trade dynamics"
+      ],
+      "rationale": "Wide rate differentials and persistent carry support EUR strength vs JPY barring abrupt BoJ tightening.",
+      "id": "19de086b-99c6-478e-bd3f-5f49f2b34605",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

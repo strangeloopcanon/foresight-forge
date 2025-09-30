@@ -1,0 +1,55 @@
+{
+  "date": "2025-09-29",
+  "assessments": [
+    {
+      "id": "96b5188d-3e50-4fd7-91ee-03d029d88ed4",
+      "status": "pending",
+      "status_rationale": "Headlines indicate heightened risk of a shutdown and no enacted CR/appropriations yet, but the outcome depends on actions by 00:01 EDT on 2025-10-01; no definitive resolution reported."
+    },
+    {
+      "id": "d48f7088-1778-4769-93dd-2e3f88e09dd0",
+      "status": "pending",
+      "status_rationale": "No official Tesla Q3 deliveries release cited; deadline is 2025-10-04."
+    },
+    {
+      "id": "2524c148-a388-408e-9b6d-d063fb87f26f",
+      "status": "pending",
+      "status_rationale": "ONS September CPI release is due 2025-10-16; no print reported."
+    },
+    {
+      "id": "5e25f1f8-ac49-4de7-b895-6a7387b11e32",
+      "status": "pending",
+      "status_rationale": "BLS CPI release is scheduled for 2025-10-10; no shelter MoM figure yet."
+    },
+    {
+      "id": "b2a59c4d-2bb3-49fe-beb2-ea640aebae44",
+      "status": "pending",
+      "status_rationale": "No EIA storage report showing \u22653.80 Tcf referenced; window remains open until 2025-11-15."
+    },
+    {
+      "id": "81352fab-6fe2-4988-a17c-1aee108c095c",
+      "status": "pending",
+      "status_rationale": "No report of LME 3M copper settling at \u2265$9,500/MT; deadline 2025-11-30."
+    },
+    {
+      "id": "1fbdc8eb-5b67-41b1-8618-e92160304daf",
+      "status": "pending",
+      "status_rationale": "No confirmation of Bitcoin closing \u2265$75,000 on any UTC day; deadline 2025-11-30."
+    },
+    {
+      "id": "465d923e-7386-44d5-b68e-c3fba746c34a",
+      "status": "pending",
+      "status_rationale": "No evidence that the 30Y\u20135Y U.S. Treasury spread closed \u22650.60 pp; window open until 2025-11-30."
+    },
+    {
+      "id": "3607bd42-fd19-45dd-8ea1-2109bbc2016b",
+      "status": "pending",
+      "status_rationale": "No update on Drewry Shanghai\u2013Los Angeles spot rate relative to 2025-09-05; deadline 2025-10-31."
+    },
+    {
+      "id": "cd4c805d-b450-4f16-bb54-f03e9ad12e04",
+      "status": "pending",
+      "status_rationale": "Alphabet has not reported Q3 2025 results in the cited news; deadline 2025-10-31."
+    }
+  ]
+}

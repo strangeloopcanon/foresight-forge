@@ -20,7 +20,7 @@
       ],
       "rationale": "Leadership signaling pragmatic compromise; short-window CR is the path of least resistance to avoid blame and market turmoil.",
       "id": "96b5188d-3e50-4fd7-91ee-03d029d88ed4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Seasonality plus stabilized production; mixed demand signals suggest a mid-400k outcome.",
       "id": "d48f7088-1778-4769-93dd-2e3f88e09dd0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Disinflation trend continues with energy base effects; services sticky but easing slowly.",
       "id": "2524c148-a388-408e-9b6d-d063fb87f26f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "Private rent indices imply gradual disinflation but shelter remains elevated due to lagged OER.",
       "id": "5e25f1f8-ac49-4de7-b895-6a7387b11e32",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "Above-average inventories and robust production support reaching high end-of-shoulder-season levels.",
       "id": "b2a59c4d-2bb3-49fe-beb2-ea640aebae44",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -131,7 +131,7 @@
       ],
       "rationale": "Tight concentrates, energy transition demand, and potential China policy support can lift prices.",
       "id": "81352fab-6fe2-4988-a17c-1aee108c095c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "rationale": "ETF flows and easing financial conditions could drive a breakout, but volatility warrants sub-50% odds.",
       "id": "1fbdc8eb-5b67-41b1-8618-e92160304daf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "rationale": "Prospective Fed easing with resilient growth can steepen the curve via front-end decline and term premium stabilization.",
       "id": "465d923e-7386-44d5-b68e-c3fba746c34a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "rationale": "Capacity discipline and seasonal restocking support higher Transpac spot rates near term.",
       "id": "3607bd42-fd19-45dd-8ea1-2109bbc2016b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "rationale": "Search and YouTube stabilize with improving ad budgets; Cloud growth remains solid.",
       "id": "cd4c805d-b450-4f16-bb54-f03e9ad12e04",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

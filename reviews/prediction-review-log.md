@@ -656,3 +656,12 @@ Looking ahead, the next decisive checkpoints for this set are the U.S. September
 
 ---
 
+
+## 2025-09-29
+
+The dominant development is the looming U.S. federal government shutdown. Multiple articles signal deteriorating negotiations and increased likelihood of a lapse in funding, with some sources saying leaders anticipate a shutdown. However, there is no confirmation of either an enacted continuing resolution or a definitive lapse as of the time covered by these reports, so the shutdown call remains unresolved until the 00:01 EDT 2025-10-01 threshold.
+
+For the remaining forecasts—corporate results, macro prints, commodities, crypto, rates, and shipping—today’s coverage provides no conclusive data releases or price settlements that would resolve outcomes. All stay pending, with upcoming key dates including Tesla’s deliveries by 2025-10-04, U.S. CPI on 2025-10-10, UK CPI on 2025-10-16, and various market-based thresholds through November.
+
+---
+
