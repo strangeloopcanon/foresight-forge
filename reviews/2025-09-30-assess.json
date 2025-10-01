@@ -1,0 +1,55 @@
+{
+  "date": "2025-09-30",
+  "assessments": [
+    {
+      "id": "8d669ee1-85bd-4eaf-bf6c-c1b97c57678f",
+      "status": "pending",
+      "status_rationale": "No ISM Manufacturing PMI figure is cited in today\u2019s news; the release is scheduled for 2025-10-01, so outcome remains unverified."
+    },
+    {
+      "id": "6acded2d-f38f-4df5-bc9e-7a9a35a7b4e7",
+      "status": "pending",
+      "status_rationale": "No ADP National Employment Report number appears in today\u2019s coverage; the report is due 2025-10-01."
+    },
+    {
+      "id": "e5b0fd76-1d23-481f-b2be-275b81506534",
+      "status": "pending",
+      "status_rationale": "The BLS Employment Situation (including average hourly earnings) is due 2025-10-03 and is not reported in today\u2019s news."
+    },
+    {
+      "id": "7ebbb985-e930-4034-9fc6-adaef1d5f484",
+      "status": "pending",
+      "status_rationale": "No euro area HICP flash estimate is mentioned; Eurostat\u2019s release is slated for 2025-10-02."
+    },
+    {
+      "id": "fcba9c92-2fd2-41f7-8b32-24a8d376388e",
+      "status": "pending",
+      "status_rationale": "There is no referenced update on the AAA national average gasoline price; the window runs through 2025-10-31."
+    },
+    {
+      "id": "61b20723-5f61-43f5-8bba-6e0b4f3401db",
+      "status": "pending",
+      "status_rationale": "No OPEC+ statement on production targets is reported; the deadline is 2025-10-15."
+    },
+    {
+      "id": "c36f57f2-c76f-4a9b-a2ef-b56b9d09da25",
+      "status": "pending",
+      "status_rationale": "No NVIDIA revenue disclosure for Q3 FY2026 appears in the news; earnings are due before 2025-11-30."
+    },
+    {
+      "id": "95e96738-821e-4f9e-8e1f-21a9002420e4",
+      "status": "pending",
+      "status_rationale": "TSMC\u2019s September revenue has not been cited; the company typically reports by early October (deadline 2025-10-10)."
+    },
+    {
+      "id": "12ff43d0-a2f4-46d4-a647-be9c9739bbb7",
+      "status": "pending",
+      "status_rationale": "No Drewry WCI Shanghai\u2013New York spot rate update is included; the assessment window remains open through 2025-10-31."
+    },
+    {
+      "id": "19de086b-99c6-478e-bd3f-5f49f2b34605",
+      "status": "pending",
+      "status_rationale": "There is no mention of EUR/JPY trading at or above 165.00; the deadline is 2025-11-30."
+    }
+  ]
+}

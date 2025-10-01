@@ -1,0 +1,240 @@
+{
+  "date": "2025-10-01",
+  "predictions": [
+    {
+      "text": "At its November 2025 FOMC meeting (statement dated 2025-11-05), the Federal Reserve will leave the target range for the federal funds rate unchanged from its prior level.",
+      "category": "rates",
+      "horizon_days": 35,
+      "deadline": "2025-11-05",
+      "confidence_pct": 62,
+      "verification_criteria": "FOMC statement and implementation note on federalreserve.gov show the target range unchanged versus the range in effect immediately before the meeting.",
+      "evidence": [
+        "August JOLTS showed steady labor demand, reducing urgency to hike. https://www.bls.gov/news.release/archives/jolts_09302025.htm",
+        "Fed\u2019s SCB reconsideration signals caution into next CCAR cycle. https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250930a.htm"
+      ],
+      "monitoring_signals": [
+        "Fed funds futures for Nov 2025",
+        "CPI and PCE inflation prints",
+        "Nonfarm payrolls and unemployment rate",
+        "Oil prices and energy-sensitive inflation",
+        "Fed communications and minutes"
+      ],
+      "rationale": "Cooling inflation and mixed growth argue for patience; markets lean toward a hold.",
+      "id": "207c8cde-5788-402a-b4f4-737d2714f751",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "ISM Services PMI (headline) for September 2025 will print between 51.0 and 53.5 in ISM\u2019s release on 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-10-03",
+      "confidence_pct": 56,
+      "verification_criteria": "Headline Services PMI value in the ISM Report On Business: Services for September 2025.",
+      "evidence": [
+        "Consumer services have remained resilient amid steady labor demand.",
+        "ISM Services historical volatility suggests a mid-50s central tendency. https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/"
+      ],
+      "monitoring_signals": [
+        "S&P Global US Services PMI (final) for September",
+        "ADP employment, weekly claims",
+        "High-frequency card spending and mobility indicators"
+      ],
+      "rationale": "Resilient services activity with modest cooling suggests low-50s print.",
+      "id": "7269ed7a-97a5-4bee-91b7-239f487a4941",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Producer Price Index (Final Demand, MoM, SA) for September 2025 will print between 0.1% and 0.4% in the BLS release on 2025-10-09.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-10-09",
+      "confidence_pct": 57,
+      "verification_criteria": "BLS PPI Final Demand month-over-month, seasonally adjusted percentage change for September 2025.",
+      "evidence": [
+        "Energy inputs and freight costs have stabilized, pointing to moderate PPI.",
+        "BLS PPI methodology and recent trend. https://www.bls.gov/ppi/"
+      ],
+      "monitoring_signals": [
+        "WTI and diesel prices",
+        "Freight and shipping rates",
+        "ISM prices paid indices"
+      ],
+      "rationale": "Moderate upstream price pressures imply a modest PPI gain.",
+      "id": "ebf90f26-c0d2-479b-8540-71490dd08433",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Core PCE price index (YoY, SA) for September 2025 will print between 2.6% and 2.9% in the BEA release on 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 30,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "BEA release shows year-over-year percent change for PCE excluding food and energy (seasonally adjusted) for September 2025 within the stated range.",
+      "evidence": [
+        "Core inflation trend easing with slower wage growth and shelter lags.",
+        "BEA PCE price index reference. https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      ],
+      "monitoring_signals": [
+        "CPI core and supercore measures",
+        "PPI core components",
+        "Shelter and services ex-housing indicators"
+      ],
+      "rationale": "Disinflation continues gradually; core PCE remains high-2s YoY.",
+      "id": "8fa5a6d0-3df5-4260-8da2-8964886cf95a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA-reported 4-week average U.S. product supplied of finished motor gasoline will print at or below 8.60 million barrels per day in at least one Weekly Petroleum Status Report released by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 30,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "EIA Weekly Petroleum Status Report table shows the 4-week moving average for finished motor gasoline product supplied at or below 8.60 mb/d by the deadline.",
+      "evidence": [
+        "Post-summer seasonality typically lowers gasoline demand.",
+        "Higher pump prices can suppress discretionary driving. https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "AAA national gasoline prices",
+        "Mobility data (Apple/Google) and GasBuddy demand estimates",
+        "Refinery utilization and crack spreads"
+      ],
+      "rationale": "Seasonality and elevated prices point to softer gasoline demand.",
+      "id": "4d0e0c0d-6d61-465d-a794-0710fd523b64",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Cboe Volatility Index (VIX) will close at or below 13.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 60,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Official Cboe VIX closing value at or below 13.00 on any trading day through 2025-11-30.",
+      "evidence": [
+        "Markets have absorbed macro headlines with limited spillover to broad equity volatility.",
+        "Mega-cap leadership often compresses implied vol. https://www.cboe.com/tradable_products/vix/"
+      ],
+      "monitoring_signals": [
+        "S&P 500 realized volatility (20D)",
+        "Earnings season dispersion",
+        "Macro data surprise indices",
+        "Treasury yield volatility (MOVE Index)"
+      ],
+      "rationale": "Volatility tends to mean-revert lower during risk-on phases.",
+      "id": "1a343c11-f529-46c3-ac8e-3b2e13e8ca96",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OpenAI\u2019s Sora app will rank in the top 3 of the U.S. iOS App Store Top Free Apps at least once by 2025-11-15.",
+      "category": "tech",
+      "horizon_days": 45,
+      "deadline": "2025-11-15",
+      "confidence_pct": 58,
+      "verification_criteria": "Apple App Store (US) Top Free Apps chart shows the Sora app ranked #1\u2013#3 on any day by the deadline; verification via App Store charts or reputable trackers\u2019 archived snapshots.",
+      "evidence": [
+        "High-profile Sora 2 launch and dedicated app rollout. https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/",
+        "Strong viral potential for generative video content."
+      ],
+      "monitoring_signals": [
+        "App Store chart position (US)",
+        "Download velocity and social media mentions",
+        "Influencer adoption and content trends"
+      ],
+      "rationale": "OpenAI\u2019s brand and viral video features should propel rapid adoption.",
+      "id": "d963ba98-ffdd-4ee1-9f1a-63957d133207",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NVIDIA (NVDA) market capitalization will reach or exceed $5.0 trillion on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 60,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Market cap reported by major financial data sources (e.g., Nasdaq, Yahoo Finance) or shares outstanding \u00d7 closing price equals or exceeds $5.0T on any trading day by the deadline.",
+      "evidence": [
+        "NVDA market cap surpassed $4.5T amid AI infrastructure momentum. https://www.cnbc.com/2025/09/30/nvidias-market-cap-tops-4point5-trillion-on-ai-infrastructure-deals.html"
+      ],
+      "monitoring_signals": [
+        "Data center demand and AI capex announcements",
+        "NVDA earnings and guidance",
+        "Competitive developments (AMD, custom silicon)",
+        "Long-duration rates"
+      ],
+      "rationale": "Sustained AI demand and earnings momentum can lift valuation further.",
+      "id": "e3c24d55-f3e3-4567-8ed1-6dbdd02d3991",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, the U.S. Treasury\u2019s OFAC will announce a Russia-related sanctions action that adds at least 20 new entries to the SDN List.",
+      "category": "geopolitics",
+      "horizon_days": 30,
+      "deadline": "2025-10-31",
+      "confidence_pct": 60,
+      "verification_criteria": "An OFAC press release and concurrent SDN List update on home.treasury.gov show 20 or more newly designated Russia-related individuals/entities on the same action date.",
+      "evidence": [
+        "EU and UK plan new sanctions rounds; U.S. typically coordinates. https://www.cnbc.com/2025/10/01/carbon-border-tax-us-china-and-india-lash-out-at-eu-climate-policy.html",
+        "U.S. Treasury frequently updates Russia-related sanctions. https://home.treasury.gov/news/press-releases"
+      ],
+      "monitoring_signals": [
+        "U.S./EU/UK sanctions announcements",
+        "Conflict escalation events",
+        "OFAC press advisories and SDN updates"
+      ],
+      "rationale": "Ongoing coordination suggests another sizable U.S. sanctions package.",
+      "id": "85a6815c-78af-4375-8652-d90c8cec425f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Freddie Mac\u2019s Primary Mortgage Market Survey (PMMS) 30-year fixed-rate mortgage will print at or above 6.75% in at least one weekly release by 2025-10-31.",
+      "category": "rates",
+      "horizon_days": 30,
+      "deadline": "2025-10-31",
+      "confidence_pct": 53,
+      "verification_criteria": "Any PMMS weekly report through 2025-10-31 shows the national average 30-year fixed-rate mortgage at \u2265 6.75%.",
+      "evidence": [
+        "Elevated long-term Treasury yields and firm MBS spreads keep mortgage rates high.",
+        "PMMS historical behavior tracks 10Y yields and spreads. https://www.freddiemac.com/pmms"
+      ],
+      "monitoring_signals": [
+        "10Y Treasury yield (DGS10)",
+        "MBS current coupon yields",
+        "Inflation and labor data surprises"
+      ],
+      "rationale": "Rates remain elevated with sticky term premia and macro uncertainty.",
+      "id": "6d1dc9cf-3b76-444b-a5ce-80d42af1e1ca",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted U.S. initial jobless claims will print at or above 230,000 in at least one weekly DOL report released by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 30,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "The Department of Labor\u2019s Unemployment Insurance Weekly Claims Report shows SA initial claims >= 230,000 in any weekly release through the deadline.",
+      "evidence": [
+        "Hiring has slowed from 2024 highs; episodic shocks (strikes, idiosyncratic closures) can lift claims.",
+        "DOL UI weekly claims reports. https://www.dol.gov/ui/data"
+      ],
+      "monitoring_signals": [
+        "Continuing claims trend",
+        "Challenger layoff announcements",
+        "Online job postings (Indeed, LinkUp)",
+        "Regional Fed employment indices"
+      ],
+      "rationale": "Gradual labor cooling and one-off factors likely push claims higher briefly.",
+      "id": "08ff3e89-bc02-464d-b79b-6424935f8d37",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

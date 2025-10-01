@@ -19,7 +19,7 @@
       ],
       "rationale": "Regional Fed surveys and soft orders suggest contractionary manufacturing with stabilization near high-40s.",
       "id": "8d669ee1-85bd-4eaf-bf6c-c1b97c57678f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Hiring remains resilient but cooling; ADP typically tracks private payrolls below 200k in slowing labor markets.",
       "id": "6acded2d-f38f-4df5-bc9e-7a9a35a7b4e7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Wage growth is moderating with cooler labor demand and easing job switching.",
       "id": "e5b0fd76-1d23-481f-b2be-275b81506534",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Energy base effects fade while services remain sticky; headline near mid-2s plausible.",
       "id": "7ebbb985-e930-4034-9fc6-adaef1d5f484",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Seasonal demand drop and stable crude suggest modest retail price easing into October.",
       "id": "fcba9c92-2fd2-41f7-8b32-24a8d376388e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Producers likely sustain discipline amid uncertain demand and inventory rebuilding.",
       "id": "61b20723-5f61-43f5-8bba-6e0b4f3401db",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Data center demand remains robust; supply expansions support sequential growth within a broad range.",
       "id": "c36f57f2-c76f-4a9b-a2ef-b56b9d09da25",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Advanced node demand and AI-related orders drive strong double-digit growth off a high 2024 base.",
       "id": "95e96738-821e-4f9e-8e1f-21a9002420e4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Tight capacity, GRIs, and resilient U.S. import demand support higher Transpacific East Coast rates.",
       "id": "12ff43d0-a2f4-46d4-a647-be9c9739bbb7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Wide rate differentials and persistent carry support EUR strength vs JPY barring abrupt BoJ tightening.",
       "id": "19de086b-99c6-478e-bd3f-5f49f2b34605",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

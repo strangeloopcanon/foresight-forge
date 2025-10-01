@@ -665,3 +665,12 @@ For the remaining forecasts—corporate results, macro prints, commodities, cryp
 
 ---
 
+
+## 2025-09-30
+
+Today’s news flow is dominated by U.S. political developments, a likely federal government shutdown, and various corporate headlines, none of which provide definitive data prints for the macroeconomic predictions under review. Specifically, there are no cited releases for ISM Manufacturing PMI, ADP employment change, euro area HICP flash, or U.S. average hourly earnings, so those calls remain pending. Likewise, market- and corporate-focused items (OPEC+ policy, NVIDIA earnings, TSMC monthly sales, container freight rates, EUR/JPY levels, and U.S. gasoline prices) are not directly addressed in the provided articles.
+
+Looking ahead, private-sector releases like ISM and ADP should proceed on schedule, but a U.S. federal shutdown could risk delays for some government statistics (e.g., the BLS Employment Situation). Eurostat data and corporate disclosures should be unaffected. Market sentiment around shutdown risk, energy policy, and global trade (including carbon border tax dynamics) may indirectly influence some forecasts, but absent hard figures today, all statuses appropriately remain pending until official numbers or clear market levels are reported.
+
+---
+
