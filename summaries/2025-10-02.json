@@ -1,0 +1,122 @@
+{
+  "bullets": [
+    {
+      "text": "Government shutdown likely cements further Fed rate cuts as missing data clouds policy decisions.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/01/lockdown-fed-interest-rates.html"
+    },
+    {
+      "text": "ADP reports private payrolls fell 32,000 in September, signaling weakening labor demand amid uncertainty.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/01/private-payrolls-declined-in-september-by-32000-in-key-adp-report-coming-amid-shutdown-data-blackout.html"
+    },
+    {
+      "text": "Supreme Court lets Governor Lisa Cook remain at Fed until January arguments, maintaining FOMC continuity.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/01/supreme-court-trump-fed-lisa-cook.html"
+    },
+    {
+      "text": "Trump freezes $18B for New York-area transit projects, threatening delays, construction jobs, and bond-funded timelines.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/01/trump-new-york-funding-infrastructure-vought.html"
+    },
+    {
+      "text": "Administration cancels nearly $8B in climate funding to blue states, reshaping regional investment pipelines.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/01/trump-green-new-deal-funding-states-vought.html"
+    },
+    {
+      "text": "Regulators remind lenders on NFIP lapse compliance; flood-zone mortgages could stall without insurance availability.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251001a.htm"
+    },
+    {
+      "text": "SK Hynix and Samsung surge after OpenAI partnership news, highlighting AI-driven memory demand.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/02/sk-hynix-samsung-shares-openai-stargate-korea.html"
+    },
+    {
+      "text": "Intel jumps as talks progress to add AMD as foundry customer, bolstering IDM 2.0 strategy.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/01/intel-stock-amd-chips.html"
+    },
+    {
+      "text": "Amazon launches sub-$5 grocery brand, intensifying price competition and private-label pressure.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/01/amazon-grocery-under-5-dollars.html"
+    },
+    {
+      "text": "GM, Ford post record EV sales; U.S. Q3 sales up 8%, signaling resilient consumer demand.",
+      "tags": [
+        "markets",
+        "tech",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/10/01/third-quarter-us-auto-sales.html"
+    },
+    {
+      "text": "Israel escalates Gaza offensive, intercepts aid flotilla, elevating regional geopolitical risk.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/01/world/middleeast/israel-gaza-trump-hamas.html"
+    },
+    {
+      "text": "JWST detects possible atmosphere on potentially habitable exoplanet, advancing exoplanet biosignature search.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/09/250930034237.htm"
+    },
+    {
+      "text": "AI designs first functional genome, a bacteriophage, accelerating synthetic biology and drug discovery timelines.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencenews.org/article/ai-genome-bacteria-phage"
+    },
+    {
+      "text": "AI model DOLPHIN identifies hundreds of hidden cancer markers, promising earlier, more precise diagnostics.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251001092206.htm"
+    },
+    {
+      "text": "Stablecoins poised to enable in-store payments, potentially lowering fees and reshaping merchant acceptance.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/01/how-stablecoins-could-change-the-way-americans-shop-in-stores.html"
+    }
+  ]
+}

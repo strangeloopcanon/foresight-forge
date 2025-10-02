@@ -1,0 +1,223 @@
+{
+  "date": "2025-10-02",
+  "predictions": [
+    {
+      "text": "U.S. unemployment rate (U-3, seasonally adjusted) for September 2025 will print between 4.0% and 4.2% in the BLS Employment Situation on 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-10-03",
+      "confidence_pct": 58,
+      "verification_criteria": "Confirmed if BLS Employment Situation news release Table A-1 shows the seasonally adjusted unemployment rate between 4.0% and 4.2%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/01/private-payrolls-declined-in-september-by-32000-in-key-adp-report-coming-amid-shutdown-data-blackout.html",
+        "https://www.bls.gov/news.release/empsit.nr0.htm",
+        "https://www.dol.gov/ui/data.pdf"
+      ],
+      "monitoring_signals": [
+        "Seasonally adjusted initial jobless claims and 4-week average",
+        "Challenger job cuts announcements",
+        "ISM employment sub-indexes (manufacturing/services)",
+        "JOLTS hires and separations (lagged)"
+      ],
+      "rationale": "ADP\u2019s negative print and softer survey employment components point to cooling labor demand without a sharp deterioration.",
+      "id": "2d8b24d4-54b6-4d2e-b45d-fd4dbcebabfe",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. labor force participation rate (seasonally adjusted) for September 2025 will print between 62.6% and 62.9% in the BLS Employment Situation on 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-10-03",
+      "confidence_pct": 57,
+      "verification_criteria": "Confirmed if BLS Employment Situation Table A-1 shows the seasonally adjusted labor force participation rate within 62.6%\u201362.9%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/CIVPART",
+        "https://www.bls.gov/news.release/empsit.nr0.htm"
+      ],
+      "monitoring_signals": [
+        "Household survey participation movements by age group",
+        "Prime-age (25\u201354) participation trends",
+        "Immigration and labor supply indicators"
+      ],
+      "rationale": "Participation has been range-bound and tends to adjust gradually; no major shock suggests stability near recent levels.",
+      "id": "31e752e7-e0e5-46ce-8e43-ecb9b01e5de3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Average Weekly Hours of All Employees (Total Private, seasonally adjusted) for September 2025 will print between 34.3 and 34.4 hours in the BLS Employment Situation on 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-10-03",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirmed if BLS Employment Situation Table B-2 (Total private) shows average weekly hours between 34.3 and 34.4.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/AWHAETP",
+        "https://www.bls.gov/news.release/empsit.nr0.htm"
+      ],
+      "monitoring_signals": [
+        "ISM supplier delivery and employment sub-indexes",
+        "Manufacturing overtime indicators",
+        "Sector mix shifts (goods vs services)"
+      ],
+      "rationale": "Hours typically move slowly; recent softness argues against an uptick, keeping hours near 34.3\u201334.4.",
+      "id": "e51f7d2a-56bb-4f34-85d9-69214ed4f712",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. U-6 underemployment rate (seasonally adjusted) for September 2025 will print between 7.6% and 8.2% in the BLS Employment Situation on 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-10-03",
+      "confidence_pct": 57,
+      "verification_criteria": "Confirmed if BLS Employment Situation Table A-15 shows the seasonally adjusted U-6 rate within 7.6%\u20138.2%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/U6RATE",
+        "https://www.bls.gov/news.release/empsit.nr0.htm"
+      ],
+      "monitoring_signals": [
+        "Part-time for economic reasons (PTER) counts",
+        "Duration of unemployment",
+        "Household survey job-finding rates"
+      ],
+      "rationale": "Cooling demand and elevated PTER historically keep U-6 roughly 3\u20134 points above U-3, implying high-7s to low-8s.",
+      "id": "065efc10-b1e0-4024-a7f2-733e4801e0aa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Services Prices Index for September 2025 will print between 56.0 and 61.0 in ISM\u2019s report released on 2025-10-03.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-10-03",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirmed if the ISM Services Report On Business shows the \u2018Prices\u2019 index for September within 56.0\u201361.0.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/",
+        "https://www.cnbc.com/2025/10/01/private-payrolls-declined-in-september-by-32000-in-key-adp-report-coming-amid-shutdown-data-blackout.html"
+      ],
+      "monitoring_signals": [
+        "Energy and fuel price movements (Brent/WTI, diesel)",
+        "Wage indicators (AHE, ECI)",
+        "Supplier delivery times and input cost anecdotes"
+      ],
+      "rationale": "Moderating demand and easing supply frictions should keep services input inflation elevated but off peak levels.",
+      "id": "b8bdc568-941a-4b47-a95c-1433013cb01f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures (CL) will settle at or above $90.00 per barrel on at least one trading day by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirmed if CME Group\u2019s official daily settlement price for the prompt WTI (CL) contract is \u2265 $90.00/bbl on any trading day through 2025-10-31 (UTC).",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.html",
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.nytimes.com/2025/10/01/world/middleeast/israel-gaza-trump-hamas.html"
+      ],
+      "monitoring_signals": [
+        "Geopolitical risk premia (Middle East escalation indicators)",
+        "EIA U.S. inventory draws/builds",
+        "OPEC+ policy statements and compliance",
+        "Refinery runs and product cracks"
+      ],
+      "rationale": "Elevated geopolitical risk and disciplined OPEC+ supply alongside resilient demand raise odds of a $90+ WTI print.",
+      "id": "815ee304-a5c0-42b2-adb6-0cdccbb6aa13",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. On-Highway Diesel Fuel Price (EIA, U.S. average) will print at or below $3.90 per gallon in at least one weekly update published by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 44,
+      "deadline": "2025-11-15",
+      "confidence_pct": 48,
+      "verification_criteria": "Confirmed if EIA\u2019s \u2018Weekly Retail On-Highway Diesel Prices\u2019 shows the U.S. average \u2264 $3.90/gal in any weekly release through 2025-11-15.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/gasdiesel/",
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "WTI/Brent price trends and crack spreads",
+        "Distillate inventories and days of supply (EIA)",
+        "Freight demand indicators (OTVI, rail carloads)",
+        "Refinery utilization and maintenance outages"
+      ],
+      "rationale": "Seasonal shoulder demand, improving distillate stocks, and soft freight could cap diesel prices despite crude volatility.",
+      "id": "c9d96b4a-109c-4c28-894d-c21785688166",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. field production of crude oil (monthly, EIA Petroleum Supply Monthly) for August 2025 will be at or above 13.4 million barrels per day in the report published by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-10-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Confirmed if EIA Petroleum Supply Monthly (Table 5.1 or series for U.S. field production of crude oil) reports \u2265 13.4 million b/d for August 2025.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/monthly/",
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "EIA weekly production estimates revisions vs monthly",
+        "Rig counts and DUC trends",
+        "Pipeline takeaway capacity and midstream updates"
+      ],
+      "rationale": "Productivity gains and steady Permian output growth suggest monthly production will print a fresh high near/above 13.4 mb/d.",
+      "id": "b5ec3ccb-1893-4f85-8bf6-b9d3e6ec83ba",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-11-30, Intel and AMD will announce that AMD will use Intel Foundry Services to manufacture at least one product line, via a joint press release or concurrent statements on both companies\u2019 investor relations sites.",
+      "category": "tech",
+      "horizon_days": 59,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Confirmed if a joint press release or matching announcements on both Intel and AMD official IR/press pages state AMD will have a product manufactured by Intel Foundry Services.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/01/intel-stock-amd-chips.html",
+        "https://www.intc.com/news-events/press-releases/default.aspx",
+        "https://ir.amd.com/news-events/press-releases"
+      ],
+      "monitoring_signals": [
+        "Foundry customer disclosures at Intel events",
+        "Earnings call commentary (INTC, AMD)",
+        "Reports from trade press (SemiAnalysis, DIGITIMES, Bloomberg)",
+        "Foundry capacity/grant announcements (CHIPS Act)"
+      ],
+      "rationale": "Strategic alignment helps Intel fill advanced nodes and diversifies AMD supply amid geopolitical and capacity considerations.",
+      "id": "2cec5367-9999-4049-990b-c2cb923c504a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury Inflation-Indexed Security yield (FRED: DFII10) will close at or below 1.80% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 59,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirmed if FRED series DFII10 shows a daily close \u2264 1.80% on any trading day through 2025-11-30 (UTC).",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DFII10",
+        "https://www.cnbc.com/2025/10/01/lockdown-fed-interest-rates.html",
+        "https://www.cnbc.com/2025/10/01/private-payrolls-declined-in-september-by-32000-in-key-adp-report-coming-amid-shutdown-data-blackout.html"
+      ],
+      "monitoring_signals": [
+        "Fed communications and rate-cut expectations (OIS/ED futures)",
+        "Risk sentiment (VIX, credit spreads)",
+        "Inflation prints (CPI/PCE) and breakevens"
+      ],
+      "rationale": "Weaker growth signals and dovish risk skew support lower real yields despite inflation uncertainty.",
+      "id": "33c11194-0c7d-4c8e-a790-5b071b62416b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

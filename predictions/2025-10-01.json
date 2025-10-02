@@ -21,7 +21,7 @@
       ],
       "rationale": "Cooling inflation and mixed growth argue for patience; markets lean toward a hold.",
       "id": "207c8cde-5788-402a-b4f4-737d2714f751",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Resilient services activity with modest cooling suggests low-50s print.",
       "id": "7269ed7a-97a5-4bee-91b7-239f487a4941",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Moderate upstream price pressures imply a modest PPI gain.",
       "id": "ebf90f26-c0d2-479b-8540-71490dd08433",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Disinflation continues gradually; core PCE remains high-2s YoY.",
       "id": "8fa5a6d0-3df5-4260-8da2-8964886cf95a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "Seasonality and elevated prices point to softer gasoline demand.",
       "id": "4d0e0c0d-6d61-465d-a794-0710fd523b64",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rationale": "Volatility tends to mean-revert lower during risk-on phases.",
       "id": "1a343c11-f529-46c3-ac8e-3b2e13e8ca96",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -148,7 +148,7 @@
       ],
       "rationale": "OpenAI\u2019s brand and viral video features should propel rapid adoption.",
       "id": "d963ba98-ffdd-4ee1-9f1a-63957d133207",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "rationale": "Sustained AI demand and earnings momentum can lift valuation further.",
       "id": "e3c24d55-f3e3-4567-8ed1-6dbdd02d3991",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -190,7 +190,7 @@
       ],
       "rationale": "Ongoing coordination suggests another sizable U.S. sanctions package.",
       "id": "85a6815c-78af-4375-8652-d90c8cec425f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -211,7 +211,7 @@
       ],
       "rationale": "Rates remain elevated with sticky term premia and macro uncertainty.",
       "id": "6d1dc9cf-3b76-444b-a5ce-80d42af1e1ca",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "rationale": "Gradual labor cooling and one-off factors likely push claims higher briefly.",
       "id": "08ff3e89-bc02-464d-b79b-6424935f8d37",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

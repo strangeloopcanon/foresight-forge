@@ -674,3 +674,12 @@ Looking ahead, private-sector releases like ISM and ADP should proceed on schedu
 
 ---
 
+
+## 2025-10-01
+
+Today’s coverage is dominated by the federal government shutdown, Trump administration policy moves, and a Supreme Court order allowing Fed Governor Lisa Cook to remain in her role pending arguments. None of this directly resolves the listed forecasts. However, the shutdown may impede or delay key economic releases from BLS and BEA, complicating verification for PPI and Core PCE if scheduled publications slip.
+
+Markets-focused articles discuss chipmakers, AI partnerships, and broader equity risk sentiment, but they don’t provide decisive data on VIX levels or NVIDIA’s market cap milestone. Near-term, the most immediate resolution candidate is the ISM Services PMI due on 2025-10-03; other items remain watchlist entries pending official datasets or specific events.
+
+---
+
