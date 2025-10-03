@@ -1,0 +1,55 @@
+{
+  "date": "2025-10-02",
+  "assessments": [
+    {
+      "id": "2d8b24d4-54b6-4d2e-b45d-fd4dbcebabfe",
+      "status": "needs-clarification",
+      "status_rationale": "The BLS Employment Situation report scheduled for 2025-10-03 was not released due to the federal shutdown (see MarketWatch: 'No jobs report on Friday...'), so the specified print cannot be verified as of today."
+    },
+    {
+      "id": "31e752e7-e0e5-46ce-8e43-ecb9b01e5de3",
+      "status": "needs-clarification",
+      "status_rationale": "The Employment Situation release on 2025-10-03 did not occur amid the federal shutdown per today's coverage, so this print cannot be assessed."
+    },
+    {
+      "id": "e51f7d2a-56bb-4f34-85d9-69214ed4f712",
+      "status": "needs-clarification",
+      "status_rationale": "With the 2025-10-03 jobs report delayed by the shutdown, there is no official BLS print to evaluate yet."
+    },
+    {
+      "id": "065efc10-b1e0-4024-a7f2-733e4801e0aa",
+      "status": "needs-clarification",
+      "status_rationale": "The U-6 figure would have been in the 2025-10-03 Employment Situation, which was not released due to the shutdown; outcome is unverifiable today."
+    },
+    {
+      "id": "b8bdc568-941a-4b47-a95c-1433013cb01f",
+      "status": "pending",
+      "status_rationale": "ISM is a private release and not directly affected by the federal shutdown, but no value or report outcome appears in today's news; awaiting official print."
+    },
+    {
+      "id": "815ee304-a5c0-42b2-adb6-0cdccbb6aa13",
+      "status": "pending",
+      "status_rationale": "Deadline is 2025-10-31; today's news does not report a WTI settlement at or above $90."
+    },
+    {
+      "id": "c9d96b4a-109c-4c28-894d-c21785688166",
+      "status": "pending",
+      "status_rationale": "Weekly EIA diesel updates run through 2025-11-15; no qualifying print is cited in today's news."
+    },
+    {
+      "id": "b5ec3ccb-1893-4f85-8bf6-b9d3e6ec83ba",
+      "status": "pending",
+      "status_rationale": "The August 2025 field production figure will appear in EIA Petroleum Supply Monthly by 2025-10-31; no result reported yet today."
+    },
+    {
+      "id": "2cec5367-9999-4049-990b-c2cb923c504a",
+      "status": "pending",
+      "status_rationale": "No joint announcement or concurrent statements from Intel and AMD about AMD using Intel Foundry Services are reported in today's news."
+    },
+    {
+      "id": "33c11194-0c7d-4c8e-a790-5b071b62416b",
+      "status": "pending",
+      "status_rationale": "There is no coverage of the 10-year TIPS yield hitting 1.80% or lower; window remains open until 2025-11-30."
+    }
+  ]
+}

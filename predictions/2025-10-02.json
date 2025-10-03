@@ -21,7 +21,7 @@
       ],
       "rationale": "ADP\u2019s negative print and softer survey employment components point to cooling labor demand without a sharp deterioration.",
       "id": "2d8b24d4-54b6-4d2e-b45d-fd4dbcebabfe",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Participation has been range-bound and tends to adjust gradually; no major shock suggests stability near recent levels.",
       "id": "31e752e7-e0e5-46ce-8e43-ecb9b01e5de3",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Hours typically move slowly; recent softness argues against an uptick, keeping hours near 34.3\u201334.4.",
       "id": "e51f7d2a-56bb-4f34-85d9-69214ed4f712",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Cooling demand and elevated PTER historically keep U-6 roughly 3\u20134 points above U-3, implying high-7s to low-8s.",
       "id": "065efc10-b1e0-4024-a7f2-733e4801e0aa",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "Moderating demand and easing supply frictions should keep services input inflation elevated but off peak levels.",
       "id": "b8bdc568-941a-4b47-a95c-1433013cb01f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -128,7 +128,7 @@
       ],
       "rationale": "Elevated geopolitical risk and disciplined OPEC+ supply alongside resilient demand raise odds of a $90+ WTI print.",
       "id": "815ee304-a5c0-42b2-adb6-0cdccbb6aa13",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -150,7 +150,7 @@
       ],
       "rationale": "Seasonal shoulder demand, improving distillate stocks, and soft freight could cap diesel prices despite crude volatility.",
       "id": "c9d96b4a-109c-4c28-894d-c21785688166",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -171,7 +171,7 @@
       ],
       "rationale": "Productivity gains and steady Permian output growth suggest monthly production will print a fresh high near/above 13.4 mb/d.",
       "id": "b5ec3ccb-1893-4f85-8bf6-b9d3e6ec83ba",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -194,7 +194,7 @@
       ],
       "rationale": "Strategic alignment helps Intel fill advanced nodes and diversifies AMD supply amid geopolitical and capacity considerations.",
       "id": "2cec5367-9999-4049-990b-c2cb923c504a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -216,7 +216,7 @@
       ],
       "rationale": "Weaker growth signals and dovish risk skew support lower real yields despite inflation uncertainty.",
       "id": "33c11194-0c7d-4c8e-a790-5b071b62416b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

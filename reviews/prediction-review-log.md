@@ -683,3 +683,12 @@ Markets-focused articles discuss chipmakers, AI partnerships, and broader equity
 
 ---
 
+
+## 2025-10-02
+
+A federal shutdown-driven data blackout is the key development today. MarketWatch reports the BLS Employment Situation will not publish on 2025-10-03, preventing verification of multiple labor-market predictions tied to that specific release. Given the predictions explicitly refer to the print on that date, we classify them as needs-clarification until the report is published or authoritative figures are made available.
+
+Other items remain open. There is no mention of the ISM Services Prices Index result, nor evidence that WTI has settled at or above $90. Likewise, no updates on EIA oil production, the diesel price threshold, an AMD-IFS manufacturing announcement, or the 10-year TIPS yield crossing 1.80%. We will revisit as official data or credible reports emerge.
+
+---
+

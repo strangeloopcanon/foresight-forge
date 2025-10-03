@@ -1,0 +1,122 @@
+{
+  "bullets": [
+    {
+      "text": "FDA approves generic mifepristone, likely lowering abortion pill costs and widening access, while intensifying state-level legal battles and provider logistics.",
+      "tags": [
+        "other"
+      ],
+      "link": "https://www.nytimes.com/2025/10/02/health/abortion-pill-generic-fda.html"
+    },
+    {
+      "text": "Trump deems U.S. at war with drug cartels, enabling expanded military authorities, raising cross-border tensions, and inviting congressional and judicial challenges.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/02/us/politics/trump-drug-cartels-war.html"
+    },
+    {
+      "text": "DOE cancels $7.5B clean-energy projects during shutdown, concentrating cuts in blue states; jeopardizes grid upgrades, jobs, and private investment timelines.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/02/energy-department-cancels-green-projects-in-united-states.html"
+    },
+    {
+      "text": "Shutdown halts key federal data like the jobs report; markets face higher uncertainty as analysts lean on noisier alternative indicators.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/no-jobs-report-on-friday-but-that-may-not-be-the-worst-data-delay-due-to-federal-shutdown-e43e09bc?mod=mw_rss_topstories"
+    },
+    {
+      "text": "OpenAI closes $6.6B share sale at $500B valuation despite heavy losses; Sora\u2019s rapid uptake highlights AI platform lock-in and surging compute demand.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html"
+    },
+    {
+      "text": "Berkshire to acquire Occidental\u2019s OxyChem for $9.7B, boosting exposure to chlorine/PVC cycles and stable cash flows within energy-linked chemicals.",
+      "tags": [
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/10/02/warren-buffett-berkshire-occidental-oxychem.html"
+    },
+    {
+      "text": "Tesla Q3 deliveries rise 7% before EV tax credits expire, signaling improving execution and demand, with read-across for suppliers and competitors.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/02/tesla-tsla-q3-2025-vehicle-delivery-production.html"
+    },
+    {
+      "text": "Intel shares jump 50% in a month; U.S. stake value hits $16B, spotlighting industrial policy\u2019s market impact on domestic chipmakers.",
+      "tags": [
+        "markets",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/02/intel-stock-us-trump-stake.html"
+    },
+    {
+      "text": "Taiwan rejects U.S. \u201850-50\u2019 chip production push, prioritizing tariff negotiations and strategic autonomy amid semiconductor supply-chain geopolitics.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/02/taiwan-us-chip-production-tsmc-trade-tariffs.html"
+    },
+    {
+      "text": "USA Rare Earth jumps on talks with Trump administration, signaling policy-driven momentum for domestic critical minerals and processing build-out.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/10/02/usa-rare-earth-lithium-americas-mp-materials-trump.html"
+    },
+    {
+      "text": "Putin denies invasion plans as Russian drone strikes menace Europe, imposing asymmetric defense costs on NATO and testing air-defense resilience.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/02/world/europe/putin-russia-drones.html"
+    },
+    {
+      "text": "Manchester synagogue terror attack intensifies UK antisemitism concerns, likely raising security spending and operational burdens for communities and police.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/02/world/europe/terrorist-attack-uk-synagogue-manchester.html"
+    },
+    {
+      "text": "New Enceladus plume analyses reveal potential biosignature chemistry, strengthening case for life-detection missions to Saturn\u2019s icy moon.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251001092210.htm"
+    },
+    {
+      "text": "Ultra-thin, flexible solar cells show high efficiency potential, enabling low-cost integration across devices and buildings, accelerating distributed renewable adoption.",
+      "tags": [
+        "science",
+        "energy",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251001092218.htm"
+    },
+    {
+      "text": "FICO scoring shake-up could alter mortgage approvals and pricing mechanics, creating winners and losers among homebuyers and lenders near term.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/what-ficos-credit-score-shakeup-really-means-for-home-buyers-edae75c4?mod=mw_rss_topstories"
+    }
+  ]
+}

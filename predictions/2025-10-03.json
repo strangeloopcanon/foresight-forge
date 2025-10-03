@@ -1,0 +1,213 @@
+{
+  "date": "2025-10-03",
+  "predictions": [
+    {
+      "text": "If a U.S. federal government shutdown began on 2025-10-01, it will end by 2025-10-14 (inclusive) via enactment of a continuing resolution or full-year appropriations.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-10-14",
+      "confidence_pct": 60,
+      "log_odds": 0.41,
+      "verification_criteria": "Verification occurs if a bill ending the appropriations lapse is signed into law by 2025-10-14, evidenced by a Public Law on Congress.gov or a WhiteHouse.gov signing statement; OMB issues guidance ending the lapse.",
+      "evidence": [
+        "Shutdown halts key federal data like the jobs report; pressure to resolve quickly.",
+        "Markets and agencies face rising costs as delays mount, historically catalyzing short CRs.",
+        "https://www.marketwatch.com/story/no-jobs-report-on-friday-but-that-may-not-be-the-worst-data-delay-due-to-federal-shutdown-e43e09bc?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "House/Senate floor schedules and CR text filings",
+        "Leadership statements (Speaker, Senate Majority Leader, White House)",
+        "OMB Lapse in Appropriations status memos"
+      ],
+      "supersedes_id": "83526337-655a-4b09-a87c-3e2381b5f685",
+      "rationale": "Political and market costs of a prolonged data blackout raise odds of a short CR within two weeks.",
+      "id": "a659b66a-3d26-449f-b606-ce20669a129d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-10-31, at least three U.S. state attorneys general will file lawsuits seeking to block distribution or use of newly approved generic mifepristone.",
+      "category": "other",
+      "horizon_days": 28,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "Count state-AG-led or co-led suits filed in state or federal courts by 2025-10-31 that seek TROs/preliminary injunctions to halt distribution/use of generic mifepristone; verify via AG press releases and court dockets.",
+      "evidence": [
+        "FDA approves generic mifepristone, intensifying state-level legal battles.",
+        "Recent precedent of coordinated multistate litigation over abortion pill access.",
+        "https://www.nytimes.com/2025/10/02/health/abortion-pill-generic-fda.html"
+      ],
+      "monitoring_signals": [
+        "State AG press rooms (TX, LA, MS, ID, AL, etc.)",
+        "PACER/state court docket trackers for mifepristone cases",
+        "Manufacturer/NGO statements on anticipated litigation"
+      ],
+      "rationale": "Generic approval expands access and lowers cost, likely triggering rapid multistate litigation in restrictive jurisdictions.",
+      "id": "89e063f2-1480-4743-a0fe-f432a0d3799d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-10, Mexico\u2019s Secretariat of Foreign Affairs (SRE) will issue a formal public statement or diplomatic note rejecting U.S. \u2018war on cartels\u2019 framing or potential cross-border military actions.",
+      "category": "geopolitics",
+      "horizon_days": 7,
+      "deadline": "2025-10-10",
+      "confidence_pct": 60,
+      "log_odds": 0.41,
+      "verification_criteria": "An official SRE statement/diplomatic note posted on gob.mx/sre or SRE\u2019s verified social accounts, or a press readout quoting SRE repudiating the U.S. characterization or potential military action.",
+      "evidence": [
+        "U.S. declares a \u2018war\u2019 posture toward drug cartels, raising cross-border tensions.",
+        "Mexico historically rebuts perceived U.S. extraterritorial military assertions.",
+        "https://www.nytimes.com/2025/10/02/us/politics/trump-drug-cartels-war.html"
+      ],
+      "monitoring_signals": [
+        "SRE press releases and social media",
+        "Statements from Mexico\u2019s Presidency and Defense Secretariat",
+        "U.S. White House/DoD clarifications on authorities"
+      ],
+      "rationale": "Mexico typically defends sovereignty promptly when U.S. rhetoric implies unilateral cross-border force.",
+      "id": "56db9b60-8010-4046-afcc-ea62f6e125b0",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "From 2025-10-02 close to 2025-10-31 close, iShares Global Clean Energy ETF (ICLN) will underperform SPDR S&P 500 ETF (SPY) by at least 4.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Compute percent change in adjusted close between 2025-10-02 and 2025-10-31 for ICLN and SPY (Yahoo Finance). ICLN underperformance >= 4.0 percentage points satisfies.",
+      "evidence": [
+        "DOE cancels $7.5B clean-energy projects during shutdown, raising policy risk.",
+        "Clean energy equities are rate-sensitive; uncertainty amplifies risk premia.",
+        "https://www.cnbc.com/2025/10/02/energy-department-cancels-green-projects-in-united-states.html"
+      ],
+      "monitoring_signals": [
+        "DOE announcements on cancellations/deferrals",
+        "UST 10Y yield and real yields (DFII10)",
+        "ICLN fund flows and component guidance"
+      ],
+      "rationale": "Policy and rate headwinds likely push clean energy to lag broad equities near term.",
+      "id": "9722f746-6692-4af4-82b2-00d2846cdb0f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Intel (INTC) will close at or above $50.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 58,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Any daily close for INTC shown at or above $50.00 on Yahoo Finance or Nasdaq.com by 2025-11-30 (UTC).",
+      "evidence": [
+        "Intel shares jumped sharply; policy tailwinds and foundry narrative re-rating.",
+        "Broader AI capex cycle supports compute suppliers\u2019 multiples.",
+        "https://www.cnbc.com/2025/10/02/intel-stock-us-trump-stake.html",
+        "https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html"
+      ],
+      "monitoring_signals": [
+        "IFS customer announcements and subsidies/CHIPS grants",
+        "Server/PC demand indicators and pricing",
+        "Short interest and options positioning"
+      ],
+      "rationale": "Momentum, policy support, and AI demand improve odds of testing higher price levels.",
+      "id": "96f9d0ec-ef1b-4c13-8cc0-17b32af5a2b8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Taiwan Semiconductor (TSM) will underperform the PHLX Semiconductor Index (^SOX) by at least 3.0 percentage points from 2025-10-02 close to 2025-11-30 close.",
+      "category": "markets",
+      "horizon_days": 58,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Compare percent change in adjusted close for TSM vs ^SOX from 2025-10-02 to 2025-11-30 (Yahoo Finance). TSM minus ^SOX <= -3.0 percentage points satisfies.",
+      "evidence": [
+        "Taiwan resists U.S. \u201850-50\u2019 chip production push, adding policy uncertainty.",
+        "Index peers may benefit more directly from U.S. industrial policy flows.",
+        "https://www.cnbc.com/2025/10/02/taiwan-us-chip-production-tsmc-trade-tariffs.html"
+      ],
+      "monitoring_signals": [
+        "US-Taiwan tariff/industrial policy negotiations",
+        "TSMC guidance, capex, and customer mix updates",
+        "Movements in SOX heavyweights (NVDA, AMD, AVGO)"
+      ],
+      "rationale": "Policy frictions and supply-chain geopolitics could weigh on TSM relative to peers.",
+      "id": "bf627eee-82d8-4e0f-a7e4-4ce1e0080e2e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "MP Materials (MP) will close at or above $20.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 58,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Any daily close for MP shown at or above $20.00 on Yahoo Finance by 2025-11-30 (UTC).",
+      "evidence": [
+        "U.S. policy momentum for domestic critical minerals and processing build-out.",
+        "Investor interest heightened by administration talks with producers.",
+        "https://www.cnbc.com/2025/10/02/usa-rare-earth-lithium-americas-mp-materials-trump.html"
+      ],
+      "monitoring_signals": [
+        "DoD/DOE contract awards or loan guarantees",
+        "China export policy on rare earths",
+        "Commodity prices for NdPr and rare earth oxides"
+      ],
+      "rationale": "Policy catalysts and strategic importance can drive rerating despite commodity volatility.",
+      "id": "768a233d-bd6c-4ed8-9cca-31ca1f43b032",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX RBOB gasoline front-month futures (RB) will settle at or below $2.15 per gallon on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 58,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "CME settlement price for the front-month RB futures contract at or below $2.15/gal on any session by 2025-11-30.",
+      "evidence": [
+        "Post-summer seasonal demand softness typically pressures gasoline cracks.",
+        "Macro uncertainty and easing refinery bottlenecks can weigh on RBOB."
+      ],
+      "monitoring_signals": [
+        "EIA gasoline inventories and 4-week product supplied",
+        "Refinery utilization and crack spreads",
+        "WTI/Brent price trends and refinery outages"
+      ],
+      "rationale": "Seasonal demand fade and adequate inventories raise odds of a downside test.",
+      "id": "a2b3fe18-025c-462f-b236-eeff60c87acc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/MXN (Yahoo Finance: MXN=X) will trade at or above 19.20 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 58,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Intraday high on Yahoo Finance for MXN=X (USD/MXN) reaches or exceeds 19.20 by 2025-11-30 (UTC).",
+      "evidence": [
+        "Heightened U.S.-Mexico tensions over \u2018war on cartels\u2019 rhetoric may pressure MXN.",
+        "Risk-off shifts tend to lift USD broadly.",
+        "https://www.nytimes.com/2025/10/02/us/politics/trump-drug-cartels-war.html"
+      ],
+      "monitoring_signals": [
+        "DXY and U.S. real yields (DFII10)",
+        "Banxico communications and intervention signals",
+        "Headlines on cross-border security cooperation"
+      ],
+      "rationale": "Policy and geopolitical noise can weaken MXN episodically, pushing USD/MXN higher.",
+      "id": "728a2a43-c8fc-4224-bdb0-c0f2c324073d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
