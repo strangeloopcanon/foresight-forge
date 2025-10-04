@@ -1,0 +1,258 @@
+{
+  "date": "2025-10-04",
+  "predictions": [
+    {
+      "text": "Bitcoin (BTC-USD) will close at or above $80,000 on at least one UTC day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 27,
+      "deadline": "2025-10-31",
+      "confidence_pct": 48,
+      "verification_criteria": "Success if Yahoo Finance BTC-USD Adjusted Close on any UTC date through 2025-10-31 is >= 80000.00.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/03/bitcoin-rallies-to-within-1percent-of-all-time-high-gaining-safe-haven-status-during-shutdown-.html",
+        "https://www.cnbc.com/2025/10/03/walmart-onepay-is-rolling-out-crypto-to-mobile-banking-app.html",
+        "https://www.marketwatch.com/story/the-stock-markets-relentless-march-higher-has-fueled-a-record-rush-of-bullish-options-trading-e0c77376"
+      ],
+      "monitoring_signals": [
+        "Spot bitcoin ETF net inflows/outflows (e.g., IBIT, FBTC)",
+        "Perpetual futures funding rates and basis",
+        "Stablecoin aggregate market cap growth",
+        "Dollar index (DXY) and real yields",
+        "Risk sentiment (VIX) and equity momentum",
+        "On-chain exchange balances and miner flows"
+      ],
+      "rationale": "Momentum, ETF inflows, and broader risk appetite increase odds of a breakout, with high volatility risk.",
+      "id": "17936fb8-0981-485f-9021-0ceea02e0772",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Cboe Volatility Index (VIX) will close at or above 20.00 on at least one trading day by 2025-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 27,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Success if ^VIX official close (Cboe/Yahoo Finance) is >= 20.00 on any trading day through 2025-10-31 UTC.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/03/goldman-sachs-ceo-david-solomon-warns-stock-market-drawdown-is-coming.html",
+        "https://www.marketwatch.com/story/the-stock-markets-relentless-march-higher-has-fueled-a-record-rush-of-bullish-options-trading-e0c77376"
+      ],
+      "monitoring_signals": [
+        "S&P 500 skew and term structure (VIX futures contango/backwardation)",
+        "Dealer gamma exposure (estimated)",
+        "Macro event calendar (CPI, jobs, FOMC speakers)",
+        "Equity market breadth and gap risk",
+        "Treasury yield swings and credit spreads",
+        "Systematic CTA positioning estimates"
+      ],
+      "rationale": "Crowded bullish positioning and policy/geopolitical risks raise odds of a volatility spike.",
+      "id": "433a1935-fcb8-4212-8b52-b5d0dccb1efa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "AAA California average regular gasoline price will print at or above $5.80 per gallon on at least one day by 2025-10-20.",
+      "category": "energy",
+      "horizon_days": 16,
+      "deadline": "2025-10-20",
+      "confidence_pct": 55,
+      "verification_criteria": "Success if the AAA Gas Prices California state average for regular unleaded at gasprices.aaa.com reaches or exceeds $5.80 on any date through 2025-10-20 (local date).",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/03/massive-fire-breaks-out-at-chevron-oil-refinery-in-california.html",
+        "https://gasprices.aaa.com/"
+      ],
+      "monitoring_signals": [
+        "CARBOB spot and rack prices (Los Angeles/SF)",
+        "PADD 5 refinery utilization and outage reports",
+        "California Energy Commission supply updates",
+        "Gasoline inventories (PADD 5, EIA weekly)",
+        "RBOB-Brent crack spread",
+        "Retail price passthrough lag metrics"
+      ],
+      "rationale": "A major refinery outage during maintenance season tightens PADD 5 supply, boosting retail prices.",
+      "id": "8fd25a1b-b353-4a07-8bc5-8a16d6ff3a8b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, OFAC will announce an Iran-related sanctions action adding at least 10 new entries to the SDN List.",
+      "category": "geopolitics",
+      "horizon_days": 27,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Success if the U.S. Treasury publishes an Iran-related OFAC action by 2025-10-31 that nets >=10 new SDN entries in that action, per the official press release/SDN update.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases"
+      ],
+      "monitoring_signals": [
+        "Treasury press releases and SDN XML change logs",
+        "Congressional and White House statements on Iran",
+        "Regional escalation indicators in the Middle East",
+        "EU/UK parallel designations",
+        "Maritime seizure or oil shipment enforcement activity"
+      ],
+      "rationale": "Continued enforcement and regional tensions make additional Iran designations likely in October.",
+      "id": "5637625c-f7ee-4648-878b-2e19068345f5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-03 close to 2025-10-31 close, Invesco QQQ (QQQ) will outperform SPDR S&P 500 (SPY) by at least 2.0 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 27,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Use Yahoo Finance adjusted closes for QQQ and SPY. Compute percent change from 2025-10-03 close to 2025-10-31 close. Success if (QQQ_change \u2212 SPY_change) >= 2.0 pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/03/asia-markets-friday-wall-street-gains-not-impacted-by-shutdown-concerns.html",
+        "https://www.marketwatch.com/story/the-stock-markets-relentless-march-higher-has-fueled-a-record-rush-of-bullish-options-trading-e0c77376"
+      ],
+      "monitoring_signals": [
+        "Mega-cap tech earnings/guidance",
+        "Semiconductor index (SOX) momentum",
+        "Rates duration sensitivity (real yields vs tech)",
+        "AI adoption headlines and partnerships",
+        "Options flow and call skew in QQQ/mega caps",
+        "Breadth indicators (advance/decline, equal-weight vs cap-weight)"
+      ],
+      "rationale": "AI leadership and duration sensitivity favor mega-cap growth versus the broader market into month-end.",
+      "id": "99dddabf-aec8-4e29-989d-78e68c1c825f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing PMI (headline) for October 2025 will print between 48.0 and 50.5 in ISM\u2019s release due by 2025-11-04.",
+      "category": "macro",
+      "horizon_days": 31,
+      "deadline": "2025-11-04",
+      "confidence_pct": 56,
+      "verification_criteria": "Success if the ISM Manufacturing PMI headline index for October 2025 is within [48.0, 50.5], per the Institute for Supply Management\u2019s official release.",
+      "evidence": [
+        "https://www.marketwatch.com/story/the-stock-markets-relentless-march-higher-has-fueled-a-record-rush-of-bullish-options-trading-e0c77376"
+      ],
+      "monitoring_signals": [
+        "Regional Fed manufacturing surveys (Empire, Philly, Richmond, Dallas)",
+        "S&P Global US Manufacturing PMI (final)",
+        "New orders/inventories ratio trends",
+        "Export orders and supplier deliveries",
+        "Energy and freight cost pressures"
+      ],
+      "rationale": "Manufacturing remains soft but stabilizing; inventory and new orders imply a range near the contraction/expansion threshold.",
+      "id": "69959aef-c15f-49b1-ad81-38c726ae6e61",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 3.95% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 57,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Success if FRED series DGS10 shows a daily close <= 3.95% on any date through 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/03/goldman-sachs-ceo-david-solomon-warns-stock-market-drawdown-is-coming.html"
+      ],
+      "monitoring_signals": [
+        "Inflation prints (CPI, PCE) and surprises",
+        "Growth data (payrolls, PMIs, retail sales)",
+        "Fed guidance and market-implied path (FedWatch)",
+        "Term premium estimates and auction results",
+        "Equity risk-off flows into duration"
+      ],
+      "rationale": "Potential growth/inflation downside and risk-off episodes can pull 10-year yields below 4% at least briefly.",
+      "id": "5feb66a5-bc91-47c0-951d-f012c3769d18",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Microsoft (MSFT) Q1 FY2026 total revenue will be between $60.0B and $63.5B, per the company\u2019s earnings release published by 2025-10-31.",
+      "category": "tech",
+      "horizon_days": 27,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Success if Microsoft\u2019s official earnings press release or Form 10-Q shows GAAP total revenue within [$60.0B, $63.5B] for fiscal Q1 2026.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/03/asia-markets-friday-wall-street-gains-not-impacted-by-shutdown-concerns.html",
+        "https://www.cnbc.com/2025/10/03/hitachi-openai-partnership.html"
+      ],
+      "monitoring_signals": [
+        "Azure growth rate and AI workload demand",
+        "Copilot adoption metrics and attach rates",
+        "Commercial bookings and RPO",
+        "PC shipment trends affecting Windows OEM",
+        "FX impacts and pricing changes"
+      ],
+      "rationale": "Enterprise AI adoption and resilient cloud demand support mid-to-high single-digit revenue growth.",
+      "id": "e2cca9f9-c490-468e-8ca5-c9dda56aa895",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX RBOB gasoline front-month futures (RB) will settle at or above $2.60 per gallon on at least one trading day by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 27,
+      "deadline": "2025-10-31",
+      "confidence_pct": 53,
+      "verification_criteria": "Success if CME Group official settlement for the RB front-month contract is >= $2.6000/gal on any trading day through 2025-10-31.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/03/massive-fire-breaks-out-at-chevron-oil-refinery-in-california.html",
+        "https://www.cnbc.com/2025/10/03/asia-markets-friday-wall-street-gains-not-impacted-by-shutdown-concerns.html"
+      ],
+      "monitoring_signals": [
+        "Refinery outages and utilization rates (especially PADD 5)",
+        "Gasoline inventories and implied demand (EIA)",
+        "Crude prices (WTI/Brent) and cracks",
+        "CARBOB basis and West Coast spreads",
+        "Seasonal maintenance schedules"
+      ],
+      "rationale": "Refinery disruptions and steady demand can push RB higher despite seasonal shoulder period.",
+      "id": "08650482-2da5-48a9-ab4a-0327f3fcc510",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-03 close to 2025-11-30 close, AMD (AMD) will outperform NVIDIA (NVDA) by at least 5.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 57,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "verification_criteria": "Use Yahoo Finance adjusted closes for AMD and NVDA. Compute percent change from 2025-10-03 close to 2025-11-30 close. Success if (AMD_change \u2212 NVDA_change) >= 5.0 pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/03/cerebras-withdraws-ipo-ai.html"
+      ],
+      "monitoring_signals": [
+        "Datacenter GPU product updates (MI300/MI325/MI350)",
+        "Supply chain lead times and allocations",
+        "Major cloud customer adoption news",
+        "Relative valuation and earnings revisions",
+        "H100/B100/H200 supply dynamics and pricing"
+      ],
+      "rationale": "Rotation toward challengers and product cadence can support AMD relative strength versus a crowded NVDA trade.",
+      "id": "7c48b81d-5612-4beb-9a0b-a9fe065b75de",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Retail Sales \u2018control group\u2019 (advance, MoM, SA) for October 2025 will print between -0.3% and +0.2% in the Census release due 2025-11-15.",
+      "category": "macro",
+      "horizon_days": 42,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Success if the Census \u2018Advance Monthly Retail and Food Services\u2019 report shows the control group (retail sales excluding motor vehicles & parts, gasoline stations, building materials, and food services) MoM SA change within [-0.3%, +0.2%] for Oct 2025.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/03/student-loan-repayment-plan-backlog-under-trump.html"
+      ],
+      "monitoring_signals": [
+        "High-frequency card spending trackers",
+        "Back-to-school and early holiday sales commentary",
+        "Student loan payment resumption impacts",
+        "Real wage growth and labor market prints",
+        "Gasoline prices\u2019 effect on real goods spending"
+      ],
+      "rationale": "Consumer momentum cools as student loan headwinds and goods disinflation tamp down control group growth.",
+      "id": "bcb56384-544f-48f0-8c79-317aa55fc490",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

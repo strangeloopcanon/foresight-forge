@@ -22,7 +22,7 @@
       "supersedes_id": "83526337-655a-4b09-a87c-3e2381b5f685",
       "rationale": "Political and market costs of a prolonged data blackout raise odds of a short CR within two weeks.",
       "id": "a659b66a-3d26-449f-b606-ce20669a129d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Generic approval expands access and lowers cost, likely triggering rapid multistate litigation in restrictive jurisdictions.",
       "id": "89e063f2-1480-4743-a0fe-f432a0d3799d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -68,7 +68,7 @@
       ],
       "rationale": "Mexico typically defends sovereignty promptly when U.S. rhetoric implies unilateral cross-border force.",
       "id": "56db9b60-8010-4046-afcc-ea62f6e125b0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -91,7 +91,7 @@
       ],
       "rationale": "Policy and rate headwinds likely push clean energy to lag broad equities near term.",
       "id": "9722f746-6692-4af4-82b2-00d2846cdb0f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -115,7 +115,7 @@
       ],
       "rationale": "Momentum, policy support, and AI demand improve odds of testing higher price levels.",
       "id": "96f9d0ec-ef1b-4c13-8cc0-17b32af5a2b8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "Policy frictions and supply-chain geopolitics could weigh on TSM relative to peers.",
       "id": "bf627eee-82d8-4e0f-a7e4-4ce1e0080e2e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -161,7 +161,7 @@
       ],
       "rationale": "Policy catalysts and strategic importance can drive rerating despite commodity volatility.",
       "id": "768a233d-bd6c-4ed8-9cca-31ca1f43b032",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -183,7 +183,7 @@
       ],
       "rationale": "Seasonal demand fade and adequate inventories raise odds of a downside test.",
       "id": "a2b3fe18-025c-462f-b236-eeff60c87acc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -206,7 +206,7 @@
       ],
       "rationale": "Policy and geopolitical noise can weaken MXN episodically, pushing USD/MXN higher.",
       "id": "728a2a43-c8fc-4224-bdb0-c0f2c324073d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
