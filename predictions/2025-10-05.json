@@ -1,0 +1,269 @@
+{
+  "date": "2025-10-05",
+  "predictions": [
+    {
+      "text": "U.S. CPI (headline, MoM, seasonally adjusted) for September 2025 will print between 0.1% and 0.3% in the BLS release on 2025-10-10.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-10-10",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify in BLS CPI News Release (Table 1), CPI-U U.S. city average, seasonally adjusted percent change, 'All items' for September 2025 is within [0.1%, 0.3%].",
+      "evidence": [
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+        "https://gasprices.aaa.com/",
+        "https://www.apartmentlist.com/research/national-rent-data"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed CPI nowcast updates",
+        "EIA weekly gasoline prices",
+        "Used car wholesale price indices (Manheim/Cox)"
+      ],
+      "rationale": "Energy softness and easing core goods offset sticky shelter; nowcasts cluster around low-0.2%.",
+      "id": "cd3a8162-ba27-4dde-93e2-33615322fba3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. core CPI (all items less food and energy, MoM, SA) for September 2025 will print between 0.2% and 0.3% in the BLS release on 2025-10-10.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-10-10",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify in BLS CPI News Release (Table 1), CPI-U 'All items less food and energy', seasonally adjusted percent change for September 2025 is within [0.2%, 0.3%].",
+      "evidence": [
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+        "https://www.bls.gov/news.release/cpi.t01.htm",
+        "https://www.zillow.com/research/zori-rent-data/"
+      ],
+      "monitoring_signals": [
+        "Shelter CPI subcomponents (OER, rent)",
+        "Core goods pricing (apparel, vehicles, household goods)",
+        "Services ex-shelter momentum"
+      ],
+      "rationale": "Shelter deceleration and tame core goods keep core MoM near 0.2\u20130.3%.",
+      "id": "895ded0e-df96-453a-a866-ba0768cc24b3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted U.S. continuing jobless claims will print at or above 1.90 million in at least one weekly DOL Unemployment Insurance report published by 2025-11-15.",
+      "category": "macro",
+      "horizon_days": 41,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "verification_criteria": "In any DOL Unemployment Insurance Weekly Claims news release by the deadline, the seasonally adjusted 'Insured unemployment' (continued claims) value is \u2265 1,900,000.",
+      "evidence": [
+        "https://oui.doleta.gov/unemploy/claims.asp",
+        "https://fred.stlouisfed.org/series/CCSA",
+        "https://www.challengergray.com/blog/"
+      ],
+      "monitoring_signals": [
+        "Initial claims 4-week moving average",
+        "Layoff announcements (Challenger report)",
+        "JOLTS job openings trend"
+      ],
+      "rationale": "Cooling labor demand and rising duration of unemployment lift continuing claims.",
+      "id": "b574da78-e6e3-4ae1-8272-ae0693b5920e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Cboe Volatility Index (VIX) will close at or below 12.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 56,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Any official Cboe VIX closing value on cboe.com at or below 12.00 by the deadline.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/",
+        "https://www.wsj.com/market-data/quotes/index/SPX/historical-prices",
+        "https://www.calendarlabs.com/holidays/us/earnings-calendar-2025"
+      ],
+      "monitoring_signals": [
+        "S&P 500 20-day realized volatility",
+        "Macro event risk (CPI, FOMC, payrolls) outcomes",
+        "Earnings season dispersion"
+      ],
+      "rationale": "Benign macro surprises and strong liquidity can compress implied vol episodically.",
+      "id": "45cb1117-6fb2-41e9-a1c2-464881988f9e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or above 4.60% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 56,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "FRED series DGS10 daily close \u2265 4.60% on any trading day by the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://home.treasury.gov/resource-center/data-chart-center/quarterly-refunding-documents",
+        "https://www.bls.gov/news.release/cpi.nr0.htm"
+      ],
+      "monitoring_signals": [
+        "Inflation prints (CPI/PCE) vs. expectations",
+        "Treasury supply/auction tails",
+        "Fed guidance and term premium proxies"
+      ],
+      "rationale": "Upside inflation risks and supply dynamics can push term yields to 4.6%+ briefly.",
+      "id": "6e1f648c-e3eb-4036-8df8-790d635954e4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "COMEX Gold (GC) front-month futures will settle at or above $2,700 per troy ounce on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 56,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "CME Group official settlement price for the active COMEX Gold (GC) contract \u2265 $2,700.00 by the deadline.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/metals/precious/gold.html",
+        "https://www.gold.org/goldhub/research/central-bank-gold-buying",
+        "https://fred.stlouisfed.org/series/DFII10"
+      ],
+      "monitoring_signals": [
+        "Central bank net gold purchases",
+        "Real yields (10Y TIPS)",
+        "USD index (DXY) and geopolitical risk"
+      ],
+      "rationale": "Central bank demand and geopolitical hedging can lift gold despite higher real yields.",
+      "id": "311c3d20-69e6-4042-800b-35a46cdbf589",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY (Yahoo Finance: JPY=X) will trade at or above 163.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 56,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Intraday high on Yahoo Finance JPY=X (or equivalent reputable source) shows \u2265 163.00 at any point by the deadline (UTC).",
+      "evidence": [
+        "https://www.boj.or.jp/en/mopo/mpmdeci/index.htm/",
+        "https://finance.yahoo.com/quote/JPY%3DX/",
+        "https://fred.stlouisfed.org/series/DGS10"
+      ],
+      "monitoring_signals": [
+        "BoJ policy guidance and JGB yields",
+        "U.S.-Japan rate differentials",
+        "MoF intervention warnings or actions"
+      ],
+      "rationale": "Wide rate differentials and cautious BoJ normalization keep upward pressure on USD/JPY.",
+      "id": "0d04ee77-f14f-48da-90cf-6192abd80853",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. refiner operable utilization rate will print at or below 87.0% in at least one EIA Weekly Petroleum Status Report published by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 26,
+      "deadline": "2025-10-31",
+      "confidence_pct": 59,
+      "verification_criteria": "In any EIA Weekly Petroleum Status Report by the deadline, the 'U.S. Refiner Operable Utilization Rate (percent)' entry is \u2264 87.0%.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/weekly/",
+        "https://www.eia.gov/todayinenergy/",
+        "https://www.reuters.com/markets/commodities/seasonal-us-refinery-maintenance-outages-2025-09-/"
+      ],
+      "monitoring_signals": [
+        "Reported planned maintenance/outages",
+        "Crack spreads incentivizing downtime",
+        "Regional utilization (PADD-level) drops"
+      ],
+      "rationale": "Autumn maintenance season typically depresses utilization into the mid-to-high 80s.",
+      "id": "e7e08d1d-b8e4-4077-b44a-7987c3776aa8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Apple (AAPL) fiscal Q4 2025 total net sales will be between $85.0B and $91.0B, per the company\u2019s earnings release published by 2025-11-10.",
+      "category": "tech",
+      "horizon_days": 36,
+      "deadline": "2025-11-10",
+      "confidence_pct": 55,
+      "verification_criteria": "Apple Newsroom/Investor Relations earnings materials for quarter ended September 2025 report 'Total net sales' within [85.0, 91.0] billion USD.",
+      "evidence": [
+        "https://investor.apple.com/investor-relations/financials/default.aspx",
+        "https://www.apple.com/newsroom/archive/2024/11//",
+        "https://www.idc.com/promo/smartphone-market-share"
+      ],
+      "monitoring_signals": [
+        "iPhone 16 sell-through and mix",
+        "Services revenue growth trajectory",
+        "FX headwinds/tailwinds vs. prior year"
+      ],
+      "rationale": "Services growth and stable iPhone cycle offset China softness and FX variability.",
+      "id": "97ebd4f4-fe1e-44f4-b890-28234f878b62",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NVIDIA (NVDA) Q3 FY2026 Data Center segment revenue will be between $27.0B and $30.0B, per the company\u2019s earnings release or Form 10-Q published by 2025-11-30.",
+      "category": "tech",
+      "horizon_days": 56,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "NVIDIA\u2019s Q3 FY2026 results disclose 'Data Center' segment revenue within [27.0, 30.0] billion USD.",
+      "evidence": [
+        "https://investor.nvidia.com/financial-info/financial-reports/default.aspx",
+        "https://www.nvidia.com/en-us/data-center/",
+        "https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809"
+      ],
+      "monitoring_signals": [
+        "Hyperscaler AI capex guidance",
+        "Supply of H200/B200 and networking components",
+        "Export controls or data center demand shifts"
+      ],
+      "rationale": "Hyperscaler demand remains robust; supply constraints ease gradually, sustaining elevated run-rate.",
+      "id": "5a532705-babf-431a-8f18-e4d403a2fa9d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China exports (YoY, USD terms) for September 2025 will print between -2% and +4% in the General Administration of Customs release by 2025-10-13.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-10-13",
+      "confidence_pct": 56,
+      "verification_criteria": "GAC China monthly trade release shows year-over-year change in exports (USD-denominated) for September 2025 within [-2%, +4%].",
+      "evidence": [
+        "http://english.customs.gov.cn/",
+        "https://www.pmi.spglobal.com/Public/Release/PressReleases",
+        "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index"
+      ],
+      "monitoring_signals": [
+        "New export orders in official/Caixin PMIs",
+        "Global freight rates and TEU volumes",
+        "Electronics and machinery shipment trends"
+      ],
+      "rationale": "External demand is stabilizing but not booming; exports likely hover near flat YoY.",
+      "id": "a842364c-1aaf-4729-9f55-7a96d0680b44",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan 1-year inflation expectations (final) for October 2025 will print between 3.0% and 3.5% in the release due 2025-10-25.",
+      "category": "macro",
+      "horizon_days": 20,
+      "deadline": "2025-10-25",
+      "confidence_pct": 56,
+      "verification_criteria": "University of Michigan Surveys of Consumers final October 2025 'Expected change in prices during the next 12 months' reading is within [3.0%, 3.5%].",
+      "evidence": [
+        "http://www.sca.isr.umich.edu/",
+        "https://gasprices.aaa.com/",
+        "https://www.bls.gov/news.release/cpi.nr0.htm"
+      ],
+      "monitoring_signals": [
+        "Gasoline price trends into mid-October",
+        "Headline CPI surprise versus consensus",
+        "Consumer sentiment components"
+      ],
+      "rationale": "Near-term expectations have anchored near ~3.2% amid steady gas prices and cooling core.",
+      "id": "34b1126c-2cb2-40cc-a505-3b2857c74b50",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

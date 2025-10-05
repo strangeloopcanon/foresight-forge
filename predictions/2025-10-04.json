@@ -23,7 +23,7 @@
       ],
       "rationale": "Momentum, ETF inflows, and broader risk appetite increase odds of a breakout, with high volatility risk.",
       "id": "17936fb8-0981-485f-9021-0ceea02e0772",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -47,7 +47,7 @@
       ],
       "rationale": "Crowded bullish positioning and policy/geopolitical risks raise odds of a volatility spike.",
       "id": "433a1935-fcb8-4212-8b52-b5d0dccb1efa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -71,7 +71,7 @@
       ],
       "rationale": "A major refinery outage during maintenance season tightens PADD 5 supply, boosting retail prices.",
       "id": "8fd25a1b-b353-4a07-8bc5-8a16d6ff3a8b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -93,7 +93,7 @@
       ],
       "rationale": "Continued enforcement and regional tensions make additional Iran designations likely in October.",
       "id": "5637625c-f7ee-4648-878b-2e19068345f5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -117,7 +117,7 @@
       ],
       "rationale": "AI leadership and duration sensitivity favor mega-cap growth versus the broader market into month-end.",
       "id": "99dddabf-aec8-4e29-989d-78e68c1c825f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Manufacturing remains soft but stabilizing; inventory and new orders imply a range near the contraction/expansion threshold.",
       "id": "69959aef-c15f-49b1-ad81-38c726ae6e61",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -161,7 +161,7 @@
       ],
       "rationale": "Potential growth/inflation downside and risk-off episodes can pull 10-year yields below 4% at least briefly.",
       "id": "5feb66a5-bc91-47c0-951d-f012c3769d18",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "Enterprise AI adoption and resilient cloud demand support mid-to-high single-digit revenue growth.",
       "id": "e2cca9f9-c490-468e-8ca5-c9dda56aa895",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -207,7 +207,7 @@
       ],
       "rationale": "Refinery disruptions and steady demand can push RB higher despite seasonal shoulder period.",
       "id": "08650482-2da5-48a9-ab4a-0327f3fcc510",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -229,7 +229,7 @@
       ],
       "rationale": "Rotation toward challengers and product cadence can support AMD relative strength versus a crowded NVDA trade.",
       "id": "7c48b81d-5612-4beb-9a0b-a9fe065b75de",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -251,7 +251,7 @@
       ],
       "rationale": "Consumer momentum cools as student loan headwinds and goods disinflation tamp down control group growth.",
       "id": "bcb56384-544f-48f0-8c79-317aa55fc490",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

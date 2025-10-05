@@ -1,0 +1,60 @@
+{
+  "date": "2025-10-04",
+  "assessments": [
+    {
+      "id": "17936fb8-0981-485f-9021-0ceea02e0772",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s news of a BTC daily close \u2265 $80,000; deadline not yet reached."
+    },
+    {
+      "id": "433a1935-fcb8-4212-8b52-b5d0dccb1efa",
+      "status": "pending",
+      "status_rationale": "No confirmed VIX close \u2265 20.00 in the provided news; deadline remains in the future."
+    },
+    {
+      "id": "8fd25a1b-b353-4a07-8bc5-8a16d6ff3a8b",
+      "status": "pending",
+      "status_rationale": "No report of AAA California average gasoline hitting $5.80; deadline has not passed."
+    },
+    {
+      "id": "5637625c-f7ee-4648-878b-2e19068345f5",
+      "status": "pending",
+      "status_rationale": "No OFAC Iran-related sanctions action adding \u226510 SDN entries mentioned; still before deadline."
+    },
+    {
+      "id": "99dddabf-aec8-4e29-989d-78e68c1c825f",
+      "status": "pending",
+      "status_rationale": "Performance window (2025-10-03 to 2025-10-31) has begun but no comparative return data provided."
+    },
+    {
+      "id": "69959aef-c15f-49b1-ad81-38c726ae6e61",
+      "status": "pending",
+      "status_rationale": "October 2025 ISM Manufacturing PMI not yet released (due by 2025-11-04)."
+    },
+    {
+      "id": "5feb66a5-bc91-47c0-951d-f012c3769d18",
+      "status": "pending",
+      "status_rationale": "No confirmation that DGS10 closed \u2264 3.95%; outcome remains open until 2025-11-30."
+    },
+    {
+      "id": "e2cca9f9-c490-468e-8ca5-c9dda56aa895",
+      "status": "pending",
+      "status_rationale": "No Microsoft Q1 FY2026 revenue release referenced; report expected later in October."
+    },
+    {
+      "id": "08650482-2da5-48a9-ab4a-0327f3fcc510",
+      "status": "pending",
+      "status_rationale": "No cited settlement for NYMEX RBOB \u2265 $2.60; deadline not yet reached."
+    },
+    {
+      "id": "7c48b81d-5612-4beb-9a0b-a9fe065b75de",
+      "status": "pending",
+      "status_rationale": "Relative performance window (to 2025-11-30) is ongoing; no outcome data provided."
+    },
+    {
+      "id": "bcb56384-544f-48f0-8c79-317aa55fc490",
+      "status": "pending",
+      "status_rationale": "October 2025 Retail Sales control group print not yet released (due 2025-11-15)."
+    }
+  ]
+}

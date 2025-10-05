@@ -701,3 +701,12 @@ Market-related items mention the S&P 500 flirting with a record close and a Bitc
 
 ---
 
+
+## 2025-10-04
+
+Today’s headlines center on geopolitical developments related to a proposed Gaza peace plan, U.S. political-legal events, and a mix of business and science features. None of the items provide definitive market closes, official economic data releases, or corporate earnings figures that would resolve any of the listed forecasts.
+
+While some stories could have indirect implications for market volatility, energy prices, and risk sentiment, the forecasts are threshold-based and require specific, verifiable data (e.g., daily closes, official prints, or company-reported results). In the absence of such evidence in today’s news, all predictions remain pending. Upcoming checkpoints include Microsoft’s earnings later in October, the ISM Manufacturing PMI by November 4, and the October Retail Sales control group by November 15, along with ongoing monitoring of asset price thresholds (BTC, VIX, RBOB, DGS10) and relative equity performance windows.
+
+---
+
