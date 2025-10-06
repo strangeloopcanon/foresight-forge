@@ -1,0 +1,282 @@
+{
+  "date": "2025-10-06",
+  "predictions": [
+    {
+      "text": "Bitcoin (BTC-USD) will close at or above $130,000 on at least one UTC day by 2025-10-31.",
+      "category": "markets",
+      "horizon_days": 25,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Verified via CoinDesk Bitcoin Price Index (BPI) or Yahoo Finance (BTC-USD) daily close (UTC). Any single UTC day with a close >= 130,000 satisfies.",
+      "evidence": [
+        "https://www.marketwatch.com/story/bitcoin-hits-new-high-above-125-000-as-investors-seek-safety-8013d33a?mod=mw_rss_topstories",
+        "https://www.marketwatch.com/story/how-one-of-2025s-most-popular-trades-is-boosting-gold-and-bitcoin-and-may-keep-going-during-the-government-shutdown-a9994256?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "DXY dollar index level and trajectory",
+        "US real yields (FRED: DFII10)",
+        "Spot/ETF net flows (e.g., IBIT, FBTC)",
+        "Perp funding rates/open interest (Deribit, Binance)",
+        "VIX and broader risk sentiment",
+        "US fiscal/shutdown headlines"
+      ],
+      "rationale": "Momentum, macro hedge demand, and supportive liquidity favor a new marginal high above 130k within October.",
+      "id": "f3abdffc-1807-4b9e-ae54-e05bd068744f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "COMEX Gold (GC) front-month futures will settle at or above $2,800 per troy ounce on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 55,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "CME Group official settlement price for the most-active COMEX Gold futures contract. Any daily settlement >= 2,800 qualifies.",
+      "evidence": [
+        "https://www.marketwatch.com/story/how-one-of-2025s-most-popular-trades-is-boosting-gold-and-bitcoin-and-may-keep-going-during-the-government-shutdown-a9994256?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "US 10y TIPS real yield (FRED: DFII10)",
+        "DXY dollar index",
+        "Gold ETF flows (GLD, IAU)",
+        "CFTC COT managed money net length",
+        "Geopolitical risk headlines",
+        "Oil prices and inflation breakevens"
+      ],
+      "rationale": "Carry-like macro hedges and softer real yields provide a path to incremental highs in gold.",
+      "id": "474bfb3b-5fdd-4e5d-b0eb-3b8e09e642b7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent crude oil front-month futures will settle at or above $94.00 per barrel on at least one trading day by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 25,
+      "deadline": "2025-10-31",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "ICE Futures Europe official settlement for front-month Brent (CO). Any daily settlement >= 94.00 satisfies.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.cnbc.com/2025/10/05/openai-stargate-data-center-buildout-infrastructure-lead-keith-heyde.html"
+      ],
+      "monitoring_signals": [
+        "EIA weekly crude/product inventories and refined product demand",
+        "OPEC+/unplanned outages headlines",
+        "Refinery utilization (EIA)",
+        "Brent time spreads (prompt backwardation)",
+        "Geopolitics in MENA/Russia-Ukraine"
+      ],
+      "rationale": "Tight physical balances, seasonal runs, and geopolitical risk can lift Brent to mid-90s near term.",
+      "id": "a4d2be4a-ecf5-43d4-a93c-1c8da37e7cbe",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY (Yahoo Finance: JPY=X) will trade at or above 165.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 55,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Yahoo Finance intraday high (UTC) for JPY=X. Any UTC-day high >= 165.00 qualifies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/06/asia-pacific-markets-monday-nikkei-225-topix-kospi-nifty-50-japan-ldp-sanae-takaichi.html",
+        "https://fred.stlouisfed.org/series/DGS10"
+      ],
+      "monitoring_signals": [
+        "US-Japan rate differentials (UST vs JGB yields)",
+        "BoJ policy guidance and interventions rhetoric",
+        "US CPI/PCE prints and Fed path",
+        "Nikkei risk sentiment and equities flows"
+      ],
+      "rationale": "Pro-stimulus LDP leadership and wide rate differentials support incremental yen weakness to 165.",
+      "id": "67d5ee68-f135-47f7-8e46-fdf9b1cec7e6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NFIB Small Business Optimism Index for September 2025 will print between 89.0 and 92.0 in the release due 2025-10-08.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-10-08",
+      "confidence_pct": 62,
+      "log_odds": 0.489,
+      "verification_criteria": "NFIB press release and historical data page. The September 2025 headline index must be >= 89.0 and <= 92.0.",
+      "evidence": [
+        "https://www.nfib.com/surveys/small-business-economic-trends/",
+        "https://www.nytimes.com/2025/10/05/business/craft-breweries-close-sales-decline.html"
+      ],
+      "monitoring_signals": [
+        "ISM Manufacturing/Services new orders",
+        "Initial jobless claims trend",
+        "Gasoline prices and consumer spending",
+        "Rates and credit conditions for SMEs"
+      ],
+      "rationale": "Tight credit and cooling demand likely keep small business sentiment subdued within a narrow range.",
+      "id": "c9cc488e-312b-4619-a5c8-6174fc1618e1",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "University of Michigan 5\u201310 year inflation expectations (final) for October 2025 will print between 2.8% and 3.0% in the release due 2025-10-25.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2025-10-25",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "University of Michigan Surveys of Consumers final October 2025 report. The 5\u201310 year median inflation expectations must be >= 2.8% and <= 3.0%.",
+      "evidence": [
+        "https://data.sca.isr.umich.edu/",
+        "https://www.marketwatch.com/story/how-one-of-2025s-most-popular-trades-is-boosting-gold-and-bitcoin-and-may-keep-going-during-the-government-shutdown-a9994256?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Gasoline prices (AAA national average)",
+        "CPI/PCE inflation surprises",
+        "Inflation breakevens (5y5y forward)",
+        "Consumer sentiment headlines"
+      ],
+      "rationale": "Long-run expectations have been anchored; modest energy moves should keep them near 3%.",
+      "id": "98231a53-eaf7-4321-aa03-3813372fb17c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China CPI (headline, YoY) for September 2025 will print between 0.4% and 0.9% in the NBS release by 2025-10-14.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-10-14",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "National Bureau of Statistics of China official CPI release for September 2025. The headline YoY figure must be within [0.4%, 0.9%].",
+      "evidence": [
+        "https://www.stats.gov.cn/",
+        "https://www.cnbc.com/2025/10/06/asia-pacific-markets-monday-nikkei-225-topix-kospi-nifty-50-japan-ldp-sanae-takaichi.html"
+      ],
+      "monitoring_signals": [
+        "China pork prices and food CPI inputs",
+        "PPI deflation, credit TSF momentum",
+        "PMI input/output prices",
+        "CNY exchange rate (USD/CNY)"
+      ],
+      "rationale": "Weak domestic demand with modest food price recovery supports low but positive headline inflation.",
+      "id": "60d3f4e9-6608-4b7d-910d-604896339856",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10Y\u20132Y Treasury yield spread (FRED: DGS10 minus DGS2) will close at or above 0.00 percentage points on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 55,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "FRED daily series: DGS10 and DGS2. A daily close where DGS10 - DGS2 >= 0.00 confirms.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://fred.stlouisfed.org/series/DGS2"
+      ],
+      "monitoring_signals": [
+        "Inflation data and Fed guidance",
+        "Term premium estimates",
+        "Treasury refunding announcements",
+        "Economic surprises (growth vs. inflation)"
+      ],
+      "rationale": "Re-steepening risk rises with term premium rebuilding and late-cycle dynamics; a brief de-inversion is plausible.",
+      "id": "029c08c2-80cf-43a9-b6a6-ae0c36a52394",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-06 close to 2025-11-30 close, Nikkei 225 (^N225) will outperform KOSPI (^KS11) by at least 3.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 55,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Compare percentage change in adjusted close from 2025-10-06 to 2025-11-30 for ^N225 and ^KS11 on Yahoo Finance. Outperformance >= 3.0 pp qualifies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/06/asia-pacific-markets-monday-nikkei-225-topix-kospi-nifty-50-japan-ldp-sanae-takaichi.html"
+      ],
+      "monitoring_signals": [
+        "USD/JPY levels and BoJ policy stance",
+        "Semiconductor cycle (SOX index) and Korea export data",
+        "Global risk appetite and VIX",
+        "China demand indicators impacting Korea"
+      ],
+      "rationale": "Pro-stimulus policy and weak yen aid Japan equities; Korea remains more China/semis sensitive.",
+      "id": "0dd26174-401a-4147-a56f-58fc7e53dea4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. field production of crude oil (monthly, EIA Petroleum Supply Monthly) for September 2025 will be at or above 13.5 million barrels per day in the report published by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 55,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "EIA Petroleum Supply Monthly Table 1.1. The September 2025 U.S. crude oil field production must be >= 13.5 mb/d.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/monthly/",
+        "https://www.cnbc.com/2025/10/05/openai-stargate-data-center-buildout-infrastructure-lead-keith-heyde.html"
+      ],
+      "monitoring_signals": [
+        "Baker Hughes oil rig count",
+        "Permian pipeline capacity and utilization",
+        "DUC inventory trends",
+        "WTI prices and producer guidance"
+      ],
+      "rationale": "Productivity gains and Permian growth keep U.S. crude output pressing record highs into early autumn.",
+      "id": "196ba88c-4161-4fb2-a737-204a50067c79",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. AAA national average price for regular gasoline will print at or below $3.30 per gallon on at least one day by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 40,
+      "deadline": "2025-11-15",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "AAA Gas Prices national average for regular gasoline. Any daily reading <= $3.30 by the deadline qualifies.",
+      "evidence": [
+        "https://gasprices.aaa.com/"
+      ],
+      "monitoring_signals": [
+        "RBOB futures and crack spreads",
+        "Refinery utilization/outages (EIA)",
+        "Seasonal demand decline post-summer",
+        "Crude feedstock prices (WTI/Brent)"
+      ],
+      "rationale": "Seasonal demand fade and improving supply should ease pump prices into mid-November.",
+      "id": "7b9f5bcc-4c4c-4d66-bfe9-83f2941d2709",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The ICE BofA MOVE Index (FRED: MOVE) will close at or below 90.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 55,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "FRED series MOVE daily close. Any day with MOVE <= 90.0 by the deadline satisfies.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/MOVE"
+      ],
+      "monitoring_signals": [
+        "Inflation and employment data surprises",
+        "Treasury auction outcomes and refunding plans",
+        "Fed communication and policy path clarity",
+        "Term premium proxies and cross-asset volatility (VIX)"
+      ],
+      "rationale": "Event risk passes and clearer Fed guidance can compress rates volatility intermittently into late fall.",
+      "id": "6136bdca-b769-42e7-b58e-31cb70393714",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

@@ -20,7 +20,7 @@
       ],
       "rationale": "Energy softness and easing core goods offset sticky shelter; nowcasts cluster around low-0.2%.",
       "id": "cd3a8162-ba27-4dde-93e2-33615322fba3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Shelter deceleration and tame core goods keep core MoM near 0.2\u20130.3%.",
       "id": "895ded0e-df96-453a-a866-ba0768cc24b3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Cooling labor demand and rising duration of unemployment lift continuing claims.",
       "id": "b574da78-e6e3-4ae1-8272-ae0693b5920e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Benign macro surprises and strong liquidity can compress implied vol episodically.",
       "id": "45cb1117-6fb2-41e9-a1c2-464881988f9e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Upside inflation risks and supply dynamics can push term yields to 4.6%+ briefly.",
       "id": "6e1f648c-e3eb-4036-8df8-790d635954e4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Central bank demand and geopolitical hedging can lift gold despite higher real yields.",
       "id": "311c3d20-69e6-4042-800b-35a46cdbf589",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Wide rate differentials and cautious BoJ normalization keep upward pressure on USD/JPY.",
       "id": "0d04ee77-f14f-48da-90cf-6192abd80853",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Autumn maintenance season typically depresses utilization into the mid-to-high 80s.",
       "id": "e7e08d1d-b8e4-4077-b44a-7987c3776aa8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "Services growth and stable iPhone cycle offset China softness and FX variability.",
       "id": "97ebd4f4-fe1e-44f4-b890-28234f878b62",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -218,7 +218,7 @@
       ],
       "rationale": "Hyperscaler demand remains robust; supply constraints ease gradually, sustaining elevated run-rate.",
       "id": "5a532705-babf-431a-8f18-e4d403a2fa9d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -240,7 +240,7 @@
       ],
       "rationale": "External demand is stabilizing but not booming; exports likely hover near flat YoY.",
       "id": "a842364c-1aaf-4729-9f55-7a96d0680b44",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -262,7 +262,7 @@
       ],
       "rationale": "Near-term expectations have anchored near ~3.2% amid steady gas prices and cooling core.",
       "id": "34b1126c-2cb2-40cc-a505-3b2857c74b50",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

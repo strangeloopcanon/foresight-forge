@@ -1,0 +1,65 @@
+{
+  "date": "2025-10-05",
+  "assessments": [
+    {
+      "id": "cd3a8162-ba27-4dde-93e2-33615322fba3",
+      "status": "pending",
+      "status_rationale": "September CPI prints on 2025-10-10; no official result in today\u2019s news."
+    },
+    {
+      "id": "895ded0e-df96-453a-a866-ba0768cc24b3",
+      "status": "pending",
+      "status_rationale": "September core CPI due 2025-10-10; no reported figure yet."
+    },
+    {
+      "id": "b574da78-e6e3-4ae1-8272-ae0693b5920e",
+      "status": "pending",
+      "status_rationale": "No DOL continuing claims level reported today; threshold check remains open through 2025-11-15."
+    },
+    {
+      "id": "45cb1117-6fb2-41e9-a1c2-464881988f9e",
+      "status": "pending",
+      "status_rationale": "No evidence of a VIX close \u226412.00; window remains open until 2025-11-30."
+    },
+    {
+      "id": "6e1f648c-e3eb-4036-8df8-790d635954e4",
+      "status": "pending",
+      "status_rationale": "No confirmed DGS10 close \u22654.60% in today\u2019s coverage; deadline 2025-11-30."
+    },
+    {
+      "id": "311c3d20-69e6-4042-800b-35a46cdbf589",
+      "status": "pending",
+      "status_rationale": "Articles note strength in gold but provide no COMEX settle \u2265$2,700; still unresolved."
+    },
+    {
+      "id": "0d04ee77-f14f-48da-90cf-6192abd80853",
+      "status": "pending",
+      "status_rationale": "Japan equities news implies a weaker yen bias, but no USD/JPY \u2265163.00 print is cited."
+    },
+    {
+      "id": "e7e08d1d-b8e4-4077-b44a-7987c3776aa8",
+      "status": "pending",
+      "status_rationale": "No EIA weekly utilization figure reported; target \u226487.0% remains to be observed by 2025-10-31."
+    },
+    {
+      "id": "97ebd4f4-fe1e-44f4-b890-28234f878b62",
+      "status": "pending",
+      "status_rationale": "Apple fiscal Q4 2025 results not yet released; due by 2025-11-10."
+    },
+    {
+      "id": "5a532705-babf-431a-8f18-e4d403a2fa9d",
+      "status": "pending",
+      "status_rationale": "NVIDIA Q3 FY2026 segment details await the earnings release/10-Q by 2025-11-30."
+    },
+    {
+      "id": "a842364c-1aaf-4729-9f55-7a96d0680b44",
+      "status": "pending",
+      "status_rationale": "China September export data is due by 2025-10-13; no print in today\u2019s news."
+    },
+    {
+      "id": "34b1126c-2cb2-40cc-a505-3b2857c74b50",
+      "status": "pending",
+      "status_rationale": "UMich October final 1-year inflation expectations release is scheduled for 2025-10-25."
+    }
+  ]
+}

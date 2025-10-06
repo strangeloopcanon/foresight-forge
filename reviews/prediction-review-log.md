@@ -710,3 +710,12 @@ While some stories could have indirect implications for market volatility, energ
 
 ---
 
+
+## 2025-10-05
+
+Today’s news flow is dominated by U.S. political developments, a pronounced crypto rally, and Japanese equity strength following a pro-stimulus leadership outcome. None of the items provide official prints or market closes that would resolve the economic data or asset-threshold forecasts on the board.
+
+Near-term catalysts to watch include the U.S. CPI release on 2025-10-10 and China’s September trade data by 2025-10-13, as well as weekly EIA and unemployment claims updates. The bid in gold and risk hedges, alongside political uncertainty and shutdown chatter, could influence the VIX, yields, and gold thresholds, while Japan’s policy backdrop may pressure the yen toward the USD/JPY target—yet no definitive triggers were recorded today.
+
+---
+
