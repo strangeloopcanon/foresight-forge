@@ -1,0 +1,65 @@
+{
+  "date": "2025-10-06",
+  "assessments": [
+    {
+      "id": "f3abdffc-1807-4b9e-ae54-e05bd068744f",
+      "status": "pending",
+      "status_rationale": "No evidence in today's news that Bitcoin closed at or above $130,000; deadline (2025-10-31) has not arrived."
+    },
+    {
+      "id": "474bfb3b-5fdd-4e5d-b0eb-3b8e09e642b7",
+      "status": "pending",
+      "status_rationale": "No report of COMEX Gold settling at or above $2,800; the window remains open until 2025-11-30."
+    },
+    {
+      "id": "a4d2be4a-ecf5-43d4-a93c-1c8da37e7cbe",
+      "status": "pending",
+      "status_rationale": "No settlement data for ICE Brent at or above $94 cited; the 2025-10-31 deadline is still ahead."
+    },
+    {
+      "id": "67d5ee68-f135-47f7-8e46-fdf9b1cec7e6",
+      "status": "pending",
+      "status_rationale": "No mention of USD/JPY trading at or above 165.00; deadline is 2025-11-30."
+    },
+    {
+      "id": "c9cc488e-312b-4619-a5c8-6174fc1618e1",
+      "status": "pending",
+      "status_rationale": "NFIB Small Business Optimism release is due 2025-10-08; no results reported yet."
+    },
+    {
+      "id": "98231a53-eaf7-4321-aa03-3813372fb17c",
+      "status": "pending",
+      "status_rationale": "University of Michigan 5\u201310 year inflation expectations (final) for October are due 2025-10-25; no data yet."
+    },
+    {
+      "id": "60d3f4e9-6608-4b7d-910d-604896339856",
+      "status": "pending",
+      "status_rationale": "China September CPI is expected by 2025-10-14; today's news provides no print."
+    },
+    {
+      "id": "029c08c2-80cf-43a9-b6a6-ae0c36a52394",
+      "status": "pending",
+      "status_rationale": "No update on the U.S. 10Y\u20132Y Treasury yield spread crossing 0.00; window remains open to 2025-11-30."
+    },
+    {
+      "id": "0dd26174-401a-4147-a56f-58fc7e53dea4",
+      "status": "pending",
+      "status_rationale": "Performance window runs through 2025-11-30; while Nikkei hit a record high, relative performance vs. KOSPI is not yet determinative."
+    },
+    {
+      "id": "196ba88c-4161-4fb2-a737-204a50067c79",
+      "status": "pending",
+      "status_rationale": "EIA monthly field production for Sep 2025 not reported in today's news; deadline is 2025-11-30."
+    },
+    {
+      "id": "7b9f5bcc-4c4c-4d66-bfe9-83f2941d2709",
+      "status": "pending",
+      "status_rationale": "No report of AAA national average gasoline at or below $3.30; the window remains open until 2025-11-15."
+    },
+    {
+      "id": "6136bdca-b769-42e7-b58e-31cb70393714",
+      "status": "pending",
+      "status_rationale": "No mention of the MOVE Index closing at or below 90.0; deadline is 2025-11-30."
+    }
+  ]
+}

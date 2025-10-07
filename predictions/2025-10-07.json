@@ -1,0 +1,266 @@
+{
+  "date": "2025-10-07",
+  "predictions": [
+    {
+      "text": "U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 4.10% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 54,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Verification via FRED series DGS2 daily close. Success if any observation on or before 2025-11-30 shows DGS2 \u2264 4.10%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.cnbc.com/2025/10/06/theres-one-date-if-the-shutdown-drags-on-where-pressure-will-really-start-to-mount-on-trump-and-congress.html"
+      ],
+      "monitoring_signals": [
+        "FOMC communications and Nov decision tone",
+        "U.S. CPI/PPI/PCE prints",
+        "Labor market (NFP, claims)",
+        "Treasury refunding/auction demand",
+        "Risk sentiment (VIX, MOVE)"
+      ],
+      "rationale": "Shutdown risks and an expected Fed hold modestly raise odds of front-end yield dips.",
+      "id": "240d3877-3055-4647-9e83-f305e0c871be",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE BofA U.S. High Yield OAS (FRED: BAMLH0A0HYM2) will close at or above 4.00% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 54,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Verification via FRED series BAMLH0A0HYM2 daily close. Success if any observation on or before 2025-11-30 shows \u2265 4.00%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+        "https://www.cnbc.com/2025/10/06/fifth-third-bancorp-to-buy-comerica-for-10point9-billion-in-all-stock-deal.html",
+        "https://www.cnbc.com/2025/10/06/theres-one-date-if-the-shutdown-drags-on-where-pressure-will-really-start-to-mount-on-trump-and-congress.html"
+      ],
+      "monitoring_signals": [
+        "HYG/LQD ETF price action and flows",
+        "Default/Distress headlines",
+        "VIX and MOVE indices",
+        "Macro surprises (ISM, payrolls)",
+        "Oil price swings"
+      ],
+      "rationale": "Tight spreads face pressure from policy uncertainty and late-cycle risks.",
+      "id": "1f7efc0f-66e4-44a5-9b82-a754b1d293bd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Henry Hub Natural Gas front-month futures (NYMEX: NG) will settle at or above $3.40 per MMBtu on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 54,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Use official CME/NYMEX settlement for the front-month NG contract. Success if any daily settlement \u2265 $3.40 by 2025-11-30.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/natural-gas/natural-gas/hub-natural-gas.html",
+        "https://www.eia.gov/naturalgas/storage/",
+        "https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php"
+      ],
+      "monitoring_signals": [
+        "EIA weekly storage levels vs 5-year average",
+        "NOAA/CPC temperature outlooks",
+        "LNG export volumes and outages",
+        "Production/pipe maintenance updates"
+      ],
+      "rationale": "Seasonal heating demand and LNG pulls support a test of mid-$3s.",
+      "id": "08b56260-68bf-426a-bfaa-aad26a242cf4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Ethereum (ETH-USD) will close at or above $4,000 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 54,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Use Yahoo Finance ETH-USD end-of-day close (UTC). Success if any daily close \u2265 $4,000 by the deadline.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/ETH-USD/"
+      ],
+      "monitoring_signals": [
+        "BTC price and dominance",
+        "Spot ETF/regs news for ETH",
+        "L2 activity, gas fees, staking flows",
+        "Macro liquidity/risk appetite (DXY, real yields)"
+      ],
+      "rationale": "Crypto beta remains sensitive to liquidity and BTC momentum; a breakout is plausible.",
+      "id": "4d28fec6-8820-4342-a741-3f6d4bcb3c8d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. Core PCE price index (MoM, SA) for September 2025 will print between 0.20% and 0.30% in the BEA release on 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 24,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify using BEA Personal Income and Outlays release. Success if Core PCE MoM (SA) is within 0.20%\u20130.30%.",
+      "evidence": [
+        "https://www.bea.gov/news"
+      ],
+      "monitoring_signals": [
+        "CPI/PPI components mapping to PCE",
+        "Retail sales control group",
+        "Healthcare and housing PCE subcomponents",
+        "Revisions in prior PCE prints"
+      ],
+      "rationale": "Gradual disinflation with sticky services suggests a 0.2\u20130.3% MoM outcome.",
+      "id": "83fc429e-25f4-4ba6-8111-a9059c0b1e36",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area HICP (headline, YoY, flash) for October 2025 will print between 2.2% and 2.7% in Eurostat\u2019s release due by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 24,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify via Eurostat flash HICP press release. Success if headline YoY flash is within 2.2%\u20132.7%.",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/web/main/news"
+      ],
+      "monitoring_signals": [
+        "Energy base effects and spot prices",
+        "Country CPI flashes (DE, FR, ES, IT)",
+        "EURUSD and import prices",
+        "PMI price indices"
+      ],
+      "rationale": "Energy disinflation and cooling core keep headline near mid-2s.",
+      "id": "cc020ec3-4ba1-4e98-8ea9-f8da85377f25",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA-reported U.S. commercial crude oil inventories (ex-SPR) will increase by at least +6.0 million barrels in a single week in at least one Weekly Petroleum Status Report published by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 24,
+      "deadline": "2025-10-31",
+      "confidence_pct": 53,
+      "verification_criteria": "Use EIA Weekly Petroleum Status Report, the \u2018Change from previous week\u2019 for commercial crude (excluding SPR). Success if any weekly change \u2265 +6.0 mb by deadline.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "Refinery utilization/maintenance outages",
+        "Net imports and SPR flows",
+        "Production and pipeline receipts",
+        "Gulf Coast refinery turnaround timing"
+      ],
+      "rationale": "Autumn refinery maintenance often yields sizeable crude builds.",
+      "id": "caa4b689-4f16-4b93-a4b1-80c00def370e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, Google will announce a reduction of the standard U.S. Google Play in-app purchase service fee to 20% or lower.",
+      "category": "tech",
+      "horizon_days": 54,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Success if an official Google policy post or blog updates the standard Play fee schedule, showing \u226420% for U.S. in-app purchases, published by the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/06/us/politics/supreme-court-google-fortnite.html",
+        "https://support.google.com/googleplay/android-developer/answer/112622"
+      ],
+      "monitoring_signals": [
+        "Court orders/settlement terms in Play antitrust cases",
+        "Google policy blog updates",
+        "Developer program policy revisions",
+        "Competitive moves by Apple/Epic"
+      ],
+      "rationale": "Legal pressure to open distribution increases odds of fee cuts.",
+      "id": "704e1ec0-3f9c-41ff-8ffe-92900387f9d3",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The ChatGPT iOS app (U.S.) will rank in the Top 5 of the App Store Top Free Apps on at least 7 distinct days between 2025-10-07 and 2025-10-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 24,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify via reputable app-rank trackers (e.g., data.ai, AppMagic, Appfigures) showing daily U.S. iOS Top Free ranks. Success if Top 5 rank occurs on \u22657 distinct days in window.",
+      "evidence": [
+        "https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/"
+      ],
+      "monitoring_signals": [
+        "App Store rank trackers (daily)",
+        "OpenAI marketing/product updates",
+        "Press coverage and social media traction",
+        "Competing app launches"
+      ],
+      "rationale": "New apps/AgentKit and massive user base should sustain high ranks.",
+      "id": "ba96ca0c-76e2-45ba-8d66-7353c9dab598",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-10-31, mediators will announce a jointly endorsed ceasefire framework between Israel and Hamas emerging from Cairo talks, acknowledged by both parties and Egypt.",
+      "category": "geopolitics",
+      "horizon_days": 24,
+      "deadline": "2025-10-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Success if Egypt and both Israel and Hamas publicly acknowledge a ceasefire framework document or joint parameters via official statements or widely reported by major outlets (AP/Reuters/NYT).",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/06/world/middleeast/israel-gaza-hamas-peace-talks.html"
+      ],
+      "monitoring_signals": [
+        "Official statements from Egyptian mediators",
+        "Ceasefire terms leaks via Reuters/AP",
+        "Hostage/prisoner exchange progress",
+        "Regional escalation indicators"
+      ],
+      "rationale": "Renewed Cairo talks raise odds of a framework announcement, albeit fragile.",
+      "id": "f5d2307f-3ae7-429c-aea8-8f420ee43120",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Freddie Mac PMMS 30-year fixed-rate mortgage will print at or below 6.40% in at least one weekly release by 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 54,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Verify via Freddie Mac PMMS weekly mortgage survey. Success if any published 30-year fixed average \u2264 6.40% by the deadline.",
+      "evidence": [
+        "https://www.freddiemac.com/pmms"
+      ],
+      "monitoring_signals": [
+        "10Y Treasury yield and MBS spreads",
+        "Fed guidance and rate-path pricing",
+        "Mortgage application volume (MBA)",
+        "Inflation and labor data surprises"
+      ],
+      "rationale": "If yields ease on softer data and policy hold, mortgage rates can tick lower.",
+      "id": "be531fb7-247a-4e85-8d7f-98e9c9b87bbe",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Shanghai\u2013New York weekly spot rate published on or before 2025-11-30 will be at least 25% higher than its 2025-09-05 reading.",
+      "category": "markets",
+      "horizon_days": 54,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Use Drewry WCI weekly published rates for Shanghai\u2013New York. Success if any weekly print by 2025-11-30 \u2265 1.25\u00d7 the 2025-09-05 rate.",
+      "evidence": [
+        "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index"
+      ],
+      "monitoring_signals": [
+        "Port congestion and blank sailings",
+        "Red Sea/Panama Canal disruptions",
+        "U.S. holiday import demand",
+        "Carrier GRIs and capacity deployment"
+      ],
+      "supersedes_id": "12ff43d0-a2f4-46d4-a647-be9c9739bbb7",
+      "rationale": "Peak-season demand and ongoing disruptions should sustain higher Transpac rates.",
+      "id": "5fd051ab-8dfe-4606-a796-e8f4ec0f3fa6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

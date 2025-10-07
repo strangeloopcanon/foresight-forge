@@ -719,3 +719,12 @@ Near-term catalysts to watch include the U.S. CPI release on 2025-10-10 and Chin
 
 ---
 
+
+## 2025-10-06
+
+Most headlines center on U.S. political developments around the shutdown, domestic security moves, and judiciary actions, alongside tech-market news driven by AI partnerships and chipmaker rallies. These items influence broad risk sentiment but do not provide direct, verifiable outcomes for the specific thresholds in the forecasts (commodities, FX levels, macro prints, and rate-volatility indices).
+
+Market-wise, a risk-on tone is evident in equities (AMD-led rally; Nikkei at record highs), which could have indirect implications for USD/JPY and rate volatility, but there is no concrete evidence today of thresholds being hit. Key near-term catalysts to watch are the NFIB print due 2025-10-08, China CPI by 2025-10-14, and ongoing moves in oil and the yield curve; until then, all listed forecasts remain unresolved.
+
+---
+

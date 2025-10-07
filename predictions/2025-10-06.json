@@ -23,7 +23,7 @@
       ],
       "rationale": "Momentum, macro hedge demand, and supportive liquidity favor a new marginal high above 130k within October.",
       "id": "f3abdffc-1807-4b9e-ae54-e05bd068744f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -47,7 +47,7 @@
       ],
       "rationale": "Carry-like macro hedges and softer real yields provide a path to incremental highs in gold.",
       "id": "474bfb3b-5fdd-4e5d-b0eb-3b8e09e642b7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -71,7 +71,7 @@
       ],
       "rationale": "Tight physical balances, seasonal runs, and geopolitical risk can lift Brent to mid-90s near term.",
       "id": "a4d2be4a-ecf5-43d4-a93c-1c8da37e7cbe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "rationale": "Pro-stimulus LDP leadership and wide rate differentials support incremental yen weakness to 165.",
       "id": "67d5ee68-f135-47f7-8e46-fdf9b1cec7e6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -117,7 +117,7 @@
       ],
       "rationale": "Tight credit and cooling demand likely keep small business sentiment subdued within a narrow range.",
       "id": "c9cc488e-312b-4619-a5c8-6174fc1618e1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "Long-run expectations have been anchored; modest energy moves should keep them near 3%.",
       "id": "98231a53-eaf7-4321-aa03-3813372fb17c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -163,7 +163,7 @@
       ],
       "rationale": "Weak domestic demand with modest food price recovery supports low but positive headline inflation.",
       "id": "60d3f4e9-6608-4b7d-910d-604896339856",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -186,7 +186,7 @@
       ],
       "rationale": "Re-steepening risk rises with term premium rebuilding and late-cycle dynamics; a brief de-inversion is plausible.",
       "id": "029c08c2-80cf-43a9-b6a6-ae0c36a52394",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Pro-stimulus policy and weak yen aid Japan equities; Korea remains more China/semis sensitive.",
       "id": "0dd26174-401a-4147-a56f-58fc7e53dea4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -231,7 +231,7 @@
       ],
       "rationale": "Productivity gains and Permian growth keep U.S. crude output pressing record highs into early autumn.",
       "id": "196ba88c-4161-4fb2-a737-204a50067c79",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -253,7 +253,7 @@
       ],
       "rationale": "Seasonal demand fade and improving supply should ease pump prices into mid-November.",
       "id": "7b9f5bcc-4c4c-4d66-bfe9-83f2941d2709",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -275,7 +275,7 @@
       ],
       "rationale": "Event risk passes and clearer Fed guidance can compress rates volatility intermittently into late fall.",
       "id": "6136bdca-b769-42e7-b58e-31cb70393714",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
