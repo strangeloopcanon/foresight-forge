@@ -21,7 +21,7 @@
       ],
       "rationale": "Shutdown risks and an expected Fed hold modestly raise odds of front-end yield dips.",
       "id": "240d3877-3055-4647-9e83-f305e0c871be",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Tight spreads face pressure from policy uncertainty and late-cycle risks.",
       "id": "1f7efc0f-66e4-44a5-9b82-a754b1d293bd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -68,7 +68,7 @@
       ],
       "rationale": "Seasonal heating demand and LNG pulls support a test of mid-$3s.",
       "id": "08b56260-68bf-426a-bfaa-aad26a242cf4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Crypto beta remains sensitive to liquidity and BTC momentum; a breakout is plausible.",
       "id": "4d28fec6-8820-4342-a741-3f6d4bcb3c8d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "Gradual disinflation with sticky services suggests a 0.2\u20130.3% MoM outcome.",
       "id": "83fc429e-25f4-4ba6-8111-a9059c0b1e36",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -131,7 +131,7 @@
       ],
       "rationale": "Energy disinflation and cooling core keep headline near mid-2s.",
       "id": "cc020ec3-4ba1-4e98-8ea9-f8da85377f25",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Autumn refinery maintenance often yields sizeable crude builds.",
       "id": "caa4b689-4f16-4b93-a4b1-80c00def370e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Legal pressure to open distribution increases odds of fee cuts.",
       "id": "704e1ec0-3f9c-41ff-8ffe-92900387f9d3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -195,7 +195,7 @@
       ],
       "rationale": "New apps/AgentKit and massive user base should sustain high ranks.",
       "id": "ba96ca0c-76e2-45ba-8d66-7353c9dab598",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -216,7 +216,7 @@
       ],
       "rationale": "Renewed Cairo talks raise odds of a framework announcement, albeit fragile.",
       "id": "f5d2307f-3ae7-429c-aea8-8f420ee43120",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -237,7 +237,7 @@
       ],
       "rationale": "If yields ease on softer data and policy hold, mortgage rates can tick lower.",
       "id": "be531fb7-247a-4e85-8d7f-98e9c9b87bbe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -259,7 +259,7 @@
       "supersedes_id": "12ff43d0-a2f4-46d4-a647-be9c9739bbb7",
       "rationale": "Peak-season demand and ongoing disruptions should sustain higher Transpac rates.",
       "id": "5fd051ab-8dfe-4606-a796-e8f4ec0f3fa6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
