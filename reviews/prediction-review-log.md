@@ -737,3 +737,12 @@ Several forecasts hinge on late-October data releases (Euro area HICP flash, U.S
 
 ---
 
+
+## 2025-10-08
+
+Today’s news provides macro context but no dispositive datapoints for the tracked forecasts. Fed minutes signaling divided views on cuts and ongoing inflation concern, paired with the government shutdown and IRS furloughs, suggest a backdrop that could elevate rate- and risk-volatility (supportive for VIX/MOVE) without confirming any threshold breaches. The CPI print arrives tomorrow, so the inflation call remains fully open.
+
+Geopolitical headlines around U.S.–Venezuela tensions and Qatar’s diplomacy raise two-sided risks for oil: heightened tensions could buoy crude, while credible diplomacy could temper prices; neither confirms a Brent ≤$80 settle. In markets, AI-chip news (AMD/OpenAI, Nvidia commentary) shifts competitive narratives but does not resolve Microsoft or Nvidia earnings targets. FX and gold levels are not specified in today’s coverage, so those calls also remain pending.
+
+---
+

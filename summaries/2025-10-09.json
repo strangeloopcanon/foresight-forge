@@ -1,0 +1,116 @@
+{
+  "bullets": [
+    {
+      "text": "Fed minutes show officials divided but penciling in two 2025 cuts; inflation progress uncertain, keeping policy data-dependent.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251008a.htm"
+    },
+    {
+      "text": "U.S. shutdown deepens: Senate blocks funding, IRS furloughs ~50% staff, FAA shortages worsen delays; risks to Fed credibility and commercial real estate mount.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/08/government-shutdown-senate-vote.html"
+    },
+    {
+      "text": "GOP blocks effort to curb Trump\u2019s Caribbean operations against Venezuela as Qatar pushes diplomacy, heightening regional escalation and policy uncertainty.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/08/us/politics/trump-republicans-war-powers-caribbean-venezuela.html"
+    },
+    {
+      "text": "SEC approves Texas Stock Exchange, first new integrated U.S. exchange in decades, potentially challenging NYSE/Nasdaq for listings and liquidity.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/"
+    },
+    {
+      "text": "AMD surges on OpenAI deal, emerging as credible Nvidia challenger in AI chips; investors debate circular financing and bubble risks.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/08/amd-stock-rally-openai-deal.html"
+    },
+    {
+      "text": "SoftBank to buy ABB\u2019s robotics unit for $5.4B; stock jumps, signaling aggressive bet on automation and AI-driven manufacturing.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/09/asia-pacific-markets-thursday-october-9-nikkei-225-asx-ai-buble-tech.html"
+    },
+    {
+      "text": "Verizon- AST SpaceMobile deal advances satellite-to-cell service, intensifying competition with SpaceX/T-Mobile; AST shares rally on commercialization signal.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/08/verizon-signs-deal-with-ast-spacemobile-to-provide-cellular-service-from-space.html"
+    },
+    {
+      "text": "Bank of England warns AI bubble burst could trigger sharp market correction, highlighting systemic risk from concentrated tech valuations.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/08/bank-of-england-warns-of-sharp-market-correction-if-ai-bubble-bursts.html"
+    },
+    {
+      "text": "EU steel tariffs spark auto stock selloff and industry alarm, underscoring trade tensions\u2019 ripple effects across Europe\u2019s manufacturing base.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/08/auto-giants-tumble-as-eus-new-steel-tariffs-spark-industry-panic.html"
+    },
+    {
+      "text": "Record Amazon fires released country-scale carbon emissions, worsening climate feedbacks and raising urgency for deforestation control.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251008030932.htm"
+    },
+    {
+      "text": "Nobel Chemistry honors molecular \u2018containers\u2019 enabling selective capture and reactions, advancing catalysis, drug delivery, and porous materials design.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nobelprize.org/prizes/chemistry/2025/popular-information/"
+    },
+    {
+      "text": "California bans certain ultraprocessed foods in schools, signaling regulatory shift that could reshape school nutrition contracts and packaged-food demand.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/10/08/well/eat/gavin-newsom-ultraprocessed-food-ban-california.html"
+    },
+    {
+      "text": "Inflation angst persists even as Treasury yields barely react to Fed minutes, reflecting cautious risk appetite.",
+      "tags": [
+        "markets",
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb"
+    },
+    {
+      "text": "H-1B policy tightening raises talent risks for U.S. AI firms; Nvidia\u2019s CEO warns changes could have blocked his own immigration.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/08/jensen-huang-h1b-immigration-trump.html"
+    }
+  ]
+}

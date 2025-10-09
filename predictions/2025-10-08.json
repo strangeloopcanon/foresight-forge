@@ -22,7 +22,7 @@
       ],
       "rationale": "After a parabolic spike to $4,000, mean reversion risk is high if real yields or USD firm, or if haven demand cools.",
       "id": "8f504422-c752-4ba8-b849-9a12a8671ead",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Rising inflation fears, policy/fiscal uncertainty, and weaker growth signals increase tail-risk hedging demand.",
       "id": "0e69e179-a2ef-48e1-8094-9597422602d7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -69,7 +69,7 @@
       ],
       "rationale": "High intervention risk and softer U.S. data could catalyze a sharp yen rebound toward 150.",
       "id": "53c277ab-dfaa-4a43-ae1a-020eecccebd3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -92,7 +92,7 @@
       ],
       "rationale": "Energy/food base effects and easing core goods suggest contained YoY, while shelter keeps it near low-3s.",
       "id": "a3d842ad-7a83-4c77-87a1-35d4a5294821",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -115,7 +115,7 @@
       ],
       "rationale": "Policy and growth uncertainty plus supply dynamics can reprice rate volatility higher from subdued levels.",
       "id": "f5f7f85b-b957-4e19-8c1c-e2def7e7fe27",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "Escalating DPRK crypto theft increases likelihood of additional U.S. sanctions actions before year-end.",
       "id": "96e221bb-b6d9-4c1d-80da-da8bbb54cb2e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "AI workload momentum supports Intelligent Cloud, but macro softness tempers upside.",
       "id": "77785e42-d830-41d3-bc0e-8513f41ce388",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "rationale": "Tight supply and premium datacenter mix sustain very high margins despite some pricing normalization.",
       "id": "a3a88266-19de-429a-a878-04185532124a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -202,7 +202,7 @@
       ],
       "rationale": "A softer dollar and improved Asian growth backdrop can lift EM equities relative to U.S. large-cap tech-heavy indices.",
       "id": "f8351767-f67b-4137-a83e-679e70249a9d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -223,7 +223,7 @@
       ],
       "rationale": "Freight softness and weak goods demand raise downside risk to crude despite intermittent geopolitical risk premia.",
       "id": "eed7af8c-b68a-4a5f-8389-a6be109c628c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

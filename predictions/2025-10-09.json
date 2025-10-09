@@ -1,0 +1,288 @@
+{
+  "date": "2025-10-09",
+  "predictions": [
+    {
+      "text": "From 2025-10-09 close to 2025-11-30 close, Invesco QQQ (QQQ) will underperform SPDR Dow Jones Industrial Average ETF (DIA) by at least 3.0 percentage points based on percentage change in adjusted close prices.",
+      "category": "markets",
+      "horizon_days": 52,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Compute percentage change from 2025-10-09 adjusted close to 2025-11-30 adjusted close for QQQ and DIA (Yahoo Finance). Outcome is true if (QQQ_pct - DIA_pct) <= -3.0 percentage points.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/08/bank-of-england-warns-of-sharp-market-correction-if-ai-bubble-bursts.html",
+        "https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251008a.htm",
+        "https://www.cnbc.com/2025/10/08/amd-stock-rally-openai-deal.html"
+      ],
+      "monitoring_signals": [
+        "10Y and real-yield moves; front-end repricing",
+        "Mega-cap tech earnings/guidance revisions",
+        "Market breadth and factor rotation toward value/industrials",
+        "Negative AI sentiment shifts or regulatory headlines"
+      ],
+      "rationale": "AI-heavy QQQ is rate-sensitive; BoE bubble risk and firm real yields favor value and cyclicals in DIA.",
+      "id": "0ca2a922-3ce5-48f2-80ee-53afdbd99050",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury Inflation-Indexed Security yield (FRED: DFII10) will close at or above 2.10% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 52,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Confirm DFII10 daily close on FRED reaches or exceeds 2.10% on any date up to and including 2025-11-30 (UTC).",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251008a.htm",
+        "https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb"
+      ],
+      "monitoring_signals": [
+        "US CPI/PCE prints and revisions",
+        "Treasury auction tails/coverage (esp. TIPS)",
+        "Breakeven inflation moves vs nominals",
+        "Fed communication on term premium and balance sheet"
+      ],
+      "rationale": "Sticky inflation risk and heavy supply keep term premia elevated, pushing real yields to test cycle highs.",
+      "id": "9c1a96e1-ddfe-459b-8aba-e97f7fff9aa2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted U.S. initial jobless claims will print at or above 235,000 in at least one weekly Department of Labor Unemployment Insurance report published by 2025-11-15.",
+      "category": "macro",
+      "horizon_days": 37,
+      "deadline": "2025-11-15",
+      "confidence_pct": 54,
+      "verification_criteria": "Check any weekly DOL Unemployment Insurance news release up to 2025-11-15; if initial claims (SA) >= 235,000, this resolves true.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/08/government-shutdown-senate-vote.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251008a.htm"
+      ],
+      "monitoring_signals": [
+        "Company layoff announcements and WARN notices",
+        "Challenger job cuts report",
+        "ISM employment sub-indices",
+        "Continuing claims trend and revisions"
+      ],
+      "rationale": "Labor market cooling and shutdown-related disruptions raise the odds of a transient claims uptick.",
+      "id": "23db76fc-a763-4289-8950-3f989017be8e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Henry Hub Natural Gas front-month futures (NYMEX: NG) will settle at or below $2.60 per MMBtu on at least one trading day by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 37,
+      "deadline": "2025-11-15",
+      "confidence_pct": 52,
+      "verification_criteria": "Verify front-month NG settlement price on CME/NYMEX at or below $2.60 on any session through 2025-11-15.",
+      "evidence": [
+        "https://www.eia.gov/naturalgas/storage/",
+        "https://www.cpc.ncep.noaa.gov"
+      ],
+      "monitoring_signals": [
+        "EIA storage surplus vs 5-year average",
+        "NOAA temperature outlooks and HDD forecasts",
+        "LNG export facility outages/maintenance",
+        "Production trends in Haynesville/Appalachia"
+      ],
+      "rationale": "High storage and shoulder-season demand risk a brief overshoot lower, especially with mild weather.",
+      "id": "1a9cbfaa-df22-4d31-8785-41f525cb8793",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Dollar Index (ICE: DXY) will close at or above 108.00 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 52,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Confirm the DXY closing level (ICE or Yahoo Finance: DX-Y.NYB) reaches or exceeds 108.00 on any UTC day by deadline.",
+      "evidence": [
+        "https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251008a.htm"
+      ],
+      "monitoring_signals": [
+        "Relative rate differentials (Fed vs ECB/BoJ)",
+        "Risk-off flows and equity volatility",
+        "US macro surprises vs G10 peers",
+        "BoJ policy signals and MoF FX commentary"
+      ],
+      "rationale": "Firm U.S. data and elevated real yields support the dollar; risk-off can amplify upside.",
+      "id": "d88df4cf-729c-4b2b-bda4-ff1c863f303e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Microsoft (MSFT) will report Azure (including Azure AI) constant-currency revenue growth between 23% and 28% YoY for Q1 FY2026 in its earnings release by 2025-10-31.",
+      "category": "tech",
+      "horizon_days": 22,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Read MSFT\u2019s Q1 FY2026 earnings materials (press release/presentation/transcript). Use the stated Azure cc growth range; resolves true if within 23\u201328%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/08/amd-stock-rally-openai-deal.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251008a.htm"
+      ],
+      "monitoring_signals": [
+        "MSFT and partner commentary on Azure AI adoption",
+        "GPU supply availability (Nvidia/AMD)",
+        "Enterprise demand indicators and IT spend surveys",
+        "FX tailwinds/headwinds affecting cc growth"
+      ],
+      "rationale": "AI services and enterprise cloud demand sustain mid-20s growth, tempered by optimization and FX.",
+      "id": "e61a3232-10c3-4cf8-9e77-0366ad9d959d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, Taiwan\u2019s MOD will report at least one 24-hour period with 60 or more PRC military aircraft detected around Taiwan.",
+      "category": "geopolitics",
+      "horizon_days": 52,
+      "deadline": "2025-11-30",
+      "confidence_pct": 58,
+      "verification_criteria": "Check daily airspace activity updates on Taiwan MOD\u2019s official site or social channels; if any daily report shows \u226560 aircraft within the window, resolve true.",
+      "evidence": [
+        "https://www.mnd.gov.tw/English/"
+      ],
+      "monitoring_signals": [
+        "PLA large-scale exercises or carrier group movements",
+        "USN transits/FONOPs in the Taiwan Strait",
+        "Cross-strait political tensions or election timelines",
+        "PRC diplomatic/military signaling"
+      ],
+      "rationale": "Periodic surge incursions have occurred; rising regional tensions make another large sortie likely.",
+      "id": "38679a30-3103-462f-8caa-fecb843440c9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The 2025 Nobel Peace Prize laureate(s) announced on 2025-10-10 will include at least one whose primary work concerns climate change mitigation, adaptation, or environmental protection.",
+      "category": "other",
+      "horizon_days": 1,
+      "deadline": "2025-10-10",
+      "confidence_pct": 45,
+      "verification_criteria": "Verify Nobel Peace Prize announcement on NobelPrize.org; assess primary work focus of laureate(s) from official biography/press release.",
+      "evidence": [
+        "https://www.nobelprize.org/prizes/peace/",
+        "https://www.sciencedaily.com/releases/2025/10/251008030932.htm"
+      ],
+      "monitoring_signals": [
+        "Expert shortlists and odds",
+        "Recent global focus on climate-related conflicts",
+        "High-profile environmental activism and awards"
+      ],
+      "rationale": "Escalating climate impacts and security linkages increase probability of climate-focused recognition.",
+      "id": "f34ba8e3-7c5f-4d28-a18e-1fbb99882016",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or above 4.80% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 52,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Confirm on FRED that DGS2 daily close reaches or exceeds 4.80% on any trading day through 2025-11-30 (UTC).",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251008a.htm",
+        "https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb"
+      ],
+      "monitoring_signals": [
+        "Front-end OIS path and Fed pricing",
+        "Core inflation and wage data",
+        "Treasury bill/note supply announcements",
+        "Fed communications about cuts timing"
+      ],
+      "rationale": "Delayed rate-cut expectations and firmer data can push the front end toward 4.8% or higher.",
+      "id": "b0db3bb9-5624-46d6-a96c-ee241410f8b2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. motor gasoline product supplied (EIA Weekly Petroleum Status Report) will print at or below 8.4 million barrels per day in at least one weekly report published by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 22,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Check the EIA WPSR table for weekly motor gasoline product supplied; if any week through 2025-10-31 shows \u2264 8.4 mb/d, resolve true.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "Seasonal demand patterns post-summer driving",
+        "Retail gasoline prices and elasticity",
+        "Refinery maintenance/turnarounds affecting supply",
+        "Mobility indicators (e.g., TSA throughput, Apple mobility)"
+      ],
+      "rationale": "Seasonal shoulder and price sensitivity typically lower gasoline demand into late October.",
+      "id": "57e64694-16a5-4fb1-9a2b-b97b3f0010ac",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area core HICP (YoY, flash) for October 2025 will print between 2.4% and 2.8% in Eurostat\u2019s release due by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 22,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Use Eurostat flash HICP release; take core HICP YoY figure. Resolve true if within [2.4%, 2.8%].",
+      "evidence": [
+        "https://ec.europa.eu/eurostat",
+        "https://www.marketwatch.com/story/inflation-angst-lingers-for-investors-even-as-treasury-yields-are-little-moved-by-fed-minutes-36fd4feb"
+      ],
+      "monitoring_signals": [
+        "Germany/Spain/France CPI flashes",
+        "Energy base effects and tax changes",
+        "PMI output prices",
+        "Euro exchange rate pass-through"
+      ],
+      "rationale": "Disinflation continues but services stickiness keeps core near mid-2s.",
+      "id": "9118e4f9-6d45-4f47-83cf-1d2ad14914c6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "AST SpaceMobile (ASTS) will close at or above $12.00 on at least one trading day by 2025-11-15 (UTC).",
+      "category": "tech",
+      "horizon_days": 37,
+      "deadline": "2025-11-15",
+      "confidence_pct": 54,
+      "verification_criteria": "Check ASTS daily close on a major exchange (NYSE/Nasdaq) through 2025-11-15 (UTC). Resolve true if any close \u2265 $12.00.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/08/verizon-signs-deal-with-ast-spacemobile-to-provide-cellular-service-from-space.html"
+      ],
+      "monitoring_signals": [
+        "Regulatory approvals (FCC) and spectrum milestones",
+        "Satellite deployment/launch timelines",
+        "Commercial service pilots and additional carrier deals",
+        "Broader risk sentiment and small-cap liquidity"
+      ],
+      "rationale": "The Verizon deal signals commercialization progress; further milestones could catalyze upside.",
+      "id": "3375fedb-9be7-4faa-8fba-855283f1695c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, at least two U.S.-listed companies will publicly announce intent to pursue a primary or dual listing on the Texas Stock Exchange (TXSE) via press release or SEC filing.",
+      "category": "markets",
+      "horizon_days": 52,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "verification_criteria": "Count company press releases or SEC filings explicitly stating plans for a TXSE primary or dual listing through 2025-11-30; at least two distinct issuers required.",
+      "evidence": [
+        "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/"
+      ],
+      "monitoring_signals": [
+        "TXSE corporate announcements and listing pipeline",
+        "Issuer complaints about NYSE/Nasdaq fees or rules",
+        "State-level incentives or regulatory clarity",
+        "Underwriter and market-maker commitments to TXSE"
+      ],
+      "rationale": "Fresh SEC approval and issuer optionality increase the odds of near-term listing intent announcements.",
+      "id": "7de376d2-bbba-4fb8-86b4-c3998158df7a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
