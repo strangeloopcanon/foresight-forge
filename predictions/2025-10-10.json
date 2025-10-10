@@ -1,0 +1,235 @@
+{
+  "date": "2025-10-10",
+  "predictions": [
+    {
+      "text": "By 2025-11-30, the U.S. Commerce Department (BIS) will add at least three China-based entities to the Entity List citing semiconductor export-control evasion or illicit acquisition of restricted AI chips.",
+      "category": "geopolitics",
+      "horizon_days": 51,
+      "deadline": "2025-11-30",
+      "confidence_pct": 58,
+      "log_odds": 0.323,
+      "verification_criteria": "BIS press releases or Federal Register notices listing new Entity List additions between 2025-10-10 and 2025-11-30. Qualifying entries must be China-based and explicitly cite export-control evasion related to semiconductors or AI chips.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/09/technology/nvidia-chips-china-megaspeed.html",
+        "https://www.bis.doc.gov/index.php/policy-guidance/addition-to-the-entity-list"
+      ],
+      "monitoring_signals": [
+        "BIS and DHS enforcement announcements",
+        "Congressional letters on export-control enforcement",
+        "Reports of Chinese intermediaries acquiring restricted GPUs",
+        "NVIDIA/AMD statements on compliance and channel audits"
+      ],
+      "rationale": "Reports indicate continued AI chip leakage to China. Policy momentum favors new listings.",
+      "id": "f309ea74-e182-4567-9f2a-dfc5273a2968",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/CNH (Yahoo Finance: CNH=X) will trade at or above 7.40 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 51,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Any intraday high at or above 7.4000 on CNH=X (Yahoo Finance) or equivalent reputable FX data source (Bloomberg/Refinitiv) during a UTC trading day between 2025-10-10 and 2025-11-30.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/CNH=X",
+        "https://www.cnbc.com/2025/10/09/former-fed-governor-larry-lindsey-withdraws-name-for-fed-chair.html"
+      ],
+      "monitoring_signals": [
+        "PBOC daily USD/CNY fixing vs. estimates",
+        "China macro prints (CPI, exports, credit, PMI)",
+        "U.S. yields and DXY trends",
+        "Capital outflow controls and FX reserve moves"
+      ],
+      "rationale": "Dollar strength and China growth headwinds increase upside risk for USD/CNH.",
+      "id": "83d768fe-713a-40e5-9f5e-aa2622ccd843",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EUR/USD (Yahoo Finance: EURUSD=X) will trade at or below 1.0300 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 51,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Any intraday low at or below 1.0300 on EURUSD=X (Yahoo Finance) or equivalent reputable FX data source (Bloomberg/Refinitiv) between 2025-10-10 and 2025-11-30 (UTC).",
+      "evidence": [
+        "https://finance.yahoo.com/quote/EURUSD=X",
+        "https://www.federalreserve.gov/newsevents/pressreleases/other20251009a.htm"
+      ],
+      "monitoring_signals": [
+        "Euro area PMIs and inflation surprises",
+        "ECB guidance vs. Fed policy path",
+        "Energy prices and gas supply risks",
+        "DXY momentum and UST yield differentials"
+      ],
+      "rationale": "Rate differentials favor the USD; European growth remains fragile.",
+      "id": "5cadbaec-c589-40e0-85c8-02cd8832b159",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures (CL) will settle at or above $92.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 51,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "CME/NYMEX official front-month CL settlement price at or above $92.00 on any trading day from 2025-10-10 to 2025-11-30.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/weekly/",
+        "https://www.cnbc.com/2025/10/09/israel-hamas-agree-to-first-phase-of-gaza-peace-plan-allowing-release-of-hostages-.html"
+      ],
+      "monitoring_signals": [
+        "OPEC+ output policy and compliance",
+        "U.S. crude balances (EIA draws/builds)",
+        "Middle East risk premium (supply disruptions)",
+        "Refinery utilization and product cracks"
+      ],
+      "rationale": "Tight balances and geopolitical risks keep upside tail for crude intact.",
+      "id": "533fe1fa-0388-4713-913f-f207f051e0d6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or above \u20ac45/MWh on at least one trading day by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 36,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Official ICE Endex settlement for the front-month TTF contract at or above \u20ac45.00 per MWh on any trading day between 2025-10-10 and 2025-11-15.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://www.eia.gov/naturalgas/weekly/"
+      ],
+      "monitoring_signals": [
+        "European storage levels and weather forecasts",
+        "LNG arrivals and outages",
+        "Nordic hydro, wind generation output",
+        "Pipeline flows from Norway/Russia"
+      ],
+      "rationale": "Seasonal heating demand and LNG/outage risks can lift TTF into winter.",
+      "id": "4203b813-074c-42e4-80e9-452d1a8c4c6f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. distillate fuel oil inventories will decline by at least 4.0 million barrels week-over-week in at least one EIA Weekly Petroleum Status Report published by 2025-10-31.",
+      "category": "energy",
+      "horizon_days": 21,
+      "deadline": "2025-10-31",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "EIA Weekly Petroleum Status Report table showing total distillate fuel oil stocks (excl. SPR) down \u22654.0 million barrels versus prior week in any report released by 2025-10-31.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/weekly/",
+        "https://www.cnbc.com/2025/10/09/wind-power-giant-orsted-to-slash-2000-jobs-over-next-two-years.html"
+      ],
+      "monitoring_signals": [
+        "Heating degree days and weather",
+        "Refinery maintenance schedules",
+        "Diesel cracks and exports to Latin America",
+        "Freight/trucking demand indicators"
+      ],
+      "rationale": "Turnarounds and early heating demand can trigger a sharp distillate draw.",
+      "id": "71959a9e-78da-452b-8fa9-2152f0489f42",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Services PMI (headline) for October 2025 will print between 50.0 and 53.0 in ISM\u2019s release due by 2025-11-05.",
+      "category": "macro",
+      "horizon_days": 26,
+      "deadline": "2025-11-05",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Institute for Supply Management official October 2025 Services PMI headline index value falls within [50.0, 53.0], per release posted by 2025-11-05 (UTC).",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/",
+        "https://www.cnbc.com/2025/10/09/delta-premium-travel-set-to-overtake-coach-cabin-sales-2026.html"
+      ],
+      "monitoring_signals": [
+        "S&P Global U.S. Services PMI (flash/final)",
+        "NFIB services-related subindices",
+        "High-frequency card spending and travel bookings",
+        "Labor market slack (claims, openings)"
+      ],
+      "rationale": "Services growth appears resilient but moderating amid tighter financial conditions.",
+      "id": "f717b79b-fa6e-4236-abeb-01dc8c2a05b5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan Consumer Sentiment Index (final) for October 2025 will print between 66.0 and 70.0 in the release due 2025-10-25.",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-10-25",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Final October 2025 headline index from University of Michigan Surveys of Consumers reported between 66.0 and 70.0 on the release published on or before 2025-10-25.",
+      "evidence": [
+        "https://data.sca.isr.umich.edu/",
+        "https://www.cnbc.com/2025/10/09/irs-announces-new-federal-income-tax-brackets-for-2026.html"
+      ],
+      "monitoring_signals": [
+        "Gasoline prices and inflation expectations",
+        "Equity market performance",
+        "Labor market perceptions in preliminary survey",
+        "Real income growth indicators"
+      ],
+      "rationale": "Stable but subdued sentiment given inflation, rates, and uneven income gains.",
+      "id": "0f16a563-90ac-40fb-bb21-100d6038f64d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OpenAI\u2019s Sora app (U.S. iOS) will rank in the Top 5 of the App Store Top Free chart on at least 5 distinct UTC days between 2025-10-10 and 2025-10-31.",
+      "category": "tech",
+      "horizon_days": 21,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Third-party app intelligence (e.g., AppMagic, Sensor Tower) or archived App Store charts showing Sora ranked 1\u20135 in U.S. Top Free on \u22655 distinct UTC dates within the specified window.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/09/openais-sora-downloads.html",
+        "https://appmagic.rocks/"
+      ],
+      "monitoring_signals": [
+        "Daily Top Free chart positions (U.S.)",
+        "Social media mentions/download spikes",
+        "Feature placements on App Store",
+        "Update cadence and new feature launches"
+      ],
+      "rationale": "Strong early traction suggests sustained top-chart presence through October.",
+      "id": "5c1a0b9a-bbbc-4758-8d3a-f8417c2a03fd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, Paramount Global and Warner Bros. Discovery will not announce a signed definitive merger or acquisition agreement, as evidenced by no joint press release and no definitive agreement filing on SEC EDGAR.",
+      "category": "markets",
+      "horizon_days": 51,
+      "deadline": "2025-11-30",
+      "confidence_pct": 58,
+      "log_odds": 0.323,
+      "verification_criteria": "Absence by 2025-11-30 of a publicly disclosed definitive agreement (merger agreement or similar) via joint press release and associated SEC filings (8-K, S-4) from either company on EDGAR.",
+      "evidence": [
+        "https://www.marketwatch.com/story/paramount-has-its-eyes-on-warner-bros-but-the-big-question-is-how-to-pay-for-it-c207becf",
+        "https://www.sec.gov/edgar/search/"
+      ],
+      "monitoring_signals": [
+        "Financing/leverage disclosures and ratings actions",
+        "Regulatory/antitrust chatter (DoJ/FTC)",
+        "Board and activist investor commentary",
+        "Leak frequency from credible media on deal status"
+      ],
+      "rationale": "Financing constraints and regulatory complexity reduce near-term odds of a signed deal.",
+      "id": "37538cfe-3943-4c08-bf67-4838295809ec",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

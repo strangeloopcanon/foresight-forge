@@ -1,0 +1,70 @@
+{
+  "date": "2025-10-09",
+  "assessments": [
+    {
+      "id": "0ca2a922-3ce5-48f2-80ee-53afdbd99050",
+      "status": "pending",
+      "status_rationale": "No performance comparison between QQQ and DIA over the stated window is reported; period has just begun and the deadline is in the future."
+    },
+    {
+      "id": "9c1a96e1-ddfe-459b-8aba-e97f7fff9aa2",
+      "status": "pending",
+      "status_rationale": "No evidence that the 10Y TIPS yield hit 2.10%+; today\u2019s news does not cite this metric and the deadline is in the future."
+    },
+    {
+      "id": "23db76fc-a763-4289-8950-3f989017be8e",
+      "status": "pending",
+      "status_rationale": "No weekly initial claims figure is mentioned; awaiting Department of Labor releases before the 2025-11-15 deadline."
+    },
+    {
+      "id": "1a9cbfaa-df22-4d31-8785-41f525cb8793",
+      "status": "pending",
+      "status_rationale": "No Henry Hub settlement prices provided; commodity move to $2.60/MMBtu or below not evidenced in today\u2019s coverage."
+    },
+    {
+      "id": "d88df4cf-729c-4b2b-bda4-ff1c863f303e",
+      "status": "pending",
+      "status_rationale": "No DXY level reported; no confirmation it closed at or above 108.00 yet."
+    },
+    {
+      "id": "e61a3232-10c3-4cf8-9e77-0366ad9d959d",
+      "status": "pending",
+      "status_rationale": "Microsoft\u2019s Q1 FY2026 Azure growth is not reported; earnings release still pending before 2025-10-31."
+    },
+    {
+      "id": "38679a30-3103-462f-8caa-fecb843440c9",
+      "status": "pending",
+      "status_rationale": "No Taiwan MOD sortie count cited; no evidence of a 60+ aircraft day yet."
+    },
+    {
+      "id": "f34ba8e3-7c5f-4d28-a18e-1fbb99882016",
+      "status": "pending",
+      "status_rationale": "Peace Prize announcement occurs today; the provided coverage does not name the laureate(s) or their focus."
+    },
+    {
+      "id": "b0db3bb9-5624-46d6-a96c-ee241410f8b2",
+      "status": "pending",
+      "status_rationale": "No confirmation that the U.S. 2Y Treasury yield closed at or above 4.80%; deadline remains in the future."
+    },
+    {
+      "id": "57e64694-16a5-4fb1-9a2b-b97b3f0010ac",
+      "status": "pending",
+      "status_rationale": "No EIA gasoline product supplied figure mentioned; awaiting weekly reports through 2025-10-31."
+    },
+    {
+      "id": "9118e4f9-6d45-4f47-83cf-1d2ad14914c6",
+      "status": "pending",
+      "status_rationale": "Eurostat\u2019s October core HICP flash is not in the coverage; release due by 2025-10-31."
+    },
+    {
+      "id": "3375fedb-9be7-4faa-8fba-855283f1695c",
+      "status": "pending",
+      "status_rationale": "No price action for ASTS reported; no evidence it traded at or above $12.00 yet."
+    },
+    {
+      "id": "7de376d2-bbba-4fb8-86b4-c3998158df7a",
+      "status": "pending",
+      "status_rationale": "No announcements of TXSE listing intents in the provided news; still before the 2025-11-30 deadline."
+    }
+  ]
+}

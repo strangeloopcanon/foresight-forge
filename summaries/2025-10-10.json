@@ -1,0 +1,125 @@
+{
+  "bullets": [
+    {
+      "text": "Fed extends Fedwire and NSS operating days to Sundays and weekday holidays, enhancing liquidity and settlement continuity for U.S. payments.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20251009a.htm"
+    },
+    {
+      "text": "Israel and Hamas agree to initial Gaza peace phase enabling hostage and prisoner releases, signaling potential de-escalation.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/09/israel-hamas-agree-to-first-phase-of-gaza-peace-plan-allowing-release-of-hostages-.html"
+    },
+    {
+      "text": "Former Fed Governor Larry Lindsey withdraws from Fed chair consideration, adding uncertainty to future rate policy direction.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/09/former-fed-governor-larry-lindsey-withdraws-name-for-fed-chair.html"
+    },
+    {
+      "text": "IRS unveils 2026 tax brackets; higher capital gains thresholds and larger standard deductions will shift after-2025 household tax liabilities.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/09/irs-announces-new-federal-income-tax-brackets-for-2026.html"
+    },
+    {
+      "text": "China tightens rare earth controls; related stocks surge as markets price heightened supply risk to global EVs, wind, and defense sectors.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "tech",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/10/09/china-tightens-rare-earths-grip-stocks-surge.html"
+    },
+    {
+      "text": "Intel showcases next-gen chips; Arizona fab fully operational, advancing 18A process ambitions and U.S. onshoring of advanced semiconductor manufacturing.",
+      "tags": [
+        "tech",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/09/intel-chips-panther-lake-clearwater-forest.html"
+    },
+    {
+      "text": "Evidence suggests Chinese firms may be acquiring banned Nvidia chips via intermediaries, challenging U.S. export controls and sustaining China's AI compute access.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/10/09/technology/nvidia-chips-china-megaspeed.html"
+    },
+    {
+      "text": "Offshore wind giant Orsted to cut 2,000 jobs amid U.S. policy battles and project delays, underscoring sector headwinds.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/09/wind-power-giant-orsted-to-slash-2000-jobs-over-next-two-years.html"
+    },
+    {
+      "text": "Paramount explores Warner Bros. deal but financing remains unclear, highlighting ongoing media consolidation pressures and balance-sheet constraints.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/paramount-has-its-eyes-on-warner-bros-but-the-big-question-is-how-to-pay-for-it-c207becf?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Ferrari shares plunge after weak guidance and reduced 2030 EV targets, marking its worst trading day on record.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/09/ferrari-unveils-first-electric-vehicle-and-cuts-2030-ev-sales-target.html"
+    },
+    {
+      "text": "Delta projects premium cabins will surpass coach revenue in 2026, signaling enduring travel upmarket shift and pricing power.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/09/delta-premium-travel-set-to-overtake-coach-cabin-sales-2026.html"
+    },
+    {
+      "text": "OpenAI's Sora tops 1 million downloads in under five days, showcasing rapid consumer appetite for generative video tools.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/09/openais-sora-downloads.html"
+    },
+    {
+      "text": "Anthropic shows a few poisoned samples can compromise LLMs of any size, elevating AI supply-chain and model security risks.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://www.anthropic.com/research/small-samples-poison"
+    },
+    {
+      "text": "JWST identifies a hidden red supergiant shortly before supernova, offering rare insights into stellar death precursors.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251009033233.htm"
+    },
+    {
+      "text": "Experimental nanotherapy clears amyloid-beta and reverses Alzheimer's symptoms in mice, advancing disease-modifying treatment prospects.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/"
+    }
+  ]
+}
