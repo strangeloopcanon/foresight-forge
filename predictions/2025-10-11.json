@@ -1,0 +1,252 @@
+{
+  "date": "2025-10-11",
+  "predictions": [
+    {
+      "text": "U.S. CPI (headline, YoY, NSA) for October 2025 will print between 3.1% and 3.6% in the BLS release due by 2025-11-15.",
+      "category": "macro",
+      "horizon_days": 35,
+      "deadline": "2025-11-15",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Confirm the 12-month percent change for CPI-U (All Items, not seasonally adjusted) in the BLS CPI news release or data tables for October 2025 shows a value \u22653.1% and \u22643.6%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/10/cpi-inflation-data-government-shutdown.html",
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://www.bls.gov/cpi/"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed CPI nowcast for October",
+        "AAA national gasoline price trends",
+        "Manheim Used Vehicle Value Index",
+        "Rent/OER tracker updates (Zillow, Apartment List)",
+        "Energy futures (WTI, natural gas) weekly changes"
+      ],
+      "rationale": "Energy, gasoline, and core shelter trends suggest modest YoY cooling but not a sharp drop; shutdown risk appears not to affect CPI timing.",
+      "id": "a464fde8-a159-4cb9-b13e-20e2a3d71c44",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China exports (YoY, USD terms) for October 2025 will print between -5% and +3% in the General Administration of Customs release by 2025-11-10.",
+      "category": "macro",
+      "horizon_days": 30,
+      "deadline": "2025-11-10",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Check the official GACC monthly trade release for October 2025; confirm the YoY percent change in exports in USD terms is \u2265-5% and \u2264+3%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
+        "http://english.customs.gov.cn/",
+        "https://www.caixin.com/2025-10-01/101000000.html"
+      ],
+      "monitoring_signals": [
+        "NBS and Caixin manufacturing PMI new export orders",
+        "USD/CNY and CFETS RMB Index levels",
+        "Shanghai Containerized Freight Index / Drewry WCI",
+        "Port throughput data (Shenzhen, Shanghai, Ningbo)",
+        "U.S. tariff and export-control headlines"
+      ],
+      "rationale": "Tariff threats and weak external demand cap upside; policy support and base effects limit downside.",
+      "id": "7443d42e-0030-41b0-8c65-3beb0a6aba70",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area HICP (headline, YoY, flash) for November 2025 will print between 2.2% and 2.7% in Eurostat\u2019s release due by 2025-11-29.",
+      "category": "macro",
+      "horizon_days": 49,
+      "deadline": "2025-11-29",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Verify Eurostat\u2019s flash HICP headline YoY for November 2025 is \u22652.2% and \u22642.7% in the official news release.",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/news/release-calendar",
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://www.cnbc.com/2025/10/10/cpi-inflation-data-government-shutdown.html"
+      ],
+      "monitoring_signals": [
+        "National CPI prints (Germany, Spain, France, Italy)",
+        "Dutch TTF and Brent price moves",
+        "Euro exchange rate (DXY, EUR/USD)",
+        "Wage growth and negotiated pay indicators",
+        "PMI price indices"
+      ],
+      "rationale": "Energy base effects fade while services disinflation is gradual; headline stays near mid-2s barring a fresh energy shock.",
+      "id": "ab1fcb44-d4ef-473d-b9f3-5293d0898e93",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-11 close to 2025-11-30 close, Invesco S&P 500 Equal Weight ETF (RSP) will outperform SPDR S&P 500 ETF Trust (SPY) by at least 1.5 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 50,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Compute percentage change in adjusted close for RSP and SPY from 2025-10-11 close to 2025-11-30 close (UTC). Success if (RSP% - SPY%) \u2265 +1.5 pp using Yahoo Finance data.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html",
+        "https://finance.yahoo.com/quote/RSP/history/",
+        "https://finance.yahoo.com/quote/SPY/history/"
+      ],
+      "monitoring_signals": [
+        "RSP/SPY ratio trend",
+        "Market breadth (advancers/decliners, equal-weight indices)",
+        "Volatility regime (VIX) and rates moves",
+        "Positioning in megacaps vs cyclicals",
+        "Tariff headlines affecting large-cap tech"
+      ],
+      "rationale": "Tariff and regulatory pressure skew downside to megacaps, favoring breadth and equal-weight performance.",
+      "id": "28981be1-a8d4-46d3-a0c1-b370d0ff4af3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-11 close to 2025-11-30 close, iShares Semiconductor ETF (SOXX) will underperform SPDR S&P 500 ETF Trust (SPY) by at least 3.0 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 50,
+      "deadline": "2025-11-30",
+      "confidence_pct": 57,
+      "log_odds": 0.281,
+      "verification_criteria": "Compute percentage change in adjusted close for SOXX and SPY from 2025-10-11 close to 2025-11-30 close (UTC). Success if (SOXX% - SPY%) \u2264 -3.0 pp using Yahoo Finance data.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/10/qualcomm-shares-today-after-china-opens-antitrust-probe.html",
+        "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
+        "https://finance.yahoo.com/quote/SOXX/history/",
+        "https://finance.yahoo.com/quote/SPY/history/"
+      ],
+      "monitoring_signals": [
+        "China regulatory headlines (SAMR) and U.S. export controls",
+        "Guidance and order trends from NVDA/AMD/QCOM/AVGO",
+        "Memory and foundry pricing (DRAM/NAND, TSMC capacity)",
+        "USD strength vs Asia FX (JPY, KRW, TWD, CNY)",
+        "U.S.\u2013China policy signals impacting AI chips"
+      ],
+      "rationale": "Tariff risk, China antitrust pressure, and export controls disproportionately weigh on semis relative to the broader market.",
+      "id": "829c79ab-76da-44d1-8cd4-c29a6b70ec8f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The ETH/BTC exchange rate will reach 0.060 or higher on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 50,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Confirm ETH/BTC pair price on a major aggregator (e.g., CoinMarketCap) shows a print of \u22650.060 on any UTC day before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/10/morgan-stanley-drops-crypto-fund-restrictions-for-wealth-clients.html",
+        "https://coinmarketcap.com/currencies/ethereum/markets/",
+        "https://coinmarketcap.com/currencies/bitcoin/markets/"
+      ],
+      "monitoring_signals": [
+        "Spot ETF flows and custody developments",
+        "Relative L2 activity and ETH staking rates",
+        "Macro risk appetite and USD liquidity",
+        "Stablecoin net issuance on Ethereum",
+        "Gas fees and builder/MEV revenues"
+      ],
+      "rationale": "Institutional access broadening and rotation from BTC toward ETH on relative value can push the cross higher episodically.",
+      "id": "b88cf4ca-17ca-4d02-a8cb-54839e615e03",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 30-Year Treasury yield (FRED: DGS30) will close at or above 4.80% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 50,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Verify on FRED that DGS30 daily close is \u22654.80% on at least one date on or before 2025-11-30 (UTC).",
+      "evidence": [
+        "https://www.marketwatch.com/story/bond-market-flashes-signs-of-worry-over-shutdown-induced-economic-damage-2b17760e",
+        "https://fred.stlouisfed.org/series/DGS30"
+      ],
+      "monitoring_signals": [
+        "Term premium estimates and issuance mix (Treasury refunding)",
+        "Inflation breakevens and real yields",
+        "Fiscal headlines and shutdown dynamics",
+        "Fed communications about balance sheet and policy path",
+        "Risk sentiment (equities, credit spreads)"
+      ],
+      "rationale": "Growth and fiscal concerns, plus term premium volatility, create upside tail risk for the long bond yield.",
+      "id": "417d2e53-a75a-4e00-b851-25acdb61a78a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA-reported crude oil stocks at Cushing, OK will reach at or above 35.0 million barrels in at least one Weekly Petroleum Status Report published by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 35,
+      "deadline": "2025-11-15",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Check EIA Weekly Petroleum Status Report (Table 3). Success if the reported Cushing, OK ending stocks are \u226535.0 million barrels in any weekly report before the deadline.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.cnbc.com/2025/10/10/cpi-inflation-data-government-shutdown.html"
+      ],
+      "monitoring_signals": [
+        "Midcontinent refinery utilization and maintenance outages",
+        "WTI-WTS and WTI-Midland diffs impacting flows",
+        "Pipeline nominations into/out of Cushing",
+        "WTI timespreads (front vs second month)",
+        "U.S. crude production and imports"
+      ],
+      "rationale": "Refinery maintenance and softer runs can drive crude builds at the Cushing hub into mid-November.",
+      "id": "13d465a7-91dd-445f-8c2d-c2043ae1ddae",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, the UK CMA will publish a formal consultation on proposed conduct requirements for Google Search under its Special Market Status designation.",
+      "category": "tech",
+      "horizon_days": 50,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "A consultation document or notice on GOV.UK from the CMA explicitly outlining proposed conduct requirements for Google Search under SMS is published on or before the deadline.",
+      "evidence": [
+        "https://techcrunch.com/2025/10/10/uk-slaps-google-search-with-special-market-status-making-way-for-stricter-regulations/",
+        "https://www.gov.uk/government/organisations/competition-and-markets-authority"
+      ],
+      "monitoring_signals": [
+        "CMA policy updates and timelines under DMCC",
+        "Prior SMS consultations (scope, format, timing)",
+        "Industry stakeholder engagement announcements",
+        "Google\u2019s public responses or preemptive policy changes",
+        "UK government digital markets guidance"
+      ],
+      "rationale": "SMS designation typically proceeds to consultation on conduct rules; political momentum favors prompt next steps.",
+      "id": "5fa35aaa-2d13-4e70-bbf2-0e46c242f174",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, China will file a request for WTO consultations challenging new U.S. tariff or export-control measures announced in October 2025.",
+      "category": "geopolitics",
+      "horizon_days": 50,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "log_odds": 0.04,
+      "verification_criteria": "WTO Dispute Settlement website lists a new request for consultations by China against the U.S. concerning October 2025 tariff/export-control measures, filed on or before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html",
+        "https://www.wto.org/english/tratop_e/dispu_e/dispu_status_e.htm"
+      ],
+      "monitoring_signals": [
+        "Chinese Ministry of Commerce statements (MOFCOM)",
+        "USTR announcements and Federal Register notices",
+        "Diplomatic signaling and press briefings",
+        "Chinese state media coverage of retaliatory steps",
+        "Prior WTO case patterns and timelines"
+      ],
+      "rationale": "Escalatory U.S. measures increase the likelihood Beijing initiates a formal WTO process to preserve options and signal resolve.",
+      "id": "38535487-c6c2-4736-bd7a-d790d5dc03b6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

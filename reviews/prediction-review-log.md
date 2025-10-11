@@ -755,3 +755,12 @@ Sentiment-wise, there are cross-currents: shutdown drama and geopolitical headli
 
 ---
 
+
+## 2025-10-10
+
+Today’s headlines center on heightened U.S.–China trade tensions, with threats of sweeping tariffs and additional export controls. While this environment could raise the odds of future BIS enforcement actions and contribute to RMB weakness (supporting the USD/CNH threshold risk), none of the reports constitute evidence that the specific conditions in the forecasts have already been met. Market risk-off tone and a stronger dollar could also pressure EUR/USD lower, but confirmation requires actual price prints.
+
+Elsewhere, a Gaza cease-fire may modestly temper near-term oil risk premia, though broader geopolitical and supply factors still leave upside tails for WTI into year-end. The ongoing U.S. government shutdown may disrupt or delay some federal data flows, which could affect timing for EIA releases; however, today’s coverage does not provide the requisite settlement or inventory data, nor does it include the ISM or Michigan prints. App ecosystem and M&A headlines do not resolve the Sora ranking or the Paramount–WBD outcome. Accordingly, all items remain pending for now.
+
+---
+

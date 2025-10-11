@@ -1,0 +1,55 @@
+{
+  "date": "2025-10-10",
+  "assessments": [
+    {
+      "id": "f309ea74-e182-4567-9f2a-dfc5273a2968",
+      "status": "pending",
+      "status_rationale": "No confirmed BIS Entity List additions naming at least three China-based entities for chip-export evasion or illicit AI chip acquisition were reported; tariff and export-control rhetoric alone is not dispositive, and the deadline is still ahead."
+    },
+    {
+      "id": "83d768fe-713a-40e5-9f5e-aa2622ccd843",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage does not provide a definitive USD/CNH print at or above 7.40; verification requires market data (e.g., Yahoo Finance CNH=X) before the 2025-11-30 deadline."
+    },
+    {
+      "id": "5cadbaec-c589-40e0-85c8-02cd8832b159",
+      "status": "pending",
+      "status_rationale": "No cited evidence of EUR/USD touching 1.0300 or lower; needs exchange-rate data (EURUSD=X) and the window remains open until 2025-11-30."
+    },
+    {
+      "id": "533fe1fa-0388-4713-913f-f207f051e0d6",
+      "status": "pending",
+      "status_rationale": "No settlement data showing NYMEX WTI at or above $92 was provided; requires official CL front-month settlements, and the deadline has not passed."
+    },
+    {
+      "id": "4203b813-074c-42e4-80e9-452d1a8c4c6f",
+      "status": "pending",
+      "status_rationale": "No ICE Endex Dutch TTF front-month settlement at or above \u20ac45/MWh reported; must check official settlement prints before 2025-11-15."
+    },
+    {
+      "id": "71959a9e-78da-452b-8fa9-2152f0489f42",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report cited a \u22654.0 million barrel distillate draw; confirmation depends on upcoming EIA releases through 2025-10-31."
+    },
+    {
+      "id": "f717b79b-fa6e-4236-abeb-01dc8c2a05b5",
+      "status": "pending",
+      "status_rationale": "ISM Services PMI for October 2025 has not been released; today\u2019s news offers no print, and the report is due by 2025-11-05."
+    },
+    {
+      "id": "0f16a563-90ac-40fb-bb21-100d6038f64d",
+      "status": "pending",
+      "status_rationale": "Final University of Michigan October 2025 sentiment has not been published; no figures provided, and the release is due 2025-10-25."
+    },
+    {
+      "id": "5c1a0b9a-bbbc-4758-8d3a-f8417c2a03fd",
+      "status": "pending",
+      "status_rationale": "Articles mention Sora but do not show App Store Top Free chart positions; requires daily U.S. iOS rankings to confirm \u22655 distinct Top 5 days within 2025-10-10 to 2025-10-31."
+    },
+    {
+      "id": "37538cfe-3943-4c08-bf67-4838295809ec",
+      "status": "pending",
+      "status_rationale": "No joint Paramount\u2013WBD definitive merger agreement was reported; absence of news does not finalize the forecast before the 2025-11-30 deadline."
+    }
+  ]
+}

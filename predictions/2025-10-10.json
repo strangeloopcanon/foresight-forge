@@ -21,7 +21,7 @@
       ],
       "rationale": "Reports indicate continued AI chip leakage to China. Policy momentum favors new listings.",
       "id": "f309ea74-e182-4567-9f2a-dfc5273a2968",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Dollar strength and China growth headwinds increase upside risk for USD/CNH.",
       "id": "83d768fe-713a-40e5-9f5e-aa2622ccd843",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Rate differentials favor the USD; European growth remains fragile.",
       "id": "5cadbaec-c589-40e0-85c8-02cd8832b159",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Tight balances and geopolitical risks keep upside tail for crude intact.",
       "id": "533fe1fa-0388-4713-913f-f207f051e0d6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -113,7 +113,7 @@
       ],
       "rationale": "Seasonal heating demand and LNG/outage risks can lift TTF into winter.",
       "id": "4203b813-074c-42e4-80e9-452d1a8c4c6f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "Turnarounds and early heating demand can trigger a sharp distillate draw.",
       "id": "71959a9e-78da-452b-8fa9-2152f0489f42",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Services growth appears resilient but moderating amid tighter financial conditions.",
       "id": "f717b79b-fa6e-4236-abeb-01dc8c2a05b5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -182,7 +182,7 @@
       ],
       "rationale": "Stable but subdued sentiment given inflation, rates, and uneven income gains.",
       "id": "0f16a563-90ac-40fb-bb21-100d6038f64d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -205,7 +205,7 @@
       ],
       "rationale": "Strong early traction suggests sustained top-chart presence through October.",
       "id": "5c1a0b9a-bbbc-4758-8d3a-f8417c2a03fd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -228,7 +228,7 @@
       ],
       "rationale": "Financing constraints and regulatory complexity reduce near-term odds of a signed deal.",
       "id": "37538cfe-3943-4c08-bf67-4838295809ec",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

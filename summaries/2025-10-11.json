@@ -1,0 +1,116 @@
+{
+  "bullets": [
+    {
+      "text": "Trump threatens 100% tariffs on all Chinese goods, adds export controls on \u201ccritical software,\u201d escalating trade tensions and supply chain risk.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/10/trump-trade-tariffs-china-software.html"
+    },
+    {
+      "text": "Stocks sell off: S&P, Nasdaq slump; tech megacaps lose $770B market cap on China tariff threat and shutdown uncertainty.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html"
+    },
+    {
+      "text": "Chinese stocks decline on tariff threat; Beijing opens antitrust probe into Qualcomm, signaling retaliatory regulatory pressure.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/10/qualcomm-shares-today-after-china-opens-antitrust-probe.html"
+    },
+    {
+      "text": "Government shutdown delays key economic data releases, including G.17 industrial production; CPI still scheduled, increasing uncertainty for Fed and markets.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/10/cpi-inflation-data-government-shutdown.html"
+    },
+    {
+      "text": "Bond market flashing worry over shutdown-induced economic damage; yields signal growth risk while data blackout clouds pricing.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/bond-market-flashes-signs-of-worry-over-shutdown-induced-economic-damage-2b17760e"
+    },
+    {
+      "text": "Morgan Stanley removes restrictions for wealth clients to invest in crypto funds, further mainstreaming digital assets despite ETF approvals delayed by shutdown.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/10/morgan-stanley-drops-crypto-fund-restrictions-for-wealth-clients.html"
+    },
+    {
+      "text": "AstraZeneca strikes U.S. drug pricing deal with Trump; shares climb after hours, adding momentum to pharma pricing realignment.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/10/trump-astrazeneca-drug-pricing-deal.html"
+    },
+    {
+      "text": "Gaza cease-fire takes hold; thousands return north, easing regional risk premium after prolonged conflict.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/10/world/middleeast/gaza-cease-fire-israel-hamas.html"
+    },
+    {
+      "text": "U.S. to host Qatar Air Force facility at Idaho USAF base, deepening security ties and Gulf footprint.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/10/us-qatar-air-force-idaho-hegseth-defense.html"
+    },
+    {
+      "text": "UK designates Google Search with special market status, paving way for stricter regulation and potential ad/search business impacts.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/10/10/uk-slaps-google-search-with-special-market-status-making-way-for-stricter-regulations/"
+    },
+    {
+      "text": "MIT unveils precision gene editing tool promising safer, more accurate therapies, potentially transforming biotech pipelines.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251010091553.htm"
+    },
+    {
+      "text": "Scientists identify brain circuit to switch off chronic pain, opening path for non-opioid treatments.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251009033126.htm"
+    },
+    {
+      "text": "Data centers increasingly turning to coal to meet AI power demands, undermining climate goals and raising energy cost and ESG risks.",
+      "tags": [
+        "energy",
+        "tech"
+      ],
+      "link": "https://www.theregister.com/2025/10/10/datacenter_coal_power/"
+    },
+    {
+      "text": "Apple nears deal to acquire talent and technology from Prompt AI, bolstering computer vision capabilities amid AI arms race.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/10/apple-nears-deal-to-acquire-talent-tech-from-ai-startup-prompt-ai.html"
+    }
+  ]
+}
