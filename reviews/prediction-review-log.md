@@ -764,3 +764,12 @@ Elsewhere, a Gaza cease-fire may modestly temper near-term oil risk premia, thou
 
 ---
 
+
+## 2025-10-11
+
+Today’s news flow is dominated by U.S. political developments, a government shutdown, and tariff threats that triggered a major equity sell-off. These factors raise near-term macro uncertainty, which could affect risk assets, yields, and inflation expectations, but none of the cited articles provide definitive data releases that would resolve any of the economic indicator forecasts yet. The market turmoil could influence the relative performance calls (RSP vs SPY, SOXX vs SPY) over the remainder of the window, with tariff rhetoric and AI positioning potentially pressuring semiconductors relative to the broader market, though this remains unconfirmed without full-period return data.
+
+On the policy and trade front, new tariff threats marginally increase the likelihood of China pursuing WTO consultations before the deadline. For rates and inflation, shutdown dynamics and risk-off sentiment may tug yields lower, while tariff headlines could nudge inflation expectations higher—net effects remain ambiguous for the 30-year yield threshold and upcoming CPI/HICP prints. Energy and geopolitics could sway Cushing inventories, but no EIA figures were reported today. Overall, all items remain pending with probabilities modestly updated directionally but without outcome resolution.
+
+---
+

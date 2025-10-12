@@ -1,0 +1,55 @@
+{
+  "date": "2025-10-11",
+  "assessments": [
+    {
+      "id": "a464fde8-a159-4cb9-b13e-20e2a3d71c44",
+      "status": "pending",
+      "status_rationale": "No BLS CPI data for October 2025 has been released yet and none of today's news provides a definitive print; the deadline is 2025-11-15."
+    },
+    {
+      "id": "7443d42e-0030-41b0-8c65-3beb0a6aba70",
+      "status": "pending",
+      "status_rationale": "China\u2019s October 2025 export figures are not yet published; today\u2019s articles do not report the official YoY print. Deadline 2025-11-10."
+    },
+    {
+      "id": "ab1fcb44-d4ef-473d-b9f3-5293d0898e93",
+      "status": "pending",
+      "status_rationale": "Eurostat\u2019s November 2025 flash HICP has not been issued; no coverage today cites a flash estimate. Deadline 2025-11-29."
+    },
+    {
+      "id": "28981be1-a8d4-46d3-a0c1-b370d0ff4af3",
+      "status": "pending",
+      "status_rationale": "The performance window runs through 2025-11-30; intraperiod market moves are not dispositive and today\u2019s news does not provide conclusive RSP vs SPY return data."
+    },
+    {
+      "id": "829c79ab-76da-44d1-8cd4-c29a6b70ec8f",
+      "status": "pending",
+      "status_rationale": "The outcome depends on cumulative performance through 2025-11-30. While headlines note AI/semiconductor pressure amid tariff threats, no definitive relative-return data is provided."
+    },
+    {
+      "id": "b88cf4ca-17ca-4d02-a8cb-54839e615e03",
+      "status": "pending",
+      "status_rationale": "No concrete ETH/BTC price evidence is included in today\u2019s news, and the window remains open until 2025-11-30."
+    },
+    {
+      "id": "417d2e53-a75a-4e00-b851-25acdb61a78a",
+      "status": "pending",
+      "status_rationale": "There is no report of the 30-Year Treasury yield closing at or above 4.80% in the articles provided; the deadline is 2025-11-30."
+    },
+    {
+      "id": "13d465a7-91dd-445f-8c2d-c2043ae1ddae",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report data for Cushing inventories reaching 35.0 million barrels is cited today; deadline 2025-11-15."
+    },
+    {
+      "id": "5fa35aaa-2d13-4e70-bbf2-0e46c242f174",
+      "status": "pending",
+      "status_rationale": "There is no mention of a UK CMA consultation on Google Search conduct requirements in today\u2019s coverage, and the deadline is 2025-11-30."
+    },
+    {
+      "id": "38535487-c6c2-4736-bd7a-d790d5dc03b6",
+      "status": "pending",
+      "status_rationale": "Although headlines reference new U.S. tariff threats and market impact, there is no report of China filing a WTO consultations request; deadline 2025-11-30."
+    }
+  ]
+}

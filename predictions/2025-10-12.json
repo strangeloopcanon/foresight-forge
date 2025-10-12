@@ -1,0 +1,255 @@
+{
+  "date": "2025-10-12",
+  "predictions": [
+    {
+      "text": "ISM Manufacturing PMI (headline) for October 2025 will print between 49.0 and 51.0 in ISM\u2019s release due by 2025-11-01.",
+      "category": "macro",
+      "horizon_days": 20,
+      "deadline": "2025-11-01",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm the headline PMI value in the Institute for Supply Management\u2019s October 2025 Report On Business press release; the value must be within 49.0\u201351.0.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/",
+        "Tariff threats and a Trump post erased roughly $2 trillion in U.S. market value, amplifying volatility ahead of key tech earnings. https://www.cnbc.com/2025/10/11/trump-post-costs-stocks-2-trillion-in-single-day.html",
+        "Shutdown impacts widen as layoffs mount; policy uncertainty elevated. https://www.nytimes.com/2025/10/11/us/politics/trump-government-shutdown-layoffs-democrats.html"
+      ],
+      "monitoring_signals": [
+        "Regional Fed manufacturing surveys (Empire State, Philly Fed) new orders and employment components",
+        "S&P Global U.S. Manufacturing PMI (flash/final)",
+        "Supplier delivery times and inventory indices",
+        "Export orders and ISM prices paid"
+      ],
+      "rationale": "Mixed demand, tighter financial conditions, and volatility suggest mid-50s PMI unlikely; range-bound near 50 is plausible.",
+      "id": "3c33402d-3467-4e32-9190-ea31064e44e3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. nonfarm payrolls (change, total) for October 2025 will be between +110,000 and +230,000 in the BLS Employment Situation release by 2025-11-08.",
+      "category": "macro",
+      "horizon_days": 27,
+      "deadline": "2025-11-08",
+      "confidence_pct": 55,
+      "verification_criteria": "Use the total nonfarm payroll employment change from the BLS Employment Situation news release for October 2025; seasonally adjusted headline change must fall within +110k to +230k.",
+      "evidence": [
+        "Policy uncertainty and shutdown risks can dampen hiring momentum. https://www.nytimes.com/2025/10/11/us/politics/trump-government-shutdown-layoffs-democrats.html",
+        "Volatility spike may correlate with cautious hiring. https://www.cnbc.com/2025/10/11/trump-post-costs-stocks-2-trillion-in-single-day.html",
+        "https://www.bls.gov/schedule/news_release/empsit.htm"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims (DOL)",
+        "ADP employment change",
+        "Challenger job cuts",
+        "Homebase hours worked and headcount",
+        "Indeed job postings index"
+      ],
+      "rationale": "Labor market cooling but not collapsing; range captures modest growth amid uncertainty.",
+      "id": "4ab376ff-addb-4d0d-af3b-bfae977fffc9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. unemployment rate (U-3) for October 2025 will print between 4.1% and 4.4% in the BLS release by 2025-11-08.",
+      "category": "macro",
+      "horizon_days": 27,
+      "deadline": "2025-11-08",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify the seasonally adjusted U-3 unemployment rate from the October 2025 BLS Employment Situation; rate must be within 4.1%\u20134.4%.",
+      "evidence": [
+        "Hiring headwinds and volatility may nudge jobless rate modestly higher. https://www.cnbc.com/2025/10/11/trump-post-costs-stocks-2-trillion-in-single-day.html",
+        "https://www.bls.gov/schedule/news_release/empsit.htm"
+      ],
+      "monitoring_signals": [
+        "Household survey employment-population ratio and participation rate",
+        "Flows: unemployed to employed, labor force entrants",
+        "Job openings (JOLTS) vs. unemployed ratio"
+      ],
+      "rationale": "Participation dynamics and softer hiring point to a slightly elevated but contained unemployment rate.",
+      "id": "e2de1d28-1e20-494b-896b-1366284a9092",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Advance Retail Sales (MoM, SA) for September 2025 will print between -0.2% and +0.3% in the Census release due by 2025-10-16.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-10-17",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirm the month-over-month percent change for Advance Retail and Food Services Sales (seasonally adjusted) from the U.S. Census Bureau\u2019s September 2025 release; result must be within -0.2% to +0.3%.",
+      "evidence": [
+        "Consumer value-seeking behavior suggests restrained nominal growth. https://www.marketwatch.com/story/mcdonalds-is-bringing-back-its-popular-monopoly-game-and-analysts-say-it-could-lift-sales-52bb55c4",
+        "Policy uncertainty could weigh on discretionary spending. https://www.nytimes.com/2025/10/11/us/politics/trump-government-shutdown-layoffs-democrats.html",
+        "https://www.census.gov/retail/index.html"
+      ],
+      "monitoring_signals": [
+        "Johnson Redbook same-store sales",
+        "Credit/debit card trackers (bank high-frequency spending data)",
+        "Gasoline prices and auto SAAR",
+        "Consumer sentiment and expectations"
+      ],
+      "rationale": "Soft real demand and lower gas prices likely offset by resilience in services; narrow MoM range.",
+      "id": "202ac5af-2ecf-4e75-8f22-19f0babbfbf4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "S&P Global U.S. Composite PMI (final) for October 2025 will print between 51.0 and 53.5 in the release due by 2025-11-05.",
+      "category": "macro",
+      "horizon_days": 24,
+      "deadline": "2025-11-05",
+      "confidence_pct": 54,
+      "verification_criteria": "Check S&P Global\u2019s press release for the final U.S. Composite PMI reading for October 2025; the index must be within 51.0\u201353.5.",
+      "evidence": [
+        "Services demand moderates while manufacturing stabilizes near 50.",
+        "https://www.pmi.spglobal.com/Public/Release/PressReleases",
+        "Market volatility and uncertainty temper activity. https://www.cnbc.com/2025/10/11/trump-post-costs-stocks-2-trillion-in-single-day.html"
+      ],
+      "monitoring_signals": [
+        "PMI flash readings",
+        "ISM Manufacturing and Services new orders",
+        "Jobless claims and hours worked",
+        "Financial conditions indices"
+      ],
+      "rationale": "Composite activity likely modestly expansionary, constrained by tighter financial conditions.",
+      "id": "e8ab68b8-d8ba-40d4-bf9f-6705a1989a26",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area unemployment rate for September 2025 will print between 6.3% and 6.6% in Eurostat\u2019s release due by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Use Eurostat\u2019s seasonally adjusted euro area unemployment rate for September 2025; the published rate must lie within 6.3%\u20136.6%.",
+      "evidence": [
+        "Mixed growth backdrop with soft external demand (China trade). https://www.cnbc.com/2025/10/11/berkshires-japanese-stock-positions-top-30-billion.html",
+        "https://ec.europa.eu/eurostat"
+      ],
+      "monitoring_signals": [
+        "Country-level unemployment (Germany, France, Spain, Italy)",
+        "Eurozone PMI employment components",
+        "Job vacancy indices",
+        "Industrial production trends"
+      ],
+      "rationale": "Labor markets remain relatively resilient but show early slack; steady range likely.",
+      "id": "4c6ca633-9e4a-429e-8ed8-806bf5da3836",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-12 close to 2025-11-30 close, iShares Russell 2000 ETF (IWM) will underperform SPDR S&P 500 ETF (SPY) by at least 2.5 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 49,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Compute percentage change in adjusted close from 2025-10-12 close to 2025-11-30 close for IWM and SPY (e.g., Yahoo Finance). IWM\u2019s change minus SPY\u2019s change must be \u2264 -2.5 pp.",
+      "evidence": [
+        "Concentration risk in S&P 500 favors mega-cap resilience vs small caps. https://www.marketwatch.com/story/why-your-s-p-500-index-fund-might-be-more-risky-than-the-internet-bubble-af1050e6",
+        "Heightened policy/volatility shock risk. https://www.cnbc.com/2025/10/11/trump-post-costs-stocks-2-trillion-in-single-day.html",
+        "Investor rotation dynamics within AI trade. https://www.cnbc.com/2025/10/11/artificial-intelligence-bitcoin-as-top-blackrock-etf-place.html"
+      ],
+      "monitoring_signals": [
+        "Financial conditions index and 2y/10y yields",
+        "Credit spreads (HY and IG OAS)",
+        "Breadth metrics and equal-weight vs cap-weight dispersion",
+        "Earnings revisions for small caps"
+      ],
+      "rationale": "Tight credit and risk-off skew typically pressure small caps relative to megacaps.",
+      "id": "395fe923-e08b-428c-bc80-7c27eb157e7e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE BofA U.S. Corporate Index Option-Adjusted Spread (FRED: BAMLCC0A0CM) will close at or above 1.20% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 49,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Verify any daily close at or above 1.20% in FRED series BAMLCC0A0CM between 2025-10-12 and 2025-11-30 (UTC).",
+      "evidence": [
+        "Macro/policy uncertainty elevates risk premia. https://www.nytimes.com/2025/10/11/us/politics/trump-government-shutdown-layoffs-democrats.html",
+        "Rates volatility remains a tail risk. https://fred.stlouisfed.org/series/MOVE",
+        "https://fred.stlouisfed.org/series/BAMLCC0A0CM"
+      ],
+      "monitoring_signals": [
+        "VIX and MOVE indices",
+        "Primary IG issuance volumes and concessions",
+        "Economic surprises index",
+        "HY OAS (FRED: BAMLH0A0HYM2)"
+      ],
+      "rationale": "A modest widening episode is plausible amid earnings, policy and growth jitters.",
+      "id": "dc3efef8-62f9-4de4-b664-9f73d897d6da",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "LME Copper 3-month official settlement price will reach at or above $9,800 per metric ton on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 49,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Confirm any LME official 3-month copper settlement at \u2265 $9,800/mt via LME official prices or reputable data vendors (e.g., LME.com daily official prices) by 2025-11-30.",
+      "evidence": [
+        "EV charging and grid build-out narratives support copper demand. https://spectrum.ieee.org/ev-charging-solid-state-transformers",
+        "Positioning rotations across AI/crypto risk assets. https://www.cnbc.com/2025/10/11/artificial-intelligence-bitcoin-as-top-blackrock-etf-place.html"
+      ],
+      "monitoring_signals": [
+        "LME/SHFE copper inventories and warehouse cancellations",
+        "China construction/grid investment data",
+        "USD DXY level and rates",
+        "Mine supply disruptions and treatment charges"
+      ],
+      "rationale": "Tight medium-term fundamentals and risk rotations can trigger upside test despite macro noise.",
+      "id": "db89f0ce-0a8c-4950-8d74-ebdb2fb17986",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly Natural Gas Storage (Lower 48 total working gas) will print at or above 3,850 Bcf in at least one Weekly Natural Gas Storage Report published by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 34,
+      "deadline": "2025-11-15",
+      "confidence_pct": 53,
+      "verification_criteria": "Use EIA Weekly Natural Gas Storage Report tables; confirm Lower 48 total working gas at \u2265 3,850 Bcf in any weekly report published on or before 2025-11-15.",
+      "evidence": [
+        "Seasonal injections typically peak into late Oct/early Nov.",
+        "European gas price volatility underscores storage incentives. https://www.cnbc.com/2025/10/11/artificial-intelligence-bitcoin-as-top-blackrock-etf-place.html",
+        "ICE Endex Dutch TTF front-month sensitivity. https://www.cnbc.com/2025/10/11/"
+      ],
+      "monitoring_signals": [
+        "NOAA HDD/CDD forecasts and degree day models",
+        "Lower 48 dry gas production and pipeline maintenance",
+        "LNG feedgas deliveries and export capacity utilization",
+        "Spot/forward Henry Hub and regional basis"
+      ],
+      "rationale": "Strong production and seasonal builds likely push inventories to high end of range.",
+      "id": "77563952-a76a-4e1c-9eb3-67d8df0b21c6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Apple (AAPL) fiscal Q4 2025 Services revenue will be between $24.5B and $26.0B, per the company\u2019s earnings release published by 2025-11-10.",
+      "category": "tech",
+      "horizon_days": 29,
+      "deadline": "2025-11-10",
+      "confidence_pct": 55,
+      "verification_criteria": "Check Apple\u2019s fiscal Q4 2025 earnings press release or 10-K/10-Q; confirm Services segment revenue reported within $24.5\u2013$26.0 billion.",
+      "evidence": [
+        "Ongoing shift toward subscription and services ARPU resilience.",
+        "AI adoption and app ecosystem tailwinds. https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
+        "https://investor.apple.com/earnings/"
+      ],
+      "monitoring_signals": [
+        "App Store billings and subscription growth commentary",
+        "Advertising and cloud services trends",
+        "FX rates (USD index) and regional mix",
+        "Installed base growth and device attach rates"
+      ],
+      "rationale": "Services growth remains the steadier pillar amid hardware cycles and FX.",
+      "id": "7862249e-c28b-4767-b15c-34176bf6a28e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
