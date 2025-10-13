@@ -1,0 +1,272 @@
+{
+  "date": "2025-10-13",
+  "predictions": [
+    {
+      "text": "At the meeting concluding 2025-11-05, the FOMC will leave the federal funds target range unchanged at 5.25%\u20135.50%.",
+      "category": "rates",
+      "horizon_days": 23,
+      "deadline": "2025-11-05",
+      "confidence_pct": 62,
+      "verification_criteria": "Confirm via the FOMC statement on federalreserve.gov that the target range remains 5.25%\u20135.50% as of 2025-11-05.",
+      "evidence": [
+        "https://www.federalreserve.gov/monetarypolicy.htm",
+        "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE inflation prints and surprises",
+        "Payrolls, unemployment rate, and average hourly earnings",
+        "Financial conditions indexes and credit spreads",
+        "Fed communications (speeches, minutes)"
+      ],
+      "rationale": "Inflation progress is uneven but improving; Fed likely to hold while assessing data.",
+      "id": "692f416e-45b2-49cb-8f02-547ca89eeece",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. CPI Core (MoM, SA) for October 2025 will print between 0.20% and 0.30% in the BLS release due by 2025-11-15.",
+      "category": "macro",
+      "horizon_days": 33,
+      "deadline": "2025-11-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify the 1-month percent change for CPI-U less food and energy (seasonally adjusted) in the BLS CPI news release tables.",
+      "evidence": [
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+      ],
+      "monitoring_signals": [
+        "Shelter/rent indices (ZORI, Apartment List)",
+        "Used vehicle prices (Manheim Index)",
+        "Health insurance and medical services CPI components",
+        "Retail gasoline prices and core goods import prices"
+      ],
+      "rationale": "Shelter disinflation continues; goods remain soft; services steady near 0.2\u20130.3%.",
+      "id": "6bab3d58-b3e4-48da-ab1b-414da2247239",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Retail Sales Control Group (MoM, SA) for September 2025 will print between -0.2% and +0.3% in the Census release due by 2025-10-16.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-10-16",
+      "confidence_pct": 55,
+      "verification_criteria": "Use the Census Advance Monthly Retail and Food Services report; control group = retail sales excluding motor vehicles & parts, gasoline, building materials, and food services.",
+      "evidence": [
+        "https://www.census.gov/retail/marts/www/marts_current.html",
+        "https://www.bankofamerica.com/research/economic-data/consumer-spending-insights/"
+      ],
+      "monitoring_signals": [
+        "High-frequency card spending trackers",
+        "Chain-store sales commentary",
+        "Gasoline prices and auto sales mix",
+        "Consumer confidence and labor market indicators"
+      ],
+      "rationale": "Real spending looks steady to soft; fuel drag and mixed discretionary outlays.",
+      "id": "b512c95f-43c0-4f49-8bc4-900461a97693",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area Composite PMI (final) for October 2025 will print between 49.5 and 51.5 in the HCOB/S&P Global release due by 2025-11-06.",
+      "category": "macro",
+      "horizon_days": 24,
+      "deadline": "2025-11-06",
+      "confidence_pct": 54,
+      "verification_criteria": "Check the headline HCOB Eurozone Composite PMI (final) index level in the S&P Global news release.",
+      "evidence": [
+        "https://www.pmi.spglobal.com/Public/Release/PressReleases",
+        "https://www.spglobal.com/marketintelligence/en/news-insights/research/pmi"
+      ],
+      "monitoring_signals": [
+        "Flash PMI readings for Germany and France",
+        "Export orders and new business components",
+        "Energy prices and credit conditions surveys",
+        "Euro area industrial production trends"
+      ],
+      "rationale": "Services resilience balances weak manufacturing; composite near 50 with limited improvement.",
+      "id": "00a03ea4-b187-415e-b72f-2a60205c9d31",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Housing Starts (SAAR) for September 2025 will print between 1.33 million and 1.45 million in the Census/HUD release due by 2025-10-17.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-10-17",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify total housing starts (seasonally adjusted annual rate) in the New Residential Construction release tables on census.gov.",
+      "evidence": [
+        "https://www.census.gov/construction/nrc/",
+        "https://www.mba.org/news-and-research/research-and-economics/applications-and-rates"
+      ],
+      "monitoring_signals": [
+        "Mortgage rates (Freddie Mac PMMS)",
+        "Building permits (leading indicator)",
+        "Homebuilder sentiment (NAHB/Wells Fargo HMI)",
+        "Lumber prices and construction labor availability"
+      ],
+      "rationale": "High mortgage rates cap starts; permits leveling suggests range-bound prints.",
+      "id": "3298f632-9a43-4947-a8fe-d6fd5ec4d70b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China Total Social Financing (flow) for September 2025 will print between CNY 3.0 trillion and CNY 4.6 trillion in the PBOC release by 2025-10-15.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-10-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm monthly TSF flow in the PBOC Aggregate Financing to the Real Economy (AFRE) statistical release.",
+      "evidence": [
+        "http://www.pbc.gov.cn/en/3688229/3688335/index.html",
+        "https://www.reuters.com/markets/asia/china-credit-data-schedule/"
+      ],
+      "monitoring_signals": [
+        "Local government special bond issuance",
+        "New RMB loans and shadow credit proxies",
+        "PBOC OMO/MLF operations and reserve measures",
+        "Property sales and developer financing conditions"
+      ],
+      "rationale": "Seasonal September pickup from bond issuance and policy guidance boosts TSF.",
+      "id": "27625b0f-6bc5-41f3-bf1a-5295d045494f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted U.S. initial jobless claims 4-week moving average will reach at or above 225,000 in at least one weekly Department of Labor report published by 2025-11-15.",
+      "category": "macro",
+      "horizon_days": 33,
+      "deadline": "2025-11-15",
+      "confidence_pct": 54,
+      "verification_criteria": "Check the 4-week moving average in any weekly Unemployment Insurance Weekly Claims News Release from DOL through 2025-11-15.",
+      "evidence": [
+        "https://www.dol.gov/ui/data.pdf",
+        "https://www.dol.gov/ui"
+      ],
+      "monitoring_signals": [
+        "Continuing claims trend",
+        "Challenger layoffs and WARN notices",
+        "Job openings (JOLTS) and hiring plans",
+        "Small business labor demand (NFIB)"
+      ],
+      "rationale": "Labor market is cooling gradually; averages drift higher with softer hiring.",
+      "id": "ba595d52-3e2e-4631-a492-c148d3a120fc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Cboe Volatility Index (VIX) will close at or below 14.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 48,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Use Cboe\u2019s official VIX historical end-of-day data to confirm any daily close \u2264 14.00 through 2025-11-30.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/vix_historical_data/",
+        "https://www.cboe.com/indices/"
+      ],
+      "monitoring_signals": [
+        "S&P 500 realized volatility (20d)",
+        "Macro event risk calendar and earnings season",
+        "Dealer positioning and options skew",
+        "Credit spreads and cross-asset volatility indices"
+      ],
+      "rationale": "Absent shocks, post-earnings and holiday seasonality often compress implied vol.",
+      "id": "0f20b9df-f39f-42de-8881-e57ed323ea51",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/CNH (CNH=X) will trade at or below 7.20 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 48,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Confirm via Yahoo Finance (CNH=X) or Bloomberg intraday/daily data that the low on any UTC day is \u2264 7.20 by the deadline.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/CNH=X/",
+        "https://www.pbc.gov.cn/en/3688245/3688791/index.html"
+      ],
+      "monitoring_signals": [
+        "PBOC fixing bias vs. model-implied fix",
+        "U.S.\u2013China rate differentials and UST yield moves",
+        "China portfolio flows (northbound/southbound)",
+        "Trade headlines and export controls"
+      ],
+      "rationale": "Potential softer USD on lower yields plus RMB support measures could lift CNH.",
+      "id": "eeffef6b-c1f5-46f5-bbb0-8128264038b9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "From 2025-10-13 close to 2025-11-30 close, Financials (XLF) will outperform Technology (XLK) by at least 2.5 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 48,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Compute % change in adjusted close (Yahoo Finance: XLF, XLK) from 2025-10-13 close to 2025-11-30 close; require (XLF% \u2212 XLK%) \u2265 2.5pp.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/XLF/history",
+        "https://finance.yahoo.com/quote/XLK/history",
+        "https://www.federalreserve.gov/releases/h8/current/default.htm"
+      ],
+      "monitoring_signals": [
+        "Yield curve steepening and 10Y Treasury moves",
+        "Bank earnings guidance and NIM commentary",
+        "Tech earnings revisions and semiconductor cycle",
+        "Credit conditions and loan growth data"
+      ],
+      "rationale": "Rotation toward cyclicals on stabilizing rates and steeper curve pressures megacap tech.",
+      "id": "d6527275-b6db-4d3b-9cd3-1435c867fe55",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures (CL) will settle at or below $74.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 48,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Use CME/NYMEX official settlements for the front-month CL contract to confirm any daily settlement \u2264 $74.00 by the deadline.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.quotes.html",
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.opec.org/opec_web/en/publications/338.htm"
+      ],
+      "monitoring_signals": [
+        "EIA U.S. crude inventories and builds at Cushing",
+        "OPEC+ production and compliance updates",
+        "Global demand indicators (PMIs, mobility)",
+        "Refinery maintenance and product cracks"
+      ],
+      "rationale": "Macro growth worries and inventory builds can pressure crude despite OPEC+.",
+      "id": "3f5af55d-ebaf-4e35-8109-48f18294efb8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or below \u20ac33/MWh on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 48,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Confirm via ICE Endex official market data that the TTF front-month daily settlement is \u2264 \u20ac33/MWh on any day through 2025-11-30.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://agsi.gie.eu/",
+        "https://www.ecmwf.int/en/forecasts"
+      ],
+      "monitoring_signals": [
+        "EU storage levels vs. 5-year average",
+        "LNG arrivals and pipeline flows",
+        "Weather forecasts (ECMWF) for NW Europe",
+        "Industrial demand recovery and outages"
+      ],
+      "rationale": "High storage and mild weather risk favor lower TTF barring supply shocks.",
+      "id": "8c6bb7fa-e85e-4c08-9506-a855df1a78c9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

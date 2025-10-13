@@ -21,7 +21,7 @@
       ],
       "rationale": "Mixed demand, tighter financial conditions, and volatility suggest mid-50s PMI unlikely; range-bound near 50 is plausible.",
       "id": "3c33402d-3467-4e32-9190-ea31064e44e3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Labor market cooling but not collapsing; range captures modest growth amid uncertainty.",
       "id": "4ab376ff-addb-4d0d-af3b-bfae977fffc9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -66,7 +66,7 @@
       ],
       "rationale": "Participation dynamics and softer hiring point to a slightly elevated but contained unemployment rate.",
       "id": "e2de1d28-1e20-494b-896b-1366284a9092",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Soft real demand and lower gas prices likely offset by resilience in services; narrow MoM range.",
       "id": "202ac5af-2ecf-4e75-8f22-19f0babbfbf4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -112,7 +112,7 @@
       ],
       "rationale": "Composite activity likely modestly expansionary, constrained by tighter financial conditions.",
       "id": "e8ab68b8-d8ba-40d4-bf9f-6705a1989a26",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -134,7 +134,7 @@
       ],
       "rationale": "Labor markets remain relatively resilient but show early slack; steady range likely.",
       "id": "4c6ca633-9e4a-429e-8ed8-806bf5da3836",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -157,7 +157,7 @@
       ],
       "rationale": "Tight credit and risk-off skew typically pressure small caps relative to megacaps.",
       "id": "395fe923-e08b-428c-bc80-7c27eb157e7e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -180,7 +180,7 @@
       ],
       "rationale": "A modest widening episode is plausible amid earnings, policy and growth jitters.",
       "id": "dc3efef8-62f9-4de4-b664-9f73d897d6da",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -202,7 +202,7 @@
       ],
       "rationale": "Tight medium-term fundamentals and risk rotations can trigger upside test despite macro noise.",
       "id": "db89f0ce-0a8c-4950-8d74-ebdb2fb17986",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -225,7 +225,7 @@
       ],
       "rationale": "Strong production and seasonal builds likely push inventories to high end of range.",
       "id": "77563952-a76a-4e1c-9eb3-67d8df0b21c6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -248,7 +248,7 @@
       ],
       "rationale": "Services growth remains the steadier pillar amid hardware cycles and FX.",
       "id": "7862249e-c28b-4767-b15c-34176bf6a28e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

@@ -1,0 +1,60 @@
+{
+  "date": "2025-10-12",
+  "assessments": [
+    {
+      "id": "3c33402d-3467-4e32-9190-ea31064e44e3",
+      "status": "pending",
+      "status_rationale": "ISM Manufacturing PMI for October 2025 has not been released yet (due by 2025-11-01), and today\u2019s news provides no print."
+    },
+    {
+      "id": "4ab376ff-addb-4d0d-af3b-bfae977fffc9",
+      "status": "pending",
+      "status_rationale": "October 2025 nonfarm payrolls are due by 2025-11-08; no result reported in the provided news."
+    },
+    {
+      "id": "e2de1d28-1e20-494b-896b-1366284a9092",
+      "status": "pending",
+      "status_rationale": "The October 2025 U-3 unemployment rate is scheduled for release by 2025-11-08; no data point in today\u2019s coverage."
+    },
+    {
+      "id": "202ac5af-2ecf-4e75-8f22-19f0babbfbf4",
+      "status": "pending",
+      "status_rationale": "September 2025 Advance Retail Sales release is due by 2025-10-16; no figures yet."
+    },
+    {
+      "id": "e8ab68b8-d8ba-40d4-bf9f-6705a1989a26",
+      "status": "pending",
+      "status_rationale": "S&P Global U.S. Composite PMI (final) for October 2025 is due by 2025-11-05; no publication noted."
+    },
+    {
+      "id": "4c6ca633-9e4a-429e-8ed8-806bf5da3836",
+      "status": "pending",
+      "status_rationale": "Euro area unemployment for September 2025 is due by 2025-10-31; no result reported."
+    },
+    {
+      "id": "395fe923-e08b-428c-bc80-7c27eb157e7e",
+      "status": "pending",
+      "status_rationale": "The IWM vs. SPY performance window just began (2025-10-12 to 2025-11-30); too early to determine underperformance by \u22652.5 pp."
+    },
+    {
+      "id": "dc3efef8-62f9-4de4-b664-9f73d897d6da",
+      "status": "pending",
+      "status_rationale": "No clear evidence that the ICE BofA U.S. Corporate OAS has reached \u22651.20% by now; the deadline is 2025-11-30."
+    },
+    {
+      "id": "db89f0ce-0a8c-4950-8d74-ebdb2fb17986",
+      "status": "pending",
+      "status_rationale": "No confirmation that LME Copper 3M has hit $9,800/t yet; the window remains open until 2025-11-30."
+    },
+    {
+      "id": "77563952-a76a-4e1c-9eb3-67d8df0b21c6",
+      "status": "pending",
+      "status_rationale": "EIA storage \u22653,850 Bcf could occur during autumn builds, but no specific report cited; deadline is 2025-11-15."
+    },
+    {
+      "id": "7862249e-c28b-4767-b15c-34176bf6a28e",
+      "status": "pending",
+      "status_rationale": "Apple\u2019s fiscal Q4 2025 results are not yet released; deadline is 2025-11-10."
+    }
+  ]
+}

@@ -773,3 +773,12 @@ On the policy and trade front, new tariff threats marginally increase the likeli
 
 ---
 
+
+## 2025-10-12
+
+No predictions resolved today. The news flow centers on geopolitics (Israel-Hamas developments), U.S. domestic policy tensions, and renewed U.S.–China trade frictions, alongside weather events in the U.S. Northeast. None of these items provide definitive economic prints or market milestones needed to score the listed forecasts, whose key release dates cluster from mid-October to early November.
+
+That said, the backdrop could influence forward outcomes: trade tensions and China export curbs may weigh on global risk appetite and cyclicals (relevant to small-cap vs. large-cap relative performance and credit spreads), while incoming U.S. data (retail sales, ISM, payrolls) will shape growth and rates expectations into November. Energy and seasonal factors will drive the natural gas storage trajectory toward its typical autumn peak. We will reassess as scheduled releases arrive later this week and into month-end.
+
+---
+
