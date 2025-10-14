@@ -1,0 +1,321 @@
+{
+  "date": "2025-10-14",
+  "predictions": [
+    {
+      "text": "U.S. JOLTS job openings (level, seasonally adjusted) for September 2025 will print between 7.3 million and 8.3 million in the BLS release due by 2025-11-06.",
+      "category": "macro",
+      "horizon_days": 23,
+      "deadline": "2025-11-06",
+      "confidence_pct": 57,
+      "log_odds": 0.281,
+      "verification_criteria": "Verify in BLS JOLTS news release (Table 1). Condition met if the reported total job openings level (seasonally adjusted) for September 2025 is \u22657.3 million and \u22648.3 million.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/13/401k-investors-move-to-cash-bonds-in-september.html",
+        "https://www.cnbc.com/2025/10/13/new-car-prices-auto-loan-delinquencies.html"
+      ],
+      "monitoring_signals": [
+        "NFIB Small Business hiring plans",
+        "Indeed job postings index",
+        "Weekly initial and continuing jobless claims",
+        "Challenger job cuts"
+      ],
+      "rationale": "Labor demand is cooling but remains resilient; range captures moderation without sharp deterioration.",
+      "id": "877d84cd-24d0-410f-9ee6-d409d9fb7dc4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Alphabet (GOOGL) Q3 2025 Google Cloud revenue year-over-year growth will be between 17% and 24%, per the company\u2019s earnings release published by 2025-10-30.",
+      "category": "tech",
+      "horizon_days": 16,
+      "deadline": "2025-10-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Use Alphabet\u2019s Q3 2025 press release/10-Q. Compute YoY growth for Google Cloud segment revenue versus Q3 2024 reported revenue.",
+      "evidence": [
+        "https://www.marketwatch.com/story/broadcoms-stock-is-soaring-on-a-new-openai-deal-heres-what-to-know-ad52ff64?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Reported Azure and AWS growth rates",
+        "Google Cloud backlog/bookings commentary",
+        "AI/GenAI workload adoption disclosures",
+        "Cloud capex commentary from suppliers (e.g., Broadcom)"
+      ],
+      "rationale": "AI-driven cloud demand is firm, but price competition and optimization temper growth.",
+      "id": "b3deef7e-99ab-41bc-b4b0-0d41dc048825",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Amazon (AMZN) Q3 2025 AWS revenue year-over-year growth will be between 16% and 22%, per the company\u2019s earnings release published by 2025-10-31.",
+      "category": "tech",
+      "horizon_days": 17,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Use Amazon\u2019s Q3 2025 earnings release. Compare AWS revenue to Q3 2024 to calculate YoY growth.",
+      "evidence": [
+        "https://www.marketwatch.com/story/broadcoms-stock-is-soaring-on-a-new-openai-deal-heres-what-to-know-ad52ff64?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "AWS backlog and deal commentary",
+        "Customer optimization trends",
+        "GenAI service adoption (Bedrock, custom silicon uptake)",
+        "Peer cloud growth signals"
+      ],
+      "rationale": "GenAI demand supports mid-to-high teens growth amid ongoing cost optimizations at customers.",
+      "id": "f1fb1a12-1eba-4a9d-969f-b7c2e96d3e7d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Meta Platforms (META) Q3 2025 Reality Labs operating loss will be between $3.0B and $4.5B, per the company\u2019s earnings release by 2025-10-31.",
+      "category": "tech",
+      "horizon_days": 17,
+      "deadline": "2025-10-31",
+      "confidence_pct": 60,
+      "log_odds": 0.406,
+      "verification_criteria": "Verify in Meta\u2019s Q3 2025 press release/10-Q. Use the reported Reality Labs operating loss (GAAP).",
+      "evidence": [
+        "Historical pattern of substantial Reality Labs losses and continued investment cadence (company guidance)."
+      ],
+      "monitoring_signals": [
+        "Meta capex and opex guidance for RL",
+        "Device launch timelines and unit momentum",
+        "Hiring and R&D disclosures for AR/VR"
+      ],
+      "rationale": "Sustained AR/VR investment keeps RL losses elevated despite efficiency efforts.",
+      "id": "39c9d9b4-de9e-4c8e-ae23-d7ad49331f0f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Euro area Industrial Production (MoM, SA) for September 2025 will print between -0.8% and +0.4% in Eurostat\u2019s release due by 2025-11-13.",
+      "category": "macro",
+      "horizon_days": 30,
+      "deadline": "2025-11-13",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Use Eurostat\u2019s Industrial Production release. Check the month-over-month, seasonally adjusted headline percentage for September 2025.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
+        "https://www.cnbc.com/2025/10/13/rare-earth-stocks.html"
+      ],
+      "monitoring_signals": [
+        "Eurozone PMIs (manufacturing, new orders)",
+        "German factory orders/production",
+        "Energy price moves (TTF gas, power)",
+        "Export orders and China demand indicators"
+      ],
+      "rationale": "Manufacturing remains soft amid de-risking and external demand headwinds; energy costs add volatility.",
+      "id": "fb11b544-e212-4383-b0cd-9010ba812d45",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At the meeting concluding 2025-11-06, the Bank of England will leave Bank Rate unchanged at 5.25%.",
+      "category": "rates",
+      "horizon_days": 23,
+      "deadline": "2025-11-06",
+      "confidence_pct": 62,
+      "log_odds": 0.489,
+      "verification_criteria": "Confirm via BoE Monetary Policy Summary on 2025-11-06. Condition met if the policy rate remains at 5.25%.",
+      "evidence": [
+        "Risk-off positioning and growth concerns curb appetite for near-term hikes (401k rotation to cash/bonds): https://www.cnbc.com/2025/10/13/401k-investors-move-to-cash-bonds-in-september.html"
+      ],
+      "monitoring_signals": [
+        "UK CPI and services inflation",
+        "Wage growth and labor market tightness",
+        "PMI momentum and retail sales",
+        "BoE member speeches and vote splits"
+      ],
+      "rationale": "Sticky services inflation vs weak growth skews to holding steady while awaiting more data.",
+      "id": "a0ca9802-9bd2-4e31-a275-d47dc4e7bc27",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The PBOC will set the 1-year MLF rate unchanged at 2.50% at its next fixing on or before 2025-11-15.",
+      "category": "rates",
+      "horizon_days": 32,
+      "deadline": "2025-11-15",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "Verify the 1-year MLF rate on the PBOC website/newswire on the next fixing before or on 2025-11-15. Condition met if it remains 2.50%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/13/us-supply-chain-faces-another-tariff-headwind-ahead-of-new-port-fees.html",
+        "https://www.cnbc.com/2025/10/13/rare-earth-stocks.html"
+      ],
+      "monitoring_signals": [
+        "USD/CNH levels and FX stability considerations",
+        "TSF credit flows and loan demand",
+        "China CPI/PPI trends",
+        "State Council policy guidance"
+      ],
+      "rationale": "Growth support is balanced against FX stability; targeted tools preferred over benchmark cuts near-term.",
+      "id": "13d5fa78-6c3b-4006-884d-525d2aa56ad7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA-reported crude oil stocks at Cushing, OK will decrease by at least 2.5 million barrels week-over-week in at least one Weekly Petroleum Status Report published by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 32,
+      "deadline": "2025-11-15",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Use EIA Weekly Petroleum Status Report. Condition met if any report before or on 2025-11-15 shows Cushing total stocks change \u2264 -2.5 million barrels vs prior week.",
+      "evidence": [
+        "Global shipping disruptions and rerouting can intermittently tighten inland balances: https://www.cnbc.com/2025/10/13/israel-gaza-ceasefire-red-sea-freight-containerships.html"
+      ],
+      "monitoring_signals": [
+        "WTI prompt time spreads (CL1-CL2) and Midland-Cushing differentials",
+        "Refinery utilization in PADD 2",
+        "Keystone/Seaway pipeline flows",
+        "Import/export balance and crude runs"
+      ],
+      "rationale": "Seasonal runs and pipeline dynamics can produce a sizable weekly Cushing draw even in balanced markets.",
+      "id": "fa2052bb-53ee-46bf-8d28-e35caeef43f8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Shanghai\u2013Rotterdam weekly spot rate published on or before 2025-11-30 will be at least 20% higher than its 2025-09-05 reading.",
+      "category": "markets",
+      "horizon_days": 47,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Compare the published WCI Shanghai\u2013Rotterdam spot rate on or before 2025-11-30 to the value from 2025-09-05. Condition met if current \u2265 1.20 \u00d7 2025-09-05.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/13/israel-gaza-ceasefire-red-sea-freight-containerships.html",
+        "https://www.cnbc.com/2025/10/13/us-supply-chain-faces-another-tariff-headwind-ahead-of-new-port-fees.html"
+      ],
+      "monitoring_signals": [
+        "Drewry WCI weekly updates",
+        "Carrier surcharges and capacity announcements",
+        "Suez/Red Sea transit risk and rerouting",
+        "European port congestion metrics"
+      ],
+      "rationale": "Persistent Red Sea risk and new port fees support elevated Transatlantic/Europe-bound rates.",
+      "id": "0b0ba660-043d-4d4e-9952-ceedc71d2728",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "AAA U.S. national average regular gasoline price will print at or below $3.25 per gallon on at least one daily reading by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 47,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Check AAA daily national average regular gas price. Condition met if any day on or before 2025-11-30 shows \u2264 $3.25.",
+      "evidence": [
+        "Post-summer seasonal demand softness; consumer stress: https://www.cnbc.com/2025/10/13/new-car-prices-auto-loan-delinquencies.html",
+        "Risk-off tone and slower growth expectations: https://www.cnbc.com/2025/10/13/401k-investors-move-to-cash-bonds-in-september.html"
+      ],
+      "monitoring_signals": [
+        "RBOB futures and gasoline crack spreads",
+        "EIA gasoline inventories and product supplied",
+        "Refinery utilization and outages",
+        "Crude price trend (WTI/Brent)"
+      ],
+      "rationale": "Seasonality, softer demand, and stable crude increase odds of sub-$3.25 national average prints.",
+      "id": "46296806-8850-4d65-9c05-6e952486f79f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China CPI (headline, YoY) for October 2025 will print between -0.2% and +0.8% in the National Bureau of Statistics release by 2025-11-10.",
+      "category": "macro",
+      "horizon_days": 27,
+      "deadline": "2025-11-10",
+      "confidence_pct": 57,
+      "log_odds": 0.281,
+      "verification_criteria": "Use NBS release for October 2025 CPI (YoY, headline). Condition met if YoY change is \u2265 -0.2% and \u2264 +0.8%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/13/us-supply-chain-faces-another-tariff-headwind-ahead-of-new-port-fees.html",
+        "https://www.cnbc.com/2025/10/13/rare-earth-stocks.html"
+      ],
+      "monitoring_signals": [
+        "China food price indices and pork prices",
+        "China PPI trends",
+        "Retail sales and consumer confidence",
+        "Credit impulse (TSF) momentum"
+      ],
+      "rationale": "Muted domestic demand and weak PPI keep headline inflation subdued within a narrow band.",
+      "id": "8957685f-e2b0-411d-b0eb-28a9a27333c2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NFIB Small Business Optimism Index for October 2025 will print between 90.0 and 93.0 in the release due by 2025-11-12.",
+      "category": "macro",
+      "horizon_days": 29,
+      "deadline": "2025-11-12",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Verify in NFIB\u2019s October 2025 report. Condition met if the headline Small Business Optimism Index is \u2265 90.0 and \u2264 93.0.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/13/401k-investors-move-to-cash-bonds-in-september.html",
+        "https://www.cnbc.com/2025/10/13/new-car-prices-auto-loan-delinquencies.html"
+      ],
+      "monitoring_signals": [
+        "NFIB hiring plans and compensation intentions",
+        "Credit conditions and rates",
+        "ISM new orders and regional Fed surveys",
+        "Consumer sentiment trends"
+      ],
+      "rationale": "Higher-for-longer rates and soft demand cap sentiment; no abrupt deterioration expected.",
+      "id": "159c5dc4-e033-4f96-a3a5-a71ad856846f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing New Orders Index for October 2025 will print between 47.0 and 51.0 in ISM\u2019s release due by 2025-11-01.",
+      "category": "macro",
+      "horizon_days": 18,
+      "deadline": "2025-11-01",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Use ISM October 2025 Manufacturing report; check the New Orders subindex. Condition met if it falls within 47.0\u201351.0.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/13/401k-investors-move-to-cash-bonds-in-september.html"
+      ],
+      "monitoring_signals": [
+        "S&P Global Manufacturing PMI new orders",
+        "Regional Fed new orders (Philly, Empire, Richmond, Dallas)",
+        "Export orders and inventory ratios",
+        "Rates and dollar strength"
+      ],
+      "rationale": "Manufacturing demand remains near the expansion/contraction boundary amid restrictive financial conditions.",
+      "id": "724ba76a-5dc0-4d71-aae8-fcf18722dee3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, Taiwan\u2019s MOD will report at least one 24-hour period with 70 or more PRC military aircraft detected around Taiwan.",
+      "category": "geopolitics",
+      "horizon_days": 47,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "log_odds": -0.16,
+      "verification_criteria": "Confirm using daily releases from Taiwan\u2019s Ministry of National Defense. Condition met if any 24-hour period shows \u226570 PRC aircraft detected.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
+        "Heightened US\u2013China tech/trade frictions elevate PLA activity as signaling."
+      ],
+      "monitoring_signals": [
+        "Daily Taiwan MOD air activity reports",
+        "PRC maritime and air exercises announcements",
+        "US/ally transits and FONOPs in Taiwan Strait",
+        "Cross-strait political/military tensions"
+      ],
+      "supersedes_id": "38679a30-3103-462f-8caa-fecb843440c9",
+      "rationale": "Escalatory signaling remains plausible amid intensified tech/trade frictions and regional exercises.",
+      "id": "34ddf077-550f-4f2c-9cb2-4a880e48d87e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

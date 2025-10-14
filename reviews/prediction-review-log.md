@@ -782,3 +782,12 @@ That said, the backdrop could influence forward outcomes: trade tensions and Chi
 
 ---
 
+
+## 2025-10-13
+
+Today’s news flow is dominated by geopolitical developments in the Middle East, assorted corporate headlines, and market commentary. None of the items provide concrete data for the macroeconomic prints we’re tracking (U.S. retail sales control group, U.S. housing starts, China total social financing) or the scheduled policy decisions (FOMC). Similarly, there is no definitive evidence on the market-threshold forecasts (VIX, WTI, Dutch TTF, USD/CNH) or the relative sector performance call between XLF and XLK.
+
+Near-term, the first potential resolutions arrive within the week: China’s September TSF by October 15, U.S. September retail sales by October 16, and U.S. September housing starts by October 17. Until those releases hit, and absent explicit market settlement data in the coverage, all forecasts remain pending with no changes to status.
+
+---
+

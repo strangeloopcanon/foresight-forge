@@ -20,7 +20,7 @@
       ],
       "rationale": "Inflation progress is uneven but improving; Fed likely to hold while assessing data.",
       "id": "692f416e-45b2-49cb-8f02-547ca89eeece",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Shelter disinflation continues; goods remain soft; services steady near 0.2\u20130.3%.",
       "id": "6bab3d58-b3e4-48da-ab1b-414da2247239",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Real spending looks steady to soft; fuel drag and mixed discretionary outlays.",
       "id": "b512c95f-43c0-4f49-8bc4-900461a97693",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Services resilience balances weak manufacturing; composite near 50 with limited improvement.",
       "id": "00a03ea4-b187-415e-b72f-2a60205c9d31",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "High mortgage rates cap starts; permits leveling suggests range-bound prints.",
       "id": "3298f632-9a43-4947-a8fe-d6fd5ec4d70b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Seasonal September pickup from bond issuance and policy guidance boosts TSF.",
       "id": "27625b0f-6bc5-41f3-bf1a-5295d045494f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Labor market is cooling gradually; averages drift higher with softer hiring.",
       "id": "ba595d52-3e2e-4631-a492-c148d3a120fc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Absent shocks, post-earnings and holiday seasonality often compress implied vol.",
       "id": "0f20b9df-f39f-42de-8881-e57ed323ea51",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "Potential softer USD on lower yields plus RMB support measures could lift CNH.",
       "id": "eeffef6b-c1f5-46f5-bbb0-8128264038b9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "rationale": "Rotation toward cyclicals on stabilizing rates and steeper curve pressures megacap tech.",
       "id": "d6527275-b6db-4d3b-9cd3-1435c867fe55",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -242,7 +242,7 @@
       ],
       "rationale": "Macro growth worries and inventory builds can pressure crude despite OPEC+.",
       "id": "3f5af55d-ebaf-4e35-8109-48f18294efb8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -265,7 +265,7 @@
       ],
       "rationale": "High storage and mild weather risk favor lower TTF barring supply shocks.",
       "id": "8c6bb7fa-e85e-4c08-9506-a855df1a78c9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

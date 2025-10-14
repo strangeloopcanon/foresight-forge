@@ -1,0 +1,65 @@
+{
+  "date": "2025-10-13",
+  "assessments": [
+    {
+      "id": "692f416e-45b2-49cb-8f02-547ca89eeece",
+      "status": "pending",
+      "status_rationale": "No coverage of the November 5 FOMC decision in today\u2019s news; meeting has not concluded."
+    },
+    {
+      "id": "6bab3d58-b3e4-48da-ab1b-414da2247239",
+      "status": "pending",
+      "status_rationale": "No BLS October CPI Core print reported; release is due by November 15."
+    },
+    {
+      "id": "b512c95f-43c0-4f49-8bc4-900461a97693",
+      "status": "pending",
+      "status_rationale": "No Census retail sales control group data cited; September report expected by October 16."
+    },
+    {
+      "id": "00a03ea4-b187-415e-b72f-2a60205c9d31",
+      "status": "pending",
+      "status_rationale": "No mention of the Euro area October Composite PMI final; release due by November 6."
+    },
+    {
+      "id": "3298f632-9a43-4947-a8fe-d6fd5ec4d70b",
+      "status": "pending",
+      "status_rationale": "No report of U.S. September housing starts; data due by October 17."
+    },
+    {
+      "id": "27625b0f-6bc5-41f3-bf1a-5295d045494f",
+      "status": "pending",
+      "status_rationale": "No coverage of China September Total Social Financing; PBOC release is due by October 15."
+    },
+    {
+      "id": "ba595d52-3e2e-4631-a492-c148d3a120fc",
+      "status": "pending",
+      "status_rationale": "No weekly jobless claims update in today\u2019s articles; threshold could still be reached before November 15."
+    },
+    {
+      "id": "0f20b9df-f39f-42de-8881-e57ed323ea51",
+      "status": "pending",
+      "status_rationale": "No evidence today of the VIX closing at or below 14.00; window remains open through November 30."
+    },
+    {
+      "id": "eeffef6b-c1f5-46f5-bbb0-8128264038b9",
+      "status": "pending",
+      "status_rationale": "No reporting on USD/CNH reaching 7.20 or lower; deadline is November 30."
+    },
+    {
+      "id": "d6527275-b6db-4d3b-9cd3-1435c867fe55",
+      "status": "pending",
+      "status_rationale": "The performance window runs to November 30; articles mention tech-related moves but do not establish final relative performance vs. financials."
+    },
+    {
+      "id": "3f5af55d-ebaf-4e35-8109-48f18294efb8",
+      "status": "pending",
+      "status_rationale": "No confirmation of WTI settling at or below $74; monitoring continues through November 30."
+    },
+    {
+      "id": "8c6bb7fa-e85e-4c08-9506-a855df1a78c9",
+      "status": "pending",
+      "status_rationale": "No report of Dutch TTF settling at or below \u20ac33/MWh; outcome remains open until November 30."
+    }
+  ]
+}
