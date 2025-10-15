@@ -791,3 +791,12 @@ Near-term, the first potential resolutions arrive within the week: China’s Sep
 
 ---
 
+
+## 2025-10-14
+
+None of the forecasts reached resolution in today's news cycle. The headlines focus on U.S. political developments, the ongoing government shutdown, tariff escalations with China, Federal Reserve signaling, and select corporate items, but they do not include the specific data releases or corporate earnings needed to grade these predictions.
+
+Macro signals could influence the eventual outcomes. Fed commentary tilting dovish and heightened market volatility may affect business sentiment (NFIB) and rate decisions abroad (BoE), while renewed U.S.-China trade frictions could impact shipping costs and volumes (Drewry index) and broader inflation dynamics. Energy-related headlines did not provide EIA Cushing details or AAA gasoline price levels, leaving those calls unchanged for now.
+
+---
+

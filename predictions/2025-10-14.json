@@ -21,7 +21,7 @@
       ],
       "rationale": "Labor demand is cooling but remains resilient; range captures moderation without sharp deterioration.",
       "id": "877d84cd-24d0-410f-9ee6-d409d9fb7dc4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "AI-driven cloud demand is firm, but price competition and optimization temper growth.",
       "id": "b3deef7e-99ab-41bc-b4b0-0d41dc048825",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "GenAI demand supports mid-to-high teens growth amid ongoing cost optimizations at customers.",
       "id": "f1fb1a12-1eba-4a9d-969f-b7c2e96d3e7d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Sustained AR/VR investment keeps RL losses elevated despite efficiency efforts.",
       "id": "39c9d9b4-de9e-4c8e-ae23-d7ad49331f0f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "Manufacturing remains soft amid de-risking and external demand headwinds; energy costs add volatility.",
       "id": "fb11b544-e212-4383-b0cd-9010ba812d45",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -131,7 +131,7 @@
       ],
       "rationale": "Sticky services inflation vs weak growth skews to holding steady while awaiting more data.",
       "id": "a0ca9802-9bd2-4e31-a275-d47dc4e7bc27",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "rationale": "Growth support is balanced against FX stability; targeted tools preferred over benchmark cuts near-term.",
       "id": "13d5fa78-6c3b-4006-884d-525d2aa56ad7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -176,7 +176,7 @@
       ],
       "rationale": "Seasonal runs and pipeline dynamics can produce a sizable weekly Cushing draw even in balanced markets.",
       "id": "fa2052bb-53ee-46bf-8d28-e35caeef43f8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "Persistent Red Sea risk and new port fees support elevated Transatlantic/Europe-bound rates.",
       "id": "0b0ba660-043d-4d4e-9952-ceedc71d2728",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "rationale": "Seasonality, softer demand, and stable crude increase odds of sub-$3.25 national average prints.",
       "id": "46296806-8850-4d65-9c05-6e952486f79f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -245,7 +245,7 @@
       ],
       "rationale": "Muted domestic demand and weak PPI keep headline inflation subdued within a narrow band.",
       "id": "8957685f-e2b0-411d-b0eb-28a9a27333c2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -268,7 +268,7 @@
       ],
       "rationale": "Higher-for-longer rates and soft demand cap sentiment; no abrupt deterioration expected.",
       "id": "159c5dc4-e033-4f96-a3a5-a71ad856846f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -290,7 +290,7 @@
       ],
       "rationale": "Manufacturing demand remains near the expansion/contraction boundary amid restrictive financial conditions.",
       "id": "724ba76a-5dc0-4d71-aae8-fcf18722dee3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -314,7 +314,7 @@
       "supersedes_id": "38679a30-3103-462f-8caa-fecb843440c9",
       "rationale": "Escalatory signaling remains plausible amid intensified tech/trade frictions and regional exercises.",
       "id": "34ddf077-550f-4f2c-9cb2-4a880e48d87e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

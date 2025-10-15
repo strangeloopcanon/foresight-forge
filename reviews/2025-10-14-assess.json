@@ -1,0 +1,75 @@
+{
+  "date": "2025-10-14",
+  "assessments": [
+    {
+      "id": "877d84cd-24d0-410f-9ee6-d409d9fb7dc4",
+      "status": "pending",
+      "status_rationale": "No official BLS JOLTS release for September 2025 is referenced in today's news, and the deadline has not yet arrived."
+    },
+    {
+      "id": "b3deef7e-99ab-41bc-b4b0-0d41dc048825",
+      "status": "pending",
+      "status_rationale": "Alphabet's Q3 2025 results have not been reported in today's coverage; no verified figures on Google Cloud growth are available yet."
+    },
+    {
+      "id": "f1fb1a12-1eba-4a9d-969f-b7c2e96d3e7d",
+      "status": "pending",
+      "status_rationale": "Amazon's Q3 2025 earnings have not been released per today's news; no AWS growth data is available."
+    },
+    {
+      "id": "39c9d9b4-de9e-4c8e-ae23-d7ad49331f0f",
+      "status": "pending",
+      "status_rationale": "Meta's Q3 2025 results are not reported in today's items; no confirmation of Reality Labs operating loss."
+    },
+    {
+      "id": "fb11b544-e212-4383-b0cd-9010ba812d45",
+      "status": "pending",
+      "status_rationale": "Eurostat has not published September 2025 industrial production in today's news; no figure is available."
+    },
+    {
+      "id": "a0ca9802-9bd2-4e31-a275-d47dc4e7bc27",
+      "status": "pending",
+      "status_rationale": "The Bank of England decision for the November 6 meeting has not occurred; no credible report indicates a change."
+    },
+    {
+      "id": "13d5fa78-6c3b-4006-884d-525d2aa56ad7",
+      "status": "pending",
+      "status_rationale": "No PBOC MLF fixing outcome is cited in today's news, and the window to the deadline remains open."
+    },
+    {
+      "id": "fa2052bb-53ee-46bf-8d28-e35caeef43f8",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report cited today shows a 2.5 million barrel or larger week-over-week draw at Cushing."
+    },
+    {
+      "id": "0b0ba660-043d-4d4e-9952-ceedc71d2728",
+      "status": "pending",
+      "status_rationale": "No Drewry World Container Index update in today's coverage indicates a 20% or greater rise versus the 2025-09-05 reading."
+    },
+    {
+      "id": "46296806-8850-4d65-9c05-6e952486f79f",
+      "status": "pending",
+      "status_rationale": "No AAA daily national average gasoline price at or below $3.25 appears in today's reports."
+    },
+    {
+      "id": "8957685f-e2b0-411d-b0eb-28a9a27333c2",
+      "status": "pending",
+      "status_rationale": "China's October 2025 CPI has not been released per today's news items."
+    },
+    {
+      "id": "159c5dc4-e033-4f96-a3a5-a71ad856846f",
+      "status": "pending",
+      "status_rationale": "No NFIB Small Business Optimism Index reading for October 2025 is referenced; release is still ahead."
+    },
+    {
+      "id": "724ba76a-5dc0-4d71-aae8-fcf18722dee3",
+      "status": "pending",
+      "status_rationale": "ISM's October 2025 Manufacturing New Orders Index has not been published according to today's news."
+    },
+    {
+      "id": "34ddf077-550f-4f2c-9cb2-4a880e48d87e",
+      "status": "pending",
+      "status_rationale": "No report today from Taiwan's MOD indicates a 24-hour period with 70 or more PRC aircraft; the deadline is still in the future."
+    }
+  ]
+}

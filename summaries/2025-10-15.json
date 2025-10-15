@@ -1,0 +1,111 @@
+{
+  "bullets": [
+    {
+      "text": "Powell signals QT nearing end and hints at rate cuts, easing financial conditions despite lingering inflation risks.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/14/feds-powell-suggests-tightening-program-could-end-soon-offers-no-guidance-on-rates.html"
+    },
+    {
+      "text": "Prolonged U.S. shutdown drives agency layoffs, strains air traffic control, and boosts volatility; investors finally price economic drag.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/the-stock-market-performs-much-better-when-the-government-is-actually-doing-its-job-d071f9d1"
+    },
+    {
+      "text": "U.S.-China tensions escalate: new tariffs on cabinets, furniture, lumber; potential 100% duties and Chinese rare-earth curbs threaten U.S. defense supply chains.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/14/china-trump-xi-rare-earth-defense-critical-mineral-trade-war-tariffs.html"
+    },
+    {
+      "text": "Pentagon urges missile suppliers to ramp output; potential Tomahawk transfers to Ukraine underscore defense demand tailwinds for primes and component makers.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/buy-these-stocks-analyst-says-as-pentagon-urges-missile-suppliers-to-increase-production-d3abcdaf"
+    },
+    {
+      "text": "Walmart integrates with ChatGPT; AI-enabled shopping boosts shares, intensifying retail-AI platform competition with Amazon.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/10/14/youll-soon-be-able-to-shop-walmart-from-chatgpt/"
+    },
+    {
+      "text": "OpenAI partners with Broadcom, pursuing in-house chips; aggressive vertical integration reshapes AI supply chain and capex footprint.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/10/14/openai-and-broadcom-partner-on-ai-hardware/"
+    },
+    {
+      "text": "Big banks post strong trading revenue (JPM, Citi), while Dimon warns of rising credit risks from subprime autos and corporate lending excess.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html"
+    },
+    {
+      "text": "Automakers retrench on EVs: GM books $1.6B charge; Stellantis shifts $13B U.S. plan toward profitable models, slowing electrification.",
+      "tags": [
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/10/14/gm-to-take-1point6-billion-charge-related-to-ev-pullback.html"
+    },
+    {
+      "text": "Boeing delivers 55 jets in September, highest since 2018, signaling production recovery and improving aerospace supply-chain throughput.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/14/boeing-orders-deliveries-737-max.html"
+    },
+    {
+      "text": "U.S.-Arab coordination secures a Gaza deal, but cease-fire remains brittle, keeping regional geopolitical risk elevated.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/14/world/middleeast/us-arab-gaza-deal.html"
+    },
+    {
+      "text": "U.S. seizes $15B bitcoin tied to Cambodia 'pig-butchering' schemes and sanctions conglomerate, signaling tougher global crypto-fraud enforcement.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/14/bitcoin-doj-chen-zhi-pig-butchering-scam.html"
+    },
+    {
+      "text": "JWST may have spotted dark-matter-powered primordial stars, challenging early-universe models and informing particle physics.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251014014430.htm"
+    },
+    {
+      "text": "New blood test reportedly detects cancers up to 10 years early, foreshadowing disruptive shifts in screening economics if validated.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251013040337.htm"
+    },
+    {
+      "text": "Discovery of a brain 'hidden pulse' correlated with Alzheimer\u2019s risk offers a potential early diagnostic biomarker.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251014014418.htm"
+    }
+  ]
+}

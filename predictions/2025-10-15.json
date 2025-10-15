@@ -1,0 +1,238 @@
+{
+  "date": "2025-10-15",
+  "predictions": [
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 4.10% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 46,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Verify via FRED series DGS10 daily close. Success if any observation dated 2025-10-15 through 2025-11-30 inclusive is <= 4.10%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.cnbc.com/2025/10/14/feds-powell-suggests-tightening-program-could-end-soon-offers-no-guidance-on-rates.html",
+        "https://www.marketwatch.com/story/the-stock-market-performs-much-better-when-the-government-is-actually-doing-its-job-d071f9d1"
+      ],
+      "monitoring_signals": [
+        "U.S. CPI/PPI/PCE inflation surprises vs consensus",
+        "Treasury quarterly refunding details and net issuance",
+        "MOVE Index and rate-vol dynamics",
+        "FOMC communications and dot plot shifts",
+        "Payrolls and unemployment rate surprises"
+      ],
+      "rationale": "Easing policy tone and slowing growth risks favor a test of lower yields before year-end.",
+      "id": "6259a83c-c13f-4d4e-8aef-13ecc65dff96",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PPI Final Demand (MoM, SA) for October 2025 will print between 0.0% and 0.3% in the BLS release due by 2025-11-15.",
+      "category": "macro",
+      "horizon_days": 31,
+      "deadline": "2025-11-15",
+      "confidence_pct": 58,
+      "log_odds": 0.323,
+      "verification_criteria": "Check BLS PPI news release Table: Percent change from preceding month, seasonally adjusted, Final Demand. October 2025 value must be >= 0.0% and <= 0.3%.",
+      "evidence": [
+        "https://www.bls.gov/ppi/",
+        "https://www.cnbc.com/2025/10/14/feds-powell-suggests-tightening-program-could-end-soon-offers-no-guidance-on-rates.html"
+      ],
+      "monitoring_signals": [
+        "WTI/RBOB price changes through October",
+        "ISM Manufacturing/Services Prices Paid indices",
+        "Freight and container spot rates",
+        "Producer survey price intentions (NFIB, regional Feds)"
+      ],
+      "rationale": "Commodity inputs are mixed and demand momentum is moderate; a benign monthly PPI is likely.",
+      "id": "4f35f010-6cbd-41b8-81b9-209a39a58ce2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Walmart (WMT) Q3 FY2026 U.S. eCommerce net sales growth year-over-year will be between 18% and 26%, per the company\u2019s earnings release published by 2025-11-30.",
+      "category": "tech",
+      "horizon_days": 46,
+      "deadline": "2025-11-30",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Use Walmart\u2019s Q3 FY2026 press release/presentation. Locate the metric \u201cU.S. eCommerce sales growth\u201d (YoY). Success if the reported YoY percentage is within [18%, 26%].",
+      "evidence": [
+        "https://techcrunch.com/2025/10/14/youll-soon-be-able-to-shop-walmart-from-chatgpt/",
+        "https://stock.walmart.com/financials/quarterly-results/default.aspx"
+      ],
+      "monitoring_signals": [
+        "Walmart marketplace SKU growth and site traffic",
+        "U.S. retail sales ex-gas and control group",
+        "Fulfillment capacity and delivery speed updates",
+        "Holiday promotional cadence vs Amazon"
+      ],
+      "rationale": "Walmart\u2019s ongoing omni/eCommerce momentum and new AI-assisted shopping features support strong double-digit growth.",
+      "id": "dc4f3624-bef6-4948-b035-767f9b5270f2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, China will announce new export licensing restrictions covering at least one rare-earth element, permanent magnet, or other defense-critical mineral category.",
+      "category": "geopolitics",
+      "horizon_days": 46,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Confirmation via an official MOFCOM/State Council/Xinhua notice between 2025-10-15 and 2025-11-30, explicitly adding or tightening export controls/licensing on the specified materials.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/14/china-trump-xi-rare-earth-defense-critical-mineral-trade-war-tariffs.html",
+        "http://www.mofcom.gov.cn/"
+      ],
+      "monitoring_signals": [
+        "U.S. tariff/export-control announcements and timelines",
+        "Chinese state media signaling on critical minerals",
+        "Price moves in rare-earth oxides and NdFeB magnets",
+        "Industry association statements (rare-earth producers)"
+      ],
+      "rationale": "Escalating trade tensions increase the likelihood of targeted Chinese export controls as leverage.",
+      "id": "b7acf9f3-d049-4627-ba35-3f36c5459dcf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "AAA U.S. national average regular gasoline price will print at or below $3.20 per gallon on at least one daily reading by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 46,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Check the daily national average on gasprices.aaa.com or AAA\u2019s API. Success if any daily national average posted between 2025-10-15 and 2025-11-30 is <= $3.20.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "RBOB futures and crack spreads",
+        "Refinery utilization and unplanned outages",
+        "PADD gasoline inventories and imports",
+        "Seasonal demand (EIA product supplied)"
+      ],
+      "supersedes_id": "46296806-8850-4d65-9c05-6e952486f79f",
+      "rationale": "Seasonal demand softness and adequate inventories should pressure retail prices lower into late November.",
+      "id": "e57b8991-02f6-4132-9e9e-ad401d6b2d37",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-15 close to 2025-11-30 close, Consumer Staples (XLP) will underperform Consumer Discretionary (XLY) by at least 2.5 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 46,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Using Yahoo Finance or equivalent adjusted close data, compute % change for XLP and XLY from 2025-10-15 close to 2025-11-30 close. Success if (XLY% - XLP%) >= 2.5pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/14/feds-powell-suggests-tightening-program-could-end-soon-offers-no-guidance-on-rates.html"
+      ],
+      "monitoring_signals": [
+        "10Y yields and growth expectations",
+        "Retail earnings (AMZN, WMT, TSLA) and guidance",
+        "Consumer confidence and spending data",
+        "Market breadth and risk sentiment (VIX)"
+      ],
+      "rationale": "Easing financial conditions favor cyclicals over defensives into year-end positioning.",
+      "id": "806fd79b-9faa-43c8-8505-5a449a9e510e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. JOLTS quits rate for September 2025 will print between 2.1% and 2.5% in the BLS release due by 2025-11-06.",
+      "category": "macro",
+      "horizon_days": 22,
+      "deadline": "2025-11-06",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Check BLS JOLTS news release Table for quits rate, total nonfarm, seasonally adjusted, September 2025. Success if reported rate is within [2.1%, 2.5%].",
+      "evidence": [
+        "https://www.bls.gov/jlt/",
+        "https://www.marketwatch.com/story/the-stock-market-performs-much-better-when-the-government-is-actually-doing-its-job-d071f9d1"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims",
+        "NFIB job openings hard-to-fill",
+        "Indeed/LinkUp job postings trends",
+        "Conference Board labor differential"
+      ],
+      "rationale": "Labor demand is cooling gradually; quits should remain near recent trough ranges.",
+      "id": "0ab70188-160e-4074-8222-1b7b2a219e5f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. 10Y\u20132Y Treasury yield spread (FRED: T10Y2Y) will close at or above -0.05 percentage points on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 46,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Verify via FRED series T10Y2Y daily close. Success if any observation dated 2025-10-15 through 2025-11-30 inclusive is >= -0.05.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/T10Y2Y",
+        "https://www.cnbc.com/2025/10/14/feds-powell-suggests-tightening-program-could-end-soon-offers-no-guidance-on-rates.html"
+      ],
+      "monitoring_signals": [
+        "Shifts in Fed rate path expectations",
+        "Treasury supply dynamics and term premium",
+        "Inflation surprises vs consensus",
+        "Risk-off episodes affecting duration demand"
+      ],
+      "rationale": "Curve re-steepening risk rises if the market prices earlier cuts or duration demand builds.",
+      "id": "a61beb2b-3c39-43a5-9a12-effaf96cac90",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent crude oil front-month futures will settle at or above $88.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 46,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Confirm via ICE official settlement prices (or widely cited vendor data). Success if any front-month Brent settlement between 2025-10-15 and 2025-11-30 is >= $88.00.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/14/world/middleeast/us-arab-gaza-deal.html",
+        "https://www.cnbc.com/2025/10/14/china-trump-xi-rare-earth-defense-critical-mineral-trade-war-tariffs.html"
+      ],
+      "monitoring_signals": [
+        "Middle East security developments and supply risks",
+        "OPEC+ policy communications and compliance",
+        "U.S. inventory draws at Cushing and nationwide",
+        "Global demand indicators (mobility, PMIs)"
+      ],
+      "rationale": "Persistent geopolitical risk and potential inventory draws can lift crude toward the upper end of recent ranges.",
+      "id": "484f11fb-4be6-4525-ba50-ef060bbb2918",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The S&P 500 Index (ticker: ^GSPC) will close down at least 2.0% day-over-day on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 46,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "log_odds": -0.04,
+      "verification_criteria": "Using official S&P or Yahoo Finance (^GSPC) daily closes, calculate daily % change. Success if any close between 2025-10-15 and 2025-11-30 is <= -2.0% vs the prior trading day.",
+      "evidence": [
+        "https://www.marketwatch.com/story/the-stock-market-performs-much-better-when-the-government-is-actually-doing-its-job-d071f9d1",
+        "https://www.cnbc.com/2025/10/14/china-trump-xi-rare-earth-defense-critical-mineral-trade-war-tariffs.html",
+        "https://www.cboe.com/tradable_products/vix/"
+      ],
+      "monitoring_signals": [
+        "Earnings season surprises and guidance cuts",
+        "Macro data shocks (jobs, inflation)",
+        "Policy headlines (shutdown/fiscal deadlines)",
+        "VIX term structure and skew"
+      ],
+      "rationale": "Event risk from earnings, policy, and geopolitics raises odds of a single-session air pocket.",
+      "id": "173b92bd-acf0-41a8-bc12-30a8a537522e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
