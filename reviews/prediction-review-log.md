@@ -800,3 +800,12 @@ Macro signals could influence the eventual outcomes. Fed commentary tilting dovi
 
 ---
 
+
+## 2025-10-15
+
+Today’s news flow is dominated by U.S. political developments, trade tensions with China, and various corporate updates. Notably, the Fed’s Beige Book highlights tariff-driven price pressures, which could nudge near-term inflation readings higher, but there are no definitive data releases tied to our PPI or JOLTS predictions. Geopolitical items (Venezuela, Russia/Ukraine signaling) and U.S.–China friction, including rare earths coverage, may shift risk sentiment and commodities in coming weeks, yet no concrete actions or price prints resolve our oil, yields, or curve-spread calls today.
+
+On markets, headlines reference firm bank earnings, selective tech moves, and Asia-Pacific gains, but provide no hard evidence on the S&P 500’s large down-day criterion or sector relative performance (XLP vs. XLY). Walmart’s IoT sensor rollout is strategically relevant but not an earnings disclosure. Similarly, there are no specific AAA gasoline price levels or Brent settlements cited. Bottom line: all forecasts remain pending pending official data releases or market closes that directly meet the stated thresholds.
+
+---
+

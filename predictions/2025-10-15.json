@@ -23,7 +23,7 @@
       ],
       "rationale": "Easing policy tone and slowing growth risks favor a test of lower yields before year-end.",
       "id": "6259a83c-c13f-4d4e-8aef-13ecc65dff96",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Commodity inputs are mixed and demand momentum is moderate; a benign monthly PPI is likely.",
       "id": "4f35f010-6cbd-41b8-81b9-209a39a58ce2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -69,7 +69,7 @@
       ],
       "rationale": "Walmart\u2019s ongoing omni/eCommerce momentum and new AI-assisted shopping features support strong double-digit growth.",
       "id": "dc4f3624-bef6-4948-b035-767f9b5270f2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -92,7 +92,7 @@
       ],
       "rationale": "Escalating trade tensions increase the likelihood of targeted Chinese export controls as leverage.",
       "id": "b7acf9f3-d049-4627-ba35-3f36c5459dcf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -116,7 +116,7 @@
       "supersedes_id": "46296806-8850-4d65-9c05-6e952486f79f",
       "rationale": "Seasonal demand softness and adequate inventories should pressure retail prices lower into late November.",
       "id": "e57b8991-02f6-4132-9e9e-ad401d6b2d37",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "Easing financial conditions favor cyclicals over defensives into year-end positioning.",
       "id": "806fd79b-9faa-43c8-8505-5a449a9e510e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -161,7 +161,7 @@
       ],
       "rationale": "Labor demand is cooling gradually; quits should remain near recent trough ranges.",
       "id": "0ab70188-160e-4074-8222-1b7b2a219e5f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "Curve re-steepening risk rises if the market prices earlier cuts or duration demand builds.",
       "id": "a61beb2b-3c39-43a5-9a12-effaf96cac90",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -207,7 +207,7 @@
       ],
       "rationale": "Persistent geopolitical risk and potential inventory draws can lift crude toward the upper end of recent ranges.",
       "id": "484f11fb-4be6-4525-ba50-ef060bbb2918",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -231,7 +231,7 @@
       ],
       "rationale": "Event risk from earnings, policy, and geopolitics raises odds of a single-session air pocket.",
       "id": "173b92bd-acf0-41a8-bc12-30a8a537522e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

@@ -1,0 +1,280 @@
+{
+  "date": "2025-10-16",
+  "predictions": [
+    {
+      "text": "U.S. PCE Core (MoM, SA) for September 2025 will print between 0.20% and 0.30% in the BEA release due by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "log_odds": 0.281,
+      "verification_criteria": "Verify in BEA's 'Personal Income and Outlays' release: 'PCE price index excluding food and energy, percent change from preceding month' for September 2025.",
+      "evidence": [
+        "https://www.bea.gov/news/schedule",
+        "https://www.bea.gov/data/income-saving/personal-income",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+      ],
+      "monitoring_signals": [
+        "BLS CPI Core MoM",
+        "PPI Final Demand ex-food/energy MoM",
+        "BEA nowcast revisions",
+        "Unit labor costs",
+        "Tariff and import price developments"
+      ],
+      "rationale": "Recent CPI/PPI suggest sticky 0.2\u20130.3% core trend; services disinflation slow but goods not reaccelerating sharply.",
+      "id": "6493f5e8-2fcd-4454-8342-3272c4097cc8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan 1-year inflation expectations (final) for October 2025 will print between 3.0% and 3.6%.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-10-25",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "Verify in the University of Michigan Surveys of Consumers final October 2025 report: 'Expected change in prices during the next year.'",
+      "evidence": [
+        "http://www.sca.isr.umich.edu/",
+        "https://www.aaagasprices.com/",
+        "https://fred.stlouisfed.org/series/T10YIE"
+      ],
+      "monitoring_signals": [
+        "Preliminary Michigan expectations print",
+        "Gasoline price trend (AAA)",
+        "Breakeven inflation (5y/10y) moves",
+        "News on tariffs and consumer price pressures"
+      ],
+      "rationale": "Gas prices have eased modestly; preliminary readings and breakevens point to mid-3% range.",
+      "id": "cd5085fd-7880-47e6-8fb0-747cded8f791",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The PBOC will keep the 1-year Loan Prime Rate unchanged at 3.35% at the fixing on or before 2025-10-21.",
+      "category": "rates",
+      "horizon_days": 5,
+      "deadline": "2025-10-21",
+      "confidence_pct": 62,
+      "log_odds": 0.489,
+      "verification_criteria": "Confirm via PBOC/National Interbank Funding Center official LPR announcement showing 1-year LPR = 3.35% at the next fixing date.",
+      "evidence": [
+        "http://www.pbc.gov.cn/en/3688110/index.html",
+        "https://www.chinamoney.com.cn/english/bmkfrr/"
+      ],
+      "monitoring_signals": [
+        "MLF rate outcome and volume",
+        "CNH FX stability",
+        "Bank funding conditions (SHIBOR/DR007)",
+        "Credit growth/TSF prints"
+      ],
+      "rationale": "With the MLF rate steady and FX sensitivity elevated, pass-through to LPR is unlikely near-term.",
+      "id": "2f7884a4-0199-445e-ae26-e9ae42d456b3",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Euro area HCOB Manufacturing PMI (final) for October 2025 will print between 47.0 and 49.0.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2025-11-04",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Verify in S&P Global/HCOB final Eurozone Manufacturing PMI press release for October 2025.",
+      "evidence": [
+        "https://www.pmi.spglobal.com/Public/Release/PressReleases",
+        "https://www.hcob-bank.de/en/media/press-releases/"
+      ],
+      "monitoring_signals": [
+        "Flash PMI results by country (DE/FR/IT/ES)",
+        "Energy price moves (TTF)",
+        "Export orders softness on tariffs/trade"
+      ],
+      "rationale": "Manufacturing remains in mild contraction; flash prints and new orders suggest sub-50 but improving.",
+      "id": "1399f7f9-1e05-4411-b01e-4df26609244e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index Shanghai\u2013Los Angeles weekly spot rate published on or before 2025-11-30 will be at least 20% higher than its 2025-09-05 reading.",
+      "category": "markets",
+      "horizon_days": 45,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Compare Drewry WCI Shanghai\u2013Los Angeles spot rate from the 2025-09-05 report to any subsequent weekly print up to 2025-11-30; increase \u226520%.",
+      "evidence": [
+        "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index-assessed-by-drewry"
+      ],
+      "monitoring_signals": [
+        "U.S.\u2013China tariff actions",
+        "Port congestion indices and schedules",
+        "Carrier capacity and blank sailings",
+        "Peak season bookings"
+      ],
+      "rationale": "Escalating trade controls and capacity management likely lift Transpacific spot rates.",
+      "id": "ff2ff425-472e-48e6-bfab-5d24b1c1bc82",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE BofA U.S. High Yield Index Option-Adjusted Spread (FRED: BAMLH0A0HYM2) will close at or above 4.50% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 45,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Verify on FRED series BAMLH0A0HYM2 daily close at or above 4.50% by the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+        "https://www.cnbc.com/markets/"
+      ],
+      "monitoring_signals": [
+        "Equity volatility (VIX)",
+        "Credit ETF flows (HYG/JNK)",
+        "Macro downside surprises",
+        "Tariff-driven growth and inflation risks"
+      ],
+      "rationale": "Tighter financial conditions and event risks could spark a temporary risk-off widening.",
+      "id": "bd77a69b-555e-4ed0-b362-ab5d8845588c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Freddie Mac Primary Mortgage Market Survey 30-year fixed rate will print at or below 6.50% in at least one weekly release by 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 45,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Verify in Freddie Mac PMMS weekly report that the U.S. 30-year fixed-rate mortgage average is \u22646.50% in at least one week.",
+      "evidence": [
+        "https://www.freddiemac.com/pmms",
+        "https://fred.stlouisfed.org/series/MORTGAGE30US",
+        "https://fred.stlouisfed.org/series/DFII10"
+      ],
+      "monitoring_signals": [
+        "10Y UST yields and term premium",
+        "MBS spreads (current coupon vs UST)",
+        "Inflation data surprises (CPI/PCE)"
+      ],
+      "rationale": "Stabilizing inflation and lower term premium would feed through to mortgage rates with a lag.",
+      "id": "ef2a01b8-7314-4ab7-9633-c7e48beda152",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "COMEX Gold futures (GC, most-active) will settle at or above $2,650 per troy ounce on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 45,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Check CME Group daily settlement for the most-active COMEX Gold (GC) contract; any settlement \u2265$2,650/oz before deadline.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/metals/precious/gold.quotes.html",
+        "https://www.cnbc.com/gold/"
+      ],
+      "monitoring_signals": [
+        "Real yields (10Y TIPS)",
+        "USD DXY moves",
+        "Geopolitical risk headlines",
+        "Central bank gold purchases"
+      ],
+      "rationale": "Geopolitical risk and easing real yields could briefly propel gold to new highs.",
+      "id": "65891a3b-3be9-49ad-8108-22e28dcc3dfc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY (Yahoo Finance: JPY=X) will trade at or below 148.50 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 45,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "log_odds": -0.04,
+      "verification_criteria": "Verify intraday low on Yahoo Finance JPY=X at or below 148.50 on any UTC day by the deadline.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/JPY=X",
+        "https://www.mof.go.jp/english/press/"
+      ],
+      "monitoring_signals": [
+        "MoF/BoJ intervention rhetoric",
+        "U.S.\u2013Japan yield differential",
+        "U.S. CPI/PCE surprises",
+        "Risk-off episodes lifting JPY"
+      ],
+      "rationale": "Intervention risk is elevated; a risk-off spike or official action could push a brief sub-149 print.",
+      "id": "5097ee30-9ff7-4d18-aadf-6fe18be861a9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "From 2025-10-16 close to 2025-11-30 close, Energy Select Sector SPDR (XLE) will outperform SPDR S&P 500 ETF Trust (SPY) by at least 2.5 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 45,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Compute percentage change in adjusted close from 2025-10-16 to 2025-11-30 for XLE and SPY (Yahoo Finance). XLE minus SPY \u2265 +2.5 pp.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/XLE/history",
+        "https://finance.yahoo.com/quote/SPY/history",
+        "https://www.cnbc.com/oil/"
+      ],
+      "monitoring_signals": [
+        "Oil prices (WTI/Brent)",
+        "Energy earnings revisions and buybacks",
+        "Factor rotation into value/cyclicals"
+      ],
+      "rationale": "Oil-sensitive equities benefit from tight balances and rising cash returns amid possible value rotation.",
+      "id": "433984c9-c7fd-4f35-b427-82622aad199f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China PPI (headline, YoY) for October 2025 will print between -2.5% and -1.0% in the National Bureau of Statistics release by 2025-11-10.",
+      "category": "macro",
+      "horizon_days": 25,
+      "deadline": "2025-11-10",
+      "confidence_pct": 57,
+      "log_odds": 0.281,
+      "verification_criteria": "Verify in NBS monthly price release the Industrial Producer Price Index (YoY) for October 2025.",
+      "evidence": [
+        "https://www.stats.gov.cn/english/PressRelease/",
+        "https://www.ceicdata.com/en/china/producer-price-index-ppi"
+      ],
+      "monitoring_signals": [
+        "Commodity input costs (metals/energy)",
+        "Export prices and CNY FX",
+        "Domestic demand indicators (PMI new orders)"
+      ],
+      "rationale": "Weak domestic demand and excess capacity keep producer prices in deflation, though narrowing from lows.",
+      "id": "9e0d872b-4502-4062-ba51-a2fb1d1b895f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Brent\u2013WTI front-month settlement spread will reach at or above $7.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 45,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "On any day before the deadline, subtract NYMEX WTI front-month settlement from ICE Brent front-month settlement; if \u2265$7.00, condition met.",
+      "evidence": [
+        "https://www.theice.com/products/219/Brent-Crude-Futures",
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.quotes.html"
+      ],
+      "monitoring_signals": [
+        "Brent-side supply risks (MENA disruptions)",
+        "Cushing inventories and WTI bottlenecks",
+        "Refinery runs and product cracks"
+      ],
+      "rationale": "Geopolitical risk premia and U.S. inland dynamics can widen the transatlantic spread episodically.",
+      "id": "6b1ca6d1-332a-4490-9913-e8971fca5a17",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

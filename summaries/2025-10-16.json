@@ -1,0 +1,123 @@
+{
+  "bullets": [
+    {
+      "text": "US-China tariffs/trade controls escalate; Fed Beige Book says tariffs lifting prices and squeezing consumers, adding inflationary pressure.",
+      "tags": [
+        "macro",
+        "rates",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/15/tariffs-are-pushing-prices-higher-and-consumers-are-feeling-the-hit-feds-beige-book-shows.html"
+    },
+    {
+      "text": "Supreme Court signals skepticism of Voting Rights Act protections, potentially enabling partisan gerrymanders that could hand House control to Republicans.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/15/upshot/supreme-court-voting-rights-gerrymander.html"
+    },
+    {
+      "text": "U.S. plans broader control of companies to counter China\u2019s rare-earth dominance, expanding industrial policy and supply-chain security measures.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/10/15/us/politics/us-government-companies-china.html"
+    },
+    {
+      "text": "Bunge jumps 11% after Trump mulls China cooking oil embargo, highlighting commodity market sensitivity to escalating trade weaponization.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/15/bunge-shares-soar-after-trump-considers-china-cooking-oil-embargo.html"
+    },
+    {
+      "text": "Federal judge blocks Trump from firing civil servants during shutdown, preserving government capacity and stabilizing services near-term.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/15/judge-trump-jobs-government-shutdown.html"
+    },
+    {
+      "text": "Bank of America beats expectations with 43% surge in investment banking revenue, signaling dealmaking rebound across Wall Street.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/15/bank-of-america-bac-earnings-q3-2025.html"
+    },
+    {
+      "text": "Nvidia, Microsoft, xAI, BlackRock back $40B Aligned Data Centers deal, underscoring massive capital flooding into AI infrastructure.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/15/nvidia-microsoft-blackrock-aligned-data-centers.html"
+    },
+    {
+      "text": "Apple debuts M5 chip across MacBook Pro, iPad Pro, Vision Pro, promising major AI performance gains.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/"
+    },
+    {
+      "text": "Walmart rolling out millions of IoT sensors nationwide, a first at retail scale, targeting operational efficiency and loss reduction.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/15/walmart-deploying-millions-of-internet-iot-sensors-across-us.html"
+    },
+    {
+      "text": "U.S. Army launches program to deploy small nuclear reactors; sector stocks mixed as policy support grows.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/15/army-nuclear-reactor-trump-oklo-nuscale-nano-centrus.html"
+    },
+    {
+      "text": "United Airlines sees premium travelers driving record revenue; earnings beat on profit outlook despite revenue shortfall.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/15/united-airlines-ual-3q-2025-earnings.html"
+    },
+    {
+      "text": "Researchers unlock century-old quantum effect to boost solar efficiency, potentially enabling more powerful photovoltaics.",
+      "tags": [
+        "science",
+        "energy",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251014014433.htm"
+    },
+    {
+      "text": "Physicists discover a new class of time crystal, advancing nonequilibrium physics with potential quantum computing applications.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251015032309.htm"
+    },
+    {
+      "text": "Hamas returns all recoverable hostage remains; amid truce, it violently suppresses rivals in Gaza, complicating regional stability.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/15/world/middleeast/hamas-crackdown-rivals-gaza.html"
+    },
+    {
+      "text": "Trump authorizes covert CIA action in Venezuela, risking escalation and regional backlash amid ongoing U.S.\u2013Latin America tensions.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/15/us/politics/trump-covert-cia-action-venezuela.html"
+    }
+  ]
+}
