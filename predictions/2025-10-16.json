@@ -23,7 +23,7 @@
       ],
       "rationale": "Recent CPI/PPI suggest sticky 0.2\u20130.3% core trend; services disinflation slow but goods not reaccelerating sharply.",
       "id": "6493f5e8-2fcd-4454-8342-3272c4097cc8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -47,7 +47,7 @@
       ],
       "rationale": "Gas prices have eased modestly; preliminary readings and breakevens point to mid-3% range.",
       "id": "cd5085fd-7880-47e6-8fb0-747cded8f791",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -70,7 +70,7 @@
       ],
       "rationale": "With the MLF rate steady and FX sensitivity elevated, pass-through to LPR is unlikely near-term.",
       "id": "2f7884a4-0199-445e-ae26-e9ae42d456b3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -92,7 +92,7 @@
       ],
       "rationale": "Manufacturing remains in mild contraction; flash prints and new orders suggest sub-50 but improving.",
       "id": "1399f7f9-1e05-4411-b01e-4df26609244e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -114,7 +114,7 @@
       ],
       "rationale": "Escalating trade controls and capacity management likely lift Transpacific spot rates.",
       "id": "ff2ff425-472e-48e6-bfab-5d24b1c1bc82",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -137,7 +137,7 @@
       ],
       "rationale": "Tighter financial conditions and event risks could spark a temporary risk-off widening.",
       "id": "bd77a69b-555e-4ed0-b362-ab5d8845588c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "Stabilizing inflation and lower term premium would feed through to mortgage rates with a lag.",
       "id": "ef2a01b8-7314-4ab7-9633-c7e48beda152",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -183,7 +183,7 @@
       ],
       "rationale": "Geopolitical risk and easing real yields could briefly propel gold to new highs.",
       "id": "65891a3b-3be9-49ad-8108-22e28dcc3dfc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -206,7 +206,7 @@
       ],
       "rationale": "Intervention risk is elevated; a risk-off spike or official action could push a brief sub-149 print.",
       "id": "5097ee30-9ff7-4d18-aadf-6fe18be861a9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -229,7 +229,7 @@
       ],
       "rationale": "Oil-sensitive equities benefit from tight balances and rising cash returns amid possible value rotation.",
       "id": "433984c9-c7fd-4f35-b427-82622aad199f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -251,7 +251,7 @@
       ],
       "rationale": "Weak domestic demand and excess capacity keep producer prices in deflation, though narrowing from lows.",
       "id": "9e0d872b-4502-4062-ba51-a2fb1d1b895f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -273,7 +273,7 @@
       ],
       "rationale": "Geopolitical risk premia and U.S. inland dynamics can widen the transatlantic spread episodically.",
       "id": "6b1ca6d1-332a-4490-9913-e8971fca5a17",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

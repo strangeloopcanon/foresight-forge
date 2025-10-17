@@ -1,0 +1,284 @@
+{
+  "date": "2025-10-17",
+  "predictions": [
+    {
+      "text": "USD/JPY (Yahoo Finance: JPY=X) will trade at or above 152.50 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 44,
+      "deadline": "2025-11-30",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Confirmed if Yahoo Finance (ticker: JPY=X) shows an intraday high >= 152.50 on any UTC trading day on or before 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html",
+        "https://www.cnbc.com/2025/10/16/regional-banks-and-jefferies-shares-tank-as-concerns-grow-on-wall-street-about-sour-loans.html",
+        "https://www.cnbc.com/2025/10/16/trump-government-shutdown-senate-vote.html"
+      ],
+      "monitoring_signals": [
+        "UST\u2013JGB yield differentials (2Y and 10Y)",
+        "BOJ policy guidance and JGB purchase operations",
+        "Japan MoF FX intervention rhetoric or operations",
+        "U.S. CPI/PCE, payrolls surprises",
+        "DXY index momentum and risk sentiment"
+      ],
+      "rationale": "Policy divergence and risk-off flows can lift USD/JPY; watch for BOJ pushback.",
+      "id": "0da34645-962f-41e2-b45e-dfbe2c743b5d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Cboe Volatility Index (ticker: ^VIX) will close at or above 22.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 44,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "log_odds": 0.04,
+      "verification_criteria": "Use the official Cboe closing value for ^VIX (Cboe or Yahoo Finance). Any close >= 22.00 by 2025-11-30 satisfies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/16/trump-government-shutdown-senate-vote.html",
+        "https://www.cnbc.com/2025/10/16/regional-banks-and-jefferies-shares-tank-as-concerns-grow-on-wall-street-about-sour-loans.html",
+        "https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html"
+      ],
+      "monitoring_signals": [
+        "S&P 500 realized volatility and skew",
+        "Credit spreads (IG/HY OAS) widening",
+        "Fiscal headlines and shutdown risk",
+        "Geopolitical flare-ups",
+        "Systematic flows (dealer gamma positioning)"
+      ],
+      "rationale": "Policy/fiscal uncertainty and credit concerns raise tail-risk premia.",
+      "id": "11145006-ec0c-4d10-9f0f-ba64963785aa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-17 close to 2025-11-30 close, SPDR S&P Regional Banking ETF (KRE) will underperform SPDR S&P 500 ETF Trust (SPY) by at least 3.5 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 44,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Compute adjusted-close total return between 2025-10-17 and 2025-11-30 (UTC) from Yahoo Finance for KRE and SPY. If [Ret_KRE \u2212 Ret_SPY] <= \u22123.5 pp, the prediction is correct.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/16/regional-banks-and-jefferies-shares-tank-as-concerns-grow-on-wall-street-about-sour-loans.html"
+      ],
+      "monitoring_signals": [
+        "CRE delinquency and charge-off trends",
+        "Bank earnings guidance and net interest margins",
+        "Deposit flows and funding costs",
+        "Regulatory headlines/stress tests",
+        "Yield curve shifts impacting NIM"
+      ],
+      "rationale": "Rising sour-loan fears and tighter credit conditions disproportionately pressure regional banks.",
+      "id": "70858532-d669-477a-8359-4bc1ef6dd342",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Drewry World Container Index (Composite) weekly reading published on or before 2025-11-30 will be at least 25% higher than its 2025-09-05 Composite level.",
+      "category": "markets",
+      "horizon_days": 44,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Compare Drewry WCI Composite level on 2025-09-05 with any Composite reading published up to 2025-11-30 at https://www.drewry.co.uk/. Increase >= 25% confirms.",
+      "evidence": [
+        "https://www.drewry.co.uk/supply-chain-advisors/supply-chain-expertise/world-container-index",
+        "https://www.cnbc.com/2025/10/16/tariff-costs-to-companies-this-year-to-hit-1point2-trillion-with-consumers-taking-most-of-the-hit-sp-says.html"
+      ],
+      "monitoring_signals": [
+        "Carrier blank sailings and capacity utilization",
+        "Port congestion metrics",
+        "Red Sea/Suez and Panama Canal disruption reports",
+        "Bunker fuel prices (VLSFO)",
+        "Seasonal peak shipping volumes"
+      ],
+      "rationale": "Tight capacity, disruptions, and tariff front-loading support elevated all-in freight rates.",
+      "id": "2ae6f1b3-e3c5-4d16-8c36-636efdc3ba73",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. total commercial crude oil inventories (excluding SPR) will decline by at least 8.0 million barrels week-over-week in at least one EIA Weekly Petroleum Status Report published by 2025-11-15.",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-11-15",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Use EIA Weekly Petroleum Status Report. A weekly change in total commercial crude stocks <= \u22128.0 million barrels (Table 1) on any report through 2025-11-15 confirms.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "Refinery utilization rates",
+        "Net crude imports/exports",
+        "Pipeline/terminal outages",
+        "Cushing, OK inventory trends",
+        "SPR activity or policy releases"
+      ],
+      "rationale": "Refinery runs and export strength can create a one-off large draw into maintenance transitions.",
+      "id": "85c5b500-69df-4a5f-b8cb-33ee3b9d499f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing Prices Index for October 2025 will print at or above 56.0 in ISM\u2019s release due by 2025-11-01.",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-11-01",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Confirm with the official ISM Manufacturing Report on Business for October 2025. The \u2018Prices\u2019 subindex value >= 56.0 satisfies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/16/tariff-costs-to-companies-this-year-to-hit-1point2-trillion-with-consumers-taking-most-of-the-hit-sp-says.html"
+      ],
+      "monitoring_signals": [
+        "Energy and metals price trends",
+        "Supplier delivery times",
+        "Import costs and tariffs",
+        "PMI New Orders momentum",
+        "Transportation and freight rate changes"
+      ],
+      "rationale": "Tariffs and freight passthroughs lift input costs, keeping prices paid in expansion.",
+      "id": "0e4f9f90-1fbc-4fea-96f0-916eb460271c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan 5\u201310 year inflation expectations (final) for October 2025 will print between 2.8% and 3.1%.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-10-25",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "Verify via University of Michigan Surveys of Consumers final release for October 2025; accept the headline 5\u201310 year inflation expectations measure. Range is inclusive.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/16/tariff-costs-to-companies-this-year-to-hit-1point2-trillion-with-consumers-taking-most-of-the-hit-sp-says.html",
+        "https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html"
+      ],
+      "monitoring_signals": [
+        "Gasoline price trends (AAA daily average)",
+        "Media coverage of inflation",
+        "Preliminary Michigan expectations print",
+        "CPI surprises before final release"
+      ],
+      "rationale": "Long-run expectations appear anchored despite near-term tariff and energy noise.",
+      "id": "0b7df3e5-181e-4a00-8421-25c01ae79c70",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Core PCE Price Index (YoY, SA) for September 2025 will print between 2.6% and 2.8% in the BEA release due by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "Confirm in BEA\u2019s Personal Income and Outlays: 12-month percent change in PCE price index excluding food and energy for September 2025 within [2.6%, 2.8%], inclusive.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html",
+        "https://www.cnbc.com/2025/10/16/tariff-costs-to-companies-this-year-to-hit-1point2-trillion-with-consumers-taking-most-of-the-hit-sp-says.html"
+      ],
+      "monitoring_signals": [
+        "CPI and PPI components feeding into PCE",
+        "Core services ex-housing disinflation",
+        "Healthcare price methodology adjustments",
+        "Revisions in seasonal factors"
+      ],
+      "rationale": "Underlying disinflation continues gradually; tariffs create noise but core YoY drifts to high-2s.",
+      "id": "9c9827fe-5de5-47a8-b43f-9875cf7996f2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, OFAC will sanction at least two entities for facilitating Russia\u2013North Korea arms transfers, as evidenced by new SDN listings or press releases explicitly citing such activity.",
+      "category": "geopolitics",
+      "horizon_days": 44,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Check U.S. Treasury press releases and the SDN list updates. At least two new sanctions entries by the deadline must reference Russia\u2013DPRK arms transfers in their basis.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/16/trump-putin-russia-ukraine.html"
+      ],
+      "monitoring_signals": [
+        "U.S./allied statements on DPRK\u2013Russia transfers",
+        "UN Panel of Experts or open-source shipment tracking",
+        "OFAC advisories and enforcement bulletins",
+        "Arms-use reporting in Ukraine"
+      ],
+      "rationale": "Public reporting of DPRK munitions in Russia raises likelihood of targeted U.S. sanctions.",
+      "id": "5baa6ed2-8c24-4891-8b5d-f96837d56860",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX Henry Hub natural gas front-month futures (NG) will settle at or above $3.60 per MMBtu on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 44,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Use CME settlement prices for the prompt NG contract (e.g., NG1). Any official settlement >= $3.60/MMBtu on or before 2025-11-30 confirms.",
+      "evidence": [
+        "https://ir.eia.gov/ngs/ngs.html"
+      ],
+      "monitoring_signals": [
+        "Heating degree day forecasts (NOAA)",
+        "Freeport LNG and export feedgas flows",
+        "Pipeline maintenance/outages",
+        "Weekly storage injections/withdrawals",
+        "TTF/JKM price spreads influencing exports"
+      ],
+      "rationale": "Seasonal demand, exports, and any supply hiccups can push prompt gas above $3.60.",
+      "id": "fc62c221-a511-4e79-a720-bff108281749",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 4.30% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 44,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Verify via FRED series DGS2 daily close. Any observation on or before 2025-11-30 with DGS2 <= 4.30% satisfies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/16/fed-governor-miran-wants-a-half-point-cut-this-month-while-waller-backs-another-quarter-point-move.html",
+        "https://www.cnbc.com/2025/10/16/regional-banks-and-jefferies-shares-tank-as-concerns-grow-on-wall-street-about-sour-loans.html"
+      ],
+      "monitoring_signals": [
+        "Fed communications and dot-plot expectations",
+        "Fed funds futures/OIS pricing",
+        "Macro data (payrolls, CPI/PCE, PMIs)",
+        "Credit stress indicators and risk-off flows"
+      ],
+      "rationale": "Rising growth-risk and policy-easing expectations can compress the front end.",
+      "id": "81834976-d69d-4386-b685-1b46e93c61ef",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Senate will pass a continuing resolution extending federal funding through at least 2025-12-15 by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Confirmed by a Senate roll call vote recorded on congress.gov or senate.gov by 2025-10-31, with bill text specifying a CR that extends funding expiration to on/after 2025-12-15.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/16/trump-government-shutdown-senate-vote.html"
+      ],
+      "monitoring_signals": [
+        "Draft CR text and proposed duration",
+        "Leadership statements and whip counts",
+        "Appropriations negotiations and amendments",
+        "Airlines and defense industry lobbying pressure"
+      ],
+      "rationale": "Deadline pressure and economic risk typically force at least a short bridge CR through mid-December.",
+      "id": "5419a5b8-0b93-4781-8d97-0cd6b7cca974",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
