@@ -818,3 +818,12 @@ However, the news backdrop points to elevated macro risk. Headlines on bank cred
 
 ---
 
+
+## 2025-10-17
+
+Today’s headlines were dominated by U.S. politics, the ongoing government shutdown, and scattered corporate news. While there are narratives that could influence markets—concerns about banks’ credit exposure aiding a bond rally, health policy noise, and geopolitical items—none of the stories provided hard, threshold-crossing data for the listed forecasts.
+
+Accordingly, all items remain pending. Watch for official releases in the coming days: UMich final inflation expectations (late October), Core PCE (by Oct 31), ISM Prices (by Nov 1), and any Senate action on a continuing resolution before Oct 31. Market-linked thresholds (VIX, USD/JPY, Henry Hub, 2-year yields, KRE vs. SPY) require specific prints or closes that were not reported here.
+
+---
+

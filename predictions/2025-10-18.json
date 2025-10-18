@@ -1,0 +1,305 @@
+{
+  "date": "2025-10-18",
+  "predictions": [
+    {
+      "text": "U.S. Real GDP (SAAR, QoQ) for Q3 2025 will print between 1.8% and 3.0% in the BEA advance estimate.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-10-30",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "Verify the 'advance' estimate in the BEA GDP news release for Q3 2025 (Table 1). If delayed, use the first official Q3 2025 SAAR figure BEA publishes.",
+      "evidence": [
+        "https://www.bea.gov/news/schedule",
+        "https://www.atlantafed.org/cqer/research/gdpnow",
+        "https://www.marketwatch.com/story/concerns-about-banks-credit-exposure-help-power-latest-leg-of-bond-market-rally-41119da6?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Atlanta Fed GDPNow updates",
+        "Retail sales and control group",
+        "Industrial production and capacity utilization",
+        "Net exports and inventories",
+        "ISM PMIs and new orders"
+      ],
+      "rationale": "Mixed consumption and manufacturing data with easing inflation implies moderate growth into Q3.",
+      "id": "f34b9e49-d80f-4df8-91ce-67f96fe74cd7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted U.S. initial jobless claims (weekly level) will print at or above 240,000 in at least one report.",
+      "category": "macro",
+      "horizon_days": 43,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Check the Department of Labor\u2019s Unemployment Insurance Weekly Claims press release; use the headline 'Initial claims, seasonally adjusted' level.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/ICSA",
+        "https://www.marketwatch.com/story/concerns-about-banks-credit-exposure-help-power-latest-leg-of-bond-market-rally-41119da6?mod=mw_rss_topstories",
+        "https://www.federalreserve.gov/newsevents/pressreleases/orders20251017a.htm"
+      ],
+      "monitoring_signals": [
+        "Continuing claims (SA)",
+        "Challenger layoffs",
+        "Indeed job postings indices",
+        "NFIB 'jobs hard to fill'",
+        "ISM employment components"
+      ],
+      "rationale": "Cooling labor demand and policy uncertainty increase the chance of a claims pop.",
+      "id": "d406fc4e-b3d0-4bab-860e-26021e980d7f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The S&P 500 Index (^GSPC) will close up at least 2.0% day-over-day on at least one UTC trading day.",
+      "category": "markets",
+      "horizon_days": 43,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2,
+      "verification_criteria": "Use official S&P DJI or Yahoo Finance (^GSPC) close-to-close percentage change; day defined in UTC.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/%5EGSPC/",
+        "https://www.cboe.com/tradable_products/vix/",
+        "https://www.cnbc.com/2025/10/17/boeing-737-max-production.html"
+      ],
+      "monitoring_signals": [
+        "VIX level and term structure",
+        "Earnings surprises and breadth",
+        "FOMC (2025-11-05) and CPI/PCE releases",
+        "Dealer gamma positioning",
+        "Credit spreads (HY OAS)"
+      ],
+      "rationale": "Earnings season and macro catalysts can trigger relief rallies and sharp up-days.",
+      "id": "b57c9e86-8034-4906-9f48-3058c5ebe512",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "EUR/USD (EURUSD=X) will trade at or above 1.1200 on at least one UTC trading day.",
+      "category": "markets",
+      "horizon_days": 43,
+      "deadline": "2025-11-30",
+      "confidence_pct": 43,
+      "log_odds": -0.28,
+      "verification_criteria": "Confirm intraday high on Yahoo Finance EURUSD=X (or equivalent reputable feed) with timestamps in UTC.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/EURUSD%3DX/",
+        "https://www.ecb.europa.eu/press/pressconf/html/index.en.html",
+        "https://ec.europa.eu/eurostat/news"
+      ],
+      "monitoring_signals": [
+        "2Y UST\u2013Bund yield spread",
+        "ECB vs FOMC guidance",
+        "Euro area core inflation trajectory",
+        "Risk sentiment and equity flows",
+        "CFTC EUR futures positioning"
+      ],
+      "rationale": "Softer U.S. yields and steady Eurozone data could nudge EUR higher.",
+      "id": "66b077c1-e630-4461-a258-d6cb30d3d1ec",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or above $75,000 on at least one UTC day.",
+      "category": "markets",
+      "horizon_days": 43,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Use BTC-USD intraday high from Coinbase or Yahoo Finance; day measured in UTC.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/BTC-USD/",
+        "https://www.ishares.com/us/products/332201/ishares-bitcoin-trust",
+        "https://www.marketwatch.com/story/concerns-about-banks-credit-exposure-help-power-latest-leg-of-bond-market-rally-41119da6?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Spot Bitcoin ETF net inflows",
+        "Funding and basis on futures",
+        "DXY and UST real yields",
+        "Risk-on equity moves",
+        "On-chain realized profits/losses"
+      ],
+      "rationale": "ETF demand and benign macro could lift BTC toward cycle highs.",
+      "id": "18223fd8-b051-4534-9045-091798686de6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Brent\u2013WTI front-month settlement spread will reach at or below $3.00 per barrel on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 43,
+      "deadline": "2025-11-30",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Compute the difference using ICE Brent and NYMEX WTI prompt-month official settlements on the same trade date.",
+      "evidence": [
+        "https://www.theice.com/products/219/Brent-Crude-Futures",
+        "https://www.cmegroup.com/markets/energy/crude-oil/wti-crude-oil.html",
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "Cushing inventories and draws",
+        "U.S. crude export volumes",
+        "Refinery runs and maintenance",
+        "North Sea and U.S. pipeline flows",
+        "Brent/WTI term structure shifts"
+      ],
+      "rationale": "Stronger WTI from Cushing draws/export strength can compress the spread.",
+      "id": "df5ce2ee-cd4e-4594-8f8a-152ad856e688",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or above \u20ac45.00/MWh on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 43,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "log_odds": -0.16,
+      "verification_criteria": "Use ICE Endex official settlement price for the nearest (front) month on the trade date.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://agsi.gie.eu/",
+        "https://www.ecmwf.int/"
+      ],
+      "monitoring_signals": [
+        "EU storage fullness and withdrawals",
+        "ECMWF weather forecasts (temperature anomalies)",
+        "LNG supply outages and arrivals",
+        "Norwegian pipeline flows",
+        "Asian JKM vs TTF spread"
+      ],
+      "rationale": "Early-winter cold or supply disruptions can push TTF higher despite ample storage.",
+      "id": "6b17b9cd-bba4-4670-9062-606ff303703c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. CPI Owners\u2019 Equivalent Rent (OER, MoM, SA) for October 2025 will be at or below 0.35% in the BLS release.",
+      "category": "macro",
+      "horizon_days": 28,
+      "deadline": "2025-11-15",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Verify in BLS CPI Detailed Report (series CUSR0000SEHC, MoM SA) released for October 2025.",
+      "evidence": [
+        "https://www.bls.gov/cpi/",
+        "https://www.zillow.com/research/data/",
+        "https://www.apartmentlist.com/research"
+      ],
+      "monitoring_signals": [
+        "Zillow Observed Rent Index (ZORI)",
+        "Apartment List new-lease rent growth",
+        "Rental vacancy rates",
+        "CPI new-tenant rent experimental series",
+        "Shelter diffusion indices in CPI microdata"
+      ],
+      "rationale": "New-lease rent cooling continues to filter into OER with lags.",
+      "id": "3aee13ff-59bc-4ff6-9bcd-34ffacf8baa8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area HICP excluding energy and food (YoY, flash) for October 2025 will print between 2.6% and 3.1%.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Use Eurostat\u2019s HICP flash press release for October 2025; core measure defined as excluding energy and food.",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/news",
+        "https://ec.europa.eu/eurostat/web/macroeconomic-statistics/prices/hicp",
+        "https://www.pmi.spglobal.com/Public/Home"
+      ],
+      "monitoring_signals": [
+        "Wage growth and negotiated pay",
+        "Services inflation momentum",
+        "PMI output prices",
+        "Energy base effects",
+        "Retail energy pass-through"
+      ],
+      "rationale": "Core disinflation persists but remains above target.",
+      "id": "e200b5d9-3fc6-4ca3-9df6-099b1d543851",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NVIDIA (NVDA) Q3 FY2026 Data Center segment revenue year-over-year growth will be between 35% and 60%, per the company\u2019s earnings release.",
+      "category": "tech",
+      "horizon_days": 43,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Check NVIDIA\u2019s Q3 FY2026 press release/10-Q segment disclosures; compute YoY growth for the Data Center segment from reported figures.",
+      "evidence": [
+        "https://investor.nvidia.com/financial-info/quarterly-results/default.aspx",
+        "https://www.cnbc.com/2025/10/17/ai-data-center-openai-gas-nuclear-renewable-utility.html",
+        "https://www.pmi.spglobal.com/Public/Home"
+      ],
+      "monitoring_signals": [
+        "Hyperscaler capex commentary (GOOGL, MSFT, AMZN)",
+        "TSMC CoWoS/HBM capacity updates",
+        "Channel lead times for H100/Blackwell",
+        "NVIDIA bookings vs shipments",
+        "Competitor guidance (AMD MI300/400)"
+      ],
+      "rationale": "Growth decelerates from extraordinary highs amid product transitions and supply constraints.",
+      "id": "d279b1e4-70ec-46da-b8a9-2209837a1f54",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, OFAC will announce at least one new sanctions designation targeting a Venezuelan state-owned enterprise, ministry, or senior official.",
+      "category": "geopolitics",
+      "horizon_days": 43,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Confirm via U.S. Treasury OFAC press releases and SDN list updates explicitly under the Venezuela sanctions program.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/17/us/politics/trump-caribbean-venezuela-us-military-maps.html",
+        "https://home.treasury.gov/news/press-releases",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/venezuela-sanctions"
+      ],
+      "monitoring_signals": [
+        "U.S.\u2013Venezuela diplomatic statements",
+        "Regional military posturing/incidents",
+        "Congressional pressure and hearings",
+        "Venezuelan domestic actions and election dynamics",
+        "Oil sector policy changes"
+      ],
+      "rationale": "Rising regional tensions and U.S. political pressure raise sanction odds.",
+      "id": "fa056bee-e274-4d04-a6af-beb1b4f229cc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 5-Year TIPS breakeven inflation rate (FRED: T5YIE) will close at or below 2.10% on at least one trading day (UTC).",
+      "category": "rates",
+      "horizon_days": 43,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Use the FRED series T5YIE daily close; trading day considered on a UTC basis.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/T5YIE",
+        "https://www.marketwatch.com/story/concerns-about-banks-credit-exposure-help-power-latest-leg-of-bond-market-rally-41119da6?mod=mw_rss_topstories",
+        "https://www.cnbc.com/2025/10/17/vought-budget-government-shutdown.html"
+      ],
+      "monitoring_signals": [
+        "Headline and core CPI/PCE prints",
+        "Oil and gasoline prices",
+        "Real yields and nominal curve moves",
+        "Inflation swap quotes",
+        "Survey expectations (UMich, SPF)"
+      ],
+      "rationale": "Easing inflation data and growth concerns can pull breakevens lower.",
+      "id": "cc34e6d6-2bd1-4718-ab95-d4d2a14728fa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

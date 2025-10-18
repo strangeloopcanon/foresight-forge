@@ -1,0 +1,65 @@
+{
+  "date": "2025-10-17",
+  "assessments": [
+    {
+      "id": "0da34645-962f-41e2-b45e-dfbe2c743b5d",
+      "status": "pending",
+      "status_rationale": "No coverage indicated USD/JPY reaching or exceeding 152.50; no definitive FX level reported."
+    },
+    {
+      "id": "11145006-ec0c-4d10-9f0f-ba64963785aa",
+      "status": "pending",
+      "status_rationale": "No article reported a VIX close at or above 22.00."
+    },
+    {
+      "id": "70858532-d669-477a-8359-4bc1ef6dd342",
+      "status": "pending",
+      "status_rationale": "The measurement window runs through 2025-11-30; no conclusive relative performance data provided."
+    },
+    {
+      "id": "2ae6f1b3-e3c5-4d16-8c36-636efdc3ba73",
+      "status": "pending",
+      "status_rationale": "No update on the Drewry World Container Index levels was cited."
+    },
+    {
+      "id": "85c5b500-69df-4a5f-b8cb-33ee3b9d499f",
+      "status": "pending",
+      "status_rationale": "No EIA weekly crude inventory figures were mentioned showing an \u22658.0 million barrel draw."
+    },
+    {
+      "id": "0e4f9f90-1fbc-4fea-96f0-916eb460271c",
+      "status": "pending",
+      "status_rationale": "ISM October Prices Index has not been reported in the provided news; release due by 2025-11-01."
+    },
+    {
+      "id": "0b7df3e5-181e-4a00-8421-25c01ae79c70",
+      "status": "pending",
+      "status_rationale": "Final October UMich 5\u201310 year inflation expectations are not in the news and typically release closer to 2025-10-25."
+    },
+    {
+      "id": "9c9827fe-5de5-47a8-b43f-9875cf7996f2",
+      "status": "pending",
+      "status_rationale": "No BEA release data for September Core PCE YoY provided; deadline not yet reached."
+    },
+    {
+      "id": "5baa6ed2-8c24-4891-8b5d-f96837d56860",
+      "status": "pending",
+      "status_rationale": "No OFAC sanctions specifically tied to Russia\u2013North Korea arms transfers were reported."
+    },
+    {
+      "id": "fc62c221-a511-4e79-a720-bff108281749",
+      "status": "pending",
+      "status_rationale": "No mention of Henry Hub front-month settlement at or above $3.60/MMBtu."
+    },
+    {
+      "id": "81834976-d69d-4386-b685-1b46e93c61ef",
+      "status": "pending",
+      "status_rationale": "Bond rally headlines noted, but no confirmed 2-year Treasury close at or below 4.30%."
+    },
+    {
+      "id": "5419a5b8-0b93-4781-8d97-0cd6b7cca974",
+      "status": "pending",
+      "status_rationale": "Coverage points to an ongoing shutdown and no Senate-passed CR yet; deadline is 2025-10-31."
+    }
+  ]
+}

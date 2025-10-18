@@ -23,7 +23,7 @@
       ],
       "rationale": "Policy divergence and risk-off flows can lift USD/JPY; watch for BOJ pushback.",
       "id": "0da34645-962f-41e2-b45e-dfbe2c743b5d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -48,7 +48,7 @@
       ],
       "rationale": "Policy/fiscal uncertainty and credit concerns raise tail-risk premia.",
       "id": "11145006-ec0c-4d10-9f0f-ba64963785aa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -71,7 +71,7 @@
       ],
       "rationale": "Rising sour-loan fears and tighter credit conditions disproportionately pressure regional banks.",
       "id": "70858532-d669-477a-8359-4bc1ef6dd342",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -95,7 +95,7 @@
       ],
       "rationale": "Tight capacity, disruptions, and tariff front-loading support elevated all-in freight rates.",
       "id": "2ae6f1b3-e3c5-4d16-8c36-636efdc3ba73",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Refinery runs and export strength can create a one-off large draw into maintenance transitions.",
       "id": "85c5b500-69df-4a5f-b8cb-33ee3b9d499f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rationale": "Tariffs and freight passthroughs lift input costs, keeping prices paid in expansion.",
       "id": "0e4f9f90-1fbc-4fea-96f0-916eb460271c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "Long-run expectations appear anchored despite near-term tariff and energy noise.",
       "id": "0b7df3e5-181e-4a00-8421-25c01ae79c70",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Underlying disinflation continues gradually; tariffs create noise but core YoY drifts to high-2s.",
       "id": "9c9827fe-5de5-47a8-b43f-9875cf7996f2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -209,7 +209,7 @@
       ],
       "rationale": "Public reporting of DPRK munitions in Russia raises likelihood of targeted U.S. sanctions.",
       "id": "5baa6ed2-8c24-4891-8b5d-f96837d56860",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -232,7 +232,7 @@
       ],
       "rationale": "Seasonal demand, exports, and any supply hiccups can push prompt gas above $3.60.",
       "id": "fc62c221-a511-4e79-a720-bff108281749",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -255,7 +255,7 @@
       ],
       "rationale": "Rising growth-risk and policy-easing expectations can compress the front end.",
       "id": "81834976-d69d-4386-b685-1b46e93c61ef",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -277,7 +277,7 @@
       ],
       "rationale": "Deadline pressure and economic risk typically force at least a short bridge CR through mid-December.",
       "id": "5419a5b8-0b93-4781-8d97-0cd6b7cca974",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
