@@ -827,3 +827,12 @@ Accordingly, all items remain pending. Watch for official releases in the coming
 
 ---
 
+
+## 2025-10-18
+
+Today’s news cycle is dominated by U.S. politics, legal stories, and international affairs, with no confirmed economic data releases or market closes that would resolve any of the listed forecasts. There are no references to the BEA’s Q3 GDP advance estimate, BLS CPI/OER prints, jobless claims, breakevens, or specific equity/crypto/commodity levels.
+
+One potentially adjacent item is increased U.S.–Venezuela tension and Caracas’s military exercises amid “escalated pressure,” which could marginally raise the odds of sanctions activity. However, there is no explicit report of new OFAC designations targeting Venezuelan state entities or senior officials, so that forecast remains pending. The ongoing U.S. government shutdown mentioned could introduce timing risk for certain data releases, but no concrete delays are noted in today’s coverage.
+
+---
+

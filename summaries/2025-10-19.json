@@ -1,0 +1,109 @@
+{
+  "bullets": [
+    {
+      "text": "Prolonged U.S. shutdown persists; Trump resists compromise, raising risks of economic drag, delayed data, and funding disruptions.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/10/18/us/politics/trump-democrats-shutdown-deal.html"
+    },
+    {
+      "text": "Venezuela launches sweeping military exercises amid intensifying U.S. pressure, heightening regional tensions and potential spillovers to oil markets and sanctions risk.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/10/18/world/americas/venezuela-military-us.html"
+    },
+    {
+      "text": "Israeli forces fire on vehicle allegedly crossing Gaza cease-fire line, underscoring fragile truce and persistent escalation risks.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/18/world/middleeast/israel-military-gaza-strike-cease-fire.html"
+    },
+    {
+      "text": "Israel\u2019s Haredi draft fight threatens coalition stability and war manpower planning, with major implications for defense policy and social cohesion.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/18/magazine/israel-haredi-draft-netanyahu-war.html"
+    },
+    {
+      "text": "Big banks post strong earnings but report rising bad loans, signaling credit deterioration that could tighten lending and pressure future profitability.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/18/week-in-review-strong-bank-earnings-bad-loans-spinoff-prep-and-dreamforce-wrap.html"
+    },
+    {
+      "text": "Zions Bank scandal alleging sweeping betrayal of trust spooks investors, spotlighting governance failures and operational risk in regional lenders.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/18/the-alleged-sweeping-betrayal-of-trust-that-rocked-zions-bank-and-spooked-wall-street.html"
+    },
+    {
+      "text": "Activist Starboard targets Keurig Dr Pepper ahead of JDE Peet\u2019s deal, pushing value creation via portfolio moves and operational improvements.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/18/how-starboard-could-build-value-at-keurig-dr-pepper-ahead-of-its-jde-peet-deal-.html"
+    },
+    {
+      "text": "Trading card boom lifts Target and Walmart pre-holidays, signaling resilient niche discretionary demand despite broader consumer caution.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/18/target-and-walmart-trading-cards-growth-like-nfl-for-holiday-season.html"
+    },
+    {
+      "text": "WhatsApp bans general-purpose chatbots and blocks NSO Group, tightening platform governance with privacy, surveillance, and AI policy ramifications.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/"
+    },
+    {
+      "text": "Wikipedia traffic declines blamed on AI search summaries and social video, highlighting distribution shifts and monetization challenges for knowledge platforms.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/"
+    },
+    {
+      "text": "NOAA winter outlook projects regional temperature and precipitation anomalies, informing energy demand forecasts, agriculture planning, and supply chain risk management.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/10/18/weather/noaa-winter-weather-forecast-us.html"
+    },
+    {
+      "text": "Metabolic surgery delivers superior long-term health outcomes versus GLP-1 drugs, suggesting cost-effectiveness advantages and potential shifts in obesity-treatment strategies.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251016223118.htm"
+    },
+    {
+      "text": "Scientists decode noncoding DNA regulatory \"grammar\" influencing disease risk, enabling improved target discovery, diagnostics, and personalized medicine.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251016223110.htm"
+    },
+    {
+      "text": "3D-printed metamaterials that block vibrations could protect infrastructure and advance precision manufacturing and aerospace.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251016223106.htm"
+    }
+  ]
+}

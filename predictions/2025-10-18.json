@@ -23,7 +23,7 @@
       ],
       "rationale": "Mixed consumption and manufacturing data with easing inflation implies moderate growth into Q3.",
       "id": "f34b9e49-d80f-4df8-91ce-67f96fe74cd7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -48,7 +48,7 @@
       ],
       "rationale": "Cooling labor demand and policy uncertainty increase the chance of a claims pop.",
       "id": "d406fc4e-b3d0-4bab-860e-26021e980d7f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -73,7 +73,7 @@
       ],
       "rationale": "Earnings season and macro catalysts can trigger relief rallies and sharp up-days.",
       "id": "b57c9e86-8034-4906-9f48-3058c5ebe512",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "Softer U.S. yields and steady Eurozone data could nudge EUR higher.",
       "id": "66b077c1-e630-4461-a258-d6cb30d3d1ec",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "rationale": "ETF demand and benign macro could lift BTC toward cycle highs.",
       "id": "18223fd8-b051-4534-9045-091798686de6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -148,7 +148,7 @@
       ],
       "rationale": "Stronger WTI from Cushing draws/export strength can compress the spread.",
       "id": "df5ce2ee-cd4e-4594-8f8a-152ad856e688",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -173,7 +173,7 @@
       ],
       "rationale": "Early-winter cold or supply disruptions can push TTF higher despite ample storage.",
       "id": "6b17b9cd-bba4-4670-9062-606ff303703c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -198,7 +198,7 @@
       ],
       "rationale": "New-lease rent cooling continues to filter into OER with lags.",
       "id": "3aee13ff-59bc-4ff6-9bcd-34ffacf8baa8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -223,7 +223,7 @@
       ],
       "rationale": "Core disinflation persists but remains above target.",
       "id": "e200b5d9-3fc6-4ca3-9df6-099b1d543851",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -248,7 +248,7 @@
       ],
       "rationale": "Growth decelerates from extraordinary highs amid product transitions and supply constraints.",
       "id": "d279b1e4-70ec-46da-b8a9-2209837a1f54",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -273,7 +273,7 @@
       ],
       "rationale": "Rising regional tensions and U.S. political pressure raise sanction odds.",
       "id": "fa056bee-e274-4d04-a6af-beb1b4f229cc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -298,7 +298,7 @@
       ],
       "rationale": "Easing inflation data and growth concerns can pull breakevens lower.",
       "id": "cc34e6d6-2bd1-4718-ab95-d4d2a14728fa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

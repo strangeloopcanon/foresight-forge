@@ -1,0 +1,268 @@
+{
+  "date": "2025-10-19",
+  "predictions": [
+    {
+      "text": "ISM Services PMI (headline, SA) for October 2025 will print between 51.0 and 53.5 in ISM\u2019s release.",
+      "category": "macro",
+      "horizon_days": 17,
+      "deadline": "2025-11-05",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Verify the ISM Services PMI headline index value for October 2025 from the Institute for Supply Management\u2019s official release. Success if the reported headline is \u226551.0 and \u226453.5.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/18/us/politics/trump-democrats-shutdown-deal.html",
+        "https://www.cnbc.com/2025/10/18/week-in-review-strong-bank-earnings-bad-loans-spinoff-prep-and-dreamforce-wrap.html"
+      ],
+      "monitoring_signals": [
+        "S&P Global U.S. Services PMI (flash/final) for October",
+        "High-frequency card spending and mobility data",
+        "NFIB small-business hiring plans and sales expectations",
+        "ISM Services New Orders and Employment subindices"
+      ],
+      "rationale": "Services momentum remains modest with softer demand, rising credit frictions, and fiscal uncertainty; a mid-51s to low-53s print is most likely.",
+      "id": "3fc05ef7-3d58-413b-863f-7552792ac8dd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI Headline (MoM, SA) for October 2025 will print between 0.0% and 0.3% in the BLS release.",
+      "category": "macro",
+      "horizon_days": 27,
+      "deadline": "2025-11-15",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Check the Bureau of Labor Statistics CPI-U headline month-over-month percent change (seasonally adjusted) for October 2025. Success if the value is \u22650.0% and \u22640.3%.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/18/weather/noaa-winter-weather-forecast-us.html"
+      ],
+      "monitoring_signals": [
+        "AAA daily gasoline prices and regional fuel trends",
+        "Manheim Used Vehicle Value Index (seasonally adjusted)",
+        "Zillow Observed Rent Index and private measures of rent inflation",
+        "Utility gas and electricity price components; food commodity benchmarks"
+      ],
+      "rationale": "Energy pass-through is muted and core goods remain soft; shelter disinflation should offset stickier services.",
+      "id": "57ca432a-9745-4445-8f5b-248322776291",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. JOLTS hires rate for September 2025 will print between 3.4% and 3.7% in the BLS release.",
+      "category": "macro",
+      "horizon_days": 18,
+      "deadline": "2025-11-06",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "Verify the JOLTS hires rate (hires as a percent of employment) for September 2025 from BLS. Success if the hires rate is \u22653.4% and \u22643.7%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/18/week-in-review-strong-bank-earnings-bad-loans-spinoff-prep-and-dreamforce-wrap.html"
+      ],
+      "monitoring_signals": [
+        "Initial jobless claims and continuing claims trends",
+        "Indeed job postings and LinkedIn hiring rate",
+        "NFIB hiring plans and compensation plans",
+        "Challenger job-cuts announcements"
+      ],
+      "rationale": "Labor demand is cooling but not collapsing; hires rate should drift near mid-3s amid tighter credit and softer growth.",
+      "id": "f1e8c9bd-30db-43de-b1b3-1a312112c7e3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Japan Tokyo CPI excluding fresh food (YoY) for October 2025 will print between 2.0% and 2.8%.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-10-25",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Use the Statistics Bureau of Japan\u2019s Tokyo CPI ex fresh food YoY for October 2025. Success if the YoY rate is \u22652.0% and \u22642.8%.",
+      "evidence": [],
+      "monitoring_signals": [
+        "Tokyo electricity/gas tariffs and food price changes",
+        "JPY exchange rate and import price indices",
+        "Prior Tokyo CPI trend and base effects"
+      ],
+      "rationale": "Underlying inflation is easing from peaks but remains above 2% amid pass-through and sticky services.",
+      "id": "a42e14cd-c925-4b0c-8281-175a44a5d708",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "China exports (USD, YoY) for October 2025 will print between -4% and +4% in the Customs release.",
+      "category": "macro",
+      "horizon_days": 22,
+      "deadline": "2025-11-10",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Check the General Administration of Customs of China headline exports YoY (USD terms) for October 2025. Success if the YoY change is \u2265-4% and \u2264+4%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/18/week-in-review-strong-bank-earnings-bad-loans-spinoff-prep-and-dreamforce-wrap.html",
+        "https://www.nytimes.com/2025/10/18/weather/noaa-winter-weather-forecast-us.html",
+        "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/"
+      ],
+      "monitoring_signals": [
+        "South Korea daily/export data (leading indicator)",
+        "China PMI new export orders (NBS/Caixin)",
+        "Global container spot rates (Drewry WCI, FBX)",
+        "Semiconductor shipment/value indices"
+      ],
+      "rationale": "External demand is mixed; electronics cycle recovery offsets weak consumer goods. Base effects constrain large YoY swings.",
+      "id": "ae473084-083a-47d2-80d4-c0f28f70b17a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "AAA U.S. national average diesel price will print at or below $3.90 per gallon on at least one daily reading.",
+      "category": "energy",
+      "horizon_days": 42,
+      "deadline": "2025-11-30",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Use AAA\u2019s published national average diesel price series. Success if any daily national reading on or before 2025-11-30 is \u2264 $3.90 per gallon.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/18/weather/noaa-winter-weather-forecast-us.html"
+      ],
+      "monitoring_signals": [
+        "AAA daily diesel prices",
+        "EIA distillate inventories and implied demand",
+        "ULSD crack spreads and refinery utilization",
+        "Global crude benchmarks (Brent/WTI) and freight"
+      ],
+      "rationale": "Shoulder-season demand and adequate inventories could pressure diesel; risks stem from refining outages and geopolitical shocks.",
+      "id": "8ecf4165-7bd4-4946-a551-736b2a9d4d7e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE BofA MOVE Index will close at or above 115.0 on at least one trading day (UTC).",
+      "category": "rates",
+      "horizon_days": 42,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Confirm any official ICE Data Indices or Bloomberg-published daily close of the MOVE Index at \u2265115.0 on or before 2025-11-30 (UTC).",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/18/us/politics/trump-democrats-shutdown-deal.html",
+        "https://www.cnbc.com/2025/10/18/week-in-review-strong-bank-earnings-bad-loans-spinoff-prep-and-dreamforce-wrap.html"
+      ],
+      "monitoring_signals": [
+        "FOMC communications and rate-path repricing",
+        "Treasury auction outcomes and term premium moves",
+        "Macro surprise indices and inflation prints",
+        "Swaption-implied rate volatility"
+      ],
+      "rationale": "Policy and growth uncertainty keep rate vol elevated; a brief spike above 115 is plausible around key data or policy events.",
+      "id": "b61837de-4632-4927-981e-c4820ba1a3a8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-18 close to 2025-11-30 close, Zions Bancorporation (ZION) will underperform SPDR S&P Regional Banking ETF (KRE) by at least 6.0 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 42,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Using Yahoo Finance (adjusted close) for ZION and KRE, compute percentage change from 2025-10-18 close to 2025-11-30 close. Success if (ZION% \u2212 KRE%) \u2264 -6.0 pp.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/18/the-alleged-sweeping-betrayal-of-trust-that-rocked-zions-bank-and-spooked-wall-street.html"
+      ],
+      "monitoring_signals": [
+        "ZION headlines: legal, regulatory, credit-quality updates",
+        "Regional bank credit spreads and KRE constituent performance",
+        "Deposit flows and funding cost commentary",
+        "Short interest and options skew in ZION"
+      ],
+      "rationale": "Company-specific governance risk likely weighs on ZION relative to peers amid a cautious regional-bank backdrop.",
+      "id": "1edbc125-45d7-4790-a864-f62b2075cfb6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Walmart (WMT) Q3 FY2026 U.S. comparable sales ex-fuel will print between 3.0% and 5.0%, per the company\u2019s earnings release.",
+      "category": "markets",
+      "horizon_days": 42,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Check Walmart\u2019s Q3 FY2026 earnings release/investor presentation for U.S. comparable sales excluding fuel. Success if reported comp is \u22653.0% and \u22645.0%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/18/target-and-walmart-trading-cards-growth-like-nfl-for-holiday-season.html"
+      ],
+      "monitoring_signals": [
+        "Company guidance and traffic/transactions commentary",
+        "Census retail sales (general merchandise, grocery)",
+        "Third-party foot traffic and web analytics",
+        "Inflation trends in grocery and consumables"
+      ],
+      "rationale": "Value-focused retail remains resilient; traffic and market share gains should support mid-single-digit comps ex-fuel.",
+      "id": "d4780032-5856-4244-9fcd-c9c5771e966e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "English Wikipedia (en.wikipedia.org) total pageviews (all-access) for October 2025 will be at least 8% lower than October 2024, per Wikimedia REST API.",
+      "category": "tech",
+      "horizon_days": 22,
+      "deadline": "2025-11-10",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Use Wikimedia REST API monthly pageviews for en.wikipedia.org, all-access, agent=user for 2024-10 and 2025-10. Success if 2025-10 total \u2264 92% of 2024-10 total.",
+      "evidence": [
+        "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/"
+      ],
+      "monitoring_signals": [
+        "Search engine result page features (AI summaries, panels)",
+        "Referral share trends from search/social to Wikipedia",
+        "Wikimedia referrer breakdown and device mix",
+        "Major news-cycle intensity (affects baseline traffic)"
+      ],
+      "rationale": "AI answer surfaces and short-form video are diverting information queries from Wikipedia, pressuring YoY pageviews.",
+      "id": "7927d88e-7b73-429c-bd99-30f83abae3a7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EUR/JPY (EURJPY=X) will trade at or above 164.00 on at least one UTC trading day.",
+      "category": "markets",
+      "horizon_days": 42,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Use Yahoo Finance or equivalent for EURJPY intraday highs on or before 2025-11-30 (UTC). Success if any day\u2019s high \u2265 164.00.",
+      "evidence": [],
+      "monitoring_signals": [
+        "BoJ policy communications and inflation data",
+        "U.S. and euro area rate differentials vs Japan",
+        "Risk sentiment and carry-trade dynamics",
+        "EZ PMIs and German data surprises"
+      ],
+      "rationale": "Wide rate differentials and supportive risk tone could lift EURJPY to prior highs; intervention risk limits confidence.",
+      "id": "088aea4c-0af6-4f73-ab20-9318ceeae0d0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Aggregate EU natural gas storage (AGSI+, EU total) will be at or above 95.0% of capacity on at least one day between 2025-10-20 and 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 42,
+      "deadline": "2025-11-30",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Check AGSI+ (Aggregated Gas Storage Inventory) EU total storage percentage. Success if any daily reading from 2025-10-20 through 2025-11-30 is \u226595.0%.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/18/weather/noaa-winter-weather-forecast-us.html"
+      ],
+      "monitoring_signals": [
+        "AGSI+ daily storage levels and injection/withdrawal pace",
+        "European weather forecasts and HDDs",
+        "Norway/LNG flows and unplanned outages",
+        "Dutch TTF price action and volatility"
+      ],
+      "rationale": "EU storage entered winter near record highs; mild early-season temps and steady supply should keep inventories \u226595% at least briefly.",
+      "id": "8fea1b03-049a-46c4-bd8b-f6f53e07226d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}

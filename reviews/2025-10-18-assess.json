@@ -1,0 +1,65 @@
+{
+  "date": "2025-10-18",
+  "assessments": [
+    {
+      "id": "f34b9e49-d80f-4df8-91ce-67f96fe74cd7",
+      "status": "pending",
+      "status_rationale": "No BEA advance estimate for Q3 2025 GDP reported in today\u2019s news; deadline not yet reached."
+    },
+    {
+      "id": "d406fc4e-b3d0-4bab-860e-26021e980d7f",
+      "status": "pending",
+      "status_rationale": "No coverage of initial jobless claims levels today; outcome remains unresolved before the deadline."
+    },
+    {
+      "id": "b57c9e86-8034-4906-9f48-3058c5ebe512",
+      "status": "pending",
+      "status_rationale": "No report of an S&P 500 daily move \u2265 +2.0% in today\u2019s headlines."
+    },
+    {
+      "id": "66b077c1-e630-4461-a258-d6cb30d3d1ec",
+      "status": "pending",
+      "status_rationale": "No FX level updates for EUR/USD provided today; no evidence of \u2265 1.1200 print."
+    },
+    {
+      "id": "18223fd8-b051-4534-9045-091798686de6",
+      "status": "pending",
+      "status_rationale": "No mention of Bitcoin reaching $75,000 in today\u2019s news."
+    },
+    {
+      "id": "df5ce2ee-cd4e-4594-8f8a-152ad856e688",
+      "status": "pending",
+      "status_rationale": "No market data on the Brent\u2013WTI front-month spread reported today."
+    },
+    {
+      "id": "6b17b9cd-bba4-4670-9062-606ff303703c",
+      "status": "pending",
+      "status_rationale": "No settlement information for Dutch TTF front-month gas in today\u2019s coverage."
+    },
+    {
+      "id": "3aee13ff-59bc-4ff6-9bcd-34ffacf8baa8",
+      "status": "pending",
+      "status_rationale": "October 2025 OER has not been released; no BLS data referenced today."
+    },
+    {
+      "id": "e200b5d9-3fc6-4ca3-9df6-099b1d543851",
+      "status": "pending",
+      "status_rationale": "No euro area October core HICP flash cited; release not yet due."
+    },
+    {
+      "id": "d279b1e4-70ec-46da-b8a9-2209837a1f54",
+      "status": "pending",
+      "status_rationale": "No NVIDIA earnings update today; segment growth not reported."
+    },
+    {
+      "id": "fa056bee-e274-4d04-a6af-beb1b4f229cc",
+      "status": "pending",
+      "status_rationale": "Article notes U.S. pressure on Venezuela but does not confirm any new OFAC designations targeting Venezuelan SOEs, ministries, or senior officials."
+    },
+    {
+      "id": "cc34e6d6-2bd1-4718-ab95-d4d2a14728fa",
+      "status": "pending",
+      "status_rationale": "No report on the 5-Year TIPS breakeven; no evidence of a \u2264 2.10% close."
+    }
+  ]
+}
