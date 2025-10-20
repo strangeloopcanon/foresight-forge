@@ -21,7 +21,7 @@
       ],
       "rationale": "Services momentum remains modest with softer demand, rising credit frictions, and fiscal uncertainty; a mid-51s to low-53s print is most likely.",
       "id": "3fc05ef7-3d58-413b-863f-7552792ac8dd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Energy pass-through is muted and core goods remain soft; shelter disinflation should offset stickier services.",
       "id": "57ca432a-9745-4445-8f5b-248322776291",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Labor demand is cooling but not collapsing; hires rate should drift near mid-3s amid tighter credit and softer growth.",
       "id": "f1e8c9bd-30db-43de-b1b3-1a312112c7e3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Underlying inflation is easing from peaks but remains above 2% amid pass-through and sticky services.",
       "id": "a42e14cd-c925-4b0c-8281-175a44a5d708",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "External demand is mixed; electronics cycle recovery offsets weak consumer goods. Base effects constrain large YoY swings.",
       "id": "ae473084-083a-47d2-80d4-c0f28f70b17a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Shoulder-season demand and adequate inventories could pressure diesel; risks stem from refining outages and geopolitical shocks.",
       "id": "8ecf4165-7bd4-4946-a551-736b2a9d4d7e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "rationale": "Policy and growth uncertainty keep rate vol elevated; a brief spike above 115 is plausible around key data or policy events.",
       "id": "b61837de-4632-4927-981e-c4820ba1a3a8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "rationale": "Company-specific governance risk likely weighs on ZION relative to peers amid a cautious regional-bank backdrop.",
       "id": "1edbc125-45d7-4790-a864-f62b2075cfb6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "rationale": "Value-focused retail remains resilient; traffic and market share gains should support mid-single-digit comps ex-fuel.",
       "id": "d4780032-5856-4244-9fcd-c9c5771e966e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "rationale": "AI answer surfaces and short-form video are diverting information queries from Wikipedia, pressuring YoY pageviews.",
       "id": "7927d88e-7b73-429c-bd99-30f83abae3a7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -239,7 +239,7 @@
       ],
       "rationale": "Wide rate differentials and supportive risk tone could lift EURJPY to prior highs; intervention risk limits confidence.",
       "id": "088aea4c-0af6-4f73-ab20-9318ceeae0d0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -261,7 +261,7 @@
       ],
       "rationale": "EU storage entered winter near record highs; mild early-season temps and steady supply should keep inventories \u226595% at least briefly.",
       "id": "8fea1b03-049a-46c4-bd8b-f6f53e07226d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]

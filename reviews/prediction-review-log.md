@@ -836,3 +836,12 @@ One potentially adjacent item is increased U.S.–Venezuela tension and Caracas�
 
 ---
 
+
+## 2025-10-19
+
+Today's news flow is dominated by geopolitics, U.S. politics, culture, and general market commentary, with no definitive economic data releases directly tied to the tracked forecasts. Notably, there are previews about China keeping lending rates steady and expectations around growth, but nothing that resolves the specific export, inflation, or PMI outcomes in our list.
+
+Given the absence of hard releases, all items remain pending. Key upcoming checkpoints include Tokyo CPI later this month, ISM Services on Nov. 5, JOLTS in early November, and U.S. CPI in mid-November; Walmart’s comps and the Wikipedia pageview tally will also arrive later in the window. Market-sensitive items (MOVE index, EUR/JPY level, diesel prices) and EU gas storage could trigger at any time, but require direct data sources rather than today’s headlines.
+
+---
+

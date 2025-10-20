@@ -1,0 +1,65 @@
+{
+  "date": "2025-10-19",
+  "assessments": [
+    {
+      "id": "3fc05ef7-3d58-413b-863f-7552792ac8dd",
+      "status": "pending",
+      "status_rationale": "No ISM October Services report released yet; none of today's articles provide the print. Deadline 2025-11-05."
+    },
+    {
+      "id": "57ca432a-9745-4445-8f5b-248322776291",
+      "status": "pending",
+      "status_rationale": "BLS October CPI has not been released; no figure in today's news. Expected mid-November."
+    },
+    {
+      "id": "f1e8c9bd-30db-43de-b1b3-1a312112c7e3",
+      "status": "pending",
+      "status_rationale": "September JOLTS hires rate not out yet and not mentioned today; release due early November."
+    },
+    {
+      "id": "a42e14cd-c925-4b0c-8281-175a44a5d708",
+      "status": "pending",
+      "status_rationale": "Tokyo CPI (ex fresh food) for October not reported in today's news; release typically late October. Deadline 2025-10-25."
+    },
+    {
+      "id": "ae473084-083a-47d2-80d4-c0f28f70b17a",
+      "status": "pending",
+      "status_rationale": "China October exports not released; coverage references Q3 growth and LPR, not trade data. Result due in November."
+    },
+    {
+      "id": "8ecf4165-7bd4-4946-a551-736b2a9d4d7e",
+      "status": "pending",
+      "status_rationale": "AAA daily diesel average not cited; requires AAA data verification. Window open through 2025-11-30."
+    },
+    {
+      "id": "b61837de-4632-4927-981e-c4820ba1a3a8",
+      "status": "pending",
+      "status_rationale": "No report of MOVE index closing \u2265115 in today's coverage; needs market close data. Window remains open."
+    },
+    {
+      "id": "1edbc125-45d7-4790-a864-f62b2075cfb6",
+      "status": "pending",
+      "status_rationale": "Performance is evaluated at 2025-11-30 close; interim moves are not decisive. No conclusive outcome yet."
+    },
+    {
+      "id": "d4780032-5856-4244-9fcd-c9c5771e966e",
+      "status": "pending",
+      "status_rationale": "Walmart Q3 FY2026 U.S. comps not reported today; earnings expected later in November."
+    },
+    {
+      "id": "7927d88e-7b73-429c-bd99-30f83abae3a7",
+      "status": "pending",
+      "status_rationale": "October 2025 Wikipedia pageviews require end-of-month/API data; no update in today's news."
+    },
+    {
+      "id": "088aea4c-0af6-4f73-ab20-9318ceeae0d0",
+      "status": "pending",
+      "status_rationale": "No confirmation that EUR/JPY traded \u2265164.00 in today's articles; needs market data check. Window open."
+    },
+    {
+      "id": "8fea1b03-049a-46c4-bd8b-f6f53e07226d",
+      "status": "pending",
+      "status_rationale": "AGSI+ EU storage levels not cited today; while seasonally high, no verified reading \u226595% provided. Window open through 2025-11-30."
+    }
+  ]
+}

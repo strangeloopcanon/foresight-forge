@@ -1,0 +1,281 @@
+{
+  "date": "2025-10-20",
+  "predictions": [
+    {
+      "text": "U.S. Nonfarm Payrolls (change in total nonfarm employment, SA) for October 2025 will print between +100,000 and +220,000.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2025-11-08",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify in BLS Employment Situation news release for October 2025: headline change in total nonfarm payroll employment.",
+      "evidence": [
+        "Companies citing AI for layoffs suggest cooling hiring momentum: https://www.cnbc.com/2025/10/19/firms-are-blaming-ai-for-job-cuts-critics-say-its-a-good-excuse.html",
+        "Mixed global growth backdrop (China slowing) may temper U.S. labor demand: https://www.cnbc.com/2025/10/20/china-economic-growth-gdp-september-third-quarter-q3-retail-sales-industrial-output-urban-investment-fixed-income.html"
+      ],
+      "monitoring_signals": [
+        "ADP National Employment Report (Oct)",
+        "Initial and continuing jobless claims (weekly, SA)",
+        "ISM/PMI employment subindexes (Oct)",
+        "Challenger job cuts (Oct)"
+      ],
+      "rationale": "Hiring remains positive but moderating amid restructuring and macro uncertainty.",
+      "id": "c77224c6-e651-49cc-8540-8df14a93773f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Services Prices Index for October 2025 will print at or above 56.0.",
+      "category": "macro",
+      "horizon_days": 16,
+      "deadline": "2025-11-05",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm in ISM Services Report On Business for October 2025: Prices Index reading.",
+      "evidence": [
+        "Services inflation persistence remains a theme in 2025 macro commentary.",
+        "Energy and wage pressures can keep services input prices elevated despite goods disinflation."
+      ],
+      "monitoring_signals": [
+        "CPI services ex-energy (Oct)",
+        "PPI services components (Oct)",
+        "Wage growth measures (Atlanta Fed Wage Growth Tracker)",
+        "Oil and refined product price trends"
+      ],
+      "rationale": "Services price pressures remain sticky even as goods disinflate.",
+      "id": "e03fe5f2-031f-4dab-9bdf-f0c5da59a36c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted insured unemployment (continuing claims) will print at or above 1.90 million in at least one weekly report by 2025-11-30.",
+      "category": "macro",
+      "horizon_days": 41,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Check U.S. Department of Labor Unemployment Insurance Weekly Claims report: seasonally adjusted insured unemployment level.",
+      "evidence": [
+        "Reports of AI-linked restructuring and cost control point to slower re-hiring: https://www.cnbc.com/2025/10/19/firms-are-blaming-ai-for-job-cuts-critics-say-its-a-good-excuse.html"
+      ],
+      "monitoring_signals": [
+        "Weekly continuing claims (SA) trend",
+        "Corporate layoff announcements (Challenger)",
+        "Job openings and quits (JOLTS) direction"
+      ],
+      "rationale": "Gradual softening in labor markets should lift continuing claims.",
+      "id": "de1743f3-07fb-4daa-94e6-2314c5b81881",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area HICP headline (YoY, flash) for October 2025 will print between 2.2% and 2.8%.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify in Eurostat flash inflation release for October 2025: headline HICP YoY.",
+      "evidence": [
+        "Core inflation easing but still elevated per recent euro area trends.",
+        "Energy base effects fading with modest gas price volatility."
+      ],
+      "monitoring_signals": [
+        "HCOB PMIs output prices (Oct)",
+        "Dutch TTF gas prices",
+        "Country CPI flashes (DE, FR, ES, IT)"
+      ],
+      "rationale": "Headline likely near 2\u20133% as disinflation continues but services stay firm.",
+      "id": "0714dce6-3448-4e84-82ff-1fce2706ad77",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China imports (USD, YoY) for October 2025 will print between -2% and +6% in the Customs release.",
+      "category": "macro",
+      "horizon_days": 21,
+      "deadline": "2025-11-10",
+      "confidence_pct": 55,
+      "verification_criteria": "Check General Administration of Customs monthly trade data for October 2025: imports YoY in USD terms.",
+      "evidence": [
+        "China growth slowing but policy support ongoing: https://www.cnbc.com/2025/10/20/china-economic-growth-gdp-september-third-quarter-q3-retail-sales-industrial-output-urban-investment-fixed-income.html",
+        "PBOC holding benchmark rates steady indicates cautious stance: https://www.cnbc.com/2025/10/20/asia-pacific-markets-nikkei-225-hang-seng-index-china-gdp.html"
+      ],
+      "monitoring_signals": [
+        "Official/caixin PMIs (new export/import orders)",
+        "Commodity import volumes (crude, copper, iron ore)",
+        "Korea/Taiwan exports as leading indicators"
+      ],
+      "rationale": "Import growth remains subdued amid domestic demand softness.",
+      "id": "3b34961f-4940-485f-8073-6c5dce916af0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Existing Home Sales (SAAR) for September 2025 will print between 3.8 million and 4.2 million in the NAR release.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-10-22",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify in National Association of Realtors press release for September 2025: seasonally adjusted annual rate of existing home sales.",
+      "evidence": [
+        "High mortgage rates have depressed resale activity through 2025.",
+        "Inventory constraints limit upside even if rates ease modestly."
+      ],
+      "monitoring_signals": [
+        "Freddie Mac PMMS 30-year mortgage rate",
+        "MBA purchase applications index",
+        "Active listings and months\u2019 supply"
+      ],
+      "rationale": "Elevated mortgage rates and tight supply cap transactions.",
+      "id": "94730e7e-112b-48cf-9600-f79ee96f1b70",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE U.S. Dollar Index (DXY) will close at or below 103.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 41,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "verification_criteria": "Confirm using ICE Data Indices official DXY end-of-day close (or equivalent reputable financial data source).",
+      "evidence": [
+        "Expectation of FOMC hold near-term reduces upside dollar impulse.",
+        "Improving risk sentiment in APAC equities: https://www.cnbc.com/2025/10/20/asia-pacific-markets-nikkei-225-hang-seng-index-china-gdp.html"
+      ],
+      "monitoring_signals": [
+        "U.S. 10Y yields and rate expectations (FedWatch)",
+        "EUR/USD and USD/JPY moves",
+        "Global risk sentiment (equities, credit spreads)"
+      ],
+      "rationale": "Softer U.S. rates and risk-on episodes can pressure DXY lower.",
+      "id": "6b361349-7ac5-4f36-bf3e-875ee6c66bbc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent crude oil front-month futures will settle at or below $80.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 41,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Verify via ICE Futures Europe official daily settlement price for Brent front-month contract.",
+      "evidence": [
+        "China growth concerns weigh on demand: https://www.cnbc.com/2025/10/20/china-economic-growth-gdp-september-third-quarter-q3-retail-sales-industrial-output-urban-investment-fixed-income.html",
+        "Geopolitical risks exist but have produced volatile, two-sided moves."
+      ],
+      "monitoring_signals": [
+        "OECD demand revisions (IEA/EIA/OPEC reports)",
+        "U.S. crude and product inventory builds",
+        "OPEC+ supply headlines and compliance",
+        "Front spread (M1\u2013M2) structure shifts"
+      ],
+      "rationale": "Demand-side softness could intermittently push Brent below $80.",
+      "id": "bcd77369-5e53-493f-ab29-1b218e763d48",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. working natural gas in storage will reach at or above 3.90 trillion cubic feet in at least one EIA Weekly Natural Gas Storage Report by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 41,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Check EIA Weekly Natural Gas Storage Report: total working gas in storage level for any report published by deadline.",
+      "evidence": [
+        "EU storage very high points to mild price pressures globally: https://agsi.gie.eu/",
+        "Seasonal U.S. injections typically peak in Oct/Nov barring early draws."
+      ],
+      "monitoring_signals": [
+        "Weekly EIA injections/withdrawals",
+        "HDD/temperature forecasts",
+        "Lower-48 dry gas production and LNG feedgas",
+        "HH prompt-month futures curve"
+      ],
+      "rationale": "Strong production and mild autumn weather support higher inventories.",
+      "id": "3691941a-38da-4ce2-ae51-a78e65672c71",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Retail Sales Control Group (MoM, SA) for October 2025 will print between -0.2% and +0.3% in the Census release.",
+      "category": "macro",
+      "horizon_days": 26,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify in U.S. Census Monthly Retail Trade report for October 2025: control group (sales excluding motor vehicles & parts, gasoline, building materials, and food services).",
+      "evidence": [
+        "Household finances mixed; some support from forgiveness policies: https://www.cnbc.com/2025/10/19/trump-student-loan-forgiveness.html"
+      ],
+      "monitoring_signals": [
+        "Bank card spending trackers (BAC/JPM/GS)",
+        "Redbook same-store sales (weekly)",
+        "Adobe Digital Price Index (online prices)",
+        "Consumer sentiment (UMich) and gas prices"
+      ],
+      "rationale": "Flat-to-soft control sales amid cautious consumers and lower goods prices.",
+      "id": "4b2ebdc3-8332-4729-b39d-1ef662adac99",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year TIPS breakeven inflation rate (FRED: T10YIE) will close at or above 2.50% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 41,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "verification_criteria": "Confirm using FRED series T10YIE daily close (or U.S. Treasury/TIPS market data).",
+      "evidence": [
+        "Services inflation persistence and energy volatility can buoy long-run breakevens.",
+        "Policy on hold reduces near-term tightening risk."
+      ],
+      "monitoring_signals": [
+        "Oil price moves",
+        "Inflation data surprises (CPI/PCE/ISM prices)",
+        "TIPS auction results and flows",
+        "Fed communications"
+      ],
+      "rationale": "Inflation risk premia can lift breakevens on data or oil spikes.",
+      "id": "99cc8cb8-06bb-459d-9229-ec5351d8b084",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Microsoft (MSFT) Q1 FY2026 Azure and other cloud services revenue growth (YoY, constant currency) will be between 25% and 32%, per the company\u2019s earnings disclosure.",
+      "category": "tech",
+      "horizon_days": 10,
+      "deadline": "2025-10-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify in Microsoft Q1 FY2026 earnings release/call: reported YoY growth rate for Azure and other cloud services (constant currency).",
+      "evidence": [
+        "Enterprise AI adoption supports cloud demand; companies citing AI in restructuring: https://www.cnbc.com/2025/10/19/firms-are-blaming-ai-for-job-cuts-critics-say-its-a-good-excuse.html"
+      ],
+      "monitoring_signals": [
+        "MSFT guidance and partner checks",
+        "Hyperscaler capex commentary (GOOGL/AMZN)",
+        "Public cloud usage indicators (FinOps/ISG indexes)"
+      ],
+      "rationale": "Azure growth decelerates from peaks but stays robust on AI workloads.",
+      "id": "beec1121-ab9d-4086-b6ac-d8bf1e1d7ea7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Apple (AAPL) fiscal Q4 2025 Services net sales will grow between 12% and 18% year-over-year, per the company\u2019s earnings release.",
+      "category": "tech",
+      "horizon_days": 11,
+      "deadline": "2025-10-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify in Apple fiscal Q4 2025 earnings press release: Services net sales YoY growth.",
+      "evidence": [
+        "Services resilience amid device cycles; recurring revenue strength.",
+        "U.S. consumers supported at the margin by forgiveness policy: https://www.cnbc.com/2025/10/19/trump-student-loan-forgiveness.html"
+      ],
+      "monitoring_signals": [
+        "App Store and ads trends",
+        "Subscriptions count (Apple One, Music, iCloud)",
+        "FX impacts noted in guidance"
+      ],
+      "rationale": "Services mix and subscriptions underpin double-digit growth despite FX.",
+      "id": "1b299b73-0533-43f6-b9e3-e7438d80182a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
