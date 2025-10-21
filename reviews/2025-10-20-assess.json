@@ -1,0 +1,70 @@
+{
+  "date": "2025-10-20",
+  "assessments": [
+    {
+      "id": "c77224c6-e651-49cc-8540-8df14a93773f",
+      "status": "pending",
+      "status_rationale": "No BLS nonfarm payrolls data for October 2025 is cited; release is due in early November and the deadline has not passed."
+    },
+    {
+      "id": "e03fe5f2-031f-4dab-9bdf-f0c5da59a36c",
+      "status": "pending",
+      "status_rationale": "No ISM Services Prices Index reading for October 2025 appears in the news; the report is scheduled for early November."
+    },
+    {
+      "id": "de1743f3-07fb-4daa-94e6-2314c5b81881",
+      "status": "pending",
+      "status_rationale": "No Department of Labor continuing claims figure indicating \u22651.90 million is reported; multiple weekly releases remain before the deadline."
+    },
+    {
+      "id": "0714dce6-3448-4e84-82ff-1fce2706ad77",
+      "status": "pending",
+      "status_rationale": "No euro area October 2025 HICP flash estimate is mentioned; Eurostat release is expected at month-end."
+    },
+    {
+      "id": "3b34961f-4940-485f-8073-6c5dce916af0",
+      "status": "pending",
+      "status_rationale": "No China October 2025 Customs trade data is referenced; release typically comes in early November."
+    },
+    {
+      "id": "94730e7e-112b-48cf-9600-f79ee96f1b70",
+      "status": "pending",
+      "status_rationale": "No NAR September 2025 existing home sales figure is in the coverage; the release is expected imminently and the deadline is tomorrow."
+    },
+    {
+      "id": "6b361349-7ac5-4f36-bf3e-875ee6c66bbc",
+      "status": "pending",
+      "status_rationale": "No evidence that DXY has closed at or below 103.00; the window remains open through November 30."
+    },
+    {
+      "id": "bcd77369-5e53-493f-ab29-1b218e763d48",
+      "status": "pending",
+      "status_rationale": "No report of ICE Brent settling at or below $80.00; the condition could still occur before the deadline."
+    },
+    {
+      "id": "3691941a-38da-4ce2-ae51-a78e65672c71",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Natural Gas Storage figure reaching \u22653.90 Tcf is cited; additional weekly reports precede the deadline."
+    },
+    {
+      "id": "4b2ebdc3-8332-4729-b39d-1ef662adac99",
+      "status": "pending",
+      "status_rationale": "No October 2025 Retail Sales Control Group data is mentioned; Census release is mid-November."
+    },
+    {
+      "id": "99cc8cb8-06bb-459d-9229-ec5351d8b084",
+      "status": "pending",
+      "status_rationale": "No confirmation that the 10Y TIPS breakeven closed \u22652.50%; the threshold could still be met by November 30."
+    },
+    {
+      "id": "beec1121-ab9d-4086-b6ac-d8bf1e1d7ea7",
+      "status": "pending",
+      "status_rationale": "Microsoft has not reported Q1 FY2026 results yet; AWS outage news does not provide Azure growth figures."
+    },
+    {
+      "id": "1b299b73-0533-43f6-b9e3-e7438d80182a",
+      "status": "pending",
+      "status_rationale": "Apple\u2019s fiscal Q4 2025 earnings (including Services growth) have not been released; stock move on iPhone sales does not resolve this."
+    }
+  ]
+}

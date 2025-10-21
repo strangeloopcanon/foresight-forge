@@ -1,0 +1,281 @@
+{
+  "date": "2025-10-21",
+  "predictions": [
+    {
+      "text": "ISM Manufacturing PMI (headline, SA) for October 2025 will print between 49.0 and 51.5 in ISM\u2019s release due by 2025-11-01.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-11-01",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Verify the headline PMI value in ISM\u2019s official October 2025 Manufacturing ISM Report On Business. Outcome is true if the reported PMI is within [49.0, 51.5], inclusive.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/",
+        "https://www.pmi.spglobal.com/Public/Release/PressReleases"
+      ],
+      "monitoring_signals": [
+        "S&P Global US Manufacturing PMI (flash/final)",
+        "Philadelphia Fed and Empire State manufacturing surveys",
+        "Durable goods orders ex-transportation",
+        "ISM supplier deliveries, inventories, and new orders subindices"
+      ],
+      "rationale": "Regional surveys and soft-landing dynamics suggest mildly contractionary-to-flat factory activity.",
+      "id": "666ba19d-7c24-4bcb-a4e5-b99f2dd9045f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area HCOB Services PMI (final) for October 2025 will print between 49.0 and 51.0.",
+      "category": "macro",
+      "horizon_days": 16,
+      "deadline": "2025-11-06",
+      "confidence_pct": 54,
+      "log_odds": 0.1603,
+      "verification_criteria": "Verify the final October 2025 euro area Services PMI published by S&P Global/HCOB. Outcome is true if the final index is within [49.0, 51.0], inclusive.",
+      "evidence": [
+        "https://www.pmi.spglobal.com/Public/Release/PressReleases",
+        "https://ec.europa.eu/eurostat"
+      ],
+      "monitoring_signals": [
+        "HCOB services PMI flash vs. revisions",
+        "Euro area consumer confidence and retail sales",
+        "Energy prices (Brent, TTF) affecting service costs",
+        "Tourism indicators and mobility data"
+      ],
+      "rationale": "Growth is soft but stabilizing; services likely hover near breakeven.",
+      "id": "b7780527-393c-4b99-a201-695c6e212130",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China Industrial Production (YoY) for October 2025 will print between 4.8% and 6.2% in the NBS release.",
+      "category": "macro",
+      "horizon_days": 25,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Verify the October 2025 industrial production YoY growth rate in the National Bureau of Statistics of China official release. Outcome is true if within [4.8%, 6.2%], inclusive.",
+      "evidence": [
+        "http://www.stats.gov.cn/english/PressRelease/",
+        "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"
+      ],
+      "monitoring_signals": [
+        "Electricity generation and freight volume",
+        "Export orders (Customs data) and PMI new orders",
+        "Credit impulse and infrastructure investment",
+        "Semiconductor and electronics output trends"
+      ],
+      "rationale": "Manufacturing remains supported by infrastructure and exports but capped by property drag.",
+      "id": "281401e5-1c19-4d1c-ae2c-1407b52e7f38",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Unemployment rate (U-3, SA) for October 2025 will print between 4.1% and 4.3% in the BLS release.",
+      "category": "macro",
+      "horizon_days": 18,
+      "deadline": "2025-11-08",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Verify the seasonally adjusted U-3 unemployment rate in the October 2025 Employment Situation report (BLS). Outcome is true if within [4.1%, 4.3%], inclusive.",
+      "evidence": [
+        "https://www.bls.gov/schedule/news_release/empsit.htm",
+        "https://fred.stlouisfed.org/series/UNRATE"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims",
+        "Household survey employment vs. payrolls",
+        "Labor force participation rate",
+        "JOLTS openings and quits"
+      ],
+      "rationale": "Gradual labor-market cooling with still-solid employment should keep jobless rate near recent range.",
+      "id": "3dfb0793-f2c0-4425-8598-9173b666f110",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Nikkei 225 (ticker: ^N225) will close at or above 42,000.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 40,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.1603,
+      "verification_criteria": "Verify using a reputable data source (e.g., Yahoo Finance or exchange data) that the official daily close of ^N225 is \u2265 42,000.0 on any trading day through 2025-11-30 (UTC).",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/21/asia-markets-today-japan-parliamentary-vote-australia-rare-earths.html",
+        "https://finance.yahoo.com/quote/%5EN225"
+      ],
+      "monitoring_signals": [
+        "USD/JPY levels and BOJ policy guidance",
+        "Earnings season surprises for TOPIX heavyweights",
+        "Global risk appetite and U.S. tech leadership",
+        "Domestic fiscal policy developments"
+      ],
+      "rationale": "Policy continuity and weak yen support equities; momentum near records increases the chance of a new high.",
+      "id": "5b39fb94-e60c-453f-8f26-1148ad924366",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/CNH (Yahoo Finance: CNH=X) will trade at or above 7.50 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 40,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.1202,
+      "verification_criteria": "Verify intraday high on Yahoo Finance CNH=X (or equivalent reputable source) shows a trade \u2265 7.50 by 2025-11-30 (UTC).",
+      "evidence": [
+        "https://finance.yahoo.com/quote/CNH%3DX",
+        "http://www.stats.gov.cn/english/PressRelease/"
+      ],
+      "monitoring_signals": [
+        "Daily PBOC USD/CNY fixing vs. models",
+        "Capital flows and offshore-onshore spread",
+        "China growth data and policy easing",
+        "Broad USD trend (DXY)"
+      ],
+      "rationale": "Soft Chinese growth, accommodative policy, and firm USD risk a push toward 7.50.",
+      "id": "e8c4c658-b044-4aca-ab02-8fdf7d518ffa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures (CL) will settle at or below $74.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 40,
+      "deadline": "2025-11-30",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Verify CME Group daily settlement price for the front-month CL contract is \u2264 $74.00 on any trading day through 2025-11-30.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.quotes.html",
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "EIA crude inventory changes and Cushing stocks",
+        "OPEC+ guidance and compliance",
+        "Global demand indicators (mobility, PMIs)",
+        "Geopolitical risk premium in Middle East/Russia"
+      ],
+      "rationale": "High inventories and demand risks may puncture prices despite intermittent geopolitical premiums.",
+      "id": "55945fc5-d738-406c-b711-1449c114beab",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "LME Copper 3-month will settle at or above $9,500 per metric ton on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 40,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Verify the official LME 3M copper cash/PM settlement is \u2265 $9,500/mt on any trading day through 2025-11-30 using LME data or reputable terminals.",
+      "evidence": [
+        "https://www.lme.com/en/Metals/Non-ferrous/Copper#tabIndex=0",
+        "https://www.cnbc.com/2025/10/20/trump-australia-albanese-minerals-rare-earths-china.html"
+      ],
+      "monitoring_signals": [
+        "China industrial activity and grid investment",
+        "Mine supply disruptions and TC/RCs",
+        "Dollar index (DXY) and rates",
+        "Inventory levels at LME/SHFE"
+      ],
+      "rationale": "Tight longer-term fundamentals with episodic macro risk-on spurts can lift copper above $9.5k.",
+      "id": "d1394331-8421-4bee-a903-1da724418dd3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Cboe Volatility Index (VIX) will close at or below 13.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 40,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "log_odds": -0.1603,
+      "verification_criteria": "Verify the official VIX close from Cboe (or Yahoo Finance ^VIX) is \u2264 13.00 on any trading day through 2025-11-30 (UTC).",
+      "evidence": [
+        "https://finance.yahoo.com/quote/%5EVIX",
+        "https://www.cnbc.com/2025/10/20/apple-stock-iphone-17-us-china-sales.html"
+      ],
+      "monitoring_signals": [
+        "S&P 500 realized volatility (20D)",
+        "Earnings season dispersion and macro data shocks",
+        "Dealer gamma positioning and options skew",
+        "Fed communications and term premium moves"
+      ],
+      "rationale": "Megacap-led rallies can compress implied vol episodically, even amid macro crosscurrents.",
+      "id": "dce0a754-7e77-4449-8e47-a75db88b5d85",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Ethereum (ETH-USD) will trade at or above $3,800 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 40,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "log_odds": -0.1202,
+      "verification_criteria": "Verify using a reputable aggregator (e.g., Yahoo Finance ETH-USD) that the intraday high reaches \u2265 $3,800 on any UTC day through 2025-11-30.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/ETH-USD",
+        "https://www.cnbc.com/2025/10/20/amazon-web-services-outage-takes-down-major-websites.html"
+      ],
+      "monitoring_signals": [
+        "BTC dominance and crypto market breadth",
+        "Risk appetite in equities and rates moves",
+        "Spot ETF flows and staking/validator metrics",
+        "On-chain activity and gas fees"
+      ],
+      "rationale": "Risk-on stretches and crypto-specific catalysts can drive episodic ETH spikes.",
+      "id": "5721ca94-dc70-48e0-b46a-66a575bc9d03",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, NASA will publish a solicitation (draft RFP or final) on SAM.gov to reopen competition for an Artemis lunar Human Landing System provider.",
+      "category": "tech",
+      "horizon_days": 40,
+      "deadline": "2025-11-30",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "True if SAM.gov lists a NASA-issued draft or final solicitation referencing the lunar Human Landing System (HLS) or equivalent Artemis lander competition dated on/before 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/20/nasa-duffy-spacex-artemis-moon-landing.html",
+        "https://sam.gov/"
+      ],
+      "monitoring_signals": [
+        "NASA press releases and procurement notices",
+        "Industry day announcements for HLS",
+        "Congressional hearings or budget directives",
+        "Competitive responses from aerospace primes"
+      ],
+      "rationale": "NASA stated intent to reopen lander contracts; a near-term procurement notice is likely.",
+      "id": "3b972daa-f468-466e-8384-4e73261a2178",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Lynas Rare Earths (ASX: LYC) will close at or above A$9.50 on at least one ASX trading day by 2025-11-30 (local exchange time).",
+      "category": "markets",
+      "horizon_days": 40,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Verify via official ASX closing prices or a reputable data source that LYC.AX closes \u2265 A$9.50 on any trading day through 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/20/trump-australia-albanese-minerals-rare-earths-china.html",
+        "https://finance.yahoo.com/quote/LYC.AX"
+      ],
+      "monitoring_signals": [
+        "Policy developments on U.S.\u2013Australia critical minerals funding",
+        "NdPr and rare earth oxide spot prices",
+        "Lynas production/expansion updates",
+        "AUD/USD and broader materials sector moves"
+      ],
+      "rationale": "New funding pipeline and strategic alignment support sentiment and potential re-rating for rare earth producers.",
+      "id": "cb5bc2a2-c9a9-4e87-8c39-69f0248005a2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

@@ -845,3 +845,12 @@ Given the absence of hard releases, all items remain pending. Key upcoming check
 
 ---
 
+
+## 2025-10-20
+
+Today’s news flow is dominated by U.S. political developments, an AWS outage, and geopolitical headlines, with little in the way of hard macroeconomic releases or commodity/market closes that would settle any of the tracked forecasts. Notably absent are the NAR existing home sales report, Euro area HICP flash, ISM Services Prices, and U.S. labor market prints; all remain ahead on the calendar. Likewise, there are no cited closes for DXY, Brent, or the 10-year breakeven, and no EIA storage or UI continuing claims levels that would trigger threshold conditions.
+
+Corporate headlines include Apple’s stock hitting a record on iPhone strength and AWS service disruptions, but neither provides the specific segment metrics needed to adjudicate Apple Services growth or Microsoft’s Azure constant-currency growth ahead of their late-October earnings. The U.S.–Australia critical minerals agreement could have medium-term implications for commodities and the dollar, but no immediate price or close data is provided to update the market-threshold predictions. As such, all items remain pending until the relevant official releases or market data become available.
+
+---
+

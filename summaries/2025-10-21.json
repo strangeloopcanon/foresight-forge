@@ -1,0 +1,108 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. and Australia ink $8.5B critical minerals pipeline, boosting rare earth supply chains and Australian miner shares, countering China\u2019s dominance.",
+      "tags": [
+        "geopolitics",
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/10/20/trump-australia-albanese-minerals-rare-earths-china.html"
+    },
+    {
+      "text": "Major AWS outage disrupted hundreds of sites and airlines; services recovering, spotlighting cloud concentration risk and digital infrastructure fragility.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/20/amazon-web-services-outage-takes-down-major-websites.html"
+    },
+    {
+      "text": "Apple shares hit record on strong iPhone 17 sales in U.S. and China, reinforcing megacap-led market momentum.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/20/apple-stock-iphone-17-us-china-sales.html"
+    },
+    {
+      "text": "Japan\u2019s Nikkei 225 notches new record as Takaichi poised to become prime minister, signaling policy continuity and sustained equity optimism.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/21/asia-markets-today-japan-parliamentary-vote-australia-rare-earths.html"
+    },
+    {
+      "text": "Appeals court allows Trump to deploy National Guard in Portland, expanding federal authority over local security with potential civil unrest and market risk implications.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/10/20/us/appeals-court-national-guard-troops-portland-trump.html"
+    },
+    {
+      "text": "Trump backs carving up Ukraine with Russia after tense Zelenskyy meeting, unsettling Western unity and raising geopolitical risk.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/20/trump-shifts-weight-behind-putin-after-tense-meeting-with-zelenskyy.html"
+    },
+    {
+      "text": "White House seeks to preserve Gaza deal amid Netanyahu concerns as a key Gaza humanitarian foundation\u2019s operations unravel, threatening regional stability.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/20/us/politics/trump-gaza-israel-netanyahu.html"
+    },
+    {
+      "text": "NASA will reopen Moon lander contracts as SpaceX falls behind schedule, reshaping Artemis timelines and opportunities for aerospace rivals.",
+      "tags": [
+        "tech",
+        "science",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/20/nasa-duffy-spacex-artemis-moon-landing.html"
+    },
+    {
+      "text": "Alibaba claims new GPU pooling slashed Nvidia chip usage 82%, hinting at efficiency gains that could temper hyperscaler demand growth.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"
+    },
+    {
+      "text": "Intel and AMD standardize ChkTag for x86 memory safety, signaling hardware-level security push with potential software performance impacts.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490"
+    },
+    {
+      "text": "Engineered LED light selectively kills cancer cells without harming healthy tissue, suggesting a noninvasive oncology therapy avenue.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251020092831.htm"
+    },
+    {
+      "text": "New analysis refines sea-level rise timelines, underscoring urgency for coastal adaptation and infrastructure investment planning.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.quantamagazine.org/how-soon-will-the-seas-rise-20251020/"
+    },
+    {
+      "text": "Data centers explore repurposed aircraft turbine generators for backup power, addressing grid constraints amid AI-driven energy demand.",
+      "tags": [
+        "energy",
+        "tech",
+        "macro"
+      ],
+      "link": "https://spectrum.ieee.org/ai-data-centers"
+    }
+  ]
+}
