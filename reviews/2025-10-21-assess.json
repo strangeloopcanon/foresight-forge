@@ -1,0 +1,65 @@
+{
+  "date": "2025-10-21",
+  "assessments": [
+    {
+      "id": "666ba19d-7c24-4bcb-a4e5-b99f2dd9045f",
+      "status": "pending",
+      "status_rationale": "ISM\u2019s October 2025 Manufacturing PMI has not been released yet (due by 2025-11-01), and today\u2019s news contains no PMI figures."
+    },
+    {
+      "id": "b7780527-393c-4b99-a201-695c6e212130",
+      "status": "pending",
+      "status_rationale": "No reporting of the Euro area HCOB Services PMI (final) for October; the final print is due 2025-11-06."
+    },
+    {
+      "id": "281401e5-1c19-4d1c-ae2c-1407b52e7f38",
+      "status": "pending",
+      "status_rationale": "China\u2019s October 2025 Industrial Production YoY is not in the provided news and is scheduled for mid-November."
+    },
+    {
+      "id": "3dfb0793-f2c0-4425-8598-9173b666f110",
+      "status": "pending",
+      "status_rationale": "The October 2025 U.S. unemployment rate is not reported here; BLS release is due 2025-11-08."
+    },
+    {
+      "id": "5b39fb94-e60c-453f-8f26-1148ad924366",
+      "status": "pending",
+      "status_rationale": "No evidence the Nikkei 225 has reached 42,000; a headline notes Asia markets fell but provides no level confirming/denying the threshold."
+    },
+    {
+      "id": "e8c4c658-b044-4aca-ab02-8fdf7d518ffa",
+      "status": "pending",
+      "status_rationale": "No FX rates cited for USD/CNH; threshold could still be met by the 2025-11-30 deadline."
+    },
+    {
+      "id": "55945fc5-d738-406c-b711-1449c114beab",
+      "status": "pending",
+      "status_rationale": "No WTI settlement prices are mentioned; outcome before the 2025-11-30 deadline remains unresolved."
+    },
+    {
+      "id": "d1394331-8421-4bee-a903-1da724418dd3",
+      "status": "pending",
+      "status_rationale": "No LME copper settlement levels are included in the news; the threshold could still be met by deadline."
+    },
+    {
+      "id": "dce0a754-7e77-4449-8e47-a75db88b5d85",
+      "status": "pending",
+      "status_rationale": "No VIX closing level is provided; with the deadline on 2025-11-30, status remains open."
+    },
+    {
+      "id": "5721ca94-dc70-48e0-b46a-66a575bc9d03",
+      "status": "pending",
+      "status_rationale": "No ETH price data appears in the news; barrier event may still occur before 2025-11-30."
+    },
+    {
+      "id": "3b972daa-f468-466e-8384-4e73261a2178",
+      "status": "pending",
+      "status_rationale": "No reporting of a new NASA Artemis HLS competition solicitation on SAM.gov; deadline remains 2025-11-30."
+    },
+    {
+      "id": "cb5bc2a2-c9a9-4e87-8c39-69f0248005a2",
+      "status": "pending",
+      "status_rationale": "No mention of Lynas Rare Earths share price; threshold could still be met before 2025-11-30."
+    }
+  ]
+}

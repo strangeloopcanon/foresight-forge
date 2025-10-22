@@ -21,7 +21,7 @@
       ],
       "rationale": "Regional surveys and soft-landing dynamics suggest mildly contractionary-to-flat factory activity.",
       "id": "666ba19d-7c24-4bcb-a4e5-b99f2dd9045f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Growth is soft but stabilizing; services likely hover near breakeven.",
       "id": "b7780527-393c-4b99-a201-695c6e212130",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Manufacturing remains supported by infrastructure and exports but capped by property drag.",
       "id": "281401e5-1c19-4d1c-ae2c-1407b52e7f38",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Gradual labor-market cooling with still-solid employment should keep jobless rate near recent range.",
       "id": "3dfb0793-f2c0-4425-8598-9173b666f110",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -113,7 +113,7 @@
       ],
       "rationale": "Policy continuity and weak yen support equities; momentum near records increases the chance of a new high.",
       "id": "5b39fb94-e60c-453f-8f26-1148ad924366",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "Soft Chinese growth, accommodative policy, and firm USD risk a push toward 7.50.",
       "id": "e8c4c658-b044-4aca-ab02-8fdf7d518ffa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "High inventories and demand risks may puncture prices despite intermittent geopolitical premiums.",
       "id": "55945fc5-d738-406c-b711-1449c114beab",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -182,7 +182,7 @@
       ],
       "rationale": "Tight longer-term fundamentals with episodic macro risk-on spurts can lift copper above $9.5k.",
       "id": "d1394331-8421-4bee-a903-1da724418dd3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -205,7 +205,7 @@
       ],
       "rationale": "Megacap-led rallies can compress implied vol episodically, even amid macro crosscurrents.",
       "id": "dce0a754-7e77-4449-8e47-a75db88b5d85",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -228,7 +228,7 @@
       ],
       "rationale": "Risk-on stretches and crypto-specific catalysts can drive episodic ETH spikes.",
       "id": "5721ca94-dc70-48e0-b46a-66a575bc9d03",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -251,7 +251,7 @@
       ],
       "rationale": "NASA stated intent to reopen lander contracts; a near-term procurement notice is likely.",
       "id": "3b972daa-f468-466e-8384-4e73261a2178",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -274,7 +274,7 @@
       ],
       "rationale": "New funding pipeline and strategic alignment support sentiment and potential re-rating for rare earth producers.",
       "id": "cb5bc2a2-c9a9-4e87-8c39-69f0248005a2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

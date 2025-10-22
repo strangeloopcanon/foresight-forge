@@ -1,0 +1,247 @@
+{
+  "date": "2025-10-22",
+  "predictions": [
+    {
+      "text": "Alphabet (GOOGL) Q3 2025 total revenue growth (YoY) will be between 10% and 14%, per the company\u2019s earnings release.",
+      "category": "tech",
+      "horizon_days": 8,
+      "deadline": "2025-10-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify against Alphabet\u2019s Q3 2025 earnings release or Form 8-K; calculate year-over-year growth percentage for total revenue and confirm it lies within [10%, 14%].",
+      "evidence": [
+        "https://abc.xyz/investor/",
+        "https://www.sec.gov/edgar/browse/?CIK=1652044",
+        "https://www.cnbc.com/2025/10/21/openai-browser-alphabet-stock.html"
+      ],
+      "monitoring_signals": [
+        "Third-party ad spend trackers (Pathmatics, Skai) for Q3 trends",
+        "YouTube ad price/fill-rate commentary from agencies",
+        "Search ad auction intensity and click-volume indices"
+      ],
+      "rationale": "Search and YouTube demand remained resilient; cloud improves but not decisive for total growth. Competitive headlines unlikely to impact already-completed Q3.",
+      "id": "7ebdecd8-7993-48b7-8a4c-4d09b59b4128",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing New Orders Index for October 2025 will print at or below 50.5.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-11-01",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm the October 2025 ISM Manufacturing Report on Business; use the New Orders subindex headline value and verify it is \u2264 50.5.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/",
+        "https://www.cnbc.com/2025/10/21/this-weeks-critical-inflation-report-comes-with-doubts-about-the-data.html",
+        "https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/us-manufacturing-pmi"
+      ],
+      "monitoring_signals": [
+        "Regional Fed manufacturing new orders (Philly, Empire, Richmond)",
+        "S&P Global US Manufacturing PMI New Orders",
+        "Export orders in ISM and S&P Global surveys"
+      ],
+      "rationale": "Industry data show soft orders amid cautious inventory management and weak external demand.",
+      "id": "6f3eb13f-0474-43e8-ae26-f79eef552d01",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area unemployment rate (Eurostat) for September 2025 will print between 6.4% and 6.7%.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-10-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Check Eurostat\u2019s monthly unemployment rate release for September 2025; confirm the seasonally adjusted euro area rate is within [6.4%, 6.7%].",
+      "evidence": [
+        "https://ec.europa.eu/eurostat",
+        "https://ec.europa.eu/eurostat/web/lfs/data/database",
+        "https://www.cnbc.com/2025/10/22/japan-exports-import-trade-data-september.html"
+      ],
+      "monitoring_signals": [
+        "Euro area composite PMI employment subindices",
+        "National unemployment updates (DE, FR, IT, ES)",
+        "Online job postings indices (e.g., Indeed Hiring Lab EU)"
+      ],
+      "rationale": "Euro labor markets remain tight but easing gradually; recent prints anchored near mid-6s.",
+      "id": "963bb308-ab99-455b-a52c-b56c47ef3702",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. CPI Used Cars and Trucks (MoM, SA) for October 2025 will print between -1.2% and +0.3% in the BLS release.",
+      "category": "macro",
+      "horizon_days": 24,
+      "deadline": "2025-11-15",
+      "confidence_pct": 57,
+      "verification_criteria": "In the October 2025 CPI release, use the Used Cars and Trucks index (BLS item series) and compute seasonally adjusted MoM; verify it lies within [-1.2%, +0.3%].",
+      "evidence": [
+        "https://www.bls.gov/cpi/",
+        "https://fred.stlouisfed.org/series/CUSR0000SETA02",
+        "https://www.manheim.com/consulting/Manheim-Used-Vehicle-Value-Index.html"
+      ],
+      "monitoring_signals": [
+        "Manheim Used Vehicle Value Index (M/M SA)",
+        "Auction conversion rates and floor prices",
+        "Auto loan delinquencies and dealer inventory days\u2019 supply"
+      ],
+      "rationale": "Auction data remain soft; retail prices lag wholesale declines, keeping downward pressure on CPI used vehicles.",
+      "id": "ef6054af-e012-4b90-8525-81a49352f9e6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "United Kingdom CPI (YoY, headline) for October 2025 will print between 2.9% and 3.5%.",
+      "category": "macro",
+      "horizon_days": 29,
+      "deadline": "2025-11-20",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify via ONS CPI bulletin for October 2025; confirm the all-items CPI annual rate is within [2.9%, 3.5%].",
+      "evidence": [
+        "https://www.ons.gov.uk/releases",
+        "https://www.ons.gov.uk/economy/inflationandpriceindices",
+        "https://www.bankofengland.co.uk/monetary-policy-summary"
+      ],
+      "monitoring_signals": [
+        "Energy cap adjustments and utility tariffs",
+        "Food CPI momentum in Kantar grocery data",
+        "Services inflation from PMI and wage growth metrics"
+      ],
+      "rationale": "Energy base effects fade while services stay sticky; headline likely holds near 3%.",
+      "id": "fd1d31c5-f1c8-4689-becc-46cc887b28d5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE BofA MOVE Index will close at or below 95.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 39,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Confirm a daily close for the ICE BofA MOVE Index \u2264 95.0 using ICE Indices or FRED data; any single trading day satisfies.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/MOVE",
+        "https://indices.icemarketdata.com/",
+        "https://www.cnbc.com/2025/10/21/this-weeks-critical-inflation-report-comes-with-doubts-about-the-data.html"
+      ],
+      "monitoring_signals": [
+        "Treasury yields\u2019 intraday ranges and realized vol",
+        "Fed communications and data surprises (CPI, payrolls)",
+        "Auction tails and bid-to-cover ratios"
+      ],
+      "rationale": "Near-term event risks fade post-data; vol mean-reverts as path of policy becomes clearer.",
+      "id": "be5a8734-c0a6-4072-9e34-8c00ad684ba4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or below \u20ac38.00/MWh on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 39,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Use ICE Endex official settlement for the front-month TTF futures; confirm any settlement \u2264 \u20ac38.00/MWh by the deadline.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://agsi.gie.eu/",
+        "https://ec.europa.eu/energy/observatory/gas"
+      ],
+      "monitoring_signals": [
+        "EU storage fill levels (AGSI+)",
+        "Weather forecasts (HDD/temperature anomalies)",
+        "Norway/LNG supply outages and regas utilization"
+      ],
+      "rationale": "High EU storage and shoulder-season demand temper price spikes barring major supply disruptions.",
+      "id": "0277184a-361a-4464-a4c2-2ac4103e00df",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE U.S. Dollar Index (DXY) will close at or above 107.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 39,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "verification_criteria": "Confirm a daily close \u2265 107.00 for DXY using ICE or Yahoo Finance (^DXY) with UTC-based trading day.",
+      "evidence": [
+        "https://www.theice.com/products/194/US-Dollar-Index-Futures",
+        "https://finance.yahoo.com/quote/%5EDXY",
+        "https://www.federalreserve.gov/monetarypolicy.htm"
+      ],
+      "monitoring_signals": [
+        "Rate differentials (UST vs G10) and front-end OIS",
+        "Global risk sentiment (VIX, equities)",
+        "U.S. data surprises relative to G10 peers"
+      ],
+      "rationale": "Resilient U.S. data and higher relative yields can push DXY to test prior highs.",
+      "id": "3835af4b-a95f-46c8-baed-b7cf05b61f0d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. crude oil field production (weekly, EIA) will print at or above 13.40 million barrels per day in at least one Weekly Petroleum Status Report by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 39,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Check EIA Weekly Petroleum Status Report; confirm the \u201cU.S. Field Production of Crude Oil\u201d weekly estimate is \u2265 13.40 mb/d in any report before the deadline.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://fred.stlouisfed.org/series/CRFPUS2W",
+        "https://www.eia.gov/outlooks/steo/"
+      ],
+      "monitoring_signals": [
+        "Rig counts and DUC trends",
+        "Permian pipeline takeaway utilization",
+        "EIA 914 monthly reconciliations and revisions"
+      ],
+      "rationale": "Productivity gains and Permian strength support incremental weekly highs despite flat rig counts.",
+      "id": "88059620-9a8c-482b-afea-9a2518841378",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-22 close to 2025-11-30 close, Tesla (TSLA) will underperform Invesco QQQ Trust (QQQ) by at least 5.0 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 39,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Using Yahoo Finance adjusted close data for TSLA and QQQ, compute % change from 2025-10-22 close to 2025-11-30 close; verify TSLA \u2013 QQQ \u2264 -5.0 pp.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/TSLA/history",
+        "https://finance.yahoo.com/quote/QQQ/history",
+        "https://www.cnbc.com/2025/10/21/take-back-tesla-urges-shareholders-to-reject-musk-1-trillion-pay-plan.html"
+      ],
+      "monitoring_signals": [
+        "EV pricing and margin commentary from peers",
+        "Delivery/production run-rate updates",
+        "Rate-sensitive growth factor performance"
+      ],
+      "rationale": "Margin pressure and governance overhangs could weigh on TSLA relative to diversified mega-cap tech.",
+      "id": "b28c3258-5e56-4373-ad05-759213c4a4f0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, OFAC will designate at least one entity for supporting Iranian UAV procurement or production, as evidenced by a Treasury press release or SDN listing explicitly citing UAV-related activity.",
+      "category": "geopolitics",
+      "horizon_days": 39,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm at least one new OFAC press release/SDN entry by the deadline explicitly mentioning Iranian UAV procurement/production facilitation.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://ofac.treasury.gov/sanctions-programs-and-country-information/iran-sanctions",
+        "https://www.state.gov/u-s-actions-to-counter-irans-military-support-activities/"
+      ],
+      "monitoring_signals": [
+        "Reports of UAV transfers to proxies or Russia",
+        "U.S. Congressional/State Dept statements on Iran",
+        "Tracking of sanctions evasion networks in MENA/Caucasus"
+      ],
+      "rationale": "Escalating regional tensions and ongoing enforcement trends make additional UAV-related designations likely.",
+      "id": "57f305cc-d82b-484e-a75d-f79ab656028e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

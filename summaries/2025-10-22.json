@@ -1,0 +1,116 @@
+{
+  "bullets": [
+    {
+      "text": "Upcoming U.S. inflation report faces data-quality doubts, complicating Fed outlook and bond market pricing.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/21/this-weeks-critical-inflation-report-comes-with-doubts-about-the-data.html"
+    },
+    {
+      "text": "Netflix misses earnings amid Brazilian tax dispute; shares drop despite confidence in continued growth.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/21/netflix-nflx-earnings-q3-2025.html"
+    },
+    {
+      "text": "OpenAI launches ChatGPT Atlas browser, pressuring Google; Alphabet shares fall on competitive search threat.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/21/openai-browser-alphabet-stock.html"
+    },
+    {
+      "text": "Investors warn of AI bubble as valuations surge; LangChain hits $1.25B, Fal.ai reportedly $4B+, Sesame raises $250M.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/"
+    },
+    {
+      "text": "Take Back Tesla campaign urges shareholders to reject Elon Musk\u2019s proposed $1 trillion pay package.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/21/take-back-tesla-urges-shareholders-to-reject-musk-1-trillion-pay-plan.html"
+    },
+    {
+      "text": "GM stock jumps ~15% on earnings beat and raised guidance; separately, automaker abandons BrightDrop electric vans.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/21/general-motors-gm-earnings-q3-2025.html"
+    },
+    {
+      "text": "Capital One posts strong quarter, announces new buyback, easing credit risk concerns.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/21/capital-one-puts-credit-risk-worries-to-rest-delivers-a-strong-quarter-and-new-buyback.html"
+    },
+    {
+      "text": "Asia stocks fall as Japan exports rebound overall but shipments to U.S. keep tumbling, highlighting weak U.S. demand.",
+      "tags": [
+        "macro",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/22/japan-exports-import-trade-data-september.html"
+    },
+    {
+      "text": "Foreign hackers breached a U.S. nuclear weapons plant via SharePoint flaws, underscoring escalating critical-infrastructure cyber risk.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html"
+    },
+    {
+      "text": "U.S. intensifies diplomacy to shore up Israel-Hamas cease-fire; JD Vance visits Israel as talks continue.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html"
+    },
+    {
+      "text": "NASA chief signals SpaceX could be sidelined from Artemis moon mission after contract dispute intensifies.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy"
+    },
+    {
+      "text": "Novo Nordisk\u2019s oral GLP-1 candidate hits key milestone, advancing weight-loss market beyond injectables.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/21/healthy-returns-a-key-step-forward-for-novo-nordisks-glp-1-pill.html"
+    },
+    {
+      "text": "Scientists warn solar geoengineering ('dimming the sun') could trigger global chaos, complicating climate policy.",
+      "tags": [
+        "science",
+        "geopolitics"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251021083631.htm"
+    },
+    {
+      "text": "Researchers uncover hidden quantum effect in 2D materials, potentially enabling novel electronic or quantum devices.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251021083640.htm"
+    }
+  ]
+}

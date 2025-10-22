@@ -854,3 +854,12 @@ Corporate headlines include Apple’s stock hitting a record on iPhone strength 
 
 ---
 
+
+## 2025-10-21
+
+Today’s coverage is dominated by U.S. political developments around the Trump administration, scattered corporate earnings (notably Netflix), and general market color on Asia and AI-related sentiment. None of the items provides definitive data on the specific macroeconomic prints (ISM, PMIs, unemployment, China IP) or the precise market thresholds (Nikkei 225, USD/CNH, WTI, LME copper, VIX, ETH) tracked in these forecasts. Likewise, there is no report on a NASA Artemis HLS solicitation or on Lynas Rare Earths price action.
+
+Given that all deadlines are still in the future and no bullet confirms a threshold was hit or a data release occurred, every forecast remains pending. Near-term watch items include the upcoming ISM report (by Nov 1), the U.S. jobs release (Nov 8), and ongoing market volatility that could influence the equity, volatility, commodity, FX, and crypto thresholds before month-end.
+
+---
+
