@@ -1,0 +1,252 @@
+{
+  "date": "2025-10-23",
+  "predictions": [
+    {
+      "text": "U.S. CPI Core (YoY, CPI-U all items less food and energy) for October 2025 will print between 3.1% and 3.4%.",
+      "category": "macro",
+      "horizon_days": 22,
+      "deadline": "2025-11-14",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify in BLS CPI news release for October 2025: 12-month percent change for 'All items less food and energy' (core CPI, not seasonally adjusted) must be \u22653.1% and \u22643.4%.",
+      "evidence": [
+        "https://www.bls.gov/news.release/cpi.toc.htm",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+        "https://www.marketwatch.com/story/jittery-investors-are-pushing-down-treasury-yields-ahead-of-crucial-cpi-inflation-report-38a0247b"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed core CPI nowcast for Oct 2025",
+        "Zillow and Apartment List rent indices (shelter/OER lead)",
+        "Manheim Used Vehicle Value Index trend",
+        "Import prices for core goods",
+        "Average hourly earnings and unit labor costs"
+      ],
+      "rationale": "Core disinflation continues as goods deflate and shelter slows; risks from energy are limited for core.",
+      "id": "050d216b-43c3-419f-9797-824239d89973",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area GDP (QoQ, SA, flash) for Q3 2025 will print between 0.0% and 0.2%.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Eurostat flash estimate for quarterly GDP growth rate (seasonally adjusted) for Q3 2025 must be \u22650.0% and \u22640.2%.",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/news/release-calendar",
+        "https://www.pmi.spglobal.com/Public/Home/PressRelease?language=en",
+        "https://www.marketwatch.com/story/jittery-investors-are-pushing-down-treasury-yields-ahead-of-crucial-cpi-inflation-report-38a0247b"
+      ],
+      "monitoring_signals": [
+        "HCOB Eurozone Composite PMI (Q3 average)",
+        "Euro area industrial production and retail sales",
+        "German and French national GDP indicators",
+        "Eurostat quarterly employment flash"
+      ],
+      "rationale": "PMIs stabilized near 50 and consumption held up modestly; growth likely flat-to-slightly positive.",
+      "id": "0a184901-ccb8-47e4-8b10-45392069e79c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Amazon Q3 2025 AWS net sales year-over-year growth (reported, not FX-adjusted) will be between 15% and 20%.",
+      "category": "tech",
+      "horizon_days": 8,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Amazon\u2019s Q3 2025 earnings release or 10-Q must show AWS segment net sales YoY growth \u226515% and \u226420% on a reported basis.",
+      "evidence": [
+        "https://ir.aboutamazon.com/",
+        "https://www.cnbc.com/2025/10/22/ibm-q3-2025-earnings-report.html",
+        "https://www.cnbc.com/2025/10/22/tesla-tsla-q3-2025-earnings-report.html"
+      ],
+      "monitoring_signals": [
+        "AWS deal announcements and backlog commentary",
+        "Peer cloud growth (Azure, Google Cloud) from earnings",
+        "Enterprise IT spend surveys (Gartner, IDC)",
+        "USD strength headwinds/tailwinds to reported growth"
+      ],
+      "rationale": "Cloud demand re-accelerates on AI workloads; reported growth likely mid-to-high teens.",
+      "id": "adc54c27-a6f2-4058-8e70-17d5c3291b48",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Meta Platforms Q3 2025 Reality Labs operating loss will be at or above $3.0 billion.",
+      "category": "tech",
+      "horizon_days": 7,
+      "deadline": "2025-10-30",
+      "confidence_pct": 62,
+      "verification_criteria": "Meta\u2019s Q3 2025 earnings release or 10-Q must report Reality Labs operating loss \u2265 $3.0B.",
+      "evidence": [
+        "https://investor.fb.com/",
+        "https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html"
+      ],
+      "monitoring_signals": [
+        "Reality Labs capex/opex guidance and headcount",
+        "Hardware launch cadence and subsidies",
+        "VR/AR unit sales and ASPs",
+        "Management commentary on investment timeline"
+      ],
+      "rationale": "Reality Labs remains deeply investment-heavy with limited revenue scale; sequential improvements unlikely to change loss magnitude.",
+      "id": "43fc3b38-a06f-4c58-b5e4-0089273f91b1",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 4.10% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 38,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "FRED series DGS10 shows a daily observation \u22644.10% on any date on or before 2025-11-30.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.marketwatch.com/story/jittery-investors-are-pushing-down-treasury-yields-ahead-of-crucial-cpi-inflation-report-38a0247b"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE inflation prints",
+        "Fed communications and dot path expectations",
+        "Risk-off flows and equity volatility",
+        "Treasury issuance/auction demand metrics"
+      ],
+      "rationale": "Cooler inflation and growth risks support dips in yields even amid issuance headwinds.",
+      "id": "f08bbbf6-2b65-40b0-aa80-0bc30f05758f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EUR/USD (EURUSD=X) will trade at or below 1.0600 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 38,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Yahoo Finance quote page for EURUSD=X shows an intraday low \u22641.0600 on any UTC trading day on or before the deadline.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/EURUSD%3DX/",
+        "https://www.cnbc.com/2025/10/22/trump-administration-sanctions-russian-oil.html"
+      ],
+      "monitoring_signals": [
+        "DXY trend and U.S.\u2013EU rate differentials",
+        "ECB vs. Fed guidance shifts",
+        "Euro-area growth/PMI surprises",
+        "Energy price shocks impacting euro terms of trade"
+      ],
+      "rationale": "Growth divergence and higher U.S. real yields keep the dollar bid, risking a test of 1.06.",
+      "id": "8756acbd-a181-48f0-834e-3413c5872655",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures (CL) will settle at or above $86.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 38,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "verification_criteria": "CME Group official settlement for front-month Light Sweet Crude Oil (CL) \u2265 $86.00 on any trading day on or before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/22/trump-administration-sanctions-russian-oil.html",
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.quotes.html"
+      ],
+      "monitoring_signals": [
+        "Russia/OPEC+ supply developments and compliance",
+        "U.S. crude inventories and product cracks",
+        "Middle East geopolitical risk premium",
+        "Time spreads (prompt/3-2-1 crack margins)"
+      ],
+      "rationale": "Fresh sanctions and tighter supply risks can lift prompt prices despite demand uncertainties.",
+      "id": "31cd1cf8-380f-42d5-b188-53e8ac8c3b77",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The S&P 500 Index (^GSPC) will close down at least 1.8% day-over-day on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 38,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Yahoo Finance historical data for ^GSPC shows a daily close-to-close percentage change \u2264 -1.8% on any UTC trading day on or before the deadline.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/%5EGSPC/history",
+        "https://www.cboe.com/tradable_products/vix/"
+      ],
+      "monitoring_signals": [
+        "VIX moves above 20",
+        "Earnings guidance cuts and miss rates",
+        "Macro surprise indices (US/Eurozone)",
+        "Rates spikes or credit spread widening"
+      ],
+      "rationale": "Event risk from earnings, CPI, and policy can produce at least one sharp risk-off day.",
+      "id": "a4b3591e-a4bc-4366-baf7-e315abf7e2c7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "TSMC October 2025 consolidated revenue (NT$) year-over-year growth will be between +8% and +16%.",
+      "category": "tech",
+      "horizon_days": 18,
+      "deadline": "2025-11-10",
+      "confidence_pct": 55,
+      "verification_criteria": "TSMC\u2019s monthly revenue press release for October 2025 must show YoY growth rate \u22658% and \u226416% versus October 2024.",
+      "evidence": [
+        "https://www.tsmc.com/english/news",
+        "https://www.pmi.spglobal.com/Public/Home/PressRelease?language=en"
+      ],
+      "monitoring_signals": [
+        "TSMC capacity utilization and lead times",
+        "AI/HPC demand from hyperscalers",
+        "Smartphone/PC shipment trackers",
+        "TWD exchange rate effects on reported sales"
+      ],
+      "rationale": "AI-related wafers offset mixed consumer demand; comps remain favorable.",
+      "id": "bcfbb2f0-93f3-40c6-bbbb-accf41eb143a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. JOLTS total job openings (SA level) for September 2025 will print between 7.4 million and 8.1 million.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-11-06",
+      "confidence_pct": 56,
+      "verification_criteria": "BLS JOLTS news release for September 2025 shows seasonally adjusted total job openings level \u22657.4m and \u22648.1m.",
+      "evidence": [
+        "https://www.bls.gov/jlt/",
+        "https://www.nfib.com/surveys/small-business-economic-trends/"
+      ],
+      "monitoring_signals": [
+        "NFIB hiring plans and hard-to-fill positions",
+        "Initial and continuing claims trends",
+        "Conference Board labor differential",
+        "LinkedIn hiring rate index"
+      ],
+      "rationale": "Openings trend down but remain elevated versus pre-pandemic; labor demand is cooling gradually.",
+      "id": "c406f59f-b887-4d4e-aea1-a2de50f3c0b0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or below \u20ac34.00/MWh on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 38,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "verification_criteria": "ICE Endex official settlement price for Dutch TTF front-month futures \u2264 \u20ac34.00/MWh on any trading day on or before the deadline.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://agsi.gie.eu/"
+      ],
+      "monitoring_signals": [
+        "EU storage levels (AGSI+)",
+        "Weather forecasts (HDDs) for NW Europe",
+        "LNG arrivals and unplanned outages",
+        "Norway pipeline flows and maintenance"
+      ],
+      "supersedes_id": "0277184a-361a-4464-a4c2-2ac4103e00df",
+      "rationale": "Storage is exceptionally high and weather benign so far, pressuring prompt prices barring major supply shocks.",
+      "id": "6d1bbf2a-f833-4acf-a6e0-dea6e56917c7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

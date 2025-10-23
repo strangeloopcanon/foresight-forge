@@ -1,0 +1,60 @@
+{
+  "date": "2025-10-22",
+  "assessments": [
+    {
+      "id": "7ebdecd8-7993-48b7-8a4c-4d09b59b4128",
+      "status": "pending",
+      "status_rationale": "No Alphabet Q3 2025 earnings release or revenue growth figures reported in today's coverage."
+    },
+    {
+      "id": "6f3eb13f-0474-43e8-ae26-f79eef552d01",
+      "status": "pending",
+      "status_rationale": "No ISM Manufacturing New Orders Index print for October 2025 was reported."
+    },
+    {
+      "id": "963bb308-ab99-455b-a52c-b56c47ef3702",
+      "status": "pending",
+      "status_rationale": "No Eurostat release or reporting on September 2025 euro area unemployment appeared."
+    },
+    {
+      "id": "ef6054af-e012-4b90-8525-81a49352f9e6",
+      "status": "pending",
+      "status_rationale": "October 2025 CPI components have not been released or referenced."
+    },
+    {
+      "id": "fd1d31c5-f1c8-4689-becc-46cc887b28d5",
+      "status": "pending",
+      "status_rationale": "No report on UK October 2025 headline CPI was included."
+    },
+    {
+      "id": "be5a8734-c0a6-4072-9e34-8c00ad684ba4",
+      "status": "pending",
+      "status_rationale": "No explicit MOVE Index close levels were cited; no confirmation of a close at or below 95.0."
+    },
+    {
+      "id": "0277184a-361a-4464-a4c2-2ac4103e00df",
+      "status": "pending",
+      "status_rationale": "No settlement data for ICE Endex Dutch TTF front-month was reported."
+    },
+    {
+      "id": "3835af4b-a95f-46c8-baed-b7cf05b61f0d",
+      "status": "pending",
+      "status_rationale": "No evidence of the DXY closing at or above 107.00 was provided."
+    },
+    {
+      "id": "88059620-9a8c-482b-afea-9a2518841378",
+      "status": "pending",
+      "status_rationale": "No EIA weekly field production figures indicating \u226513.40 mb/d were mentioned."
+    },
+    {
+      "id": "b28c3258-5e56-4373-ad05-759213c4a4f0",
+      "status": "pending",
+      "status_rationale": "Outcome depends on performance through 2025-11-30; a single post-earnings move in TSLA is insufficient to resolve."
+    },
+    {
+      "id": "57f305cc-d82b-484e-a75d-f79ab656028e",
+      "status": "pending",
+      "status_rationale": "No OFAC designation tied to Iranian UAV procurement or production was reported."
+    }
+  ]
+}

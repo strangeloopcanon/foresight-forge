@@ -1,0 +1,106 @@
+{
+  "bullets": [
+    {
+      "text": "Prolonged U.S. shutdown weakens Congress's leverage and has cost hotels $650 million, signaling mounting economic drag.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/hotel-operators-say-theyve-lost-650-million-in-the-government-shutdown-theyre-calling-for-it-to-end-5a9b8423"
+    },
+    {
+      "text": "Oil jumps 3% after sanctions hit major Russian producers, tightening supply risk and stoking inflation concerns.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/22/trump-administration-sanctions-russian-oil.html"
+    },
+    {
+      "text": "Treasury yields fall ahead of CPI as investors hedge for cooler inflation, while equities pause but underlying rally case remains.",
+      "tags": [
+        "rates",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/jittery-investors-are-pushing-down-treasury-yields-ahead-of-crucial-cpi-inflation-report-38a0247b"
+    },
+    {
+      "text": "Tesla returns to revenue growth after two quarters, yet shares drop on margin, delivery, and expectation risks.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/22/tesla-tsla-q3-2025-earnings-report.html"
+    },
+    {
+      "text": "IBM beats and raises but stock falls as growth slows in key software segment, highlighting valuation sensitivity.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/22/ibm-q3-2025-earnings-report.html"
+    },
+    {
+      "text": "Meta cuts 600 AI roles as white-collar automation accelerates, underscoring uneven labor demand in tech.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html"
+    },
+    {
+      "text": "Walmart pauses H-1B hiring after fee hikes, signaling tighter U.S. immigration policy's drag on tech talent pipelines.",
+      "tags": [
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/22/walmart-h-1b-visa-job-offers-trump-fee.html"
+    },
+    {
+      "text": "New U.S. port fees leave shippers with surprise multimillion-dollar tariff bills, threatening logistics costs and trade flows.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/22/new-trump-port-fees-slam-us-freight-ship-owner-34-million-tariff-bill.html"
+    },
+    {
+      "text": "Bank of Korea holds at 2.5% as property curbs bite, balancing household debt risks against growth.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/23/bank-of-korea-policy-interest-rate-tighter-property-rules-household-debt-seoul-bok-borrowing.html"
+    },
+    {
+      "text": "Semaglutide (Wegovy) shows cardiovascular benefits independent of weight loss, strengthening case for broader therapeutic use and reimbursement.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2025/10/22/well/wegovy-cardiovascular-benefits-weight-loss-study.html"
+    },
+    {
+      "text": "Google demonstrates verifiable quantum advantage on hardware, signaling progress toward practical quantum computing capabilities.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/"
+    },
+    {
+      "text": "Iceland confirms mosquitoes' arrival as climate warms, illustrating poleward spread of disease vectors and ecological change.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.npr.org/2025/10/22/nx-s1-5582748/iceland-mosquitoes-first-time"
+    },
+    {
+      "text": "U.S. expands maritime strikes against suspected drug traffickers into Pacific; Latin American navies display narco-submarines, highlighting evolving smuggling tech.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/22/us/politics/trump-drug-boat-strike-colombia.html"
+    }
+  ]
+}

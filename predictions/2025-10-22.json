@@ -20,7 +20,7 @@
       ],
       "rationale": "Search and YouTube demand remained resilient; cloud improves but not decisive for total growth. Competitive headlines unlikely to impact already-completed Q3.",
       "id": "7ebdecd8-7993-48b7-8a4c-4d09b59b4128",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Industry data show soft orders amid cautious inventory management and weak external demand.",
       "id": "6f3eb13f-0474-43e8-ae26-f79eef552d01",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Euro labor markets remain tight but easing gradually; recent prints anchored near mid-6s.",
       "id": "963bb308-ab99-455b-a52c-b56c47ef3702",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Auction data remain soft; retail prices lag wholesale declines, keeping downward pressure on CPI used vehicles.",
       "id": "ef6054af-e012-4b90-8525-81a49352f9e6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Energy base effects fade while services stay sticky; headline likely holds near 3%.",
       "id": "fd1d31c5-f1c8-4689-becc-46cc887b28d5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Near-term event risks fade post-data; vol mean-reverts as path of policy becomes clearer.",
       "id": "be5a8734-c0a6-4072-9e34-8c00ad684ba4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "High EU storage and shoulder-season demand temper price spikes barring major supply disruptions.",
       "id": "0277184a-361a-4464-a4c2-2ac4103e00df",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Resilient U.S. data and higher relative yields can push DXY to test prior highs.",
       "id": "3835af4b-a95f-46c8-baed-b7cf05b61f0d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "Productivity gains and Permian strength support incremental weekly highs despite flat rig counts.",
       "id": "88059620-9a8c-482b-afea-9a2518841378",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -218,7 +218,7 @@
       ],
       "rationale": "Margin pressure and governance overhangs could weigh on TSLA relative to diversified mega-cap tech.",
       "id": "b28c3258-5e56-4373-ad05-759213c4a4f0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -240,7 +240,7 @@
       ],
       "rationale": "Escalating regional tensions and ongoing enforcement trends make additional UAV-related designations likely.",
       "id": "57f305cc-d82b-484e-a75d-f79ab656028e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

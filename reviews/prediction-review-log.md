@@ -863,3 +863,12 @@ Given that all deadlines are still in the future and no bullet confirms a thresh
 
 ---
 
+
+## 2025-10-22
+
+Today’s news flow was dominated by U.S. political developments, sector-specific corporate headlines (Tesla, IBM, Southwest), and macro context on yields and oil, but it did not contain the specific economic releases or index levels needed to adjudicate any of the open forecasts. Key datapoints like Alphabet’s Q3 revenue growth, ISM New Orders, Euro area unemployment, UK CPI, and U.S. CPI components have not been published or referenced.
+
+Market color—yields edging lower ahead of CPI, oil jumping on new Russia-related sanctions, and mixed large-cap tech earnings—could influence probabilities going forward (e.g., MOVE, DXY, energy supply-demand dynamics, and TSLA vs. QQQ dispersion). However, none of this constitutes clear evidence to mark outcomes yet. All items remain pending awaiting official releases or discrete trigger events before their respective deadlines.
+
+---
+
