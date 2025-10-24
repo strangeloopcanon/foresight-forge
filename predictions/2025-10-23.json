@@ -22,7 +22,7 @@
       ],
       "rationale": "Core disinflation continues as goods deflate and shelter slows; risks from energy are limited for core.",
       "id": "050d216b-43c3-419f-9797-824239d89973",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "PMIs stabilized near 50 and consumption held up modestly; growth likely flat-to-slightly positive.",
       "id": "0a184901-ccb8-47e4-8b10-45392069e79c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -68,7 +68,7 @@
       ],
       "rationale": "Cloud demand re-accelerates on AI workloads; reported growth likely mid-to-high teens.",
       "id": "adc54c27-a6f2-4058-8e70-17d5c3291b48",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Reality Labs remains deeply investment-heavy with limited revenue scale; sequential improvements unlikely to change loss magnitude.",
       "id": "43fc3b38-a06f-4c58-b5e4-0089273f91b1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -112,7 +112,7 @@
       ],
       "rationale": "Cooler inflation and growth risks support dips in yields even amid issuance headwinds.",
       "id": "f08bbbf6-2b65-40b0-aa80-0bc30f05758f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -134,7 +134,7 @@
       ],
       "rationale": "Growth divergence and higher U.S. real yields keep the dollar bid, risking a test of 1.06.",
       "id": "8756acbd-a181-48f0-834e-3413c5872655",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -156,7 +156,7 @@
       ],
       "rationale": "Fresh sanctions and tighter supply risks can lift prompt prices despite demand uncertainties.",
       "id": "31cd1cf8-380f-42d5-b188-53e8ac8c3b77",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -178,7 +178,7 @@
       ],
       "rationale": "Event risk from earnings, CPI, and policy can produce at least one sharp risk-off day.",
       "id": "a4b3591e-a4bc-4366-baf7-e315abf7e2c7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -200,7 +200,7 @@
       ],
       "rationale": "AI-related wafers offset mixed consumer demand; comps remain favorable.",
       "id": "bcfbb2f0-93f3-40c6-bbbb-accf41eb143a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "rationale": "Openings trend down but remain elevated versus pre-pandemic; labor demand is cooling gradually.",
       "id": "c406f59f-b887-4d4e-aea1-a2de50f3c0b0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -245,7 +245,7 @@
       "supersedes_id": "0277184a-361a-4464-a4c2-2ac4103e00df",
       "rationale": "Storage is exceptionally high and weather benign so far, pressuring prompt prices barring major supply shocks.",
       "id": "6d1bbf2a-f833-4acf-a6e0-dea6e56917c7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

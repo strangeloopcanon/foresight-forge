@@ -1,0 +1,232 @@
+{
+  "date": "2025-10-24",
+  "predictions": [
+    {
+      "text": "The U.S. 30-Year Treasury yield (FRED: DGS30) will close at or below 4.60% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 37,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Confirm a daily close at or below 4.60% using FRED series DGS30 or Treasury/Haver/Bloomberg end-of-day data; date measured in UTC.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS30",
+        "https://www.cnbc.com/2025/10/23/lower-mortgage-rates-push-home-sales-higher-in-september.html",
+        "https://fred.stlouisfed.org/series/MOVE1T10"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE and ISM prints below expectations",
+        "Fed communication indicating cuts or earlier easing",
+        "MOVE index and term premia declines",
+        "Large risk-off moves driving duration bids"
+      ],
+      "rationale": "Cooling inflation and lower mortgage rates suggest easing term premia; any growth scare or risk-off could pull long yields down.",
+      "id": "d4aff0fc-0b4d-405a-8b3d-a24386159360",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Housing Starts (SAAR) for October 2025 will print between 1.30 million and 1.42 million in the Census release.",
+      "category": "macro",
+      "horizon_days": 27,
+      "deadline": "2025-11-20",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify in U.S. Census Bureau New Residential Construction news release: Housing Starts (seasonally adjusted annual rate) for October 2025 within stated range.",
+      "evidence": [
+        "https://www.census.gov/construction/nrc/",
+        "https://www.cnbc.com/2025/10/23/lower-mortgage-rates-push-home-sales-higher-in-september.html"
+      ],
+      "monitoring_signals": [
+        "Mortgage rates and applications (MBA weekly)",
+        "Building permits trend",
+        "Homebuilder sentiment (NAHB)",
+        "Regional weather disruptions"
+      ],
+      "rationale": "Lower rates support activity, but affordability and supply frictions keep starts in a restrained mid-range.",
+      "id": "4014238a-ba4e-424c-9da2-08bb32c8862f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, BIS will publish a new rule (interim/final) tightening U.S. export controls on China related to AI software/model weights or EDA tools, as posted on federalregister.gov.",
+      "category": "geopolitics",
+      "horizon_days": 37,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "verification_criteria": "Confirm a BIS rule on federalregister.gov that explicitly tightens China-related controls for AI software/model weights or relevant software categories.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/23/us-china-software-export-curbs-bessent-trump-xi-meeting.html",
+        "https://www.federalregister.gov/agencies/industry-and-security-bureau"
+      ],
+      "monitoring_signals": [
+        "Pre-publication notices or BIS press releases",
+        "White House/NSC statements on China tech restrictions",
+        "Congressional letters advocating tighter AI controls",
+        "G7 coordination announcements"
+      ],
+      "rationale": "Policy momentum and signaling ahead of U.S.\u2013China talks point to further tightening on software and AI controls.",
+      "id": "1da626b6-a563-4624-bc8f-27bc411ab216",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "AMD (AMD) Q3 2025 Data Center segment revenue year-over-year growth will be between 25% and 45%, per the company\u2019s earnings release.",
+      "category": "tech",
+      "horizon_days": 15,
+      "deadline": "2025-11-08",
+      "confidence_pct": 54,
+      "verification_criteria": "Check AMD\u2019s Q3 2025 earnings press release/10-Q for Data Center segment revenue and calculate YoY growth; reported (not FX-adjusted).",
+      "evidence": [
+        "https://ir.amd.com/",
+        "https://www.cnbc.com/2025/10/23/anthropic-google-cloud-deal-tpu.html",
+        "https://www.cnbc.com/2025/10/23/intel-intc-earnings-report-q3-2025-.html"
+      ],
+      "monitoring_signals": [
+        "Hyperscaler capex commentary",
+        "Supply availability of MI300/next-gen accelerators",
+        "Competitive updates from Nvidia and Intel",
+        "Backlog disclosures and lead-time signals"
+      ],
+      "rationale": "AI server demand and share gains support strong growth, tempered by supply constraints and competitive dynamics.",
+      "id": "901a3a78-a7fc-4255-93c4-03783153fd30",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "COMEX Gold front-month futures will settle at or above $2,550 per troy ounce on at least one trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 37,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Confirm via CME/COMEX official settlement for the active front-month gold futures contract closing at or above $2,550.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/metals/precious/gold.html",
+        "https://www.nytimes.com/2025/10/23/us/politics/trump-sanctions-russian-oil.html",
+        "https://www.nytimes.com/2025/10/23/world/middleeast/rubio-israel-gaza.html"
+      ],
+      "monitoring_signals": [
+        "U.S. real yields and breakevens",
+        "Geopolitical risk spikes",
+        "USD index (DXY) moves",
+        "Central bank gold purchases"
+      ],
+      "rationale": "Potential geopolitical flare-ups and softer real yields could catalyze a flight to safety and higher gold prices.",
+      "id": "a23110bf-9bb2-43d8-b2e9-2fd3c75313da",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "USD/JPY (Yahoo Finance: JPY=X) will trade at or below 148.00 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 37,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Verify intraday trade at or below 148.00 using reliable FX data sources (Yahoo Finance JPY=X or major FX platforms), measured in UTC.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/JPY=X/",
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251023a.htm"
+      ],
+      "monitoring_signals": [
+        "MoF/BoJ intervention headlines",
+        "U.S.\u2013Japan rate differential shifts",
+        "Core inflation surprises in Japan",
+        "Risk-off episodes driving yen strength"
+      ],
+      "rationale": "Intervention risk and narrowing rate differentials could briefly strengthen the yen despite broader USD strength.",
+      "id": "628516bc-3391-4118-9f79-f1c083df015d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent crude oil front-month futures will settle at or above $90.00 per barrel on at least one trading day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 37,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Confirm ICE Brent front-month official settlement at or above $90.00 using ICE data or reputable market data providers.",
+      "evidence": [
+        "https://www.theice.com/products/219/Brent-Crude-Futures",
+        "https://www.nytimes.com/2025/10/23/us/politics/trump-sanctions-russian-oil.html"
+      ],
+      "monitoring_signals": [
+        "Supply disruptions (Russia/Middle East)",
+        "OPEC+ guidance and quota compliance",
+        "OECD inventories and time spreads",
+        "Demand indicators (PMIs, mobility data)"
+      ],
+      "rationale": "Tighter enforcement on Russian oil and geopolitical risks could tighten balances and lift Brent temporarily.",
+      "id": "b174de4f-e463-4168-b29a-5e988eabaea6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Euro area HCOB Manufacturing PMI (final) for October 2025 will print between 45.0 and 47.0.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-11-04",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify the final October 2025 Euro area manufacturing PMI level in the S&P Global/HCOB press release; value must be within range.",
+      "evidence": [
+        "https://www.spglobal.com/marketintelligence/en/solutions/pmi.html",
+        "https://www.cnbc.com/2025/10/23/us-china-software-export-curbs-bessent-trump-xi-meeting.html"
+      ],
+      "monitoring_signals": [
+        "Flash PMI vs. final revisions",
+        "Energy price moves impacting input costs",
+        "Export order trends",
+        "Germany and Italy sub-indices"
+      ],
+      "rationale": "Manufacturing remains subdued amid weak external demand and lingering energy cost pressures.",
+      "id": "aad104d8-4a7c-4e14-8535-1f398eb6b97c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PCE Price Index (headline, MoM, SA) for September 2025 will print between 0.1% and 0.3% in the BEA release due by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Check BEA Personal Income and Outlays report for September 2025 headline PCE MoM SA; confirm it lies within 0.1%\u20130.3%.",
+      "evidence": [
+        "https://www.bea.gov/news/schedule",
+        "https://www.bea.gov/data/income-saving/personal-income",
+        "https://www.cnbc.com/2025/10/23/lower-mortgage-rates-push-home-sales-higher-in-september.html"
+      ],
+      "monitoring_signals": [
+        "CPI/PPI inputs to PCE",
+        "Medical services and housing components",
+        "Retail sales control group",
+        "Revisions from prior months"
+      ],
+      "rationale": "Recent CPI/PPI trends imply modest but positive PCE inflation, consistent with gradual disinflation.",
+      "id": "7a7be279-c51b-4b33-bca5-72e3b33eecc1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-24 close to 2025-11-30 close, Invesco S&P 500 Equal Weight ETF (RSP) will underperform SPDR S&P 500 ETF Trust (SPY) by at least 1.5 percentage points based on adjusted close percentage change.",
+      "category": "markets",
+      "horizon_days": 37,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Compute percentage change in adjusted close for RSP and SPY from 2025-10-24 close to 2025-11-30 close; confirm RSP minus SPY \u2264 -1.5pp using Yahoo Finance or equivalent.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/23/anthropic-google-cloud-deal-tpu.html",
+        "https://www.cnbc.com/2025/10/23/apple-american-made-ai-servers-texas.html",
+        "https://finance.yahoo.com/quote/RSP",
+        "https://finance.yahoo.com/quote/SPY"
+      ],
+      "monitoring_signals": [
+        "Mega-cap earnings and guidance",
+        "Breadth indicators and equal-weight vs cap-weight ratios",
+        "Rates sensitivity of large-cap growth",
+        "ETF flows into mega-cap tech"
+      ],
+      "rationale": "AI-driven mega-cap leadership likely persists into earnings, pressuring equal-weight relative performance.",
+      "id": "560aa31c-193b-46e4-8bb1-c996079c7725",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

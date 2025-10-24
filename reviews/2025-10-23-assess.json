@@ -1,0 +1,60 @@
+{
+  "date": "2025-10-23",
+  "assessments": [
+    {
+      "id": "050d216b-43c3-419f-9797-824239d89973",
+      "status": "pending",
+      "status_rationale": "No official October 2025 U.S. Core CPI print was reported in today's coverage, and the release is typically mid-November; the deadline has not passed."
+    },
+    {
+      "id": "0a184901-ccb8-47e4-8b10-45392069e79c",
+      "status": "pending",
+      "status_rationale": "No Euro area Q3 2025 flash GDP figure appears in today's news; the report is expected around Oct 31 and has not been cited."
+    },
+    {
+      "id": "adc54c27-a6f2-4058-8e70-17d5c3291b48",
+      "status": "pending",
+      "status_rationale": "There is no mention of Amazon\u2019s Q3 2025 AWS reported growth in the provided articles; earnings results were not covered."
+    },
+    {
+      "id": "43fc3b38-a06f-4c58-b5e4-0089273f91b1",
+      "status": "pending",
+      "status_rationale": "Meta\u2019s Q3 2025 Reality Labs operating loss was not reported today; the news focused on layoffs and privacy oversight, not earnings."
+    },
+    {
+      "id": "f08bbbf6-2b65-40b0-aa80-0bc30f05758f",
+      "status": "pending",
+      "status_rationale": "No evidence in the articles indicates the 10-year Treasury yield closed at or below 4.10%; the time window remains open through Nov 30."
+    },
+    {
+      "id": "8756acbd-a181-48f0-834e-3413c5872655",
+      "status": "pending",
+      "status_rationale": "The news does not provide EUR/USD levels; no confirmation that 1.0600 was reached within the window."
+    },
+    {
+      "id": "31cd1cf8-380f-42d5-b188-53e8ac8c3b77",
+      "status": "pending",
+      "status_rationale": "While new U.S. sanctions on Russia could influence crude prices, no settlement at or above $86 was reported."
+    },
+    {
+      "id": "a4b3591e-a4bc-4366-baf7-e315abf7e2c7",
+      "status": "pending",
+      "status_rationale": "There is no report of an S&P 500 daily drop of at least 1.8% in today\u2019s coverage; the window remains open through Nov 30."
+    },
+    {
+      "id": "bcfbb2f0-93f3-40c6-bbbb-accf41eb143a",
+      "status": "pending",
+      "status_rationale": "TSMC\u2019s October 2025 monthly revenue has not been released; typical disclosure occurs in early November and is not referenced here."
+    },
+    {
+      "id": "c406f59f-b887-4d4e-aea1-a2de50f3c0b0",
+      "status": "pending",
+      "status_rationale": "No JOLTS September 2025 figure is cited; the release is expected in early November and may be affected by the government shutdown."
+    },
+    {
+      "id": "6d1bbf2a-f833-4acf-a6e0-dea6e56917c7",
+      "status": "pending",
+      "status_rationale": "No settlement levels for Dutch TTF are provided; no confirmation of a close at or below \u20ac34/MWh."
+    }
+  ]
+}

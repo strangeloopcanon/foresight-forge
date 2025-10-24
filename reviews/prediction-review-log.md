@@ -872,3 +872,12 @@ Market color—yields edging lower ahead of CPI, oil jumping on new Russia-relat
 
 ---
 
+
+## 2025-10-23
+
+None of the tracked indicators or earnings figures were conclusively reported in today’s news flow, so all forecasts remain pending. Notably, coverage highlighted U.S. sanctions tightening on Russia’s oil sector, corporate layoffs (Target, Applied Materials), and anticipation around an upcoming U.S. inflation report, but without publishing the specific data our predictions depend on.
+
+Directionally, the Russia sanctions could add upside risk to crude prices, incrementally raising the probability of a WTI spike, while broader risk sentiment and the ongoing government shutdown could inject volatility into rates and equities. The shutdown may also delay some official statistics (notably BEA data), which could affect timing for GDP or other releases, but there is no definitive impact on outcomes yet.
+
+---
+
