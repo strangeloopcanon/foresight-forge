@@ -881,3 +881,12 @@ Directionally, the Russia sanctions could add upside risk to crude prices, incre
 
 ---
 
+
+## 2025-10-24
+
+Today’s news flow is heavy on U.S. politics and geopolitics, with a notable macro data point: September CPI at 3.0% year-over-year, below expectations. While this supports a disinflation narrative that could ease long-end yields and buoy risk assets, none of the items directly resolve the targeted market thresholds or economic prints. PCE is due next week, so the CPI downside surprise modestly increases the odds that the September PCE lands within the 0.1%–0.3% band, but confirmation must await the BEA release.
+
+Market-related headlines highlight strength in AMD on quantum-computing-related sentiment and broader earnings dynamics ahead, which could influence RSP vs. SPY breadth. However, there are no hard figures yet on AMD’s Data Center revenue growth or on commodities/FX levels for gold, Brent, or USD/JPY. On policy, a conciliatory China tone before a potential Trump–Xi meeting offers mixed signals for near-term export-control tightening; importantly, there is no explicit BIS action reported. Overall, all forecasts remain open pending concrete releases or market settlements.
+
+---
+

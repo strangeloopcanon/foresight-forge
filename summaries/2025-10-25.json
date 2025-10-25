@@ -1,0 +1,93 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. CPI rose 0.3% m/m in September; headline inflation 3.0% y/y, with gasoline driving gains; core pressures continue easing.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/24/cpi-inflation-september-2025.html"
+    },
+    {
+      "text": "Fed proposes greater transparency and public accountability for annual bank stress tests, seeking comment; potential implications for capital planning and market expectations.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251024a.htm"
+    },
+    {
+      "text": "Social Security announces 2026 COLA of 2.8%, trailing current price increases, potentially squeezing retirees\u2019 real incomes.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/24/social-security-cola-2026-benefits-increase.html"
+    },
+    {
+      "text": "AMD jumps on reports IBM uses its chips for quantum error correction; IBM rallies on quantum progress; Intel highlights improving cash flow and foundry momentum.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/24/amd-stock-pops-on-report-ibm-can-use-its-chips-for-quantum-computing.html"
+    },
+    {
+      "text": "Hedge fund assets reach a record $5 trillion as quarterly inflows hit an 18-year high, signaling stronger risk appetite.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/24/hedge-fund-assets-reach-5-trillion-as-quarterly-capital-flows-soar.html"
+    },
+    {
+      "text": "U.S. deploys an aircraft carrier to Latin America amid expanded anti-drug operations; sanctions target Colombia\u2019s President Petro, heightening regional tensions.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/24/world/americas/us-sanctions-colombia-president-petro-drugs.html"
+    },
+    {
+      "text": "Beijing adopts conciliatory tone ahead expected Trump\u2013Xi meeting, suggesting potential thaw in trade and geopolitical frictions.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html"
+    },
+    {
+      "text": "Reliance\u2019s reduced purchases of Russian crude could lift India\u2019s import costs and tighten diesel supplies, reshaping Asian fuel flows.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/24/what-a-cut-in-reliances-russian-crude-purchases-would-mean-for-india.html"
+    },
+    {
+      "text": "U.S. new-car prices average $50,000 for the first time, keeping monthly payments high and pressuring auto demand.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/24/car-prices-hit-average-of-50000-dollars.html"
+    },
+    {
+      "text": "EU says Meta and TikTok breached Digital Services Act transparency rules, foreshadowing higher compliance costs and potential fines.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/10/24/ec-finds-meta-and-tiktok-breached-transparency-rules-under-dsa/"
+    },
+    {
+      "text": "China\u2019s coastal cities are subsiding as seas rise at record pace, amplifying flood risk and threatening infrastructure and property.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251023031627.htm"
+    },
+    {
+      "text": "Studies report a spark for Parkinson\u2019s pathology and suggest statins may lower dementia risk, indicating new preventive avenues.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251024041757.htm"
+    }
+  ]
+}

@@ -21,7 +21,7 @@
       ],
       "rationale": "Cooling inflation and lower mortgage rates suggest easing term premia; any growth scare or risk-off could pull long yields down.",
       "id": "d4aff0fc-0b4d-405a-8b3d-a24386159360",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Lower rates support activity, but affordability and supply frictions keep starts in a restrained mid-range.",
       "id": "4014238a-ba4e-424c-9da2-08bb32c8862f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Policy momentum and signaling ahead of U.S.\u2013China talks point to further tightening on software and AI controls.",
       "id": "1da626b6-a563-4624-bc8f-27bc411ab216",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -88,7 +88,7 @@
       ],
       "rationale": "AI server demand and share gains support strong growth, tempered by supply constraints and competitive dynamics.",
       "id": "901a3a78-a7fc-4255-93c4-03783153fd30",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -111,7 +111,7 @@
       ],
       "rationale": "Potential geopolitical flare-ups and softer real yields could catalyze a flight to safety and higher gold prices.",
       "id": "a23110bf-9bb2-43d8-b2e9-2fd3c75313da",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -134,7 +134,7 @@
       ],
       "rationale": "Intervention risk and narrowing rate differentials could briefly strengthen the yen despite broader USD strength.",
       "id": "628516bc-3391-4118-9f79-f1c083df015d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -156,7 +156,7 @@
       ],
       "rationale": "Tighter enforcement on Russian oil and geopolitical risks could tighten balances and lift Brent temporarily.",
       "id": "b174de4f-e463-4168-b29a-5e988eabaea6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -178,7 +178,7 @@
       ],
       "rationale": "Manufacturing remains subdued amid weak external demand and lingering energy cost pressures.",
       "id": "aad104d8-4a7c-4e14-8535-1f398eb6b97c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -201,7 +201,7 @@
       ],
       "rationale": "Recent CPI/PPI trends imply modest but positive PCE inflation, consistent with gradual disinflation.",
       "id": "7a7be279-c51b-4b33-bca5-72e3b33eecc1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -225,7 +225,7 @@
       ],
       "rationale": "AI-driven mega-cap leadership likely persists into earnings, pressuring equal-weight relative performance.",
       "id": "560aa31c-193b-46e4-8bb1-c996079c7725",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

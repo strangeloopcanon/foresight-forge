@@ -1,0 +1,55 @@
+{
+  "date": "2025-10-24",
+  "assessments": [
+    {
+      "id": "d4aff0fc-0b4d-405a-8b3d-a24386159360",
+      "status": "pending",
+      "status_rationale": "No confirmed report of the 30-year Treasury closing at or below 4.60%; deadline remains in the future."
+    },
+    {
+      "id": "4014238a-ba4e-424c-9da2-08bb32c8862f",
+      "status": "pending",
+      "status_rationale": "October 2025 Housing Starts have not been released; the referenced sources do not include this data."
+    },
+    {
+      "id": "1da626b6-a563-4624-bc8f-27bc411ab216",
+      "status": "pending",
+      "status_rationale": "No evidence of a new BIS rule on AI software/model weights or EDA tools published on federalregister.gov; deadline not yet reached."
+    },
+    {
+      "id": "901a3a78-a7fc-4255-93c4-03783153fd30",
+      "status": "pending",
+      "status_rationale": "AMD\u2019s Q3 2025 segment results have not been released; stock-related headlines do not confirm Data Center revenue growth."
+    },
+    {
+      "id": "a23110bf-9bb2-43d8-b2e9-2fd3c75313da",
+      "status": "pending",
+      "status_rationale": "No report of COMEX gold settling at or above $2,550; deadline is still ahead."
+    },
+    {
+      "id": "628516bc-3391-4118-9f79-f1c083df015d",
+      "status": "pending",
+      "status_rationale": "No FX level for USD/JPY reaching 148.00 or below is cited; assessment awaits market data before deadline."
+    },
+    {
+      "id": "b174de4f-e463-4168-b29a-5e988eabaea6",
+      "status": "pending",
+      "status_rationale": "No confirmation that ICE Brent front-month settled at or above $90; outcome remains open."
+    },
+    {
+      "id": "aad104d8-4a7c-4e14-8535-1f398eb6b97c",
+      "status": "pending",
+      "status_rationale": "Euro area HCOB Manufacturing PMI (final) for October 2025 has not been published yet."
+    },
+    {
+      "id": "7a7be279-c51b-4b33-bca5-72e3b33eecc1",
+      "status": "pending",
+      "status_rationale": "The BEA PCE report for September 2025 is not out; CPI coverage does not settle the PCE outcome."
+    },
+    {
+      "id": "560aa31c-193b-46e4-8bb1-c996079c7725",
+      "status": "pending",
+      "status_rationale": "The performance window has just begun and runs to 2025-11-30; no comparative return data yet."
+    }
+  ]
+}

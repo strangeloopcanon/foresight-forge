@@ -1,0 +1,261 @@
+{
+  "date": "2025-10-25",
+  "predictions": [
+    {
+      "text": "CME Henry Hub natural gas front-month futures (ticker: NG) will settle at or below $2.50 per MMBtu on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 36,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Verified via CME Group official daily settlement price for the prompt-month NG contract. Any settlement <= $2.50/MMBtu through 2025-11-30 (UTC) counts.",
+      "evidence": [
+        "https://www.eia.gov/naturalgas/weekly/",
+        "https://www.cpc.ncep.noaa.gov/",
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.contractSpecs.html"
+      ],
+      "monitoring_signals": [
+        "EIA working gas in storage vs. 5-year average",
+        "Lower 48 dry gas production and pipeline flows",
+        "LNG export outages/maintenance (e.g., Freeport)",
+        "Heating degree day forecasts (NOAA/CPC)",
+        "Henry Hub cash prices and prompt/second-month spread"
+      ],
+      "rationale": "High storage and mild autumn weather increase odds of a sub-$2.50 test before winter demand ramps.",
+      "id": "e78be288-8fea-4a35-9a72-6503a7c1723a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe Volatility Index (VIX) will close at or above 25.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 36,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "log_odds": -0.24,
+      "verification_criteria": "Cboe official VIX closing print >= 25.00 on any trading day before the deadline.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/",
+        "https://www.nytimes.com/2025/10/24/world/americas/us-sanctions-colombia-president-petro-drugs.html"
+      ],
+      "monitoring_signals": [
+        "S&P 500 1-day drawdowns >1.5%",
+        "Earnings surprises/guidance cuts from mega-caps",
+        "Geopolitical escalations and sanctions headlines",
+        "VIX futures term structure inversion (front > back)",
+        "Credit spreads (CDX IG/HY) widening"
+      ],
+      "rationale": "Earnings season and geopolitical tensions raise tail-risk; a single risk-off day can spike VIX above 25.",
+      "id": "7d1ec4be-4bf4-4d7e-a02f-c88feacce713",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "HFRI Fund Weighted Composite Index preliminary return for October 2025 will be between +0.4% and +2.0%, per HFR\u2019s release.",
+      "category": "markets",
+      "horizon_days": 21,
+      "deadline": "2025-11-15",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Use Hedge Fund Research\u2019s preliminary October 2025 performance published on hfr.com by 2025-11-15. Range refers to monthly percentage return.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/24/hedge-fund-assets-reach-5-trillion-as-quarterly-capital-flows-soar.html",
+        "https://www.hedgefundresearch.com/hfri-index"
+      ],
+      "monitoring_signals": [
+        "HFRX Global Hedge Fund Index daily estimates",
+        "S&P 500, MSCI ACWI, and credit index monthly returns",
+        "MOVE/VIX levels (risk-adjusted strategy performance)",
+        "Macro CTA trend signals across rates/FX/commodities"
+      ],
+      "rationale": "Record AUM and supportive risk sentiment point to modest positive October performance.",
+      "id": "3e7641dd-c741-4268-8719-71b88a48671f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Total Vehicle Sales (SAAR, FRED: TOTALSA) for October 2025 will print between 15.0 million and 16.2 million.",
+      "category": "macro",
+      "horizon_days": 21,
+      "deadline": "2025-11-15",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Confirmed via FRED series TOTALSA or BEA monthly vehicle sales release for October 2025; the reported SAAR must fall within the range.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/TOTALSA",
+        "https://www.cnbc.com/2025/10/24/car-prices-hit-average-of-50000-dollars.html"
+      ],
+      "monitoring_signals": [
+        "OEM monthly sales updates and incentive levels",
+        "Dealer inventory days\u2019 supply (Cox/J.D. Power)",
+        "Auto loan rates and credit availability",
+        "Gasoline prices and consumer confidence indices"
+      ],
+      "rationale": "Despite high prices, inventories and incentives support a mid-15M SAAR outcome.",
+      "id": "a20ab425-1f94-4b8d-97f8-f03644286c25",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Atlanta Fed Wage Growth Tracker (12-month moving median) for October 2025 will print between 4.5% and 5.3%.",
+      "category": "macro",
+      "horizon_days": 21,
+      "deadline": "2025-11-15",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "Verified by the Atlanta Fed Wage Growth Tracker page once the October 2025 value is posted; value must fall within the range.",
+      "evidence": [
+        "https://www.atlantafed.org/chcs/wage-growth-tracker",
+        "https://www.cnbc.com/2025/10/24/cpi-inflation-september-2025.html"
+      ],
+      "monitoring_signals": [
+        "BLS Average Hourly Earnings (YoY)",
+        "Indeed/Wage trackers for posted wages",
+        "JOLTS quits rate and job openings",
+        "NFIB compensation plans index"
+      ],
+      "rationale": "Wage growth is easing gradually but remains elevated relative to pre-2020 norms.",
+      "id": "26d2ec17-cb63-4fba-b433-bc299ce2ac3b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China NBS Manufacturing PMI for October 2025 will print between 50.0 and 50.8.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Use the official NBS of China manufacturing PMI figure for October 2025 published on stats.gov.cn; seasonally adjusted headline PMI.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/24/china-strikes-conciliatory-tone-ahead-of-expected-trump-xi-meeting.html",
+        "http://www.stats.gov.cn/english/PressRelease/"
+      ],
+      "monitoring_signals": [
+        "Caixin Manufacturing PMI",
+        "Export order metrics and port throughput",
+        "Power consumption and steel output",
+        "High-frequency mobility and truck freight indexes"
+      ],
+      "rationale": "Policy support and improved sentiment likely keep PMI slightly in expansion.",
+      "id": "3ec5dd9a-2c69-4bc5-8577-a1b500d7962a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "AAA U.S. national average regular gasoline price will print at or below $3.40 per gallon on at least one day by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 36,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "log_odds": -0.16,
+      "verification_criteria": "Confirmed via AAA Daily National Average on gasprices.aaa.com; any national average regular price reading <= $3.40/gal before deadline satisfies.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.eia.gov/petroleum/weekly/"
+      ],
+      "monitoring_signals": [
+        "RBOB gasoline futures and crack spreads",
+        "Refinery utilization/outages (PADD 3/5)",
+        "Crude prices and inventories",
+        "Seasonal demand trends and implied gasoline demand"
+      ],
+      "rationale": "Seasonal demand softness and improving supply could push averages lower into late fall.",
+      "id": "a8b01249-f4e5-4e27-a83c-c78db6db1b3e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "USD/MXN (Yahoo Finance: MXN=X) will trade at or above 19.00 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 36,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Yahoo Finance (MXN=X) intraday high or daily high reaching >= 19.00 on any UTC trading day counts.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/MXN%3DX/",
+        "https://www.nytimes.com/2025/10/24/world/americas/us-sanctions-colombia-president-petro-drugs.html"
+      ],
+      "monitoring_signals": [
+        "Banxico policy guidance and inflation prints",
+        "U.S. risk sentiment (DXY, VIX) and UST yields",
+        "Oil prices (impacting Mexico terms of trade)",
+        "Regional political/security headlines"
+      ],
+      "rationale": "Rising risk aversion and regional tensions can pressure MXN, prompting a brief spike above 19.",
+      "id": "85bf07ea-f658-40b8-9290-28aec5428515",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "IBM Q3 2025 total revenue year-over-year growth will be between +2% and +6%, per the company\u2019s earnings release.",
+      "category": "tech",
+      "horizon_days": 6,
+      "deadline": "2025-10-31",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Use IBM\u2019s official Q3 2025 earnings release or Form 8-K/press release to compare total revenue vs. Q3 2024; YoY growth must be within range.",
+      "evidence": [
+        "https://newsroom.ibm.com/",
+        "https://www.cnbc.com/2025/10/24/amd-stock-pops-on-report-ibm-can-use-its-chips-for-quantum-computing.html"
+      ],
+      "monitoring_signals": [
+        "IBM Software and Consulting segment growth",
+        "Infrastructure zSystems cycle and FX impacts",
+        "Backlog and book-to-bill commentary",
+        "Macro IT spending surveys"
+      ],
+      "rationale": "Steady software/consulting growth and FX tailwinds support low- to mid-single-digit YoY revenue growth.",
+      "id": "c1cb192c-67c9-4d16-af5d-89497bd1d242",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area Industrial Production (MoM, SA) for September 2025 will print between -0.6% and +0.4%, per Eurostat.",
+      "category": "macro",
+      "horizon_days": 21,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Verified via Eurostat news release on industrial production for September 2025 (seasonally adjusted MoM for the euro area).",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/news/press-releases",
+        "https://www.cnbc.com/2025/10/24/cpi-inflation-september-2025.html"
+      ],
+      "monitoring_signals": [
+        "Germany and France national IP releases",
+        "Euro area manufacturing PMI output index",
+        "Energy prices and gas storage levels",
+        "Export orders/new orders trends"
+      ],
+      "rationale": "Soft manufacturing PMIs suggest flat-to-slightly negative output, with energy costs a continued headwind.",
+      "id": "fb12e90f-e1eb-4715-a72e-10b457727ab5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. initial jobless claims 4-week moving average will reach at or above 230,000 in at least one weekly Department of Labor report by 2025-11-30.",
+      "category": "macro",
+      "horizon_days": 36,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Use the 4-week moving average figure in the DOL Unemployment Insurance Weekly Claims news release; any reading >= 230,000 before deadline qualifies.",
+      "evidence": [
+        "https://www.dol.gov/ui",
+        "https://www.cnbc.com/2025/10/24/cpi-inflation-september-2025.html"
+      ],
+      "monitoring_signals": [
+        "Continuing claims (insured unemployment) trend",
+        "Challenger job cuts announcements",
+        "NFIB hiring plans and job openings",
+        "Regional Fed employment components (Philly, Empire)"
+      ],
+      "rationale": "Gradual labor-market cooling and rising continuing claims make a 4-week average uptick plausible.",
+      "id": "51f9b4a4-63ec-45de-9513-92350b830349",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
