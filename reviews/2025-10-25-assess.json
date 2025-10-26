@@ -1,0 +1,60 @@
+{
+  "date": "2025-10-25",
+  "assessments": [
+    {
+      "id": "e78be288-8fea-4a35-9a72-6503a7c1723a",
+      "status": "pending",
+      "status_rationale": "No verified report on CME Henry Hub NG front-month settling at or below $2.50; today's news contains no hard commodity settlement data."
+    },
+    {
+      "id": "7d1ec4be-4bf4-4d7e-a02f-c88feacce713",
+      "status": "pending",
+      "status_rationale": "No evidence that VIX closed at or above 25. Headlines note record equity highs but do not provide specific VIX close data."
+    },
+    {
+      "id": "3e7641dd-c741-4268-8719-71b88a48671f",
+      "status": "pending",
+      "status_rationale": "HFRI preliminary October return has not been reported in the provided news; outcome depends on a future HFR release."
+    },
+    {
+      "id": "a20ab425-1f94-4b8d-97f8-f03644286c25",
+      "status": "pending",
+      "status_rationale": "October 2025 U.S. Total Vehicle Sales are not cited; this figure is typically released in early November."
+    },
+    {
+      "id": "26d2ec17-cb63-4fba-b433-bc299ce2ac3b",
+      "status": "pending",
+      "status_rationale": "Atlanta Fed Wage Growth Tracker for October is not mentioned and is generally published in November."
+    },
+    {
+      "id": "3ec5dd9a-2c69-4bc5-8577-a1b500d7962a",
+      "status": "pending",
+      "status_rationale": "No China NBS Manufacturing PMI print is reported; the October reading is expected around month-end and is absent from the bullets."
+    },
+    {
+      "id": "a8b01249-f4e5-4e27-a83c-c78db6db1b3e",
+      "status": "pending",
+      "status_rationale": "No AAA daily national gasoline price level is provided; cannot confirm a print at or below $3.40."
+    },
+    {
+      "id": "85bf07ea-f658-40b8-9290-28aec5428515",
+      "status": "pending",
+      "status_rationale": "No USD/MXN quotation is included; no confirmation of trading at or above 19.00."
+    },
+    {
+      "id": "c1cb192c-67c9-4d16-af5d-89497bd1d242",
+      "status": "pending",
+      "status_rationale": "IBM Q3 2025 revenue growth is not referenced; without the company\u2019s earnings release details, the outcome remains unknown."
+    },
+    {
+      "id": "fb12e90f-e1eb-4715-a72e-10b457727ab5",
+      "status": "pending",
+      "status_rationale": "Euro area September industrial production data are not in the news; Eurostat release typically comes mid-November."
+    },
+    {
+      "id": "51f9b4a4-63ec-45de-9513-92350b830349",
+      "status": "pending",
+      "status_rationale": "No explicit U.S. initial jobless claims 4-week average level is mentioned; cannot verify reaching 230,000 or higher."
+    }
+  ]
+}

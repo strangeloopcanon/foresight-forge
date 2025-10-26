@@ -23,7 +23,7 @@
       ],
       "rationale": "High storage and mild autumn weather increase odds of a sub-$2.50 test before winter demand ramps.",
       "id": "e78be288-8fea-4a35-9a72-6503a7c1723a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -47,7 +47,7 @@
       ],
       "rationale": "Earnings season and geopolitical tensions raise tail-risk; a single risk-off day can spike VIX above 25.",
       "id": "7d1ec4be-4bf4-4d7e-a02f-c88feacce713",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -70,7 +70,7 @@
       ],
       "rationale": "Record AUM and supportive risk sentiment point to modest positive October performance.",
       "id": "3e7641dd-c741-4268-8719-71b88a48671f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -93,7 +93,7 @@
       ],
       "rationale": "Despite high prices, inventories and incentives support a mid-15M SAAR outcome.",
       "id": "a20ab425-1f94-4b8d-97f8-f03644286c25",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -116,7 +116,7 @@
       ],
       "rationale": "Wage growth is easing gradually but remains elevated relative to pre-2020 norms.",
       "id": "26d2ec17-cb63-4fba-b433-bc299ce2ac3b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Policy support and improved sentiment likely keep PMI slightly in expansion.",
       "id": "3ec5dd9a-2c69-4bc5-8577-a1b500d7962a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -162,7 +162,7 @@
       ],
       "rationale": "Seasonal demand softness and improving supply could push averages lower into late fall.",
       "id": "a8b01249-f4e5-4e27-a83c-c78db6db1b3e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "rationale": "Rising risk aversion and regional tensions can pressure MXN, prompting a brief spike above 19.",
       "id": "85bf07ea-f658-40b8-9290-28aec5428515",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Steady software/consulting growth and FX tailwinds support low- to mid-single-digit YoY revenue growth.",
       "id": "c1cb192c-67c9-4d16-af5d-89497bd1d242",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -231,7 +231,7 @@
       ],
       "rationale": "Soft manufacturing PMIs suggest flat-to-slightly negative output, with energy costs a continued headwind.",
       "id": "fb12e90f-e1eb-4715-a72e-10b457727ab5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -254,7 +254,7 @@
       ],
       "rationale": "Gradual labor-market cooling and rising continuing claims make a 4-week average uptick plausible.",
       "id": "51f9b4a4-63ec-45de-9513-92350b830349",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

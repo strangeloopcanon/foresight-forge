@@ -1,0 +1,241 @@
+{
+  "date": "2025-10-26",
+  "predictions": [
+    {
+      "text": "By 2025-11-30, the Government of Canada will announce and implement retaliatory tariffs (surtaxes) on selected U.S. goods in response to new U.S. tariffs.",
+      "category": "geopolitics",
+      "horizon_days": 35,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "A Canada Gazette notice or Government of Canada/Department of Finance press release published by 2025-11-30 listing new retaliatory tariffs/surtaxes on U.S.-origin goods explicitly in response to U.S. tariff actions.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/25/world/canada/trump-tariffs-reagan-ad.html",
+        "https://gazette.gc.ca/accueil-home-eng.html",
+        "https://www.canada.ca/en/department-finance/news.html"
+      ],
+      "monitoring_signals": [
+        "Statements from Canada\u2019s Finance Minister/Global Affairs Canada",
+        "U.S. Federal Register tariff notices and effective dates",
+        "Industry lobbying and Canadian media leaks",
+        "Retaliation timelines used in 2018 steel/aluminum disputes",
+        "USD/CAD reaction and Canadian parliamentary Q&A"
+      ],
+      "rationale": "Political reciprocity and recent precedent make near-term Canadian retaliation likely.",
+      "id": "e96b3085-b81c-4387-857f-41f55b6e1bed",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-24 close to 2025-11-30 close, Berkshire Hathaway Class B (BRK-B) will underperform SPDR S&P 500 ETF (SPY) by at least 2.0 percentage points on an adjusted close basis.",
+      "category": "markets",
+      "horizon_days": 35,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Using Yahoo Finance adjusted close data for BRK-B and SPY, compute % change from 2025-10-24 close to 2025-11-30 close. (BRK-B % change) - (SPY % change) <= -2.0 pp confirms.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/25/week-in-review-stocks-hit-record-highs-plus-we-started-a-new-name.html",
+        "https://finance.yahoo.com/quote/BRK-B",
+        "https://finance.yahoo.com/quote/SPY"
+      ],
+      "monitoring_signals": [
+        "Mega-cap tech earnings momentum vs. value/cyclicals",
+        "10-year Treasury yield and curve shifts",
+        "Catastrophe loss updates for insurance",
+        "Apple position headlines",
+        "S&P 500 breadth indicators (A/D line, equal-weight vs. cap-weight)"
+      ],
+      "rationale": "Leadership is narrow and tech-heavy; Berkshire\u2019s portfolio tends to lag in such tapes.",
+      "id": "9b36631d-71dd-4e8d-8731-2e04f404b21d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing Prices Index for October 2025 will print at or above 56.0.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-11-01",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "The ISM Report On Business\u2014Manufacturing for October 2025 shows Prices Index \u2265 56.0.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/",
+        "https://www.cnbc.com/2025/10/25/week-in-review-stocks-hit-record-highs-plus-we-started-a-new-name.html"
+      ],
+      "monitoring_signals": [
+        "WTI/Brent price trends",
+        "Regional Fed \u2018prices paid\u2019 subindices (Philly, Empire, Dallas)",
+        "Freight rates and supplier delivery times",
+        "USD moves impacting import costs"
+      ],
+      "rationale": "Energy and freight keep input costs firm despite mixed demand.",
+      "id": "45990685-fbde-4d73-91a8-51441735bca0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 4.40% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 35,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "FRED series DGS2 daily close \u2264 4.40% on any date through 2025-11-30.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.cnbc.com/2025/10/25/week-in-review-stocks-hit-record-highs-plus-we-started-a-new-name.html"
+      ],
+      "monitoring_signals": [
+        "PCE and CPI prints vs. expectations",
+        "Fed communication and fed funds futures path",
+        "Labor data (NFP, claims) surprises",
+        "Treasury auction outcomes and term premium"
+      ],
+      "rationale": "Disinflation pulses and dovish repricing can briefly pull the 2Y lower.",
+      "id": "55237cb0-d529-496b-9029-fa818633970b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX RBOB gasoline front-month futures (ticker: RB) will settle at or below $2.10 per gallon on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 35,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "log_odds": 0.04,
+      "verification_criteria": "CME official daily settlement for the front-month RB contract \u2264 $2.10/gal by 2025-11-30.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/refined-products/rbob-gasoline.html",
+        "https://gasprices.aaa.com/"
+      ],
+      "monitoring_signals": [
+        "EIA gasoline inventories and days of supply",
+        "Refinery utilization and unplanned outages",
+        "Gasoline crack spreads",
+        "WTI/Brent prices and USD strength",
+        "Seasonal demand trends"
+      ],
+      "rationale": "Post-summer seasonality and adequate stocks pressure gasoline futures.",
+      "id": "8af6a1d9-018d-48d3-95f2-e4ca76420924",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, Fluor Corporation (FLR) will announce a review of strategic alternatives for its NuScale stake or a formal plan to monetize/divest a material portion of that stake.",
+      "category": "energy",
+      "horizon_days": 35,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "A Fluor press release, Form 8-K, or investor presentation explicitly launching a \u2018strategic alternatives\u2019 process or detailing a monetization/divestiture plan for its NuScale (SMR) equity stake.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/25/starboard-aims-to-unlock-the-value-of-fluors-investment-in-nuclear-tech-company-nuscale.html",
+        "https://investor.fluor.com/news-releases"
+      ],
+      "monitoring_signals": [
+        "Activist filings/letters (e.g., Starboard)",
+        "Board/management commentary",
+        "NuScale project pipeline and financing needs",
+        "FLR share price performance and capital allocation updates"
+      ],
+      "rationale": "Activist pressure and capital recycling incentives drive a higher likelihood of action.",
+      "id": "c64a0da0-1e25-4f2d-a8cf-942c0ef5dfb9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, OFAC will designate at least one China-based entity under a Russia-related sanctions program for supporting Russia\u2019s defense or industrial base.",
+      "category": "geopolitics",
+      "horizon_days": 35,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "A U.S. Treasury/OFAC press release or SDN update names a PRC-based entity and explicitly cites Russia-related sanctions for support to Russia\u2019s defense/industrial base.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://ofac.treasury.gov/sanctions-programs-and-country-information"
+      ],
+      "monitoring_signals": [
+        "U.S.\u2013China diplomatic statements on export controls",
+        "Coordinated Russia sanctions packages with allies",
+        "BIS Entity List actions",
+        "Media leaks about PRC intermediaries aiding Russia"
+      ],
+      "rationale": "Enforcement cadence increasingly targets PRC intermediaries aiding Russia\u2019s war effort.",
+      "id": "796ecb06-8bd5-40f2-b2fb-3d4f8c36ffc5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year TIPS breakeven inflation rate (FRED: T10YIE) will close at or below 2.20% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 35,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "log_odds": -0.04,
+      "verification_criteria": "FRED T10YIE daily close \u2264 2.20% on any date through 2025-11-30.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/T10YIE",
+        "https://www.cnbc.com/2025/10/25/week-in-review-stocks-hit-record-highs-plus-we-started-a-new-name.html"
+      ],
+      "monitoring_signals": [
+        "Oil price trends and gasoline futures",
+        "Inflation swaps/BEI term structure",
+        "CPI/PCE surprises",
+        "USD and real yield movements"
+      ],
+      "rationale": "Disinflation and stronger USD could compress breakevens briefly.",
+      "id": "b31299e9-793a-45d5-9e46-4427d483d614",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "USD/CAD (Yahoo Finance: CAD=X) will trade at or above 1.3800 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 35,
+      "deadline": "2025-11-30",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Yahoo Finance intraday/high data for CAD=X shows a trade \u2265 1.3800 on any UTC day through 2025-11-30.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/25/world/canada/trump-tariffs-reagan-ad.html",
+        "https://finance.yahoo.com/quote/CAD=X"
+      ],
+      "monitoring_signals": [
+        "Escalation/retaliation in U.S.\u2013Canada tariffs",
+        "BoC guidance and Canadian data surprises",
+        "Oil price weakness",
+        "U.S. macro outperformance and DXY strength"
+      ],
+      "rationale": "Tariff friction and softer oil create upside pressure on USD/CAD.",
+      "id": "ab1b6800-7a28-4e25-8be1-5ca0ba669e0b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "From 2025-10-24 close to 2025-11-30 close, iShares Russell 2000 ETF (IWM) will underperform SPDR S&P 500 ETF (SPY) by at least 1.0 percentage point on an adjusted close basis.",
+      "category": "markets",
+      "horizon_days": 35,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Using Yahoo Finance adjusted close data for IWM and SPY, compute % change from 2025-10-24 close to 2025-11-30 close. (IWM % change) - (SPY % change) \u2264 -1.0 pp confirms.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/25/week-in-review-stocks-hit-record-highs-plus-we-started-a-new-name.html",
+        "https://finance.yahoo.com/quote/IWM",
+        "https://finance.yahoo.com/quote/SPY"
+      ],
+      "monitoring_signals": [
+        "Earnings breadth and forward guidance dispersion",
+        "High-yield spreads and small-cap credit conditions",
+        "Rate volatility (MOVE) and 10Y yields",
+        "AI-led mega-cap outperformance persistence"
+      ],
+      "rationale": "Large-cap quality leadership and tighter credit weigh on small caps.",
+      "id": "00212e62-f9ac-498b-8d70-8025a3dcb2da",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

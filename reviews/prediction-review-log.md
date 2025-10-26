@@ -890,3 +890,12 @@ Market-related headlines highlight strength in AMD on quantum-computing-related 
 
 ---
 
+
+## 2025-10-25
+
+Today’s coverage is dominated by political developments (U.S.-Canada tariff tensions, U.S. Asia tour) and general market commentary rather than hard macro, earnings, or market-close data tied to the tracked forecasts. None of the bullets provide definitive prints or settlements for VIX, natural gas, gasoline, FX levels, or the specific economic indicators and index returns in scope.
+
+While some items could have directional implications—tariff headlines and geopolitical events can raise volatility or affect FX and energy sentiment—there is no confirmatory datapoint to resolve any prediction. Key near-term watch items include China’s October NBS PMI (due around Oct 31) and IBM’s Q3 report by month-end, with U.S. vehicle sales, wage growth, and Euro area IP set for early-to-mid November. We will reassess upon official releases or verified market data.
+
+---
+
