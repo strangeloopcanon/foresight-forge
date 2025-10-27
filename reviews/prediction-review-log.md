@@ -899,3 +899,12 @@ While some items could have directional implications—tariff headlines and geop
 
 ---
 
+
+## 2025-10-26
+
+None of the tracked forecasts are resolved by today’s reporting. The Canada-U.S. tariff tension features prominently, but there is no explicit confirmation of Canadian retaliatory tariffs being announced and implemented. Macro coverage highlights cooler-than-expected U.S. inflation and an ongoing federal shutdown, alongside optimism around U.S.-China talks and strong risk sentiment in Asia (Nikkei record, China industrial profits). These signals can influence rates, commodities, FX, and equity factor performance but do not settle any calls outright.
+
+Directionally, softer inflation and policy uncertainty lean toward lower yields, which would favor the 2-year yield and breakeven downside calls, though not yet verified. Seasonal gasoline softness could support the RBOB downside thesis, but hurricane risks complicate near-term supply dynamics. Equity-wise, the upcoming Fed decision and megacap tech earnings could drive SPY leadership, potentially challenging Berkshire and small caps; however, shifting rate expectations could also aid small caps, keeping those relative-performance predictions open. Sanctions-related developments remain possible given geopolitical tensions, but no concrete OFAC actions surfaced today.
+
+---
+

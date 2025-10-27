@@ -1,0 +1,218 @@
+{
+  "date": "2025-10-27",
+  "predictions": [
+    {
+      "text": "By 2025-11-07, the U.S. Treasury, White House, or Commerce will announce a finalized agreement resolving TikTok\u2019s U.S. operations (asset sale or restructuring) in an official press release naming TikTok/ByteDance.",
+      "category": "geopolitics",
+      "horizon_days": 11,
+      "deadline": "2025-11-07",
+      "confidence_pct": 60,
+      "verification_criteria": "A dated press release from U.S. Treasury, White House, or Commerce explicitly stating a finalized deal concerning TikTok/ByteDance\u2019s U.S. operations. Media reports alone are insufficient without an official release.",
+      "evidence": [
+        "https://techcrunch.com/2025/10/26/trump-and-xi-will-consummate-tiktok-deal-on-thursday-treasury-secretary-says/"
+      ],
+      "monitoring_signals": [
+        "U.S. Treasury/White House daily schedules and press advisories",
+        "Readout of the Trump\u2013Xi meeting",
+        "CFIUS-related statements or filings",
+        "Credible leaks from WSJ/Bloomberg/FT detailing terms",
+        "TikTok/ByteDance legal or public statements"
+      ],
+      "rationale": "Officials signal a near-term resolution aligned to the Trump\u2013Xi meeting.",
+      "id": "9af3e0f9-6a25-4a28-8e20-e2339b659174",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "At the late-October 2025 FOMC meeting, the Federal Reserve will leave the target federal funds rate range unchanged.",
+      "category": "rates",
+      "horizon_days": 3,
+      "deadline": "2025-10-30",
+      "confidence_pct": 64,
+      "verification_criteria": "Compare the target range in the FOMC statement released on the meeting date with the prior target range; unchanged means both bounds are identical.",
+      "evidence": [
+        "https://www.marketwatch.com/story/stock-market-faces-midweek-double-whammy-as-fed-decision-collides-with-megacap-tech-earnings-heres-what-to-watch-a1b83ce6"
+      ],
+      "monitoring_signals": [
+        "Fed communications and blackout-period commentary",
+        "Fed funds futures (CME FedWatch) probabilities",
+        "Recent CPI/PCE inflation trends",
+        "Labor market data (NFP, claims) surprises"
+      ],
+      "rationale": "Softer inflation and market pricing point to a hold.",
+      "id": "8c9b3e58-9893-4e82-a89d-4176e96dff5d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Nikkei 225 (^N225) will close at or above 50,000.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 34,
+      "deadline": "2025-11-30",
+      "confidence_pct": 63,
+      "verification_criteria": "Yahoo Finance (^N225) or Nikkei official daily closing price shows a close >= 50,000.0 on or before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/asia-pacific-markets-monday-hang-seng-index-nifty-50-kospi-nikkei-225-us-china-trade-trump-xi.html"
+      ],
+      "monitoring_signals": [
+        "USD/JPY levels and BOJ policy guidance",
+        "Earnings beats from Japanese heavyweights",
+        "Risk sentiment in U.S./global equities",
+        "Trade and tariff headlines impacting Japan"
+      ],
+      "rationale": "Index momentum and favorable macro tailwinds support a close above 50,000.",
+      "id": "2130c2c8-dea8-46ea-baa6-bce2e5f1c5fb",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "China NBS Industrial Profits (YoY, single-month) for October 2025 will print at or above +15.0% in the official release.",
+      "category": "macro",
+      "horizon_days": 34,
+      "deadline": "2025-11-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Use the single-month YoY growth rate for October from the National Bureau of Statistics industrial profits release (not the cumulative YTD measure).",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/chinas-industrial-profits-surge-21point6percent-september-biggest-jump-in-nearly-two-years-.html"
+      ],
+      "monitoring_signals": [
+        "NBS/Caixin PMIs (new orders, exports)",
+        "Producer Price Index (PPI) trends",
+        "Export growth data and shipping volumes",
+        "Credit impulse and fiscal support measures"
+      ],
+      "rationale": "Manufacturing recovery and price stabilization buoy profits.",
+      "id": "a826391e-9675-42d2-955c-a911188d7c4b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Insured losses from Hurricane Melissa will be estimated at or above $5.0 billion by at least one catastrophe modeler by 2025-11-30.",
+      "category": "other",
+      "horizon_days": 34,
+      "deadline": "2025-11-30",
+      "confidence_pct": 43,
+      "verification_criteria": "A press release or report from Moody\u2019s RMS, Verisk/PCS, or CoreLogic that explicitly cites an insured loss estimate \u2265 $5B for Hurricane Melissa.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/26/weather/hurricane-melissa-rapid-intensification-jamaica.html"
+      ],
+      "monitoring_signals": [
+        "NOAA/NHC track and intensity updates",
+        "Landfall location and exposure (insured values)",
+        "Early PCS catastrophe bulletins",
+        "Utility outage and infrastructure damage assessments"
+      ],
+      "rationale": "Rapid intensification over warm waters raises severe loss risk.",
+      "id": "a7b63589-0fcd-4c30-8de1-5a29e911aad8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, DHS/ICE will publish a new or updated Privacy Impact Assessment or System of Records Notice explicitly describing AI-enabled social media monitoring.",
+      "category": "tech",
+      "horizon_days": 34,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "A document posted on DHS Privacy (dhs.gov/privacy) or the Federal Register that names ICE and describes AI-enabled social media monitoring; publication date on or before the deadline.",
+      "evidence": [
+        "https://jacobin.com/2025/10/ice-zignal-surveillance-social-media"
+      ],
+      "monitoring_signals": [
+        "DHS Privacy Office website updates",
+        "Federal Register SORN/PIA notices",
+        "ICE procurement/award notices to AI/social media vendors",
+        "Congressional oversight letters referencing ICE social media tools"
+      ],
+      "rationale": "Reporting indicates imminent deployment; governance documents typically follow.",
+      "id": "ded0b4da-895c-47e6-abb8-56b7c4b6a84f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "HSBC will report Q3 2025 profit before tax declining by at least 15% year-over-year in its results announcement.",
+      "category": "markets",
+      "horizon_days": 3,
+      "deadline": "2025-10-30",
+      "confidence_pct": 61,
+      "verification_criteria": "Compare Q3 2025 profit before tax with Q3 2024 in HSBC\u2019s official results press release or presentation; decline must be \u2265 15%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/hsbc-1point1-billion-in-provision-third-quarter-madoff-case.html"
+      ],
+      "monitoring_signals": [
+        "Scale of litigation provisions and one-offs",
+        "Net interest margin and fee trends",
+        "FX translation impacts on reported figures",
+        "Management guidance and pre-close updates"
+      ],
+      "rationale": "A $1.1B provision materially pressures quarterly profit.",
+      "id": "9b55c495-784c-4aa8-8930-96194b9c6415",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Novartis will announce a definitive agreement to acquire Avidity Biosciences by 2025-11-15.",
+      "category": "markets",
+      "horizon_days": 19,
+      "deadline": "2025-11-15",
+      "confidence_pct": 68,
+      "verification_criteria": "Official press releases from Novartis and Avidity or an Avidity Form 8-K stating a signed definitive merger agreement.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/26/novartis-avidity-biosciences-talks.html"
+      ],
+      "monitoring_signals": [
+        "Trading halts and media reports with final price",
+        "Board approval disclosures",
+        "Retention of antitrust counsel and deal advisors",
+        "Pre-merger notification filings timing"
+      ],
+      "rationale": "Advanced talks and strategic fit in RNA therapeutics support near-term signing.",
+      "id": "8af3d111-6386-4350-88e9-74c3060510fd",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Canada will publish in the Canada Gazette, Part II, an order imposing a surtax under the Customs Tariff on specified U.S. goods by 2025-11-30.",
+      "category": "geopolitics",
+      "horizon_days": 34,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Publication of the surtax order in Canada Gazette, Part II, listing covered U.S. goods and effective date. Department of Finance notices alone are insufficient without Gazette publication.",
+      "evidence": [
+        "https://www.nytimes.com/2025/10/26/us/politics/canada-tariffs-trump-carney.html"
+      ],
+      "monitoring_signals": [
+        "Department of Finance Canada consultation notices",
+        "Global Affairs Canada trade statements",
+        "Canada Gazette publication schedule",
+        "U.S.-Canada tariff negotiation updates"
+      ],
+      "supersedes_id": "e96b3085-b81c-4387-857f-41f55b6e1bed",
+      "rationale": "Ottawa is signaling retaliation; formal surtaxes typically appear in the Gazette.",
+      "id": "62a66d72-c064-4307-9b1d-f7fb3c400ddf",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or above \u20ac45.00/MWh on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 34,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "verification_criteria": "ICE Endex official daily settlement price for the front-month TTF contract on or before the deadline is \u2265 \u20ac45.00/MWh.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures/data?marketId=5455589"
+      ],
+      "monitoring_signals": [
+        "European weather and HDD forecasts",
+        "Storage levels vs 5-year average",
+        "LNG supply disruptions and regas capacity",
+        "Norwegian pipeline maintenance/outages",
+        "Geopolitical supply risks"
+      ],
+      "rationale": "Early-winter demand or supply hiccups can spike front-month prices.",
+      "id": "883e74a4-6b01-4187-8a46-932f5763ffe2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

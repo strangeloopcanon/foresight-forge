@@ -1,0 +1,55 @@
+{
+  "date": "2025-10-26",
+  "assessments": [
+    {
+      "id": "e96b3085-b81c-4387-857f-41f55b6e1bed",
+      "status": "pending",
+      "status_rationale": "Coverage mentions Canada\u2019s latest tussle with U.S. tariffs but shows no clear announcement and implementation of Canadian retaliatory surtaxes."
+    },
+    {
+      "id": "9b36631d-71dd-4e8d-8731-2e04f404b21d",
+      "status": "pending",
+      "status_rationale": "The performance window runs to 2025-11-30 and today\u2019s news does not provide conclusive relative return data for BRK-B vs. SPY."
+    },
+    {
+      "id": "45990685-fbde-4d73-91a8-51441735bca0",
+      "status": "pending",
+      "status_rationale": "No report of the ISM Manufacturing Prices Index for October 2025 is in today\u2019s news, and the release typically occurs after the stated deadline."
+    },
+    {
+      "id": "55237cb0-d529-496b-9029-fa818633970b",
+      "status": "pending",
+      "status_rationale": "Articles note cooler inflation sentiment but provide no confirmation the 2-year yield closed at or below 4.40%. The window remains open."
+    },
+    {
+      "id": "8af6a1d9-018d-48d3-95f2-e4ca76420924",
+      "status": "pending",
+      "status_rationale": "No settlement level for front-month RBOB at or below $2.10 is reported in today\u2019s coverage."
+    },
+    {
+      "id": "c64a0da0-1e25-4f2d-a8cf-942c0ef5dfb9",
+      "status": "pending",
+      "status_rationale": "There is no mention of Fluor announcing a strategic review or monetization plan for its NuScale stake."
+    },
+    {
+      "id": "796ecb06-8bd5-40f2-b2fb-3d4f8c36ffc5",
+      "status": "pending",
+      "status_rationale": "No OFAC action designating a China-based entity under Russia-related programs is reported."
+    },
+    {
+      "id": "b31299e9-793a-45d5-9e46-4427d483d614",
+      "status": "pending",
+      "status_rationale": "No evidence that the 10-year TIPS breakeven closed at or below 2.20% appears in today\u2019s news."
+    },
+    {
+      "id": "ab1b6800-7a28-4e25-8be1-5ca0ba669e0b",
+      "status": "pending",
+      "status_rationale": "No USD/CAD price action to 1.3800 or higher is cited."
+    },
+    {
+      "id": "00212e62-f9ac-498b-8d70-8025a3dcb2da",
+      "status": "pending",
+      "status_rationale": "The comparison period is still underway and today\u2019s reporting does not provide definitive relative performance for IWM vs. SPY."
+    }
+  ]
+}

@@ -23,7 +23,7 @@
       ],
       "rationale": "Political reciprocity and recent precedent make near-term Canadian retaliation likely.",
       "id": "e96b3085-b81c-4387-857f-41f55b6e1bed",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -48,7 +48,7 @@
       ],
       "rationale": "Leadership is narrow and tech-heavy; Berkshire\u2019s portfolio tends to lag in such tapes.",
       "id": "9b36631d-71dd-4e8d-8731-2e04f404b21d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -71,7 +71,7 @@
       ],
       "rationale": "Energy and freight keep input costs firm despite mixed demand.",
       "id": "45990685-fbde-4d73-91a8-51441735bca0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "rationale": "Disinflation pulses and dovish repricing can briefly pull the 2Y lower.",
       "id": "55237cb0-d529-496b-9029-fa818633970b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Post-summer seasonality and adequate stocks pressure gasoline futures.",
       "id": "8af6a1d9-018d-48d3-95f2-e4ca76420924",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rationale": "Activist pressure and capital recycling incentives drive a higher likelihood of action.",
       "id": "c64a0da0-1e25-4f2d-a8cf-942c0ef5dfb9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "Enforcement cadence increasingly targets PRC intermediaries aiding Russia\u2019s war effort.",
       "id": "796ecb06-8bd5-40f2-b2fb-3d4f8c36ffc5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Disinflation and stronger USD could compress breakevens briefly.",
       "id": "b31299e9-793a-45d5-9e46-4427d483d614",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -210,7 +210,7 @@
       ],
       "rationale": "Tariff friction and softer oil create upside pressure on USD/CAD.",
       "id": "ab1b6800-7a28-4e25-8be1-5ca0ba669e0b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -234,7 +234,7 @@
       ],
       "rationale": "Large-cap quality leadership and tighter credit weigh on small caps.",
       "id": "00212e62-f9ac-498b-8d70-8025a3dcb2da",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
