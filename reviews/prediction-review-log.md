@@ -908,3 +908,12 @@ Directionally, softer inflation and policy uncertainty lean toward lower yields,
 
 ---
 
+
+## 2025-10-27
+
+None of today’s highlighted stories provide decisive confirmations or falsifications for the listed forecasts. The news flow centers on U.S. politics and policy (trade talks with China and Mexico, union positions on the shutdown), corporate headlines (Amazon layoffs, Qualcomm chips, Chegg cuts), and Hurricane Melissa’s approach—none of which deliver primary-source outcomes for the predictions.
+
+Key near-term watchpoints remain the FOMC decision on Oct 30 and HSBC’s Q3 results, both explicitly mentioned as upcoming events in market commentary. Hurricane Melissa loss estimates from catastrophe modelers may emerge in the days after landfall. For the remaining items (TikTok resolution, China industrial profits, Canada surtax order, DHS/ICE PIA/SORN, Nikkei 50,000, and TTF at €45+), no new primary evidence surfaced; we will update upon official releases or market prints.
+
+---
+

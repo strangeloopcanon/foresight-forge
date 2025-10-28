@@ -20,7 +20,7 @@
       ],
       "rationale": "Officials signal a near-term resolution aligned to the Trump\u2013Xi meeting.",
       "id": "9af3e0f9-6a25-4a28-8e20-e2339b659174",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Softer inflation and market pricing point to a hold.",
       "id": "8c9b3e58-9893-4e82-a89d-4176e96dff5d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Index momentum and favorable macro tailwinds support a close above 50,000.",
       "id": "2130c2c8-dea8-46ea-baa6-bce2e5f1c5fb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Manufacturing recovery and price stabilization buoy profits.",
       "id": "a826391e-9675-42d2-955c-a911188d7c4b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "Rapid intensification over warm waters raises severe loss risk.",
       "id": "a7b63589-0fcd-4c30-8de1-5a29e911aad8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Reporting indicates imminent deployment; governance documents typically follow.",
       "id": "ded0b4da-895c-47e6-abb8-56b7c4b6a84f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "A $1.1B provision materially pressures quarterly profit.",
       "id": "9b55c495-784c-4aa8-8930-96194b9c6415",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "Advanced talks and strategic fit in RNA therapeutics support near-term signing.",
       "id": "8af3d111-6386-4350-88e9-74c3060510fd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -189,7 +189,7 @@
       "supersedes_id": "e96b3085-b81c-4387-857f-41f55b6e1bed",
       "rationale": "Ottawa is signaling retaliation; formal surtaxes typically appear in the Gazette.",
       "id": "62a66d72-c064-4307-9b1d-f7fb3c400ddf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -211,7 +211,7 @@
       ],
       "rationale": "Early-winter demand or supply hiccups can spike front-month prices.",
       "id": "883e74a4-6b01-4187-8a46-932f5763ffe2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

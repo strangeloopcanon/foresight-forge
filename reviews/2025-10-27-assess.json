@@ -1,0 +1,55 @@
+{
+  "date": "2025-10-27",
+  "assessments": [
+    {
+      "id": "9af3e0f9-6a25-4a28-8e20-e2339b659174",
+      "status": "pending",
+      "status_rationale": "No official U.S. government press release on a finalized TikTok/ByteDance resolution is cited in today\u2019s coverage."
+    },
+    {
+      "id": "8c9b3e58-9893-4e82-a89d-4176e96dff5d",
+      "status": "pending",
+      "status_rationale": "The late-October FOMC decision has not been released; articles discuss potential outcomes (including a cut) but provide no decision."
+    },
+    {
+      "id": "2130c2c8-dea8-46ea-baa6-bce2e5f1c5fb",
+      "status": "pending",
+      "status_rationale": "No report indicates the Nikkei 225 has reached 50,000; coverage only notes Asia markets dipping ahead of meetings."
+    },
+    {
+      "id": "a826391e-9675-42d2-955c-a911188d7c4b",
+      "status": "pending",
+      "status_rationale": "China\u2019s October NBS industrial profits release is not out yet and is not referenced in today\u2019s news."
+    },
+    {
+      "id": "a7b63589-0fcd-4c30-8de1-5a29e911aad8",
+      "status": "pending",
+      "status_rationale": "Hurricane Melissa coverage focuses on forecast/landfall; no catastrophe modeler loss estimates are cited."
+    },
+    {
+      "id": "ded0b4da-895c-47e6-abb8-56b7c4b6a84f",
+      "status": "pending",
+      "status_rationale": "There is no mention of a new DHS/ICE PIA or SORN explicitly covering AI-enabled social media monitoring."
+    },
+    {
+      "id": "9b55c495-784c-4aa8-8930-96194b9c6415",
+      "status": "pending",
+      "status_rationale": "HSBC\u2019s Q3 2025 results are not reported in today\u2019s bullets; the announcement is expected by Oct 30."
+    },
+    {
+      "id": "8af3d111-6386-4350-88e9-74c3060510fd",
+      "status": "pending",
+      "status_rationale": "No definitive agreement announcement from Novartis regarding Avidity Biosciences is referenced."
+    },
+    {
+      "id": "62a66d72-c064-4307-9b1d-f7fb3c400ddf",
+      "status": "pending",
+      "status_rationale": "There is no report of a Canada Gazette, Part II order imposing Customs Tariff surtaxes on U.S. goods."
+    },
+    {
+      "id": "883e74a4-6b01-4187-8a46-932f5763ffe2",
+      "status": "pending",
+      "status_rationale": "No settlement data for ICE Endex TTF front-month prices is provided in today\u2019s news."
+    }
+  ]
+}

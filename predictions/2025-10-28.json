@@ -1,0 +1,259 @@
+{
+  "date": "2025-10-28",
+  "predictions": [
+    {
+      "text": "By 2025-11-05, Congress will pass and the President will sign a continuing resolution funding the federal government, ending the current shutdown.",
+      "category": "geopolitics",
+      "horizon_days": 8,
+      "deadline": "2025-11-05",
+      "confidence_pct": 64,
+      "verification_criteria": "Congress.gov shows an enacted continuing resolution (Public Law) providing appropriations, and WhiteHouse.gov posts the signing by or on 2025-11-05.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/federal-union-government-shutdown-end.html",
+        "https://www.cnbc.com/2025/10/27/brewing-trifecta-drives-stocks-to-records-plus-the-treasure-hunt-at-tjx.html"
+      ],
+      "monitoring_signals": [
+        "House and Senate floor calendars and whip counts",
+        "Congress.gov bill text and status for a CR",
+        "Statements from leadership (Speaker, Senate Majority Leader)",
+        "OMB shutdown guidance updates",
+        "White House schedule/press releases"
+      ],
+      "rationale": "Political pressure and market incentives favor a short-term CR to end the shutdown.",
+      "id": "379ee78d-2092-4ee3-85ab-46879c488a87",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "ISM Services PMI (headline, SA) for October 2025 will print between 50.0 and 52.0 in ISM\u2019s release due by 2025-11-05.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-11-06",
+      "confidence_pct": 57,
+      "verification_criteria": "The Institute for Supply Management Report On Business for October 2025 shows Services PMI within 50.0\u201352.0 on ismworld.org.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/brewing-trifecta-drives-stocks-to-records-plus-the-treasure-hunt-at-tjx.html",
+        "https://www.cnbc.com/2025/10/27/ai-is-driving-huge-productivity-gains-for-large-companies-while-small-companies-get-left-behind.html"
+      ],
+      "monitoring_signals": [
+        "S&P Global U.S. Services PMI final",
+        "Regional Fed services surveys (Empire, Philly, Dallas)",
+        "High-frequency card spending and mobility data",
+        "ISM New Orders and Employment subindices",
+        "NFIB Small Business optimism and hiring plans"
+      ],
+      "rationale": "Services remain modestly expansionary as goods cool; softer rates support activity.",
+      "id": "cde6cff7-f53b-4870-8f89-64f7e405a7e8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Nonfarm Payrolls (total, CES) for October 2025 will increase by between 130,000 and 210,000 jobs in the BLS Employment Situation report due 2025-11-07.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-11-08",
+      "confidence_pct": 55,
+      "verification_criteria": "BLS news release shows seasonally adjusted change in Total Nonfarm Payroll Employment (CES0000000001) for Oct 2025 within +130k to +210k.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
+        "https://www.cnbc.com/2025/10/27/ai-is-driving-huge-productivity-gains-for-large-companies-while-small-companies-get-left-behind.html"
+      ],
+      "monitoring_signals": [
+        "ADP National Employment report",
+        "Initial/continuing jobless claims",
+        "Homebase/UKG high-frequency employment",
+        "Challenger job cuts",
+        "ISM Manufacturing/Services Employment indices"
+      ],
+      "rationale": "Hiring cools but stays positive amid softer growth and ongoing restructuring.",
+      "id": "5454fa99-ecc5-4696-9806-16417dd874fa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PCE Price Index excluding food and energy (core, YoY, SA) for September 2025 will print between 2.7% and 2.9% in the BEA release due by 2025-10-31.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-10-31",
+      "confidence_pct": 58,
+      "verification_criteria": "BEA release (Table 11.1 or equivalent) shows the 12-month percent change of core PCE for Sep 2025 in the 2.7%\u20132.9% range.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
+        "https://www.cnbc.com/2025/10/27/brewing-trifecta-drives-stocks-to-records-plus-the-treasure-hunt-at-tjx.html"
+      ],
+      "monitoring_signals": [
+        "CPI core and supercore trends",
+        "PPI final demand ex-food/energy",
+        "Cleveland Fed inflation nowcast",
+        "Shelter and used car price indicators",
+        "Health insurance and residual seasonality adjustments"
+      ],
+      "rationale": "Disinflation persists as goods prices ease and shelter momentum gradually fades.",
+      "id": "49e1a237-e208-4908-b4b8-5ae8be6b5a48",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Euro area HICP excluding energy and food (core, YoY) for October 2025 (flash) will print between 2.5% and 2.8%, per Eurostat.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-11-01",
+      "confidence_pct": 56,
+      "verification_criteria": "Eurostat flash inflation news release for Oct 2025 shows core HICP (ex energy and food) within 2.5%\u20132.8%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/brewing-trifecta-drives-stocks-to-records-plus-the-treasure-hunt-at-tjx.html",
+        "https://www.cnbc.com/2025/10/28/south-koreas-gdp-q3-beats-expectations-.html"
+      ],
+      "monitoring_signals": [
+        "Country flash CPI prints (Germany, France, Spain, Italy)",
+        "Energy base effects and gas/electricity tariffs",
+        "PMI services prices",
+        "Negotiated wage growth and unit labor costs",
+        "Retail sales and credit growth"
+      ],
+      "rationale": "Core inflation slows but remains above target, driven by services.",
+      "id": "06df2a91-bc15-475e-91f2-b168e533b2c7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China Caixin Manufacturing PMI for October 2025 will print between 50.3 and 51.2.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-11-02",
+      "confidence_pct": 55,
+      "verification_criteria": "S&P Global/Caixin press release shows the Oct 2025 Caixin Manufacturing PMI headline in 50.3\u201351.2.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/28/south-koreas-gdp-q3-beats-expectations-.html",
+        "https://www.cnbc.com/2025/10/27/trump-says-us-china-close-to-trade-deal-ahead-of-xi-talks-tiktok-decision.html"
+      ],
+      "monitoring_signals": [
+        "NBS Manufacturing PMI and export orders",
+        "Port throughput and shipping rates",
+        "Power consumption and steel output",
+        "South Korea/Taiwan exports as China-demand proxies",
+        "Credit impulse and TSF data"
+      ],
+      "rationale": "External demand stabilizes; private-sector PMI remains modestly expansionary.",
+      "id": "b8b378c2-8af5-4d0e-be13-3ba88d287d5a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE U.S. Dollar Index (DXY) will close at or below 104.50 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 33,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "DXY official closing value from ICE (or an equivalent widely cited close) is \u2264 104.50 on any date through 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html",
+        "https://www.cnbc.com/2025/10/27/brewing-trifecta-drives-stocks-to-records-plus-the-treasure-hunt-at-tjx.html",
+        "https://www.cnbc.com/2025/10/27/trump-says-us-china-close-to-trade-deal-ahead-of-xi-talks-tiktok-decision.html"
+      ],
+      "monitoring_signals": [
+        "Rate differentials (UST vs bunds/gilts/JGBs)",
+        "U.S. data surprises (Citi Economic Surprise Index)",
+        "Risk appetite and equity momentum",
+        "Treasury yields across the curve",
+        "ECB/BoE/BoJ guidance vs Fed"
+      ],
+      "rationale": "Softer U.S. data and easing Fed expectations can weigh on the dollar.",
+      "id": "1219c3b2-6f87-42cc-b941-b015845a88b5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, BIS will publish in the Federal Register a temporary general license, enforcement pause, or deadline extension that delays implementation of at least one China-related AI/semiconductor export control introduced in 2024\u20132025.",
+      "category": "geopolitics",
+      "horizon_days": 33,
+      "deadline": "2025-11-30",
+      "confidence_pct": 62,
+      "supersedes_id": "1da626b6-a563-4624-bc8f-27bc411ab216",
+      "verification_criteria": "A Federal Register notice by BIS/Commerce dated on or before 2025-11-30 explicitly delays compliance/enforcement dates for a specified China-related AI/semiconductor control.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/trump-says-us-china-close-to-trade-deal-ahead-of-xi-talks-tiktok-decision.html",
+        "https://www.cnbc.com/2025/10/27/brewing-trifecta-drives-stocks-to-records-plus-the-treasure-hunt-at-tjx.html"
+      ],
+      "monitoring_signals": [
+        "FederalRegister.gov advance notices and BIS press releases",
+        "Industry association letters (SIA) and public comments",
+        "Temporary General License filings/renewals",
+        "White House/NSC statements on China tech policy",
+        "Major semiconductor firms\u2019 compliance advisories"
+      ],
+      "rationale": "Signals of U.S.\u2013China thaw and industry feedback point to near-term delays.",
+      "id": "5ef8e5a6-537b-42d3-82da-4bb887cce754",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-11-30, Qualcomm will announce at least one publicly named partnership with a U.S. hyperscaler (Amazon, Microsoft, Google, or Meta) for its AI200/AI250 accelerators in an official Qualcomm press release or SEC filing.",
+      "category": "tech",
+      "horizon_days": 33,
+      "deadline": "2025-11-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Qualcomm investor relations press release or SEC 8-K by 2025-11-30 that explicitly names Amazon, Microsoft, Google, or Meta as a partner/customer for AI200/AI250.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/qualcomm-ai200-ai250-ai-chips-nvidia-amd.html"
+      ],
+      "monitoring_signals": [
+        "Qualcomm earnings/investor events",
+        "Hyperscaler blog posts and procurement signals",
+        "Partner developer conferences (re: AI200/AI250)",
+        "Job postings referencing Qualcomm accelerators",
+        "Benchmark disclosures for cloud inference/training"
+      ],
+      "rationale": "Post-launch momentum increases incentives to publicize an anchor hyperscaler win.",
+      "id": "30ab6e6c-738c-48bc-a0ab-136e9b239e37",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. initial jobless claims (seasonally adjusted, headline) will print at or above 245,000 in at least one weekly Department of Labor report by 2025-11-30.",
+      "category": "macro",
+      "horizon_days": 33,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "verification_criteria": "Any DOL Unemployment Insurance Weekly Claims News Release through 2025-11-30 reports seasonally adjusted initial claims \u2265 245,000 for the latest week.",
+      "evidence": [
+        "https://techcrunch.com/2025/10/27/amazon-reportedly-plans-to-cut-around-30000-corporate-jobs/",
+        "https://www.cnbc.com/2025/10/27/chegg-slashes-45percent-of-workforce-blames-new-realities-of-ai.html",
+        "https://www.cnbc.com/2025/10/27/federal-reserve-interest-rate-cut-what-to-expect.html"
+      ],
+      "monitoring_signals": [
+        "WARN notices and Challenger job cuts data",
+        "State-level advance claims (e.g., CA, NY, TX)",
+        "Business sentiment and hiring plans (NFIB)",
+        "Tech and retail layoff announcements",
+        "JOLTS job openings trend"
+      ],
+      "rationale": "Restructuring in tech/retail and slower growth raise risk of an uptick.",
+      "id": "251259d1-ecac-415e-8ea3-d172d95244ba",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Meta Platforms Q3 2025 total revenue year-over-year growth will be between 16% and 22%, per the company\u2019s earnings release.",
+      "category": "tech",
+      "horizon_days": 3,
+      "deadline": "2025-10-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Meta\u2019s Q3 2025 earnings release or 8-K shows total revenue growth (YoY) within 16%\u201322%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/27/brewing-trifecta-drives-stocks-to-records-plus-the-treasure-hunt-at-tjx.html"
+      ],
+      "monitoring_signals": [
+        "Digital ad spend trackers and agency checks",
+        "Meta pre-earnings guidance/analyst consensus",
+        "Ad pricing and impressions trends",
+        "FX tailwinds/headwinds to reported growth",
+        "Vertical ad demand (retail, gaming, AI startups)"
+      ],
+      "rationale": "Ad demand remains robust; product improvements and AI-driven targeting support growth.",
+      "id": "d11da1d4-2d08-4ed8-b3ba-22599cc8a8fc",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}
