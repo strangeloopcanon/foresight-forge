@@ -1,0 +1,60 @@
+{
+  "date": "2025-10-28",
+  "assessments": [
+    {
+      "id": "379ee78d-2092-4ee3-85ab-46879c488a87",
+      "status": "pending",
+      "status_rationale": "News indicates the shutdown continues and legal actions are ongoing, but there is no report that Congress has passed or the President has signed a continuing resolution yet."
+    },
+    {
+      "id": "cde6cff7-f53b-4870-8f89-64f7e405a7e8",
+      "status": "pending",
+      "status_rationale": "The ISM Services PMI for October has not been released; no coverage of a print window in today\u2019s news."
+    },
+    {
+      "id": "5454fa99-ecc5-4696-9806-16417dd874fa",
+      "status": "pending",
+      "status_rationale": "October nonfarm payrolls are due later; nothing in the news provides the official BLS figure."
+    },
+    {
+      "id": "49e1a237-e208-4908-b4b8-5ae8be6b5a48",
+      "status": "pending",
+      "status_rationale": "September core PCE data have not been published yet; no BEA release cited in the news items."
+    },
+    {
+      "id": "06df2a91-bc15-475e-91f2-b168e533b2c7",
+      "status": "pending",
+      "status_rationale": "Eurostat\u2019s October flash core HICP is not reported in the provided news; outcome remains unknown."
+    },
+    {
+      "id": "b8b378c2-8af5-4d0e-be13-3ba88d287d5a",
+      "status": "pending",
+      "status_rationale": "The Caixin Manufacturing PMI for October has not been covered; no print range can be confirmed."
+    },
+    {
+      "id": "1219c3b2-6f87-42cc-b941-b015845a88b5",
+      "status": "pending",
+      "status_rationale": "No reporting on DXY closes near 104.50; the window runs through November 30."
+    },
+    {
+      "id": "5ef8e5a6-537b-42d3-82da-4bb887cce754",
+      "status": "pending",
+      "status_rationale": "No evidence of a BIS Federal Register action pausing or extending China-related export controls in the news."
+    },
+    {
+      "id": "30ab6e6c-738c-48bc-a0ab-136e9b239e37",
+      "status": "pending",
+      "status_rationale": "There is no Qualcomm press release or SEC filing noted announcing a hyperscaler partnership for AI200/AI250."
+    },
+    {
+      "id": "251259d1-ecac-415e-8ea3-d172d95244ba",
+      "status": "pending",
+      "status_rationale": "No weekly claims figure \u2265245,000 is cited; the time window remains open."
+    },
+    {
+      "id": "d11da1d4-2d08-4ed8-b3ba-22599cc8a8fc",
+      "status": "pending",
+      "status_rationale": "Meta\u2019s Q3 2025 results are not reported in today\u2019s coverage; no revenue growth figure provided."
+    }
+  ]
+}

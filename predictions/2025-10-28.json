@@ -21,7 +21,7 @@
       ],
       "rationale": "Political pressure and market incentives favor a short-term CR to end the shutdown.",
       "id": "379ee78d-2092-4ee3-85ab-46879c488a87",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Services remain modestly expansionary as goods cool; softer rates support activity.",
       "id": "cde6cff7-f53b-4870-8f89-64f7e405a7e8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Hiring cools but stays positive amid softer growth and ongoing restructuring.",
       "id": "5454fa99-ecc5-4696-9806-16417dd874fa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Disinflation persists as goods prices ease and shelter momentum gradually fades.",
       "id": "49e1a237-e208-4908-b4b8-5ae8be6b5a48",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -113,7 +113,7 @@
       ],
       "rationale": "Core inflation slows but remains above target, driven by services.",
       "id": "06df2a91-bc15-475e-91f2-b168e533b2c7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "External demand stabilizes; private-sector PMI remains modestly expansionary.",
       "id": "b8b378c2-8af5-4d0e-be13-3ba88d287d5a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "Softer U.S. data and easing Fed expectations can weigh on the dollar.",
       "id": "1219c3b2-6f87-42cc-b941-b015845a88b5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "Signals of U.S.\u2013China thaw and industry feedback point to near-term delays.",
       "id": "5ef8e5a6-537b-42d3-82da-4bb887cce754",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -206,7 +206,7 @@
       ],
       "rationale": "Post-launch momentum increases incentives to publicize an anchor hyperscaler win.",
       "id": "30ab6e6c-738c-48bc-a0ab-136e9b239e37",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -230,7 +230,7 @@
       ],
       "rationale": "Restructuring in tech/retail and slower growth raise risk of an uptick.",
       "id": "251259d1-ecac-415e-8ea3-d172d95244ba",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -252,7 +252,7 @@
       ],
       "rationale": "Ad demand remains robust; product improvements and AI-driven targeting support growth.",
       "id": "d11da1d4-2d08-4ed8-b3ba-22599cc8a8fc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]

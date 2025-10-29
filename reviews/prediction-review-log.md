@@ -917,3 +917,12 @@ Key near-term watchpoints remain the FOMC decision on Oct 30 and HSBC’s Q3 res
 
 ---
 
+
+## 2025-10-28
+
+Today’s news flow centers on the ongoing U.S. government shutdown, court actions constraining shutdown-related moves, and broader political developments, alongside select corporate and macro headlines (e.g., Visa’s consumer read, UPS layoffs, Nvidia- and AI-related updates). None of these items provide the specific data releases or formal actions required to resolve the tracked forecasts.
+
+Key economic prints tied to these predictions—core PCE, ISM Services, Eurozone flash HICP, Caixin PMI, and U.S. payrolls—are due in the coming days and have not posted yet. Market-level thresholds (DXY) and policy/corporate milestones (BIS export-control adjustments, Qualcomm hyperscaler partnership, Meta earnings) also lack definitive updates in the provided coverage. Accordingly, all items remain pending until official releases or verifiable announcements emerge.
+
+---
+

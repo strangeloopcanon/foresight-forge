@@ -1,0 +1,235 @@
+{
+  "date": "2025-10-29",
+  "predictions": [
+    {
+      "text": "ISM Manufacturing PMI (headline, SA) for October 2025 will print between 49.0 and 50.2 in ISM\u2019s release due by 2025-11-01.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-11-01",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify the October 2025 ISM Manufacturing Report on Business headline PMI (seasonally adjusted). Success if the reported PMI is >= 49.0 and <= 50.2.",
+      "evidence": [
+        "Markets await Fed decision; near-term manufacturing sensitive to rates and inventories.",
+        "UPS eliminates 48,000 roles in 2025 amid turnaround, signaling weak volumes.",
+        "Softer new orders and elevated prices often align with sub-50 to ~50 headline prints."
+      ],
+      "monitoring_signals": [
+        "S&P Global US Manufacturing PMI final for October",
+        "Regional Fed surveys (Philly Fed, Empire, Richmond)",
+        "ISM supplier deliveries and inventories subindices",
+        "Rail/truck freight volumes and inventories-to-sales ratios"
+      ],
+      "rationale": "Mixed demand and inventory adjustment point to a near-50 print.",
+      "id": "4666f93a-a7af-4303-9ce6-6373d7f549df",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. unemployment rate (U-3, SA) for October 2025 will print between 4.1% and 4.3% in the BLS Employment Situation release due 2025-11-07.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-11-08",
+      "confidence_pct": 60,
+      "verification_criteria": "Use BLS Employment Situation, Table A-1, unemployment rate (seasonally adjusted) for October 2025. Success if reported rate is within 4.1%\u20134.3%.",
+      "evidence": [
+        "Visa results show resilient consumer spending supporting soft-landing narrative.",
+        "UPS and Amazon job cuts imply cooling labor demand without collapse.",
+        "Recent claims trend consistent with stable unemployment near low-4s."
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims",
+        "Challenger layoff announcements",
+        "Household survey employment and participation",
+        "NFIB hiring plans and wage intentions"
+      ],
+      "rationale": "Labor market rebalancing continues with modest slack.",
+      "id": "6775ed28-cfaf-4b74-9166-c8625965ccce",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "At its early-November 2025 meeting, the Reserve Bank of Australia will leave the cash rate target unchanged at 4.35%.",
+      "category": "rates",
+      "horizon_days": 7,
+      "deadline": "2025-11-05",
+      "confidence_pct": 62,
+      "verification_criteria": "Confirm RBA Board decision published on rba.gov.au for the November 2025 meeting. Success if the cash rate target remains at 4.35%.",
+      "evidence": [
+        "Australia CPI hits 3.2%, highest in over a year, reducing odds of near-term easing.",
+        "Global central banks are cautious amid sticky services inflation.",
+        "AUD dynamics and housing considerations favor a hold."
+      ],
+      "monitoring_signals": [
+        "Australian trimmed mean and services inflation",
+        "Labor market prints (employment, wage price index)",
+        "RBA communications and liaison insights",
+        "AUD/USD and financial conditions indices"
+      ],
+      "rationale": "Above-target inflation and mixed growth argue for a hold.",
+      "id": "5a8ff384-cd3c-43dc-9ba0-a44544ec82e6",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Nikkei 225 (^N225) will close at or above 52,000.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 32,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Use official daily close for Nikkei 225 (^N225). Success if any trading day\u2019s close is >= 52,000.0 by the deadline.",
+      "evidence": [
+        "Japan\u2019s Nikkei tops 51,000 for first time, signaling momentum.",
+        "USD/JPY strength supports exporters and equity risk appetite.",
+        "Fed policy path may underpin global equities."
+      ],
+      "monitoring_signals": [
+        "USD/JPY levels and BOJ policy guidance",
+        "Earnings from Japan\u2019s exporters and tech",
+        "Global risk sentiment post-Fed",
+        "Topix/Nikkei futures positioning"
+      ],
+      "rationale": "Momentum, weak yen, and earnings support incremental highs.",
+      "id": "3b8168f1-58fa-4244-9263-924137fc6e0f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, North Korea will conduct at least one additional ballistic missile launch publicly acknowledged by South Korea\u2019s JCS or Japan\u2019s MOD.",
+      "category": "geopolitics",
+      "horizon_days": 32,
+      "deadline": "2025-11-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Confirmation via official statements from ROK JCS or Japan MOD, or wire reports (Reuters/AP/AFP) citing those authorities, of a ballistic missile launch during the window.",
+      "evidence": [
+        "North Korea fires missile ahead of Trump\u2019s South Korea visit, heightening tensions.",
+        "Historical patterns of clustered tests around high-profile events.",
+        "Ongoing regional security frictions increase launch incentives."
+      ],
+      "monitoring_signals": [
+        "NOTAMs and maritime advisories in region",
+        "ROK/Japan radar and press briefings",
+        "KCNA announcements and satellite imagery",
+        "U.S.-ROK-Japan joint drills timing"
+      ],
+      "rationale": "Escalatory signaling tends to persist around key diplomatic moments.",
+      "id": "d142c8cc-a7b1-4542-a787-c60870a99c88",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The S&P 500 Index (^GSPC) will close up at least 2.0% day-over-day on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 32,
+      "deadline": "2025-11-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Calculate daily percentage change from official prior close to close for ^GSPC. Success if any day\u2019s change is >= +2.00% by the deadline.",
+      "evidence": [
+        "Markets await Fed decision; policy shifts can spark relief rallies.",
+        "Earnings season and macro prints can catalyze large moves.",
+        "Volatility sensitive to geopolitical headlines."
+      ],
+      "monitoring_signals": [
+        "FOMC decision and press conference tone",
+        "Mega-cap earnings and guidance",
+        "VIX term structure and options positioning",
+        "Macro surprises (jobs, CPI, ISM)"
+      ],
+      "rationale": "Event-rich calendar raises odds of a relief or squeeze rally.",
+      "id": "900bd320-89c2-462d-8807-acf93c0f4af3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY (JPY=X) will trade at or above 153.50 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 32,
+      "deadline": "2025-11-30",
+      "confidence_pct": 48,
+      "verification_criteria": "Verify an intraday print on Yahoo Finance (JPY=X) at or above 153.50 on any UTC trading day by the deadline.",
+      "evidence": [
+        "Japan\u2019s Nikkei surge aligns with a weaker yen backdrop.",
+        "BOJ\u2019s gradualism and U.S. yields keep upside risks for USD/JPY.",
+        "Intervention risk tempers, but does not preclude, tests of highs."
+      ],
+      "monitoring_signals": [
+        "BOJ policy guidance and JGB yield moves",
+        "U.S. Treasury yields and rate differentials",
+        "Japan MoF intervention rhetoric",
+        "Risk sentiment and oil prices"
+      ],
+      "rationale": "Wide rate differentials and risk-on tilt support yen weakness.",
+      "id": "db1fb148-319c-4729-aaf4-3a988bf9f0b2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. Advance Retail Sales excluding motor vehicles and parts dealers (MoM, SA) for October 2025 will print between -0.1% and +0.3% in the Census release due mid-November.",
+      "category": "macro",
+      "horizon_days": 17,
+      "deadline": "2025-11-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Use the Census Bureau Advance Monthly Retail Trade Report for October 2025; verify the MoM percent change for Retail and Food Services excluding motor vehicles and parts dealers (seasonally adjusted). Success if within -0.1% to +0.3%.",
+      "evidence": [
+        "Visa results show resilient consumer spending and cross-border volumes.",
+        "UPS volumes weak suggest softer goods demand, netting to modest growth.",
+        "Gasoline price relief may reallocate spend to services and staples."
+      ],
+      "monitoring_signals": [
+        "High-frequency card-spending trackers",
+        "Gasoline prices and real disposable income",
+        "Consumer sentiment and credit conditions",
+        "Retailer earnings and guidance"
+      ],
+      "rationale": "Steady but modest spending amid mixed goods demand.",
+      "id": "1038bf7a-96f8-427e-94a0-2727a1894cf1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "S&P CoreLogic Case-Shiller 20-City Home Price Index (YoY, NSA) for September 2025 will print between 1.5% and 3.0%.",
+      "category": "macro",
+      "horizon_days": 28,
+      "deadline": "2025-11-26",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify the year-over-year percent change for the 20-City Composite (NSA) in the September 2025 S&P CoreLogic Case-Shiller release. Success if within 1.5%\u20133.0%.",
+      "evidence": [
+        "U.S. home price gains trail inflation, eroding real gains.",
+        "Higher mortgage rates continue to cap affordability and demand.",
+        "Inventory constraints moderate but do not eliminate weakness."
+      ],
+      "monitoring_signals": [
+        "Mortgage rates and purchase applications",
+        "Active listings and months of supply",
+        "Pending home sales and builder sentiment",
+        "Regional dispersion in Case-Shiller components"
+      ],
+      "rationale": "Higher rates and affordability issues slow nominal price gains.",
+      "id": "16b3dbc9-0d54-4bbc-9412-01d73e11af91",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE BofA MOVE Index will close at or above 115.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 32,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Use the published daily close of the ICE BofA MOVE Index. Success if any close is >= 115.0 by the deadline.",
+      "evidence": [
+        "Markets await Fed decision; policy shifts can elevate rate vol.",
+        "Treasury market liquidity and auction outcomes remain fragile.",
+        "Geopolitical risks can spill into rates volatility."
+      ],
+      "monitoring_signals": [
+        "Treasury auction tails and bid-to-cover",
+        "Rate options implied vol (swaptions)",
+        "Fedspeak and balance-sheet guidance",
+        "Macro surprises (inflation, labor, ISM)"
+      ],
+      "rationale": "Event risk and liquidity strains can spike rates vol episodically.",
+      "id": "51a12217-b792-483d-8a18-2e5d0bc918a5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
