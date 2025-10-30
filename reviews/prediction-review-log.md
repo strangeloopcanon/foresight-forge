@@ -926,3 +926,12 @@ Key economic prints tied to these predictions—core PCE, ISM Services, Eurozone
 
 ---
 
+
+## 2025-10-29
+
+None of the tracked items were resolved by today’s news flow. The cycle-sensitive prints (ISM on Nov. 1 and the jobs report on Nov. 7) are still ahead, and there were no definitive updates on Australia’s rate decision, housing, or retail activity. Market headlines focused on a Fed rate cut, mega-cap tech earnings, and AI-driven capex, which influence risk sentiment but do not by themselves settle any of the stated forecasts.
+
+The Fed’s easing alongside mixed forward guidance points to ongoing crosscurrents: supportive for equities yet with the potential for intermittent volatility, keeping the S&P 500 ≥2% up-day scenario plausible without confirming it. Bond volatility could remain dampened near term, though policy uncertainty leaves room for MOVE spikes. For USD/JPY, a softer Fed reduces dollar tailwinds while BoJ normalization remains gradual, leaving the 153.5 threshold unresolved. Globally, chip-sector strength and AI investment are constructive for Japan’s equities but do not establish a path to 52,000 on the Nikkei on their own. There were no fresh indications on North Korean missile activity. Upcoming ISM and labor data will be pivotal for near-term calibration of the manufacturing and employment forecasts.
+
+---
+

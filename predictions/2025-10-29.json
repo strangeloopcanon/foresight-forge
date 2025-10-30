@@ -21,7 +21,7 @@
       ],
       "rationale": "Mixed demand and inventory adjustment point to a near-50 print.",
       "id": "4666f93a-a7af-4303-9ce6-6373d7f549df",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Labor market rebalancing continues with modest slack.",
       "id": "6775ed28-cfaf-4b74-9166-c8625965ccce",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Above-target inflation and mixed growth argue for a hold.",
       "id": "5a8ff384-cd3c-43dc-9ba0-a44544ec82e6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Momentum, weak yen, and earnings support incremental highs.",
       "id": "3b8168f1-58fa-4244-9263-924137fc6e0f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -113,7 +113,7 @@
       ],
       "rationale": "Escalatory signaling tends to persist around key diplomatic moments.",
       "id": "d142c8cc-a7b1-4542-a787-c60870a99c88",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "Event-rich calendar raises odds of a relief or squeeze rally.",
       "id": "900bd320-89c2-462d-8807-acf93c0f4af3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Wide rate differentials and risk-on tilt support yen weakness.",
       "id": "db1fb148-319c-4729-aaf4-3a988bf9f0b2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -182,7 +182,7 @@
       ],
       "rationale": "Steady but modest spending amid mixed goods demand.",
       "id": "1038bf7a-96f8-427e-94a0-2727a1894cf1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -205,7 +205,7 @@
       ],
       "rationale": "Higher rates and affordability issues slow nominal price gains.",
       "id": "16b3dbc9-0d54-4bbc-9412-01d73e11af91",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -228,7 +228,7 @@
       ],
       "rationale": "Event risk and liquidity strains can spike rates vol episodically.",
       "id": "51a12217-b792-483d-8a18-2e5d0bc918a5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

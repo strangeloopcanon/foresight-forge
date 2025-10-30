@@ -1,0 +1,55 @@
+{
+  "date": "2025-10-29",
+  "assessments": [
+    {
+      "id": "4666f93a-a7af-4303-9ce6-6373d7f549df",
+      "status": "pending",
+      "status_rationale": "The October ISM Manufacturing PMI has not been released yet (due by 2025-11-01), and today's news does not report a result."
+    },
+    {
+      "id": "6775ed28-cfaf-4b74-9166-c8625965ccce",
+      "status": "pending",
+      "status_rationale": "The October U.S. unemployment rate is scheduled for 2025-11-07; no outcome is referenced in today\u2019s coverage."
+    },
+    {
+      "id": "5a8ff384-cd3c-43dc-9ba0-a44544ec82e6",
+      "status": "pending",
+      "status_rationale": "The early-November 2025 RBA decision has not occurred yet; no definitive reporting today."
+    },
+    {
+      "id": "3b8168f1-58fa-4244-9263-924137fc6e0f",
+      "status": "pending",
+      "status_rationale": "No article indicates the Nikkei 225 has reached 52,000; deadline remains in the future."
+    },
+    {
+      "id": "d142c8cc-a7b1-4542-a787-c60870a99c88",
+      "status": "pending",
+      "status_rationale": "No report today of a new North Korean ballistic missile launch acknowledged by South Korea\u2019s JCS or Japan\u2019s MOD."
+    },
+    {
+      "id": "900bd320-89c2-462d-8807-acf93c0f4af3",
+      "status": "pending",
+      "status_rationale": "Coverage mentions market volatility around earnings and the Fed but does not confirm a \u22652.0% S&P 500 up day; deadline has not passed."
+    },
+    {
+      "id": "db1fb148-319c-4729-aaf4-3a988bf9f0b2",
+      "status": "pending",
+      "status_rationale": "No FX level for USD/JPY is cited today; cannot verify whether 153.50 has been traded within the window."
+    },
+    {
+      "id": "1038bf7a-96f8-427e-94a0-2727a1894cf1",
+      "status": "pending",
+      "status_rationale": "October Advance Retail Sales ex-auto is due mid-November; no result reported yet."
+    },
+    {
+      "id": "16b3dbc9-0d54-4bbc-9412-01d73e11af91",
+      "status": "pending",
+      "status_rationale": "The September S&P CoreLogic Case-Shiller 20-City YoY print is due late November; no data today."
+    },
+    {
+      "id": "51a12217-b792-483d-8a18-2e5d0bc918a5",
+      "status": "pending",
+      "status_rationale": "No mention of the ICE BofA MOVE Index level; cannot confirm a \u2265115 close before the 2025-11-30 deadline."
+    }
+  ]
+}

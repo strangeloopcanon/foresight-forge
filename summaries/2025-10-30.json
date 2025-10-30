@@ -1,0 +1,116 @@
+{
+  "bullets": [
+    {
+      "text": "Fed cuts rates again; Powell says December easing is uncertain. 10-year Treasury yield jumps above 4% amid two dissenting votes.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm"
+    },
+    {
+      "text": "Nvidia becomes first company to surpass $5 trillion market value, underscoring AI-driven market leadership.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/10/29/technology/nvidia-value-market-ai.html"
+    },
+    {
+      "text": "Alphabet tops $100 billion quarterly revenue; Google Cloud grows 34%; executives flag significant capex increase in 2026 tied to AI infrastructure.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html"
+    },
+    {
+      "text": "Meta shares drop 9% despite earnings beat, hurt by one-time tax charge and higher AI spending guidance.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/29/meta-q3-earnings-report-2025.html"
+    },
+    {
+      "text": "Microsoft takes $3.1 billion hit from OpenAI investment and guides faster spending growth; Azure outage highlights cloud dependency risks.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/29/microsoft-open-ai-investment-earnings.html"
+    },
+    {
+      "text": "Samsung profit more than doubles as chip recovery strengthens, signaling memory rebound and AI server demand tailwinds.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/30/samsungs-third-quarter-profit-surges-160percent-as-chip-business-bounces-back-from-brutal-slump.html"
+    },
+    {
+      "text": "CBO warns a prolonged U.S. government shutdown could cost the economy up to $14 billion.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/10/29/government-shutdown-economy-cbo-trump-congress.html"
+    },
+    {
+      "text": "Trump administration weighs allowing advanced AI chip sales to China, raising national security concerns and reshaping export controls debate.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/10/29/us/politics/trump-china-nvidia-chips-sales.html"
+    },
+    {
+      "text": "South Korea says U.S. agreed to 15% tariffs, signaling tougher trade stance likely to pressure supply chains and allies.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/10/29/us/politics/tariff-trump-south-korea-trade.html"
+    },
+    {
+      "text": "Chipotle plunges 13% after cutting sales outlook, citing pullback from younger diners\u2014stoking broader concerns about consumer demand.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/29/chipotle-cmg-earnings-q3-2025.html"
+    },
+    {
+      "text": "Starbucks posts first same-store sales growth in nearly two years; delivery tops $1 billion, aiding turnaround.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/29/starbucks-sbux-earnings-q4-2025.html"
+    },
+    {
+      "text": "Scientists discover a hidden antibiotic 100 times stronger against priority superbugs, offering a potent new weapon against resistance.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251029002855.htm"
+    },
+    {
+      "text": "Researchers warn Earth has crossed its first climate tipping point, signaling accelerating, potentially irreversible planetary change.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251029002920.htm"
+    },
+    {
+      "text": "Diamonds grown at room temperature without heat or pressure could slash costs and transform industrial applications.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251029002917.htm"
+    }
+  ]
+}
