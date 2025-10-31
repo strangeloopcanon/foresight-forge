@@ -1,0 +1,287 @@
+{
+  "date": "2025-10-31",
+  "predictions": [
+    {
+      "text": "U.S. JOLTS Job Openings (total, SA) for September 2025 will print between 7.2 million and 7.6 million.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-11-05",
+      "confidence_pct": 55,
+      "verification_criteria": "BLS JOLTS news release or FRED series JTSJOL for September 2025 shows seasonally adjusted total job openings level within 7.2\u20137.6 million.",
+      "evidence": [
+        "Labor market cooling signals (slower wage growth, softer hiring plans).",
+        "Prior months showed gradual easing in openings relative to 2023 highs."
+      ],
+      "monitoring_signals": [
+        "Indeed and LinkUp job postings trends",
+        "NFIB Jobs Hard to Fill",
+        "Conference Board labor market differential",
+        "Continuing claims"
+      ],
+      "rationale": "Openings have trended lower, but remain elevated; gradual normalization likely continues into September.",
+      "id": "57fd6e16-97cc-4e60-a79d-19508f91c9d0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing New Orders Index for October 2025 will print between 49.0 and 52.0.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-11-01",
+      "confidence_pct": 56,
+      "verification_criteria": "Institute for Supply Management Report On Business lists October 2025 Manufacturing New Orders index value within 49.0\u201352.0.",
+      "evidence": [
+        "Headline ISM hovering near 50 amid mixed demand.",
+        "Regional Fed surveys show modest stabilization in orders."
+      ],
+      "monitoring_signals": [
+        "S&P Global Manufacturing PMI New Orders",
+        "Philadelphia/Empire State Fed new orders components",
+        "Supplier delivery times and inventories"
+      ],
+      "rationale": "Mixed growth and higher rates constrain capex; new orders likely near breakeven.",
+      "id": "e3e4533a-9aa5-4fa0-9c2e-e9e026172c9a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan Consumer Sentiment (preliminary) for November 2025 will print between 64.0 and 68.0.",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-11-15",
+      "confidence_pct": 54,
+      "verification_criteria": "University of Michigan preliminary November 2025 Index of Consumer Sentiment headline range 64.0\u201368.0 as published on umich.edu or press release.",
+      "evidence": [
+        "Rates and gasoline prices remain elevated, weighing on sentiment.",
+        "Equities near highs and easing inflation provide some offset."
+      ],
+      "monitoring_signals": [
+        "AAA national gasoline price",
+        "Mortgage rates (Freddie Mac PMMS)",
+        "Equity market performance",
+        "Inflation expectations measures"
+      ],
+      "rationale": "Sentiment remains subdued but stable as inflation cools and rates stay high.",
+      "id": "d99c0b28-a1c2-44a9-8c0f-c9b6b95f8ca1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ADP National Employment Report for October 2025 will show a change between +120,000 and +190,000 jobs.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-11-06",
+      "confidence_pct": 55,
+      "verification_criteria": "ADP press release indicates October 2025 private payroll change within +120k to +190k.",
+      "evidence": [
+        "Softening hiring in small business segments.",
+        "High-frequency time-clock data point to modest growth."
+      ],
+      "monitoring_signals": [
+        "Homebase and UKG shift data",
+        "Challenger job cuts",
+        "NFIB hiring plans",
+        "Initial and continuing jobless claims"
+      ],
+      "rationale": "Cooling, not collapsing, labor demand implies mid-range ADP print.",
+      "id": "557ee8bb-a4b3-412a-84d4-023611411ebe",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show at least one weekly build of U.S. commercial crude (ex-SPR) of +5.0 million barrels or more by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 30,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Any EIA Weekly Petroleum Status Report through 2025-11-30 shows change in \u201cU.S. Commercial Crude Oil (Excluding SPR)\u201d >= +5.0 million barrels week-over-week.",
+      "evidence": [
+        "Refinery maintenance season can reduce runs, boosting inventories.",
+        "Import variability and timing effects can create large weekly builds."
+      ],
+      "monitoring_signals": [
+        "API weekly crude stock estimates",
+        "Refinery utilization rates",
+        "PADD3 import/export flows",
+        "WTI time spreads (contango/backwardation)"
+      ],
+      "rationale": "Seasonal refinery outages and import timing increase chances of a large weekly build.",
+      "id": "38ed1a9b-b226-4d91-918f-d48d9703e2e2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "CME Henry Hub natural gas front-month futures will settle at or above $3.50 per MMBtu on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 30,
+      "deadline": "2025-11-30",
+      "confidence_pct": 42,
+      "verification_criteria": "CME settlement price for NG front-month contract reaches \u2265 $3.50/MMBtu on any trading day through 2025-11-30 (UTC).",
+      "evidence": [
+        "Early-winter weather risk and LNG demand can spark short squeezes.",
+        "Storage near norms but sensitive to degree-day surprises."
+      ],
+      "monitoring_signals": [
+        "NOAA/CPC temperature forecasts and HDDs",
+        "EIA weekly storage reports",
+        "LNG feedgas flows (e.g., Freeport)",
+        "Calendar and prompt spread structure"
+      ],
+      "rationale": "Weather and LNG flow variability can trigger an upside test despite recent softness.",
+      "id": "ebe35064-6146-4edb-ba7b-c2c8fbf37834",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The S&P 500 Index (^GSPC) will close down at least 2.0% day-over-day on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 30,
+      "deadline": "2025-11-30",
+      "confidence_pct": 48,
+      "verification_criteria": "Yahoo Finance or exchange data show a daily close-to-close percentage change \u2264 -2.00% for ^GSPC on any UTC trading day by 2025-11-30.",
+      "evidence": [
+        "Event risk: ISM, jobs, CPI/PCE, earnings, and shutdown dynamics.",
+        "Volatility remains two-sided even with strong equity levels."
+      ],
+      "monitoring_signals": [
+        "Cboe VIX and VVIX",
+        "Macro data releases and surprises",
+        "MOVE index and rates volatility",
+        "Breadth/market internals"
+      ],
+      "rationale": "Macro catalysts and rates volatility raise the odds of a \u22652% down day.",
+      "id": "14eaf7de-5430-4c3f-89d1-4ff585cc94a6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "USD/CNH (CNH=X) will trade at or above 7.3500 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 30,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Yahoo Finance (CNH=X) or Bloomberg intraday data show USD/CNH \u2265 7.3500 on any UTC trading day through 2025-11-30.",
+      "evidence": [
+        "China growth concerns and property sector stress support dollar strength.",
+        "Policy tolerance for gradual CNH weakness persists despite firmer fixings."
+      ],
+      "monitoring_signals": [
+        "PBOC daily fixing vs estimates",
+        "DXY trend",
+        "Chinese data surprises (PMIs, credit, trade)",
+        "Northbound/Southbound equities flows"
+      ],
+      "rationale": "Macro headwinds and strong USD bias can push CNH to 7.35 despite managed moves.",
+      "id": "dcc39fc3-53db-4b15-a241-b08944832d56",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, NVIDIA will announce via official press release or SEC filing an equity investment in Poolside AI.",
+      "category": "tech",
+      "horizon_days": 30,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "An NVIDIA press release (newsroom) or SEC filing explicitly states an equity investment in Poolside AI by 2025-11-30.",
+      "evidence": [
+        "TechCrunch: Nvidia reportedly investing up to $1B in Poolside.",
+        "NVIDIA\u2019s strategy includes minority stakes in AI ecosystem firms."
+      ],
+      "monitoring_signals": [
+        "NVIDIA newsroom and investor relations",
+        "Poolside AI blog/press",
+        "Major business media confirmations",
+        "M&A trackers and deal databases"
+      ],
+      "rationale": "Reports suggest advanced talks; a formal announcement is plausible within weeks.",
+      "id": "1ac19a80-5a66-40d9-9796-9706faa69395",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. PCE Price Index (headline, YoY, SA) for October 2025 will print between 2.6% and 2.9%.",
+      "category": "macro",
+      "horizon_days": 29,
+      "deadline": "2025-11-29",
+      "confidence_pct": 57,
+      "verification_criteria": "BEA Personal Income and Outlays release shows October 2025 headline PCE Price Index YoY (SA) within 2.6\u20132.9%.",
+      "evidence": [
+        "Disinflation trend persists; energy prices mixed but not spiking.",
+        "CPI/PPI paths imply PCE moderates with weight differences."
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed PCE nowcast",
+        "October CPI/PPI components",
+        "Energy price moves and healthcare adjustments"
+      ],
+      "rationale": "Underlying disinflation and base effects likely keep PCE YoY below 3%.",
+      "id": "384d67d5-dc99-494a-8354-e4f90bf7966f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China Caixin Services PMI for October 2025 will print between 51.0 and 52.5.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-11-04",
+      "confidence_pct": 55,
+      "verification_criteria": "Caixin/Markit press release shows October 2025 General Services PMI in the 51.0\u201352.5 range.",
+      "evidence": [
+        "Private-sector surveys have shown services resiliency despite weak property.",
+        "Policy support and holiday effects can buoy services demand."
+      ],
+      "monitoring_signals": [
+        "NBS Non-Manufacturing PMI",
+        "High-frequency mobility and travel data",
+        "Retail sales and credit impulse indicators"
+      ],
+      "rationale": "Services expansion likely continues, albeit modestly, given policy support.",
+      "id": "dd56ec8b-1385-4713-adcd-f4c0b0ff0c97",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NFIB Small Business Optimism Index for October 2025 will print between 90.0 and 92.5.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-11-12",
+      "confidence_pct": 56,
+      "verification_criteria": "NFIB press release shows October 2025 Small Business Optimism headline index within 90.0\u201392.5.",
+      "evidence": [
+        "High rates and labor quality issues cap optimism.",
+        "Easing inflation and stable demand provide partial relief."
+      ],
+      "monitoring_signals": [
+        "NFIB compensation plans and price plans",
+        "ISM services employment",
+        "JOLTS small business dynamics"
+      ],
+      "rationale": "Range-bound sentiment reflects tight financial conditions with gradual disinflation.",
+      "id": "f3ea78c8-cacd-4279-930a-dc94f3ca82a0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Freddie Mac PMMS 30-year fixed mortgage rate will print at or above 7.30% in at least one weekly survey by 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 30,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Freddie Mac Primary Mortgage Market Survey (PMMS) national average 30-year fixed rate reaches \u2265 7.30% in any weekly release through 2025-11-30.",
+      "evidence": [
+        "Mortgage rates unexpectedly rose ~20 bps after the Fed cut (CNBC, 2025-10-30).",
+        "Rates volatility and wider MBS spreads can lift PMMS prints."
+      ],
+      "monitoring_signals": [
+        "10Y UST yield and MBS OAS",
+        "Mortgage application refi index",
+        "Rate lock data",
+        "MOVE index"
+      ],
+      "rationale": "Volatile rates and MBS spreads support a high PMMS print within November.",
+      "id": "992bc92c-1f83-4606-a67b-fba50916c1b6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

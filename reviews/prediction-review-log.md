@@ -935,3 +935,12 @@ The Fed’s easing alongside mixed forward guidance points to ongoing crosscurre
 
 ---
 
+
+## 2025-10-30
+
+Today’s news flow is dominated by U.S. politics, geopolitical developments, and high-profile corporate earnings. While Apple’s results are highlighted, the articles referenced do not provide the exact Services revenue year-over-year growth figure needed to score that prediction. Other macroeconomic indicators (Euro area HICP flash, ISM indices, U.S. AHE, CPI, jobless claims) are either due in the coming days or simply not mentioned with the necessary detail.
+
+Market-related threshold forecasts (VIX, DXY, Brent) also lack concrete closing or settlement levels in the provided coverage, so there’s no basis to mark them as met or missed. As a result, all items remain pending until official releases or clearly stated metrics become available.
+
+---
+

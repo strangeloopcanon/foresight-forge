@@ -1,0 +1,60 @@
+{
+  "date": "2025-10-30",
+  "assessments": [
+    {
+      "id": "a5860c01-f845-480f-a1d2-f8507f2ea29a",
+      "status": "pending",
+      "status_rationale": "No Eurostat flash HICP figure for October 2025 appears in the cited coverage; release typically lands around month-end. No clear evidence to score yet."
+    },
+    {
+      "id": "be257920-a6a5-4cff-bbe3-2de5aa8f8fdc",
+      "status": "pending",
+      "status_rationale": "No ISM Manufacturing report details are mentioned in today\u2019s news. The October Employment Index reading is not provided."
+    },
+    {
+      "id": "961e8e4d-6a32-409e-b5f1-db7ad6ced3dc",
+      "status": "pending",
+      "status_rationale": "The BLS Employment Situation release is due in early November; no wage growth data is cited in the articles."
+    },
+    {
+      "id": "e172d6f8-5474-4a24-b0b1-f52f3c29d624",
+      "status": "pending",
+      "status_rationale": "October CPI is due mid-November; no CPI figures are reported in the provided news."
+    },
+    {
+      "id": "cdbcb685-bcdd-4083-9a36-9056f95673dd",
+      "status": "pending",
+      "status_rationale": "No explicit VIX closing levels are cited. Threshold event by 2025-11-30 cannot be confirmed or rejected yet."
+    },
+    {
+      "id": "f2ec6a54-e24c-4734-82a4-0cb62d3385f7",
+      "status": "pending",
+      "status_rationale": "No DXY close is provided in the news. The at-least-once threshold has not been evidenced."
+    },
+    {
+      "id": "b9cbe839-2963-479a-9278-207159ec5cb7",
+      "status": "pending",
+      "status_rationale": "No Brent front-month settlement values are reported. Cannot verify a \u2264 $82.00 occurrence."
+    },
+    {
+      "id": "98ef33f5-bb3e-4ca9-b7ca-5c3d2dde297c",
+      "status": "pending",
+      "status_rationale": "No weekly initial jobless claims figures are included. The \u2264205,000 criterion remains unverified."
+    },
+    {
+      "id": "930ba4cb-6d0e-4833-9bc4-ce8c9a0c8e29",
+      "status": "pending",
+      "status_rationale": "No ISM Services report details are referenced. The New Orders Index reading for October is not available in the coverage."
+    },
+    {
+      "id": "f55ce730-e200-454b-8900-970511e33c69",
+      "status": "pending",
+      "status_rationale": "No Bank of England decision headlines are present. The early-November rate decision has not been reported here."
+    },
+    {
+      "id": "34c10e09-9291-4f8f-b2ca-1eee564a9c83",
+      "status": "pending",
+      "status_rationale": "Apple\u2019s earnings are covered, with mentions of record results and strong Services, but the specific Services YoY growth percentage is not provided in the cited articles."
+    }
+  ]
+}

@@ -22,7 +22,7 @@
       ],
       "rationale": "Energy and food base effects plus easing pipeline pressures point to a low-2s headline flash.",
       "id": "a5860c01-f845-480f-a1d2-f8507f2ea29a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Manufacturing remains soft; firms are cautious on hiring amid uncertain demand.",
       "id": "be257920-a6a5-4cff-bbe3-2de5aa8f8fdc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -71,7 +71,7 @@
       ],
       "rationale": "Wage growth is cooling but remains above pre-pandemic pace amid slower hiring.",
       "id": "961e8e4d-6a32-409e-b5f1-db7ad6ced3dc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -96,7 +96,7 @@
       ],
       "rationale": "Energy stabilizing and shelter disinflation should limit monthly headline gains.",
       "id": "e172d6f8-5474-4a24-b0b1-f52f3c29d624",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "rationale": "If event risk recedes post\u2013central bank week and earnings, volatility can compress.",
       "id": "cdbcb685-bcdd-4083-9a36-9056f95673dd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -144,7 +144,7 @@
       ],
       "rationale": "Higher U.S. yields and trade tensions can support additional dollar strength.",
       "id": "f2ec6a54-e24c-4734-82a4-0cb62d3385f7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -168,7 +168,7 @@
       ],
       "rationale": "Growth concerns and inventory builds could pressure Brent toward the low-80s.",
       "id": "b9cbe839-2963-479a-9278-207159ec5cb7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -192,7 +192,7 @@
       ],
       "rationale": "Claims can dip episodically due to seasonals and still-tight pockets of labor demand.",
       "id": "98ef33f5-bb3e-4ca9-b7ca-5c3d2dde297c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -215,7 +215,7 @@
       ],
       "rationale": "Services demand looks resilient; order pipelines remain positive despite goods softness.",
       "id": "930ba4cb-6d0e-4833-9bc4-ce8c9a0c8e29",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -238,7 +238,7 @@
       ],
       "rationale": "Balancing decelerating inflation with growth risks argues for a hold.",
       "id": "f55ce730-e200-454b-8900-970511e33c69",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -263,7 +263,7 @@
       ],
       "rationale": "Subscriptions and app ecosystem tailwinds support double-digit Services growth.",
       "id": "34c10e09-9291-4f8f-b2ca-1eee564a9c83",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

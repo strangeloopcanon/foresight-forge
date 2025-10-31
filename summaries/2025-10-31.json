@@ -1,0 +1,124 @@
+{
+  "bullets": [
+    {
+      "text": "Apple posts record sales and profit on strong iPhone and services; guides robust December quarter.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/10/30/business/apple-earnings.html"
+    },
+    {
+      "text": "Amazon profit jumps 38%; boosts spending forecast to $125B as AWS sales grow 20%.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/30/amazon-amzn-q3-earnings-report-2025.html"
+    },
+    {
+      "text": "Alphabet shares rise 4% on strong earnings despite higher AI spend; Meta drops 11% as investors balk at escalating AI investments.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/30/alphabet-goog-stock-earnings-ai-spend.html"
+    },
+    {
+      "text": "Netflix announces 10-for-1 stock split, aiming to increase liquidity and retail accessibility.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/30/netflix-stock-split.html"
+    },
+    {
+      "text": "Reddit beats revenue and earnings forecasts on search and global expansion; shares jump on strong outlook.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/10/30/reddit-rddt-q3-2025.html"
+    },
+    {
+      "text": "Mortgage rates unexpectedly rose ~20 bps after the Fed cut; markets remain volatile as growth slows and inflation eases.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/30/mortgage-rates-fed-cut.html"
+    },
+    {
+      "text": "Government shutdown has cost contractors $12B; airlines warn of November travel \u2018disaster\u2019 and urge Congress to pay air traffic controllers.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/30/government-shutdown-business-chamber.html"
+    },
+    {
+      "text": "Trump\u2013Xi truce eases tariff and rare earth tensions; national security controls loom; shipping skeptical; Japan stocks hit records on improved sentiment.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/30/trump-xi-south-korea-rare-earth-tariff-trade-war-nvidia.html"
+    },
+    {
+      "text": "Trump\u2019s call to resume U.S. nuclear testing revives Cold War-era debates, with implications for arms control and Nevada test readiness.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html"
+    },
+    {
+      "text": "Hurricane Melissa likely triggers Jamaica\u2019s $150M catastrophe bond, providing rapid rebuilding funds and validating disaster-finance strategy.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/10/30/hurricane-melissa-set-to-trigger-150-million-jamaica-catastrophe-bond-to-help-rebuild.html"
+    },
+    {
+      "text": "Space becomes strategic arena: SpaceX and Blue Origin propose accelerating lunar missions as investors eye defense-space plays amid U.S.\u2013China rivalry.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/10/30/spacex-and-blue-origin-both-submitted-plans-to-get-astronauts-back-to-the-moon-sooner.html"
+    },
+    {
+      "text": "Nvidia reportedly investing up to $1B in AI startup Poolside, underscoring ongoing capital flows into foundational model tooling.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/"
+    },
+    {
+      "text": "Scientists convert a common semiconductor into a superconductor, hinting at scalable pathways to superconducting electronics.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251030075105.htm"
+    },
+    {
+      "text": "Nanotechnology reverses Alzheimer\u2019s symptoms in mice, offering a potential therapeutic avenue pending human trials.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/10/251029100154.htm"
+    },
+    {
+      "text": "U.S. declines to sign UN cybercrime treaty, signaling divergence on digital governance and surveillance norms.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://therecord.media/us-declines-signing-cybercrime-treaty?"
+    }
+  ]
+}
