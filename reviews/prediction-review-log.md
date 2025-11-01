@@ -944,3 +944,12 @@ Market-related threshold forecasts (VIX, DXY, Brent) also lack concrete closing 
 
 ---
 
+
+## 2025-10-31
+
+None of today’s headlines provide definitive data releases that would resolve the economic indicators we’re tracking (ISM New Orders, JOLTS, Michigan Sentiment, NFIB, PCE) or the market/event thresholds (S&P 500 −2% day, USD/CNH ≥ 7.35, Henry Hub ≥ $3.50, EIA crude build). As such, all items remain pending until official figures or clear market prints are documented.
+
+The news flow does hint at contextual forces: the government shutdown could disrupt some data operations and broader financial activity, while corporate earnings (notably large-cap tech) are driving equity moves without indicating extreme downside yet. Energy headlines (Exxon’s AI-power initiative) and tariff-related price pressures may shape inflation and commodities in coming weeks, but there is no conclusive evidence today to alter or grade the existing forecasts.
+
+---
+

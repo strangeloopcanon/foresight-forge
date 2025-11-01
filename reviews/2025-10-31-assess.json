@@ -1,0 +1,70 @@
+{
+  "date": "2025-10-31",
+  "assessments": [
+    {
+      "id": "57fd6e16-97cc-4e60-a79d-19508f91c9d0",
+      "status": "pending",
+      "status_rationale": "No JOLTS September 2025 figure cited in today's coverage; awaiting BLS release."
+    },
+    {
+      "id": "e3e4533a-9aa5-4fa0-9c2e-e9e026172c9a",
+      "status": "pending",
+      "status_rationale": "No ISM Manufacturing New Orders print for October 2025 in the provided news; result not verified."
+    },
+    {
+      "id": "d99c0b28-a1c2-44a9-8c0f-c9b6b95f8ca1",
+      "status": "pending",
+      "status_rationale": "University of Michigan preliminary November sentiment has not been reported in the news list."
+    },
+    {
+      "id": "557ee8bb-a4b3-412a-84d4-023611411ebe",
+      "status": "pending",
+      "status_rationale": "No ADP October 2025 employment change reported; awaiting the scheduled release."
+    },
+    {
+      "id": "38ed1a9b-b226-4d91-918f-d48d9703e2e2",
+      "status": "pending",
+      "status_rationale": "No EIA weekly crude build of +5.0 mbbl or more mentioned; multiple weeks remain before deadline."
+    },
+    {
+      "id": "ebe35064-6146-4edb-ba7b-c2c8fbf37834",
+      "status": "pending",
+      "status_rationale": "No confirmation that Henry Hub front-month settled at or above $3.50/MMBtu on any day yet."
+    },
+    {
+      "id": "14eaf7de-5430-4c3f-89d1-4ff585cc94a6",
+      "status": "pending",
+      "status_rationale": "No report of an S&P 500 daily decline of at least 2.0% in the headlines provided."
+    },
+    {
+      "id": "dcc39fc3-53db-4b15-a241-b08944832d56",
+      "status": "pending",
+      "status_rationale": "No mention of USD/CNH trading at or above 7.3500; FX level not verified."
+    },
+    {
+      "id": "1ac19a80-5a66-40d9-9796-9706faa69395",
+      "status": "pending",
+      "status_rationale": "No NVIDIA equity investment in Poolside AI reported via press release or filing."
+    },
+    {
+      "id": "384d67d5-dc99-494a-8354-e4f90bf7966f",
+      "status": "pending",
+      "status_rationale": "October 2025 PCE YoY has not been released yet; no data in today's news."
+    },
+    {
+      "id": "dd56ec8b-1385-4713-adcd-f4c0b0ff0c97",
+      "status": "pending",
+      "status_rationale": "No China Caixin Services PMI October print cited; release typically in early November."
+    },
+    {
+      "id": "f3ea78c8-cacd-4279-930a-dc94f3ca82a0",
+      "status": "pending",
+      "status_rationale": "NFIB October 2025 index not reported in the provided coverage."
+    },
+    {
+      "id": "992bc92c-1f83-4606-a67b-fba50916c1b6",
+      "status": "pending",
+      "status_rationale": "No Freddie Mac PMMS weekly 30-year rate at or above 7.30% mentioned; still within window."
+    }
+  ]
+}

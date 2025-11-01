@@ -1,0 +1,263 @@
+{
+  "date": "2025-11-01",
+  "predictions": [
+    {
+      "text": "ISM Services Prices Index for October 2025 will print at or above 57.0.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-11-06",
+      "confidence_pct": 56,
+      "verification_criteria": "Pass if ISM Services Prices Index (October 2025) is >= 57.0 in the ISM Non-Manufacturing report released in early November.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/"
+      ],
+      "monitoring_signals": [
+        "WTI/Brent price trends",
+        "Services wage growth metrics",
+        "Supplier delivery times",
+        "Regional Fed services price indexes"
+      ],
+      "rationale": "Services input costs remain elevated and energy prices have been firm. Sticky services inflation keeps prices components buoyant.",
+      "id": "3ed8c4a2-5625-4a60-b11f-95652b18fbd8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI (core, MoM, SA) for October 2025 will print between 0.2% and 0.3%.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-11-14",
+      "confidence_pct": 58,
+      "verification_criteria": "Pass if the BLS CPI release for October 2025 shows core CPI MoM (seasonally adjusted) between +0.2% and +0.3%.",
+      "evidence": [
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed CPI nowcast",
+        "Manheim used vehicle index",
+        "Apartment List rent index",
+        "PPI core final demand"
+      ],
+      "rationale": "Core disinflation is gradual; shelter remains sticky but easing. Recent data point to a stable 0.2\u20130.3% monthly pace.",
+      "id": "16f23899-8073-4e88-8c44-c8324789dd6c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan 1-year inflation expectations (prelim) for November 2025 will print between 3.0% and 3.5%.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Pass if the preliminary University of Michigan Survey of Consumers reports 1-year inflation expectations within 3.0%\u20133.5% for November 2025.",
+      "evidence": [
+        "https://data.sca.isr.umich.edu/"
+      ],
+      "monitoring_signals": [
+        "AAA gasoline prices",
+        "NY Fed Survey of Consumer Expectations",
+        "Food price trackers",
+        "Media inflation coverage intensity"
+      ],
+      "rationale": "Declining gasoline prices vs. tariff headlines likely offset, keeping short-run expectations anchored near recent ranges.",
+      "id": "64c54aba-b97a-4403-aab6-a40bc9836eaa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Lower 48 working natural gas in storage will reach at or above 4.00 Tcf in at least one weekly report by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Pass if EIA Weekly Natural Gas Storage (Lower 48 total working gas) shows >= 4,000 Bcf on any report published by 2025-11-30.",
+      "evidence": [
+        "https://www.eia.gov/naturalgas/storage/weekly/"
+      ],
+      "monitoring_signals": [
+        "Heating degree-day forecasts",
+        "Lower-48 dry gas production",
+        "LNG feedgas demand",
+        "Pipeline maintenance/outages"
+      ],
+      "rationale": "High production and mild early heating season increase odds of a round-number storage peak near 4.0 Tcf.",
+      "id": "9e9f3bd7-4a35-444a-80d0-45c9760cb66e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or above $78,000 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 29,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Pass if BTC-USD prints an intraday high >= $78,000 on any exchange aggregated by a major data source (e.g., Yahoo Finance or CoinDesk) by the deadline.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/BTC-USD/"
+      ],
+      "monitoring_signals": [
+        "Spot ETF net flows",
+        "UST 10Y yield moves",
+        "DXY index",
+        "Funding and basis on major exchanges"
+      ],
+      "rationale": "Falling yields and risk-on tech sentiment could support another test of highs, but macro headwinds cap confidence.",
+      "id": "8cd7043b-79e3-4360-8b65-b804528fa429",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 4.25% on at least one trading day by 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 29,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Pass if FRED series DGS10 shows a daily close <= 4.25% on any trading day by the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.cnbc.com/2025/10/31/interest-rates-money-markets-stocks-bonds.html"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE releases",
+        "Payrolls and unemployment rate",
+        "Treasury supply/auctions",
+        "Fed communications and term premium estimates"
+      ],
+      "rationale": "Cooling inflation prints and risk events can extend the recent yield decline to 4.25% or below at least briefly.",
+      "id": "26edb12d-4c65-43a6-a81a-cc673f04d491",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY (JPY=X) will trade at or below 148.00 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 29,
+      "deadline": "2025-11-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Pass if USD/JPY intraday low <= 148.00 on any UTC trading day by the deadline (Yahoo Finance: JPY=X).",
+      "evidence": [
+        "https://finance.yahoo.com/quote/JPY=X/"
+      ],
+      "monitoring_signals": [
+        "UST-JGB yield spread",
+        "BOJ policy signals and YCC tweaks",
+        "MoF intervention commentary",
+        "U.S. inflation and payrolls surprises"
+      ],
+      "rationale": "Lower U.S. yields and the risk of BOJ policy shifts or verbal intervention could briefly strengthen JPY.",
+      "id": "bd7beb6f-124b-4546-a93a-23b126741a2a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or below \u20ac35.00/MWh on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-11-30",
+      "confidence_pct": 43,
+      "verification_criteria": "Pass if the official ICE Endex settlement for TTF front-month is <= \u20ac35.00/MWh on any session by the deadline.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://agsi.gie.eu/"
+      ],
+      "monitoring_signals": [
+        "EU storage fullness (AGSI)",
+        "ECMWF weather runs",
+        "LNG arrivals and outages",
+        "Norwegian upstream flows and maintenance"
+      ],
+      "rationale": "High storage and mild weather scenarios could push TTF toward lower bound despite geopolitical risk premia.",
+      "id": "376cab4e-e38f-4fcb-9678-bc8c3a319307",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, ExxonMobil will announce a formal agreement or MOU to supply power and/or carbon management services to at least one U.S. AI data center operator.",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Pass if ExxonMobil publishes an official press release or SEC filing naming a U.S. data center partner and describing power supply or CO2 handling for AI operations.",
+      "evidence": [
+        "https://www.cnbc.com/2025/10/31/exxon-ai-data-center-natural-gas-carbon-capture.html",
+        "https://corporate.exxonmobil.com/news/newsroom"
+      ],
+      "monitoring_signals": [
+        "Exxon press releases and 8-Ks",
+        "Hyperscaler sustainability blogs",
+        "Data center operators\u2019 announcements",
+        "State energy siting filings"
+      ],
+      "rationale": "CNBC reports advanced talks; AI power needs align with Exxon's gas/CCS strategy, making a formal deal likely near-term.",
+      "id": "56173edb-e295-49ce-a808-1f4cb8150f6b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. JOLTS Quits Rate (total, SA) for September 2025 will print between 2.1% and 2.3%.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-11-05",
+      "confidence_pct": 56,
+      "verification_criteria": "Pass if BLS JOLTS September 2025 quits rate (seasonally adjusted, total) is within 2.1%\u20132.3%.",
+      "evidence": [
+        "https://www.bls.gov/jlt/"
+      ],
+      "monitoring_signals": [
+        "Indeed/LinkUp job postings",
+        "NFIB \u2018jobs hard to fill\u2019",
+        "ADP quits metric",
+        "Wage growth measures (Atlanta Fed WGT)"
+      ],
+      "rationale": "Cooling labor demand with still-firm labor market suggests quits stabilize near 2.2% range.",
+      "id": "d8ee0194-0425-4da8-aab9-288d95f66045",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PCE Price Index excluding food and energy (core, MoM, SA) for October 2025 will print between 0.1% and 0.2%.",
+      "category": "macro",
+      "horizon_days": 28,
+      "deadline": "2025-11-29",
+      "confidence_pct": 57,
+      "verification_criteria": "Pass if BEA reports October 2025 core PCE MoM (SA) within +0.1% to +0.2%.",
+      "evidence": [
+        "https://www.bea.gov/news/2025/personal-income-and-outlays-october-2025"
+      ],
+      "monitoring_signals": [
+        "CPI-to-PCE translation factors",
+        "PPI core for services",
+        "Import prices ex-fuel",
+        "Shelter and core services excluding housing"
+      ],
+      "rationale": "Translation from CPI/PPI points to a tame 0.1\u20130.2% core PCE as shelter and healthcare revisions drift lower.",
+      "id": "45144d89-c2bc-45a6-9643-dc0ea55aba21",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-10-31 close to 2025-11-30 close, Invesco S&P 500 Equal Weight ETF (RSP) will underperform SPDR S&P 500 ETF (SPY) by at least 1.5 percentage points on an adjusted-close basis.",
+      "category": "markets",
+      "horizon_days": 29,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Pass if [AdjClose_RSP(11/30)/AdjClose_RSP(10/31)-1] <= [AdjClose_SPY(11/30)/AdjClose_SPY(10/31)-1] - 1.5pp, using Yahoo Finance adjusted closes.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/RSP/history",
+        "https://finance.yahoo.com/quote/SPY/history",
+        "https://www.cnbc.com/2025/10/31/tech-ai-google-meta-amazon-microsoft-spend.html"
+      ],
+      "monitoring_signals": [
+        "Mega-cap tech earnings and guidance",
+        "Breadth indicators (A/D line)",
+        "Rates/risk-on appetite",
+        "Weight concentration in index leaders"
+      ],
+      "rationale": "AI capex winners continue to dominate returns; breadth remains narrow, favoring cap-weighted over equal-weighted performance.",
+      "id": "c3bfa9b9-d886-4839-9e39-0b8c4311e1aa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
