@@ -1,0 +1,108 @@
+{
+  "bullets": [
+    {
+      "text": "Fed rate cut shifts backdrop in favor of bonds; strategists recommend extending duration as yields fall and total return prospects improve.",
+      "tags": [
+        "rates",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html"
+    },
+    {
+      "text": "Berkshire Hathaway Q3 operating earnings rose 34%; Buffett halted buybacks and amassed a record $381 billion cash, signaling caution and acquisition dry powder.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/01/berkshire-hathaway-brk-earnings-q3-2025.html"
+    },
+    {
+      "text": "Despite AI hype, Meta, Alphabet and Amazon reported ad sales as primary growth driver, underscoring resilience of digital advertising revenue.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/01/meta-alphabet-amazon-microsoft-earnings-ads.html"
+    },
+    {
+      "text": "Microsoft plans to expand hiring with 'more leverage' from AI, targeting higher output per employee and cost-efficient growth.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/01/microsoft-ceo-headcount-leverage-ai.html"
+    },
+    {
+      "text": "Nexperia auto chip crisis spurs coordinated responses in U.S., China and EU, exposing critical supply-chain vulnerabilities and geopolitical risk in semiconductors.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/01/where-the-nexperia-auto-chip-crisis-stands-now.html"
+    },
+    {
+      "text": "'Trump effect' lifts cannabis stocks as investors bet on federal reforms and a softer marijuana stance, improving prospects for banking access and rescheduling.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/11/01/cannabis-stock-market-trump-marijuana.html"
+    },
+    {
+      "text": "Federal judge ordered Trump administration to issue delayed SNAP payments within days, easing immediate strain on recipients and reducing near-term consumer spending risk.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/11/01/us/politics/trump-food-stamp-payments.html"
+    },
+    {
+      "text": "Trump threatened military action against Nigeria over protections for Christians, risking diplomatic fallout with a major African oil producer and security partner.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/11/01/world/africa/trump-nigeria-military.html"
+    },
+    {
+      "text": "Surging energy costs put AI and data centers in the crosshairs, pressuring margins and siting, and sharpening focus on power efficiency.",
+      "tags": [
+        "energy",
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/"
+    },
+    {
+      "text": "Thermal limits are constraining chip performance; new cooling approaches are increasingly critical for data centers and advanced processors.",
+      "tags": [
+        "tech",
+        "energy"
+      ],
+      "link": "https://spectrum.ieee.org/thermal-management-chips"
+    },
+    {
+      "text": "Mounting evidence links air pollution exposure to higher dementia risk; localized measures reveal ZIP code level disparities with policy implications.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html"
+    },
+    {
+      "text": "Resetting circadian rhythms protected cognition in Alzheimer\u2019s models, suggesting low-cost sleep and light interventions could mitigate disease progression.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251101000713.htm"
+    },
+    {
+      "text": "California\u2019s promised homeowner insurance relief criticized for loopholes, leaving wildfire-exposed areas with limited coverage options and rising costs.",
+      "tags": [
+        "macro",
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/11/01/us/los-angeles-california-fire-insurance-regulations.html"
+    }
+  ]
+}

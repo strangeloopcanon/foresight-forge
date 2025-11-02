@@ -1,0 +1,65 @@
+{
+  "date": "2025-11-01",
+  "assessments": [
+    {
+      "id": "3ed8c4a2-5625-4a60-b11f-95652b18fbd8",
+      "status": "pending",
+      "status_rationale": "No ISM Services Prices Index release cited in today\u2019s news; the print is due in early November and the deadline has not passed."
+    },
+    {
+      "id": "16f23899-8073-4e88-8c44-c8324789dd6c",
+      "status": "pending",
+      "status_rationale": "No CPI print for October is reported in today\u2019s coverage; deadline remains ahead."
+    },
+    {
+      "id": "64c54aba-b97a-4403-aab6-a40bc9836eaa",
+      "status": "pending",
+      "status_rationale": "No University of Michigan inflation expectations data mentioned; prelim release is mid-month."
+    },
+    {
+      "id": "9e9f3bd7-4a35-444a-80d0-45c9760cb66e",
+      "status": "pending",
+      "status_rationale": "No EIA storage level reported; no evidence of a 4.00 Tcf reading in today\u2019s news."
+    },
+    {
+      "id": "8cd7043b-79e3-4360-8b65-b804528fa429",
+      "status": "pending",
+      "status_rationale": "No report that Bitcoin traded at or above $78,000; deadline remains open."
+    },
+    {
+      "id": "26edb12d-4c65-43a6-a81a-cc673f04d491",
+      "status": "pending",
+      "status_rationale": "While the Fed rate cut is noted, there is no specific evidence the 10Y closed at or below 4.25% on any day."
+    },
+    {
+      "id": "bd7beb6f-124b-4546-a93a-23b126741a2a",
+      "status": "pending",
+      "status_rationale": "No USD/JPY level cited; no confirmation of trading at or below 148.00."
+    },
+    {
+      "id": "376cab4e-e38f-4fcb-9678-bc8c3a319307",
+      "status": "pending",
+      "status_rationale": "No Dutch TTF settlement prices mentioned; no evidence of a \u2264 \u20ac35.00/MWh close."
+    },
+    {
+      "id": "56173edb-e295-49ce-a808-1f4cb8150f6b",
+      "status": "pending",
+      "status_rationale": "No reporting of an ExxonMobil agreement or MOU with a U.S. AI data center operator."
+    },
+    {
+      "id": "d8ee0194-0425-4da8-aab9-288d95f66045",
+      "status": "pending",
+      "status_rationale": "No JOLTS Quits Rate release cited; the expected release window is upcoming and the deadline has not passed."
+    },
+    {
+      "id": "45144d89-c2bc-45a6-9643-dc0ea55aba21",
+      "status": "pending",
+      "status_rationale": "No PCE core MoM figure for October is reported; deadline is later this month."
+    },
+    {
+      "id": "c3bfa9b9-d886-4839-9e39-0b8c4311e1aa",
+      "status": "pending",
+      "status_rationale": "Relative performance between RSP and SPY requires full within-month data; no interim returns cited and the period is not complete."
+    }
+  ]
+}

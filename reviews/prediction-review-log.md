@@ -953,3 +953,12 @@ The news flow does hint at contextual forces: the government shutdown could disr
 
 ---
 
+
+## 2025-11-01
+
+Today’s news flow is heavy on politics, corporate earnings color, and general macro commentary (including that the Fed cut rates), but lacks the specific economic releases or market closes needed to adjudicate any of the tracked forecasts. There are no cited prints for ISM services, CPI, PCE, Michigan expectations, JOLTS, or EIA storage; likewise, no concrete price/yield levels for BTC, USD/JPY, the 10-year Treasury close, or Dutch TTF.
+
+The macro backdrop—Fed easing and discussion of bond market opportunities—could influence several predictions (10Y yield, USD/JPY, risk assets), but absent explicit figures, all items remain pending. Key upcoming checkpoints likely fall in the next two weeks: ISM services early in the week, JOLTS around Nov 5, CPI mid-month, Michigan prelim mid-month, and PCE late month, with market-threshold forecasts monitored daily until their deadlines.
+
+---
+

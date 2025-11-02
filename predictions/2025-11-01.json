@@ -19,7 +19,7 @@
       ],
       "rationale": "Services input costs remain elevated and energy prices have been firm. Sticky services inflation keeps prices components buoyant.",
       "id": "3ed8c4a2-5625-4a60-b11f-95652b18fbd8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Core disinflation is gradual; shelter remains sticky but easing. Recent data point to a stable 0.2\u20130.3% monthly pace.",
       "id": "16f23899-8073-4e88-8c44-c8324789dd6c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Declining gasoline prices vs. tariff headlines likely offset, keeping short-run expectations anchored near recent ranges.",
       "id": "64c54aba-b97a-4403-aab6-a40bc9836eaa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "High production and mild early heating season increase odds of a round-number storage peak near 4.0 Tcf.",
       "id": "9e9f3bd7-4a35-444a-80d0-45c9760cb66e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "Falling yields and risk-on tech sentiment could support another test of highs, but macro headwinds cap confidence.",
       "id": "8cd7043b-79e3-4360-8b65-b804528fa429",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "Cooling inflation prints and risk events can extend the recent yield decline to 4.25% or below at least briefly.",
       "id": "26edb12d-4c65-43a6-a81a-cc673f04d491",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -147,7 +147,7 @@
       ],
       "rationale": "Lower U.S. yields and the risk of BOJ policy shifts or verbal intervention could briefly strengthen JPY.",
       "id": "bd7beb6f-124b-4546-a93a-23b126741a2a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "rationale": "High storage and mild weather scenarios could push TTF toward lower bound despite geopolitical risk premia.",
       "id": "376cab4e-e38f-4fcb-9678-bc8c3a319307",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -191,7 +191,7 @@
       ],
       "rationale": "CNBC reports advanced talks; AI power needs align with Exxon's gas/CCS strategy, making a formal deal likely near-term.",
       "id": "56173edb-e295-49ce-a808-1f4cb8150f6b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -212,7 +212,7 @@
       ],
       "rationale": "Cooling labor demand with still-firm labor market suggests quits stabilize near 2.2% range.",
       "id": "d8ee0194-0425-4da8-aab9-288d95f66045",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "rationale": "Translation from CPI/PPI points to a tame 0.1\u20130.2% core PCE as shelter and healthcare revisions drift lower.",
       "id": "45144d89-c2bc-45a6-9643-dc0ea55aba21",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -256,7 +256,7 @@
       ],
       "rationale": "AI capex winners continue to dominate returns; breadth remains narrow, favoring cap-weighted over equal-weighted performance.",
       "id": "c3bfa9b9-d886-4839-9e39-0b8c4311e1aa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

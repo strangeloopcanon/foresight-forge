@@ -1,0 +1,273 @@
+{
+  "date": "2025-11-02",
+  "predictions": [
+    {
+      "text": "The U.S. 30-Year Treasury yield (FRED: DGS30) will close at or below 4.50% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 28,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify via FRED series DGS30 daily observation. Success if any closing value from 2025-11-02 through 2025-11-30 is \u2264 4.50%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS30",
+        "https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html"
+      ],
+      "monitoring_signals": [
+        "FOMC communications and speeches",
+        "Treasury refunding/auction outcomes (incl. 30Y auction)",
+        "U.S. CPI/PCE prints",
+        "MOVE index trend",
+        "10Y and breakeven inflation moves",
+        "Term premium estimates and duration demand flows"
+      ],
+      "rationale": "Softening inflation and a more dovish rates backdrop can compress term premium and pull long-end yields lower at least once.",
+      "id": "7342c750-38e1-4fd9-aaad-26c058e71efa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE BofA MOVE Index will close at or below 95.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 28,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Use the official ICE BofA MOVE Index end-of-day value from ICE Data Indices or equivalent market data vendor. Any close \u2264 95.0 between 2025-11-02 and 2025-11-30 counts.",
+      "evidence": [
+        "https://www.theice.com/marketdata/index/MOVE",
+        "https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html"
+      ],
+      "monitoring_signals": [
+        "Treasury market realized intraday ranges",
+        "Inflation data surprises (CPI/PPI/PCE)",
+        "Treasury auction demand metrics",
+        "Fed communication tone (dovish/hawkish pivots)",
+        "Liquidity/CTA positioning in rates futures"
+      ],
+      "rationale": "A calmer inflation outlook and solid auction demand can suppress rates volatility at least temporarily.",
+      "id": "30043f7f-2b83-465c-8a6d-92f25eb07659",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Cboe Volatility Index (VIX) will close at or above 20.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Confirm on Cboe VIX historical data. Success if any official daily close \u2265 20.00 in the period 2025-11-02 to 2025-11-30.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/vix_historical_data/"
+      ],
+      "monitoring_signals": [
+        "Large SPX daily moves (\u00b11.5% or more)",
+        "Macro event calendar (jobs, CPI, PPI, retail sales)",
+        "Geopolitical risk headlines",
+        "Credit spreads (CDX IG/HY) widening",
+        "Oil price spikes and USD swings"
+      ],
+      "rationale": "Event risk, positioning, or an oil/FX shock can trigger a short-lived spike in equity implied volatility.",
+      "id": "516fd605-d17c-4e0f-9244-93f09b66f8e1",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent crude oil front-month futures will settle at or above $90.00 per barrel on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 28,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Use ICE official daily settlement for the front-month Brent contract. Any settlement \u2265 $90.00 from 2025-11-02 through 2025-11-30 qualifies.",
+      "evidence": [
+        "https://www.nytimes.com/2025/11/01/world/africa/trump-nigeria-military.html",
+        "https://www.theice.com/products/219/Brent-Crude-Futures"
+      ],
+      "monitoring_signals": [
+        "OPEC+ policy statements and JMMC outcomes",
+        "Large inventory draws in EIA weekly data",
+        "Geopolitical disruptions (Nigeria, Middle East, shipping)",
+        "Time spreads/backwardation (M1\u2013M2)",
+        "USD strength/weakness (DXY)"
+      ],
+      "rationale": "Potential OPEC+ extension and geopolitical risk provide upside tail risk to crude prices in November.",
+      "id": "1cbb6734-2eec-4bad-8604-a67f31e105ad",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Ethereum (ETH-USD) will trade at or above $3,400 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Confirm via CoinMarketCap or a major exchange (Coinbase) daily high. Success if any UTC daily high \u2265 $3,400 between 2025-11-02 and 2025-11-30.",
+      "evidence": [
+        "https://coinmarketcap.com/currencies/ethereum/",
+        "https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html"
+      ],
+      "monitoring_signals": [
+        "BTC price momentum and dominance",
+        "U.S. yields and USD moves",
+        "Spot ETF and fund flow data",
+        "On-chain activity and gas fees",
+        "Risk sentiment in equities and tech"
+      ],
+      "rationale": "Easier financial conditions and crypto beta can lift ETH to test higher resistance intra-month.",
+      "id": "43c1ed63-de10-4b27-bb5c-714c8b2083ef",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "USD/CNH (CNH=X) will trade at or below 7.2500 on at least one UTC trading day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-11-30",
+      "confidence_pct": 43,
+      "verification_criteria": "Check Yahoo Finance (CNH=X) or Refinitiv intraday data. Success if intraday low \u2264 7.2500 on any UTC trading day from 2025-11-02 to 2025-11-30.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/CNH=X/",
+        "https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html"
+      ],
+      "monitoring_signals": [
+        "PBoC daily fix and policy guidance",
+        "China macro data surprises",
+        "DXY trend and U.S. rates",
+        "Offshore CNH liquidity conditions",
+        "Trade policy or sanctions headlines"
+      ],
+      "rationale": "A softer USD on dovish Fed expectations and intermittent PBoC support could allow a CNH relief rally.",
+      "id": "76f8dd43-81f4-4ad7-89f6-ad8380623aba",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Conference Board Consumer Confidence Index for November 2025 will print between 97.0 and 104.0.",
+      "category": "macro",
+      "horizon_days": 24,
+      "deadline": "2025-11-26",
+      "confidence_pct": 55,
+      "verification_criteria": "Use The Conference Board\u2019s official press release for November 2025. Success if the headline Consumer Confidence Index is \u2265 97.0 and \u2264 104.0.",
+      "evidence": [
+        "https://www.conference-board.org/topics/consumer-confidence",
+        "https://www.nytimes.com/2025/11/01/us/politics/trump-food-stamp-payments.html"
+      ],
+      "monitoring_signals": [
+        "Labor market differential (jobs plentiful vs hard-to-get)",
+        "Stock market performance and gas prices",
+        "SNAP payment timing impacts",
+        "Mortgage rates and housing sentiment",
+        "Media/news sentiment indices"
+      ],
+      "rationale": "Stabilizing labor views and temporary relief on benefits support a mid- to high-90s/low-100s reading.",
+      "id": "7d427269-afba-40dd-b2d5-3ae1920cb8ae",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Average Hourly Earnings (total private, MoM, SA) for October 2025 will print between +0.2% and +0.3% in the BLS Employment Situation report due 2025-11-07.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-11-08",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify in the BLS Employment Situation news release Table B-3. Success if the total private Average Hourly Earnings month-over-month percent change is 0.2% or 0.3%.",
+      "evidence": [
+        "https://www.bls.gov/news.release/empsit.toc.htm"
+      ],
+      "monitoring_signals": [
+        "Atlanta Fed Wage Growth Tracker",
+        "Composition effects (sector mix of payrolls)",
+        "Hours worked and overtime trends",
+        "Recent CPI services/wage-sensitive components"
+      ],
+      "rationale": "Wage growth continues to cool gradually, with typical monthly prints clustering in the 0.2\u20130.3% range.",
+      "id": "e190d0cb-c6e7-4281-bf67-600c121037cd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Producer Price Index excluding food and energy (core, MoM, SA) for October 2025 will print between +0.1% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-11-14",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm via BLS PPI news release (Table showing Final Demand less foods and energy). Success if the October 2025 MoM percent change is 0.1%, 0.2%, or 0.3%.",
+      "evidence": [
+        "https://www.bls.gov/ppi/"
+      ],
+      "monitoring_signals": [
+        "ISM Prices Paid (manufacturing and services)",
+        "Import/export prices",
+        "Energy and freight cost trends",
+        "Corporate earnings mentions of input costs"
+      ],
+      "rationale": "Pipeline price pressures look moderate with goods disinflation offset by steady services margins.",
+      "id": "b01b2481-5ec6-4bf3-a5be-bcf7d1e1b544",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Atlanta Fed GDPNow nowcast for 2025 Q4 real GDP growth (SAAR) will print at or below 1.5% in at least one update by 2025-11-30.",
+      "category": "macro",
+      "horizon_days": 28,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "verification_criteria": "Check the Atlanta Fed GDPNow website updates between 2025-11-02 and 2025-11-30. Success if any published \u201cLatest estimate\u201d for 2025 Q4 SAAR is \u2264 1.5%.",
+      "evidence": [
+        "https://www.atlantafed.org/cqer/research/gdpnow"
+      ],
+      "monitoring_signals": [
+        "Retail sales, industrial production, and construction data",
+        "Real personal consumption expenditures updates",
+        "Inventories and net exports contributions",
+        "Survey data (PMIs, ISM) feeding model inputs"
+      ],
+      "rationale": "Early-quarter data often leads GDPNow to mark down growth after strong prior-quarter prints.",
+      "id": "0c3938ca-c5a2-4c6b-9cac-ab069b7c4e90",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, OPEC+ will announce an official extension of current voluntary oil production cuts into Q1 2026.",
+      "category": "energy",
+      "horizon_days": 28,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify via OPEC.org official press release or communique. Success if the statement explicitly extends existing voluntary cuts at least through 2026 Q1.",
+      "evidence": [
+        "https://www.opec.org/opec_web/en/press_room/28.htm",
+        "https://www.nytimes.com/2025/11/01/world/africa/trump-nigeria-military.html"
+      ],
+      "monitoring_signals": [
+        "Saudi and Russian energy ministry statements",
+        "JMMC guidance and meeting schedules",
+        "Brent time spreads/backwardation strength",
+        "OECD inventory levels and demand forecasts"
+      ],
+      "rationale": "Producers have incentives to defend prices amid demand uncertainty; policy continuity is likelier than relaxation.",
+      "id": "f291ef58-e3ff-41e0-9a51-9d9920852388",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "AdvisorShares Pure US Cannabis ETF (MSOS) will close at or above $12.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Use Yahoo Finance MSOS historical prices. Success if the daily Close/Last price is \u2265 $12.00 on any trading day between 2025-11-02 and 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/01/cannabis-stock-market-trump-marijuana.html",
+        "https://finance.yahoo.com/quote/MSOS/history"
+      ],
+      "monitoring_signals": [
+        "U.S. federal reform headlines (banking/rescheduling)",
+        "State-level legalization progress",
+        "ETF inflows/outflows and liquidity",
+        "Sector earnings/guidance from MSOs"
+      ],
+      "rationale": "Policy optimism and momentum flows can extend the recent cannabis sector rally to new local highs.",
+      "id": "33d51d62-7006-4b13-a90e-0a4a9d64e6f0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
