@@ -22,7 +22,7 @@
       ],
       "rationale": "Softening inflation and a more dovish rates backdrop can compress term premium and pull long-end yields lower at least once.",
       "id": "7342c750-38e1-4fd9-aaad-26c058e71efa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "A calmer inflation outlook and solid auction demand can suppress rates volatility at least temporarily.",
       "id": "30043f7f-2b83-465c-8a6d-92f25eb07659",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Event risk, positioning, or an oil/FX shock can trigger a short-lived spike in equity implied volatility.",
       "id": "516fd605-d17c-4e0f-9244-93f09b66f8e1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Potential OPEC+ extension and geopolitical risk provide upside tail risk to crude prices in November.",
       "id": "1cbb6734-2eec-4bad-8604-a67f31e105ad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "A softer USD on dovish Fed expectations and intermittent PBoC support could allow a CNH relief rally.",
       "id": "76f8dd43-81f4-4ad7-89f6-ad8380623aba",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Stabilizing labor views and temporary relief on benefits support a mid- to high-90s/low-100s reading.",
       "id": "7d427269-afba-40dd-b2d5-3ae1920cb8ae",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -180,7 +180,7 @@
       ],
       "rationale": "Wage growth continues to cool gradually, with typical monthly prints clustering in the 0.2\u20130.3% range.",
       "id": "e190d0cb-c6e7-4281-bf67-600c121037cd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -201,7 +201,7 @@
       ],
       "rationale": "Pipeline price pressures look moderate with goods disinflation offset by steady services margins.",
       "id": "b01b2481-5ec6-4bf3-a5be-bcf7d1e1b544",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "rationale": "Early-quarter data often leads GDPNow to mark down growth after strong prior-quarter prints.",
       "id": "0c3938ca-c5a2-4c6b-9cac-ab069b7c4e90",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -244,7 +244,7 @@
       ],
       "rationale": "Producers have incentives to defend prices amid demand uncertainty; policy continuity is likelier than relaxation.",
       "id": "f291ef58-e3ff-41e0-9a51-9d9920852388",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -266,7 +266,7 @@
       ],
       "rationale": "Policy optimism and momentum flows can extend the recent cannabis sector rally to new local highs.",
       "id": "33d51d62-7006-4b13-a90e-0a4a9d64e6f0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

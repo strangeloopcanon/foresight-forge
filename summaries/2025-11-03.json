@@ -1,0 +1,115 @@
+{
+  "bullets": [
+    {
+      "text": "Trump deems war with Venezuela unlikely but leaves option of land strikes open, elevating geopolitical risk in the Americas.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/live/2025/11/02/us/trump-news"
+    },
+    {
+      "text": "Retribution drive leaves D.C. U.S. Attorney\u2019s Office in crisis, undermining prosecutorial independence and legal predictability for federal cases.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/02/us/politics/trump-pirro-washington-prosecutors.html"
+    },
+    {
+      "text": "F.D.A. drug unit chief resigns over \u2018toxic\u2019 environment, signaling regulatory instability that could affect drug approvals, timelines, and biotech valuations.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/11/02/health/fda-drug-unit-chief.html"
+    },
+    {
+      "text": "OPEC+ plans one last output boost in December, then pauses hikes in Q1 to avert glut, supporting oil prices.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/opec-to-pause-output-hikes-in-first-quarter-to-ease-fears-of-glut-after-one-more-boost-in-december-b04efd32?mod=mw_rss_topstories"
+    },
+    {
+      "text": "U.S. stocks extend November rally; sentiment tilts toward greed, raising correction risk if earnings or macro data disappoint.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/this-stock-market-rally-isnt-letting-up-could-it-be-making-investors-too-greedy-ahead-of-year-end-68245a95?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Corporate profits remain robust despite labor-market worries, underpinning equities but complicating Fed\u2019s growth-vs.-inflation trade-offs.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/corporate-americas-hefty-profit-streak-continues-amid-worries-over-job-market-e2a81764?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Nvidia emerges as earnings-season standout even pre-report; surging AI capex stokes debate over potential Big Tech investment bubble.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/nvidia-is-the-biggest-winner-from-earnings-season-and-it-hasnt-even-reported-yet-0131f39e?mod=mw_rss_topstories"
+    },
+    {
+      "text": "China rolling back rare-earth export curbs, easing supply-chain pressures for EVs and tech while signaling tactical d\u00e9tente with Washington.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/02/china-is-rolling-back-rare-earth-mineral-restrictions-white-house-saus/"
+    },
+    {
+      "text": "LendingTree estimates Trump tariffs could add $40 billion to holiday shopping costs, pressuring consumers and margins.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/02/trump-trade-holiday-shopping-lending-tree-tariffs.html"
+    },
+    {
+      "text": "Treasury says SNAP benefits could restart by Wednesday, partially offsetting consumer stress from shutdown-driven cuts.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/11/02/bessent-trump-snap-food-stamps-shutdown.html"
+    },
+    {
+      "text": "Asia-Pacific markets mixed ahead of China PMI; Korea\u2019s Kospi leads, highlighting sensitivity to Chinese demand signals.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/03/asia-pacific-markets-trade-mixed-ahead-of-pmi-data-from-china.html"
+    },
+    {
+      "text": "Novo Nordisk\u2019s outlook steadies as weight-loss market expands toward pills, rivals, and broader insurance coverage.",
+      "tags": [
+        "markets",
+        "science"
+      ],
+      "link": "https://www.cnbc.com/2025/11/02/whats-next-for-the-weight-loss-drug-market-pills-rivals-insurance.html"
+    },
+    {
+      "text": "Quantum light breakthrough promises more efficient, scalable photonics, with implications for computing, sensing, and secure communications.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251102011155.htm"
+    },
+    {
+      "text": "Artificial leaf converts air pollution into usable power, hinting at decentralized clean-energy and emissions-removal applications.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251102011148.htm"
+    }
+  ]
+}

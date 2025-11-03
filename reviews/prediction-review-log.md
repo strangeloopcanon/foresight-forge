@@ -962,3 +962,12 @@ The macro backdrop—Fed easing and discussion of bond market opportunities—co
 
 ---
 
+
+## 2025-11-02
+
+Today’s flow is broadly risk-on: stock futures pointing higher, continued corporate profit strength, and narratives about investors potentially getting “too greedy.” In that environment, equity and rates volatility gauges (VIX, MOVE) may be pressured lower near term, while a benign backdrop could also keep longer yields contained, though there’s no hard data yet. Upcoming labor prints (AHE on Friday) will be pivotal for the near-term rates/volatility path.
+
+On commodities, the report that OPEC+ plans one more output boost in December and then a pause in hikes for Q1 tempers the case for a fresh cuts extension into early 2026, softening the bullish impulse for Brent relative to a cuts-extension scenario. Asia headlines ahead of China PMIs could inject some FX volatility around USD/CNH, but no levels are cited. Crypto and cannabis equities weren’t addressed, leaving those trajectories unchanged on today’s news alone.
+
+---
+

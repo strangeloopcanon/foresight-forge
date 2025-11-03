@@ -1,0 +1,224 @@
+{
+  "date": "2025-11-03",
+  "predictions": [
+    {
+      "text": "CNN Fear & Greed Index will register at or above 75 (Greed/Extreme Greed) on at least one day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 27,
+      "deadline": "2025-11-30",
+      "confidence_pct": 59,
+      "verification_criteria": "A daily reading >= 75 appears on CNN\u2019s Fear & Greed Index page by 2025-11-30 (UTC). Archive or screenshot acceptable.",
+      "evidence": [
+        "https://www.marketwatch.com/story/this-stock-market-rally-isnt-letting-up-could-it-be-making-investors-too-greedy-ahead-of-year-end-68245a95",
+        "https://www.cnn.com/markets/fear-and-greed"
+      ],
+      "monitoring_signals": [
+        "S&P 500 breadth and momentum (RSI, advancers/decliners)",
+        "Credit spreads (CDX IG/HY) tightening",
+        "VIX trending lower",
+        "Positive earnings revisions for mega-cap tech"
+      ],
+      "rationale": "Risk appetite is elevated amid a strong equity rally and robust profits, pushing sentiment toward greed.",
+      "id": "d62d342b-fcbe-4304-982d-bd802ad20334",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Advance Retail Sales Control Group (MoM, SA) for October 2025 will print between -0.2% and +0.2%.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-11-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Census Bureau\u2019s \u201cAdvance Monthly Sales for Retail and Food Services\u201d release shows the control group (retail sales excluding autos, gas, building materials, and food services) MoM SA in [-0.2%, +0.2%].",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/02/trump-trade-holiday-shopping-lending-tree-tariffs.html",
+        "https://www.census.gov/retail/marts/www/marts_current.pdf"
+      ],
+      "monitoring_signals": [
+        "Card-spend trackers (BAC/GS/Amex) for late-October",
+        "Tariff pass-through to prices and demand",
+        "SNAP benefit restoration timing",
+        "Gasoline prices impacting real retail control"
+      ],
+      "rationale": "Tariff-related pressures and mixed consumer tailwinds point to a flat control-group print.",
+      "id": "5130ab1b-af9c-46fd-9c21-33de334574b1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Producer Price Index (headline, MoM, SA) for October 2025 will print between -0.1% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-11-14",
+      "confidence_pct": 57,
+      "verification_criteria": "BLS PPI Final Demand (seasonally adjusted, MoM) for Oct 2025 is within [-0.1%, +0.3%] in the official release.",
+      "evidence": [
+        "https://www.marketwatch.com/story/corporate-americas-hefty-profit-streak-continues-amid-worries-over-job-market-e2a81764",
+        "https://www.bls.gov/ppi/"
+      ],
+      "monitoring_signals": [
+        "Energy price changes feeding into PPI (refined products)",
+        "Freight rates and supply-chain indicators",
+        "ISM/PMI prices components"
+      ],
+      "rationale": "Goods disinflation offset by steady services suggests a modest headline PPI outcome.",
+      "id": "8debd411-07b0-4644-a439-320a0d460a4e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10Y\u20132Y Treasury yield spread (FRED: T10Y2Y) will reach at or above -0.10 percentage points on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 27,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "FRED series T10Y2Y shows a daily close >= -0.10 on any date through 2025-11-30.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/T10Y2Y",
+        "https://www.marketwatch.com/story/this-stock-market-rally-isnt-letting-up-could-it-be-making-investors-too-greedy-ahead-of-year-end-68245a95"
+      ],
+      "monitoring_signals": [
+        "Fed communications and cut expectations",
+        "Inflation prints (CPI/PCE) vs. expectations",
+        "Term premium estimates and Treasury supply",
+        "Risk-on equity tone aiding long-end demand"
+      ],
+      "rationale": "A risk-on rally and benign inflation could drive incremental steepening toward un-inversion.",
+      "id": "35b98445-cee9-4ae3-a7a2-56c567f1a004",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Freddie Mac PMMS 30-year fixed mortgage rate will print at or below 7.00% in at least one weekly survey by 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 27,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Freddie Mac PMMS weekly U.S. 30-year fixed mortgage rate is <= 7.00% in an official release before or on 2025-11-30.",
+      "evidence": [
+        "https://www.freddiemac.com/pmms",
+        "https://fred.stlouisfed.org/series/DGS10"
+      ],
+      "monitoring_signals": [
+        "10-year Treasury yield trend",
+        "MBS spreads (current-coupon OAS)",
+        "Mortgage application volumes (MBA)",
+        "Primary\u2013secondary mortgage rate spread"
+      ],
+      "rationale": "Falling long-end yields and stable MBS spreads could pull mortgage rates to 7%.",
+      "id": "a183bbd5-5f86-4ed9-a4b3-0dae41285a5d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, OPEC+ will formally announce a December 2025 crude supply increase between 0.2 and 0.6 million bpd versus November levels.",
+      "category": "energy",
+      "horizon_days": 27,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Official OPEC/OPEC+ communiqu\u00e9 or press release specifies an aggregate December increase of 0.2\u20130.6 mb/d from November.",
+      "evidence": [
+        "https://www.marketwatch.com/story/opec-to-pause-output-hikes-in-first-quarter-to-ease-fears-of-glut-after-one-more-boost-in-december-b04efd32",
+        "https://www.opec.org/opec_web/en/press_room/press_room.htm"
+      ],
+      "monitoring_signals": [
+        "Leaked quota discussions via energy media",
+        "OPEC JMMC/JTC briefings",
+        "OECD inventory trends and time spreads",
+        "Demand revisions (IEA/OPEC/EIA)"
+      ],
+      "rationale": "Signals point to a modest December boost followed by a Q1 pause to manage balances.",
+      "id": "cc2db0ee-0026-463b-b50e-a07e5672a3e8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures (CL) will settle at or above $86.00 per barrel on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 27,
+      "deadline": "2025-11-30",
+      "confidence_pct": 42,
+      "verification_criteria": "CME Group official settlement for the front-month WTI (CL) contract is >= $86.00 on any trading day by 2025-11-30.",
+      "evidence": [
+        "https://www.marketwatch.com/story/opec-to-pause-output-hikes-in-first-quarter-to-ease-fears-of-glut-after-one-more-boost-in-december-b04efd32",
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.quotes.html"
+      ],
+      "monitoring_signals": [
+        "OPEC+ guidance and compliance",
+        "U.S. crude inventories and exports",
+        "Brent\u2013WTI spread dynamics",
+        "Geopolitical supply disruptions"
+      ],
+      "rationale": "Potential supply discipline and geopolitics support a test of the high-$80s.",
+      "id": "d436b672-8b53-451a-aa65-f55ef6291e14",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "KRX KOSPI Index (^KS11) will close at or above 2,550.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 27,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "verification_criteria": "Official Korea Exchange close for the KOSPI index is >= 2,550.0 on any trading day by 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/03/asia-pacific-markets-trade-mixed-ahead-of-pmi-data-from-china.html",
+        "https://global.krx.co.kr/contents/GLB/05/0501/0501020100/GLB0501020100.jsp"
+      ],
+      "monitoring_signals": [
+        "Semiconductor cycle indicators (memory pricing)",
+        "China growth and PMI surprises",
+        "KRW exchange rate vs. USD",
+        "Foreign net equity flows into Korea"
+      ],
+      "rationale": "Regional risk appetite and chip-cycle optimism can lift Korea\u2019s benchmark.",
+      "id": "fe197083-4b9b-48a2-8dd4-cb431b1d9d1f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, China\u2019s MOFCOM will publish an official notice easing at least one rare-earth export restriction introduced in 2024\u20132025.",
+      "category": "geopolitics",
+      "horizon_days": 27,
+      "deadline": "2025-11-30",
+      "confidence_pct": 58,
+      "verification_criteria": "An official MOFCOM announcement/notice reduces or removes a rare-earth export control (e.g., licensing/catalogue restriction) added in 2024\u20132025; publication date on or before 2025-11-30.",
+      "evidence": [
+        "https://techcrunch.com/2025/11/02/china-is-rolling-back-rare-earth-mineral-restrictions-white-house-saus/",
+        "http://www.mofcom.gov.cn/"
+      ],
+      "monitoring_signals": [
+        "Draft measures posted for comment",
+        "State media signaling policy relaxation",
+        "U.S.\u2013China trade dialogues readouts",
+        "Domestic EV/tech supply-chain policy shifts"
+      ],
+      "rationale": "Reporting indicates a tactical rollback to ease supply-chain strains and reduce tensions.",
+      "id": "66865c48-5bea-4fe6-90d3-bb76e3116631",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan 5-year inflation expectations (preliminary) for November 2025 will print between 2.8% and 3.2%.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "verification_criteria": "UMich Surveys of Consumers preliminary November release shows the 5-year inflation expectations measure in [2.8%, 3.2%].",
+      "evidence": [
+        "https://www.marketwatch.com/story/corporate-americas-hefty-profit-streak-continues-amid-worries-over-job-market-e2a81764",
+        "http://www.sca.isr.umich.edu/"
+      ],
+      "monitoring_signals": [
+        "Gasoline price movements",
+        "Shelter inflation trajectory",
+        "Labor market headlines and layoff announcements",
+        "Tariff and food price news flow"
+      ],
+      "rationale": "Long-run expectations have been range-bound, with mixed price signals likely keeping them near 3%.",
+      "id": "1f85e30e-db20-4de9-8ede-bb4ab03ba64c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
