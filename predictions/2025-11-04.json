@@ -1,0 +1,293 @@
+{
+  "date": "2025-11-04",
+  "predictions": [
+    {
+      "text": "Gold (XAUUSD spot) will trade at or above $2,450 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 26,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "log_odds": -0.16,
+      "verification_criteria": "Any reputable price feed (e.g., Yahoo Finance: XAUUSD=X, TradingView, Bloomberg) shows XAUUSD high >= 2450.00 on a UTC calendar day by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/03/rare-earths-stocks-boom-as-the-global-critical-mineral-race-heats-up.html",
+        "https://www.cnbc.com/2025/11/03/fed-governor-lisa-cook-in-first-policy-speech-since-trump-suit-says-shes-undecided-on-dec-rate-cut.html",
+        "https://finance.yahoo.com/quote/XAUUSD%3DX"
+      ],
+      "monitoring_signals": [
+        "US real 10y yield (TIPS) moves",
+        "DXY level and direction",
+        "Geopolitical risk spikes (Middle East, East Asia)",
+        "ETF flows into GLD/IAU",
+        "CFTC gold futures positioning"
+      ],
+      "rationale": "Softening real yields and episodic risk aversion can lift gold to fresh highs even amid mixed macro data.",
+      "id": "344d1faf-d120-410b-927c-49cdbe3853f7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE BofA US High Yield Option-Adjusted Spread (FRED: BAMLH0A0HYM2) will close at or above 4.75% on at least one day by 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 26,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2,
+      "verification_criteria": "FRED series BAMLH0A0HYM2 daily close shows value >= 4.75% by the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+        "https://www.cnbc.com/2025/11/03/palantir-pltr-q3-earnings-2025.html",
+        "https://www.cnbc.com/2025/11/03/fed-governor-lisa-cook-in-first-policy-speech-since-trump-suit-says-shes-undecided-on-dec-rate-cut.html"
+      ],
+      "monitoring_signals": [
+        "VIX and MOVE index spikes",
+        "High-yield ETF (HYG, JNK) price/flow weakness",
+        "Macro downside surprises (jobs, ISM)",
+        "Shutdown duration and fiscal uncertainty",
+        "Primary HY issuance tone and concessions"
+      ],
+      "rationale": "Growth jitters and policy uncertainty can prompt a temporary risk-off widening in credit spreads.",
+      "id": "4d58c03b-33ac-490b-8f1e-3c7cec49b916",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "PHLX Semiconductor Index (SOX) will close at or above 5,300 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 26,
+      "deadline": "2025-11-30",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Nasdaq PHLX official close of SOX index >= 5300.0 on any trading day before deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/03/open-ai-amazon-aws-cloud-deal.html",
+        "https://techcrunch.com/2025/11/03/microsofts-15-2b-uae-investment-turns-gulf-state-into-test-case-for-us-ai-diplomacy/",
+        "https://indexes.nasdaq.com/docs/Nasdaq-Methodology-Phlx-Semiconductor-Index.pdf"
+      ],
+      "monitoring_signals": [
+        "NVIDIA/TSMC/AMD guidance and orders",
+        "Memory pricing trends",
+        "AI capex announcements by hyperscalers",
+        "US\u2013China export control developments",
+        "US 10y yield direction (duration sensitivity)"
+      ],
+      "rationale": "AI capex momentum supports semis; however, rates and export controls temper upside, keeping odds near-balanced.",
+      "id": "97595ceb-c034-47a6-895f-5204f4ddbd2d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. AAA national average regular gasoline will be at or below $3.15/gal in at least one daily reading by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 26,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "AAA Gas Prices daily national average regular shown at https://gasprices.aaa.com/ is <= $3.15 on any date by the deadline.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.cnbc.com/2025/11/03/ford-hyundai-ev-sales.html",
+        "https://ir.eia.gov/wpsr/overview.pdf"
+      ],
+      "monitoring_signals": [
+        "NY Harbor RBOB futures and crack spreads",
+        "EIA weekly gasoline inventories and demand",
+        "Refinery utilization and unplanned outages",
+        "Seasonal blends and regional price dispersion",
+        "Crude benchmarks (WTI/Brent) trajectory"
+      ],
+      "rationale": "Seasonal demand fade, steady refinery runs, and softer crude should pressure retail gasoline lower into late November.",
+      "id": "a131bb0f-48dd-4857-8f23-76da9365856c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe SKEW Index will close at or below 120.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 26,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Cboe reported daily close for SKEW index (SKEW) is <= 120.0 by the deadline.",
+      "evidence": [
+        "https://www.cboe.com/us/indices/dashboard/skew/",
+        "https://www.cnbc.com/2025/11/03/palantir-pltr-q3-earnings-2025.html",
+        "https://www.cnbc.com/2025/11/03/fed-governor-lisa-cook-in-first-policy-speech-since-trump-suit-says-shes-undecided-on-dec-rate-cut.html"
+      ],
+      "monitoring_signals": [
+        "Equity realized volatility vs implied",
+        "Dealer positioning and gamma exposure",
+        "Macro event calendar compression",
+        "VIX term structure flattening",
+        "Liquidity conditions around holidays"
+      ],
+      "rationale": "Periods of complacency and reduced tail-hedging often drive SKEW downticks, especially if markets stabilize post-earnings.",
+      "id": "558c276a-d7e0-4dab-ab79-c5685db58760",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. 3-Month Treasury bill yield (FRED: DGS3MO) will close at or below 5.20% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 26,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "log_odds": -0.24,
+      "verification_criteria": "FRED series DGS3MO daily close <= 5.20% by the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS3MO",
+        "https://www.cnbc.com/2025/11/03/fed-governor-lisa-cook-in-first-policy-speech-since-trump-suit-says-shes-undecided-on-dec-rate-cut.html"
+      ],
+      "monitoring_signals": [
+        "Fed communication on December policy",
+        "Bill supply dynamics and cash-balance plans",
+        "ON RRP usage and repo rates",
+        "Inflation prints (CPI/PCE) into mid-November"
+      ],
+      "rationale": "Incremental pricing of 2026 cuts and supportive funding markets could nudge front-end yields slightly lower.",
+      "id": "f1d6edb5-69a2-462f-84b9-81950c011c50",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "EUR/USD will trade at or above 1.1000 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 26,
+      "deadline": "2025-11-30",
+      "confidence_pct": 43,
+      "log_odds": -0.28,
+      "verification_criteria": "Any reputable FX feed (e.g., Yahoo Finance: EURUSD=X, Refinitiv) shows intraday high >= 1.1000 on a UTC calendar day by the deadline.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/EURUSD%3DX",
+        "https://www.cnbc.com/2025/11/03/fed-governor-lisa-cook-in-first-policy-speech-since-trump-suit-says-shes-undecided-on-dec-rate-cut.html",
+        "https://www.nytimes.com/2025/11/03/business/china-five-year-plan.html"
+      ],
+      "monitoring_signals": [
+        "UST\u2013Bund yield differentials",
+        "ECB vs Fed guidance shifts",
+        "U.S. shutdown/fiscal headlines",
+        "Eurozone data surprises (HICP, PMIs)"
+      ],
+      "rationale": "A softer dollar on moderating U.S. data and steady ECB rhetoric could briefly carry EUR/USD to 1.10.",
+      "id": "b2acade4-ea46-48bc-a798-2bbc47ec1ee6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Ethereum (ETH-USD) will trade at or below $2,700 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 26,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "CoinDesk, CoinMarketCap, or Yahoo Finance (ETH-USD) shows intraday low <= 2700.00 on a UTC day before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/03/ether-falls-9percent-following-a-multimillion-dollar-hack-of-a-decentralized-finance-protocol-.html",
+        "https://finance.yahoo.com/quote/ETH-USD"
+      ],
+      "monitoring_signals": [
+        "On-chain activity and gas fees",
+        "DeFi exploits or large liquidations",
+        "BTC dominance and macro risk sentiment",
+        "Spot ETF flow data (if applicable)"
+      ],
+      "rationale": "Recent downside momentum and episodic DeFi risks raise chances of another leg lower despite broader crypto interest.",
+      "id": "a2742d6d-ea68-4094-8fd7-54e87b7aaf97",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-08, Congress will pass and the President will sign a funding measure (CR or appropriations) that reopens the federal government through at least 2025-11-30.",
+      "category": "geopolitics",
+      "horizon_days": 4,
+      "deadline": "2025-11-08",
+      "confidence_pct": 67,
+      "log_odds": 0.71,
+      "verification_criteria": "Public law enacted and White House signing statement; OMB/OPM guidance indicates shutdown ended and agencies reopen with funding through >= 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/03/snap-trump-food-court-shutdown.html",
+        "https://www.nytimes.com/2025/11/03/us/politics/trump-mamdani-tariffs-shutdown.html"
+      ],
+      "monitoring_signals": [
+        "House/Senate floor schedules and rule filings",
+        "Leadership whips and public whip counts",
+        "CR text and duration leaks",
+        "OMB contingency guidance updates"
+      ],
+      "supersedes_id": "379ee78d-2092-4ee3-85ab-46879c488a87",
+      "rationale": "High political costs of prolonged shutdown and mounting program disruptions increase pressure for a short-term funding patch.",
+      "id": "21277ac9-cd0c-4dcc-a5cc-a31e5b5aa80e",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "ISM Services Employment Index for October 2025 will print between 50.0 and 52.0.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-11-06",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Institute for Supply Management\u2019s October 2025 Services Report shows Employment subindex in [50.0, 52.0].",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/",
+        "https://www.cnbc.com/2025/11/03/fed-governor-lisa-cook-in-first-policy-speech-since-trump-suit-says-shes-undecided-on-dec-rate-cut.html"
+      ],
+      "monitoring_signals": [
+        "ADP services employment trend",
+        "Weekly jobless claims continuing claims",
+        "S&P Global U.S. services PMI employment component",
+        "Business anecdotes on hiring freezes"
+      ],
+      "rationale": "Services hiring likely modest, consistent with cooling labor demand without sharp contraction.",
+      "id": "bb75b784-5a4e-4c6d-8734-366d0bd346fb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI Owners\u2019 Equivalent Rent (OER, MoM, SA) for October 2025 will print between 0.3% and 0.4% in the BLS release due mid-November.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-11-14",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "BLS CPI detailed tables show OER MoM SA change in [0.3%, 0.4%] for October 2025.",
+      "evidence": [
+        "https://www.bls.gov/cpi/",
+        "https://www.cnbc.com/2025/11/03/fed-governor-lisa-cook-in-first-policy-speech-since-trump-suit-says-shes-undecided-on-dec-rate-cut.html"
+      ],
+      "monitoring_signals": [
+        "Zillow Observed Rent Index (new-lease rent growth)",
+        "Apartment List, CoreLogic rent measures",
+        "Shelter CPI diffusion in prior months"
+      ],
+      "rationale": "Lagged pass-through from cooler new-lease rents keeps OER gradually easing but still elevated month-to-month.",
+      "id": "f15356c6-6af8-47ac-b4ed-05629fa34998",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. On-Highway Diesel Fuel (EIA national average) will be at or below $3.95/gal in at least one weekly update by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 26,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "log_odds": 0.04,
+      "verification_criteria": "EIA\u2019s weekly On-Highway Diesel Fuel Prices (U.S. average) shows <= $3.95/gal in any report released by the deadline.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/gasdiesel/",
+        "https://ir.eia.gov/wpsr/overview.pdf",
+        "https://www.cnbc.com/2025/11/03/ford-hyundai-ev-sales.html"
+      ],
+      "monitoring_signals": [
+        "ULSD futures (NY Harbor) and cracks",
+        "Freight activity indices (e.g., Cass Freight)",
+        "Refinery maintenance/outage reports",
+        "Distillate inventory levels and days of supply"
+      ],
+      "rationale": "Seasonal softness and adequate distillate stocks can pull retail diesel modestly lower absent refinery disruptions.",
+      "id": "7669e1bf-fc7c-4236-bfdd-714ab227e99e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

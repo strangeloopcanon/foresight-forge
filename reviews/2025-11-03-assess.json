@@ -1,0 +1,55 @@
+{
+  "date": "2025-11-03",
+  "assessments": [
+    {
+      "id": "d62d342b-fcbe-4304-982d-bd802ad20334",
+      "status": "pending",
+      "status_rationale": "No report of the CNN Fear & Greed Index hitting \u226575 in today\u2019s coverage, and the window remains open through 2025-11-30."
+    },
+    {
+      "id": "5130ab1b-af9c-46fd-9c21-33de334574b1",
+      "status": "pending",
+      "status_rationale": "The October 2025 Retail Sales Control Group print has not been released and is not referenced in the news; deadline is 2025-11-15."
+    },
+    {
+      "id": "8debd411-07b0-4644-a439-320a0d460a4e",
+      "status": "pending",
+      "status_rationale": "October 2025 headline PPI data are not yet published; no values appear in today\u2019s news; deadline is 2025-11-14."
+    },
+    {
+      "id": "35b98445-cee9-4ae3-a7a2-56c567f1a004",
+      "status": "pending",
+      "status_rationale": "No cited level for the 10Y\u20132Y Treasury spread; articles do not indicate a move to \u2265-0.10 pp; the timeframe remains open."
+    },
+    {
+      "id": "a183bbd5-5f86-4ed9-a4b3-0dae41285a5d",
+      "status": "pending",
+      "status_rationale": "No Freddie Mac PMMS weekly rate update is mentioned; outcome could still occur by 2025-11-30."
+    },
+    {
+      "id": "cc2db0ee-0026-463b-b50e-a07e5672a3e8",
+      "status": "pending",
+      "status_rationale": "No OPEC+ announcement on December 2025 supply was reported; the decision window is still open."
+    },
+    {
+      "id": "d436b672-8b53-451a-aa65-f55ef6291e14",
+      "status": "pending",
+      "status_rationale": "WTI front-month settlement levels were not cited; no evidence of a \u2265$86 settle; timeframe remains open."
+    },
+    {
+      "id": "fe197083-4b9b-48a2-8dd4-cb431b1d9d1f",
+      "status": "pending",
+      "status_rationale": "While Asia markets were discussed, no specific KOSPI close is given; no confirmation of \u22652,550; deadline not reached."
+    },
+    {
+      "id": "66865c48-5bea-4fe6-90d3-bb76e3116631",
+      "status": "pending",
+      "status_rationale": "No MOFCOM notice easing rare-earth export restrictions appears in the coverage; still before the 2025-11-30 deadline."
+    },
+    {
+      "id": "1f85e30e-db20-4de9-8ede-bb4ab03ba64c",
+      "status": "pending",
+      "status_rationale": "University of Michigan November preliminary 5-year inflation expectations have not been released; deadline is 2025-11-15."
+    }
+  ]
+}

@@ -971,3 +971,12 @@ On commodities, the report that OPEC+ plans one more output boost in December an
 
 ---
 
+
+## 2025-11-03
+
+Today’s news flow is dominated by U.S. politics, legal challenges, and several notable corporate developments (Amazon–OpenAI, Kimberly-Clark–Kenvue, Starbucks China JV). None of the items provide definitive data releases or market levels needed to resolve the listed forecasts. Macroeconomic prints (Retail Sales Control Group, PPI, Michigan expectations) have not been published yet, and there is no concrete reporting on yield curve levels, PMMS mortgage rates, oil settlements, or OPEC+ supply decisions.
+
+Market tone appears mixed: U.S. mega-cap tech tailwinds contrast with weaker Asia sessions. While such sentiment shifts could influence the Fear & Greed Index, Treasury curve dynamics, and risk assets, there is no hard evidence in today’s coverage to change statuses. Similarly, China-related pieces discuss structural decoupling and corporate strategy rather than policy moves on rare-earth exports. Given the open windows and lack of decisive updates, all forecasts remain pending.
+
+---
+

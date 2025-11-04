@@ -20,7 +20,7 @@
       ],
       "rationale": "Risk appetite is elevated amid a strong equity rally and robust profits, pushing sentiment toward greed.",
       "id": "d62d342b-fcbe-4304-982d-bd802ad20334",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Tariff-related pressures and mixed consumer tailwinds point to a flat control-group print.",
       "id": "5130ab1b-af9c-46fd-9c21-33de334574b1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Goods disinflation offset by steady services suggests a modest headline PPI outcome.",
       "id": "8debd411-07b0-4644-a439-320a0d460a4e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "A risk-on rally and benign inflation could drive incremental steepening toward un-inversion.",
       "id": "35b98445-cee9-4ae3-a7a2-56c567f1a004",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -107,7 +107,7 @@
       ],
       "rationale": "Falling long-end yields and stable MBS spreads could pull mortgage rates to 7%.",
       "id": "a183bbd5-5f86-4ed9-a4b3-0dae41285a5d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -129,7 +129,7 @@
       ],
       "rationale": "Signals point to a modest December boost followed by a Q1 pause to manage balances.",
       "id": "cc2db0ee-0026-463b-b50e-a07e5672a3e8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "rationale": "Potential supply discipline and geopolitics support a test of the high-$80s.",
       "id": "d436b672-8b53-451a-aa65-f55ef6291e14",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -173,7 +173,7 @@
       ],
       "rationale": "Regional risk appetite and chip-cycle optimism can lift Korea\u2019s benchmark.",
       "id": "fe197083-4b9b-48a2-8dd4-cb431b1d9d1f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -195,7 +195,7 @@
       ],
       "rationale": "Reporting indicates a tactical rollback to ease supply-chain strains and reduce tensions.",
       "id": "66865c48-5bea-4fe6-90d3-bb76e3116631",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -217,7 +217,7 @@
       ],
       "rationale": "Long-run expectations have been range-bound, with mixed price signals likely keeping them near 3%.",
       "id": "1f85e30e-db20-4de9-8ede-bb4ab03ba64c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
