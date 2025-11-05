@@ -1,0 +1,270 @@
+{
+  "date": "2025-11-05",
+  "predictions": [
+    {
+      "text": "U.S. nonfarm payrolls (total, SA) for October 2025 will print between +130,000 and +190,000 in the BLS Employment Situation release due 2025-11-07.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-11-08",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify the October 2025 change in total nonfarm payroll employment (seasonally adjusted) in the BLS Employment Situation news release; success if the reported change is within +130,000 to +190,000.",
+      "evidence": [
+        "https://www.bls.gov/news.release/empsit.nr0.htm",
+        "https://www.cnbc.com/2025/11/04/job-openings-in-october-slumped-to-the-lowest-level-since-early-february-indeed-measure-shows.html"
+      ],
+      "monitoring_signals": [
+        "ADP National Employment Report",
+        "Initial and continuing jobless claims",
+        "ISM Manufacturing and Services Employment indices",
+        "Challenger layoffs report"
+      ],
+      "rationale": "Cooling labor demand and soft survey employment subindices suggest a below-trend NFP but not a collapse.",
+      "id": "2fb1a53d-668f-405c-b53d-99254cdc5dac",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. insured unemployment (continuing claims, seasonally adjusted) will print at or above 1.90 million in at least one weekly Department of Labor report by 2025-11-30.",
+      "category": "macro",
+      "horizon_days": 25,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Success if any Weekly UI Claims news release through 2025-11-30 reports seasonally adjusted continuing claims at or above 1,900,000 for any reference week.",
+      "evidence": [
+        "https://www.dol.gov/ui/data.pdf",
+        "https://www.dol.gov/newsroom/releases/eta",
+        "https://www.cnbc.com/2025/11/04/job-openings-in-october-slumped-to-the-lowest-level-since-early-february-indeed-measure-shows.html"
+      ],
+      "monitoring_signals": [
+        "Initial claims four-week average trend",
+        "Hiring freeze announcements and layoff trackers",
+        "NFIB hiring plans and difficulty filling jobs",
+        "Indeed job postings index"
+      ],
+      "rationale": "Hiring has cooled and separations are rising gradually; continued softening should lift continuing claims.",
+      "id": "4269dde3-6dff-46ec-9055-66a5ff526d69",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or below $88,000 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 25,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "verification_criteria": "Success if the intraday low on any UTC day is \u2264 $88,000 per Coinbase BTC-USD, CoinDesk XBX Index, or Bloomberg consolidated crypto pricing.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/04/bitcoins-november-sell-off-worsens-as-investors-take-risk-off-on-worries-about-the-ai-trade-.html"
+      ],
+      "monitoring_signals": [
+        "Stablecoin net flows and BTC ETF net creations/redemptions",
+        "Funding rates and perpetual futures basis",
+        "Dollar index (DXY) and real yields",
+        "Risk-off equity moves and crypto liquidations data"
+      ],
+      "rationale": "Risk-off and tighter liquidity raise downside tail risks after a large run-up; volatility remains elevated.",
+      "id": "944453fb-abe4-4bd6-bffc-a603f0ea664c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "PHLX Semiconductor Index (SOX) will close at or below 4,600 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 25,
+      "deadline": "2025-11-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Success if the official daily closing level of the SOX index is \u2264 4,600 on any trading day by 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/05/softbank-ai-stocks-slide-on-valuation-jitters-.html",
+        "https://www.nasdaq.com/market-activity/quotes/nasdaq-omx/sox"
+      ],
+      "monitoring_signals": [
+        "AI server order revisions and memory pricing",
+        "Export controls and chip sanctions headlines",
+        "10Y Treasury yield and equity risk premium",
+        "Earnings/guide from NVDA, TSMC, ASML, AMD"
+      ],
+      "rationale": "Valuation sensitivity to yields and AI cycle wobbles creates drawdown risk in semis.",
+      "id": "0b169ae1-6441-4525-9183-94536f6fb38b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or above 4.75% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 25,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Verify using FRED series DGS10 daily close; success if any observation through 2025-11-30 is \u2265 4.75%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.cnbc.com/2025/11/04/government-shutdown-trump-senate.html"
+      ],
+      "monitoring_signals": [
+        "Treasury auction tails and bid-to-cover ratios",
+        "CPI/PPI/PCE prints and inflation breakevens",
+        "MOVE index and term premium estimates",
+        "Fiscal headlines (shutdown, issuance mix)"
+      ],
+      "rationale": "Term premium and supply risks could push yields higher during risk-off or weak auctions.",
+      "id": "7d69c79f-74ba-4225-a7f6-6db3c5bc16de",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or above \u20ac45.00/MWh on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 25,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Success if ICE Endex official front-month TTF settlement price is \u2265 \u20ac45.00/MWh on any trading day through 2025-11-30.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://www.ecmwf.int/en/forecasts"
+      ],
+      "monitoring_signals": [
+        "ECMWF/NOAA temperature anomalies for NW Europe",
+        "LNG arrival schedules and FSRU availability",
+        "Norwegian/UKCS outages and Russian flows via Ukraine",
+        "European storage levels and withdrawal rates"
+      ],
+      "rationale": "Early-winter cold snaps and supply hiccups can trigger sharp TTF spikes even from comfortable storage levels.",
+      "id": "4d203df0-2793-4549-bb31-875efce5b6c2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, the UN Security Council will adopt a resolution explicitly authorizing a Gaza stabilization or peacekeeping force with a mandate of at least 12 months.",
+      "category": "geopolitics",
+      "horizon_days": 25,
+      "deadline": "2025-11-30",
+      "confidence_pct": 20,
+      "verification_criteria": "Success if the UNSC formally adopts a resolution (S/RES/####) that authorizes a multinational force in Gaza with a mandate \u226512 months, per UN press releases or meeting records.",
+      "evidence": [
+        "https://www.nytimes.com/2025/11/04/world/middleeast/un-mandate-gaza-force.html",
+        "https://press.un.org/en"
+      ],
+      "monitoring_signals": [
+        "UNSC agenda and draft text circulation",
+        "Positions of permanent members (US, China, Russia, France, UK)",
+        "Regional diplomacy (Egypt, Qatar, Israel, Palestinian Authority)",
+        "Ceasefire/hostilities developments"
+      ],
+      "rationale": "Substantial veto risk and unresolved political questions make rapid UNSC authorization unlikely.",
+      "id": "2399ce13-87d5-48f3-94f9-5907f4e6243b",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "By 2025-11-30, Sudan will experience at least one nationwide or multi-region internet blackout lasting 12 or more consecutive hours, as reported by NetBlocks or Cloudflare Radar.",
+      "category": "geopolitics",
+      "horizon_days": 25,
+      "deadline": "2025-11-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Success if NetBlocks or Cloudflare Radar publishes a report showing Sudan\u2019s internet connectivity disrupted across major regions or nationally for \u226512 consecutive hours within the window.",
+      "evidence": [
+        "https://www.nytimes.com/2025/11/04/world/africa/sudan-civil-war.html",
+        "https://netblocks.org/",
+        "https://radar.cloudflare.com/sd"
+      ],
+      "monitoring_signals": [
+        "Conflict intensity and clashes in Khartoum/Darfur",
+        "Reports of infrastructure damage or deliberate shutdowns",
+        "Telecom operator advisories",
+        "Humanitarian/security updates from UN/OCHA"
+      ],
+      "rationale": "Escalating conflict increases the odds of deliberate or incidental network disruptions.",
+      "id": "f2525df6-e256-46c2-8acb-64b6b8e77acc",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, the U.S. Department of Homeland Security will publish in the Federal Register a Notice of Proposed Rulemaking to expand biometric collection to include at least one of iris scans or DNA.",
+      "category": "tech",
+      "horizon_days": 25,
+      "deadline": "2025-11-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Success if a DHS/USCIS/CBP NPRM appears in the Federal Register proposing expanded biometric modalities (explicitly iris and/or DNA).",
+      "evidence": [
+        "https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
+        "https://www.federalregister.gov/agencies/department-of-homeland-security"
+      ],
+      "monitoring_signals": [
+        "OIRA/OMB reg agenda updates",
+        "DHS press releases or blog posts",
+        "Federal Register proposed rule notices",
+        "Congressional oversight statements"
+      ],
+      "rationale": "Public DHS signaling suggests near-term movement to formalize expanded biometrics via rulemaking.",
+      "id": "0bb27efe-0598-4ae7-a959-a4052d7cf7fc",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Cboe Nasdaq-100 Volatility Index (VXN) will close at or above 25.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 25,
+      "deadline": "2025-11-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Success if the official Cboe-reported daily close for VXN is \u2265 25.00 on any trading day by 2025-11-30.",
+      "evidence": [
+        "https://www.cboe.com/us/indices/dashboard/vxn/",
+        "https://www.cnbc.com/2025/11/05/softbank-ai-stocks-slide-on-valuation-jitters-.html"
+      ],
+      "monitoring_signals": [
+        "Mega-cap tech earnings/guides and AI demand signals",
+        "Rates volatility (MOVE) and term premium",
+        "Large downside gaps in QQQ/Nasdaq-100",
+        "Skew and VVIX dynamics"
+      ],
+      "rationale": "AI-led tech weakness and macro uncertainty can spike Nasdaq-focused implied volatility.",
+      "id": "5d7e8825-287f-4919-af30-4327d1f37af4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "As of 2025-11-10 00:00 UTC, a lapse in U.S. federal appropriations will still be in effect (the government shutdown will not yet have ended).",
+      "category": "geopolitics",
+      "horizon_days": 5,
+      "deadline": "2025-11-10",
+      "confidence_pct": 33,
+      "verification_criteria": "Success if, by 2025-11-10 00:00 UTC, no continuing resolution or appropriations law has been enacted and OMB has not issued guidance ending the shutdown, as confirmed by OMB and major outlets.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/04/government-shutdown-trump-senate.html",
+        "https://www.whitehouse.gov/omb/legislative/appropriations/"
+      ],
+      "monitoring_signals": [
+        "House/Senate floor schedule and CR text",
+        "White House statements and OMB memos",
+        "Senate cloture votes and whip counts",
+        "Agency contingency plan updates"
+      ],
+      "rationale": "Political gridlock risks slippage beyond the near-term deadline despite pressure to end the shutdown.",
+      "id": "29ce7fb9-b871-4d15-baec-8f58a206d7fc",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "CME Henry Hub natural gas front-month futures (NG) will settle at or below $2.80 per MMBtu on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 25,
+      "deadline": "2025-11-30",
+      "confidence_pct": 37,
+      "verification_criteria": "Success if the official CME/NYMEX settlement for the front-month NG contract is \u2264 $2.80/MMBtu on any trading day by 2025-11-30.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.html",
+        "https://www.ecmwf.int/en/forecasts"
+      ],
+      "monitoring_signals": [
+        "U.S. weather HDDs vs normal",
+        "EIA weekly storage and balances",
+        "Production and pipeline maintenance updates",
+        "LNG feedgas flows and export terminal status"
+      ],
+      "rationale": "Mild weather, high storage, and strong production could briefly pressure front-month gas below $2.80.",
+      "id": "614c5970-51f5-4397-a1ef-2708f25b0bfa",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

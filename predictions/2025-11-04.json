@@ -23,7 +23,7 @@
       ],
       "rationale": "Softening real yields and episodic risk aversion can lift gold to fresh highs even amid mixed macro data.",
       "id": "344d1faf-d120-410b-927c-49cdbe3853f7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -48,7 +48,7 @@
       ],
       "rationale": "Growth jitters and policy uncertainty can prompt a temporary risk-off widening in credit spreads.",
       "id": "4d58c03b-33ac-490b-8f1e-3c7cec49b916",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -73,7 +73,7 @@
       ],
       "rationale": "AI capex momentum supports semis; however, rates and export controls temper upside, keeping odds near-balanced.",
       "id": "97595ceb-c034-47a6-895f-5204f4ddbd2d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "Seasonal demand fade, steady refinery runs, and softer crude should pressure retail gasoline lower into late November.",
       "id": "a131bb0f-48dd-4857-8f23-76da9365856c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "rationale": "Periods of complacency and reduced tail-hedging often drive SKEW downticks, especially if markets stabilize post-earnings.",
       "id": "558c276a-d7e0-4dab-ab79-c5685db58760",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Incremental pricing of 2026 cuts and supportive funding markets could nudge front-end yields slightly lower.",
       "id": "f1d6edb5-69a2-462f-84b9-81950c011c50",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -170,7 +170,7 @@
       ],
       "rationale": "A softer dollar on moderating U.S. data and steady ECB rhetoric could briefly carry EUR/USD to 1.10.",
       "id": "b2acade4-ea46-48bc-a798-2bbc47ec1ee6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -193,7 +193,7 @@
       ],
       "rationale": "Recent downside momentum and episodic DeFi risks raise chances of another leg lower despite broader crypto interest.",
       "id": "a2742d6d-ea68-4094-8fd7-54e87b7aaf97",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -217,7 +217,7 @@
       "supersedes_id": "379ee78d-2092-4ee3-85ab-46879c488a87",
       "rationale": "High political costs of prolonged shutdown and mounting program disruptions increase pressure for a short-term funding patch.",
       "id": "21277ac9-cd0c-4dcc-a5cc-a31e5b5aa80e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -240,7 +240,7 @@
       ],
       "rationale": "Services hiring likely modest, consistent with cooling labor demand without sharp contraction.",
       "id": "bb75b784-5a4e-4c6d-8734-366d0bd346fb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -262,7 +262,7 @@
       ],
       "rationale": "Lagged pass-through from cooler new-lease rents keeps OER gradually easing but still elevated month-to-month.",
       "id": "f15356c6-6af8-47ac-b4ed-05629fa34998",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -286,7 +286,7 @@
       ],
       "rationale": "Seasonal softness and adequate distillate stocks can pull retail diesel modestly lower absent refinery disruptions.",
       "id": "7669e1bf-fc7c-4236-bfdd-714ab227e99e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
