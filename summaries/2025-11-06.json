@@ -1,0 +1,122 @@
+{
+  "bullets": [
+    {
+      "text": "Fed finalizes revised supervisory rating framework for large bank holding companies, tightening assessment of governance, capital planning, and liquidity risk.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251105a.htm"
+    },
+    {
+      "text": "Supreme Court justices skeptical of Trump-era tariffs, signaling potential limits on presidential trade powers that could reduce future import costs and inflation.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/05/supreme-court-trump-trade-tarrifs-vos.html"
+    },
+    {
+      "text": "Retailers raising prices to pass tariffs; Amazon hiking more than rivals, adding near-term inflation pressure for consumers.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/05/amazon-target-walmart-raising-prices-tariffs.html"
+    },
+    {
+      "text": "FAA cutting flight capacity 10% at 40 major airports amid shutdown; controller union warns recovery will take weeks, pressuring airlines and travel.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html"
+    },
+    {
+      "text": "Elections suggest Trump\u2019s advantage on the economy is slipping; GOP blames shutdown for losses, signaling voter sensitivity to economic disruptions.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/11/05/us/politics/trump-elections-economy-inflation.html"
+    },
+    {
+      "text": "Australia\u2019s solar boom will deliver free electricity periods to millions in 2026, highlighting grid impacts of high renewable penetration.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://techcrunch.com/2025/11/05/millions-to-receive-free-electricity-in-2026-thanks-to-australias-solar-boom/"
+    },
+    {
+      "text": "Novo Nordisk trims weight-loss drug growth outlook amid pricing pressures, tempering GLP-1 demand expectations and sector valuations.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/05/wegovy-ozempic-maker-novo-nordisk-q3-earnings.html"
+    },
+    {
+      "text": "Qualcomm beats on earnings and revenue with strong forecast, but a sizable tax charge dents profit; AI handset and PC demand remains a tailwind.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/05/qualcomm-qcom-q4-2025-earnings-report.html"
+    },
+    {
+      "text": "Arm posts another billion-dollar quarter and ramps AI investments, underscoring sustained demand for compute IP across data center and edge.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/arm-steps-up-its-ai-investments-as-it-cashes-in-on-another-billion-dollar-quarter-8bde856e"
+    },
+    {
+      "text": "Snap jumps on strong outlook and $400 million Perplexity partnership, highlighting crossover between AI search and ad-driven social platforms.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/05/snap-q3-earnings-report-2025.html"
+    },
+    {
+      "text": "Ripple raises $500 million at $40 billion valuation, signaling renewed investor confidence in crypto-enabled payments and fintech infrastructure.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/05/ripple-gets-40-billion-valuation-after-500-million-funding-round.html"
+    },
+    {
+      "text": "Google cleared to acquire Wiz for $32B, strengthening cloud security stack ahead of anticipated AI platform competition.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/05/google-gets-the-us-governments-green-light-to-acquire-wiz-for-32b/"
+    },
+    {
+      "text": "Norway reviews cybersecurity after hidden remote-access discovered in Chinese-made buses, spotlighting critical-infrastructure supply-chain risks.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/"
+    },
+    {
+      "text": "Six-million-year-old Antarctic ice sample revises Earth\u2019s climate history, improving constraints on past temperatures and atmospheric CO2.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251105050716.htm"
+    },
+    {
+      "text": "New catalyst converts CO2 to fuel faster and cheaper, advancing carbon utilization pathways that could aid decarbonization.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251105050712.htm"
+    }
+  ]
+}

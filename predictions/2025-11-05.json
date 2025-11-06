@@ -20,7 +20,7 @@
       ],
       "rationale": "Cooling labor demand and soft survey employment subindices suggest a below-trend NFP but not a collapse.",
       "id": "2fb1a53d-668f-405c-b53d-99254cdc5dac",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Hiring has cooled and separations are rising gradually; continued softening should lift continuing claims.",
       "id": "4269dde3-6dff-46ec-9055-66a5ff526d69",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Risk-off and tighter liquidity raise downside tail risks after a large run-up; volatility remains elevated.",
       "id": "944453fb-abe4-4bd6-bffc-a603f0ea664c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Valuation sensitivity to yields and AI cycle wobbles creates drawdown risk in semis.",
       "id": "0b169ae1-6441-4525-9183-94536f6fb38b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Term premium and supply risks could push yields higher during risk-off or weak auctions.",
       "id": "7d69c79f-74ba-4225-a7f6-6db3c5bc16de",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Early-winter cold snaps and supply hiccups can trigger sharp TTF spikes even from comfortable storage levels.",
       "id": "4d203df0-2793-4549-bb31-875efce5b6c2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Substantial veto risk and unresolved political questions make rapid UNSC authorization unlikely.",
       "id": "2399ce13-87d5-48f3-94f9-5907f4e6243b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "rationale": "Escalating conflict increases the odds of deliberate or incidental network disruptions.",
       "id": "f2525df6-e256-46c2-8acb-64b6b8e77acc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "rationale": "Public DHS signaling suggests near-term movement to formalize expanded biometrics via rulemaking.",
       "id": "0bb27efe-0598-4ae7-a959-a4052d7cf7fc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "rationale": "AI-led tech weakness and macro uncertainty can spike Nasdaq-focused implied volatility.",
       "id": "5d7e8825-287f-4919-af30-4327d1f37af4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -241,7 +241,7 @@
       ],
       "rationale": "Political gridlock risks slippage beyond the near-term deadline despite pressure to end the shutdown.",
       "id": "29ce7fb9-b871-4d15-baec-8f58a206d7fc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -263,7 +263,7 @@
       ],
       "rationale": "Mild weather, high storage, and strong production could briefly pressure front-month gas below $2.80.",
       "id": "614c5970-51f5-4397-a1ef-2708f25b0bfa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

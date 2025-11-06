@@ -1,0 +1,234 @@
+{
+  "date": "2025-11-06",
+  "predictions": [
+    {
+      "text": "ISM Services PMI (headline) for October 2025 will print between 51.0 and 53.5.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-11-07",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Verify the headline ISM Services PMI for Oct 2025 from the Institute for Supply Management's official release; the value must lie within [51.0, 53.5].",
+      "evidence": [
+        "October services subindices expectations: employment soft, prices firm, new orders resilient (see related forecasts).",
+        "Recent mixed growth signals: resilient consumer, tariff pass-through risk, airline disruptions may weigh modestly."
+      ],
+      "monitoring_signals": [
+        "S&P Global US Services PMI final",
+        "High-frequency card/pos data (Bank of America/Chase)",
+        "Conference Board Consumer Confidence",
+        "Airline capacity/cancellations impact on services activity"
+      ],
+      "rationale": "Mixed but expansionary services momentum with price pressure; shutdown-related disruptions cap upside.",
+      "id": "dddf3ddd-f904-4732-b83f-d0bad4340fc1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Google will close its $32B acquisition of Wiz by 2026-03-31.",
+      "category": "tech",
+      "horizon_days": 145,
+      "deadline": "2026-03-31",
+      "confidence_pct": 66,
+      "log_odds": 0.66,
+      "verification_criteria": "An official closing announcement from Google/Alphabet or Wiz (press release, SEC filing, or corporate blog) confirming transaction completion on or before 2026-03-31.",
+      "evidence": [
+        "Google gets U.S. government\u2019s green light to acquire Wiz for $32B (TechCrunch, 2025-11-05): https://techcrunch.com/2025/11/05/google-gets-the-us-governments-green-light-to-acquire-wiz-for-32b/",
+        "Deal rationale strengthens Google Cloud security amid AI platform competition."
+      ],
+      "monitoring_signals": [
+        "Regulatory clearances in remaining jurisdictions (EU, UK, Israel)",
+        "Any shareholder approvals or closing conditions updates",
+        "Reported deal financing and integration plans from Google Cloud"
+      ],
+      "rationale": "Key U.S. clearance secured; typical remaining approvals and integration planning suggest timely close barring unexpected regulatory delays.",
+      "id": "622e3186-c1d9-45e4-8d3f-46a82c0c8a2a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The TSA 7-day moving average of U.S. checkpoint throughput will be at least 5% below the comparable 2024 7-day average on at least one day by 2025-11-20.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-11-20",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Using TSA daily checkpoint numbers (https://www.tsa.gov/travel/passenger-volumes): compute the 7-day moving average ending each day and compare to the 7-day average ending the same calendar date in 2024. A decline of \u22655% on any day by 2025-11-20 satisfies.",
+      "evidence": [
+        "FAA cutting flight capacity 10% at 40 major airports amid shutdown (CNBC, 2025-11-05): https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html",
+        "Shutdown-related staffing constraints likely to dampen travel volumes near-term."
+      ],
+      "monitoring_signals": [
+        "TSA daily throughput series and 7-day average",
+        "FAA operational advisories and ATC staffing updates",
+        "Flight cancellations/delays (FlightAware)",
+        "Airline schedule changes (OAG, Cirium)"
+      ],
+      "rationale": "Capacity reductions and operational frictions from the shutdown should temporarily suppress throughput versus last year.",
+      "id": "7e120da9-b235-47a9-8ffe-97fd6ef53a4e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-11-06 close to 2025-11-30 close, U.S. Global Jets ETF (JETS) will underperform SPDR S&P 500 ETF (SPY) by at least 2.0 percentage points on an adjusted-close basis.",
+      "category": "markets",
+      "horizon_days": 24,
+      "deadline": "2025-11-30",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Using adjusted closes (e.g., Yahoo Finance), compute total-return percentage change for JETS and SPY from 2025-11-06 close to 2025-11-30 close. JETS return minus SPY return \u2264 -2.0 percentage points.",
+      "evidence": [
+        "FAA capacity cuts and likely prolonged recovery (CNBC, 2025-11-05): https://www.cnbc.com/2025/11/05/faa-cuts-flight-capacity-shutdown.html",
+        "Travel disruptions pressure airline revenues and costs; broad market less affected."
+      ],
+      "monitoring_signals": [
+        "ATC staffing and capacity utilization updates",
+        "Airline guidance revisions and PRASM trends",
+        "Jet fuel prices (Gulf Coast Kero/Jet ULSD differential)",
+        "SPY/JETS relative momentum and options skew"
+      ],
+      "rationale": "Operational constraints and revenue risk likely drag airlines versus broader equities into month-end.",
+      "id": "644ba041-585a-421c-907f-8d8bc989c7cc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 4.40% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 24,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Confirm via FRED DGS2 daily series or U.S. Treasury daily yields that DGS2 closes \u2264 4.40% on any trading day by 2025-11-30.",
+      "evidence": [
+        "Cooling wage growth and contained core inflation forecasts for October support lower front-end yields.",
+        "Shutdown-related growth headwinds and Fed on-hold stance modestly favor duration."
+      ],
+      "monitoring_signals": [
+        "CPI/PPI October prints",
+        "Average Hourly Earnings (Oct) and NFP",
+        "FOMC communications and OIS-implied path",
+        "Auction demand (2Y, 5Y) and term premium proxies"
+      ],
+      "rationale": "Slight downside skew to front-end yields given softening inflation and growth signals.",
+      "id": "66153b2c-6e74-4d7a-a520-833e30069b65",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe VVIX Index will close at or above 100.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 24,
+      "deadline": "2025-11-30",
+      "confidence_pct": 40,
+      "log_odds": -0.41,
+      "verification_criteria": "Using Cboe data or reputable market data sources, confirm any daily close of VVIX \u2265 100.0 by 2025-11-30.",
+      "evidence": [
+        "Policy and macro event cluster (shutdown, CPI, retail sales) can stoke demand for VIX options.",
+        "Recent equity breadth fragility increases tail-hedging propensity."
+      ],
+      "monitoring_signals": [
+        "Term-structure slope (VIX9D/VIX/VXV)",
+        "S&P 500 skew and VVIX intraday spikes",
+        "Macro surprise index and event calendar density",
+        "Dealer gamma positioning"
+      ],
+      "rationale": "Event risk and hedging demand could briefly elevate VIX option volatility.",
+      "id": "182c313c-ca78-4755-a5da-82f51c8f5d7b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "COMEX Copper front-month futures (HG) will settle at or above $4.00 per pound on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 24,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "log_odds": -0.16,
+      "verification_criteria": "Confirm via CME settlement data that the prompt-month HG contract closes \u2265 $4.00/lb on any trading day by 2025-11-30.",
+      "evidence": [
+        "Stabilizing global services activity (e.g., China Caixin Services PMI range) supports demand.",
+        "AI/data center buildouts and grid investment underpin medium-term copper demand."
+      ],
+      "monitoring_signals": [
+        "China credit impulse and property policy headlines",
+        "LME copper stocks and SHFE inventory trends",
+        "USD DXY level and real yields",
+        "Chinese import data for copper concentrates"
+      ],
+      "rationale": "Macro stabilization with tight inventories can lift copper to test $4.00.",
+      "id": "db94eff8-8535-41a7-b04e-37fa4e6f1e06",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Silver (XAGUSD spot) will trade at or above $30.00 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 24,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "log_odds": -0.24,
+      "verification_criteria": "Verify any intraday print of XAGUSD \u2265 $30.00 on TradingView/Bloomberg/Refinitiv during a UTC day by 2025-11-30.",
+      "evidence": [
+        "Potential dip in real yields and softer dollar would support precious metals.",
+        "Industrial demand tailwinds from solar and electronics complement safe-haven flows."
+      ],
+      "monitoring_signals": [
+        "10Y TIPS real yield",
+        "DXY and EURUSD trends",
+        "ETF silver holdings (SLV inflows)",
+        "Solar installation data and panel prices"
+      ],
+      "rationale": "Falling real yields and industrial demand could catalyze a breakout toward $30.",
+      "id": "1a153d62-36b0-4547-9161-cac852fd9d1f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. motor gasoline product supplied (4-week average) will print at or below 8.60 million b/d in at least one EIA Weekly Petroleum Status Report by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 24,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Check EIA Weekly Petroleum Status Report; confirm the 4-week moving average of motor gasoline product supplied \u2264 8.60 mb/d in any report released by 2025-11-30.",
+      "evidence": [
+        "Travel disruptions and seasonal shoulder period typically dampen demand.",
+        "FAA capacity restrictions could further suppress near-term gasoline usage."
+      ],
+      "monitoring_signals": [
+        "EIA weekly demand and implied product supplied",
+        "TSA throughput and airline schedules",
+        "Retail gasoline prices (AAA)",
+        "Regional demand indicators (PADD-level draws)"
+      ],
+      "rationale": "Seasonal slowdown plus travel constraints likely push 4-week average lower.",
+      "id": "7f15c3c7-e46b-44f8-bc53-243ec98f4ed4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "EUR/USD will trade at or below 1.0600 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 24,
+      "deadline": "2025-11-30",
+      "confidence_pct": 41,
+      "log_odds": -0.36,
+      "verification_criteria": "Confirm any intraday print of EURUSD \u2264 1.0600 on a reputable FX data source (Bloomberg/Refinitiv/TradingView) during a UTC day by 2025-11-30.",
+      "evidence": [
+        "Growth and policy divergence risk: U.S. resilience vs. euro area softness.",
+        "Tariff/policy headlines and risk-off flows can lift USD selectively."
+      ],
+      "monitoring_signals": [
+        "U.S.\u2013EU rate differentials (2Y swap spread)",
+        "DXY trajectory",
+        "Euro area PMIs and energy prices",
+        "Risk sentiment (VIX, credit spreads)"
+      ],
+      "rationale": "Modest downside tail for EUR on growth divergence and dollar safety bid.",
+      "id": "9e1adc55-6864-41c7-ab86-a1439c05eb42",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
