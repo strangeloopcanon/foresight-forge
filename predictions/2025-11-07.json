@@ -1,0 +1,277 @@
+{
+  "date": "2025-11-07",
+  "predictions": [
+    {
+      "text": "U.S. CPI (headline, MoM, SA) for October 2025 will print between -0.1% and +0.2% in the BLS release due mid-November.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-11-14",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm the MoM percent change for CPI-U All Items, seasonally adjusted, in the October 2025 CPI news release on bls.gov is within [-0.1%, +0.2%], inclusive.",
+      "evidence": [
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://gasprices.aaa.com/",
+        "https://www.cnbc.com/2025/11/06/job-cuts-in-october-hit-highest-level-for-the-month-in-22-years-challenger-says.html"
+      ],
+      "monitoring_signals": [
+        "Daily AAA national average gasoline prices and weekly EIA gasoline data",
+        "Wholesale used-car prices (Manheim Index) and new/used vehicle CPI components",
+        "Shelter leading indicators (Zillow/OER proxies), and utilities prices",
+        "WTI/Brent crude trends and refining margins",
+        "High-frequency food price trackers"
+      ],
+      "rationale": "Falling fuel prices and softer goods inflation offset sticky shelter, keeping headline CPI subdued.",
+      "id": "8d758805-7f2d-42e1-bfba-e4f9def5d86b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Unemployment Rate (U-3) for October 2025 will print between 4.2% and 4.4% in the Employment Situation report due 2025-11-08.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-11-08",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify the seasonally adjusted U-3 unemployment rate in the October 2025 Employment Situation news release on bls.gov is within [4.2%, 4.4%], inclusive.",
+      "evidence": [
+        "https://www.bls.gov/schedule/news_release/empsit.htm",
+        "https://www.cnbc.com/2025/11/06/job-cuts-in-october-hit-highest-level-for-the-month-in-22-years-challenger-says.html",
+        "https://www.cnbc.com/2025/11/07/softbank-shares-ai-linked-stocks-asia-valuation-concerns.html"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims trend",
+        "Household survey participation rate and employment-population ratio signals",
+        "Regional Fed and ISM employment sub-indexes",
+        "Corporate layoff announcements (Challenger) and hiring freezes"
+      ],
+      "rationale": "Layoff announcements and softer labor demand point to a modest uptick in unemployment without a sharp deterioration.",
+      "id": "3628a9fa-929b-4bf1-b90b-f3e393f765b0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted U.S. Initial Jobless Claims will print at or above 245,000 in at least one weekly Department of Labor release by 2025-11-30.",
+      "category": "macro",
+      "horizon_days": 23,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Check weekly ETA Unemployment Insurance news releases; any SA initial claims figure \u2265245,000 through the 2025-11-30 reference week satisfies.",
+      "evidence": [
+        "https://www.dol.gov/newsroom/releases/eta",
+        "https://oui.doleta.gov/unemploy/claims.asp",
+        "https://www.cnbc.com/2025/11/06/job-cuts-in-october-hit-highest-level-for-the-month-in-22-years-challenger-says.html"
+      ],
+      "monitoring_signals": [
+        "High-frequency layoff announcements and WARN notices",
+        "Continuing claims trajectory vs seasonal norms",
+        "Small business labor demand (NFIB) and online job postings",
+        "Macro shocks from shutdown-related disruptions"
+      ],
+      "rationale": "Elevated layoffs and rising slack raise the odds of at least one higher weekly claims print.",
+      "id": "29a9d3ed-032d-4fd7-bdff-5aa1f45a9b38",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-11-06 close to 2025-11-30 close, Tesla (TSLA) will underperform SPDR S&P 500 ETF (SPY) by at least 5.0 percentage points on an adjusted-close basis.",
+      "category": "markets",
+      "horizon_days": 23,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Using Yahoo Finance adjusted closes for TSLA and SPY, compute percentage change from 2025-11-06 to 2025-11-30. If TSLA change \u2212 SPY change \u2264 \u22125.0 pp, this is true.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/06/tesla-shareholders-musk-pay.html",
+        "https://www.cnbc.com/2025/11/07/softbank-shares-ai-linked-stocks-asia-valuation-concerns.html",
+        "https://finance.yahoo.com/quote/TSLA/",
+        "https://finance.yahoo.com/quote/SPY/"
+      ],
+      "monitoring_signals": [
+        "Legal challenges and governance headlines on Tesla\u2019s pay plan",
+        "EV demand/margin updates and production adjustments at Ford/others",
+        "AI-linked equity risk sentiment and rates volatility",
+        "Options market skew/IV for TSLA vs SPY"
+      ],
+      "rationale": "Governance overhang and EV demand headwinds may weigh on TSLA relative to broad beta.",
+      "id": "7b087b81-9094-4d46-9a03-2abb73c9aa1b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-15, on at least one day, FlightAware will report \u226520% of flights delayed at EWR, LGA, or JFK.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-11-15",
+      "confidence_pct": 58,
+      "verification_criteria": "Confirm via FlightAware\u2019s MiseryMap or airport pages that for any one UTC day through 2025-11-15, the reported percent of delayed flights at EWR, LGA, or JFK is \u226520%. Screenshots or archived reports acceptable.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/06/airport-flight-reductions-faa.html",
+        "https://flightaware.com/miserymap"
+      ],
+      "monitoring_signals": [
+        "FAA traffic management initiatives and NOTAMs",
+        "Northeast U.S. weather forecasts (low ceilings, wind, precip)",
+        "Airline crew availability and ATC staffing updates",
+        "Real-time FlightAware delay percentages for NYC airports"
+      ],
+      "rationale": "FAA cuts plus fall weather elevate delay risk at congested NYC hubs.",
+      "id": "3db0df0c-8f21-4a1a-a405-be8881fdcd78",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Federal Reserve will announce at least one additional formal enforcement action (e.g., consent order, written agreement) by 2025-11-30.",
+      "category": "macro",
+      "horizon_days": 23,
+      "deadline": "2025-11-30",
+      "confidence_pct": 65,
+      "verification_criteria": "Check federalreserve.gov enforcement press releases/updates; any new formal action posted and dated after 2025-11-06 through 2025-11-30 qualifies.",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251106a.htm",
+        "https://www.federalreserve.gov/supervisionreg/enforcement.htm"
+      ],
+      "monitoring_signals": [
+        "Fed enforcement RSS/feed updates",
+        "Emerging bank risk metrics (CRE exposure, liquidity)",
+        "Parallel actions by OCC and FDIC indicating sector pressure",
+        "Earnings 8-Ks referencing supervisory matters"
+      ],
+      "rationale": "Ongoing supervisory pressure on smaller lenders suggests more actions are likely.",
+      "id": "a96ec820-5400-4312-85a0-e207ea924417",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. 5-Year, 5-Year Forward Inflation Expectation Rate (FRED: T5YIFR) will close at or below 2.20% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 23,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Verify on FRED that the daily T5YIFR value is \u22642.20% for any trading day through 2025-11-30.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/T5YIFR",
+        "https://www.cnbc.com/2025/11/06/job-cuts-in-october-hit-highest-level-for-the-month-in-22-years-challenger-says.html"
+      ],
+      "monitoring_signals": [
+        "Headline and core inflation prints (CPI/PCE) vs expectations",
+        "Treasury real yields (TIPS) and breakeven curves",
+        "Growth data (retail sales, ISM) and labor slack indicators",
+        "Fed-speak on inflation progress and policy path"
+      ],
+      "rationale": "Softer growth and cooling inflation can compress long-term inflation expectations.",
+      "id": "3a478be3-9638-4567-aacc-e0c8192ce2ea",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NY Harbor RBOB Gasoline front-month futures (CME: RB) will settle at or below $2.10 per gallon on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 23,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Confirm the official CME settlement for the RB front-month contract is \u2264$2.10/gal on any session through 2025-11-30.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/refined-products/rbob-gasoline.html",
+        "https://gasprices.aaa.com/",
+        "https://www.cnbc.com/2025/11/06/airport-flight-reductions-faa.html"
+      ],
+      "monitoring_signals": [
+        "Crude benchmarks (WTI/Brent) and product cracks",
+        "Refinery utilization and maintenance outages",
+        "Seasonal gasoline demand (EIA product supplied)",
+        "Inventories of gasoline and blending components"
+      ],
+      "rationale": "Seasonal demand slowdown and adequate supply pressure gasoline futures lower.",
+      "id": "3c7c552f-d61f-45cf-b671-77416a862bfe",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "EIA Weekly Natural Gas Storage will show at least one net withdrawal of \u22655 Bcf in a report published by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 23,
+      "deadline": "2025-11-30",
+      "confidence_pct": 62,
+      "verification_criteria": "In EIA\u2019s Weekly Natural Gas Storage Report, any week\u2019s \u2018Net change\u2019 \u2264 -5 Bcf (i.e., withdrawal \u22655 Bcf) through 2025-11-30 satisfies.",
+      "evidence": [
+        "https://www.eia.gov/naturalgas/storage/weekly/"
+      ],
+      "monitoring_signals": [
+        "Heating degree day (HDD) forecasts and actuals",
+        "LNG feedgas levels and pipeline flows",
+        "Appalachia and Permian production trends",
+        "Regional storage levels vs 5-year averages"
+      ],
+      "rationale": "Withdrawal season onset and colder snaps typically yield an early small withdrawal.",
+      "id": "f4ad61ba-71cc-461a-ac5f-5d61fb598050",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-11-30, the U.S. Treasury\u2019s OFAC will announce at least one new Venezuela-related sanctions designation.",
+      "category": "geopolitics",
+      "horizon_days": 23,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Check home.treasury.gov press releases; any new designation under the Venezuela sanctions program dated through 2025-11-30 qualifies.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/venezuela-sanctions",
+        "https://www.nytimes.com/2025/11/06/world/americas/us-military-planes-el-salvador.html"
+      ],
+      "monitoring_signals": [
+        "U.S.\u2013Venezuela diplomatic developments and congressional actions",
+        "Regional security incidents and migration pressures",
+        "Oil sector policy shifts and licensing changes",
+        "State Department and NSC statements"
+      ],
+      "rationale": "Rising regional tensions and policy volatility increase the likelihood of fresh designations.",
+      "id": "f076c302-ab77-480e-8cad-2d90be087499",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, Meta will announce enhanced advertiser verification or disclosure rules targeting scam/fraud ads (e.g., stricter ID checks or certifications) via an official Meta newsroom or policy update.",
+      "category": "tech",
+      "horizon_days": 23,
+      "deadline": "2025-11-30",
+      "confidence_pct": 40,
+      "verification_criteria": "An official Meta newsroom post, policy page, or press release announcing new or tightened verification/disclosure requirements specifically aimed at reducing scam/fraud ads by 2025-11-30.",
+      "evidence": [
+        "https://techcrunch.com/2025/11/06/meta-estimates-that-it-earns-10-of-its-revenue-from-scams-report-says/",
+        "https://about.fb.com/news/"
+      ],
+      "monitoring_signals": [
+        "Regulatory inquiries/complaints from FTC/EU authorities",
+        "Public commitments by Meta on brand safety and integrity",
+        "Policy updates for financial/crypto/political ads",
+        "Industry pressure and advertiser boycotts"
+      ],
+      "rationale": "Heightened scrutiny and reputational risk create pressure for swift ad integrity policy changes.",
+      "id": "73cadb94-d49c-41bd-99fb-a1695401bd48",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Cboe Nasdaq-100 Volatility Index (VXN) will close at or above 28.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 23,
+      "deadline": "2025-11-30",
+      "confidence_pct": 36,
+      "verification_criteria": "Confirm on cboe.com that the official daily closing value of VXN is \u226528.00 for any trading day through 2025-11-30.",
+      "evidence": [
+        "https://www.cboe.com/us/indices/dashboard/vxn/",
+        "https://www.cnbc.com/2025/11/07/softbank-shares-ai-linked-stocks-asia-valuation-concerns.html"
+      ],
+      "monitoring_signals": [
+        "QQQ drawdowns and breadth deterioration in mega-cap tech",
+        "Options skew and term structure steepening in Nasdaq names",
+        "Macro event risk (shutdown, CPI/PPI, retail sales)",
+        "Earnings/newsflow from AI bellwethers"
+      ],
+      "supersedes_id": "5d7e8825-287f-4919-af30-4327d1f37af4",
+      "rationale": "Heightened AI/mega-cap volatility and macro catalysts could push tech vol to episodic spikes.",
+      "id": "0c9dd068-dbe7-48a9-831f-eab30a28fa63",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

@@ -21,7 +21,7 @@
       ],
       "rationale": "Mixed but expansionary services momentum with price pressure; shutdown-related disruptions cap upside.",
       "id": "dddf3ddd-f904-4732-b83f-d0bad4340fc1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Key U.S. clearance secured; typical remaining approvals and integration planning suggest timely close barring unexpected regulatory delays.",
       "id": "622e3186-c1d9-45e4-8d3f-46a82c0c8a2a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -66,7 +66,7 @@
       ],
       "rationale": "Capacity reductions and operational frictions from the shutdown should temporarily suppress throughput versus last year.",
       "id": "7e120da9-b235-47a9-8ffe-97fd6ef53a4e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Operational constraints and revenue risk likely drag airlines versus broader equities into month-end.",
       "id": "644ba041-585a-421c-907f-8d8bc989c7cc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -112,7 +112,7 @@
       ],
       "rationale": "Slight downside skew to front-end yields given softening inflation and growth signals.",
       "id": "66153b2c-6e74-4d7a-a520-833e30069b65",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -135,7 +135,7 @@
       ],
       "rationale": "Event risk and hedging demand could briefly elevate VIX option volatility.",
       "id": "182c313c-ca78-4755-a5da-82f51c8f5d7b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "Macro stabilization with tight inventories can lift copper to test $4.00.",
       "id": "db94eff8-8535-41a7-b04e-37fa4e6f1e06",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "rationale": "Falling real yields and industrial demand could catalyze a breakout toward $30.",
       "id": "1a153d62-36b0-4547-9161-cac852fd9d1f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -204,7 +204,7 @@
       ],
       "rationale": "Seasonal slowdown plus travel constraints likely push 4-week average lower.",
       "id": "7f15c3c7-e46b-44f8-bc53-243ec98f4ed4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -227,7 +227,7 @@
       ],
       "rationale": "Modest downside tail for EUR on growth divergence and dollar safety bid.",
       "id": "9e1adc55-6864-41c7-ab86-a1439c05eb42",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
