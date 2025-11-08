@@ -1,0 +1,217 @@
+{
+  "date": "2025-11-08",
+  "predictions": [
+    {
+      "text": "As of 2025-11-12 00:00 UTC, a lapse in U.S. federal appropriations will still be in effect (no enacted funding measure reopening the government).",
+      "category": "geopolitics",
+      "horizon_days": 4,
+      "deadline": "2025-11-12",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Confirm via OMB/White House announcements, Congressional records, and major agency status pages (e.g., OPM, DHS). A continued shutdown is verified if no law has been enacted restoring appropriations to reopen shuttered agencies by the stated time.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/07/shutdown-means-missed-jobs-report-friday-what-it-probably-would-have-shown.html"
+      ],
+      "monitoring_signals": [
+        "Congressional bill tracker for enacted CR/appropriations",
+        "White House/OMB statements on shutdown status",
+        "Agency contingency-status pages (OPM, DHS, DOI)"
+      ],
+      "supersedes_id": "29ce7fb9-b871-4d15-baec-8f58a206d7fc",
+      "rationale": "Talks remain stalled; missed jobs report underscores unresolved funding. Odds favor continued lapse short-term.",
+      "id": "780fd5c5-837c-4a26-a279-f384e5832bed",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "No FAA-licensed U.S. commercial orbital launches will occur between 2025-11-06 00:00 UTC and 2025-11-20 23:59 UTC.",
+      "category": "tech",
+      "horizon_days": 12,
+      "deadline": "2025-11-20",
+      "confidence_pct": 61,
+      "log_odds": 0.447,
+      "verification_criteria": "Check FAA commercial space license/permit activity and independent launch logs (e.g., NextSpaceflight). If zero FAA-licensed U.S. orbital launches are recorded in this window, the prediction is correct.",
+      "evidence": [
+        "https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown"
+      ],
+      "monitoring_signals": [
+        "FAA commercial space licensing updates",
+        "NextSpaceflight launch log for U.S. orbital attempts",
+        "Provider updates (SpaceX, ULA, Rocket Lab) on schedules"
+      ],
+      "rationale": "Shutdown-driven FAA constraints and staffing risks are delaying commercial launches; providers signaling schedule slips.",
+      "id": "6b98ae29-7785-4432-b554-c4a264ce674d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 4.20% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 22,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "log_odds": -0.16,
+      "verification_criteria": "Verify the DGS2 series on FRED. A daily close value at or below 4.20% on any trading day through 2025-11-30 (UTC) satisfies the condition.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/07/feds-miran-says-stablecoin-surge-could-help-push-interest-rates-lower.html"
+      ],
+      "monitoring_signals": [
+        "Futures-implied Fed path (Fed funds futures)",
+        "Economic surprise indices and shutdown-sensitive data delays",
+        "Auction results and front-end term premium measures"
+      ],
+      "rationale": "Growth jitters, shutdown drag, and easing inflation expectations bias the front end lower.",
+      "id": "28391b76-7e74-4c09-bcfd-49e323e56a14",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "From 2025-11-08 close to 2025-11-30 close, the PHLX Semiconductor Index (SOX) will underperform SPDR S&P 500 ETF (SPY) by at least 2.0 percentage points on an adjusted-close basis.",
+      "category": "markets",
+      "horizon_days": 22,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Compute total return using adjusted closes from 2025-11-08 to 2025-11-30 for SOX and SPY. If SOX return minus SPY return \u2264 -2.0 pp, the prediction is correct.",
+      "evidence": [
+        "https://www.marketwatch.com/story/tech-stocks-are-having-their-worst-week-since-the-april-tariff-selloff-why-its-about-time-6334cbc3?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Semiconductor earnings/guidance and order books",
+        "Tariff/export-control headlines affecting chip supply chains",
+        "Rates/real-yield moves impacting growth multiples"
+      ],
+      "rationale": "Tech-led drawdown, tariff and export-control overhang, and multiple compression risk pressure semis.",
+      "id": "7414427d-f3a2-4543-822b-07e553718968",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, Eli Lilly (LLY) or Novo Nordisk (NVO) will announce at least one new U.S. payer coverage expansion agreement for an obesity drug via company press release or SEC 8-K.",
+      "category": "markets",
+      "horizon_days": 22,
+      "deadline": "2025-11-30",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Confirm a public company press release or SEC 8-K announcing expanded U.S. payer coverage terms for tirzepatide or semaglutide (obesity indication) dated by 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/07/trump-deals-with-lilly-novo-nordisk-could-broaden-obesity-drug-access.html"
+      ],
+      "monitoring_signals": [
+        "LLY and NVO investor relations pages",
+        "Large PBM and insurer policy bulletins (CVS, Elevance, UnitedHealth)",
+        "CMS or HHS guidance referencing anti-obesity meds"
+      ],
+      "rationale": "Policy momentum and negotiations favor near-term coverage expansions to broaden access.",
+      "id": "d8bb39c4-4e56-4f14-957d-553f28f0faa7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, at least one U.S. federal civilian agency (non-DoD) will publicly disclose a material cybersecurity incident affecting operations via a press release, bulletin, or notice.",
+      "category": "tech",
+      "horizon_days": 22,
+      "deadline": "2025-11-30",
+      "confidence_pct": 64,
+      "log_odds": 0.575,
+      "verification_criteria": "A federal civilian agency (e.g., CBO, HHS, DOE, DHS components) posts an official statement acknowledging a significant cyber incident affecting operations by the deadline. Third-party media alone is insufficient without agency confirmation.",
+      "evidence": [
+        "https://techcrunch.com/2025/11/07/congressional-budget-office-confirms-it-was-hacked/"
+      ],
+      "monitoring_signals": [
+        "CISA advisories and emergency directives",
+        "Agency press rooms and data breach notifications",
+        "Indicators of compromise tied to recent campaigns"
+      ],
+      "rationale": "Recent federal breaches and ongoing campaigns suggest more disclosures in coming weeks.",
+      "id": "14af85da-1a45-4068-98e4-8783180ab29a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show a weekly change in U.S. distillate fuel oil stocks of +2.5 million barrels or more in at least one report published by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 22,
+      "deadline": "2025-11-30",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Check the EIA Weekly Petroleum Status Report tables. A reported weekly distillate stock change \u2265 +2.5 million barrels in any report by the deadline verifies the prediction.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/07/how-trumps-tariffs-are-crushing-small-businesses.html"
+      ],
+      "monitoring_signals": [
+        "EIA product supplied trends and refinery utilization",
+        "Weather and freight indicators affecting diesel demand",
+        "Import/export flows of distillates"
+      ],
+      "rationale": "Seasonal builds plus softer freight demand increase odds of a sizable distillate inventory build.",
+      "id": "99aa3e6d-395e-4850-95b9-381ef141beb0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Cboe equity-only put/call ratio (CPCE) will close at or above 0.85 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 22,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Use Cboe daily market statistics. If the reported equity-only put/call ratio (CPCE) daily close is \u2265 0.85 on any day through 2025-11-30 (UTC), the condition is met.",
+      "evidence": [
+        "https://www.marketwatch.com/story/tech-stocks-are-having-their-worst-week-since-the-april-tariff-selloff-why-its-about-time-6334cbc3?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Cboe daily CPCE readings",
+        "Volatility indices (VIX/VXN) and breadth metrics",
+        "Macro shocks from shutdown and data delays"
+      ],
+      "rationale": "Risk-off swings and tech weakness tend to push hedging demand higher, lifting CPCE.",
+      "id": "185836f4-87b4-4bf8-9cce-aa250ee1e126",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan Index of Consumer Sentiment (preliminary) for November 2025 will print at or below 72.0.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-11-15",
+      "confidence_pct": 51,
+      "log_odds": 0.04,
+      "verification_criteria": "Verify the preliminary November 2025 ICS value from the University of Michigan release or press note. A headline reading \u2264 72.0 confirms the prediction.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/07/shutdown-means-missed-jobs-report-friday-what-it-probably-would-have-shown.html"
+      ],
+      "monitoring_signals": [
+        "Gasoline price trend and GLP-1 coverage headlines",
+        "Equity market performance and media sentiment",
+        "Shutdown duration and fiscal policy uncertainty"
+      ],
+      "rationale": "Shutdown stress, data delays, and market volatility weigh on household perceptions.",
+      "id": "63f9db55-d957-446a-bf18-39b952bf1777",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, the U.S. Treasury\u2019s OFAC will announce at least one new Russia-related sanctions designation via an official press release.",
+      "category": "geopolitics",
+      "horizon_days": 22,
+      "deadline": "2025-11-30",
+      "confidence_pct": 66,
+      "log_odds": 0.664,
+      "verification_criteria": "Check Treasury\u2019s OFAC press releases. Any Russia-related designation announcement posted by 2025-11-30 qualifies, regardless of target sector or individuals.",
+      "evidence": [
+        "https://www.nytimes.com/2025/11/07/world/europe/trump-orban-meeting-russia-sanctions.html",
+        "https://home.treasury.gov/news/press-releases"
+      ],
+      "monitoring_signals": [
+        "OFAC press room and Federal Register notices",
+        "EU/US coordination statements on Russia",
+        "Conflict developments and evasion-enabler exposures"
+      ],
+      "rationale": "Regular cadence of Russia designations and evolving evasion networks make additional actions likely.",
+      "id": "7495f48e-62f8-4997-8a91-4f3f30cd157d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}

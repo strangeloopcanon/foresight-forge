@@ -1,0 +1,65 @@
+{
+  "date": "2025-11-07",
+  "assessments": [
+    {
+      "id": "8d758805-7f2d-42e1-bfba-e4f9def5d86b",
+      "status": "pending",
+      "status_rationale": "No CPI release has occurred yet; the deadline (mid-November) has not been reached and today's news offers no confirmed CPI print."
+    },
+    {
+      "id": "3628a9fa-929b-4bf1-b90b-f3e393f765b0",
+      "status": "needs-clarification",
+      "status_rationale": "CNBC reports the October Employment Situation report was missed due to the shutdown, so no U-3 rate printed on the due date. Resolution depends on how to treat a delayed release versus the stated due date."
+    },
+    {
+      "id": "29a9d3ed-032d-4fd7-bdff-5aa1f45a9b38",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s coverage of any weekly initial claims reading \u2265245,000; the window remains open through 2025-11-30."
+    },
+    {
+      "id": "7b087b81-9094-4d46-9a03-2abb73c9aa1b",
+      "status": "pending",
+      "status_rationale": "The performance window (2025-11-06 to 2025-11-30) is in progress; while tech had a weak week, no confirmed relative return spread of -5pp is established yet."
+    },
+    {
+      "id": "3db0df0c-8f21-4a1a-a405-be8881fdcd78",
+      "status": "pending",
+      "status_rationale": "Articles mention cancellations but do not cite FlightAware metrics showing \u226520% delays at EWR, LGA, or JFK; the deadline is 2025-11-15."
+    },
+    {
+      "id": "a96ec820-5400-4312-85a0-e207ea924417",
+      "status": "pending",
+      "status_rationale": "No report of new Federal Reserve enforcement actions appeared in today\u2019s news; the window runs through 2025-11-30."
+    },
+    {
+      "id": "3a478be3-9638-4567-aacc-e0c8192ce2ea",
+      "status": "pending",
+      "status_rationale": "No mention of the 5y5y inflation expectation hitting \u22642.20%; still within the observation window."
+    },
+    {
+      "id": "3c7c552f-d61f-45cf-b671-77416a862bfe",
+      "status": "pending",
+      "status_rationale": "No coverage indicates RBOB front-month settled \u2264$2.10/gal; deadline remains 2025-11-30."
+    },
+    {
+      "id": "f4ad61ba-71cc-461a-ac5f-5d61fb598050",
+      "status": "pending",
+      "status_rationale": "No EIA storage report in the news shows a \u22655 Bcf withdrawal; the period is still open."
+    },
+    {
+      "id": "f076c302-ab77-480e-8cad-2d90be087499",
+      "status": "pending",
+      "status_rationale": "News references possible changes to Russian oil sanctions and Hungary but nothing on new Venezuela-related OFAC designations."
+    },
+    {
+      "id": "73cadb94-d49c-41bd-99fb-a1695401bd48",
+      "status": "pending",
+      "status_rationale": "No Meta newsroom or policy update today announcing enhanced advertiser verification/disclosure targeting scam/fraud ads."
+    },
+    {
+      "id": "0c9dd068-dbe7-48a9-831f-eab30a28fa63",
+      "status": "pending",
+      "status_rationale": "Despite equity volatility headlines, no evidence VXN closed \u226528 on any day so far within the window."
+    }
+  ]
+}

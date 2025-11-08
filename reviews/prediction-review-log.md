@@ -1007,3 +1007,12 @@ Key watch items in the near term include official TSA checkpoint averages amid t
 
 ---
 
+
+## 2025-11-07
+
+The dominant development is the ongoing U.S. government shutdown, which directly delayed the October Employment Situation report. CNBC explicitly notes the missed jobs report, creating ambiguity for forecasts tied to specific release dates and ‘prints,’ especially the U-3 unemployment rate. This also raises the risk of delays to other BLS releases, such as CPI, though no CPI outcome is available yet.
+
+Market coverage highlights tech-led weakness and broader volatility, but there is no clear confirmation for thresholds in volatility indices (VXN), inflation expectations (5y5y), or energy benchmarks (RBOB, EIA storage). Policy news touches sanctions and central bank commentary, yet there is no report of new OFAC Venezuela designations or Fed enforcement actions. Overall, nearly all items remain pending, with the unemployment-rate forecast requiring clarification due to the missed release on the due date.
+
+---
+

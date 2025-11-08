@@ -22,7 +22,7 @@
       ],
       "rationale": "Falling fuel prices and softer goods inflation offset sticky shelter, keeping headline CPI subdued.",
       "id": "8d758805-7f2d-42e1-bfba-e4f9def5d86b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Layoff announcements and softer labor demand point to a modest uptick in unemployment without a sharp deterioration.",
       "id": "3628a9fa-929b-4bf1-b90b-f3e393f765b0",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -68,7 +68,7 @@
       ],
       "rationale": "Elevated layoffs and rising slack raise the odds of at least one higher weekly claims print.",
       "id": "29a9d3ed-032d-4fd7-bdff-5aa1f45a9b38",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -92,7 +92,7 @@
       ],
       "rationale": "Governance overhang and EV demand headwinds may weigh on TSLA relative to broad beta.",
       "id": "7b087b81-9094-4d46-9a03-2abb73c9aa1b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -114,7 +114,7 @@
       ],
       "rationale": "FAA cuts plus fall weather elevate delay risk at congested NYC hubs.",
       "id": "3db0df0c-8f21-4a1a-a405-be8881fdcd78",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "Ongoing supervisory pressure on smaller lenders suggests more actions are likely.",
       "id": "a96ec820-5400-4312-85a0-e207ea924417",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "Softer growth and cooling inflation can compress long-term inflation expectations.",
       "id": "3a478be3-9638-4567-aacc-e0c8192ce2ea",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "rationale": "Seasonal demand slowdown and adequate supply pressure gasoline futures lower.",
       "id": "3c7c552f-d61f-45cf-b671-77416a862bfe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -202,7 +202,7 @@
       ],
       "rationale": "Withdrawal season onset and colder snaps typically yield an early small withdrawal.",
       "id": "f4ad61ba-71cc-461a-ac5f-5d61fb598050",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -225,7 +225,7 @@
       ],
       "rationale": "Rising regional tensions and policy volatility increase the likelihood of fresh designations.",
       "id": "f076c302-ab77-480e-8cad-2d90be087499",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -247,7 +247,7 @@
       ],
       "rationale": "Heightened scrutiny and reputational risk create pressure for swift ad integrity policy changes.",
       "id": "73cadb94-d49c-41bd-99fb-a1695401bd48",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -270,7 +270,7 @@
       "supersedes_id": "5d7e8825-287f-4919-af30-4327d1f37af4",
       "rationale": "Heightened AI/mega-cap volatility and macro catalysts could push tech vol to episodic spikes.",
       "id": "0c9dd068-dbe7-48a9-831f-eab30a28fa63",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
