@@ -20,7 +20,7 @@
       "supersedes_id": "29ce7fb9-b871-4d15-baec-8f58a206d7fc",
       "rationale": "Talks remain stalled; missed jobs report underscores unresolved funding. Odds favor continued lapse short-term.",
       "id": "780fd5c5-837c-4a26-a279-f384e5832bed",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Shutdown-driven FAA constraints and staffing risks are delaying commercial launches; providers signaling schedule slips.",
       "id": "6b98ae29-7785-4432-b554-c4a264ce674d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Growth jitters, shutdown drag, and easing inflation expectations bias the front end lower.",
       "id": "28391b76-7e74-4c09-bcfd-49e323e56a14",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Tech-led drawdown, tariff and export-control overhang, and multiple compression risk pressure semis.",
       "id": "7414427d-f3a2-4543-822b-07e553718968",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "Policy momentum and negotiations favor near-term coverage expansions to broaden access.",
       "id": "d8bb39c4-4e56-4f14-957d-553f28f0faa7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Recent federal breaches and ongoing campaigns suggest more disclosures in coming weeks.",
       "id": "14af85da-1a45-4068-98e4-8783180ab29a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Seasonal builds plus softer freight demand increase odds of a sizable distillate inventory build.",
       "id": "99aa3e6d-395e-4850-95b9-381ef141beb0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "Risk-off swings and tech weakness tend to push hedging demand higher, lifting CPCE.",
       "id": "185836f4-87b4-4bf8-9cce-aa250ee1e126",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Shutdown stress, data delays, and market volatility weigh on household perceptions.",
       "id": "63f9db55-d957-446a-bf18-39b952bf1777",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -210,7 +210,7 @@
       ],
       "rationale": "Regular cadence of Russia designations and evolving evasion networks make additional actions likely.",
       "id": "7495f48e-62f8-4997-8a91-4f3f30cd157d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]

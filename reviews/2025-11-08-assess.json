@@ -1,0 +1,55 @@
+{
+  "date": "2025-11-08",
+  "assessments": [
+    {
+      "id": "780fd5c5-837c-4a26-a279-f384e5832bed",
+      "status": "pending",
+      "status_rationale": "News confirms an ongoing U.S. government shutdown affecting FAA operations, but there is no definitive evidence about the status as of 2025-11-12 00:00 UTC. Outcome remains unresolved."
+    },
+    {
+      "id": "6b98ae29-7785-4432-b554-c4a264ce674d",
+      "status": "pending",
+      "status_rationale": "No reports in today\u2019s coverage of any FAA-licensed U.S. commercial orbital launches since 2025-11-06, but absence of evidence is not confirmation. Window remains open through 2025-11-20."
+    },
+    {
+      "id": "28391b76-7e74-4c09-bcfd-49e323e56a14",
+      "status": "pending",
+      "status_rationale": "Articles discuss Treasury markets generally but provide no specific 2-year yield close at or below 4.20%. Deadline is 2025-11-30."
+    },
+    {
+      "id": "7414427d-f3a2-4543-822b-07e553718968",
+      "status": "pending",
+      "status_rationale": "The performance window (Nov 8 close to Nov 30 close) has just begun, and no conclusive comparative performance data are provided."
+    },
+    {
+      "id": "d8bb39c4-4e56-4f14-957d-553f28f0faa7",
+      "status": "pending",
+      "status_rationale": "No mention of new U.S. payer coverage expansion announcements from LLY or NVO for obesity drugs in today\u2019s news."
+    },
+    {
+      "id": "14af85da-1a45-4068-98e4-8783180ab29a",
+      "status": "pending",
+      "status_rationale": "No reported disclosures by U.S. federal civilian agencies of material cybersecurity incidents affecting operations."
+    },
+    {
+      "id": "99aa3e6d-395e-4850-95b9-381ef141beb0",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report detail cited regarding a weekly distillate build of +2.5M barrels or more."
+    },
+    {
+      "id": "185836f4-87b4-4bf8-9cce-aa250ee1e126",
+      "status": "pending",
+      "status_rationale": "No coverage of the Cboe equity-only put/call ratio (CPCE) reaching a 0.85+ close. Deadline remains 2025-11-30."
+    },
+    {
+      "id": "63f9db55-d957-446a-bf18-39b952bf1777",
+      "status": "pending",
+      "status_rationale": "No release noted for the University of Michigan preliminary November sentiment. Result not yet available."
+    },
+    {
+      "id": "7495f48e-62f8-4997-8a91-4f3f30cd157d",
+      "status": "pending",
+      "status_rationale": "No OFAC press release on new Russia-related designations is cited. Deadline remains through 2025-11-30."
+    }
+  ]
+}

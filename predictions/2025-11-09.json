@@ -1,0 +1,242 @@
+{
+  "date": "2025-11-09",
+  "predictions": [
+    {
+      "text": "U.S. CPI excluding food and energy (core, MoM, SA) for October 2025 will print between +0.2% and +0.3% in the BLS release due mid-November.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-11-14",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify the core CPI MoM (seasonally adjusted) value in the BLS CPI news release for October 2025. Outcome is true if reported core CPI MoM is >= +0.2% and <= +0.3%.",
+      "evidence": [
+        "https://www.bls.gov/news.release/cpi.toc.htm",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting",
+        "https://www.apartmentlist.com/research/national-rent-data",
+        "https://www.manheim.com/resources/consulting/used-vehicle-value-index.html"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed inflation nowcast for Oct 2025 core CPI",
+        "High-frequency rent measures (Apartment List, Zillow) for shelter trends",
+        "Manheim Used Vehicle Value Index for core goods pressure",
+        "Gasoline and airfare price trackers for headline/core interplay",
+        "Supercore services (ex-shelter) trackers from private datasets"
+      ],
+      "rationale": "Shelter disinflation and soft core goods are offset by sticky services. A 0.2\u20130.3% core print aligns with recent trends and consensus.",
+      "id": "f5ca0934-b2d4-4359-8142-9ad9a561af27",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-11-09 close to 2025-11-30 close, Invesco S&P 500 Equal Weight ETF (RSP) will outperform SPDR S&P 500 ETF (SPY) by at least 1.0 percentage point on an adjusted-close basis.",
+      "category": "markets",
+      "horizon_days": 21,
+      "deadline": "2025-11-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Using adjusted close prices, compute [(RSP_end/RSP_start) - (SPY_end/SPY_start)]. Prediction is true if the result is >= 0.0100.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/RSP/history",
+        "https://finance.yahoo.com/quote/SPY/history",
+        "https://www.cnbc.com/2025/11/08/warren-buffetts-cash-fortress-berkshire-closes-gap-with-sp-500-as-ai-worries-depress-wall-street.html",
+        "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html"
+      ],
+      "monitoring_signals": [
+        "Breadth metrics (advance-decline line, % of S&P 500 above 50DMA)",
+        "RSP/SPY relative strength ratio",
+        "Positioning/CTA flow indicators for mega-cap tech",
+        "Earnings revisions breadth outside the top-10 market-cap names",
+        "Volatility and rates stabilization supporting cyclicals"
+      ],
+      "rationale": "Recent mega-cap underperformance and improving breadth favor equal-weight. Seasonals and rates softness can aid cyclicals relative to cap-weighted tech.",
+      "id": "5fa720bd-a86c-4bd7-a6d4-b4b7637341df",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or below \u20ac35.00/MWh on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 21,
+      "deadline": "2025-11-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Check official ICE Endex settlement prices for Dutch TTF front-month futures. Prediction is true if any official settlement through 2025-11-30 is \u2264 \u20ac35.00/MWh.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://www.cnbc.com/2025/11/08/china-october-cpi-ppi-deflation-consumer-prices-.html"
+      ],
+      "monitoring_signals": [
+        "European storage fullness and withdrawal rates",
+        "Weather forecasts (ECMWF) for NW Europe",
+        "LNG send-out, Norwegian flows, and French nuclear availability",
+        "Geopolitical risks on Russian pipeline flows",
+        "Front-month vs. spot spreads and implied volatility"
+      ],
+      "rationale": "High storage, mild weather risks, and ample LNG supply can pressure TTF, though geopolitical and cold snaps keep tail risks.",
+      "id": "1868e9f9-1322-4cf9-935a-638d021ae98e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 4.25% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 21,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Verify daily DGS10 close on FRED or Treasury data. Prediction is true if any close through 2025-11-30 is \u2264 4.25%.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.marketwatch.com/story/treasury-bonds-are-good-investments-at-this-time-of-year-but-not-because-of-the-fed-5625f325?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "CPI/PPI releases and labor data surprises",
+        "Auction demand (bid-to-cover, tails) for 10Y/20Y/30Y",
+        "Term premium models and MOVE index levels",
+        "Fed speaker guidance on balance sheet and cuts",
+        "Risk sentiment and equity volatility"
+      ],
+      "rationale": "Seasonals, softer data, and risk-off flows could push yields toward 4.25% even without immediate Fed policy shifts.",
+      "id": "b7278482-9098-46a3-8aae-5e4312ff3266",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NFIB Small Business Optimism Index for October 2025 will print between 90.0 and 92.5.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-11-13",
+      "confidence_pct": 58,
+      "verification_criteria": "Check the NFIB Small Business Economic Trends report for October 2025. Prediction is true if the headline index is \u2265 90.0 and \u2264 92.5.",
+      "evidence": [
+        "https://www.nfib.com/surveys/small-business-economic-trends/",
+        "https://www.cnbc.com/2025/11/08/aca-subsidy-cliff-government-shutdown.html"
+      ],
+      "monitoring_signals": [
+        "Gasoline and diesel price trends affecting small business costs",
+        "Labor market tightness (JOLTS, claims) influencing hiring plans",
+        "Credit conditions for small firms (NFIB credit availability subindex)",
+        "Sales expectations and inventories subindices",
+        "Government policy uncertainty from the shutdown"
+      ],
+      "rationale": "Sentiment remains subdued but stable amid policy uncertainty and tight credit; range centers around recent prints.",
+      "id": "3eb214da-d643-45b2-9e73-d4381b9025e1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-11-30, the U.S. Treasury\u2019s OFAC will announce at least one new China-related sanctions designation via an official Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 21,
+      "deadline": "2025-11-30",
+      "confidence_pct": 60,
+      "verification_criteria": "Validate on Treasury\u2019s website: a press release explicitly announcing sanctions targeting PRC entities or individuals (e.g., surveillance, forced labor, illicit finance) dated by 2025-11-30.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://www.cnbc.com/2025/11/08/big-tech-ai-underwater-cables.html",
+        "https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/"
+      ],
+      "monitoring_signals": [
+        "Congressional statements and hearings on PRC human rights/technology",
+        "Commerce Entity List updates and BIS actions",
+        "Coordinated sanctions with EU/UK/Canada",
+        "Human rights observance dates and policy rollouts",
+        "Treasury advisories on PRC-linked sectors"
+      ],
+      "rationale": "Ongoing U.S.-China policy friction and routine cadence of designations make a November action plausible.",
+      "id": "a3079e05-f40a-4c11-a793-f86cc1aa7986",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-11-30, Google, Meta, Microsoft, or Amazon will announce a new transoceanic subsea cable project or named system capacity expansion via an official corporate blog or press release.",
+      "category": "tech",
+      "horizon_days": 21,
+      "deadline": "2025-11-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Check official corporate newsrooms/blogs for an announcement naming a new subsea cable system or a capacity expansion on an existing named transoceanic system, dated by 2025-11-30.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/08/big-tech-ai-underwater-cables.html",
+        "https://cloud.google.com/blog/products/infrastructure",
+        "https://about.fb.com/news/",
+        "https://blogs.microsoft.com/",
+        "https://aws.amazon.com/about-aws/whats-new/"
+      ],
+      "monitoring_signals": [
+        "Partnership announcements with SubCom, NEC, ASN",
+        "Regulatory filings/permits for landing stations",
+        "Hyperscaler capex outlooks and data center expansion plans",
+        "Regional bandwidth demand indicators",
+        "Geopolitical routing diversification (Arctic/Africa/India corridors)"
+      ],
+      "rationale": "AI-era bandwidth demand is surging; hyperscalers frequently announce new cable routes or expansions, though timing is uncertain.",
+      "id": "97e201d1-d528-471c-abd0-03b75604716b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Cboe Volatility Index (VIX) will close at or below 14.50 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 21,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Verify official VIX closing values from Cboe. Prediction is true if any close through 2025-11-30 is \u2264 14.50.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/",
+        "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html"
+      ],
+      "monitoring_signals": [
+        "VVIX and SKEW levels indicating demand for convexity",
+        "Realized 10\u201320 day S&P 500 volatility",
+        "Macro event risk calendar (CPI, auctions, shutdown news)",
+        "Dealer gamma positioning and options charm",
+        "Credit spreads (HYG, HY OAS) stabilizing"
+      ],
+      "rationale": "If data are benign and shutdown risks fade, vol could mean-revert quickly; however, event risk keeps odds sub-50%.",
+      "id": "c660c906-bffb-4c0d-8b8f-d13ca6d8e16a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show a weekly change in U.S. commercial crude oil stocks of +8.0 million barrels or more in at least one report published by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 21,
+      "deadline": "2025-11-30",
+      "confidence_pct": 36,
+      "verification_criteria": "Check EIA weekly table of U.S. commercial crude inventories. Prediction is true if any reported week shows a change \u2265 +8.0 million barrels.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "Refinery utilization declines and maintenance outages",
+        "Net imports (seaborne arrivals) and pipeline flows",
+        "SPR transactions and adjustments",
+        "Gulf Coast weather/fog-induced port disruptions",
+        "API weekly crude change as an advance indicator"
+      ],
+      "rationale": "Seasonal refinery turnarounds and import volatility can produce outsized weekly builds, though such large prints are relatively infrequent.",
+      "id": "9d707e17-7e79-4c8c-9a9e-2f3254aed702",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "TSA daily U.S. checkpoint throughput will reach at least 3,000,000 passengers on at least one day between 2025-11-22 and 2025-12-01 (U.S. reporting dates).",
+      "category": "macro",
+      "horizon_days": 23,
+      "deadline": "2025-12-02",
+      "confidence_pct": 58,
+      "verification_criteria": "Confirm on TSA Passenger Volumes page. Prediction is true if any listed date in the specified window shows \u2265 3,000,000 passengers screened.",
+      "evidence": [
+        "https://www.tsa.gov/travel/passenger-volumes",
+        "https://www.cnbc.com/2025/11/08/government-shutdown-flight-cancelations-faa.html"
+      ],
+      "monitoring_signals": [
+        "Airline published schedules and load factors for Thanksgiving week",
+        "FAA advisories and potential ATC staffing impacts",
+        "Weather forecasts for major hubs",
+        "Airline waiver policies and cancellations",
+        "Historical holiday travel records and TSA guidance"
+      ],
+      "rationale": "Thanksgiving typically sets annual records; capacity growth and pent-up demand increase odds of a new high despite potential operational headwinds.",
+      "id": "40eb88ff-9629-460c-88ef-b3b7dd4b8e23",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

@@ -1016,3 +1016,12 @@ Market coverage highlights tech-led weakness and broader volatility, but there i
 
 ---
 
+
+## 2025-11-08
+
+Today’s headlines center on the ongoing U.S. government shutdown and its growing impact on air travel and SNAP benefits. While this supports the premise that a lapse in appropriations is still active, it does not determine whether the shutdown will persist through the 2025-11-12 cutoff. The FAA’s operational constraints could indirectly reduce launch activity, but there’s no explicit reporting of FAA-licensed orbital launches to validate or invalidate the spaceflight prediction.
+
+Market-related items discuss broader sentiment and asset allocation—Treasury interest, AI-led equity weakness, and macro uncertainty—yet none provide hard data on the 2-year yield, CPCE, or relative SOX vs. SPY performance necessary to resolve those calls. Likewise, there are no items confirming EIA distillate builds, OFAC Russia-related actions, federal cyber incident disclosures, or new payer coverage announcements from LLY/NVO. All forecasts remain pending, with several key data points likely in the coming week (Michigan sentiment, EIA releases) and continued monitoring needed on shutdown negotiations and sanctions activity.
+
+---
+

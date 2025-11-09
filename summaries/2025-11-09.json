@@ -1,0 +1,122 @@
+{
+  "bullets": [
+    {
+      "text": "FAA warns flight cancellations will worsen next week if shutdown persists, pressuring airlines, airports, and travel-dependent sectors.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/08/government-shutdown-flight-cancelations-faa.html"
+    },
+    {
+      "text": "Supreme Court SNAP ruling leaves benefits uncertain amid shutdown, risking food insecurity and reduced local spending in many communities.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/11/08/us/politics/families-food-stamps-supreme-court-order.html"
+    },
+    {
+      "text": "China\u2019s CPI returned to growth in October, while PPI deflation hit three years, signaling weak industrial demand despite consumer stabilization.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/09/china-october-cpi-ppi-deflation-consumer-prices-.html"
+    },
+    {
+      "text": "Treasury bonds seen attractive near-term due to technical and seasonal factors, not Fed policy, supporting duration allocations.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/treasury-bonds-are-good-investments-at-this-time-of-year-but-not-because-of-the-fed-5625f325?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Berkshire\u2019s cash-rich portfolio narrowed gap with S&P 500 as AI-led tech sold off, underscoring defensive advantages in volatile markets.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/08/warren-buffetts-cash-fortress-berkshire-closes-gap-with-sp-500-as-ai-worries-depress-wall-street.html"
+    },
+    {
+      "text": "State Street cautions it\u2019s too early to fade AI trade, citing resilient earnings and positioning despite Nasdaq\u2019s worst week since April.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html"
+    },
+    {
+      "text": "ACA \u201csubsidy cliff\u201d looms amid shutdown, threatening premium spikes and coverage losses that could squeeze household budgets and healthcare demand.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/08/aca-subsidy-cliff-government-shutdown.html"
+    },
+    {
+      "text": "OpenAI pushed to expand Chips Act tax credits to data centers, signaling costly AI infrastructure needs and intensifying policy fights over subsidies.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/"
+    },
+    {
+      "text": "Investment in submarine cables is booming to meet AI and internet bandwidth, making subsea infrastructure a strategic bottleneck and opportunity.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/08/big-tech-ai-underwater-cables.html"
+    },
+    {
+      "text": "Merck\u2019s oral PCSK9 inhibitor achieved extremely low LDL cholesterol, potentially reshaping cardiovascular therapy and challenging statins.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/11/08/health/merck-cholesterol-pill-pcsk9.html"
+    },
+    {
+      "text": "New laser therapy aims to prevent vision loss before onset, offering cost-effective intervention for diseases like diabetic retinopathy and AMD.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251108083906.htm"
+    },
+    {
+      "text": "MIT quantum advance inches toward room-temperature superconductivity, promising transformative gains in energy transmission, computing, and magnets if scalable.",
+      "tags": [
+        "science",
+        "energy",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251108014019.htm"
+    },
+    {
+      "text": "Laser satellites detected an Antarctic carbon release, suggesting previously underestimated feedbacks that could complicate climate targets and policy.",
+      "tags": [
+        "science",
+        "geopolitics"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251108014024.htm"
+    },
+    {
+      "text": "Deep-sea mining found to starve life in the ocean\u2019s twilight zone, bolstering calls for stricter environmental regulation.",
+      "tags": [
+        "science",
+        "geopolitics"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251108012850.htm"
+    },
+    {
+      "text": "Study flags weaknesses in AI evaluation methods, raising reliability concerns for regulators and investors.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.oii.ox.ac.uk/news-events/study-identifies-weaknesses-in-how-ai-systems-are-evaluated/"
+    }
+  ]
+}
