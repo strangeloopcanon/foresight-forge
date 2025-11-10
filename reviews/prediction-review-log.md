@@ -1025,3 +1025,12 @@ Market-related items discuss broader sentiment and asset allocation—Treasury i
 
 ---
 
+
+## 2025-11-09
+
+Most headlines center on U.S. political developments around the shutdown, aviation disruptions, and broader market tone rather than hard data releases. There are no definitive figures today for CPI, NFIB, VIX, Treasury yields, energy inventories, or European gas benchmarks that would resolve any of the time-bound forecasts. As such, all items remain open pending official releases or market closes within their respective windows.
+
+That said, the news flow could be directional: a potential funding deal and improving risk sentiment might pressure VIX and Treasury yields, while flight cancellations could temporarily weigh on travel volumes ahead of the Thanksgiving window (mitigated if a deal restores capacity). Energy and Europe-specific catalysts for TTF were not highlighted. Key checkpoints this week include the NFIB release and the BLS CPI print, which will be the first opportunities to adjudicate any of the listed predictions.
+
+---
+

@@ -1,0 +1,55 @@
+{
+  "date": "2025-11-09",
+  "assessments": [
+    {
+      "id": "f5ca0934-b2d4-4359-8142-9ad9a561af27",
+      "status": "pending",
+      "status_rationale": "No BLS CPI release for October 2025 is reported in today's news; the data is due mid-November and the deadline has not passed."
+    },
+    {
+      "id": "5fa720bd-a86c-4bd7-a6d4-b4b7637341df",
+      "status": "pending",
+      "status_rationale": "The performance window (11/09\u201311/30) is ongoing and no conclusive comparative return between RSP and SPY is provided in today's reports."
+    },
+    {
+      "id": "1868e9f9-1322-4cf9-935a-638d021ae98e",
+      "status": "pending",
+      "status_rationale": "No ICE Endex TTF front\u2011month settlement levels are cited; period remains open through 11/30."
+    },
+    {
+      "id": "b7278482-9098-46a3-8aae-5e4312ff3266",
+      "status": "pending",
+      "status_rationale": "Headlines mention market moves around a potential shutdown deal but do not confirm a 10Y close at or below 4.25%; window remains open."
+    },
+    {
+      "id": "3eb214da-d643-45b2-9e73-d4381b9025e1",
+      "status": "pending",
+      "status_rationale": "The NFIB October 2025 index reading is not in today's coverage and is typically released mid-month; deadline not yet reached."
+    },
+    {
+      "id": "a3079e05-f40a-4c11-a793-f86cc1aa7986",
+      "status": "pending",
+      "status_rationale": "No OFAC press release announcing new China-related sanctions appears in today's news; the timeframe runs to 11/30."
+    },
+    {
+      "id": "97e201d1-d528-471c-abd0-03b75604716b",
+      "status": "pending",
+      "status_rationale": "No announcements from Google, Meta, Microsoft, or Amazon regarding new subsea cable projects are reported; deadline is 11/30."
+    },
+    {
+      "id": "c660c906-bffb-4c0d-8b8f-d13ca6d8e16a",
+      "status": "pending",
+      "status_rationale": "No VIX closing level is cited; the condition could still be met by 11/30."
+    },
+    {
+      "id": "9d707e17-7e79-4c8c-9a9e-2f3254aed702",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report with a \u2265+8.0 mb crude build is referenced; multiple releases remain before 11/30."
+    },
+    {
+      "id": "40eb88ff-9629-460c-88ef-b3b7dd4b8e23",
+      "status": "pending",
+      "status_rationale": "The measurement window (11/22\u201312/01) has not begun; no TSA throughput figures are reported today."
+    }
+  ]
+}

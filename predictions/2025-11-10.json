@@ -1,0 +1,261 @@
+{
+  "date": "2025-11-10",
+  "predictions": [
+    {
+      "text": "At least one FAA-licensed U.S. commercial orbital launch will occur between 2025-11-10 00:00 UTC and 2025-11-20 23:59 UTC.",
+      "category": "tech",
+      "horizon_days": 10,
+      "deadline": "2025-11-20",
+      "confidence_pct": 59,
+      "verification_criteria": "Any orbital launch from U.S. territory under an FAA Office of Commercial Space Transportation license during the window, confirmed by FAA AST listings, operator press releases, or reputable launch trackers (e.g., NextSpaceflight) showing liftoff to orbit.",
+      "evidence": [
+        "https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/",
+        "https://www.faa.gov/space/ast/licenses",
+        "https://nextspaceflight.com/launches/"
+      ],
+      "monitoring_signals": [
+        "Blue Origin ESCAPADE launch window updates",
+        "SpaceX Starlink launch TFRs/NOTAMs",
+        "Range weather status for CCSFS and Vandenberg",
+        "FAA AST license and NOTAM activity"
+      ],
+      "rationale": "Blue Origin targets a Nov 12 retry and SpaceX frequently flies; odds favor at least one U.S. orbital launch in the window.",
+      "id": "7c57da6e-8dc3-4fab-9b1a-5147d5cd7d29",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe Volatility Index (VIX) will close at or above 20.00 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 20,
+      "deadline": "2025-11-30",
+      "confidence_pct": 43,
+      "verification_criteria": "Cboe-reported official daily close for the VIX index >= 20.00 on any trading day through the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html",
+        "https://www.cboe.com/tradable_products/vix/"
+      ],
+      "monitoring_signals": [
+        "Equity drawdowns and gap opens",
+        "Option skew/term-structure steepening",
+        "Macro catalysts: CPI, PPI, funding votes, geopolitics",
+        "VVIX and credit spreads widening"
+      ],
+      "rationale": "Event risk and an AI-led valuation wobble raise tail-hedging demand into mid-November macro releases.",
+      "id": "ebff7edb-fc99-4367-8b73-2159cc63c32e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. CPI Gasoline (all types) index (MoM, SA) for October 2025 will print between -2.5% and -0.5% in the mid-November BLS release.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-11-14",
+      "confidence_pct": 60,
+      "verification_criteria": "BLS CPI detailed table for Energy: Gasoline (all types) month-over-month percent change within the stated range.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.eia.gov/petroleum/gasdiesel/",
+        "https://www.bls.gov/cpi/"
+      ],
+      "monitoring_signals": [
+        "AAA national average regular gasoline daily readings",
+        "NY Harbor RBOB futures movements",
+        "Crude price changes vs retail lag"
+      ],
+      "rationale": "Retail gasoline prices eased in October; wholesale RBOB and crude trends point to a negative gasoline CPI contribution.",
+      "id": "b9464a93-2ce7-4dd5-8152-7b4580f3448c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "EIA Weekly Natural Gas Storage will report at least one net withdrawal of \u226520 Bcf in a report published by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 20,
+      "deadline": "2025-11-30",
+      "confidence_pct": 41,
+      "verification_criteria": "EIA Weekly Natural Gas Storage report shows a weekly change \u2264 -20 Bcf (i.e., a withdrawal of 20 Bcf or more).",
+      "evidence": [
+        "https://ir.eia.gov/ngs/ngs.html",
+        "https://www.cpc.ncep.noaa.gov/products/predictions/610day/"
+      ],
+      "monitoring_signals": [
+        "Heating degree day forecasts (NOAA CPC)",
+        "Regional pipeline flows and cash prices",
+        "Production freeze-offs or maintenance",
+        "Henry Hub front-month futures rally/contango changes"
+      ],
+      "rationale": "Seasonal shoulder-to-winter transition plus early cold shots can flip storage to larger-than-typical November draws.",
+      "id": "2ead09db-bbfb-4af1-8843-e5480c4beef5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "University of Michigan 1-year inflation expectations (preliminary) for November 2025 will print between 3.1% and 3.8%.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Preliminary Michigan Surveys press release shows the 1-year inflation expectations within the specified range.",
+      "evidence": [
+        "https://data.sca.isr.umich.edu/",
+        "https://www.bls.gov/cpi/"
+      ],
+      "monitoring_signals": [
+        "Gasoline price moves into early November",
+        "Headline CPI and food price news",
+        "Media coverage of tariffs and fiscal transfers"
+      ],
+      "rationale": "Gasoline relief counters tariff rhetoric; expectations likely hover near recent 3\u20134% band.",
+      "id": "a8ec5e82-dc02-41d8-80bd-ff90d309bd73",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or above $100,000 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 20,
+      "deadline": "2025-11-30",
+      "confidence_pct": 51,
+      "verification_criteria": "Any reputable consolidated crypto price source (e.g., CoinDesk, CoinMarketCap) shows BTC-USD \u2265 $100,000 during a UTC day.",
+      "evidence": [
+        "https://www.coindesk.com/price/bitcoin/"
+      ],
+      "monitoring_signals": [
+        "Spot ETF net inflows/outflows",
+        "Funding rates and basis in futures",
+        "Macro risk appetite and USD moves"
+      ],
+      "rationale": "Momentum, ETF flows, and macro hopes keep a test of the round-number milestone plausible within November.",
+      "id": "bb68efa4-462a-444e-a93b-9a0fc887c791",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Brent crude front-month will settle at or below $78.00 per barrel on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 20,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "verification_criteria": "ICE Brent front-month official daily settlement price \u2264 $78.00 as recorded by major data sources (ICE, Refinitiv, Bloomberg, or FRED Brent spot proxy).",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "OECD inventory trends and U.S. crude builds",
+        "Demand indicators (China data, airline load factors)",
+        "OPEC+ messaging on December supply"
+      ],
+      "rationale": "Softening demand data and potential inventory builds could pressure Brent despite episodic geopolitical risk.",
+      "id": "df309b24-fc08-4d81-a8b8-545a01a220e2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. 10-Year Breakeven Inflation Rate (FRED: T10YIE) will close at or below 2.20% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 20,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "FRED series T10YIE daily close \u2264 2.20% on any date up to the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/T10YIE",
+        "https://www.bls.gov/cpi/"
+      ],
+      "monitoring_signals": [
+        "CPI/PPI surprises vs consensus",
+        "Oil and gasoline price trends",
+        "Auction demand for TIPS and nominals"
+      ],
+      "rationale": "Benign October inflation prints and easing energy could compress breakevens toward 2.2%.",
+      "id": "c3069ff2-d701-4e45-82cc-6b6dda8f9532",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-12-31, at least one additional U.S. state legislature will formally introduce a bill or resolution that uses the phrase \"right to compute\" in its title or summary.",
+      "category": "tech",
+      "horizon_days": 51,
+      "deadline": "2025-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Official state legislature websites or widely used bill trackers (e.g., LegiScan) show a new bill/resolution introduced in any state with the exact phrase \"right to compute\" in the title or official summary.",
+      "evidence": [
+        "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
+        "https://legiscan.com/"
+      ],
+      "monitoring_signals": [
+        "Prefiling calendars and session openings for states",
+        "Model bill circulation by advocacy groups",
+        "Press releases from state legislators on digital rights"
+      ],
+      "rationale": "Montana\u2019s move creates a policy template likely to be copied during state prefiling and early 2026 sessions.",
+      "id": "56f2a40a-8cad-4a7f-8824-f01bac79621f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. Core PCE Price Index (MoM, SA) for October 2025 will print between 0.16% and 0.24% in the BEA release due late November.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2025-11-29",
+      "confidence_pct": 58,
+      "verification_criteria": "BEA Personal Income and Outlays report shows Core PCE MoM SA within the stated range.",
+      "evidence": [
+        "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+        "https://www.bls.gov/cpi/",
+        "https://www.bls.gov/ppi/"
+      ],
+      "monitoring_signals": [
+        "CPI ex-food/energy readings and component mapping to PCE",
+        "PPI for core services (EBM) and goods",
+        "Revisions in prior-month PCE"
+      ],
+      "rationale": "CPI/PPI signals point to a 0.2% core PCE print, consistent with gradual disinflation.",
+      "id": "ad71734c-6712-46c0-a363-ed2b11d6942f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. field production of crude oil (EIA Weekly Petroleum Status Report) will print at or above 13.4 million b/d in at least one report by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 20,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "EIA Weekly Petroleum Status Report \"U.S. crude oil production\" headline figure shows \u2265 13.4 million barrels per day in any report before the deadline.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "EIA weekly production estimates and revisions",
+        "Rig counts and well productivity trends",
+        "Pipeline and export terminal throughput indicators"
+      ],
+      "rationale": "U.S. output remains near record highs; incremental gains or revisions can lift the weekly estimate to 13.4 mb/d.",
+      "id": "2cebc43f-44f0-479b-aec4-34c6709790d3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Cboe equity-only put/call ratio (CPCE) will close at or below 0.55 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 20,
+      "deadline": "2025-11-30",
+      "confidence_pct": 53,
+      "verification_criteria": "Cboe daily market statistics show CPCE \u2264 0.55 at close on any trading day through the deadline.",
+      "evidence": [
+        "https://www.cboe.com/us/options/market_statistics/daily/",
+        "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html"
+      ],
+      "monitoring_signals": [
+        "Momentum-led equity rallies and breadth thrusts",
+        "Declining implied correlation and skew",
+        "Retail call option activity spikes"
+      ],
+      "rationale": "Seasonal optimism and momentum can drive call-heavy flows, pushing the equity-only put/call ratio to complacent levels.",
+      "id": "9c369f91-0b63-4386-8c3a-a2cfdea12ec0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

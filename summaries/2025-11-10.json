@@ -1,0 +1,116 @@
+{
+  "bullets": [
+    {
+      "text": "Shutdown deal prospects lift U.S. stock futures as Senate nears funding vote; widespread flight cancellations highlight economic disruption from air-traffic cutbacks.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/09/government-shutdown-senate-democrats.html"
+    },
+    {
+      "text": "Administration urges states to reverse full SNAP benefits, cutting aid for millions and potentially dampening consumer spending in low-income communities.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/09/snap-trump-states-food-patrick-penn.html"
+    },
+    {
+      "text": "Trump floats $2,000 'tariff dividend' checks to most Americans, reframing tariff revenue as household transfers with uncertain inflation and trade impacts.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/trump-floats-idea-of-2-000-tariff-dividend-checks-to-most-americans-e8ec5952"
+    },
+    {
+      "text": "U.S. nuclear power revival advances, but long-term radioactive waste storage remains unresolved, constraining deployment timelines and financing.",
+      "tags": [
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/11/09/nuclear-power-energy-radioactive-waste-storage-disposal.html"
+    },
+    {
+      "text": "Iran's unprecedented drought and Tehran water crisis raise risks of internal instability, regional tensions, and pressure on energy-intensive industries.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.bbc.com/news/articles/cy4p2yzmem0o"
+    },
+    {
+      "text": "After Hurricane Melissa, distributed solar kept power on for some Jamaicans, demonstrating climate resilience and grid decentralization benefits.",
+      "tags": [
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/11/08/climate/jamaica-hurricane-solar-power.html"
+    },
+    {
+      "text": "Blue Origin scrubs New Glenn launch carrying NASA's ESCAPADE Mars mission; reliability questions linger ahead of November 12 retry.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://techcrunch.com/2025/11/09/blue-origin-scrubs-second-new-glenn-launch-will-try-again-november-12/"
+    },
+    {
+      "text": "Apple reportedly planning satellite-powered iPhone features, signaling deeper device-network integration that could disrupt carriers and emergency communications markets.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/"
+    },
+    {
+      "text": "AI sector faces valuation wobble ahead of major industry gathering, tempering risk appetite after a 'buy everything' rally.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html"
+    },
+    {
+      "text": "Montana enshrines a 'right to compute,' setting a state-level precedent for digital autonomy debates around AI, encryption, and software restrictions.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/"
+    },
+    {
+      "text": "U.S. weighs restrictions on TP-Link, highlighting rising supply-chain security scrutiny of Chinese networking gear and potential consumer cost impacts.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/"
+    },
+    {
+      "text": "Federal judge resigns warning of an 'existential threat' to democracy, underscoring institutional stress and potential policy volatility.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/09/us/politics/mark-wolf-federal-judge-resigns.html"
+    },
+    {
+      "text": "Evidence Antarctica's ice rapidly collapsed 9,000 years ago suggests higher near-term sea-level risk under continued warming.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251109032406.htm"
+    },
+    {
+      "text": "Warm subsurface ocean on Saturn's moon Enceladus could be habitable, elevating targets for future life-detection missions.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251109032415.htm"
+    },
+    {
+      "text": "New analyses suggest dark energy may be evolving over time, challenging standard cosmology and future precision-physics assumptions.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251109013236.htm"
+    }
+  ]
+}

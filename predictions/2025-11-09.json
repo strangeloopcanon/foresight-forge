@@ -23,7 +23,7 @@
       ],
       "rationale": "Shelter disinflation and soft core goods are offset by sticky services. A 0.2\u20130.3% core print aligns with recent trends and consensus.",
       "id": "f5ca0934-b2d4-4359-8142-9ad9a561af27",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -48,7 +48,7 @@
       ],
       "rationale": "Recent mega-cap underperformance and improving breadth favor equal-weight. Seasonals and rates softness can aid cyclicals relative to cap-weighted tech.",
       "id": "5fa720bd-a86c-4bd7-a6d4-b4b7637341df",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -71,7 +71,7 @@
       ],
       "rationale": "High storage, mild weather risks, and ample LNG supply can pressure TTF, though geopolitical and cold snaps keep tail risks.",
       "id": "1868e9f9-1322-4cf9-935a-638d021ae98e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "rationale": "Seasonals, softer data, and risk-off flows could push yields toward 4.25% even without immediate Fed policy shifts.",
       "id": "b7278482-9098-46a3-8aae-5e4312ff3266",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -117,7 +117,7 @@
       ],
       "rationale": "Sentiment remains subdued but stable amid policy uncertainty and tight credit; range centers around recent prints.",
       "id": "3eb214da-d643-45b2-9e73-d4381b9025e1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rationale": "Ongoing U.S.-China policy friction and routine cadence of designations make a November action plausible.",
       "id": "a3079e05-f40a-4c11-a793-f86cc1aa7986",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "AI-era bandwidth demand is surging; hyperscalers frequently announce new cable routes or expansions, though timing is uncertain.",
       "id": "97e201d1-d528-471c-abd0-03b75604716b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -190,7 +190,7 @@
       ],
       "rationale": "If data are benign and shutdown risks fade, vol could mean-revert quickly; however, event risk keeps odds sub-50%.",
       "id": "c660c906-bffb-4c0d-8b8f-d13ca6d8e16a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -212,7 +212,7 @@
       ],
       "rationale": "Seasonal refinery turnarounds and import volatility can produce outsized weekly builds, though such large prints are relatively infrequent.",
       "id": "9d707e17-7e79-4c8c-9a9e-2f3254aed702",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -235,7 +235,7 @@
       ],
       "rationale": "Thanksgiving typically sets annual records; capacity growth and pent-up demand increase odds of a new high despite potential operational headwinds.",
       "id": "40eb88ff-9629-460c-88ef-b3b7dd4b8e23",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
