@@ -1,0 +1,65 @@
+{
+  "date": "2025-11-10",
+  "assessments": [
+    {
+      "id": "7c57da6e-8dc3-4fab-9b1a-5147d5cd7d29",
+      "status": "pending",
+      "status_rationale": "No verified report of an FAA-licensed U.S. commercial orbital launch within the Nov 10\u201320 window appeared in today\u2019s coverage; the window remains open."
+    },
+    {
+      "id": "ebff7edb-fc99-4367-8b73-2159cc63c32e",
+      "status": "pending",
+      "status_rationale": "Markets reportedly rallied on shutdown-deal hopes, implying lower volatility, but no definitive VIX close \u226520 was cited; deadline is still ahead."
+    },
+    {
+      "id": "b9464a93-2ce7-4dd5-8152-7b4580f3448c",
+      "status": "pending",
+      "status_rationale": "The October CPI gasoline component has not been released yet (and may have been delayed by the shutdown); no print provided in today\u2019s news."
+    },
+    {
+      "id": "2ead09db-bbfb-4af1-8843-e5480c4beef5",
+      "status": "pending",
+      "status_rationale": "No EIA storage report data were mentioned; whether a \u226520 Bcf withdrawal occurs by Nov 30 remains unverified."
+    },
+    {
+      "id": "a8ec5e82-dc02-41d8-80bd-ff90d309bd73",
+      "status": "pending",
+      "status_rationale": "No University of Michigan preliminary November expectations figure was reported today; result still outstanding."
+    },
+    {
+      "id": "bb68efa4-462a-444e-a93b-9a0fc887c791",
+      "status": "pending",
+      "status_rationale": "No report indicated Bitcoin traded at or above $100,000; the window remains open through Nov 30."
+    },
+    {
+      "id": "df309b24-fc08-4d81-a8b8-545a01a220e2",
+      "status": "pending",
+      "status_rationale": "No Brent front-month settlement levels were cited; cannot confirm a \u2264$78 settle yet."
+    },
+    {
+      "id": "c3069ff2-d701-4e45-82cc-6b6dda8f9532",
+      "status": "pending",
+      "status_rationale": "No closing value for the 10-year breakeven (T10YIE) was provided; outcome remains unresolved."
+    },
+    {
+      "id": "56f2a40a-8cad-4a7f-8824-f01bac79621f",
+      "status": "pending",
+      "status_rationale": "No coverage of any new state bill explicitly using the phrase \u201cright to compute\u201d; the deadline is year-end."
+    },
+    {
+      "id": "ad71734c-6712-46c0-a363-ed2b11d6942f",
+      "status": "pending",
+      "status_rationale": "The October Core PCE release is due late November and may have been impacted by the shutdown; no data yet."
+    },
+    {
+      "id": "2cebc43f-44f0-479b-aec4-34c6709790d3",
+      "status": "pending",
+      "status_rationale": "No weekly U.S. crude field production figure was reported; awaiting EIA updates by Nov 30."
+    },
+    {
+      "id": "9c369f91-0b63-4386-8c3a-a2cfdea12ec0",
+      "status": "pending",
+      "status_rationale": "Despite a risk-on tone, no explicit Cboe equity-only put/call ratio close (\u22640.55) was cited; still open."
+    }
+  ]
+}

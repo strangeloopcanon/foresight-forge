@@ -1034,3 +1034,12 @@ That said, the news flow could be directional: a potential funding deal and impr
 
 ---
 
+
+## 2025-11-10
+
+Today’s news flow is dominated by politics and the government-shutdown endgame, with markets reportedly rallying on hopes of a deal. That backdrop likely pushed volatility lower, which would work against the VIX ≥20 forecast in the very near term, but we do not have definitive closing data to adjudicate. Similarly, risk-on sentiment could nudge the equity-only put/call ratio downward, yet no explicit CPCE print was provided. Energy- and inflation-related items surfaced (electricity bills rising, political focus on data centers), but nothing directly resolved Brent prices, gasoline CPI, or breakevens today.
+
+Data-dependent predictions remain on hold: CPI gasoline and Core PCE releases appear delayed or rescheduled around the shutdown, and University of Michigan preliminary expectations for November were not mentioned. EIA reports (natural gas storage withdrawals, crude production) and any FAA-licensed orbital launch activity also went unreported in this cycle. Net: no clear outcomes were established, but the shifting policy and market tone may modestly update priors without providing adjudicative evidence.
+
+---
+

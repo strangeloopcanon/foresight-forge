@@ -21,7 +21,7 @@
       ],
       "rationale": "Blue Origin targets a Nov 12 retry and SpaceX frequently flies; odds favor at least one U.S. orbital launch in the window.",
       "id": "7c57da6e-8dc3-4fab-9b1a-5147d5cd7d29",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Event risk and an AI-led valuation wobble raise tail-hedging demand into mid-November macro releases.",
       "id": "ebff7edb-fc99-4367-8b73-2159cc63c32e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Retail gasoline prices eased in October; wholesale RBOB and crude trends point to a negative gasoline CPI contribution.",
       "id": "b9464a93-2ce7-4dd5-8152-7b4580f3448c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "Seasonal shoulder-to-winter transition plus early cold shots can flip storage to larger-than-typical November draws.",
       "id": "2ead09db-bbfb-4af1-8843-e5480c4beef5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Gasoline relief counters tariff rhetoric; expectations likely hover near recent 3\u20134% band.",
       "id": "a8ec5e82-dc02-41d8-80bd-ff90d309bd73",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -128,7 +128,7 @@
       ],
       "rationale": "Momentum, ETF flows, and macro hopes keep a test of the round-number milestone plausible within November.",
       "id": "bb68efa4-462a-444e-a93b-9a0fc887c791",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "rationale": "Softening demand data and potential inventory builds could pressure Brent despite episodic geopolitical risk.",
       "id": "df309b24-fc08-4d81-a8b8-545a01a220e2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -170,7 +170,7 @@
       ],
       "rationale": "Benign October inflation prints and easing energy could compress breakevens toward 2.2%.",
       "id": "c3069ff2-d701-4e45-82cc-6b6dda8f9532",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -191,7 +191,7 @@
       ],
       "rationale": "Montana\u2019s move creates a policy template likely to be copied during state prefiling and early 2026 sessions.",
       "id": "56f2a40a-8cad-4a7f-8824-f01bac79621f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -213,7 +213,7 @@
       ],
       "rationale": "CPI/PPI signals point to a 0.2% core PCE print, consistent with gradual disinflation.",
       "id": "ad71734c-6712-46c0-a363-ed2b11d6942f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "rationale": "U.S. output remains near record highs; incremental gains or revisions can lift the weekly estimate to 13.4 mb/d.",
       "id": "2cebc43f-44f0-479b-aec4-34c6709790d3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -254,7 +254,7 @@
       ],
       "rationale": "Seasonal optimism and momentum can drive call-heavy flows, pushing the equity-only put/call ratio to complacent levels.",
       "id": "9c369f91-0b63-4386-8c3a-a2cfdea12ec0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

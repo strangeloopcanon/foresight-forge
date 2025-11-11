@@ -1,0 +1,212 @@
+{
+  "date": "2025-11-11",
+  "predictions": [
+    {
+      "text": "By 2025-11-14, the U.S. federal government shutdown will end via an enacted CR or appropriations bill signed by the President.",
+      "category": "geopolitics",
+      "horizon_days": 3,
+      "deadline": "2025-11-14",
+      "confidence_pct": 68,
+      "verification_criteria": "Confirmation on congress.gov or whitehouse.gov of a funding measure signed into law on or before 2025-11-14 that restores federal appropriations (ending the lapse).",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/10/government-shutdown-republicans-senate-house-snap.html"
+      ],
+      "monitoring_signals": [
+        "House Rules Committee posts rule for CR",
+        "Senate cloture and final passage votes scheduled",
+        "White House Statement of Administration Policy indicating signature intent"
+      ],
+      "supersedes_id": "780fd5c5-837c-4a26-a279-f384e5832bed",
+      "rationale": "Senate advancing a bipartisan deal increases near-term odds of passage; leadership signaling suggests quick enactment.",
+      "id": "9db768f7-c40e-49d2-8faa-895aac41bbf4",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-11-30, OFAC will announce at least one new Iran-related sanctions designation via a Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 19,
+      "deadline": "2025-11-30",
+      "confidence_pct": 62,
+      "verification_criteria": "A press release on home.treasury.gov naming Iran, the IRGC, or Iran-linked entities/persons under new/additional sanctions by 2025-11-30.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://www.nytimes.com/2025/11/10/world/middleeast/syria-president-al-shara-trump-washington.html"
+      ],
+      "monitoring_signals": [
+        "Escalations involving Iran-backed groups",
+        "Maritime security incidents in Gulf",
+        "Congressional pressure for additional sanctions"
+      ],
+      "rationale": "Recent regional developments and routine cadence of Iran designations make at least one action likely this month.",
+      "id": "849ccdee-88cb-47e2-8150-743cd0c0958f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-12-31, FDA/CDER will remove the boxed warning from labeling of at least one menopausal hormone therapy (MHT) product.",
+      "category": "tech",
+      "horizon_days": 50,
+      "deadline": "2025-12-31",
+      "confidence_pct": 58,
+      "verification_criteria": "An official FDA Drug Safety Communication or approved labeling supplement shows elimination of the \u201cBoxed Warning\u201d for at least one estrogen/progestin MHT on DailyMed or FDA site by 2025-12-31.",
+      "evidence": [
+        "https://www.nytimes.com/2025/11/10/health/fda-hormone-replacement-menopause.html"
+      ],
+      "monitoring_signals": [
+        "FDA Drug Safety Communications",
+        "DailyMed label updates for major MHT brands",
+        "Statements from medical societies referencing label changes"
+      ],
+      "rationale": "Reporting indicates FDA intent; year-end timing aligns with typical label-update cycles.",
+      "id": "e3160dbf-e643-4278-99a4-f1e393dc4915",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 3M\u201310Y Treasury yield spread will steepen by at least 20 bps between 2025-11-07 close and any FRED observation on or before 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 19,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "verification_criteria": "Using FRED series DGS3MO and DGS10: (DGS10\u2212DGS3MO) on any observation dated 2025-11-10 through 2025-11-30 is \u226520 bps higher than the spread on 2025-11-07.",
+      "evidence": [
+        "https://www.marketwatch.com/story/bond-market-may-set-tone-for-stocks-with-125-billion-in-treasury-auctions-ahead-8cb7e522",
+        "https://www.cnbc.com/2025/11/10/trump-proposes-50-year-mortgage-but-homeowner-savings-could-be-minimal.html"
+      ],
+      "monitoring_signals": [
+        "CPI/PPI prints and revisions",
+        "Fedspeak hinting at December cut",
+        "Auction tails and WI performance",
+        "Term premium estimates moving higher"
+      ],
+      "rationale": "Lower front-end expectations and heavy supply can jointly steepen the curve, but moves may be constrained.",
+      "id": "6d107da7-2601-457d-8ca0-02d8d895a4d5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. Retail Sales control group (ex autos, gas, building materials, and food services) MoM SA for October 2025 will print between -0.2% and +0.2% in the advance report due mid-November.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-11-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Census Bureau advance monthly retail trade press release for October 2025 shows control group MoM SA within [-0.2%, +0.2%].",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/10/government-shutdown-republicans-senate-house-snap.html"
+      ],
+      "monitoring_signals": [
+        "High-frequency card-spend trackers",
+        "Redbook same-store sales",
+        "Gasoline prices and volumes",
+        "SNAP issuance timing effects"
+      ],
+      "rationale": "Mixed spending backdrop with SNAP headwinds and disinflation argues for a flat control-group print.",
+      "id": "7bd3e66e-0e06-4c1e-ae9a-9d2c9b6743a0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ERCOT daily peak load will reach at least 65,000 MW on at least one day between 2025-11-22 and 2025-12-10 (U.S. dates).",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-12-10",
+      "confidence_pct": 41,
+      "verification_criteria": "ERCOT public dashboards or official daily reports show system peak load \u226565,000 MW on any date within the window.",
+      "evidence": [
+        "https://www.marketwatch.com/story/electric-bills-are-shooting-up-more-than-7-this-winter-heres-what-you-can-do-now-to-lower-your-costs-3a7cbf3a",
+        "https://www.ercot.com/gridmktinfo/dashboards"
+      ],
+      "monitoring_signals": [
+        "NOAA/CPC temperature outlooks for Texas",
+        "ERCOT day-ahead reserve margins",
+        "Cold front forecasts and heating degree days"
+      ],
+      "rationale": "Early-season cold snaps can drive notable winter peaks, though typically below summer highs.",
+      "id": "9bf5eed4-2e82-4730-890b-f0a74dc02dd5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-12-31, at least one top-10 U.S. card issuer will announce a reduction in credit-card rewards value (earn rate cut, category cap, or higher redemption prices).",
+      "category": "markets",
+      "horizon_days": 50,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "A public issuer communication (press release, blog, or updated terms) from Amex, Chase, Citi, Capital One, BofA, Discover, Wells Fargo, U.S. Bank, Barclays, or Synchrony that clearly devalues consumer rewards.",
+      "evidence": [
+        "https://www.marketwatch.com/story/visa-mastercard-reach-new-settlement-with-merchants-will-it-shake-up-credit-card-rewards-2c0d018a"
+      ],
+      "monitoring_signals": [
+        "Issuer terms-and-conditions updates",
+        "Earnings calls guiding on interchange/rewards costs",
+        "Merchant settlement implementation details"
+      ],
+      "rationale": "Interchange pressure increases incentives to trim rewards economics.",
+      "id": "f9170857-c9c4-4757-b8d5-bfc565514b51",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Ethereum (ETH-USD) will trade at or above $3,600 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 19,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Intraday high on a major exchange (e.g., Coinbase or Bitstamp) \u2265$3,600, confirmed by CoinMarketCap or CoinGecko, on any UTC day through 2025-11-30.",
+      "evidence": [
+        "https://coinmarketcap.com/currencies/ethereum/",
+        "https://www.marketwatch.com/story/bond-market-may-set-tone-for-stocks-with-125-billion-in-treasury-auctions-ahead-8cb7e522"
+      ],
+      "monitoring_signals": [
+        "BTC momentum and ETF flows",
+        "Funding rates and open interest",
+        "Macro risk sentiment and USD moves"
+      ],
+      "rationale": "Crypto beta tends to follow BTC breakouts; macro easing expectations support risk assets.",
+      "id": "03d86fa7-a720-4539-aece-0586f77fbf43",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "EIA will report at least one weekly U.S. propane/propylene stock change of -2.0 million barrels or more (draw) by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 19,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "verification_criteria": "EIA Weekly Petroleum Status Report shows U.S. propane/propylene stocks weekly change \u2264 -2.0 million barrels in any report released by 2025-11-30.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "Heating degree days and cold snaps",
+        "Propane export volumes",
+        "Petrochemical cracker outages or run rates"
+      ],
+      "rationale": "Seasonal draws accelerate with colder weather and steady exports.",
+      "id": "6ccd59fe-16ce-4261-9a86-64d09563fccc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The FOMC will cut the federal funds target range by 25 bps at its December 2025 meeting (announcement by 2025-12-12).",
+      "category": "rates",
+      "horizon_days": 31,
+      "deadline": "2025-12-12",
+      "confidence_pct": 57,
+      "verification_criteria": "Federal Reserve press release shows the target range lowered by 0.25 percentage point relative to the prior meeting, published on or before 2025-12-12.",
+      "evidence": [
+        "https://www.marketwatch.com/story/bond-market-may-set-tone-for-stocks-with-125-billion-in-treasury-auctions-ahead-8cb7e522"
+      ],
+      "monitoring_signals": [
+        "OIS-implied probabilities for December",
+        "Core inflation and labor data prints",
+        "Fedspeak indicating easing bias"
+      ],
+      "rationale": "Communication has shifted dovish; growth and inflation trends support a first cut.",
+      "id": "a28f2978-1495-459a-9a28-3308c3b9c1f5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "bullets": [
+    {
+      "text": "Senate advances deal to end shutdown; markets rally; FAA restricts private jets amid staffing; SNAP pause dents low-income spending.",
+      "tags": [
+        "macro",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/11/10/government-shutdown-republicans-senate-house-snap.html"
+    },
+    {
+      "text": "Supreme Court takes mail-in ballot challenge, shaping 2026 election rules; declines to revisit same-sex marriage.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/10/us/politics/supreme-court-mail-balls-mississippi.html"
+    },
+    {
+      "text": "Trump proposes 50-year mortgages; analysts see limited savings, potential for higher interest costs and extended debt duration.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/10/trump-proposes-50-year-mortgage-but-homeowner-savings-could-be-minimal.html"
+    },
+    {
+      "text": "Winter electricity bills seen up >7%; lawmakers blame AI data centers; DOE expected to prioritize nuclear loans.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/electric-bills-are-shooting-up-more-than-7-this-winter-heres-what-you-can-do-now-to-lower-your-costs-3a7cbf3a"
+    },
+    {
+      "text": "Syria\u2019s president meets Trump at White House, signaling U.S.-Syria thaw and regional realignment efforts.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/10/world/middleeast/syria-president-al-shara-trump-washington.html"
+    },
+    {
+      "text": "At COP30, Chinese low-cost clean tech reshapes climate politics, pressuring Western industries and accelerating global deployment.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/10/climate/cop30-belem-climate-energy-technology-china.html"
+    },
+    {
+      "text": "CoreWeave revenue more than doubled, but weak guidance and data-center delays hit shares, spotlighting execution risks in AI infrastructure.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/10/coreweave-crwv-q3-earnings-report-2025.html"
+    },
+    {
+      "text": "Visa, Mastercard settle with merchants; potential interchange changes could compress credit-card rewards and issuer margins.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/visa-mastercard-reach-new-settlement-with-merchants-will-it-shake-up-credit-card-rewards-2c0d018a"
+    },
+    {
+      "text": "Treasury\u2019s $125B auctions loom as Fed officials float December rate cut; yields expected to steer equity risk appetite.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/bond-market-may-set-tone-for-stocks-with-125-billion-in-treasury-auctions-ahead-8cb7e522"
+    },
+    {
+      "text": "FDA to remove black-box warnings from menopause hormone therapy, likely increasing prescriptions and impacting women\u2019s health markets.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/11/10/health/fda-hormone-replacement-menopause.html"
+    },
+    {
+      "text": "Studies: daily coffee linked to 39% lower AFib risk; Vitamin D3 halves recurrent MI; no clear acetaminophen\u2013autism link.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251110021046.htm"
+    },
+    {
+      "text": "DARPA backs new fab using 3D heterogeneous integration, advancing defense semiconductors and U.S. chip supply resilience.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://spectrum.ieee.org/3d-heterogeneous-integration"
+    },
+    {
+      "text": "China births down ~70% since 1963, intensifying demographic headwinds for growth, housing, and fiscal sustainability.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://paulkedrosky.com/kedrosky-daily-china-births-drop-70-since-1963-ai-firms-hit-100b-fast/"
+    },
+    {
+      "text": "Wikipedia pushes AI firms to use paid API, signaling rising content licensing costs across generative AI supply chains.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/10/wikipedia-urges-ai-companies-to-use-its-paid-api-and-stop-scraping/"
+    },
+    {
+      "text": "Ripple pivots from crypto rails toward traditional finance services, seeking regulatory acceptance and diversified revenue.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/10/after-conquering-crypto-ripple-labs-wants-to-take-on-traditional-finance.html"
+    }
+  ]
+}
