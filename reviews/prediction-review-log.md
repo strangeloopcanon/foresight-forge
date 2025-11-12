@@ -1043,3 +1043,12 @@ Data-dependent predictions remain on hold: CPI gasoline and Core PCE releases ap
 
 ---
 
+
+## 2025-11-11
+
+Today’s news flow is dominated by indications that the U.S. government shutdown is nearing an end, but none of the cited articles clearly confirm that a continuing resolution or appropriations bill has been enacted and signed. Several pieces discuss planning for the aftermath (e.g., airline disruptions, data release timing), reinforcing that resolution may be imminent but not yet definitive in the provided sources.
+
+Because key economic data releases (Retail Sales, FRED updates, EIA weekly stats) have been delayed by the shutdown, there is insufficient evidence to update macro- and energy-related forecasts. No items address OFAC Iran sanctions, Ethereum price levels, card rewards changes, or FDA boxed warnings. Accordingly, all forecasts remain pending until concrete, source-confirmed outcomes emerge.
+
+---
+

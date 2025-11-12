@@ -1,0 +1,252 @@
+{
+  "date": "2025-11-12",
+  "predictions": [
+    {
+      "text": "NOAA SWPC will record at least one G3 (Kp\u22657) or higher geomagnetic storm between 2025-11-12 and 2025-11-15 (UTC).",
+      "category": "tech",
+      "horizon_days": 3,
+      "deadline": "2025-11-15",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Confirmation via NOAA SWPC event logs or alerts indicating a G3 or higher geomagnetic storm (G-scale) occurring within the stated UTC window.",
+      "evidence": [
+        "https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html",
+        "https://www.swpc.noaa.gov/products/alerts-watches-and-warnings"
+      ],
+      "monitoring_signals": [
+        "Real-time Kp index and SWPC G-scale alerts",
+        "ACE/DSCOVR solar wind (Bz, speed) ahead of CME arrival",
+        "Auroral oval forecasts and HF radio blackout reports"
+      ],
+      "rationale": "An X5.1 flare prompted a G4 watch; CME arrivals typically follow within 1\u20133 days, raising odds of at least G3 conditions.",
+      "id": "64880a05-25bc-47f7-857a-a917b599f683",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "On at least one U.S. date by 2025-11-24, FlightAware will report \u22652,500 cancellations within/into/out of the United States.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-11-24",
+      "confidence_pct": 44,
+      "log_odds": -0.241,
+      "verification_criteria": "FlightAware daily statistics show total U.S. cancellations \u22652,500 on any single U.S. local date in the window.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/11/government-shutdown-flight-cancellation.html",
+        "https://www.flightaware.com/live/cancelled"
+      ],
+      "monitoring_signals": [
+        "FAA advisories/ground stops (NAS Status)",
+        "Weather systems impacting major hubs",
+        "Airline operational recovery updates and crew availability"
+      ],
+      "rationale": "Post-shutdown operational resets and staffing strains increase cancellation risk into early holiday travel.",
+      "id": "9708b3ef-487b-4215-baf5-4a644784866d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, the European Commission will publish a formal legislative proposal to phase out Huawei and/or ZTE equipment from EU telecom networks.",
+      "category": "geopolitics",
+      "horizon_days": 18,
+      "deadline": "2025-11-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "A Commission-adopted proposal (COM(2025) document or equivalent) published on the EC site or press corner explicitly mandating phase-out of Huawei/ZTE gear.",
+      "evidence": [
+        "https://techcrunch.com/2025/11/11/eu-considers-law-to-phase-out-huawei-and-zte-equipment-from-blocs-telecom-networks/",
+        "https://ec.europa.eu/commission/presscorner/home/en"
+      ],
+      "monitoring_signals": [
+        "EC weekly College agenda and press briefings",
+        "Member-state digital ministers\u2019 statements",
+        "Draft texts/leaks on \u2018Have Your Say\u2019 portal"
+      ],
+      "rationale": "EU momentum toward supply chain security could accelerate a bloc-wide legal proposal, though timing risk remains.",
+      "id": "9902c8f5-5427-4478-9548-0190371c2dbf",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2025-11-30, Walmart U.S. or Kroger will announce broad multi-category price reductions (\u2265500 items) via an official newsroom post or press release.",
+      "category": "markets",
+      "horizon_days": 18,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "log_odds": -0.16,
+      "verification_criteria": "Corporate newsroom/press release explicitly announcing price cuts spanning multiple categories and covering at least 500 items.",
+      "evidence": [
+        "https://www.marketwatch.com/story/why-targets-price-cuts-on-thousands-of-items-are-more-than-just-a-sales-gimmick-be32cd7d",
+        "https://corporate.walmart.com/newsroom",
+        "https://www.thekrogerco.com/newsroom/"
+      ],
+      "monitoring_signals": [
+        "Holiday pricing campaigns and circulars",
+        "Competitor pricing moves (Target, Aldi, regional grocers)",
+        "CPI grocery subcomponents and retailer commentary"
+      ],
+      "rationale": "Target\u2019s cuts heighten competitive pressure for holiday traffic; mass merchants often match with broad pricing actions.",
+      "id": "06a40ee1-0fb6-45fa-b55d-851bb37f0cb2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, CISA will issue at least one new Emergency Directive to federal civilian agencies.",
+      "category": "tech",
+      "horizon_days": 18,
+      "deadline": "2025-11-30",
+      "confidence_pct": 33,
+      "log_odds": -0.708,
+      "verification_criteria": "A new Emergency Directive appears on cisa.gov/emergency-directives dated within the window (e.g., ED-25-0x).",
+      "evidence": [
+        "https://www.cisa.gov/emergency-directives",
+        "https://www.cisa.gov/news-events/alerts"
+      ],
+      "monitoring_signals": [
+        "Active exploitation reports of high-severity CVEs",
+        "CISA Known Exploited Vulnerabilities (KEV) updates",
+        "Vendor advisories for widely used federal software"
+      ],
+      "rationale": "Resumed federal operations and active threat landscape raise, but don\u2019t guarantee, the need for an emergency directive.",
+      "id": "49cbab26-91ce-4f06-a088-5913b929980b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2025-11-30, at least one Fortune 500 company will file an SEC Form 8-K disclosing a material cybersecurity incident under Item 1.05.",
+      "category": "tech",
+      "horizon_days": 18,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "An 8-K on SEC EDGAR from a 2025 Fortune 500 firm includes Item 1.05 text, filed within the window.",
+      "evidence": [
+        "https://www.sec.gov/edgar/searchedgar/companysearch",
+        "https://www.sec.gov/rules/final/2023/33-11216.pdf",
+        "https://fortune.com/ranking/fortune500/2025/"
+      ],
+      "monitoring_signals": [
+        "Unusual outage reports and ransomware claims",
+        "CISA/FBI joint advisories",
+        "Security researchers noting widespread exploitation"
+      ],
+      "rationale": "Material cyber incidents among large issuers occur regularly; the 8-K cyber rule increases disclosure cadence.",
+      "id": "f1698c54-0877-4a9f-b820-21331b7893e1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-11-12 close to 2025-11-30 close, iShares Russell 1000 Value (IWD) will outperform iShares Russell 1000 Growth (IWF) by \u22651.5 percentage points on an adjusted-close basis.",
+      "category": "markets",
+      "horizon_days": 18,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Adjusted-close total return data from a reputable source (e.g., Bloomberg, Yahoo Finance) show IWD return minus IWF return \u2265 +1.5 pp over the period.",
+      "evidence": [
+        "https://www.marketwatch.com/story/dows-banner-day-points-to-investor-pivot-beyond-s-p-500s-top-winners-4bce59df",
+        "https://www.ishares.com/us/products/239707/ishares-russell-1000-value-etf",
+        "https://www.ishares.com/us/products/239707/ishares-russell-1000-growth-etf"
+      ],
+      "monitoring_signals": [
+        "Breadth metrics (advance/decline, equal-weight vs cap-weight spreads)",
+        "Rates moves impacting duration-sensitive growth",
+        "Cyclicals\u2019 earnings guidance and PMIs"
+      ],
+      "rationale": "Recent breadth improvement and rotation suggest a tactical window for value to outperform growth.",
+      "id": "5a52d59f-7826-454c-a6e3-0a0e1e8094b8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The ICE BofA MOVE Index will close at or above 100.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 18,
+      "deadline": "2025-11-30",
+      "confidence_pct": 46,
+      "log_odds": -0.16,
+      "verification_criteria": "A published daily close for the MOVE index \u2265100.0 from ICE, Bloomberg, or equivalent source within the period.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/11/when-the-government-data-will-start-rolling-out-with-the-shutdown-ending-and-what-it-is-likely-to-show.html",
+        "https://indices.theice.com/",
+        "https://www.investopedia.com/terms/m/move-index.asp"
+      ],
+      "monitoring_signals": [
+        "Treasury auction outcomes and tails",
+        "Releases of delayed CPI/PPI/retail sales data",
+        "Fed communications and front-end rate repricing"
+      ],
+      "rationale": "Data catch-up and policy uncertainty can spark rate-volatility spikes back to triple digits.",
+      "id": "78a0d455-ffa4-4dc6-a0dd-906776d55f8e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NYMEX WTI front-month futures (CL) will settle at or below $76.00 per barrel on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 18,
+      "deadline": "2025-11-30",
+      "confidence_pct": 44,
+      "log_odds": -0.241,
+      "verification_criteria": "CME official settlement for the front-month WTI contract is \u2264$76.00 on any trading day within the window.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/weekly/",
+        "https://www.marketwatch.com/",
+        "https://www.cmegroup.com/markets/energy/crude-oil/wti-crude-oil.html"
+      ],
+      "monitoring_signals": [
+        "EIA inventory builds and product cracks",
+        "OPEC+ headlines and compliance indicators",
+        "Global growth data and dollar strength"
+      ],
+      "rationale": "Seasonal builds and macro uncertainty can pressure crude; Brent downside risk supports WTI testing mid-$70s.",
+      "id": "ba2b518f-d6d3-47cd-b407-73bbc3b2ab36",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-11-30, OFAC will announce at least one DPRK-related sanctions designation via an official U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 18,
+      "deadline": "2025-11-30",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "A Treasury press release from OFAC referencing North Korea/DPRK sanctions designations dated within the window.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/north-korea-sanctions"
+      ],
+      "monitoring_signals": [
+        "DPRK missile tests or arms transfer reporting",
+        "UN Panel of Experts or allied sanctions announcements",
+        "U.S.-ROK-Japan trilateral statements"
+      ],
+      "rationale": "Periodic DPRK sanctions actions continue, particularly following provocations or illicit finance disclosures.",
+      "id": "a20c552b-8651-4ef8-875b-3fafc657268e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show a weekly change in U.S. motor gasoline stocks of +4.0 million barrels or more in at least one report published by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 18,
+      "deadline": "2025-11-30",
+      "confidence_pct": 41,
+      "log_odds": -0.365,
+      "verification_criteria": "An EIA WPSR table indicates a weekly motor gasoline inventory build of \u2265+4.0 million barrels in any report released within the period.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/weekly/",
+        "https://www.marketwatch.com/story/why-targets-price-cuts-on-thousands-of-items-are-more-than-just-a-sales-gimmick-be32cd7d"
+      ],
+      "monitoring_signals": [
+        "Refinery utilization rates and turnaround schedules",
+        "Product supplied (demand) trends",
+        "Import/export flows and PADD-level inventory changes"
+      ],
+      "rationale": "Shoulder-season demand plus higher runs can produce outsized weekly gasoline builds.",
+      "id": "fd64bd76-74e7-4ec4-966c-d0c5baac67c2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

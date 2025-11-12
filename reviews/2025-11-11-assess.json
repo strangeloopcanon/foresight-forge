@@ -1,0 +1,55 @@
+{
+  "date": "2025-11-11",
+  "assessments": [
+    {
+      "id": "9db768f7-c40e-49d2-8faa-895aac41bbf4",
+      "status": "pending",
+      "status_rationale": "Headlines indicate the shutdown appears near an end, but there is no clear confirmation of an enacted CR/appropriations bill signed by the President. Deadline (2025-11-14) still open."
+    },
+    {
+      "id": "849ccdee-88cb-47e2-8150-743cd0c0958f",
+      "status": "pending",
+      "status_rationale": "No mention of new OFAC Iran-related sanctions designations in today\u2019s coverage; awaiting Treasury releases before 2025-11-30."
+    },
+    {
+      "id": "e3160dbf-e643-4278-99a4-f1e393dc4915",
+      "status": "pending",
+      "status_rationale": "No FDA/CDER action reported regarding removal of boxed warnings on MHT products."
+    },
+    {
+      "id": "6d107da7-2601-457d-8ca0-02d8d895a4d5",
+      "status": "pending",
+      "status_rationale": "No evidence provided on 3M\u201310Y spread steepening; government data disruptions further limit confirmation via FRED. Window runs to 2025-11-30."
+    },
+    {
+      "id": "7bd3e66e-0e06-4c1e-ae9a-9d2c9b6743a0",
+      "status": "pending",
+      "status_rationale": "Retail Sales advance report timing is impacted by the shutdown; no print for the control group is available yet."
+    },
+    {
+      "id": "9bf5eed4-2e82-4730-890b-f0a74dc02dd5",
+      "status": "pending",
+      "status_rationale": "Event window (2025-11-22 to 2025-12-10) has not begun; no ERCOT peak load evidence yet."
+    },
+    {
+      "id": "f9170857-c9c4-4757-b8d5-bfc565514b51",
+      "status": "pending",
+      "status_rationale": "No reports of top-10 U.S. card issuers announcing rewards reductions."
+    },
+    {
+      "id": "03d86fa7-a720-4539-aece-0586f77fbf43",
+      "status": "pending",
+      "status_rationale": "No confirmation that ETH traded at or above $3,600; requires market data before 2025-11-30."
+    },
+    {
+      "id": "6ccd59fe-16ce-4261-9a86-64d09563fccc",
+      "status": "pending",
+      "status_rationale": "EIA reporting has been disrupted; no weekly propane/propylene draw of \u22652.0 million barrels is cited."
+    },
+    {
+      "id": "a28f2978-1495-459a-9a28-3308c3b9c1f5",
+      "status": "pending",
+      "status_rationale": "December 2025 FOMC decision remains in the future; no new signals today that finalize outcome."
+    }
+  ]
+}

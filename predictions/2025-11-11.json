@@ -19,7 +19,7 @@
       "supersedes_id": "780fd5c5-837c-4a26-a279-f384e5832bed",
       "rationale": "Senate advancing a bipartisan deal increases near-term odds of passage; leadership signaling suggests quick enactment.",
       "id": "9db768f7-c40e-49d2-8faa-895aac41bbf4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Recent regional developments and routine cadence of Iran designations make at least one action likely this month.",
       "id": "849ccdee-88cb-47e2-8150-743cd0c0958f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Reporting indicates FDA intent; year-end timing aligns with typical label-update cycles.",
       "id": "e3160dbf-e643-4278-99a4-f1e393dc4915",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Lower front-end expectations and heavy supply can jointly steepen the curve, but moves may be constrained.",
       "id": "6d107da7-2601-457d-8ca0-02d8d895a4d5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Mixed spending backdrop with SNAP headwinds and disinflation argues for a flat control-group print.",
       "id": "7bd3e66e-0e06-4c1e-ae9a-9d2c9b6743a0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Early-season cold snaps can drive notable winter peaks, though typically below summer highs.",
       "id": "9bf5eed4-2e82-4730-890b-f0a74dc02dd5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -144,7 +144,7 @@
       ],
       "rationale": "Interchange pressure increases incentives to trim rewards economics.",
       "id": "f9170857-c9c4-4757-b8d5-bfc565514b51",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -165,7 +165,7 @@
       ],
       "rationale": "Crypto beta tends to follow BTC breakouts; macro easing expectations support risk assets.",
       "id": "03d86fa7-a720-4539-aece-0586f77fbf43",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "rationale": "Seasonal draws accelerate with colder weather and steady exports.",
       "id": "6ccd59fe-16ce-4261-9a86-64d09563fccc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -205,7 +205,7 @@
       ],
       "rationale": "Communication has shifted dovish; growth and inflation trends support a first cut.",
       "id": "a28f2978-1495-459a-9a28-3308c3b9c1f5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
