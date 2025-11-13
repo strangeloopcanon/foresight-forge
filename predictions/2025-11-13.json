@@ -1,0 +1,226 @@
+{
+  "date": "2025-11-13",
+  "predictions": [
+    {
+      "text": "By 2025-11-30, CISA will add at least 15 CVEs to its Known Exploited Vulnerabilities (KEV) catalog.",
+      "category": "tech",
+      "horizon_days": 17,
+      "deadline": "2025-11-30",
+      "confidence_pct": 60,
+      "verification_criteria": "Count new CVE entries added to CISA's KEV catalog between 2025-11-13 and 2025-11-30 (UTC) using the official JSON/CSV feeds; total added >= 15.",
+      "evidence": [
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+        "https://www.bleepingcomputer.com/news/security/"
+      ],
+      "monitoring_signals": [
+        "CISA KEV RSS/JSON feed diffs",
+        "Emergency Directive or AA notifications referencing active exploitation",
+        "Ransomware and 0-day exploitation reports from major vendors (Rapid7, Microsoft, Google TAG)"
+      ],
+      "rationale": "Active exploitation pace remains elevated; agencies often batch-add CVEs ahead of holidays.",
+      "id": "88f8fa4b-ec29-4343-8d3f-629383f382be",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The AAA national average regular gasoline price will print at or below $3.10 per gallon on at least one U.S. reporting date by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 17,
+      "deadline": "2025-11-30",
+      "confidence_pct": 57,
+      "verification_criteria": "AAA\u2019s daily national average (regular) displayed on gasprices.aaa.com shows $3.10 or lower on any date through 2025-11-30 (U.S. Eastern time). Screenshot or archived page suffices.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.eia.gov/petroleum/gasdiesel/",
+        "https://www.cmegroup.com/markets/energy/refined-products/rbob-gasoline.html"
+      ],
+      "monitoring_signals": [
+        "NY Harbor RBOB front-month futures trend",
+        "EIA weekly gasoline inventory builds and demand (product supplied)",
+        "Seasonal refinery utilization and crack spread changes"
+      ],
+      "rationale": "Seasonal demand softness, lower RBOB, and adequate inventories should pressure retail prices.",
+      "id": "9ac1d209-f370-4137-b7e0-1b4b7ed77097",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Retail Sales (headline, MoM, SA) for October 2025 will print between -0.4% and +0.2% in the advance report.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-11-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify the headline month-over-month percent change in the Census Bureau's Advance Monthly Retail Trade Report (table 1) for Oct 2025; value must be within [-0.4%, +0.2%].",
+      "evidence": [
+        "https://www.census.gov/retail/marts/www/marts_current.pdf",
+        "https://www.census.gov/retail/index.html",
+        "https://www.eia.gov/petroleum/gasdiesel/ (gas price drag on nominal sales)"
+      ],
+      "monitoring_signals": [
+        "High-frequency card-spend trackers (BAC, JPM, Affinity)",
+        "Auto sales unit results and dealer incentives",
+        "Gasoline prices' month-average vs September"
+      ],
+      "rationale": "Lower gas prices and softer goods demand likely weigh on nominal headline sales.",
+      "id": "67ad5833-3957-45d4-baab-4b0d32002300",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PPI Final Demand (MoM, SA) for October 2025 will print between -0.2% and +0.2% in the BLS release.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-11-14",
+      "confidence_pct": 55,
+      "verification_criteria": "Check the Bureau of Labor Statistics PPI news release table for Final Demand MoM SA for Oct 2025; outcome must be within [-0.2%, +0.2%].",
+      "evidence": [
+        "https://www.bls.gov/ppi/",
+        "https://www.bls.gov/news.release/ppi.htm",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+      ],
+      "monitoring_signals": [
+        "ISM prices paid components",
+        "Energy inputs (WTI/RBOB) month-over-month changes",
+        "Freight rates and supplier delivery times"
+      ],
+      "rationale": "Input cost pressures look contained; energy and core goods disinflation temper PPI.",
+      "id": "1b9b64da-10fa-4256-9804-3bd8d55da749",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least three FAA-licensed U.S. commercial orbital launches will occur between 2025-11-21 00:00 UTC and 2025-12-05 23:59 UTC.",
+      "category": "tech",
+      "horizon_days": 22,
+      "deadline": "2025-12-05",
+      "confidence_pct": 64,
+      "verification_criteria": "Count FAA-licensed orbital launches (e.g., SpaceX, ULA, Rocket Lab from U.S. sites) within the window using FAA/AST licenses and launch logs (NextSpaceflight, Spaceflight Now). Total must be >=3.",
+      "evidence": [
+        "https://www.faa.gov/space/licensing_certification/active_licenses/",
+        "https://nextspaceflight.com/launches/",
+        "https://spaceflightnow.com/launch-schedule/"
+      ],
+      "monitoring_signals": [
+        "Mission static fire tests and Notices to Airmen (NOTAMs)/mariners",
+        "Weather forecasts at Cape Canaveral, Vandenberg, and Wallops",
+        "Range availability and TFR postings"
+      ],
+      "rationale": "Manifest density and typical late-year cadence make three or more launches likely in that span.",
+      "id": "c8a39f25-b763-4adb-82ee-84efaa6ef932",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-11-30, OFAC will add at least one person or entity to the SDN List under the CYBER program.",
+      "category": "geopolitics",
+      "horizon_days": 17,
+      "deadline": "2025-11-30",
+      "confidence_pct": 48,
+      "verification_criteria": "A U.S. Treasury press release and SDN List update explicitly citing the CYBER program tag; at least one new designation dated on or before 2025-11-30.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://sanctionssearch.ofac.treas.gov/",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/cyber-related-sanctions"
+      ],
+      "monitoring_signals": [
+        "US-CERT and FBI advisories linking state-backed or major criminal cyber activity",
+        "Coordinated advisories with UK/NCSC, EU, or Five Eyes",
+        "High-impact ransomware events with U.S. nexus"
+      ],
+      "rationale": "Recent high-profile cyber incidents and ongoing policy focus increase odds of a CYBER-tagged action.",
+      "id": "0a0ee432-ca6f-4875-aa5e-92647583d74a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Cboe SKEW Index will close at or below 120.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 17,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirm a daily official close for SKEW <= 120.0 via Cboe historical data; any one trading day through 2025-11-30 qualifies.",
+      "evidence": [
+        "https://www.cboe.com/us/indices/dashboard/skew/",
+        "https://www.cboe.com/indices/the-skew-index-mes/",
+        "https://www.wsj.com/market-data/quotes/index/SKEW/historical-prices"
+      ],
+      "monitoring_signals": [
+        "Equity breadth improvement and reduced tail-hedging demand",
+        "VVIX/VIX ratio trends",
+        "Dealer gamma positioning around large options expiries"
+      ],
+      "rationale": "Broadening equity rally and subdued demand for tail hedges can depress SKEW readings.",
+      "id": "57d116b7-8e03-4d5f-9977-b5bc93cab86e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CME FedWatch Tool implied probability of a December 2025 25 bp rate cut will close below 45% on at least one trading day by 2025-11-30.",
+      "category": "rates",
+      "horizon_days": 17,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Use CME FedWatch end-of-day snapshot (4:00\u20135:00 p.m. ET) for Dec 2025 meeting; probability for a 25 bp cut < 45% on any trading day through 2025-11-30.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+        "https://www.cnbc.com/2025/11/12/boston-fed-president-collins-advocates-holding-rates-steady.html",
+        "https://fred.stlouisfed.org/series/T10YIE"
+      ],
+      "monitoring_signals": [
+        "Fedspeak indicating a higher bar for near-term cuts",
+        "Inflation prints (CPI/PPI/PCE) surprises vs consensus",
+        "Term premium moves and front-end yields"
+      ],
+      "rationale": "Cautious Fed rhetoric and sticky services inflation could pull market-implied odds lower temporarily.",
+      "id": "7dfb833b-fa1a-4276-bea8-22c4b59cbf80",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "On at least one U.S. date between 2025-11-22 and 2025-12-01, FlightAware will report at least 25,000 total delays within/into/out of the United States.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2025-12-02",
+      "confidence_pct": 58,
+      "verification_criteria": "FlightAware daily 'Delays' totals for the United States tally >= 25,000 on any date in the window; verify via FlightAware daily stats page or archived snapshots.",
+      "evidence": [
+        "https://www.flightaware.com/live/cancelled/",
+        "https://www.tsa.gov/coronavirus/passenger-throughput",
+        "https://www.noaa.gov/weather"
+      ],
+      "monitoring_signals": [
+        "TSA throughput records around Thanksgiving",
+        "NOAA storm systems impacting major hubs (NE/Midwest/West Coast)",
+        "Airline crew/ATC staffing advisories"
+      ],
+      "rationale": "Thanksgiving peak travel and seasonal weather typically drive elevated delays even in benign operational years.",
+      "id": "960ebc59-05e8-430c-a7ba-a2d27cbe898b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-31, a U.S. hyperscaler (Amazon, Microsoft, Google, or Meta) will announce a new U.S. renewable energy PPA of at least 600 MW nameplate capacity.",
+      "category": "energy",
+      "horizon_days": 48,
+      "deadline": "2025-12-31",
+      "confidence_pct": 43,
+      "verification_criteria": "Company press release or official blog post naming counterparty and U.S. project(s) totaling >=600 MW under a new PPA announced by 2025-12-31.",
+      "evidence": [
+        "https://www.microsoft.com/en-us/corporate-responsibility/sustainability/energy",
+        "https://sustainability.google/progress/energy/",
+        "https://www.aboutamazon.com/news/sustainability",
+        "https://techcrunch.com/2025/11/12/data-centers-now-attract-more-investment-than-finding-new-oil-supplies/"
+      ],
+      "monitoring_signals": [
+        "Utility IRP filings citing large data center load",
+        "Developer announcements (NextEra, Invenergy, AES, \u00d8rsted) hinting at large offtakes",
+        "State PUC dockets on data center-driven interconnections"
+      ],
+      "rationale": "Soaring AI/data center load is accelerating large-scale PPAs; year-end often clusters announcements.",
+      "id": "c34189af-87f0-41d5-90a7-66a14db28238",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

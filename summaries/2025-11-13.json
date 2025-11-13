@@ -1,0 +1,114 @@
+{
+  "bullets": [
+    {
+      "text": "House passes funding to end record shutdown; stocks rallied; October jobs and inflation reports may be lost.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/12/government-shutdown-house-vote-trump.html"
+    },
+    {
+      "text": "SNAP benefits face disruption from shutdown-fueled funding halt, risking food security and economic drag for low-income households.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/11/12/us/politics/trump-food-stamps-safety-net.html"
+    },
+    {
+      "text": "Boston Fed\u2019s Collins favors holding rates; sees high bar for further cuts, signaling cautious policy amid uncertain data.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/12/boston-fed-president-collins-advocates-holding-rates-steady-sees-high-bar-for-further-cuts.html"
+    },
+    {
+      "text": "Supreme Court will hear Trump bid to fire Fed Governor Lisa Cook, testing central bank independence.",
+      "tags": [
+        "geopolitics",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/11/12/trump-fed-lisa-cook-supreme-court.html"
+    },
+    {
+      "text": "AI-driven demand lifts Cisco and AMD, beating estimates and raising guidance, reinforcing AI capex as key earnings driver.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/12/cisco-csco-q1-2026-earnings-report.html"
+    },
+    {
+      "text": "Dow tops 48,000 as value stocks rally, broadening market leadership beyond mega-cap tech.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/value-stocks-rally-as-dow-tops-48-000-for-first-time-what-does-it-mean-for-2026-3dd092b6"
+    },
+    {
+      "text": "Global greenhouse gas emissions set to hit a record in 2025, complicating net-zero timelines and policy credibility.",
+      "tags": [
+        "energy",
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2025/11/12/climate/greenhouse-gas-emissions-china.html"
+    },
+    {
+      "text": "U.K. greenlights a small modular reactor in Wales, advancing nuclear as baseload for decarbonization plans.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/12/business/uk-nuclear-power-plant.html"
+    },
+    {
+      "text": "Investment in data centers now exceeds oil exploration, driving surging power demand and political backlash over electricity prices.",
+      "tags": [
+        "energy",
+        "tech",
+        "macro"
+      ],
+      "link": "https://techcrunch.com/2025/11/12/data-centers-now-attract-more-investment-than-finding-new-oil-supplies/"
+    },
+    {
+      "text": "Anthropic unveils $50 billion U.S. AI infrastructure plan, starting with data centers in Texas and New York.",
+      "tags": [
+        "tech",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/12/anthropic-ai-data-centers-texas-new-york.html"
+    },
+    {
+      "text": "Waymo launches freeway robotaxi rides in San Francisco, Los Angeles, and Phoenix, marking a commercialization milestone for autonomous vehicles.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/12/waymo-robotaxi-starts-freeway-highway-rides.html"
+    },
+    {
+      "text": "GLP-1 drugs like Ozempic and Wegovy reduce cardiovascular risk and are linked to sharply lower cancer mortality in studies.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251112011810.htm"
+    },
+    {
+      "text": "Researchers report a material surpassing diamond\u2019s hardness, with potential in cutting tools, wear-resistant coatings, and electronics.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251112011825.htm"
+    },
+    {
+      "text": "Astronomers find three Earth-sized planets orbiting a binary star, broadening potential habitats in multi-star systems.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251112011841.htm"
+    }
+  ]
+}

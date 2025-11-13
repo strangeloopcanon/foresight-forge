@@ -1,0 +1,60 @@
+{
+  "date": "2025-11-12",
+  "assessments": [
+    {
+      "id": "64880a05-25bc-47f7-857a-a917b599f683",
+      "status": "pending",
+      "status_rationale": "No reports of a G3 (Kp\u22657) geomagnetic storm in today\u2019s coverage; the 11/12\u201311/15 window remains open."
+    },
+    {
+      "id": "9708b3ef-487b-4215-baf5-4a644784866d",
+      "status": "pending",
+      "status_rationale": "News notes DOT freezing flight cuts and easing disruptions, but provides no FlightAware tally \u22652,500; deadline is 11/24."
+    },
+    {
+      "id": "9902c8f5-5427-4478-9548-0190371c2dbf",
+      "status": "pending",
+      "status_rationale": "No mention of a European Commission legislative proposal on Huawei/ZTE in today\u2019s articles; deadline 11/30."
+    },
+    {
+      "id": "06a40ee1-0fb6-45fa-b55d-851bb37f0cb2",
+      "status": "pending",
+      "status_rationale": "No newsroom posts or press releases from Walmart or Kroger about broad (\u2265500 items) price cuts in today\u2019s coverage."
+    },
+    {
+      "id": "49cbab26-91ce-4f06-a088-5913b929980b",
+      "status": "pending",
+      "status_rationale": "No CISA Emergency Directive referenced in today\u2019s news; deadline 11/30."
+    },
+    {
+      "id": "f1698c54-0877-4a9f-b820-21331b7893e1",
+      "status": "pending",
+      "status_rationale": "No SEC Form 8-K Item 1.05 disclosures by a Fortune 500 firm are cited today; window remains open through 11/30."
+    },
+    {
+      "id": "5a52d59f-7826-454c-a6e3-0a0e1e8094b8",
+      "status": "pending",
+      "status_rationale": "Although value stocks rallied today, the performance comparison is from 11/12 close to 11/30 close; too early to determine."
+    },
+    {
+      "id": "78a0d455-ffa4-4dc6-a0dd-906776d55f8e",
+      "status": "pending",
+      "status_rationale": "No mention of the MOVE Index level in today\u2019s reporting; deadline is 11/30."
+    },
+    {
+      "id": "ba2b518f-d6d3-47cd-b407-73bbc3b2ab36",
+      "status": "pending",
+      "status_rationale": "Oil price settlements are not reported here; no evidence WTI settled \u2264$76 yet; deadline 11/30."
+    },
+    {
+      "id": "a20c552b-8651-4ef8-875b-3fafc657268e",
+      "status": "pending",
+      "status_rationale": "No Treasury/OFAC DPRK sanctions press release is referenced today; deadline 11/30."
+    },
+    {
+      "id": "fd64bd76-74e7-4ec4-966c-d0c5baac67c2",
+      "status": "pending",
+      "status_rationale": "No EIA gasoline inventory figures cited; shutdown-related delays are noted broadly, and the 11/30 deadline remains."
+    }
+  ]
+}

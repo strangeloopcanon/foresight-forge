@@ -1052,3 +1052,12 @@ Because key economic data releases (Retail Sales, FRED updates, EIA weekly stats
 
 ---
 
+
+## 2025-11-12
+
+Today’s news is dominated by the impending end of the U.S. government shutdown, market rallies (notably value stocks), and company-specific tech headlines. None of the items directly confirm or negate the event-driven predictions (CISA directives, OFAC DPRK sanctions, SEC 8-K cyber disclosures, EU Huawei/ZTE legislative action), leaving them pending.
+
+There are directional signals but nothing conclusive: a value tilt could help the IWD vs. IWF call, while DOT’s freeze on flight cuts and easing disruptions reduce the near-term odds of ≥2,500 cancellations, though severe California weather could still spur disruptions. Data-dependent items (EIA gasoline stocks) may be affected by shutdown timing, and market/volatility thresholds (MOVE, WTI) were not reported here. Overall, all forecasts remain open with no decisive evidence today.
+
+---
+

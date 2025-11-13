@@ -20,7 +20,7 @@
       ],
       "rationale": "An X5.1 flare prompted a G4 watch; CME arrivals typically follow within 1\u20133 days, raising odds of at least G3 conditions.",
       "id": "64880a05-25bc-47f7-857a-a917b599f683",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Post-shutdown operational resets and staffing strains increase cancellation risk into early holiday travel.",
       "id": "9708b3ef-487b-4215-baf5-4a644784866d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "EU momentum toward supply chain security could accelerate a bloc-wide legal proposal, though timing risk remains.",
       "id": "9902c8f5-5427-4478-9548-0190371c2dbf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "Target\u2019s cuts heighten competitive pressure for holiday traffic; mass merchants often match with broad pricing actions.",
       "id": "06a40ee1-0fb6-45fa-b55d-851bb37f0cb2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "Resumed federal operations and active threat landscape raise, but don\u2019t guarantee, the need for an emergency directive.",
       "id": "49cbab26-91ce-4f06-a088-5913b929980b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "Material cyber incidents among large issuers occur regularly; the 8-K cyber rule increases disclosure cadence.",
       "id": "f1698c54-0877-4a9f-b820-21331b7893e1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -155,7 +155,7 @@
       ],
       "rationale": "Recent breadth improvement and rotation suggest a tactical window for value to outperform growth.",
       "id": "5a52d59f-7826-454c-a6e3-0a0e1e8094b8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -178,7 +178,7 @@
       ],
       "rationale": "Data catch-up and policy uncertainty can spark rate-volatility spikes back to triple digits.",
       "id": "78a0d455-ffa4-4dc6-a0dd-906776d55f8e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -201,7 +201,7 @@
       ],
       "rationale": "Seasonal builds and macro uncertainty can pressure crude; Brent downside risk supports WTI testing mid-$70s.",
       "id": "ba2b518f-d6d3-47cd-b407-73bbc3b2ab36",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -223,7 +223,7 @@
       ],
       "rationale": "Periodic DPRK sanctions actions continue, particularly following provocations or illicit finance disclosures.",
       "id": "a20c552b-8651-4ef8-875b-3fafc657268e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -245,7 +245,7 @@
       ],
       "rationale": "Shoulder-season demand plus higher runs can produce outsized weekly gasoline builds.",
       "id": "fd64bd76-74e7-4ec4-966c-d0c5baac67c2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
