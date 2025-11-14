@@ -1,0 +1,125 @@
+{
+  "bullets": [
+    {
+      "text": "Global tech-led selloff deepens; SoftBank plunges; Asia stocks follow; U.S. yields rise as shutdown ends, trimming odds of near-term rate cuts.",
+      "tags": [
+        "markets",
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/14/asia-pacific-friday-stocks-nikkei-225-kospi-nifty-50-hang-seng-hsi-shares-china-retail-property-industrial.html"
+    },
+    {
+      "text": "U.S. new foreclosures jumped 20% in October, signaling rising housing-market distress as high rates and affordability pressures persist.",
+      "tags": [
+        "macro",
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/11/13/foreclosures-rise-october-housing-market-distress.html"
+    },
+    {
+      "text": "White House readies tariff exemptions to ease food inflation, even as Trump-era levies help push U.S. beef prices to record highs.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/13/us/politics/trump-tariffs-food-prices.html"
+    },
+    {
+      "text": "U.S.-China trade truce carries quotas that may cap U.S. soybean sales, limiting relief for American farmers.",
+      "tags": [
+        "geopolitics",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/heres-what-the-u-s-china-trade-truce-really-means-for-the-u-s-soybean-market-627a6cfe"
+    },
+    {
+      "text": "U.S. officials raise concerns over Saudi bid for F-35s, citing security and technology-transfer risks amid shifting Middle East alignments.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/13/us/politics/trump-saudi-fighter-jets.html"
+    },
+    {
+      "text": "Canada accelerates plan to reduce U.S. trade reliance, seeking diversification and investment amid escalating tariff tensions.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/11/13/world/canada/carney-economy-trade-trump-tariffs.html"
+    },
+    {
+      "text": "Blue Origin lands New Glenn booster, matching SpaceX reusability and promising increased competition and capacity in commercial launch markets.",
+      "tags": [
+        "tech",
+        "science",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/"
+    },
+    {
+      "text": "Apple halves commissions for Mini Apps and tightens rules on sharing personal data with third-party AI, reshaping mobile monetization and data flows.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/13/apple-halves-commissions-for-mini-app-makers/"
+    },
+    {
+      "text": "CISA orders urgent patching of flawed Cisco firewalls amid active exploitation across U.S. government networks, highlighting critical infrastructure cyber risk.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/11/13/cisa-warns-federal-agencies-to-patch-flawed-cisco-firewalls-amid-active-exploitation-across-the-us-government/"
+    },
+    {
+      "text": "Despite market jitters, AI financing surges: Cursor raises $2.3B at $29.3B valuation; Musk\u2019s xAI targets $15B; JPMorgan says AI is durable opportunity.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html"
+    },
+    {
+      "text": "Coatue\u2019s Philippe Laffont says the IPO market is 'broken beyond repair,' underscoring exit bottlenecks for late-stage startups.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/13/coatues-philippe-laffont-says-the-ipo-market-is-broken-beyond-repair.html"
+    },
+    {
+      "text": "Boeing defense workers approve new contract, ending three-month strike, restoring production and reducing supply-chain disruption risk.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/13/boeing-defense-workers-strike.html"
+    },
+    {
+      "text": "Tesla recalls 10,500 Powerwall 2 units in U.S. over overheating and fire risk, adding to scrutiny of home energy storage safety.",
+      "tags": [
+        "energy",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/13/tesla-recall-powerwall-2-overheating-fire-battery.html"
+    },
+    {
+      "text": "Nearby super-Earth identified as promising target for biosignature searches, boosting prospects for detecting life with next-gen telescopes.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251113071618.htm"
+    },
+    {
+      "text": "Quantum communication breakthrough extends link distance 200-fold, advancing prospects for long-range quantum networks and secure communications.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251112111019.htm"
+    }
+  ]
+}

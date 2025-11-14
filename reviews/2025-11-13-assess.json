@@ -1,0 +1,55 @@
+{
+  "date": "2025-11-13",
+  "assessments": [
+    {
+      "id": "88f8fa4b-ec29-4343-8d3f-629383f382be",
+      "status": "pending",
+      "status_rationale": "No reporting today on new CISA KEV additions; the deadline is still in the future (2025-11-30)."
+    },
+    {
+      "id": "9ac1d209-f370-4137-b7e0-1b4b7ed77097",
+      "status": "pending",
+      "status_rationale": "No AAA national average gasoline price cited; tariff and inflation coverage does not provide the specific AAA print needed."
+    },
+    {
+      "id": "67ad5833-3957-45d4-baab-4b0d32002300",
+      "status": "pending",
+      "status_rationale": "No mention of the October 2025 retail sales advance report result in today\u2019s news."
+    },
+    {
+      "id": "1b9b64da-10fa-4256-9804-3bd8d55da749",
+      "status": "pending",
+      "status_rationale": "No BLS PPI figure for October 2025 cited; without the numeric print, the outcome cannot be scored."
+    },
+    {
+      "id": "c8a39f25-b763-4adb-82ee-84efaa6ef932",
+      "status": "pending",
+      "status_rationale": "Blue Origin\u2019s successful booster landing indicates launch activity, but the prediction\u2019s window is 2025-11-21 to 2025-12-05; no count of FAA-licensed orbital launches in that window yet."
+    },
+    {
+      "id": "0a0ee432-ca6f-4875-aa5e-92647583d74a",
+      "status": "pending",
+      "status_rationale": "No OFAC SDN List update under the CYBER program was reported today."
+    },
+    {
+      "id": "57d116b7-8e03-4d5f-9977-b5bc93cab86e",
+      "status": "pending",
+      "status_rationale": "Market coverage did not include a Cboe SKEW Index close at or below 120; no specific SKEW value was provided."
+    },
+    {
+      "id": "7dfb833b-fa1a-4276-bea8-22c4b59cbf80",
+      "status": "pending",
+      "status_rationale": "Articles note waning confidence in a December 2025 cut, but no CME FedWatch percentage close was given to verify a sub-45% reading."
+    },
+    {
+      "id": "960ebc59-05e8-430c-a7ba-a2d27cbe898b",
+      "status": "pending",
+      "status_rationale": "The target window for high U.S. flight delays (2025-11-22 to 2025-12-01) has not started."
+    },
+    {
+      "id": "c34189af-87f0-41d5-90a7-66a14db28238",
+      "status": "pending",
+      "status_rationale": "No announcement of a \u2265600 MW U.S. renewable PPA by a hyperscaler appeared in today\u2019s news."
+    }
+  ]
+}

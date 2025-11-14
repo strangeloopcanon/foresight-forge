@@ -1,0 +1,275 @@
+{
+  "date": "2025-11-14",
+  "predictions": [
+    {
+      "text": "University of Michigan 5- to 10-year inflation expectations (preliminary) for November 2025 will print between 2.8% and 3.1%.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-11-15",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify the preliminary November 2025 5- to 10-year inflation expectations series value on the University of Michigan Surveys of Consumers release page. Success if the reported range midpoint falls within 2.8%\u20133.1%.",
+      "evidence": [
+        "https://data.sca.isr.umich.edu/",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-expectations",
+        "https://www.cnbc.com/2025/11/14/asia-pacific-friday-stocks-nikkei-225-kospi-nifty-50-hang-seng-hsi-shares-china-retail-property-industrial.html"
+      ],
+      "monitoring_signals": [
+        "Breakeven inflation rates (FRED: T10YIE, T5YIFR)",
+        "Gasoline price trends (AAA national average)",
+        "ISM prices paid indexes",
+        "Consumer inflation news flow and sentiment shifts"
+      ],
+      "rationale": "Long-run expectations have been anchored near 3%. Recent fuel price moderation supports stability within a tight band.",
+      "id": "d3add620-0857-4628-a9bc-c81d6153a1de",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The AAA national average regular gasoline price will print at or below $3.05 per gallon on at least one U.S. reporting date by 2025-11-30.",
+      "category": "energy",
+      "horizon_days": 16,
+      "deadline": "2025-11-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Check AAA\u2019s Daily Fuel Gauge Report for the national average regular price. Any daily reading \u2264 $3.05 by 2025-11-30 counts.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.eia.gov/petroleum/gasdiesel/",
+        "https://www.cnbc.com/2025/11/13/foreclosures-rise-october-housing-market-distress.html"
+      ],
+      "monitoring_signals": [
+        "NY Harbor RBOB front-month futures settlements",
+        "EIA weekly gasoline inventories and implied demand",
+        "Refinery utilization and unplanned outages",
+        "Seasonal demand patterns into Thanksgiving"
+      ],
+      "supersedes_id": "9ac1d209-f370-4137-b7e0-1b4b7ed77097",
+      "rationale": "Falling crude and shoulder-season demand point to further pump price declines, but taxes and refining spreads may limit the downside.",
+      "id": "c21efac5-8c0e-456d-9376-4bb4d9c58313",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or above 4.60% on at least one trading day by 2025-11-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 16,
+      "deadline": "2025-11-30",
+      "confidence_pct": 58,
+      "verification_criteria": "Confirm any daily close for FRED series DGS10 \u2265 4.60% through 2025-11-30.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.cnbc.com/2025/11/14/asia-pacific-friday-stocks-nikkei-225-kospi-nifty-50-hang-seng-hsi-shares-china-retail-property-industrial.html"
+      ],
+      "monitoring_signals": [
+        "Fed communications and December meeting odds (CME FedWatch)",
+        "Auction results for 10Y and 30Y Treasuries",
+        "Inflation and growth data surprises",
+        "Risk sentiment and term premium indicators"
+      ],
+      "rationale": "Post-shutdown risk-on unwind and supply concerns can push yields higher near-term, even amid mixed growth data.",
+      "id": "f5845b75-2048-426d-9dc8-0d325caf979e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Cboe SKEW Index (SKEW) will close at or above 150.0 on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 16,
+      "deadline": "2025-11-30",
+      "confidence_pct": 34,
+      "verification_criteria": "Use Cboe historical data for SKEW. Any daily close \u2265 150.0 by 2025-11-30 qualifies.",
+      "evidence": [
+        "https://www.cboe.com/us/indices/data/skew-historical-data/",
+        "https://www.cnbc.com/2025/11/13/coatues-philippe-laffont-says-the-ipo-market-is-broken-beyond-repair.html"
+      ],
+      "monitoring_signals": [
+        "Equity drawdowns and demand for crash protection",
+        "Earnings pre-announcements and guidance cuts",
+        "Macro event risk clustering (data, policy, geopolitics)",
+        "Changes in skew of index options"
+      ],
+      "rationale": "Heightened tail-hedging demand during market stress can lift SKEW to elevated readings even if VIX remains moderate.",
+      "id": "46a443ca-c6ea-4a29-9625-e8e2b2270b5b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2025-12-10, OFAC will announce at least one new Global Magnitsky (GLOMAG) sanctions designation via an official U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 26,
+      "deadline": "2025-12-10",
+      "confidence_pct": 68,
+      "verification_criteria": "Check Treasury press releases for new Global Magnitsky designations dated on or before 2025-12-10.",
+      "evidence": [
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/global-magnitsky-sanctions",
+        "https://home.treasury.gov/news/press-releases"
+      ],
+      "monitoring_signals": [
+        "U.S. statements around Human Rights Day (Dec 10)",
+        "Congressional or State Dept. human-rights reports",
+        "NGO investigations highlighting abuses",
+        "Multilateral sanction coordination announcements"
+      ],
+      "rationale": "Treasury often times GLOMAG actions around Human Rights Day, and rights concerns are elevated globally.",
+      "id": "f20f093d-46d6-4461-9cdf-75971ba27f18",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "EIA Weekly Natural Gas Storage report will show a net change of -50 Bcf or lower (withdrawal \u2265 50 Bcf) in at least one report published by 2025-12-15.",
+      "category": "energy",
+      "horizon_days": 31,
+      "deadline": "2025-12-15",
+      "confidence_pct": 60,
+      "verification_criteria": "Verify any EIA Weekly Natural Gas Storage release through 2025-12-15 with reported net change \u2264 -50 Bcf.",
+      "evidence": [
+        "https://ir.eia.gov/ngs/ngs.html",
+        "https://www.eia.gov/naturalgas/storage/"
+      ],
+      "monitoring_signals": [
+        "HDDs and temperature anomalies (NOAA CPC)",
+        "Power sector gas burn and LNG feedgas volumes",
+        "Storage levels vs. 5-year average",
+        "Production and pipeline maintenance updates"
+      ],
+      "rationale": "Seasonal heating demand and growing LNG feedgas typically drive larger early-winter withdrawals.",
+      "id": "057ce694-6e43-4266-b31a-6d4ab9a8cff6",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or below \u20ac30.00/MWh on at least one trading day by 2025-12-15 (UTC).",
+      "category": "energy",
+      "horizon_days": 31,
+      "deadline": "2025-12-15",
+      "confidence_pct": 41,
+      "verification_criteria": "Confirm any official ICE Endex front-month TTF futures settlement \u2264 \u20ac30.00/MWh by 2025-12-15.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://agsi.gie.eu/ (EU gas storage levels)"
+      ],
+      "monitoring_signals": [
+        "EU gas storage fullness and withdrawals",
+        "Weather forecasts for NW Europe",
+        "LNG arrivals and outages",
+        "Pipeline flows from Norway and North Africa"
+      ],
+      "rationale": "High storage and steady LNG flows can cap prices absent severe cold or supply disruptions.",
+      "id": "da5689d7-b560-422f-865c-355b7aca53d8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "CME FedWatch Tool implied probability of a hold (no rate change) at the December 2025 FOMC meeting will close below 20% on at least one trading day by 2025-12-10.",
+      "category": "rates",
+      "horizon_days": 26,
+      "deadline": "2025-12-10",
+      "confidence_pct": 38,
+      "verification_criteria": "Use CME FedWatch daily close snapshots for the December 2025 meeting. Event occurs if the probability of \u2018No Change\u2019 < 20% on any close by 2025-12-10.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+        "https://fred.stlouisfed.org/series/T5YIFR"
+      ],
+      "monitoring_signals": [
+        "Inflation data (PCE/CPI) and labor reports",
+        "FOMC communications and media signaling",
+        "Rates market pricing (Eurodollars/SOFR futures, OIS)",
+        "Financial conditions and risk sentiment"
+      ],
+      "rationale": "A dovish pivot or soft data could push markets to price a near-certain cut, reducing hold odds sharply.",
+      "id": "ecd97bb9-14fb-4e76-aacc-fd6a8a845f96",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "TSA daily U.S. checkpoint throughput will reach at least 3,150,000 passengers on at least one day between 2025-11-22 and 2025-12-01 (U.S. reporting dates).",
+      "category": "macro",
+      "horizon_days": 18,
+      "deadline": "2025-12-02",
+      "confidence_pct": 33,
+      "verification_criteria": "Check TSA Passenger Throughput data for the stated window. Any single-day total \u2265 3,150,000 qualifies.",
+      "evidence": [
+        "https://www.tsa.gov/travel/passenger-volumes",
+        "https://newsroom.aaa.com/"
+      ],
+      "monitoring_signals": [
+        "Airline scheduled seats and load factors",
+        "Weather forecasts for major hubs",
+        "FAA operational status and ATC delays",
+        "Holiday travel demand indicators (AAA forecasts)"
+      ],
+      "supersedes_id": "40eb88ff-9629-460c-88ef-b3b7dd4b8e23",
+      "rationale": "Thanksgiving often sets annual throughput records; capacity growth and robust travel demand could push a new high.",
+      "id": "48075d7f-3400-4acc-a3de-4deaf501bd7b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least six FAA-licensed U.S. commercial orbital launches will occur between 2025-12-01 00:00 UTC and 2025-12-20 23:59 UTC.",
+      "category": "tech",
+      "horizon_days": 36,
+      "deadline": "2025-12-21",
+      "confidence_pct": 57,
+      "verification_criteria": "Count FAA-licensed U.S. orbital launches in the window via FAA AST records and authoritative launch logs. Minimum count: 6.",
+      "evidence": [
+        "https://www.faa.gov/space/launches",
+        "https://nextspaceflight.com/launches/",
+        "https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/"
+      ],
+      "monitoring_signals": [
+        "SpaceX manifest cadence and weather ranges",
+        "Range availability at CCSFS/Vandenberg",
+        "Regulatory clearances and payload readiness",
+        "Competitor launch schedules (Rocket Lab, ULA, Blue Origin)"
+      ],
+      "rationale": "Improved reusability and high manifest density typically drive strong December cadence for U.S. launch providers.",
+      "id": "decf71e8-4d8d-490a-ad83-16eac14cc5fd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one U.S. IPO priced between 2025-11-15 and 2025-12-31 will price below the bottom of its marketed range.",
+      "category": "markets",
+      "horizon_days": 47,
+      "deadline": "2025-12-31",
+      "confidence_pct": 65,
+      "verification_criteria": "Verify through IPO pricing press releases, Nasdaq/Renaissance Capital data that at least one IPO final price is below the low end of its filed range.",
+      "evidence": [
+        "https://www.nasdaq.com/market-activity/ipos",
+        "https://www.renaissancecapital.com/ipo-center/filings",
+        "https://www.cnbc.com/2025/11/13/coatues-philippe-laffont-says-the-ipo-market-is-broken-beyond-repair.html"
+      ],
+      "monitoring_signals": [
+        "IPO order book coverage reports",
+        "Secondary market performance of recent listings",
+        "Volatility and risk sentiment",
+        "Sector-specific demand and valuation resets"
+      ],
+      "rationale": "Choppy risk sentiment and valuation pressure often force conservative pricing or range cuts into year-end.",
+      "id": "4868e39f-dea6-4529-bac1-be703366ca34",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NYMEX Henry Hub front-month natural gas futures (CME: NG) will settle at or above $3.75 per MMBtu on at least one trading day by 2025-12-15 (UTC).",
+      "category": "energy",
+      "horizon_days": 31,
+      "deadline": "2025-12-15",
+      "confidence_pct": 52,
+      "verification_criteria": "Confirm any official CME Henry Hub front-month settlement \u2265 $3.75/MMBtu by 2025-12-15.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.html",
+        "https://www.cpc.ncep.noaa.gov/products/predictions/610day/"
+      ],
+      "monitoring_signals": [
+        "Short-range and 6\u201310 day HDD forecasts",
+        "Production, pipeline constraints, and LNG feedgas",
+        "Storage draws vs. 5-year average",
+        "Outages at major LNG terminals"
+      ],
+      "rationale": "Seasonal cold snaps and stronger LNG feedgas can lift front-month prices briefly above $3.75.",
+      "id": "5c5214d1-2ad5-4922-8c18-fc72c5915798",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

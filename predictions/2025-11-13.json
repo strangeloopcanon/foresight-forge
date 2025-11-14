@@ -20,7 +20,7 @@
       ],
       "rationale": "Active exploitation pace remains elevated; agencies often batch-add CVEs ahead of holidays.",
       "id": "88f8fa4b-ec29-4343-8d3f-629383f382be",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Seasonal demand softness, lower RBOB, and adequate inventories should pressure retail prices.",
       "id": "9ac1d209-f370-4137-b7e0-1b4b7ed77097",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Lower gas prices and softer goods demand likely weigh on nominal headline sales.",
       "id": "67ad5833-3957-45d4-baab-4b0d32002300",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Input cost pressures look contained; energy and core goods disinflation temper PPI.",
       "id": "1b9b64da-10fa-4256-9804-3bd8d55da749",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Manifest density and typical late-year cadence make three or more launches likely in that span.",
       "id": "c8a39f25-b763-4adb-82ee-84efaa6ef932",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Recent high-profile cyber incidents and ongoing policy focus increase odds of a CYBER-tagged action.",
       "id": "0a0ee432-ca6f-4875-aa5e-92647583d74a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Broadening equity rally and subdued demand for tail hedges can depress SKEW readings.",
       "id": "57d116b7-8e03-4d5f-9977-b5bc93cab86e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Cautious Fed rhetoric and sticky services inflation could pull market-implied odds lower temporarily.",
       "id": "7dfb833b-fa1a-4276-bea8-22c4b59cbf80",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "Thanksgiving peak travel and seasonal weather typically drive elevated delays even in benign operational years.",
       "id": "960ebc59-05e8-430c-a7ba-a2d27cbe898b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "rationale": "Soaring AI/data center load is accelerating large-scale PPAs; year-end often clusters announcements.",
       "id": "c34189af-87f0-41d5-90a7-66a14db28238",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
