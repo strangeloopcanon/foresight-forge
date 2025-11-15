@@ -1070,3 +1070,12 @@ Policy and macro headlines—tariff adjustments aimed at food prices, government
 
 ---
 
+
+## 2025-11-14
+
+Today’s news flow is dominated by U.S. political developments, administrative actions (including selective tariff reductions), and notes on lingering delays to federal economic data releases. None of the items directly report the specific market or economic prints required to resolve the listed forecasts, such as the University of Michigan inflation expectations, AAA gasoline averages, Treasury yields, SKEW, or energy benchmarks.
+
+While some stories could influence trajectories—tariff cuts may marginally ease near-term price pressures, storm forecasts can affect natural gas demand and storage, and geopolitical tension in the Strait of Hormuz can sway energy prices—the articles do not provide definitive measurements or settlements. Consequently, all forecasts remain pending until authoritative data points or official announcements become available within their respective windows.
+
+---
+

@@ -1,0 +1,260 @@
+{
+  "date": "2025-11-15",
+  "predictions": [
+    {
+      "text": "COMEX gold front-month futures (CME: GC) will settle at or above $4,200.00 per troy ounce on at least one trading day by 2025-11-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 15,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Use CME Group official daily settlement for the active front-month GC futures contract; any settlement >= 4200.00 USD/oz on or before 2025-11-30 UTC counts.",
+      "evidence": [
+        "https://www.marketwatch.com/story/gold-is-holding-above-4-000-for-reasons-that-could-drive-it-to-5-000-7ea08755",
+        "https://www.cmegroup.com/markets/metals/precious/gold.html"
+      ],
+      "monitoring_signals": [
+        "DXY (U.S. dollar index)",
+        "U.S. 10-year TIPS real yield",
+        "Central-bank gold purchase data (WGC)",
+        "GLD ETF daily flows",
+        "Geopolitical risk headlines (Middle East/shipping)"
+      ],
+      "rationale": "Gold above $4,000 with safe-haven demand and central-bank buying; a modest incremental spike is plausible if real yields soften or geopolitical stress rises.",
+      "id": "3cd6a35d-87c8-49e6-bdb0-f06824c7fd2d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent front-month crude will settle at or above $86.00 per barrel on at least one trading day by 2025-11-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 15,
+      "deadline": "2025-11-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Verify via ICE official settlement for Brent front-month futures; any settlement >= 86.00 USD/bbl by 2025-11-30 UTC qualifies.",
+      "evidence": [
+        "https://www.nytimes.com/2025/11/14/world/middleeast/iran-tanker-strait-of-hormuz.html",
+        "https://www.theice.com/products/219/Brent-Crude-Futures"
+      ],
+      "monitoring_signals": [
+        "Strait of Hormuz incident reports",
+        "OPEC+ supply headlines or guidance",
+        "EIA weekly crude/product inventories",
+        "VLCC tanker rates",
+        "DXY and broader risk sentiment"
+      ],
+      "rationale": "Heightened Hormuz shipping risk can add a risk premium to crude into month-end.",
+      "id": "e6700368-d17c-440e-952a-07641a232e07",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or below $90,000 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 15,
+      "deadline": "2025-11-30",
+      "confidence_pct": 54,
+      "log_odds": 0.1603,
+      "verification_criteria": "Use CoinMarketCap or CoinGecko daily UTC candles; any daily low <= 90,000.00 USD on or before 2025-11-30 UTC satisfies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/14/bitcoin-falls-below-95000-as-four-day-rout-picks-up-steam-.html",
+        "https://coinmarketcap.com/currencies/bitcoin/"
+      ],
+      "monitoring_signals": [
+        "Perpetual futures funding rates",
+        "Net long/short liquidations",
+        "NASDAQ/mega-cap tech performance",
+        "DXY and U.S. real yields",
+        "Exchange net flows/on-chain risk metrics"
+      ],
+      "rationale": "Crypto sold off with risk assets; another ~5% drawdown is plausible amid elevated volatility and macro uncertainty.",
+      "id": "a49b49c0-3826-4948-b00a-60bac19d3186",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-11-15 close to 2025-12-15 close, Alphabet Inc. Class A (GOOGL) adjusted-close total return will outperform SPDR S&P 500 ETF (SPY) by at least 2.0 percentage points.",
+      "category": "markets",
+      "horizon_days": 30,
+      "deadline": "2025-12-15",
+      "confidence_pct": 53,
+      "log_odds": 0.1201,
+      "verification_criteria": "Compare adjusted-close prices (dividends/splits) from a reputable source (e.g., Nasdaq/Yahoo Finance). Compute percentage change from 2025-11-15 close to 2025-12-15 close; if GOOGL \u2212 SPY >= 2.0 pp, count as true.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/14/warren-buffetts-berkshire-hathaway-reveals-new-position-in-alphabet.html"
+      ],
+      "monitoring_signals": [
+        "Alphabet newsflow (AI monetization, Cloud margins)",
+        "Buybacks and capital returns",
+        "Antitrust/regulatory headlines",
+        "Mega-cap rotation vs cyclicals",
+        "Options flow/IV skew in GOOGL"
+      ],
+      "rationale": "A new Berkshire stake can catalyze incremental flows and sentiment into year-end.",
+      "id": "98a92748-d903-45a9-b6fe-caec44ef0c5d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The AAA U.S. national average price for regular gasoline will print at or below $3.00 per gallon on at least one reporting date by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 46,
+      "deadline": "2025-12-31",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Confirm via AAA Gas Prices national average. Any daily national average <= $3.000 by 2025-12-31 qualifies.",
+      "evidence": [
+        "https://gasprices.aaa.com/"
+      ],
+      "monitoring_signals": [
+        "NYMEX RBOB front-month",
+        "WTI crude price",
+        "Refinery utilization/outages",
+        "PADD 3 gasoline inventories (EIA)",
+        "Retail margins trend"
+      ],
+      "rationale": "Seasonal demand softness and stable crude could push the national average to a 3-handle by year-end.",
+      "id": "c971bd19-bebb-4c8a-be1d-3b6044e58dd3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "TSA daily U.S. checkpoint throughput will reach at least 3,200,000 passengers on at least one day between 2025-11-22 and 2025-12-01 (U.S. reporting dates).",
+      "category": "macro",
+      "horizon_days": 17,
+      "deadline": "2025-12-02",
+      "confidence_pct": 38,
+      "log_odds": -0.4902,
+      "verification_criteria": "Use TSA\u2019s daily \u2018Passenger Volumes\u2019 page; any U.S. date within 2025-11-22 to 2025-12-01 with total throughput >= 3,200,000 satisfies.",
+      "evidence": [
+        "https://www.tsa.gov/travel/passenger-volumes"
+      ],
+      "monitoring_signals": [
+        "Advance airline schedules and load factors",
+        "Weather outlook for major hubs",
+        "FlightAware delay/cancellation aggregates",
+        "Fare trends and capacity additions",
+        "TSA staffing advisories"
+      ],
+      "rationale": "Thanksgiving travel often sets records; continued demand growth increases odds of a new throughput high.",
+      "id": "14379c9b-d87c-4df8-afd2-0e0f01ced9f8",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Cboe Volatility Index (VIX) will close at or above 24.00 on at least one trading day by 2025-12-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 30,
+      "deadline": "2025-12-15",
+      "confidence_pct": 44,
+      "log_odds": -0.2412,
+      "verification_criteria": "Use Cboe official VIX closing values; any close >= 24.00 by 2025-12-15 UTC counts.",
+      "evidence": [
+        "https://www.cboe.com/vix/"
+      ],
+      "monitoring_signals": [
+        "SPX realized volatility and skew",
+        "Macro calendar (CPI, jobs, Fed communications)",
+        "Credit spreads (CDX IG/HY)",
+        "Dealer gamma positioning",
+        "Geopolitical escalation headlines"
+      ],
+      "rationale": "Macro uncertainty and thin year-end liquidity raise odds of a volatility spike.",
+      "id": "fcba7dba-2e29-45f5-8adc-2cd93bc44293",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-12-15, OFAC will announce at least one new Venezuela-related sanctions designation via an official U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 30,
+      "deadline": "2025-12-15",
+      "confidence_pct": 45,
+      "log_odds": -0.2014,
+      "verification_criteria": "Check Treasury press releases and OFAC Recent Actions for designations tagged to the Venezuela sanctions program; any new SDN listing qualifies.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions"
+      ],
+      "monitoring_signals": [
+        "U.S.\u2013Venezuela negotiations and election compliance",
+        "Oil sanctions waiver developments",
+        "Treasury/State Dept briefings",
+        "Regional political/security events"
+      ],
+      "rationale": "Policy oscillates between relief and pressure; slippage on commitments could trigger new designations.",
+      "id": "4d1592cb-1b5a-40d5-883d-8975cf42afc6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-12-15, WhatsApp will enable third-party chat integration for users in the EU, confirmed via an official WhatsApp or Meta blog/help-center post.",
+      "category": "tech",
+      "horizon_days": 30,
+      "deadline": "2025-12-15",
+      "confidence_pct": 54,
+      "log_odds": 0.1603,
+      "verification_criteria": "An official Meta/WhatsApp announcement confirming live availability of third-party chat integration in the EU suffices; third-party reports alone do not.",
+      "evidence": [
+        "https://techcrunch.com/2025/11/14/whatsapp-to-launch-third-party-chat-integration-in-europe-soon/",
+        "https://digital-markets-act.ec.europa.eu/"
+      ],
+      "monitoring_signals": [
+        "WhatsApp beta release notes (e.g., WABetaInfo)",
+        "Meta Newsroom and WhatsApp blog updates",
+        "European Commission DMA compliance updates",
+        "App UI toggles and help-center documentation"
+      ],
+      "rationale": "DMA compliance pressure and company signaling of an imminent launch support a near-term rollout.",
+      "id": "cf92a616-2665-4253-862d-f73a43e107d8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The ICE BofA MOVE Index will close at or below 85.0 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 46,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "log_odds": -0.1201,
+      "verification_criteria": "Use ICE Data Indices official daily close for the MOVE Index; any close <= 85.0 by 2025-12-31 UTC qualifies.",
+      "evidence": [
+        "https://indices.theice.com/index/MOVE"
+      ],
+      "monitoring_signals": [
+        "Treasury market liquidity/depth metrics",
+        "Fed communication and policy path clarity",
+        "Auction outcomes (tails, bid-to-cover)",
+        "Swaption implied vol surface"
+      ],
+      "rationale": "If data flow normalizes and Fed guidance steadies, rates volatility can compress into year-end.",
+      "id": "fbd9449d-cb2a-420e-a4cb-9518416840cd",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or above \u20ac45.00/MWh on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 46,
+      "deadline": "2025-12-31",
+      "confidence_pct": 36,
+      "log_odds": -0.5754,
+      "verification_criteria": "Use ICE Endex official settlement for Dutch TTF front-month; any settlement >= \u20ac45.00/MWh by 2025-12-31 UTC counts.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures"
+      ],
+      "monitoring_signals": [
+        "European temperature and HDD forecasts",
+        "LNG arrival schedules and outages",
+        "Norwegian pipeline maintenance/outages",
+        "Storage draw rates (GIE Agsi+)",
+        "Global shipping/geopolitical disruptions"
+      ],
+      "rationale": "A colder-than-normal start to winter or supply hiccups could briefly reintroduce price risk premia.",
+      "id": "92310c57-467a-494a-b828-0eccb68251fe",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

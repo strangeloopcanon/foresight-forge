@@ -1,0 +1,65 @@
+{
+  "date": "2025-11-14",
+  "assessments": [
+    {
+      "id": "d3add620-0857-4628-a9bc-c81d6153a1de",
+      "status": "pending",
+      "status_rationale": "No report of the University of Michigan preliminary 5- to 10-year inflation expectations for November 2025 appears in the provided news. Without a published figure, this cannot be verified yet."
+    },
+    {
+      "id": "c21efac5-8c0e-456d-9376-4bb4d9c58313",
+      "status": "pending",
+      "status_rationale": "No AAA national average gasoline price data is cited. Tariff cuts on certain foods may influence broader prices but do not resolve the specific AAA threshold; deadline remains in the future."
+    },
+    {
+      "id": "f5845b75-2048-426d-9dc8-0d325caf979e",
+      "status": "pending",
+      "status_rationale": "No evidence of the U.S. 10-year Treasury yield closing at or above 4.60% is provided in the news bullets; deadline is still ahead."
+    },
+    {
+      "id": "46a443ca-c6ea-4a29-9625-e8e2b2270b5b",
+      "status": "pending",
+      "status_rationale": "There is no mention of the Cboe SKEW Index level; no close at or above 150 is documented here."
+    },
+    {
+      "id": "f20f093d-46d6-4461-9cdf-75971ba27f18",
+      "status": "pending",
+      "status_rationale": "No OFAC Global Magnitsky sanctions announcement appears in the provided sources; the deadline has not arrived."
+    },
+    {
+      "id": "057ce694-6e43-4266-b31a-6d4ab9a8cff6",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Natural Gas Storage figures are referenced; no confirmation of a \u226550 Bcf withdrawal yet."
+    },
+    {
+      "id": "da5689d7-b560-422f-865c-355b7aca53d8",
+      "status": "pending",
+      "status_rationale": "No settlement levels for ICE Endex Dutch TTF are cited; nothing confirms a close at or below \u20ac30/MWh."
+    },
+    {
+      "id": "ecd97bb9-14fb-4e76-aacc-fd6a8a845f96",
+      "status": "pending",
+      "status_rationale": "No CME FedWatch probabilities for the December 2025 FOMC meeting are reported; cannot verify a sub-20% close."
+    },
+    {
+      "id": "48075d7f-3400-4acc-a3de-4deaf501bd7b",
+      "status": "pending",
+      "status_rationale": "The TSA throughput window (Nov 22\u2013Dec 1) has not begun; no throughput figures are provided."
+    },
+    {
+      "id": "decf71e8-4d8d-490a-ad83-16eac14cc5fd",
+      "status": "pending",
+      "status_rationale": "The launch window (Dec 1\u201320) has not started; no FAA-licensed launch counts are available."
+    },
+    {
+      "id": "4868e39f-dea6-4529-bac1-be703366ca34",
+      "status": "pending",
+      "status_rationale": "The pricing window opens now, but no IPO pricing outcomes are mentioned; no evidence of a deal pricing below its range."
+    },
+    {
+      "id": "5c5214d1-2ad5-4922-8c18-fc72c5915798",
+      "status": "pending",
+      "status_rationale": "No settlement data for NYMEX Henry Hub front-month futures is included; cannot confirm a \u2265$3.75/MMBtu close."
+    }
+  ]
+}

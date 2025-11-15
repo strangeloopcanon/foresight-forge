@@ -21,7 +21,7 @@
       ],
       "rationale": "Long-run expectations have been anchored near 3%. Recent fuel price moderation supports stability within a tight band.",
       "id": "d3add620-0857-4628-a9bc-c81d6153a1de",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -45,7 +45,7 @@
       "supersedes_id": "9ac1d209-f370-4137-b7e0-1b4b7ed77097",
       "rationale": "Falling crude and shoulder-season demand point to further pump price declines, but taxes and refining spreads may limit the downside.",
       "id": "c21efac5-8c0e-456d-9376-4bb4d9c58313",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Post-shutdown risk-on unwind and supply concerns can push yields higher near-term, even amid mixed growth data.",
       "id": "f5845b75-2048-426d-9dc8-0d325caf979e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Heightened tail-hedging demand during market stress can lift SKEW to elevated readings even if VIX remains moderate.",
       "id": "46a443ca-c6ea-4a29-9625-e8e2b2270b5b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -111,7 +111,7 @@
       ],
       "rationale": "Treasury often times GLOMAG actions around Human Rights Day, and rights concerns are elevated globally.",
       "id": "f20f093d-46d6-4461-9cdf-75971ba27f18",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -133,7 +133,7 @@
       ],
       "rationale": "Seasonal heating demand and growing LNG feedgas typically drive larger early-winter withdrawals.",
       "id": "057ce694-6e43-4266-b31a-6d4ab9a8cff6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -155,7 +155,7 @@
       ],
       "rationale": "High storage and steady LNG flows can cap prices absent severe cold or supply disruptions.",
       "id": "da5689d7-b560-422f-865c-355b7aca53d8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -177,7 +177,7 @@
       ],
       "rationale": "A dovish pivot or soft data could push markets to price a near-certain cut, reducing hold odds sharply.",
       "id": "ecd97bb9-14fb-4e76-aacc-fd6a8a845f96",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -200,7 +200,7 @@
       "supersedes_id": "40eb88ff-9629-460c-88ef-b3b7dd4b8e23",
       "rationale": "Thanksgiving often sets annual throughput records; capacity growth and robust travel demand could push a new high.",
       "id": "48075d7f-3400-4acc-a3de-4deaf501bd7b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -223,7 +223,7 @@
       ],
       "rationale": "Improved reusability and high manifest density typically drive strong December cadence for U.S. launch providers.",
       "id": "decf71e8-4d8d-490a-ad83-16eac14cc5fd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -246,7 +246,7 @@
       ],
       "rationale": "Choppy risk sentiment and valuation pressure often force conservative pricing or range cuts into year-end.",
       "id": "4868e39f-dea6-4529-bac1-be703366ca34",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -268,7 +268,7 @@
       ],
       "rationale": "Seasonal cold snaps and stronger LNG feedgas can lift front-month prices briefly above $3.75.",
       "id": "5c5214d1-2ad5-4922-8c18-fc72c5915798",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

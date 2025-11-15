@@ -1,0 +1,114 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. lifts tariffs on coffee, bananas, beef to ease food prices; inflation relief bid.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/14/trump-cuts-tariffs-goods-prices.html"
+    },
+    {
+      "text": "Economic data backlog persists; Fed G.17 Nov. 18 release delayed; first post-shutdown jobs report due Thursday.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/14/heres-where-things-stand-on-when-the-government-will-start-releasing-key-economic-reports.html"
+    },
+    {
+      "text": "Fears a tanker was seized by Iran in Strait of Hormuz, risking shipping disruptions and oil volatility.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/11/14/world/middleeast/iran-tanker-strait-of-hormuz.html"
+    },
+    {
+      "text": "Gold holds above $4,000; safe-haven demand and central-bank buying seen as drivers toward $5,000.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/gold-is-holding-above-4-000-for-reasons-that-could-drive-it-to-5-000-7ea08755?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Bitcoin fell below $95,000 amid tech sell-off before bouncing, highlighting crypto\u2019s correlation with risk assets.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/14/bitcoin-falls-below-95000-as-four-day-rout-picks-up-steam-.html"
+    },
+    {
+      "text": "Berkshire Hathaway reveals new stake in Alphabet, signaling confidence in Google\u2019s AI-driven cash flows.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/14/warren-buffetts-berkshire-hathaway-reveals-new-position-in-alphabet.html"
+    },
+    {
+      "text": "German court orders Google to pay \u20ac572M for price-comparison antitrust breach, reinforcing EU competition enforcement.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/14/german-court-rules-google-must-pay-e572m-for-violating-antitrust-rules-in-price-comparison-sector/"
+    },
+    {
+      "text": "Data center clustering is straining regional grids; electricity prices rising in key states hosting AI infrastructure.",
+      "tags": [
+        "energy",
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/14/data-centers-are-concentrated-in-these-states-heres-whats-happening-to-electricity-prices-.html"
+    },
+    {
+      "text": "CNBC survey: AI to impact 89% of jobs next year, accelerating workplace restructuring and skills demand.",
+      "tags": [
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/14/ai-to-impact-89percent-of-jobs-next-year-cnbc-survey-finds.html"
+    },
+    {
+      "text": "D.R. Horton adopts AI zoning tool to accelerate housing approvals and expand supply.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/14/dr-horton-taps-prophetic-ai-to-build-more-homes.html"
+    },
+    {
+      "text": "Scientists demonstrate propulsion breakthrough toward hypersonic aircraft potentially capable of Mach 10 flight.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251114091854.htm"
+    },
+    {
+      "text": "Hidden ocean waves rapidly melt Greenland glaciers; satellite images show record-fast Antarctic glacier retreat.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251113071623.htm"
+    },
+    {
+      "text": "New cholesterol-lowering pill, enlicitide, shows promising clinical results, offering alternative to statins.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencenews.org/article/cholesterol-lowering-pill-enlicitide"
+    },
+    {
+      "text": "WhatsApp to enable third-party chat integration in Europe, complying with EU interoperability rules.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/11/14/whatsapp-to-launch-third-party-chat-integration-in-europe-soon/"
+    }
+  ]
+}
