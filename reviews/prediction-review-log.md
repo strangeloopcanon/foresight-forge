@@ -1079,3 +1079,12 @@ While some stories could influence trajectories—tariff cuts may marginally eas
 
 ---
 
+
+## 2025-11-15
+
+Today's news flow is dominated by politics, media, and general business features, with no hard data on the specific market closes or policy actions needed to resolve these forecasts. There are no reported settlement prints for gold, Brent, TTF gas, the MOVE Index, or VIX, nor any definitive price levels for Bitcoin. Likewise, there is no AAA gasoline price update, TSA throughput reading within the target window, or OFAC press release on Venezuela; the WhatsApp interoperability item also lacks an official confirmation in this batch.
+
+Given the absence of dispositive evidence and with all relevant deadlines still ahead, all items remain pending. Near-term catalysts to watch include Thanksgiving week TSA volumes, daily market closes for energy, rates, and volatility indexes, and any EU DMA-driven updates from WhatsApp/Meta, as well as potential U.S. Treasury actions on Venezuela.
+
+---
+

@@ -1,0 +1,60 @@
+{
+  "date": "2025-11-15",
+  "assessments": [
+    {
+      "id": "3cd6a35d-87c8-49e6-bdb0-f06824c7fd2d",
+      "status": "pending",
+      "status_rationale": "No evidence in today's coverage of COMEX gold settling at or above $4,200; deadline remains in the future."
+    },
+    {
+      "id": "e6700368-d17c-440e-952a-07641a232e07",
+      "status": "pending",
+      "status_rationale": "No Brent front-month settlement data cited; threshold and deadline still outstanding."
+    },
+    {
+      "id": "a49b49c0-3826-4948-b00a-60bac19d3186",
+      "status": "pending",
+      "status_rationale": "No Bitcoin price prints reported; condition and deadline not yet resolved."
+    },
+    {
+      "id": "98a92748-d903-45a9-b6fe-caec44ef0c5d",
+      "status": "pending",
+      "status_rationale": "Performance window just opened (11/15\u201312/15); relative return cannot yet be evaluated."
+    },
+    {
+      "id": "c971bd19-bebb-4c8a-be1d-3b6044e58dd3",
+      "status": "pending",
+      "status_rationale": "No AAA national average gasoline price cited at or below $3.00; deadline is year-end."
+    },
+    {
+      "id": "14379c9b-d87c-4df8-afd2-0e0f01ced9f8",
+      "status": "pending",
+      "status_rationale": "TSA throughput window (11/22\u201312/01) has not begun; no qualifying day reported."
+    },
+    {
+      "id": "fcba7dba-2e29-45f5-8adc-2cd93bc44293",
+      "status": "pending",
+      "status_rationale": "No VIX close at or above 24.00 mentioned; deadline not yet reached."
+    },
+    {
+      "id": "4d1592cb-1b5a-40d5-883d-8975cf42afc6",
+      "status": "pending",
+      "status_rationale": "No OFAC/Treasury press release on new Venezuela-related designations in today's news; deadline still ahead."
+    },
+    {
+      "id": "cf92a616-2665-4253-862d-f73a43e107d8",
+      "status": "pending",
+      "status_rationale": "No official WhatsApp/Meta confirmation of EU third-party chat enablement in the provided reports; deadline remains."
+    },
+    {
+      "id": "fbd9449d-cb2a-420e-a4cb-9518416840cd",
+      "status": "pending",
+      "status_rationale": "No MOVE Index close cited at or below 85.0; outcome remains open."
+    },
+    {
+      "id": "92310c57-467a-494a-b828-0eccb68251fe",
+      "status": "pending",
+      "status_rationale": "No Dutch TTF front-month settlement reported at or above \u20ac45/MWh; deadline is year-end."
+    }
+  ]
+}

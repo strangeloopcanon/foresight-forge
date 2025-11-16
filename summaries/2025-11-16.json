@@ -1,0 +1,120 @@
+{
+  "bullets": [
+    {
+      "text": "Trump Organization pursuing Saudi government real estate deal via Dar Global, highlighting deepening Riyadh ties and potential conflicts-of-interest.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/11/15/world/middleeast/trump-organization-saudi-development-deal.html"
+    },
+    {
+      "text": "Former Fed Gov. Adriana Kugler violated trading rules at central bank, renewing questions about Fed ethics oversight and policy credibility.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/15/fed-kugler-ethics-stock-trading.html"
+    },
+    {
+      "text": "AI startup leaders voice bubble fears; funding tightens, revenue quality scrutinized, and hiring slows despite rapid adoption.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/15/ai-anxiety-on-the-rise-startup-founders-react-to-bubble-fears.html"
+    },
+    {
+      "text": "Berkshire Hathaway disclosed a new tech stake, signaling continued shift toward technology exposure and potential re-rating for the target company.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/15/berkshire-hathaways-surprising-new-tech-stake.html"
+    },
+    {
+      "text": "Persistent U.S. air traffic controller shortage threatens capacity, delays, and higher fares, even after government shutdown ended.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/15/government-shutdown-air-traffic-controllers.html"
+    },
+    {
+      "text": "Tariffs and AI-driven efficiencies are boosting resale platforms like ThredUp, as consumers seek value and brands embrace recommerce.",
+      "tags": [
+        "markets",
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/15/why-thredup-and-the-secondhand-retail-market-is-booming-in-the-us.html"
+    },
+    {
+      "text": "Jury orders Apple to pay Masimo $634M for patent infringement, underscoring IP risks to wearables and potential product changes.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/"
+    },
+    {
+      "text": "Report suggests Tim Cook could step down as Apple CEO as soon as next year, introducing succession overhang.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/"
+    },
+    {
+      "text": "AMD\u2019s x86 share tops 25%, powering 33% of desktops, intensifying pricing and margin pressure on Intel.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems"
+    },
+    {
+      "text": "Analysts suggest Brexit\u2019s economic drag is larger than expected, weighing on UK productivity, trade, and investment.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://feeds.feedblitz.com/~/927740942/0/marginalrevolution~Was-Brexit-worse-than-we-had-thought.html"
+    },
+    {
+      "text": "Gaza\u2019s displacement crisis worsens with torrential rain and winter, increasing humanitarian costs and regional instability risks.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/15/world/middleeast/gazan-winter-tent-camps.html"
+    },
+    {
+      "text": "Scientists dissolve early toxic protein clumps, halting Alzheimer\u2019s damage in models, pointing to new therapeutic strategy.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251115095914.htm"
+    },
+    {
+      "text": "CRISPR reintroduces ancient gene that prevents gout and fatty liver in models, suggesting preventive metabolic therapies.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251114041214.htm"
+    },
+    {
+      "text": "Researchers reverse kidney damage in mice, raising prospects for regenerative treatments in chronic kidney disease.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251114094525.htm"
+    },
+    {
+      "text": "Raindrop-powered floating device generates electricity, hinting at microgeneration for off-grid sensors and wearables.",
+      "tags": [
+        "energy",
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251114041228.htm"
+    }
+  ]
+}

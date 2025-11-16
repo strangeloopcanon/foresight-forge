@@ -1,0 +1,260 @@
+{
+  "date": "2025-11-16",
+  "predictions": [
+    {
+      "text": "From 2025-11-18 close to 2025-12-13 close, Apple Inc. (AAPL) adjusted-close total return will underperform Invesco QQQ Trust (QQQ) by at least 2.0 percentage points.",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-12-14",
+      "confidence_pct": 55,
+      "verification_criteria": "Using Yahoo Finance adjusted close data for AAPL and QQQ, compute total return from 2025-11-18 close to 2025-12-13 close. If AAPL_return \u2212 QQQ_return \u2264 -0.020 (\u2264 -2.0 percentage points), the prediction is correct.",
+      "evidence": [
+        "https://9to5mac.com/2025/11/14/tim-cook-step-down-as-apple-ceo-as-soon-as-next-year-report/",
+        "https://techcrunch.com/2025/11/15/jury-says-apple-owes-masimo-634m-for-patent-infringement/"
+      ],
+      "monitoring_signals": [
+        "New reports about Apple leadership succession or product roadmap changes",
+        "AAPL vs QQQ options-implied skew and realized volatility",
+        "Sell-side revisions to AAPL FY26 EPS and gross margin",
+        "Headlines on Apple Watch sensor changes or injunction risk"
+      ],
+      "rationale": "Succession overhang and patent liabilities raise near-term idiosyncratic risk for AAPL versus a diversified tech benchmark.",
+      "id": "7c53c84a-daca-4fbb-b0f3-3d1b4be74afb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CAISO daily peak system load will reach at least 33,000 MW on at least one day between 2025-11-22 and 2025-12-10 (U.S. dates).",
+      "category": "energy",
+      "horizon_days": 25,
+      "deadline": "2025-12-11",
+      "confidence_pct": 41,
+      "verification_criteria": "Confirm via CAISO Today\u2019s Outlook that the intraday maximum \u201cDemand (MW)\u201d for any date between 2025-11-22 and 2025-12-10 inclusive is \u2265 33,000 MW.",
+      "evidence": [
+        "https://www.caiso.com/todaysoutlook/Pages/default.aspx",
+        "https://www.cpc.ncep.noaa.gov/products/forecasts/"
+      ],
+      "monitoring_signals": [
+        "Short-term temperature anomalies for CA population centers",
+        "Forced outages and renewable availability in CAISO",
+        "Holiday load shape effects and electric heating demand"
+      ],
+      "rationale": "Cooler weather and holiday demand can produce a shoulder-season peak exceeding 33 GW.",
+      "id": "b3248190-7407-4129-b7ef-91f110c5c722",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Cboe VVIX Index will close at or above 105.0 on at least one trading day by 2025-12-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 29,
+      "deadline": "2025-12-15",
+      "confidence_pct": 42,
+      "verification_criteria": "Use Cboe official VVIX daily close; any close \u2265 105.0 on or before 2025-12-15 UTC satisfies the condition.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/vvix/",
+        "https://www.cnbc.com/2025/11/15/ai-anxiety-on-the-rise-startup-founders-react-to-bubble-fears.html"
+      ],
+      "monitoring_signals": [
+        "S&P 500 realized volatility and term structure steepening",
+        "Large downside skew in SPX options",
+        "Macro event risks (data surprises, policy headlines)"
+      ],
+      "rationale": "Elevated tail-hedging demand around year-end and macro catalysts can lift VVIX above 105.",
+      "id": "a60cdc5b-2b1f-4b48-b54c-479f2343fd67",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 4.65% on at least one trading day by 2025-12-15 (UTC).",
+      "category": "rates",
+      "horizon_days": 29,
+      "deadline": "2025-12-15",
+      "confidence_pct": 52,
+      "verification_criteria": "Verify via FRED series DGS2 daily close; any observation \u2264 4.65% on or before 2025-12-15 UTC confirms the prediction.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.bls.gov/news.release/cpi.toc.htm",
+        "https://www.bea.gov/data/personal-consumption-expenditures-price-index"
+      ],
+      "monitoring_signals": [
+        "Core PCE/CPI prints and revisions",
+        "Fed communications and dot-plot signaling",
+        "Eurodollar/SOFR futures and OIS path repricing"
+      ],
+      "rationale": "Softening inflation data and easing term premia can nudge the front end lower.",
+      "id": "dafc31cf-fe28-4c59-bd92-17e8933a225b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-15, CISA will add at least 10 CVEs to the Known Exploited Vulnerabilities (KEV) catalog with a Date Added between 2025-12-01 and 2025-12-15 inclusive.",
+      "category": "tech",
+      "horizon_days": 29,
+      "deadline": "2025-12-15",
+      "confidence_pct": 56,
+      "verification_criteria": "Count KEV entries with Date Added from 2025-12-01 to 2025-12-15 (inclusive) on CISA\u2019s official KEV catalog. If count \u2265 10, it is a win.",
+      "evidence": [
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+      ],
+      "monitoring_signals": [
+        "KEV RSS/JSON feed updates",
+        "Zero-day disclosures from vendors and CERTs",
+        "Observed in-the-wild exploitation reports from threat intel firms"
+      ],
+      "rationale": "Holiday-season patch cycles and active exploitation tend to drive KEV additions in December.",
+      "id": "2c55f1ec-f258-4927-aad5-ccdaa0486e69",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-15, OFAC will announce at least one Russia-related sanctions designation via an official U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 29,
+      "deadline": "2025-12-15",
+      "confidence_pct": 63,
+      "verification_criteria": "An official U.S. Treasury press release dated on/before 2025-12-15 that adds persons/entities related to Russia (e.g., under E.O. 14024) to the SDN list.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://ofac.treasury.gov/sanctions-programs-and-country-information/russia-sanctions"
+      ],
+      "monitoring_signals": [
+        "U.S./EU coordination announcements on Russia sanctions",
+        "Battlefield developments in Ukraine",
+        "Reports on sanctions evasion networks"
+      ],
+      "rationale": "Regular cadence of Russia-related designations persists amid ongoing conflict and evasion crackdowns.",
+      "id": "678337a2-e6e0-4431-9bd7-631c9eef6f72",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show a weekly change in U.S. distillate fuel oil stocks of -3.0 million barrels or more (draw) in at least one report published by 2025-12-15.",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-12-15",
+      "confidence_pct": 58,
+      "verification_criteria": "From EIA WPSR, Table 1, the reported \u201cChange from last week\u201d for Distillate fuel oil must be \u2264 -3.0 million barrels in any report released on/before 2025-12-15.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_nus_w.htm"
+      ],
+      "monitoring_signals": [
+        "U.S. refinery utilization and turnaround schedules",
+        "Heating degree days (HDDs) in the Northeast and Midwest",
+        "Diesel crack spreads and import/export flows"
+      ],
+      "rationale": "Seasonal heating demand and export strength can produce a \u22653 Mb draw in distillates.",
+      "id": "0ee848e7-1cfa-489c-be7e-18ce9bf546d4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-31, Google, Meta, Microsoft, or Amazon will announce a new transoceanic subsea cable project or a named capacity expansion of an existing system via an official corporate blog or press release.",
+      "category": "tech",
+      "horizon_days": 45,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "verification_criteria": "An official blog post or press release by one of the listed firms dated on/before 2025-12-31 announcing a new subsea cable or a capacity expansion with the cable\u2019s name and specs.",
+      "evidence": [
+        "https://www.blog.google/products/google-cloud/",
+        "https://about.fb.com/news/",
+        "https://news.microsoft.com/",
+        "https://www.aboutamazon.com/news"
+      ],
+      "monitoring_signals": [
+        "Telecom and subsea industry conference announcements",
+        "ITU filings or maritime permit notices",
+        "Vendor (SubCom/NEC/ASN) press bulletins"
+      ],
+      "supersedes_id": "97e201d1-d528-471c-abd0-03b75604716b",
+      "rationale": "Hyperscalers regularly expand subsea capacity; extending the horizon raises odds of an announcement.",
+      "id": "fd87c73b-be72-4d51-b096-8878879d699e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "From 2025-11-16 close to 2025-12-31 close, iShares Semiconductor ETF (SOXX) will underperform SPDR S&P 500 ETF (SPY) by at least 2.5 percentage points on an adjusted-close basis.",
+      "category": "markets",
+      "horizon_days": 45,
+      "deadline": "2025-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Using Yahoo Finance adjusted close, compute total returns for SOXX and SPY from 2025-11-16 close to 2025-12-31 close. If SOXX_return \u2212 SPY_return \u2264 -0.025, the prediction is correct.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/15/ai-anxiety-on-the-rise-startup-founders-react-to-bubble-fears.html",
+        "https://www.tomshardware.com/pc-components/cpus/amd-continues-to-chip-away-at-intels-x86-market-share-company-now-sells-over-25-percent-of-all-x86-chips-and-powers-33-percent-of-all-desktop-systems"
+      ],
+      "monitoring_signals": [
+        "Semiconductor book-to-bill and inventory data",
+        "Capex and AI GPU lead-time updates",
+        "Semis vs S&P earnings revisions breadth"
+      ],
+      "rationale": "Positioning and valuation in AI-levered semis raise pullback risk into year-end.",
+      "id": "aa88adfa-5295-4f5e-b6c0-c650fa6d81f8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. Initial Unemployment Insurance Claims (seasonally adjusted) will print at or above 235,000 in at least one weekly report released by 2025-12-31.",
+      "category": "macro",
+      "horizon_days": 45,
+      "deadline": "2025-12-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify via the Department of Labor\u2019s Weekly Claims news release that any SA initial claims figure on/before 2025-12-31 is \u2265 235,000.",
+      "evidence": [
+        "https://www.dol.gov/ui/data.pdf"
+      ],
+      "monitoring_signals": [
+        "Continuing claims trend and insured unemployment rate",
+        "Layoff announcements and WARN notices",
+        "Temp help employment and online job postings"
+      ],
+      "rationale": "Labor market cooling and seasonal volatility can push claims to 235k+ at least once.",
+      "id": "1a84c1b9-55d9-46b9-85a1-590b40f72f2d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX Henry Hub front-month natural gas futures (CME: NG) will settle at or below $3.10 per MMBtu on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 45,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "Check CME NG front-month official settlement; any settlement price \u2264 $3.10/MMBtu on or before 2025-12-31 UTC qualifies.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.html",
+        "https://www.eia.gov/naturalgas/weekly/"
+      ],
+      "monitoring_signals": [
+        "NOAA 8\u201314 day temperature outlook for major gas demand regions",
+        "Weekly storage balances and production/pipe flows",
+        "LNG feedgas and export terminal outages"
+      ],
+      "rationale": "High storage, robust supply, and weather variance can briefly push front-month NG to $3.10 or lower.",
+      "id": "a0716133-b723-4322-bb43-7a603582f4d6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 5-Year TIPS real yield (FRED: DFII5) will close at or below 1.80% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 45,
+      "deadline": "2025-12-31",
+      "confidence_pct": 49,
+      "verification_criteria": "Use FRED DFII5 daily close; any observation \u2264 1.80% on or before 2025-12-31 UTC confirms the prediction.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DFII5",
+        "https://fred.stlouisfed.org/series/T10YIE"
+      ],
+      "monitoring_signals": [
+        "Breakeven inflation moves vs nominals",
+        "Risk-off flows and growth data surprises",
+        "Treasury supply dynamics and buyback/issuance guidance"
+      ],
+      "rationale": "Easing inflation pressures and growth risks can pull 5y real yields to 1.8% or lower.",
+      "id": "0c15b029-384a-44ca-b222-8cd50e85e414",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
