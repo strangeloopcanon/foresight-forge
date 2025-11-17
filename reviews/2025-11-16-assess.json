@@ -1,0 +1,65 @@
+{
+  "date": "2025-11-16",
+  "assessments": [
+    {
+      "id": "7c53c84a-daca-4fbb-b0f3-3d1b4be74afb",
+      "status": "pending",
+      "status_rationale": "The measurement window (2025-11-18 to 2025-12-13) has not begun; no performance comparison evidence today."
+    },
+    {
+      "id": "b3248190-7407-4129-b7ef-91f110c5c722",
+      "status": "pending",
+      "status_rationale": "No CAISO load reports cited; headlines do not mention peak loads reaching 33,000 MW."
+    },
+    {
+      "id": "a60cdc5b-2b1f-4b48-b54c-479f2343fd67",
+      "status": "pending",
+      "status_rationale": "No report of VVIX closing at or above 105.0 in today\u2019s news; deadline remains open."
+    },
+    {
+      "id": "dafc31cf-fe28-4c59-bd92-17e8933a225b",
+      "status": "pending",
+      "status_rationale": "No clear evidence of the U.S. 2Y yield closing at or below 4.65% in today\u2019s coverage."
+    },
+    {
+      "id": "2c55f1ec-f258-4927-aad5-ccdaa0486e69",
+      "status": "pending",
+      "status_rationale": "The KEV addition window (2025-12-01 to 2025-12-15) has not started; no CISA updates referenced."
+    },
+    {
+      "id": "678337a2-e6e0-4431-9bd7-631c9eef6f72",
+      "status": "pending",
+      "status_rationale": "No OFAC press release on Russia-related designations is mentioned in today\u2019s news."
+    },
+    {
+      "id": "0ee848e7-1cfa-489c-be7e-18ce9bf546d4",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report details cited showing a \u22653.0 million barrel distillate draw."
+    },
+    {
+      "id": "fd87c73b-be72-4d51-b096-8878879d699e",
+      "status": "pending",
+      "status_rationale": "No announcements from Google, Meta, Microsoft, or Amazon about new or expanded subsea cables were reported."
+    },
+    {
+      "id": "aa88adfa-5295-4f5e-b6c0-c650fa6d81f8",
+      "status": "pending",
+      "status_rationale": "The performance window has begun, but there is no evidence yet of SOXX underperforming SPY by \u22652.5 pp."
+    },
+    {
+      "id": "1a84c1b9-55d9-46b9-85a1-590b40f72f2d",
+      "status": "pending",
+      "status_rationale": "No weekly Initial Claims release today indicating a print \u2265235,000; deadline remains open."
+    },
+    {
+      "id": "a0716133-b723-4322-bb43-7a603582f4d6",
+      "status": "pending",
+      "status_rationale": "No report of Henry Hub front-month settling at or below $3.10/MMBtu."
+    },
+    {
+      "id": "0c15b029-384a-44ca-b222-8cd50e85e414",
+      "status": "pending",
+      "status_rationale": "No evidence that the 5Y TIPS real yield closed at or below 1.80%."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "date": "2025-11-17",
+  "predictions": [
+    {
+      "text": "On the first trading day after its Q3 FY2026 earnings release, Nvidia (NVDA) will post an absolute adjusted-close return of at least 8.0%.",
+      "category": "markets",
+      "horizon_days": 9,
+      "deadline": "2025-11-26",
+      "confidence_pct": 52,
+      "verification_criteria": "Confirm Nvidia's earnings release date on NVIDIA IR. Compute absolute percentage change from the prior trading day's adjusted close to the first full trading day's adjusted close after the release. Success if |return| \u2265 8.0%.",
+      "evidence": [
+        "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-anxiously-await-nvidia-earnings-69f72426",
+        "https://investor.nvidia.com/financial-info/quarterly-results/default.aspx"
+      ],
+      "monitoring_signals": [
+        "NVIDIA IR confirms earnings release timing",
+        "Implied move from NVDA weekly options or straddles",
+        "Post-ER premarket and intraday tape, market breadth",
+        "Semiconductor peers' guidance reactions"
+      ],
+      "rationale": "Event risk and elevated implied volatility around Nvidia earnings make a \u22658% next-day move plausible.",
+      "id": "3183b6ea-0bbd-49d8-a2e4-d453b83dc92b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Adobe Analytics will report U.S. Black Friday 2025 online spending of at least $10.5 billion.",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-12-02",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify Adobe Analytics/Adobe Digital Insights official blog or press release summarizing Black Friday 2025 U.S. e-commerce spend. Success if the reported Black Friday online spend \u2265 $10.5B.",
+      "evidence": [
+        "https://business.adobe.com/resources/holiday-shopping.html",
+        "https://techcrunch.com/2025/11/16/bnpl-is-expanding-fast-and-that-should-worry-everyone/"
+      ],
+      "monitoring_signals": [
+        "Adobe daily online spend trackers Thanksgiving-Black Friday",
+        "Retailer site traffic/performance metrics (Similarweb, Akamai)",
+        "BNPL share of transactions and average order values",
+        "Discount depth and inventory availability signals"
+      ],
+      "rationale": "Robust holiday e-commerce supported by BNPL and promotions likely pushes Black Friday spend above 2024 levels.",
+      "id": "6f1878a6-37da-4084-90ad-03e438bfed2a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Adobe Analytics will report U.S. Cyber Monday 2025 online spending of at least $13.0 billion.",
+      "category": "macro",
+      "horizon_days": 18,
+      "deadline": "2025-12-05",
+      "confidence_pct": 54,
+      "verification_criteria": "Check Adobe Analytics/Adobe Digital Insights official report on Cyber Monday 2025. Success if reported U.S. online spend \u2265 $13.0B.",
+      "evidence": [
+        "https://business.adobe.com/resources/holiday-shopping.html",
+        "https://www.marketwatch.com/story/401-k-hardship-withdrawals-more-than-double-as-people-raid-their-retirement-savings-for-emergencies-d2217ef4"
+      ],
+      "monitoring_signals": [
+        "Adobe real-time dashboard on Cyber Monday",
+        "Retailer checkout and site uptime statistics",
+        "Logistics carrier on-time indicators",
+        "Average discount levels in electronics and toys"
+      ],
+      "rationale": "Cyber Monday typically exceeds Black Friday online; continued shift to e-commerce and aggressive discounts support a new nominal high.",
+      "id": "dcaac130-9258-4f63-abfd-46ea136080e6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show a weekly change in U.S. commercial crude oil inventories (excluding SPR) of +8.0 million barrels or more in at least one report published by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 44,
+      "deadline": "2025-12-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Using EIA's Weekly Petroleum Status Report, identify any weekly 'U.S. Crude Oil Stocks (Excl. SPR)' change \u2265 +8.0 million barrels in a report released by the deadline.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.marketwatch.com/story/chevron-exxon-plan-to-keep-boosting-oil-production-even-as-crude-gets-cheaper-what-gives-74851e21"
+      ],
+      "monitoring_signals": [
+        "API weekly crude stock estimates (Tuesday)",
+        "Refinery utilization swings and seasonal maintenance",
+        "Crude imports/exports and pipeline flows",
+        "SPR activity and Gulf Coast shipping disruptions"
+      ],
+      "rationale": "Seasonal refinery turnarounds and import timing can produce outsized weekly crude builds into year-end.",
+      "id": "b9ef12bc-fd7d-4c98-ae37-787e109d3030",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 4.10% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 44,
+      "deadline": "2025-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Use FRED series DGS10. Success if any daily close value \u2264 4.10% appears on or before the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.cnbc.com/2025/11/16/new-york-fed-met-with-wall-street-firms-about-key-lending-facility-ft.html"
+      ],
+      "monitoring_signals": [
+        "Core PCE and CPI prints",
+        "Labor market data (NFP, claims)",
+        "Treasury auction demand metrics and tails",
+        "FOMC communications and term premium estimates"
+      ],
+      "rationale": "Cooling inflation prints and supportive buy-side demand into year-end could press yields down toward 4.1%.",
+      "id": "e73c70d7-2430-416f-8961-3abe6f80a913",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Federal Reserve ON RRP facility usage will fall to at or below $100.0 billion on at least one business day by 2025-12-31 (New York time).",
+      "category": "rates",
+      "horizon_days": 44,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "verification_criteria": "Check the New York Fed's daily reverse repo (RRP) operations data. Success if the total take-up (volume) \u2264 $100.0B on any business day by the deadline.",
+      "evidence": [
+        "https://www.newyorkfed.org/markets/desk-operations/reverse-repo",
+        "https://www.cnbc.com/2025/11/16/new-york-fed-met-with-wall-street-firms-about-key-lending-facility-ft.html"
+      ],
+      "monitoring_signals": [
+        "Money market fund yields vs T-bills/commercial paper",
+        "T-bill supply and Treasury cash balance",
+        "Bank reserve levels and SOFR/GC repo prints",
+        "SRF/RRP rate settings and usage trends"
+      ],
+      "rationale": "As T-bill supply and risk appetite pull cash out of RRP, usage can dip below $100B.",
+      "id": "0db957b7-49cf-4fa8-a97b-ff06235d1d3d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-12-31, OFAC will announce at least one Hamas-related SDGT designation via an official U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 44,
+      "deadline": "2025-12-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify a U.S. Treasury press release on home.treasury.gov announcing SDGT sanctions where Hamas or Hamas-affiliated networks are explicitly referenced.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/counter-terrorism-sanctions"
+      ],
+      "monitoring_signals": [
+        "Escalation of Israel-Gaza conflict financing disclosures",
+        "EU/UK parallel designations",
+        "U.S. Congressional/NSC statements on terror finance",
+        "FinCEN advisories on Hamas-linked typologies"
+      ],
+      "rationale": "Ongoing counter-terror finance actions make additional Hamas-related designations likely by year-end.",
+      "id": "28071350-5cb3-44c9-976b-bef85ea1327d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-15, U.S. Central Command (CENTCOM) will publicly announce at least one strike against Houthi or affiliated targets in the Red Sea or Gulf of Aden.",
+      "category": "geopolitics",
+      "horizon_days": 28,
+      "deadline": "2025-12-15",
+      "confidence_pct": 62,
+      "verification_criteria": "Check CENTCOM official press releases or social channels. Success if there is a CENTCOM announcement describing a strike on Houthi or affiliated targets in the Red Sea or Gulf of Aden within the window.",
+      "evidence": [
+        "https://www.centcom.mil/Media/Press-Releases/",
+        "https://www.nytimes.com/2025/11/16/us/politics/strike-boat-pacific-caribbean.html"
+      ],
+      "monitoring_signals": [
+        "Reported Houthi attacks on shipping lanes",
+        "U.S./coalition naval posture in the Red Sea",
+        "Maritime insurance risk premiums",
+        "CENTCOM operational summaries"
+      ],
+      "rationale": "Persistent Houthi threats to shipping and ongoing U.S. maritime operations imply further kinetic actions.",
+      "id": "f4f1308f-3d9d-479c-b58e-6bca53a51393",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "From 2025-11-18 close to 2025-12-10 close, Technology Select Sector SPDR (XLK) adjusted-close total return will underperform SPDR S&P 500 ETF (SPY) by at least 2.0 percentage points.",
+      "category": "markets",
+      "horizon_days": 24,
+      "deadline": "2025-12-11",
+      "confidence_pct": 44,
+      "verification_criteria": "Use adjusted close data. Compute total return for XLK and SPY from 2025-11-18 close to 2025-12-10 close. Success if [XLK return \u2212 SPY return] \u2264 -2.0 percentage points.",
+      "evidence": [
+        "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-anxiously-await-nvidia-earnings-69f72426",
+        "https://www.cnbc.com/2025/11/17/japan-travel-retail-exposed-stocks-china-japan-spat-deepens-beijing-tokyo-taiwan-takaichi.html"
+      ],
+      "monitoring_signals": [
+        "Post-earnings reactions for mega-cap tech",
+        "Factor rotations (value vs growth)",
+        "Yield moves impacting duration-sensitive equities",
+        "Breadth indicators and equal-weight vs cap-weight spreads"
+      ],
+      "rationale": "AI-led leadership faces event risk; higher yields and rotation could pressure tech relative to the broader market.",
+      "id": "bedec4e2-3559-4cc3-85eb-5ad779d24515",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "In CDC FluView, at least 10 U.S. states will be categorized 'Very High' ILI activity in any weekly report released by 2025-12-20.",
+      "category": "other",
+      "horizon_days": 33,
+      "deadline": "2025-12-20",
+      "confidence_pct": 60,
+      "verification_criteria": "Use CDC FluView ILI Activity Level map. Success if any weekly report released by the deadline shows \u2265 10 states colored 'Very High' (per CDC's categorical labels).",
+      "evidence": [
+        "https://www.cdc.gov/flu/weekly/fluviewinteractive.htm"
+      ],
+      "monitoring_signals": [
+        "CDC ILINet outpatient visit trends",
+        "RSV and COVID co-circulation indicators",
+        "Hospital capacity alerts",
+        "Vaccination uptake rates"
+      ],
+      "rationale": "Seasonal respiratory surge typically accelerates in December, pushing multiple states to 'Very High' ILI activity.",
+      "id": "7a6c4e0a-5c75-407d-a706-5c18dff27465",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-12-31, a North America-based manufacturer will announce a new LFP battery cell production project in the U.S. or Canada with stated annual capacity of at least 10 GWh via an official press release.",
+      "category": "tech",
+      "horizon_days": 44,
+      "deadline": "2025-12-31",
+      "confidence_pct": 43,
+      "verification_criteria": "Confirm a dated official press release or SEC filing by a North America-based company announcing LFP cell production in the U.S. or Canada with explicitly stated capacity \u2265 10 GWh/year.",
+      "evidence": [
+        "https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents",
+        "https://www.illinois.gov/news/press-release.26438.html"
+      ],
+      "monitoring_signals": [
+        "IRA tax credit guidance and state incentives",
+        "Automaker sourcing shifts to LFP chemistries",
+        "Utility interconnection queues for gigafactories",
+        "OEM-supplier JV announcements"
+      ],
+      "rationale": "Patent expiries and IRA incentives encourage fresh LFP capacity announcements in North America.",
+      "id": "9737bc61-59dd-46ab-b32e-f9bfca8d2809",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

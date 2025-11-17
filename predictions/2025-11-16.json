@@ -20,7 +20,7 @@
       ],
       "rationale": "Succession overhang and patent liabilities raise near-term idiosyncratic risk for AAPL versus a diversified tech benchmark.",
       "id": "7c53c84a-daca-4fbb-b0f3-3d1b4be74afb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Cooler weather and holiday demand can produce a shoulder-season peak exceeding 33 GW.",
       "id": "b3248190-7407-4129-b7ef-91f110c5c722",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Elevated tail-hedging demand around year-end and macro catalysts can lift VVIX above 105.",
       "id": "a60cdc5b-2b1f-4b48-b54c-479f2343fd67",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Softening inflation data and easing term premia can nudge the front end lower.",
       "id": "dafc31cf-fe28-4c59-bd92-17e8933a225b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "Holiday-season patch cycles and active exploitation tend to drive KEV additions in December.",
       "id": "2c55f1ec-f258-4927-aad5-ccdaa0486e69",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Regular cadence of Russia-related designations persists amid ongoing conflict and evasion crackdowns.",
       "id": "678337a2-e6e0-4431-9bd7-631c9eef6f72",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Seasonal heating demand and export strength can produce a \u22653 Mb draw in distillates.",
       "id": "0ee848e7-1cfa-489c-be7e-18ce9bf546d4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -170,7 +170,7 @@
       "supersedes_id": "97e201d1-d528-471c-abd0-03b75604716b",
       "rationale": "Hyperscalers regularly expand subsea capacity; extending the horizon raises odds of an announcement.",
       "id": "fd87c73b-be72-4d51-b096-8878879d699e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -191,7 +191,7 @@
       ],
       "rationale": "Positioning and valuation in AI-levered semis raise pullback risk into year-end.",
       "id": "aa88adfa-5295-4f5e-b6c0-c650fa6d81f8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -211,7 +211,7 @@
       ],
       "rationale": "Labor market cooling and seasonal volatility can push claims to 235k+ at least once.",
       "id": "1a84c1b9-55d9-46b9-85a1-590b40f72f2d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -232,7 +232,7 @@
       ],
       "rationale": "High storage, robust supply, and weather variance can briefly push front-month NG to $3.10 or lower.",
       "id": "a0716133-b723-4322-bb43-7a603582f4d6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -253,7 +253,7 @@
       ],
       "rationale": "Easing inflation pressures and growth risks can pull 5y real yields to 1.8% or lower.",
       "id": "0c15b029-384a-44ca-b222-8cd50e85e414",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
