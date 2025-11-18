@@ -1,0 +1,98 @@
+{
+  "bullets": [
+    {
+      "text": "U.N. Security Council endorses Trump\u2019s Gaza peace plan, increasing diplomatic pressure for cease-fire, phased Israeli withdrawal and reconstruction framework.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/17/world/middleeast/un-security-council-gaza-peace-plan.html"
+    },
+    {
+      "text": "Fed Governor Waller backs December rate cut, citing weakening labor market and easing inflation, reinforcing market expectations of near-term easing.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/17/fed-governor-waller-backs-december-rate-cut-as-support-for-weakening-labor-market.html"
+    },
+    {
+      "text": "S&P 500 and Nasdaq log worst day in a month as tech momentum falters; strategists warn of further selling amid AI bubble fears.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/s-p-500-nasdaq-book-their-worst-day-in-a-month-more-selling-could-be-on-the-way-91cdcca0?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Alphabet shares jump after Berkshire reveals stake; investors eye next catalysts in AI, YouTube profitability and cloud margins.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/17/alphabet-rallies-after-berkshire-reveals-stake-why-buffetts-firm-likely-bought-it.html"
+    },
+    {
+      "text": "Arm-Nvidia partnership links custom Arm CPUs with NVLink, bolstering heterogeneous AI systems and Arm\u2019s data center ambitions.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/17/arm-nvidia-nvlink-partnership-custom-cpu.html"
+    },
+    {
+      "text": "Sinclair takes stake in E.W. Scripps, pushes merger as deregulation advances; Scripps stock surges 40%, signaling renewed local-TV consolidation.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/11/17/sinclair-scripps-stake-merger-push.html"
+    },
+    {
+      "text": "Novo Nordisk cuts direct cash prices for Wegovy and Ozempic to $349/month, potentially accelerating GLP-1 adoption and pressuring competitors.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/17/novo-nordisk-cash-prices-wegovy-ozempic.html"
+    },
+    {
+      "text": "Medicare Part B premium set to rise 9.7% in 2026, squeezing seniors and adding to healthcare cost pressures.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/17/standard-medicare-part-b-premium-2026.html"
+    },
+    {
+      "text": "Bitcoin erases 2025 gains amid sharp selloff; analysts warn of crypto winter dynamics as liquidity thins and leveraged longs unwind.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/bitcoin-just-wiped-out-all-of-its-2025-gains-what-a-crypto-winter-could-look-like-a4f206fe?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Microfluidic liquid cooling advances could curb AI data center energy use, improving chip performance and sustainability.",
+      "tags": [
+        "tech",
+        "energy",
+        "science"
+      ],
+      "link": "https://spectrum.ieee.org/microfluidics-cooling-ai-chips-corintis"
+    },
+    {
+      "text": "Princeton unveils quantum chip architecture advancing toward practical quantum advantage, improving error rates and scalability.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251116105622.htm"
+    },
+    {
+      "text": "CRISPR-based strategy overcomes resistance in certain lung cancers, highlighting a potential therapeutic pathway against refractory tumors.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251117095637.htm"
+    }
+  ]
+}

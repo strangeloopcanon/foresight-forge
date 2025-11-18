@@ -1,0 +1,260 @@
+{
+  "date": "2025-11-18",
+  "predictions": [
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or below $85,000 on at least one UTC day by 2025-11-30.",
+      "category": "markets",
+      "horizon_days": 12,
+      "deadline": "2025-11-30",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Confirmed if CoinDesk BPI or CoinMarketCap \"Daily Low\" equals or falls below $85,000 on any UTC date through 2025-11-30.",
+      "evidence": [
+        "https://www.marketwatch.com/story/bitcoin-just-wiped-out-all-of-its-2025-gains-what-a-crypto-winter-could-look-like-a4f206fe",
+        "https://www.coindesk.com/price/bitcoin/"
+      ],
+      "monitoring_signals": [
+        "BTC perpetual funding rates and open interest",
+        "USD (DXY) strength and real yields",
+        "Spot ETF flows and on-chain realized volatility",
+        "Equity risk sentiment (QQQ, SOXX drawdowns)"
+      ],
+      "supersedes_id": "a49b49c0-3826-4948-b00a-60bac19d3186",
+      "rationale": "Momentum has weakened amid tech risk-off and thinning crypto liquidity. A brief capitulation wick is plausible.",
+      "id": "dd5c612a-7d16-4a9c-b92f-8711fa33f2e6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Adobe Analytics will report U.S. Thanksgiving Day 2025 online spending of at least $6.2 billion.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-12-02",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Adobe Digital Insights/Analytics press release or blog stating Thanksgiving Day 2025 U.S. online spend \u2265 $6.2B.",
+      "evidence": [
+        "https://business.adobe.com/resources/adobe-digital-insights.html",
+        "https://www.cnbc.com/2025/11/17/fed-governor-waller-backs-december-rate-cut-as-support-for-weakening-labor-market.html"
+      ],
+      "monitoring_signals": [
+        "Adobe real-time holiday tracker",
+        "Salesforce holiday commerce insights",
+        "Retailer promo intensity and average discount rates",
+        "Card-spend trackers from banks/aggregators"
+      ],
+      "rationale": "Large discounts and pull-forward of demand typically buoy Thanksgiving spend; online penetration keeps rising.",
+      "id": "8c654e2e-864a-4976-8596-07759e49cc6d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe Volatility Index (VIX) will close at or above 20.00 on at least one trading day by 2025-12-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 27,
+      "deadline": "2025-12-15",
+      "confidence_pct": 60,
+      "log_odds": 0.41,
+      "verification_criteria": "Cboe official daily close for VIX \u2265 20.00 on any trading day through 2025-12-15 (UTC).",
+      "evidence": [
+        "https://www.marketwatch.com/story/s-p-500-nasdaq-book-their-worst-day-in-a-month-more-selling-could-be-on-the-way-91cdcca0",
+        "https://www.cboe.com/tradable_products/vix/"
+      ],
+      "monitoring_signals": [
+        "SPX realized vs implied volatility",
+        "VVIX and VIX term structure inversion",
+        "Macro event calendar (PCE, CPI, FOMC)",
+        "Market breadth and credit spreads"
+      ],
+      "rationale": "Event risk into CPI/FOMC and fragile tech sentiment make a VIX \u226520 print likely.",
+      "id": "1c9862e9-d768-43fd-9d45-40f9ad136b85",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "ERCOT hourly wind generation will reach at least 32,000 MW on at least one hour by 2025-12-31 (CST).",
+      "category": "energy",
+      "horizon_days": 43,
+      "deadline": "2025-12-31",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "ERCOT dashboard or press release showing instantaneous or hourly wind generation \u2265 32,000 MW by 2025-12-31 (CST).",
+      "evidence": [
+        "https://www.ercot.com/",
+        "https://www.ercot.com/news"
+      ],
+      "monitoring_signals": [
+        "ERCOT day-ahead wind forecasts",
+        "NWS wind-speed outlooks for West Texas/Gulf",
+        "Wind fleet availability/outages",
+        "Cold fronts and pressure-gradient patterns"
+      ],
+      "rationale": "Seasonal winds and growing installed capacity make a new or near-record peak plausible.",
+      "id": "b4459dac-69f7-410a-937b-00f3c4abb749",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-15, U.S. Central Command will publicly announce at least one strike against Iran-aligned militia targets in Iraq or Syria.",
+      "category": "geopolitics",
+      "horizon_days": 27,
+      "deadline": "2025-12-15",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "CENTCOM press release, statement, or official social media post specifying a U.S. strike in Iraq or Syria by 2025-12-15.",
+      "evidence": [
+        "https://www.centcom.mil/MEDIA/PRESS-RELEASES/",
+        "https://www.nytimes.com/2025/11/17/world/middleeast/un-security-council-gaza-peace-plan.html"
+      ],
+      "monitoring_signals": [
+        "Militia attacks on U.S./coalition forces",
+        "DoD/CENTCOM operational updates",
+        "Regional escalation indicators",
+        "Iraqi/Syrian official statements"
+      ],
+      "rationale": "Persistent militia activity and regional spillover risks raise likelihood of U.S. self-defense strikes.",
+      "id": "0bcdcab3-32b3-4043-81c1-d247ffb1dada",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-05, Amazon Web Services will announce a new generation of its Trainium accelerator (e.g., Trainium 3) via an AWS News Blog post or press release during re:Invent.",
+      "category": "tech",
+      "horizon_days": 17,
+      "deadline": "2025-12-05",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "AWS official blog or press release published by 2025-12-05 announcing a next-generation Trainium chip.",
+      "evidence": [
+        "https://reinvent.awsevents.com/",
+        "https://aws.amazon.com/blogs/aws/",
+        "https://www.cnbc.com/2025/11/17/arm-nvidia-nvlink-partnership-custom-cpu.html"
+      ],
+      "monitoring_signals": [
+        "re:Invent keynote previews and leaks",
+        "AWS/Annapurna job postings and specs",
+        "Partner announcements (Hugging Face, Anthropic)",
+        "Competitive chip disclosures (NVIDIA, AMD, Google TPU)"
+      ],
+      "rationale": "Competitive AI hardware cadence and re:Invent timing favor a Trainium update.",
+      "id": "feb151ed-896c-4470-b312-bcd054628001",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-31, CISA will add at least 20 CVEs to the Known Exploited Vulnerabilities (KEV) catalog with a Date Added between 2025-12-16 and 2025-12-31 inclusive.",
+      "category": "tech",
+      "horizon_days": 43,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Count entries on CISA\u2019s KEV catalog where \"Date Added\" is within 2025-12-16 to 2025-12-31 inclusive; total \u2265 20.",
+      "evidence": [
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+      ],
+      "monitoring_signals": [
+        "December Patch Tuesday advisories",
+        "Zero-day exploitation reports from vendors",
+        "Threat intel feeds (CVE trends)",
+        "CISA alerts and Binding Operational Directives"
+      ],
+      "rationale": "Year-end patch cycles and active exploitation waves typically drive KEV additions.",
+      "id": "f32f08a3-5a62-416f-9a19-72fc7d4aa7bd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The AAA U.S. national average price for regular gasoline will print at or below $2.95 per gallon on at least one reporting date by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 43,
+      "deadline": "2025-12-31",
+      "confidence_pct": 41,
+      "log_odds": -0.36,
+      "verification_criteria": "AAA Gas Prices national average displayed at or below $2.95/gal on any U.S. reporting date through 2025-12-31.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.marketwatch.com/story/s-p-500-nasdaq-book-their-worst-day-in-a-month-more-selling-could-be-on-the-way-91cdcca0"
+      ],
+      "monitoring_signals": [
+        "NYMEX RBOB futures and crack spreads",
+        "Crude benchmarks (WTI/Brent)",
+        "EIA gasoline stocks and refinery utilization",
+        "Seasonal demand patterns post-holidays"
+      ],
+      "supersedes_id": "c971bd19-bebb-4c8a-be1d-3b6044e58dd3",
+      "rationale": "Soft demand, ample inventories, and benign crude could push national averages below $3.",
+      "id": "8d39e981-b8f0-4583-a714-3d04ecaae03d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 4.00% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 43,
+      "deadline": "2025-12-31",
+      "confidence_pct": 42,
+      "log_odds": -0.32,
+      "verification_criteria": "FRED DGS10 daily close \u2264 4.00% on any trading day through 2025-12-31 (UTC).",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.cnbc.com/2025/11/17/fed-governor-waller-backs-december-rate-cut-as-support-for-weakening-labor-market.html"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE disinflation trajectory",
+        "FOMC communications and SEP",
+        "Term premium estimates and Treasury supply",
+        "Risk sentiment and flight-to-quality flows"
+      ],
+      "supersedes_id": "e73c70d7-2430-416f-8961-3abe6f80a913",
+      "rationale": "Dovish Fed signals and slowing growth raise chances of a sub-4% 10Y print.",
+      "id": "146735d2-c5b7-4dcc-b246-570c2e33b0a8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-12-20, the Council of the European Union will adopt a new Russia sanctions package, confirmed via an official Council press release.",
+      "category": "geopolitics",
+      "horizon_days": 32,
+      "deadline": "2025-12-20",
+      "confidence_pct": 61,
+      "log_odds": 0.45,
+      "verification_criteria": "Publication of a Council of the EU press release announcing adoption of an additional Russia sanctions package by 2025-12-20.",
+      "evidence": [
+        "https://www.consilium.europa.eu/en/policies/sanctions/restrictive-measures-ukraine-russia/"
+      ],
+      "monitoring_signals": [
+        "EU COREPER discussions and leaks",
+        "Member state public statements",
+        "Draft legal texts in EU Official Journal",
+        "Coordination with U.S./U.K. sanction rounds"
+      ],
+      "rationale": "EU commonly finalizes new Russia packages ahead of year-end alignment with partners.",
+      "id": "931b77e3-442e-42f6-aed8-b72c3e9a56ad",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Seasonally adjusted U.S. insured unemployment (continuing claims) will print at or above 1,900,000 in at least one Weekly Claims report released by 2025-12-31.",
+      "category": "macro",
+      "horizon_days": 43,
+      "deadline": "2025-12-31",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "U.S. Department of Labor weekly release shows seasonally adjusted insured unemployment (continuing claims) \u2265 1,900,000 by 2025-12-31.",
+      "evidence": [
+        "https://www.dol.gov/ui/data.pdf",
+        "https://www.cnbc.com/2025/11/17/fed-governor-waller-backs-december-rate-cut-as-support-for-weakening-labor-market.html"
+      ],
+      "monitoring_signals": [
+        "Initial claims trend and state-level spikes",
+        "Challenger job-cut reports",
+        "Online job postings trends",
+        "PMIs/employment subindices"
+      ],
+      "rationale": "Labor demand is cooling; continuing claims typically lag higher in softening cycles.",
+      "id": "ae2d64be-4511-4155-8bc1-ba9ed9b91d2d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

@@ -20,7 +20,7 @@
       ],
       "rationale": "Event risk and elevated implied volatility around Nvidia earnings make a \u22658% next-day move plausible.",
       "id": "3183b6ea-0bbd-49d8-a2e4-d453b83dc92b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Robust holiday e-commerce supported by BNPL and promotions likely pushes Black Friday spend above 2024 levels.",
       "id": "6f1878a6-37da-4084-90ad-03e438bfed2a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Cyber Monday typically exceeds Black Friday online; continued shift to e-commerce and aggressive discounts support a new nominal high.",
       "id": "dcaac130-9258-4f63-abfd-46ea136080e6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Seasonal refinery turnarounds and import timing can produce outsized weekly crude builds into year-end.",
       "id": "b9ef12bc-fd7d-4c98-ae37-787e109d3030",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Cooling inflation prints and supportive buy-side demand into year-end could press yields down toward 4.1%.",
       "id": "e73c70d7-2430-416f-8961-3abe6f80a913",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "As T-bill supply and risk appetite pull cash out of RRP, usage can dip below $100B.",
       "id": "0db957b7-49cf-4fa8-a97b-ff06235d1d3d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Ongoing counter-terror finance actions make additional Hamas-related designations likely by year-end.",
       "id": "28071350-5cb3-44c9-976b-bef85ea1327d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Persistent Houthi threats to shipping and ongoing U.S. maritime operations imply further kinetic actions.",
       "id": "f4f1308f-3d9d-479c-b58e-6bca53a51393",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "AI-led leadership faces event risk; higher yields and rotation could pressure tech relative to the broader market.",
       "id": "bedec4e2-3559-4cc3-85eb-5ad779d24515",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -217,7 +217,7 @@
       ],
       "rationale": "Seasonal respiratory surge typically accelerates in December, pushing multiple states to 'Very High' ILI activity.",
       "id": "7a6c4e0a-5c75-407d-a706-5c18dff27465",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -239,7 +239,7 @@
       ],
       "rationale": "Patent expiries and IRA incentives encourage fresh LFP capacity announcements in North America.",
       "id": "9737bc61-59dd-46ab-b32e-f9bfca8d2809",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

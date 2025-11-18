@@ -1097,3 +1097,12 @@ However, several headlines hint at near-term catalysts: Nvidia’s report could 
 
 ---
 
+
+## 2025-11-17
+
+Today’s news was heavy on politics, geopolitics, and macro narrative but light on the specific datapoints needed to resolve these forecasts. Market coverage noted a tech-led selloff day and rate-cut signaling from a Fed governor, yet there were no concrete figures on Treasury yields closing at or below key thresholds, nor updates on liquidity facilities like ON RRP. Likewise, energy and public health items pertinent to EIA crude builds and FluView ILI activity were absent.
+
+Several event-driven items remain ahead of their windows: Adobe’s Black Friday and Cyber Monday tallies, Nvidia’s post-earnings move, and the XLK vs. SPY relative performance window only just opened. Geopolitical developments around Gaza did not include OFAC SDGT actions, and there were no CENTCOM strike announcements against Houthi targets in the Red Sea/Gulf of Aden in today’s reports. As such, all forecasts remain pending for lack of definitive, verifiable outcomes.
+
+---
+

@@ -1,0 +1,60 @@
+{
+  "date": "2025-11-17",
+  "assessments": [
+    {
+      "id": "3183b6ea-0bbd-49d8-a2e4-d453b83dc92b",
+      "status": "pending",
+      "status_rationale": "No confirmation of Nvidia\u2019s Q3 FY2026 earnings date or the first post-earnings trading-day return in today\u2019s news; partnership headlines do not establish an \u22658% move on that specific day."
+    },
+    {
+      "id": "6f1878a6-37da-4084-90ad-03e438bfed2a",
+      "status": "pending",
+      "status_rationale": "Adobe Analytics\u2019 Black Friday 2025 spending figure has not been reported yet, and today\u2019s news does not include it."
+    },
+    {
+      "id": "dcaac130-9258-4f63-abfd-46ea136080e6",
+      "status": "pending",
+      "status_rationale": "Adobe Analytics\u2019 Cyber Monday 2025 spending has not been reported; no relevant figure appears in today\u2019s coverage."
+    },
+    {
+      "id": "b9ef12bc-fd7d-4c98-ae37-787e109d3030",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report data in today\u2019s news indicating a \u2265+8.0 million barrel weekly crude build."
+    },
+    {
+      "id": "e73c70d7-2430-416f-8961-3abe6f80a913",
+      "status": "pending",
+      "status_rationale": "While rate-cut commentary is noted, there is no explicit evidence the 10-year yield closed at or below 4.10% on any trading day."
+    },
+    {
+      "id": "0db957b7-49cf-4fa8-a97b-ff06235d1d3d",
+      "status": "pending",
+      "status_rationale": "No update on ON RRP usage in today\u2019s news; no indication it fell to \u2264$100B."
+    },
+    {
+      "id": "28071350-5cb3-44c9-976b-bef85ea1327d",
+      "status": "pending",
+      "status_rationale": "Gaza-related diplomatic developments are reported, but there is no U.S. Treasury/OFAC press release announcing a Hamas-related SDGT designation."
+    },
+    {
+      "id": "f4f1308f-3d9d-479c-b58e-6bca53a51393",
+      "status": "pending",
+      "status_rationale": "No CENTCOM announcement of strikes against Houthi or affiliated targets appears in today\u2019s news."
+    },
+    {
+      "id": "bedec4e2-3559-4cc3-85eb-5ad779d24515",
+      "status": "pending",
+      "status_rationale": "The performance window (11/18 close to 12/10 close) has just begun; outcome cannot be determined yet."
+    },
+    {
+      "id": "7a6c4e0a-5c75-407d-a706-5c18dff27465",
+      "status": "pending",
+      "status_rationale": "CDC news mentions measles, not ILI activity levels; no FluView report confirming \u226510 states at \u2018Very High\u2019 ILI."
+    },
+    {
+      "id": "9737bc61-59dd-46ab-b32e-f9bfca8d2809",
+      "status": "pending",
+      "status_rationale": "No press release in today\u2019s coverage about a North America-based manufacturer announcing a \u226510 GWh LFP cell project in the U.S. or Canada."
+    }
+  ]
+}
