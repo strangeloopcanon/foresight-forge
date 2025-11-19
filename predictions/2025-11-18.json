@@ -22,7 +22,7 @@
       "supersedes_id": "a49b49c0-3826-4948-b00a-60bac19d3186",
       "rationale": "Momentum has weakened amid tech risk-off and thinning crypto liquidity. A brief capitulation wick is plausible.",
       "id": "dd5c612a-7d16-4a9c-b92f-8711fa33f2e6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Large discounts and pull-forward of demand typically buoy Thanksgiving spend; online penetration keeps rising.",
       "id": "8c654e2e-864a-4976-8596-07759e49cc6d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -68,7 +68,7 @@
       ],
       "rationale": "Event risk into CPI/FOMC and fragile tech sentiment make a VIX \u226520 print likely.",
       "id": "1c9862e9-d768-43fd-9d45-40f9ad136b85",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -91,7 +91,7 @@
       ],
       "rationale": "Seasonal winds and growing installed capacity make a new or near-record peak plausible.",
       "id": "b4459dac-69f7-410a-937b-00f3c4abb749",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -114,7 +114,7 @@
       ],
       "rationale": "Persistent militia activity and regional spillover risks raise likelihood of U.S. self-defense strikes.",
       "id": "0bcdcab3-32b3-4043-81c1-d247ffb1dada",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "Competitive AI hardware cadence and re:Invent timing favor a Trainium update.",
       "id": "feb151ed-896c-4470-b312-bcd054628001",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "Year-end patch cycles and active exploitation waves typically drive KEV additions.",
       "id": "f32f08a3-5a62-416f-9a19-72fc7d4aa7bd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -184,7 +184,7 @@
       "supersedes_id": "c971bd19-bebb-4c8a-be1d-3b6044e58dd3",
       "rationale": "Soft demand, ample inventories, and benign crude could push national averages below $3.",
       "id": "8d39e981-b8f0-4583-a714-3d04ecaae03d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -208,7 +208,7 @@
       "supersedes_id": "e73c70d7-2430-416f-8961-3abe6f80a913",
       "rationale": "Dovish Fed signals and slowing growth raise chances of a sub-4% 10Y print.",
       "id": "146735d2-c5b7-4dcc-b246-570c2e33b0a8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -230,7 +230,7 @@
       ],
       "rationale": "EU commonly finalizes new Russia packages ahead of year-end alignment with partners.",
       "id": "931b77e3-442e-42f6-aed8-b72c3e9a56ad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -253,7 +253,7 @@
       ],
       "rationale": "Labor demand is cooling; continuing claims typically lag higher in softening cycles.",
       "id": "ae2d64be-4511-4155-8bc1-ba9ed9b91d2d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

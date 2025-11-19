@@ -1,0 +1,274 @@
+{
+  "date": "2025-11-19",
+  "predictions": [
+    {
+      "text": "U.S. Core PCE Price Index (MoM, SA) for October 2025 will print between +0.1% and +0.3% in the BEA release.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-11-29",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "Confirm in BEA Personal Income and Outlays: 'Core PCE (excluding food and energy), percent change from preceding month, seasonally adjusted' for Oct 2025 falls within 0.1% to 0.3% inclusive.",
+      "evidence": [
+        "https://www.bea.gov/news/schedule",
+        "https://www.bls.gov/news.release/cpi.nr0.htm",
+        "https://www.bls.gov/news.release/ppi.nr0.htm"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed nowcast for core PCE",
+        "Revisions to CPI services ex-shelter",
+        "PCE-weighted healthcare and financial services price components"
+      ],
+      "rationale": "Soft goods disinflation and stable services suggest a moderate core PCE print.",
+      "id": "53793b20-80a7-44ef-8521-5cbb43d19153",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Conference Board Consumer Confidence Index for November 2025 will print between 96.0 and 105.0.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-11-26",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Verify headline Consumer Confidence Index value in The Conference Board\u2019s official November 2025 press release is within 96.0\u2013105.0.",
+      "evidence": [
+        "https://www.conference-board.org/topics/consumer-confidence",
+        "https://www.marketwatch.com/story/target-and-walmart-lead-retail-earnings-this-week-as-a-tale-of-two-consumers-emerges-in-the-economy-a3dd9e71",
+        "https://www.cnbc.com/2025/11/18/home-depot-hd-q3-2025-earnings-.html"
+      ],
+      "monitoring_signals": [
+        "University of Michigan sentiment trend",
+        "Gasoline prices into late November",
+        "Initial jobless claims four-week average"
+      ],
+      "rationale": "Mixed labor signals and value-oriented consumer behavior imply restrained confidence.",
+      "id": "a6e98efe-4209-41a4-872f-91e2591e9cef",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10Y\u20132Y Treasury yield spread (FRED: T10Y2Y) will close at or above -0.10 percentage points on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 42,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Use FRED daily series T10Y2Y; success if any daily close is >= -0.10 pp by deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/T10Y2Y",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251118a.htm"
+      ],
+      "monitoring_signals": [
+        "Term premium measures (ACM model)",
+        "Treasury issuance mix (refunding announcements)",
+        "Fed communication on balance sheet and policy path"
+      ],
+      "rationale": "Ongoing steepening from supply and policy normalization raises odds of near un-inversion.",
+      "id": "b9eac63c-5129-4da9-b92d-bc418cb77814",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-11-19 close to 2025-12-31 close, SPDR S&P Regional Banking ETF (KRE) adjusted-close total return will underperform SPDR S&P 500 ETF (SPY) by at least 2.0 percentage points.",
+      "category": "markets",
+      "horizon_days": 42,
+      "deadline": "2025-12-31",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Compute adjusted-close total returns from 2025-11-19 close to 2025-12-31 close for KRE and SPY via a reliable data source (e.g., Yahoo Finance). Success if KRE return minus SPY return \u2264 -2.0 pp.",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251118a.htm",
+        "https://finance.yahoo.com/quote/KRE/history",
+        "https://finance.yahoo.com/quote/SPY/history"
+      ],
+      "monitoring_signals": [
+        "Net interest margin guidance and deposit beta updates",
+        "Bank credit spreads (CDS, subordinated debt)",
+        "Yield curve level and trend"
+      ],
+      "rationale": "Tighter supervision and margin pressure should weigh on regional banks relative to the broad market.",
+      "id": "5b513e6a-eb82-4e9a-9f72-c658d67892fc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-31, OFAC will announce at least one Iran-related sanctions designation via an official U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 42,
+      "deadline": "2025-12-31",
+      "confidence_pct": 65,
+      "log_odds": 0.619,
+      "verification_criteria": "Check home.treasury.gov press releases for designations explicitly tied to Iran programs (e.g., terrorism, oil trade) dated on or before 2025-12-31.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://www.cnbc.com/2025/11/18/trump-saudi-arabia-mohammed-bin-salman-mbs.html"
+      ],
+      "monitoring_signals": [
+        "Regional escalations involving Iran-aligned groups",
+        "Maritime interdictions and oil shipping sanctions enforcement",
+        "Congressional and administration statements on Iran policy"
+      ],
+      "rationale": "Persistent regional tensions and enforcement posture make new Iran designations likely.",
+      "id": "f3881ebe-e213-46f1-8bb1-8302a9c339fe",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-12-31, CISA will issue at least one new Emergency Directive to federal civilian agencies.",
+      "category": "tech",
+      "horizon_days": 42,
+      "deadline": "2025-12-31",
+      "confidence_pct": 36,
+      "log_odds": -0.575,
+      "verification_criteria": "Confirm a newly posted Emergency Directive (ED-XX-XX) on CISA\u2019s official Emergency Directives page with publication date on or before 2025-12-31.",
+      "evidence": [
+        "https://www.cisa.gov/emergency-directives",
+        "https://blog.cloudflare.com/18-november-2025-outage/"
+      ],
+      "monitoring_signals": [
+        "High-severity zero-days exploited in the wild",
+        "Widespread SaaS/IaaS outages or supply-chain compromises",
+        "CISA KEV catalog surges"
+      ],
+      "supersedes_id": "49cbab26-91ce-4f06-a088-5913b929980b",
+      "rationale": "Large-scale outages and active exploitation increase the chance of an emergency directive.",
+      "id": "38992c17-2259-4671-8f5a-4cfd52320df7",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show a weekly change in U.S. commercial crude oil inventories (excluding SPR) of -6.0 million barrels or more (draw) in at least one report published by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 42,
+      "deadline": "2025-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Verify in EIA WPSR Table 1 that any weekly change in commercial crude stocks is \u2264 -6.0 million barrels by the deadline.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.cnbc.com/2025/11/18/trump-saudi-arabia-mohammed-bin-salman-mbs.html"
+      ],
+      "monitoring_signals": [
+        "U.S. refinery utilization rates",
+        "Net crude imports/exports and SPR flows",
+        "Gulf Coast shipping/weather disruptions"
+      ],
+      "rationale": "Year-end refinery runs and export swings can produce a sizable one-week draw.",
+      "id": "78e85381-2b4a-42b9-9d85-015e34da46db",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "In CDC FluView, the national outpatient ILI percentage will reach at or above 3.0% in at least one weekly report released by 2025-12-20.",
+      "category": "other",
+      "horizon_days": 31,
+      "deadline": "2025-12-20",
+      "confidence_pct": 62,
+      "log_odds": 0.489,
+      "verification_criteria": "Confirm the \u2018Percent of visits for Influenza-Like Illness (ILI)\u2019 at the national level in any FluView report released on or before 2025-12-20 is \u2265 3.0%.",
+      "evidence": [
+        "https://www.cdc.gov/flu/weekly/index.html",
+        "https://www.sciencenews.org/article/nih-nsf-cuts-2025-data"
+      ],
+      "monitoring_signals": [
+        "Region-specific ILI trends across HHS regions",
+        "Respiratory virus hospitalization data (Flu, RSV, COVID)",
+        "Wastewater viral concentration indicators"
+      ],
+      "rationale": "Seasonal uptick and early multi-pathogen activity point to higher ILI incidence.",
+      "id": "8d15259c-51f6-47e7-97a2-346cf9cf145e",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Nonfarm Payrolls (headline change, SA) for November 2025 will print between +90,000 and +190,000 in the BLS Employment Situation report.",
+      "category": "macro",
+      "horizon_days": 17,
+      "deadline": "2025-12-06",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Check the BLS Employment Situation news release for November 2025; confirm total nonfarm payroll employment change is within +90k to +190k inclusive.",
+      "evidence": [
+        "https://www.bls.gov/news.release/empsit.nr0.htm",
+        "https://www.marketwatch.com/story/target-and-walmart-lead-retail-earnings-this-week-as-a-tale-of-two-consumers-emerges-in-the-economy-a3dd9e71",
+        "https://www.cnbc.com/2025/11/18/home-depot-hd-q3-2025-earnings-.html"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims",
+        "ADP private payrolls",
+        "Challenger job cuts report"
+      ],
+      "rationale": "Hiring remains positive but cooling amid softer housing and discretionary demand.",
+      "id": "41407b35-060e-4e80-a576-cc3fcf944421",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-31, Apple, Microsoft, Alphabet, Amazon, or Meta will announce a definitive agreement to acquire a company with a disclosed transaction value of at least $500 million.",
+      "category": "markets",
+      "horizon_days": 42,
+      "deadline": "2025-12-31",
+      "confidence_pct": 42,
+      "log_odds": -0.322,
+      "verification_criteria": "Confirm via official company press release or SEC filing (e.g., 8-K) that a definitive agreement is signed with disclosed value \u2265 $500M by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/18/meta-wins-ftc-antitrust-trial-that-focused-on-whatsapp-instagram.html"
+      ],
+      "monitoring_signals": [
+        "Regulatory signals from FTC/DOJ on Big Tech mergers",
+        "Cash balances and buyback vs M&A commentary",
+        "Private AI/infra valuation resets prompting sales"
+      ],
+      "rationale": "Improved antitrust outlook and strategic AI/infra needs support a sizable year-end deal.",
+      "id": "914bc02d-edaf-4c25-90e4-aacc3edfb603",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The AAA U.S. national average price for regular gasoline will print at or below $2.90 per gallon on at least one reporting date by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 42,
+      "deadline": "2025-12-31",
+      "confidence_pct": 39,
+      "log_odds": -0.447,
+      "verification_criteria": "Verify the AAA Daily Fuel Gauge Report national average regular price is \u2264 $2.90/gal on any date through 2025-12-31.",
+      "evidence": [
+        "https://gasprices.aaa.com/",
+        "https://www.cnbc.com/2025/11/18/trump-nuclear-three-mile-island-crane-loan-constellation-ceg.html"
+      ],
+      "monitoring_signals": [
+        "WTI and Brent front-month prices",
+        "Regional refinery utilization and unplanned outages",
+        "RBOB futures and seasonal demand trends"
+      ],
+      "rationale": "Seasonal demand softness and ample supply could drive a late-year price trough.",
+      "id": "bb6600c2-fd47-4903-91af-2953c2cec46c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The Brent\u2013WTI front-month settlement spread will close at or above $5.00 per barrel on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 42,
+      "deadline": "2025-12-31",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Using official settlements (ICE Brent vs. NYMEX WTI), confirm any trading day\u2019s Brent settle minus WTI settle is \u2265 $5.00/bbl by the deadline.",
+      "evidence": [
+        "https://www.theice.com/products/219/Brent-Crude-Futures",
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.html",
+        "https://www.nytimes.com/2025/11/18/us/politics/trump-covert-action-venezuela.html"
+      ],
+      "monitoring_signals": [
+        "Geopolitical risk premia in MENA",
+        "U.S. crude export differentials and shipping constraints",
+        "Inventory trends at Cushing and ARA hubs"
+      ],
+      "rationale": "Geopolitical tensions and export logistics can widen Brent\u2019s premium to WTI.",
+      "id": "a512643b-5d67-4896-90fa-cd1f9172a50e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

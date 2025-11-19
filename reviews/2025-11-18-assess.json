@@ -1,0 +1,60 @@
+{
+  "date": "2025-11-18",
+  "assessments": [
+    {
+      "id": "dd5c612a-7d16-4a9c-b92f-8711fa33f2e6",
+      "status": "pending",
+      "status_rationale": "Coverage notes ETF outflows and a bearish tone for crypto, but provides no verified BTC price print confirming a UTC day at or below $85,000; the deadline has not yet passed."
+    },
+    {
+      "id": "8c654e2e-864a-4976-8596-07759e49cc6d",
+      "status": "pending",
+      "status_rationale": "No Adobe Analytics Thanksgiving Day 2025 spending figure is cited; this metric is typically released after the holiday and before the stated deadline."
+    },
+    {
+      "id": "1c9862e9-d768-43fd-9d45-40f9ad136b85",
+      "status": "pending",
+      "status_rationale": "While risk-off headlines appear, there is no report of the VIX closing at or above 20.00; the window remains open."
+    },
+    {
+      "id": "b4459dac-69f7-410a-937b-00f3c4abb749",
+      "status": "pending",
+      "status_rationale": "No authoritative report mentions ERCOT hourly wind generation reaching 32,000 MW; the deadline is still in the future."
+    },
+    {
+      "id": "0bcdcab3-32b3-4043-81c1-d247ffb1dada",
+      "status": "pending",
+      "status_rationale": "There is no U.S. Central Command announcement of strikes on Iran-aligned militias in Iraq or Syria in today\u2019s coverage; the deadline has not elapsed."
+    },
+    {
+      "id": "feb151ed-896c-4470-b312-bcd054628001",
+      "status": "pending",
+      "status_rationale": "Today\u2019s tech news highlights Google Gemini 3 and an Anthropic valuation but no AWS News Blog or press release announcing a new Trainium generation; re:Invent timing still allows for such an announcement."
+    },
+    {
+      "id": "f32f08a3-5a62-416f-9a19-72fc7d4aa7bd",
+      "status": "pending",
+      "status_rationale": "The KEV criterion applies to additions dated Dec 16\u201331, which has not begun; no evidence toward the 20-CVE threshold is available yet."
+    },
+    {
+      "id": "8d39e981-b8f0-4583-a714-3d04ecaae03d",
+      "status": "pending",
+      "status_rationale": "No AAA national average gasoline price print at or below $2.95/gal is referenced; the outcome remains unresolved ahead of the deadline."
+    },
+    {
+      "id": "146735d2-c5b7-4dcc-b246-570c2e33b0a8",
+      "status": "pending",
+      "status_rationale": "Despite market risk-off commentary, there is no cited FRED DGS10 close at or below 4.00%; the timeframe is still open."
+    },
+    {
+      "id": "931b77e3-442e-42f6-aed8-b72c3e9a56ad",
+      "status": "pending",
+      "status_rationale": "No official Council of the EU press release adopting a new Russia sanctions package is mentioned; the deadline has not yet arrived."
+    },
+    {
+      "id": "ae2d64be-4511-4155-8bc1-ba9ed9b91d2d",
+      "status": "pending",
+      "status_rationale": "There is no Weekly Claims report in today\u2019s news showing continuing claims at or above 1,900,000; the outcome remains open."
+    }
+  ]
+}

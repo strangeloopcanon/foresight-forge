@@ -1,0 +1,115 @@
+{
+  "bullets": [
+    {
+      "text": "Fed announces enhancements to bank supervision, signaling tighter oversight and potential higher compliance costs for large banks.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251118a.htm"
+    },
+    {
+      "text": "Meta defeats FTC antitrust case tied to Instagram and WhatsApp, clearing path for Big Tech M&A and startup acquisitions.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/18/meta-wins-ftc-antitrust-trial-that-focused-on-whatsapp-instagram.html"
+    },
+    {
+      "text": "Anthropic valued near $350B after Microsoft/Nvidia deal as leaders warn of LLM bubble; AI funding remains one-way.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/18/anthropic-ai-azure-microsoft-nvidia.html"
+    },
+    {
+      "text": "Cloudflare outage caused widespread internet disruption, traced to a latent bug, highlighting infrastructure concentration risk across major platforms.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://blog.cloudflare.com/18-november-2025-outage/"
+    },
+    {
+      "text": "Bitcoin ETF posts record outflows as crypto sell-off deepens; bitcoin briefly fell below $90,000, erasing 2025 gains.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/bitcoin-etf-posts-record-outflow-amid-crypto-bear-market-a9479be3?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Congress approves bill to release Epstein files; heightened political risk as Trump attacks media licenses amid looming disclosures.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/18/epstein-files-trump-house-vote.html"
+    },
+    {
+      "text": "Trump administration moves to dismantle Education Department, foreshadowing policy shifts for K\u201112, higher education and federal student aid.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-education-department.html"
+    },
+    {
+      "text": "Trump embraces Saudi Crown Prince Mohammed bin Salman, dismisses Khashoggi killing; signals U.S.-Saudi reset with business-heavy outreach.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/11/18/trump-saudi-arabia-mohammed-bin-salman-mbs.html"
+    },
+    {
+      "text": "Trump reportedly authorizes CIA covert action plans in Venezuela, elevating geopolitical risk in oil-producing nation.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/11/18/us/politics/trump-covert-action-venezuela.html"
+    },
+    {
+      "text": "U.S. backs $1 billion loan to restart Three Mile Island reactor, boosting nuclear power\u2019s role in grid reliability and data center demand.",
+      "tags": [
+        "energy",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/18/trump-nuclear-three-mile-island-crane-loan-constellation-ceg.html"
+    },
+    {
+      "text": "Target and Walmart earnings highlight bifurcated consumer: value-focused spending strength, discretionary softness, pressuring mid-tier retailers.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/target-and-walmart-lead-retail-earnings-this-week-as-a-tale-of-two-consumers-emerges-in-the-economy-a3dd9e71?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Home Depot cuts outlook as home improvement demand weakens, signaling softer housing-related spending.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/18/home-depot-hd-q3-2025-earnings-.html"
+    },
+    {
+      "text": "Toyota invests $912 million to expand U.S. hybrid production, doubling down as EV demand cools.",
+      "tags": [
+        "energy",
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/18/toyota-hybrid-plants.html"
+    },
+    {
+      "text": "Congressional cuts to NIH and NSF in 2025 threaten biomedical research capacity and long-term innovation.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencenews.org/article/nih-nsf-cuts-2025-data"
+    }
+  ]
+}

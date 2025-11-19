@@ -1106,3 +1106,12 @@ Several event-driven items remain ahead of their windows: Adobe’s Black Friday
 
 ---
 
+
+## 2025-11-18
+
+Today’s headlines are dominated by U.S. political developments around the Epstein files, Trump administration actions, and U.S.–Saudi relations, alongside several tech-sector items (Meta’s antitrust win, Google’s Gemini 3, Anthropic’s valuation). Market coverage notes a tech-led sell-off and risk-off tone, but provides no definitive datapoints that resolve any of the tracked forecasts.
+
+While none of the predictions can be closed, some signals are directionally relevant. The risk-off backdrop could increase the odds of a VIX spike and potentially ease 10-year yields, and the crypto outflow narrative is consistent with softer Bitcoin prices—yet no confirmatory thresholds are cited. AWS-specific news remains absent ahead of re:Invent, and there are no concrete updates for ERCOT wind peaks, AAA gasoline averages, EU Russia sanctions, CENTCOM actions, CISA KEV adds, or U.S. continuing claims. Monitoring official releases and market closes remains essential in the coming days.
+
+---
+
