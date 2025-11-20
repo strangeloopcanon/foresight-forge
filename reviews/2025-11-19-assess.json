@@ -1,0 +1,65 @@
+{
+  "date": "2025-11-19",
+  "assessments": [
+    {
+      "id": "53793b20-80a7-44ef-8521-5cbb43d19153",
+      "status": "pending",
+      "status_rationale": "No report of the BEA\u2019s October 2025 Core PCE release in today\u2019s news; the deadline is still ahead."
+    },
+    {
+      "id": "a6e98efe-4209-41a4-872f-91e2591e9cef",
+      "status": "pending",
+      "status_rationale": "No mention of the Conference Board\u2019s November 2025 Consumer Confidence print; release typically due next week."
+    },
+    {
+      "id": "b9eac63c-5129-4da9-b92d-bc418cb77814",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage does not provide a confirmed close for the 10Y\u20132Y spread meeting the threshold."
+    },
+    {
+      "id": "5b513e6a-eb82-4e9a-9f72-c658d67892fc",
+      "status": "pending",
+      "status_rationale": "The performance window runs through 2025-12-31; no comparative return evidence provided today."
+    },
+    {
+      "id": "f3881ebe-e213-46f1-8bb1-8302a9c339fe",
+      "status": "pending",
+      "status_rationale": "No OFAC press release about Iran-related designations is cited in today\u2019s news."
+    },
+    {
+      "id": "38992c17-2259-4671-8f5a-4cfd52320df7",
+      "status": "pending",
+      "status_rationale": "No report of a new CISA Emergency Directive in today\u2019s articles."
+    },
+    {
+      "id": "78e85381-2b4a-42b9-9d85-015e34da46db",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report details on a \u22656.0 million barrel draw are referenced."
+    },
+    {
+      "id": "8d15259c-51f6-47e7-97a2-346cf9cf145e",
+      "status": "pending",
+      "status_rationale": "No CDC FluView update with national ILI at or above 3.0% is mentioned."
+    },
+    {
+      "id": "41407b35-060e-4e80-a576-cc3fcf944421",
+      "status": "pending",
+      "status_rationale": "November 2025 Nonfarm Payrolls have not been released; today\u2019s news references a delayed September report only."
+    },
+    {
+      "id": "914bc02d-edaf-4c25-90e4-aacc3edfb603",
+      "status": "pending",
+      "status_rationale": "No definitive \u2265$500M acquisition by Apple, Microsoft, Alphabet, Amazon, or Meta is reported."
+    },
+    {
+      "id": "bb6600c2-fd47-4903-91af-2953c2cec46c",
+      "status": "pending",
+      "status_rationale": "No AAA national gasoline price update indicating \u2264$2.90/gal is provided."
+    },
+    {
+      "id": "a512643b-5d67-4896-90fa-cd1f9172a50e",
+      "status": "pending",
+      "status_rationale": "No cited market data on the Brent\u2013WTI front-month spread achieving \u2265$5.00."
+    }
+  ]
+}

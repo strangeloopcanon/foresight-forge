@@ -1,0 +1,219 @@
+{
+  "date": "2025-11-20",
+  "predictions": [
+    {
+      "text": "U.S. Core CPI (All items less food and energy, MoM, SA) for November 2025 will print between +0.1% and +0.3% in the BLS release.",
+      "category": "macro",
+      "horizon_days": 23,
+      "deadline": "2025-12-13",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm in BLS CPI news release for November 2025: the month-over-month percent change for 'All items less food and energy' is within [0.1%, 0.3%].",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251119a.htm",
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://www.nytimes.com/2025/11/19/business/economy/labor-department-economy-data-october.html"
+      ],
+      "monitoring_signals": [
+        "High-frequency price data (gasoline, rents, used cars)",
+        "PPI core trends and import prices",
+        "NFIB price plans and ISM prices paid indices"
+      ],
+      "rationale": "Core disinflation trend remains near 0.2% MoM; no clear shock to push far outside 0.1\u20130.3%.",
+      "id": "437e6bbc-233b-4a23-a625-2b3bc686d733",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10Y\u20132Y Treasury yield spread (FRED: T10Y2Y) will close at or above 0.00 percentage points on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 41,
+      "deadline": "2025-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "A daily FRED observation for T10Y2Y with value >= 0.00 occurs on or before 2025-12-31 (UTC).",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251119a.htm",
+        "https://fred.stlouisfed.org/series/T10Y2Y"
+      ],
+      "monitoring_signals": [
+        "Moves in 2Y yield relative to 10Y (policy path repricing)",
+        "Inflation/PCE prints and labor data revisions",
+        "Term premium estimates (ACM term premium)"
+      ],
+      "supersedes_id": "b9eac63c-5129-4da9-b92d-bc418cb77814",
+      "rationale": "Late-cycle steepening is plausible as cuts get priced; reaching zero is challenging but feasible.",
+      "id": "dd66572d-f38b-49e1-ab05-c02143ddbd97",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent front-month crude will settle at or below $78.00 per barrel on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 41,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "An official ICE settlement price for the Brent front-month contract is <= $78.00 on any UTC trading day through 2025-12-31.",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251119a.htm",
+        "https://techcrunch.com/2025/11/19/rising-data-center-electricity-use-risks-blackouts-during-winter-storms/"
+      ],
+      "monitoring_signals": [
+        "OPEC+ quota headlines and compliance",
+        "Global growth indicators (PMIs, trade)",
+        "Inventory builds in EIA/IEA monthly data"
+      ],
+      "rationale": "Macro uncertainty and inventory dynamics create downside tails despite periodic geopolitical risk premia.",
+      "id": "5eac8ea3-120a-4416-a319-c30dab4ccec3",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least five FAA-licensed U.S. commercial orbital launches will occur between 2025-12-21 00:00 UTC and 2025-12-31 23:59 UTC.",
+      "category": "tech",
+      "horizon_days": 41,
+      "deadline": "2025-12-31",
+      "confidence_pct": 39,
+      "verification_criteria": "Count launches with FAA commercial launch licenses in the specified UTC window via FAA AST records or authoritative launch logs (e.g., NextSpaceflight) showing liftoff within the window.",
+      "evidence": [
+        "https://www.faa.gov/space/launches",
+        "https://nextspaceflight.com/launches/?search=USA"
+      ],
+      "monitoring_signals": [
+        "SpaceX, Rocket Lab, ULA, Relativity published launch manifests",
+        "Range availability/weather at CCSFS/Vandenberg",
+        "FAA launch license issuances/modifications"
+      ],
+      "rationale": "Year-end cadence often bunches; still weather and range constraints make five in 11 days challenging.",
+      "id": "82700c47-7008-4428-bbe5-afd21293d6ae",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "In CDC NREVSS, national RSV test positivity will reach at or above 10.0% in at least one weekly report released by 2025-12-31.",
+      "category": "other",
+      "horizon_days": 41,
+      "deadline": "2025-12-31",
+      "confidence_pct": 66,
+      "verification_criteria": "CDC NREVSS RSV National Trends dashboard shows national percent positive >= 10.0% in any weekly data point published by 2025-12-31.",
+      "evidence": [
+        "https://www.cdc.gov/surveillance/nrevss/rsv/natl-trend.html",
+        "https://www.cdc.gov/flu/weekly/overview.htm"
+      ],
+      "monitoring_signals": [
+        "Regional RSV positivity in NREVSS (South/West lead)",
+        "Pediatric hospitalization trends (HHS Protect)",
+        "Syndromic ILI/ARI signals rising in FluView"
+      ],
+      "rationale": "Seasonal RSV typically peaks in late fall/winter; current respiratory activity is building across regions.",
+      "id": "398a42a5-e6cd-45cb-96fe-1173bfa2bfa3",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "University of Michigan Index of Consumer Sentiment (preliminary) for December 2025 will print between 95.0 and 104.0.",
+      "category": "macro",
+      "horizon_days": 23,
+      "deadline": "2025-12-13",
+      "confidence_pct": 54,
+      "verification_criteria": "The preliminary December 2025 headline ICS value published by the University of Michigan falls within [95.0, 104.0].",
+      "evidence": [
+        "https://data.sca.isr.umich.edu/",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251119a.htm"
+      ],
+      "monitoring_signals": [
+        "Gasoline prices and stock performance of megacaps",
+        "Labor market headlines and layoffs trackers",
+        "Conference Board Consumer Confidence as a cross-check"
+      ],
+      "rationale": "Sentiment has stabilized with disinflation and strong equities; shutdown-related data noise tempers upside.",
+      "id": "de258e30-6f64-4e82-8130-d6988dd68b44",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CME FedWatch Tool implied probability of a 25 bp rate cut at the January 2026 FOMC meeting will close at or above 40% on at least one trading day by 2025-12-31.",
+      "category": "rates",
+      "horizon_days": 41,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "On any trading day by 2025-12-31, the FedWatch daily close shows probability \u2265 40% for a -25 bp move at the Jan 2026 FOMC.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251119a.htm"
+      ],
+      "monitoring_signals": [
+        "Core PCE/CPI prints and labor data revisions",
+        "FOMC communications and dot-plot signaling",
+        "Front-end Treasury yield moves (2Y, ED/SR futures)"
+      ],
+      "rationale": "Markets often test early-cut narratives as inflation cools; odds can spike on soft data.",
+      "id": "d49f5948-1b63-4ebe-975a-3dbde3f6084e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe VVIX Index will close at or below 85.0 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 41,
+      "deadline": "2025-12-31",
+      "confidence_pct": 51,
+      "verification_criteria": "Cboe VVIX official close value \u2264 85.0 on any trading day through 2025-12-31 (UTC).",
+      "evidence": [
+        "https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/",
+        "https://www.cnbc.com/2025/11/19/alphabet-stock-gemini-3-ai.html"
+      ],
+      "monitoring_signals": [
+        "SPX realized volatility and term structure",
+        "Earnings season catalysts fading into holidays",
+        "Cross-asset vol (MOVE, FX) co-movements"
+      ],
+      "rationale": "Risk-on tone post-megacap earnings and seasonal vol compression support lower tail in VVIX.",
+      "id": "5d8effec-4a59-4df4-9ba3-c9a6d9e06dad",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ERCOT hourly wind generation will reach at least 34,500 MW on at least one hour by 2025-12-31 (CST).",
+      "category": "energy",
+      "horizon_days": 41,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "ERCOT public dashboards or hourly operational data show Wind Gen \u2265 34,500 MW for any single hour by 2025-12-31 (Central Time).",
+      "evidence": [
+        "https://www.ercot.com/gridmktinfo/dashboards",
+        "https://techcrunch.com/2025/11/19/rising-data-center-electricity-use-risks-blackouts-during-winter-storms/"
+      ],
+      "monitoring_signals": [
+        "Cold fronts and high-wind events in Texas",
+        "Wind fleet availability and curtailments",
+        "Real-time ERCOT wind output trends"
+      ],
+      "supersedes_id": "b4459dac-69f7-410a-937b-00f3c4abb749",
+      "rationale": "Seasonal wind patterns and capacity additions make a new hourly peak plausible.",
+      "id": "e84f343d-83a4-4213-8010-76ac8cf13bd2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-12-31, OFAC will announce at least one Houthi/Ansarallah-related sanctions designation via an official U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 41,
+      "deadline": "2025-12-31",
+      "confidence_pct": 60,
+      "verification_criteria": "A U.S. Treasury press release adds at least one person/entity linked to Houthi/Ansarallah to the SDN List or sanctions under a relevant program.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://www.cnbc.com/2025/11/19/kraken-confidentially-files-for-ipo-following-800-million-raise.html",
+        "https://www.nytimes.com/2025/11/19/world/europe/us-russia-ukraine-peace-plan.html"
+      ],
+      "monitoring_signals": [
+        "CENTCOM-announced Red Sea/Gulf of Aden incidents",
+        "Houthi attacks on shipping and U.S. assets",
+        "U.N. and coalition diplomatic actions"
+      ],
+      "rationale": "Persistent maritime threats typically trigger periodic U.S. designations to disrupt financing and procurement networks.",
+      "id": "0081b14a-c420-48ad-bfec-3eabf3788b24",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}

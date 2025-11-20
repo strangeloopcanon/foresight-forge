@@ -1115,3 +1115,12 @@ While none of the predictions can be closed, some signals are directionally rele
 
 ---
 
+
+## 2025-11-19
+
+Today’s news flow is dominated by tech and policy headlines—Nvidia’s strong earnings and outlook, leadership changes in AI, and Fed minutes suggesting uncertainty about a December rate cut. While market sentiment implications are notable, there is no direct, verifiable data in these reports that resolves any of the tracked economic prints or market thresholds.
+
+Operationally, the Labor Department’s note about data losses after the shutdown and the forthcoming delayed September jobs release are relevant context but do not bear directly on the November NFP forecast or the BEA’s PCE release. Similarly, there are no updates on OFAC Iran sanctions actions, CISA emergency directives, EIA crude inventory swings of the specified magnitude, Big Tech M&A of sufficient size, fuel price thresholds, or the Brent–WTI spread. All items remain pending for now.
+
+---
+

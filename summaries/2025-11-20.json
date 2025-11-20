@@ -1,0 +1,118 @@
+{
+  "bullets": [
+    {
+      "text": "Fed minutes reveal deep split on policy; December rate cut lacks majority support amid sticky inflation risks and data uncertainty.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251119a.htm"
+    },
+    {
+      "text": "Labor Department says some October employment data lost to shutdown; BLS will roll partial figures into next report, muddying near-term economic signals.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/11/19/business/economy/labor-department-economy-data-october.html"
+    },
+    {
+      "text": "Trump signals desire to fire Powell, presses aides to push for lower rates, raising renewed questions about Fed independence.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/19/trump-bessent-powell-fed-rates.html"
+    },
+    {
+      "text": "Nvidia posts record $57B revenue and 65% profit jump, issues hotter-than-expected outlook, igniting global chip rally and easing AI-bubble fears.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/19/nvidias-record-57b-revenue-and-upbeat-forecast-quiets-ai-bubble-talk/"
+    },
+    {
+      "text": "Nvidia discloses no assurance of finalizing $100B OpenAI pact, underscoring deal risk even amid surging AI demand.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/19/nvidia-says-no-assurance-of-deal-with-openai-after-100-billion-pact.html"
+    },
+    {
+      "text": "Alphabet surges on optimism around Gemini 3 AI model, signaling competitive pressure on Microsoft in core AI capabilities.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/19/alphabet-stock-gemini-3-ai.html"
+    },
+    {
+      "text": "Saudi Arabia\u2019s PIF strapped for cash even as Kingdom pursues AI-data centers and rare earth projects with U.S. partners, complicating geopolitical-industrial ambitions.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/11/19/business/pif-saudi-arabia-fund-problems.html"
+    },
+    {
+      "text": "Mexico becomes top buyer of U.S. goods, highlighting nearshoring shift and deepening North American supply-chain integration.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/19/world/americas/us-mexico-trade.html"
+    },
+    {
+      "text": "Reported U.S.-Russia draft peace plan would require Ukraine to cede territory and shrink military, signaling potential geopolitical realignment pressures.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/19/world/europe/us-russia-ukraine-peace-plan.html"
+    },
+    {
+      "text": "Rising data-center electricity demand heightens blackout risks during winter storms, stressing grids and investment needs.",
+      "tags": [
+        "energy",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/11/19/rising-data-center-electricity-use-risks-blackouts-during-winter-storms/"
+    },
+    {
+      "text": "Crypto exchange Kraken confidentially files for IPO after $800M raise, testing public-market appetite amid bitcoin downturn below $90,000.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/19/kraken-confidentially-files-for-ipo-following-800-million-raise.html"
+    },
+    {
+      "text": "mRNA flu vaccines advancing through clinical trials, promising faster strain updates and broader protection versus conventional shots.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencenews.org/article/mrna-flu-vaccines-influenza-virus"
+    },
+    {
+      "text": "Studies link everyday microplastics exposure to cardiovascular pathology, suggesting a modifiable environmental risk factor for heart disease.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251118220047.htm"
+    },
+    {
+      "text": "Simple small molecule shows marked Alzheimer\u2019s reversal in rats, offering a new therapeutic pathway pending human validation.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251118220052.htm"
+    },
+    {
+      "text": "Meta\u2019s chief AI scientist Yann LeCun departs to found startup, signaling intensifying talent competition in foundational AI.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/19/meta-chief-ai-scientist-yann-lecun-is-leaving-the-company-.html"
+    }
+  ]
+}

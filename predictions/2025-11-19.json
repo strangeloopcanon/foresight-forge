@@ -21,7 +21,7 @@
       ],
       "rationale": "Soft goods disinflation and stable services suggest a moderate core PCE print.",
       "id": "53793b20-80a7-44ef-8521-5cbb43d19153",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Mixed labor signals and value-oriented consumer behavior imply restrained confidence.",
       "id": "a6e98efe-4209-41a4-872f-91e2591e9cef",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -66,7 +66,7 @@
       ],
       "rationale": "Ongoing steepening from supply and policy normalization raises odds of near un-inversion.",
       "id": "b9eac63c-5129-4da9-b92d-bc418cb77814",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Tighter supervision and margin pressure should weigh on regional banks relative to the broad market.",
       "id": "5b513e6a-eb82-4e9a-9f72-c658d67892fc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -111,7 +111,7 @@
       ],
       "rationale": "Persistent regional tensions and enforcement posture make new Iran designations likely.",
       "id": "f3881ebe-e213-46f1-8bb1-8302a9c339fe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -134,7 +134,7 @@
       "supersedes_id": "49cbab26-91ce-4f06-a088-5913b929980b",
       "rationale": "Large-scale outages and active exploitation increase the chance of an emergency directive.",
       "id": "38992c17-2259-4671-8f5a-4cfd52320df7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -156,7 +156,7 @@
       ],
       "rationale": "Year-end refinery runs and export swings can produce a sizable one-week draw.",
       "id": "78e85381-2b4a-42b9-9d85-015e34da46db",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -178,7 +178,7 @@
       ],
       "rationale": "Seasonal uptick and early multi-pathogen activity point to higher ILI incidence.",
       "id": "8d15259c-51f6-47e7-97a2-346cf9cf145e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -201,7 +201,7 @@
       ],
       "rationale": "Hiring remains positive but cooling amid softer housing and discretionary demand.",
       "id": "41407b35-060e-4e80-a576-cc3fcf944421",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "rationale": "Improved antitrust outlook and strategic AI/infra needs support a sizable year-end deal.",
       "id": "914bc02d-edaf-4c25-90e4-aacc3edfb603",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -244,7 +244,7 @@
       ],
       "rationale": "Seasonal demand softness and ample supply could drive a late-year price trough.",
       "id": "bb6600c2-fd47-4903-91af-2953c2cec46c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -267,7 +267,7 @@
       ],
       "rationale": "Geopolitical tensions and export logistics can widen Brent\u2019s premium to WTI.",
       "id": "a512643b-5d67-4896-90fa-cd1f9172a50e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
