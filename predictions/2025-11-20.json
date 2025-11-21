@@ -20,7 +20,7 @@
       ],
       "rationale": "Core disinflation trend remains near 0.2% MoM; no clear shock to push far outside 0.1\u20130.3%.",
       "id": "437e6bbc-233b-4a23-a625-2b3bc686d733",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       "supersedes_id": "b9eac63c-5129-4da9-b92d-bc418cb77814",
       "rationale": "Late-cycle steepening is plausible as cuts get priced; reaching zero is challenging but feasible.",
       "id": "dd66572d-f38b-49e1-ab05-c02143ddbd97",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Macro uncertainty and inventory dynamics create downside tails despite periodic geopolitical risk premia.",
       "id": "5eac8ea3-120a-4416-a319-c30dab4ccec3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Year-end cadence often bunches; still weather and range constraints make five in 11 days challenging.",
       "id": "82700c47-7008-4428-bbe5-afd21293d6ae",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "Seasonal RSV typically peaks in late fall/winter; current respiratory activity is building across regions.",
       "id": "398a42a5-e6cd-45cb-96fe-1173bfa2bfa3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "Sentiment has stabilized with disinflation and strong equities; shutdown-related data noise tempers upside.",
       "id": "de258e30-6f64-4e82-8130-d6988dd68b44",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -147,7 +147,7 @@
       ],
       "rationale": "Markets often test early-cut narratives as inflation cools; odds can spike on soft data.",
       "id": "d49f5948-1b63-4ebe-975a-3dbde3f6084e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -168,7 +168,7 @@
       ],
       "rationale": "Risk-on tone post-megacap earnings and seasonal vol compression support lower tail in VVIX.",
       "id": "5d8effec-4a59-4df4-9ba3-c9a6d9e06dad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -190,7 +190,7 @@
       "supersedes_id": "b4459dac-69f7-410a-937b-00f3c4abb749",
       "rationale": "Seasonal wind patterns and capacity additions make a new hourly peak plausible.",
       "id": "e84f343d-83a4-4213-8010-76ac8cf13bd2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -212,7 +212,7 @@
       ],
       "rationale": "Persistent maritime threats typically trigger periodic U.S. designations to disrupt financing and procurement networks.",
       "id": "0081b14a-c420-48ad-bfec-3eabf3788b24",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]

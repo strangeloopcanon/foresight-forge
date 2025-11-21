@@ -1,0 +1,304 @@
+{
+  "date": "2025-11-21",
+  "predictions": [
+    {
+      "text": "U.S. CPI (All items, 12-month percent change) for November 2025 will print between 2.8% and 3.4% in the BLS release.",
+      "category": "macro",
+      "horizon_days": 21,
+      "deadline": "2025-12-12",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify in the BLS CPI news release for November 2025: the 12-month percent change for 'All items' (headline CPI) must be within 2.8% to 3.4%.",
+      "evidence": [
+        "https://www.bls.gov/news.release/cpi.toc.htm",
+        "https://gasprices.aaa.com/",
+        "https://www.cnbc.com/2025/11/20/fed-likely-to-not-cut-rates-in-december-following-delayed-september-data-according-to-market-odds.html",
+        "https://www.cnbc.com/2025/11/20/trump-tariffs-trade-china-import-decline-freight-recession.html"
+      ],
+      "monitoring_signals": [
+        "AAA national average gasoline price trend",
+        "Manheim Used Vehicle Value Index",
+        "Apartment/OER trackers (ZORI, rent CPI nowcasts)",
+        "Import prices and shipping rates (Freightos/Baltic)",
+        "Retail discounting intensity during holiday promotions"
+      ],
+      "rationale": "Gasoline down, goods disinflation, and moderating shelter should keep headline CPI near 3%.",
+      "id": "fb012232-380a-410d-a560-dc913f03b852",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. unemployment rate (U-3, seasonally adjusted) for November 2025 will print between 4.3% and 4.6% in the BLS Employment Situation report.",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-12-06",
+      "confidence_pct": 57,
+      "verification_criteria": "Confirm in the BLS Employment Situation: the seasonally adjusted unemployment rate (U-3) must be within 4.3%\u20134.6%.",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/empsit_11202025.htm",
+        "https://www.dol.gov/ui/data.pdf",
+        "https://www.cnbc.com/2025/11/20/fed-likely-to-not-cut-rates-in-december-following-delayed-september-data-according-to-market-odds.html"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing unemployment insurance claims",
+        "Household survey employment-to-population ratio",
+        "Labor force participation rate",
+        "ISM/PMI employment components",
+        "Challenger job cuts announcements"
+      ],
+      "rationale": "Recent data show a stable but cooling labor market with unemployment near 4.4%.",
+      "id": "fc3eec23-c6c4-437e-846d-87648189d8c2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Advance Retail and Food Services Sales (headline, MoM, SA) for November 2025 will print between -0.4% and +0.4% in the Census release.",
+      "category": "macro",
+      "horizon_days": 25,
+      "deadline": "2025-12-16",
+      "confidence_pct": 52,
+      "verification_criteria": "Verify in the Census Bureau\u2019s Advance Monthly Retail and Food Services report: the percent change from the prior month (seasonally adjusted) must be between -0.4% and +0.4%.",
+      "evidence": [
+        "https://www.census.gov/retail/index.html",
+        "https://www.cnbc.com/2025/11/20/october-existing-home-sales-supply.html",
+        "https://business.adobe.com/resources/reports/holiday-shopping-forecast.html"
+      ],
+      "monitoring_signals": [
+        "High-frequency card spending trackers",
+        "Redbook weekly same-store sales",
+        "Adobe Analytics daily holiday e-commerce estimates",
+        "Gasoline prices (drag on nominal sales when falling)",
+        "Consumer confidence (Conference Board, Michigan)"
+      ],
+      "rationale": "Holiday promotions support sales, but goods softness and lower gas prices cap nominal growth.",
+      "id": "6efd1ed3-5da3-4bac-8bf4-32309a74908f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe Volatility Index (VIX) will close at or below 13.00 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 40,
+      "deadline": "2025-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Using Cboe official historical close data, identify any trading day through 2025-12-31 (UTC) where VIX closing value is <= 13.00.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/vix_historical_data/",
+        "https://www.nytimes.com/2025/11/19/business/stocks-nvidia-earnings.html"
+      ],
+      "monitoring_signals": [
+        "S&P 500 realized volatility (10/20-day)",
+        "VIX term structure (contango/flattening)",
+        "VVIX levels and skew",
+        "Macro data surprises (Citi Surprise Index)",
+        "Earnings pre-announcements and mega-cap tech moves"
+      ],
+      "rationale": "If macro volatility fades post-events, complacency can compress implied vol into low teens.",
+      "id": "b1a1ab5f-ee40-497d-88e3-322be1c1bec3",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 4.40% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 40,
+      "deadline": "2025-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Check FRED series DGS2 daily close; a close at or below 4.40% on any trading day by 2025-12-31 (UTC) qualifies.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.cnbc.com/2025/11/20/fed-likely-to-not-cut-rates-in-december-following-delayed-september-data-according-to-market-odds.html"
+      ],
+      "monitoring_signals": [
+        "Fed communications and OIS-implied path",
+        "Labor market prints (NFP, claims)",
+        "Inflation releases (CPI, PCE)",
+        "Term premium estimates",
+        "Global rates (JGBs, Bunds) and FX risk sentiment"
+      ],
+      "rationale": "Stable growth and cooling inflation can push the front-end toward lower yields as cuts are priced.",
+      "id": "981e3ea8-76ba-4c8d-b77b-3a8f76906bab",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Brent\u2013WTI front-month settlement spread will close at or below $2.00 per barrel on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 40,
+      "deadline": "2025-12-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Compute the difference between same-day front-month settlements: ICE Brent minus NYMEX WTI. A value <= $2.00/bbl on any day by 2025-12-31 (UTC) meets the criterion.",
+      "evidence": [
+        "https://www.theice.com/products/219/Brent-Crude-Futures",
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.quotes.html",
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "Cushing inventories and pipeline flows",
+        "U.S. crude export spreads and freight rates",
+        "Brent and WTI prompt time-spreads",
+        "Unplanned refinery outages and maintenance",
+        "Geopolitical risk premium in Atlantic Basin"
+      ],
+      "rationale": "Tight U.S. inland balances, export economics, and freight can intermittently compress Brent\u2013WTI.",
+      "id": "2801c64e-64ce-492d-84cd-cad68ab679e1",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ERCOT hourly wind generation will reach at least 36,500 MW on at least one hour by 2025-12-31 (CST).",
+      "category": "energy",
+      "horizon_days": 40,
+      "deadline": "2025-12-31",
+      "confidence_pct": 48,
+      "verification_criteria": "Use ERCOT public dashboards/historical data to identify any hour through 2025-12-31 (CST) where wind generation >= 36,500 MW.",
+      "evidence": [
+        "https://www.ercot.com/gridinfo/generation",
+        "https://www.eia.gov/todayinenergy/"
+      ],
+      "monitoring_signals": [
+        "ERCOT daily wind forecast vs actual",
+        "Fronts and wind advisories across Texas Panhandle/Gulf",
+        "Wind fleet availability and curtailment",
+        "Transmission constraints (West-to-North interfaces)"
+      ],
+      "rationale": "Seasonal winter wind patterns and ongoing capacity additions support new peak wind output.",
+      "id": "3116ee63-c310-43d2-9b31-f3e443651e60",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2025-12-31, OFAC will announce at least one North Korea-related sanctions designation via an official U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 40,
+      "deadline": "2025-12-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Confirm a press release on home.treasury.gov by 2025-12-31 that announces a sanctions designation explicitly tied to North Korea (DPRK).",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/north-korea-sanctions"
+      ],
+      "monitoring_signals": [
+        "DPRK missile/nuclear test activity",
+        "UN Panel of Experts reports",
+        "U.S.\u2013Japan\u2013ROK trilateral statements",
+        "Illicit finance enforcement actions and advisories"
+      ],
+      "rationale": "Year-end sanction actions and ongoing DPRK activity make an additional designation likely.",
+      "id": "ea4bfe0f-03e5-4843-909b-8e9ec8c01730",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-31, CISA will add at least 25 CVEs to the Known Exploited Vulnerabilities (KEV) catalog with a Date Added between 2025-12-16 and 2025-12-31 inclusive.",
+      "category": "tech",
+      "horizon_days": 40,
+      "deadline": "2025-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Review entries on CISA\u2019s KEV catalog; count CVEs with 'Date Added' between 2025-12-16 and 2025-12-31 inclusive. Total must be >= 25.",
+      "evidence": [
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "https://www.cisa.gov/news-events/alerts"
+      ],
+      "monitoring_signals": [
+        "Vendor end-of-year patch advisories",
+        "Active exploitation reports from CERTs and threat intel",
+        "Mass-scan exploit telemetry (e.g., Censys, Shodan reports)",
+        "Surges in ransomware campaigns exploiting new CVEs"
+      ],
+      "supersedes_id": "f32f08a3-5a62-416f-9a19-72fc7d4aa7bd",
+      "rationale": "CISA often issues year-end KEV additions; heightened threat activity can drive larger batches.",
+      "id": "65dc4f5b-3864-4977-85ba-8fd5147fdc9f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or below $80,000 on at least one UTC day by 2025-12-31.",
+      "category": "markets",
+      "horizon_days": 40,
+      "deadline": "2025-12-31",
+      "confidence_pct": 49,
+      "verification_criteria": "Confirm on a reputable exchange or composite (e.g., CoinDesk price page) that intraday low on any UTC day by 2025-12-31 is <= $80,000.",
+      "evidence": [
+        "https://www.coindesk.com/price/bitcoin/",
+        "https://www.nytimes.com/2025/11/19/business/stocks-nvidia-earnings.html"
+      ],
+      "monitoring_signals": [
+        "Risk sentiment (VIX, equities momentum)",
+        "Funding rates and futures basis",
+        "Stablecoin flows and exchange reserves",
+        "Regulatory headlines and ETF flows",
+        "Macro data surprises affecting rates and liquidity"
+      ],
+      "rationale": "Risk-off bouts and liquidity shifts can trigger sharp crypto drawdowns into year-end.",
+      "id": "17efa2e6-932f-452c-99ac-f5783e334c74",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The ICE BofA MOVE Index will close at or below 75.0 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 40,
+      "deadline": "2025-12-31",
+      "confidence_pct": 43,
+      "verification_criteria": "Check daily close of the MOVE index from a reputable source (e.g., FRED BOAMMOVE). A close <= 75.0 on any day by 2025-12-31 (UTC) qualifies.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/BOAMMOVE",
+        "https://www.cnbc.com/2025/11/20/fed-likely-to-not-cut-rates-in-december-following-delayed-september-data-according-to-market-odds.html"
+      ],
+      "monitoring_signals": [
+        "Treasury market realized volatility",
+        "Swaption implied vols",
+        "Macro event calendar density",
+        "Dealer positioning and liquidity metrics"
+      ],
+      "rationale": "If policy path stabilizes and liquidity improves, rates vol can compress further.",
+      "id": "766dd9f0-94c9-47d5-b194-a39050618820",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Federal Reserve ON RRP facility usage will fall to at or below $50.0 billion on at least one business day by 2025-12-31 (New York time).",
+      "category": "rates",
+      "horizon_days": 40,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "Verify on the New York Fed\u2019s published ON RRP operation results that the total take-up is <= $50.0B on any business day by 2025-12-31 (ET).",
+      "evidence": [
+        "https://www.newyorkfed.org/markets/desk-operations/reverse-repo",
+        "https://fred.stlouisfed.org/series/RRPONTSYD"
+      ],
+      "monitoring_signals": [
+        "T-bill supply and yields vs ON RRP rate",
+        "MMF AUM shifts between bills, repo, and RRP",
+        "GCF/tri-party repo rates",
+        "Quarter-end balance sheet constraints"
+      ],
+      "rationale": "Elevated bill supply and attractive repo rates continue to displace ON RRP usage.",
+      "id": "daed0d69-fdff-48d4-bb9e-4242b9077df2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show a weekly change in U.S. distillate fuel oil stocks of -4.0 million barrels or more (draw) in at least one report published by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 40,
+      "deadline": "2025-12-31",
+      "confidence_pct": 49,
+      "verification_criteria": "Confirm in any EIA Weekly Petroleum Status Report through 2025-12-31 that the reported weekly change in distillate fuel oil stocks is <= -4.0 million barrels.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.cnbc.com/2025/11/20/trump-offshore-oil-alaska-pacific-california-gulf-mexico.html"
+      ],
+      "monitoring_signals": [
+        "PADD-level distillate inventories and weather",
+        "Heating degree days (HDDs) and diesel demand",
+        "Refinery runs and yield shifts",
+        "Import/export flows and ARB economics"
+      ],
+      "rationale": "Winter demand and refinery maintenance/outages can produce a large weekly distillate draw.",
+      "id": "46dd8058-cdcc-4d01-8c4f-e2f49940d0bf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2025-11-20",
+  "assessments": [
+    {
+      "id": "437e6bbc-233b-4a23-a625-2b3bc686d733",
+      "status": "pending",
+      "status_rationale": "No report of the November 2025 Core CPI print in today\u2019s coverage; BLS release is due in mid-December."
+    },
+    {
+      "id": "dd66572d-f38b-49e1-ab05-c02143ddbd97",
+      "status": "pending",
+      "status_rationale": "No definitive update on the 10Y\u20132Y Treasury spread levels; articles focus on equity volatility rather than yield curve closes."
+    },
+    {
+      "id": "5eac8ea3-120a-4416-a319-c30dab4ccec3",
+      "status": "pending",
+      "status_rationale": "No Brent settlement prices cited; energy markets not directly addressed in the provided news."
+    },
+    {
+      "id": "82700c47-7008-4428-bbe5-afd21293d6ae",
+      "status": "pending",
+      "status_rationale": "No reporting on FAA-licensed orbital launch counts for the specified late-December window."
+    },
+    {
+      "id": "398a42a5-e6cd-45cb-96fe-1173bfa2bfa3",
+      "status": "pending",
+      "status_rationale": "No CDC NREVSS RSV positivity data mentioned; respiratory surveillance not covered."
+    },
+    {
+      "id": "de258e30-6f64-4e82-8130-d6988dd68b44",
+      "status": "pending",
+      "status_rationale": "No University of Michigan preliminary December 2025 sentiment figure reported."
+    },
+    {
+      "id": "d49f5948-1b63-4ebe-975a-3dbde3f6084e",
+      "status": "pending",
+      "status_rationale": "No CME FedWatch probabilities for the January 2026 meeting provided today."
+    },
+    {
+      "id": "5d8effec-4a59-4df4-9ba3-c9a6d9e06dad",
+      "status": "pending",
+      "status_rationale": "While equity volatility is referenced, there is no VVIX close value to confirm a \u226485 print."
+    },
+    {
+      "id": "e84f343d-83a4-4213-8010-76ac8cf13bd2",
+      "status": "pending",
+      "status_rationale": "No ERCOT hourly wind generation data reported."
+    },
+    {
+      "id": "0081b14a-c420-48ad-bfec-3eabf3788b24",
+      "status": "pending",
+      "status_rationale": "No OFAC announcement of Houthi/Ansarallah-related designations in today\u2019s items."
+    }
+  ]
+}

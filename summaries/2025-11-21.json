@@ -1,0 +1,120 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. added 119,000 jobs in September; unemployment held at 4.4%. Mixed labor signals reduce odds of near-term rate cuts.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/empsit_11202025.htm"
+    },
+    {
+      "text": "Fed likely to hold rates in December; Cleveland Fed\u2019s Hammack says policy is 'barely restrictive'.",
+      "tags": [
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/11/20/fed-likely-to-not-cut-rates-in-december-following-delayed-september-data-according-to-market-odds.html"
+    },
+    {
+      "text": "Goods sector softening: freight downturn and falling Chinese imports suggest a 'structural goods recession' despite services-led job growth.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/20/trump-tariffs-trade-china-import-decline-freight-recession.html"
+    },
+    {
+      "text": "Stocks reversed sharply as AI anxiety rose; tech leaders slid and SoftBank plunged, while Bitcoin hit its lowest since April.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/11/19/business/stocks-nvidia-earnings.html"
+    },
+    {
+      "text": "Nvidia\u2019s blowout results fueled bubble chatter; management targets 'half a trillion' sales pace as peers surrendered gains, China demand faces scrutiny.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/20/nvda-stock-earnings-ai-bubble-china.html"
+    },
+    {
+      "text": "White House drafting executive order to preempt state AI laws by tying federal funds to compliance, aiming for unified national standards.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/11/20/trump-ai-executive-order-state-funding.html"
+    },
+    {
+      "text": "OpenAI taps Foxconn to manufacture U.S.-made data center hardware, signaling AI supply chain onshoring.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/11/20/openai-taps-iphone-assembler-foxconn-to-manufacture-ai-hardware-in-us.html"
+    },
+    {
+      "text": "U.S. proposes expansive offshore oil drilling off California and Alaska, boosting future production and sparking environmental pushback.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/11/20/trump-offshore-oil-alaska-pacific-california-gulf-mexico.html"
+    },
+    {
+      "text": "U.S. charges four in plot to export restricted Nvidia AI chips to China and Hong Kong, underscoring tightening tech controls.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/20/nvidia-ai-chips-china-gpu.html"
+    },
+    {
+      "text": "Japan\u2019s exports beat forecasts and core inflation hit a three-month high, strengthening the case for Bank of Japan rate hikes.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/11/21/japan-october-exports-massively-beat-estimates-on-robust-growth-in-shipments-to-asia-and-europe-.html"
+    },
+    {
+      "text": "Existing home sales edged up in October, but declining inventory signals renewed housing supply constraints.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/20/october-existing-home-sales-supply.html"
+    },
+    {
+      "text": "GE Appliances shifting production to U.S. could lift domestic suppliers and manufacturing employment.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/11/20/business/ge-appliances-us-production.html"
+    },
+    {
+      "text": "Quantum computers simulated physics too complex for supercomputers, marking tangible progress toward practical quantum advantage.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251118220104.htm"
+    },
+    {
+      "text": "Scientists grew functional miniature human blood factories, advancing prospects for lab-made transfusions and hematological therapies.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251120092103.htm"
+    },
+    {
+      "text": "Blue Origin revealed a super-heavy New Glenn variant taller than Saturn V, intensifying competition in heavy-lift launch.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/11/20/blue-origin-reveals-a-super-heavy-variant-of-its-new-glenn-rocket-that-is-taller-than-a-saturn-v/"
+    }
+  ]
+}
