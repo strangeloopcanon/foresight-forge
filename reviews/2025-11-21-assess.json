@@ -1,0 +1,70 @@
+{
+  "date": "2025-11-21",
+  "assessments": [
+    {
+      "id": "fb012232-380a-410d-a560-dc913f03b852",
+      "status": "pending",
+      "status_rationale": "No November CPI print is available; coverage notes BLS canceled October CPI, not November, so outcome remains unknown."
+    },
+    {
+      "id": "fc3eec23-c6c4-437e-846d-87648189d8c2",
+      "status": "pending",
+      "status_rationale": "No BLS Employment Situation data for November 2025 in today\u2019s news; no unemployment rate cited."
+    },
+    {
+      "id": "6efd1ed3-5da3-4bac-8bf4-32309a74908f",
+      "status": "pending",
+      "status_rationale": "No Census retail sales data for November 2025 reported; nothing indicates the MoM outcome."
+    },
+    {
+      "id": "b1a1ab5f-ee40-497d-88e3-322be1c1bec3",
+      "status": "pending",
+      "status_rationale": "Market stories mention stock moves but provide no VIX close at or below 13.00."
+    },
+    {
+      "id": "981e3ea8-76ba-4c8d-b77b-3a8f76906bab",
+      "status": "pending",
+      "status_rationale": "Bond-market commentary lacks a specific 2-year yield close; no confirmation of \u22644.40%."
+    },
+    {
+      "id": "2801c64e-64ce-492d-84cd-cad68ab679e1",
+      "status": "pending",
+      "status_rationale": "No report on Brent\u2013WTI front-month spread levels; threshold not verified."
+    },
+    {
+      "id": "3116ee63-c310-43d2-9b31-f3e443651e60",
+      "status": "pending",
+      "status_rationale": "No ERCOT operational data cited; maximum hourly wind generation not reported."
+    },
+    {
+      "id": "ea4bfe0f-03e5-4843-909b-8e9ec8c01730",
+      "status": "pending",
+      "status_rationale": "No OFAC North Korea-related sanctions press release referenced in today\u2019s coverage."
+    },
+    {
+      "id": "65dc4f5b-3864-4977-85ba-8fd5147fdc9f",
+      "status": "pending",
+      "status_rationale": "Window of interest (Dec 16\u201331) has not begun; no KEV catalog additions reported."
+    },
+    {
+      "id": "17efa2e6-932f-452c-99ac-f5783e334c74",
+      "status": "pending",
+      "status_rationale": "Articles note bitcoin weakness but provide no price confirming \u2264$80,000 on any UTC day."
+    },
+    {
+      "id": "766dd9f0-94c9-47d5-b194-a39050618820",
+      "status": "pending",
+      "status_rationale": "No MOVE Index close reported; cannot confirm \u226475.0."
+    },
+    {
+      "id": "daed0d69-fdff-48d4-bb9e-4242b9077df2",
+      "status": "pending",
+      "status_rationale": "No reference to Federal Reserve ON RRP usage levels; threshold not assessed."
+    },
+    {
+      "id": "46dd8058-cdcc-4d01-8c4f-e2f49940d0bf",
+      "status": "pending",
+      "status_rationale": "No Weekly Petroleum Status Report details on distillate draws are included."
+    }
+  ]
+}

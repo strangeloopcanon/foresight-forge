@@ -1,0 +1,123 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. real average hourly earnings were unchanged in September, signaling stagnant inflation-adjusted wage growth heading into Q4.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/realer_11212025.htm"
+    },
+    {
+      "text": "BLS canceled the October CPI release, leaving the Fed without key inflation data ahead of its next rate decision.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/11/21/fed-wont-get-key-inflation-data-before-next-rate-decision-as-bls-cancels-october-cpi-release.html"
+    },
+    {
+      "text": "Treasury yields fell after Fed's Williams hinted at another December rate cut, reinforcing market expectations of continued easing.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/21/us-treasury-yields-edge-lower-as-fed-rate-cut-bets-fall.html"
+    },
+    {
+      "text": "Oil prices and energy stocks fell as markets priced lower geopolitical risk from a proposed Russia-Ukraine peace plan push.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/21/oil-prices-energy-stocks-in-focus-amid-trumps-new-ukraine-peace-plan.html"
+    },
+    {
+      "text": "Eli Lilly hit $1 trillion market value, underscoring investor conviction in GLP-1 obesity/diabetes drugs' transformative revenue potential.",
+      "tags": [
+        "markets",
+        "science"
+      ],
+      "link": "https://www.cnbc.com/2025/11/21/eli-lilly-hits-1-trillion-market-value-first-for-health-care-company.html"
+    },
+    {
+      "text": "Samsung's 60% DRAM price hike signals severe global memory tightness, threatening higher costs for AI servers and consumer electronics.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/"
+    },
+    {
+      "text": "Despite surging Nvidia sales, hyperscalers' custom AI chips intensify competition; AI stock selloff broadens across U.S. and Asian chipmakers.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/21/nvidia-gpus-google-tpus-aws-trainium-comparing-the-top-ai-chips.html"
+    },
+    {
+      "text": "Google told staff it must double AI serving capacity every six months, highlighting relentless infrastructure demand growth.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html"
+    },
+    {
+      "text": "Bitcoin's slide toward $80,000 roiled risk assets as Europe readies first 3x leveraged BTC funds, amplifying potential volatility.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/the-first-ever-3x-levered-bitcoin-funds-are-launching-in-europe-next-week-the-timing-couldnt-be-worse-7bb8ae29"
+    },
+    {
+      "text": "China's dominance in critical AI supply-chain materials raises geopolitical risk for U.S. tech and could pressure related stocks.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/china-controls-this-key-resource-ai-needs-threatening-stocks-and-the-u-s-economy-8f5f9f62"
+    },
+    {
+      "text": "Satellite imagery shows expanded U.S. Navy deployments near Venezuela, signaling heightened regional vigilance amid political tensions.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/21/world/americas/us-navy-venezuela-satellite-data.html"
+    },
+    {
+      "text": "FCC moved to scrap telecom cybersecurity rules despite recent Chinese-linked hacks, increasing regulatory risk around network security.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/11/21/despite-chinese-hacks-trumps-fcc-votes-to-scrap-cybersecurity-rules-for-phone-and-internet-companies/"
+    },
+    {
+      "text": "U.S. Energy Department reorganization downgrades renewables and elevates fusion, signaling a notable federal energy policy shift.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/11/21/trump-energy-department-drops-renewables-promotes-fusion-in-office-reshuffle/"
+    },
+    {
+      "text": "California approved a major expansion of Waymo's driverless operations map, advancing autonomous vehicle deployment at scale.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/"
+    },
+    {
+      "text": "Scientists warn heatwaves will intensify for up to 1,000 years even after net zero, underscoring persistent climate risks.",
+      "tags": [
+        "science",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251120002600.htm"
+    }
+  ]
+}

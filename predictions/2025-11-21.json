@@ -23,7 +23,7 @@
       ],
       "rationale": "Gasoline down, goods disinflation, and moderating shelter should keep headline CPI near 3%.",
       "id": "fb012232-380a-410d-a560-dc913f03b852",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -47,7 +47,7 @@
       ],
       "rationale": "Recent data show a stable but cooling labor market with unemployment near 4.4%.",
       "id": "fc3eec23-c6c4-437e-846d-87648189d8c2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -71,7 +71,7 @@
       ],
       "rationale": "Holiday promotions support sales, but goods softness and lower gas prices cap nominal growth.",
       "id": "6efd1ed3-5da3-4bac-8bf4-32309a74908f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "rationale": "If macro volatility fades post-events, complacency can compress implied vol into low teens.",
       "id": "b1a1ab5f-ee40-497d-88e3-322be1c1bec3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -117,7 +117,7 @@
       ],
       "rationale": "Stable growth and cooling inflation can push the front-end toward lower yields as cuts are priced.",
       "id": "981e3ea8-76ba-4c8d-b77b-3a8f76906bab",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rationale": "Tight U.S. inland balances, export economics, and freight can intermittently compress Brent\u2013WTI.",
       "id": "2801c64e-64ce-492d-84cd-cad68ab679e1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -163,7 +163,7 @@
       ],
       "rationale": "Seasonal winter wind patterns and ongoing capacity additions support new peak wind output.",
       "id": "3116ee63-c310-43d2-9b31-f3e443651e60",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "rationale": "Year-end sanction actions and ongoing DPRK activity make an additional designation likely.",
       "id": "ea4bfe0f-03e5-4843-909b-8e9ec8c01730",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -208,7 +208,7 @@
       "supersedes_id": "f32f08a3-5a62-416f-9a19-72fc7d4aa7bd",
       "rationale": "CISA often issues year-end KEV additions; heightened threat activity can drive larger batches.",
       "id": "65dc4f5b-3864-4977-85ba-8fd5147fdc9f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -231,7 +231,7 @@
       ],
       "rationale": "Risk-off bouts and liquidity shifts can trigger sharp crypto drawdowns into year-end.",
       "id": "17efa2e6-932f-452c-99ac-f5783e334c74",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -253,7 +253,7 @@
       ],
       "rationale": "If policy path stabilizes and liquidity improves, rates vol can compress further.",
       "id": "766dd9f0-94c9-47d5-b194-a39050618820",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -275,7 +275,7 @@
       ],
       "rationale": "Elevated bill supply and attractive repo rates continue to displace ON RRP usage.",
       "id": "daed0d69-fdff-48d4-bb9e-4242b9077df2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -297,7 +297,7 @@
       ],
       "rationale": "Winter demand and refinery maintenance/outages can produce a large weekly distillate draw.",
       "id": "46dd8058-cdcc-4d01-8c4f-e2f49940d0bf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

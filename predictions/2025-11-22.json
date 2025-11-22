@@ -1,0 +1,244 @@
+{
+  "date": "2025-11-22",
+  "predictions": [
+    {
+      "text": "ADP National Employment Report will show U.S. private-sector payroll change for November 2025 between +130,000 and +220,000.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-12-04",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Confirm via ADP Research Institute press release/PDF for November 2025; range is inclusive.",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/realer_11212025.htm",
+        "https://www.cnbc.com/2025/11/21/fed-wont-get-key-inflation-data-before-next-rate-decision-as-bls-cancels-october-cpi-release.html",
+        "https://adpemploymentreport.com/"
+      ],
+      "monitoring_signals": [
+        "Continuing and initial jobless claims",
+        "Challenger layoff announcements",
+        "Homebase/Indeed small-business hiring trends",
+        "ISM services employment index",
+        "NFIB hiring plans"
+      ],
+      "rationale": "Cooling but still positive labor demand; services steady while goods stay soft.",
+      "id": "7ea37ca8-0aa3-49f9-9f87-0b64879d52ca",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 3.90% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 39,
+      "deadline": "2025-12-31",
+      "confidence_pct": 43,
+      "log_odds": -0.282,
+      "verification_criteria": "Verify using FRED series DGS10 or U.S. Treasury daily close; any close \u22643.90% qualifies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/21/us-treasury-yields-edge-lower-as-fed-rate-cut-bets-fall.html",
+        "https://fred.stlouisfed.org/series/DGS10"
+      ],
+      "monitoring_signals": [
+        "Fed communications and dot plot expectations",
+        "Core PCE/CPI releases",
+        "Treasury auction tails/cover ratios",
+        "Term premium proxies",
+        "MOVE index levels"
+      ],
+      "rationale": "Easing expectations and benign inflation data could compress term yields.",
+      "id": "e30f9c53-0026-4b3c-98d4-59d8582876f7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "S&P 500 Index (SPX) will close down by at least 1.8% in a single session on or before 2025-12-20 (UTC).",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-12-20",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Using official SPX daily closes, compute close-to-close % change; any day \u2264 -1.8% qualifies.",
+      "evidence": [
+        "https://www.marketwatch.com/story/the-first-ever-3x-levered-bitcoin-funds-are-launching-in-europe-next-week-the-timing-couldnt-be-worse-7bb8ae29",
+        "https://www.cnbc.com/2025/11/21/nvidia-gpus-google-tpus-aws-trainium-comparing-the-top-ai-chips.html",
+        "https://www.cboe.com/tradable_products/vix/"
+      ],
+      "monitoring_signals": [
+        "VIX/VVIX spikes",
+        "Breadth deterioration (A/D line, %>50DMA)",
+        "Crypto-led risk-off days",
+        "Macro surprise index shocks",
+        "Large options expirations/positioning"
+      ],
+      "rationale": "Compressed volatility leaves equities vulnerable to discrete shocks.",
+      "id": "97a13340-857f-4709-98c4-0acbe5b451ad",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or below $75,000 on at least one UTC day by 2025-12-31.",
+      "category": "markets",
+      "horizon_days": 39,
+      "deadline": "2025-12-31",
+      "confidence_pct": 46,
+      "log_odds": -0.16,
+      "verification_criteria": "Confirm via major consolidated feeds (e.g., CoinDesk/Coinbase) that intraday low \u2264$75,000 on any UTC day.",
+      "evidence": [
+        "https://www.marketwatch.com/story/the-first-ever-3x-levered-bitcoin-funds-are-launching-in-europe-next-week-the-timing-couldnt-be-worse-7bb8ae29"
+      ],
+      "monitoring_signals": [
+        "Perpetuals funding rates and open interest",
+        "BTC ETF net flows",
+        "USD liquidity and real yields",
+        "Stablecoin supply growth",
+        "Risk sentiment proxies (VIX, HY spreads)"
+      ],
+      "rationale": "Levered products and fragile risk appetite raise downside tail risk.",
+      "id": "9095feb1-5f3d-49ed-90ce-683f936160ed",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or below \u20ac35.00/MWh on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 39,
+      "deadline": "2025-12-31",
+      "confidence_pct": 37,
+      "log_odds": -0.533,
+      "verification_criteria": "Use ICE Endex official front-month TTF settlement price; any settlement \u2264\u20ac35.00/MWh qualifies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/21/oil-prices-energy-stocks-in-focus-amid-trumps-new-ukraine-peace-plan.html",
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures"
+      ],
+      "monitoring_signals": [
+        "EU gas storage levels vs. 5-year avg",
+        "HDD weather forecasts",
+        "LNG cargo arrivals and outages",
+        "Norwegian/US export disruptions",
+        "Freight rates and Panama/Suez constraints"
+      ],
+      "rationale": "High storage and intermittent mild weather can pressure TTF into year-end.",
+      "id": "4de83013-5810-4df6-a274-583234d9c10e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "CISA will add at least 20 CVEs to the Known Exploited Vulnerabilities (KEV) catalog with a Date Added between 2025-11-22 and 2025-12-10 inclusive.",
+      "category": "tech",
+      "horizon_days": 19,
+      "deadline": "2025-12-11",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Count CVEs on the CISA KEV catalog with Date Added in the stated window; total \u226520 qualifies.",
+      "evidence": [
+        "https://techcrunch.com/2025/11/21/despite-chinese-hacks-trumps-fcc-votes-to-scrap-cybersecurity-rules-for-phone-and-internet-companies/",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+      ],
+      "monitoring_signals": [
+        "Microsoft Patch Tuesday (Dec)",
+        "Actively exploited 0-days disclosures",
+        "CISA KEV RSS/JSON updates",
+        "Major vendor emergency patches (Cisco, Atlassian, Adobe)",
+        "Threat intel feeds noting in-the-wild exploits"
+      ],
+      "rationale": "Pre- and post-Patch Tuesday spikes and active exploitation drive KEV additions.",
+      "id": "5cedd197-956a-4040-a92b-84651b157766",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-20, the U.K. government will announce at least one new Russia-related sanctions designation via an official gov.uk press release.",
+      "category": "geopolitics",
+      "horizon_days": 28,
+      "deadline": "2025-12-20",
+      "confidence_pct": 62,
+      "log_odds": 0.489,
+      "verification_criteria": "Confirmation via an official gov.uk press release from HM Treasury (OFSI) or FCDO dated on or before 2025-12-20.",
+      "evidence": [
+        "https://www.gov.uk/government/collections/uk-sanctions-regimes",
+        "https://www.nytimes.com/2025/11/21/world/americas/us-navy-venezuela-satellite-data.html"
+      ],
+      "monitoring_signals": [
+        "EU Council sanctions actions and communiqu\u00e9s",
+        "G7 coordination statements",
+        "UK Parliament/business calendar",
+        "Russia escalation events and evasion findings"
+      ],
+      "rationale": "The UK typically synchronizes with EU/G7 timelines on Russia sanctions.",
+      "id": "2eb04169-9a9d-4925-aba9-0baa21997c0a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Federal Reserve ON RRP facility usage will fall to at or below $25.0 billion on at least one business day by 2025-12-31 (New York time).",
+      "category": "rates",
+      "horizon_days": 39,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "log_odds": -0.241,
+      "verification_criteria": "Use NY Fed published daily RRP usage; any business day print \u2264$25.0B qualifies.",
+      "evidence": [
+        "https://www.newyorkfed.org/markets/desk-operations/reverse-repo",
+        "https://www.cnbc.com/2025/11/21/us-treasury-yields-edge-lower-as-fed-rate-cut-bets-fall.html"
+      ],
+      "monitoring_signals": [
+        "T-bill issuance/FRNs supply",
+        "MMF yields vs. RRP rate",
+        "TGA balance swings",
+        "Year-end balance sheet constraints",
+        "Repo rates (SOFR, BSBY, GC)"
+      ],
+      "rationale": "Higher bill supply and risk appetite continue to drain RRP balances.",
+      "id": "fb6b8796-8989-4ab5-8e3d-06b1755a5678",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ERCOT hourly wind generation will reach at least 38,500 MW on at least one hour by 2025-12-31 (CST).",
+      "category": "energy",
+      "horizon_days": 39,
+      "deadline": "2025-12-31",
+      "confidence_pct": 36,
+      "log_odds": -0.576,
+      "verification_criteria": "Confirm using ERCOT Fuel Mix hourly data (CST timestamps). Any hour with wind \u226538,500 MW qualifies.",
+      "evidence": [
+        "https://www.ercot.com/gridmktinfo/dashboards"
+      ],
+      "monitoring_signals": [
+        "ERCOT day-ahead wind forecasts",
+        "Cold fronts/pressure gradients in Texas",
+        "New wind capacity interconnections",
+        "Real-time curtailment rates"
+      ],
+      "supersedes_id": "3116ee63",
+      "rationale": "Seasonal wind patterns and capacity growth can push new hourly peaks.",
+      "id": "9c0be26a-c2ba-4cfb-837e-c52faea60e71",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "From 2025-11-22 close to 2025-12-31 close, Invesco S&P 500 Equal Weight ETF (RSP) adjusted-close total return will underperform SPDR S&P 500 ETF Trust (SPY) by at least 1.5 percentage points.",
+      "category": "markets",
+      "horizon_days": 39,
+      "deadline": "2025-12-31",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Using adjusted-close (total return) data, compute RSP minus SPY return over the period; result \u2264 -1.5 pp qualifies.",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/21/eli-lilly-hits-1-trillion-market-value-first-for-health-care-company.html",
+        "https://www.cnbc.com/2025/11/21/nvidia-gpus-google-tpus-aws-trainium-comparing-the-top-ai-chips.html",
+        "https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html"
+      ],
+      "monitoring_signals": [
+        "Performance of mega-cap leaders vs. median stock",
+        "Market breadth metrics",
+        "CTA/vol-control equity exposure",
+        "Sector rotation into defensives/growth megacaps"
+      ],
+      "rationale": "Year-end flows and mega-cap leadership support SPY over equal weight.",
+      "id": "28631dc0-3755-43d5-b84c-2667cdcc0be9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

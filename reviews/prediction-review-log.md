@@ -1133,3 +1133,12 @@ Political and geopolitical coverage (U.S. policy moves, Ukraine talks, immigrati
 
 ---
 
+
+## 2025-11-21
+
+Today’s news cycle was dominated by politics, corporate moves, and market color, but it did not provide definitive data releases or measurements needed to resolve any of the tracked forecasts. Notably, reporting that BLS canceled the October CPI release suggests near-term data frictions, yet it offers no November CPI figure. Market pieces discuss tech-stock weakness and bitcoin declines, but lack specific levels for the VIX, MOVE Index, Treasury yields, or crude spreads.
+
+With deadlines mostly in December, all items remain open. The macro and market context—AI-driven equity volatility, bond-market sensitivity to foreign demand, and policy uncertainty—could influence probabilities, but without concrete prints or closes, there’s no basis to mark any forecast correct or incorrect today.
+
+---
+
