@@ -1,0 +1,269 @@
+{
+  "date": "2025-11-23",
+  "predictions": [
+    {
+      "text": "ISM Manufacturing PMI (headline) for November 2025 will print between 48.5 and 50.5 in ISM\u2019s official release.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-12-04",
+      "confidence_pct": 56,
+      "verification_criteria": "Institute for Supply Management\u2019s Manufacturing ISM Report On Business press release for November 2025 shows headline PMI within [48.5, 50.5].",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/",
+        "https://www.spglobal.com/marketintelligence/en/solutions/pmi"
+      ],
+      "monitoring_signals": [
+        "S&P Global US Manufacturing PMI (final) level",
+        "Regional Fed surveys (Empire, Philly, Dallas) diffusion indexes",
+        "ISM new orders and prices indexes",
+        "Supplier delivery times and inventories"
+      ],
+      "rationale": "Manufacturing remains near contraction/expansion boundary; new orders stabilizing while prices are contained.",
+      "id": "a8434cd9-f8ea-4f60-9a90-af852e455e5f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Services PMI (headline) for November 2025 will print between 50.5 and 54.0 in ISM\u2019s official release.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-12-06",
+      "confidence_pct": 57,
+      "verification_criteria": "Institute for Supply Management\u2019s Services ISM Report On Business press release for November 2025 shows headline PMI within [50.5, 54.0].",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/",
+        "https://www.spglobal.com/marketintelligence/en/solutions/pmi"
+      ],
+      "monitoring_signals": [
+        "S&P Global US Services PMI (final)",
+        "High-frequency card spending and OpenTable seatings",
+        "NFIB Small Business indicators for services",
+        "Services prices and employment components"
+      ],
+      "rationale": "Services activity remains expansionary but moderated by cooling labor demand and lower inflation.",
+      "id": "09bd0d53-389e-4ef2-a097-8dc60a53be3e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. TSA airport checkpoint throughput will reach at least 3,000,000 passengers on at least one U.S. calendar day between 2025-11-26 and 2025-12-01.",
+      "category": "other",
+      "horizon_days": 9,
+      "deadline": "2025-12-02",
+      "confidence_pct": 63,
+      "verification_criteria": "TSA\u2019s official daily checkpoint numbers show total nationwide passengers \u2265 3,000,000 on at least one date in the specified range.",
+      "evidence": [
+        "https://www.tsa.gov/travel/passenger-volumes",
+        "https://www.airlines.org/dataset/thanksgiving-holiday-travel-forecast/"
+      ],
+      "monitoring_signals": [
+        "Airline seat capacity schedules and load factors",
+        "Weather disruptions and FAA delay advisories",
+        "Airline on-time performance and cancellations",
+        "Holiday travel forecasts from Airlines for America"
+      ],
+      "rationale": "Thanksgiving is peak travel; throughput has trended to new records with robust leisure demand.",
+      "id": "9b880251-7acf-4e4e-ba87-7e253692d5e0",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "ERCOT will issue at least one Conservation Appeal or Weather Watch between 2025-12-01 and 2025-12-31 (CST).",
+      "category": "energy",
+      "horizon_days": 38,
+      "deadline": "2025-12-31",
+      "confidence_pct": 55,
+      "verification_criteria": "ERCOT official newsroom posts or market notices explicitly labeled as a Conservation Appeal or Weather Watch within the date range.",
+      "evidence": [
+        "https://www.ercot.com/about/newsroom",
+        "https://www.cnbc.com/2025/11/22/texas-data-center-ai-ercot-blackout-power-outage.html"
+      ],
+      "monitoring_signals": [
+        "Forecasted cold snaps and heating degree days in Texas",
+        "ERCOT daily peak load forecasts vs. available capacity",
+        "Thermal outages and wind/solar generation forecasts",
+        "Transmission constraints and reserve margins"
+      ],
+      "rationale": "Winter peaks plus rapid load growth from data centers raise risk of tight conditions prompting alerts.",
+      "id": "77a28205-1fbc-43d9-8b12-446ce9a0d1ca",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly Natural Gas Storage Report will show a net withdrawal of at least 100 Bcf in at least one report published by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 38,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "EIA\u2019s Weekly Natural Gas Storage Report table shows a weekly net change \u2264 -100 Bcf for any region-sum (Lower 48) in a report released on or before the deadline.",
+      "evidence": [
+        "https://www.eia.gov/naturalgas/storage/",
+        "https://www.cpc.ncep.noaa.gov/products/precip/CWlink/daily_ao_index/teleconnections.shtml"
+      ],
+      "monitoring_signals": [
+        "Heating degree day forecasts and polar air intrusions",
+        "Dry gas production and pipeline nominations",
+        "Henry Hub futures/forward spreads",
+        "Regional storage levels and basis moves"
+      ],
+      "rationale": "Seasonal draws typically ramp in December; a strong cold spell can push withdrawals past 100 Bcf.",
+      "id": "f9675f80-96fe-471d-9b02-f19bad8a08d2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX RBOB gasoline front-month futures will settle at or below $2.05 per gallon on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 38,
+      "deadline": "2025-12-31",
+      "confidence_pct": 43,
+      "verification_criteria": "CME Group official settlement for the front-month RBOB Gasoline futures contract is \u2264 $2.05/gal on any trading day before or on the deadline.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/refined-products/rbob-gasoline.html",
+        "https://www.eia.gov/petroleum/gasdiesel/"
+      ],
+      "monitoring_signals": [
+        "Crack spreads and refinery utilization/outages",
+        "EIA gasoline inventories and implied demand",
+        "WTI/Brent crude price trends",
+        "Seasonal demand softness post-holidays"
+      ],
+      "rationale": "Winter demand is seasonally weak, inventories are comfortable, and crude softness can pressure RBOB.",
+      "id": "4128fad1-c09a-4ee0-b43e-9fcbc004e249",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 30-Year Treasury yield (FRED: DGS30) will close at or below 4.25% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 38,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "FRED series DGS30 end-of-day observation is \u2264 4.25% on any date up to and including the deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS30",
+        "https://www.cnbc.com/2025/11/21/one-fed-official-may-have-saved-market-from-another-rout-why-john-williams-remarks-matter-so-much.html"
+      ],
+      "monitoring_signals": [
+        "Inflation prints (CPI, PCE) and term premium estimates",
+        "Treasury auction demand and dealer tails",
+        "Fed communication on the easing path",
+        "Risk sentiment and duration hedging flows"
+      ],
+      "rationale": "Cooling inflation and dovish-leaning signals raise odds of a rally at the long end.",
+      "id": "6970da91-15ff-44fd-be07-7003f3722801",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Dollar Index (DXY) will close at or below 102.0 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 38,
+      "deadline": "2025-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Official settlement/close for ICE U.S. Dollar Index (DXY) is \u2264 102.0 on any trading day before or on the deadline.",
+      "evidence": [
+        "https://www.theice.com/products/194/US-Dollar-Index-Futures",
+        "https://www.cmegroup.com/tools-information/fedwatch.html"
+      ],
+      "monitoring_signals": [
+        "Rate differentials: U.S. vs. ECB/BoE policy expectations",
+        "U.S. data surprises relative to G10",
+        "Risk appetite and EM FX performance",
+        "Treasury yields and real rates"
+      ],
+      "rationale": "Narrowing U.S. rate advantage and improving risk sentiment can weigh on the dollar.",
+      "id": "05957db2-afa8-400d-beb6-398791c029a4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "COMEX Gold front-month futures will settle at or above $2,350 per troy ounce on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 38,
+      "deadline": "2025-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "CME Group official settlement for the front-month Gold futures contract is \u2265 $2,350/oz on any trading day before or on the deadline.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/metals/precious/gold.html",
+        "https://fred.stlouisfed.org/series/DFII10"
+      ],
+      "monitoring_signals": [
+        "U.S. real yields (TIPS) and dollar index",
+        "Central bank gold purchases",
+        "Geopolitical risk events",
+        "Gold ETF flows and futures positioning"
+      ],
+      "rationale": "Lower real yields and persistent geopolitical hedging support upside tail outcomes for gold.",
+      "id": "98dda073-c558-4f1f-adcc-c68e938f27ca",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or above $92,000 on at least one UTC day by 2025-12-31.",
+      "category": "markets",
+      "horizon_days": 38,
+      "deadline": "2025-12-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Any reputable spot exchange (e.g., Coinbase, Binance) or consolidated feed (e.g., TradingView) shows BTC-USD high \u2265 $92,000 during a UTC day within the window.",
+      "evidence": [
+        "https://www.coinbase.com/price/bitcoin",
+        "https://www.farside.co.uk/bitcoin-etf-flow/"
+      ],
+      "monitoring_signals": [
+        "U.S. spot Bitcoin ETF net inflows/outflows",
+        "Funding rates and basis on major derivatives venues",
+        "Liquidity/volatility regime and macro risk appetite",
+        "Stablecoin net issuance trends"
+      ],
+      "rationale": "ETF flows and risk-on bursts could drive a late-year upside test despite elevated volatility.",
+      "id": "72b1f496-bd24-4997-a7cb-f35d6ffcfdb6",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least 15 FAA-licensed U.S. commercial orbital launches will occur between 2025-12-01 00:00 UTC and 2025-12-31 23:59 UTC.",
+      "category": "tech",
+      "horizon_days": 38,
+      "deadline": "2025-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Count FAA-licensed commercial orbital launches listed by FAA AST or reputable launch trackers (e.g., NextSpaceflight) within the UTC date range; wet dress or suborbital doesn\u2019t count.",
+      "evidence": [
+        "https://www.faa.gov/space/licenses/launch_reentry/",
+        "https://nextspaceflight.com/launches/"
+      ],
+      "monitoring_signals": [
+        "SpaceX Falcon 9/Heavy cadence and range availability",
+        "Weather constraints at CCSFS/Vandenberg",
+        "Range maintenance closures and NOTAMs",
+        "Other providers\u2019 readiness (ULA, Rocket Lab, Relativity)"
+      ],
+      "rationale": "Year-end manifests are back-loaded; SpaceX cadence plus catch-up launches could push December totals high.",
+      "id": "d20f0b54-10d1-449a-af63-a8e66a5f755c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. Average Hourly Earnings (total private, MoM, SA) for November 2025 will print between +0.2% and +0.4% in the BLS Employment Situation report.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-12-06",
+      "confidence_pct": 57,
+      "verification_criteria": "BLS Employment Situation table for November 2025 shows total private average hourly earnings month-over-month percent change within [0.2%, 0.4%].",
+      "evidence": [
+        "https://www.bls.gov/news.release/empsit.toc.htm",
+        "https://www.atlantafed.org/chcs/wage-growth-tracker"
+      ],
+      "monitoring_signals": [
+        "Atlanta Fed Wage Growth Tracker trends",
+        "ADP pay insights and hours worked",
+        "JOLTS quits rate and labor demand indicators",
+        "Initial/continuing claims trajectories"
+      ],
+      "rationale": "Wage growth is easing but still firm; a 0.2\u20130.4% MoM range is consistent with gradual disinflation.",
+      "id": "fce44dd2-36c5-4890-a47b-ed4466ad20af",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

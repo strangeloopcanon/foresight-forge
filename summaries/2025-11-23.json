@@ -1,0 +1,98 @@
+{
+  "bullets": [
+    {
+      "text": "Marjorie Taylor Greene\u2019s resignation narrows Republicans\u2019 House majority, exposing MAGA fractures and complicating fiscal and Ukraine/Israel aid votes.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html"
+    },
+    {
+      "text": "G20 leaders pushed back on Trump\u2019s Ukraine peace plan, signaling continued backing for Kyiv and resistance to concessions that could reward Russian aggression.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/22/world/africa/g20-south-africa-ukraine-russia-united-states.html"
+    },
+    {
+      "text": "IRS begins enforcing new reporting rules on DeFi, mixers, and self-custody, curbing a popular crypto tax dodge starting with 2025 filings.",
+      "tags": [
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/22/new-irs-requirements-crypto-tax-cheat-risky-this-year-filing.html"
+    },
+    {
+      "text": "Dovish-leaning remarks from NY Fed\u2019s John Williams helped stabilize markets after volatility, reinforcing expectations for a gradual, data-dependent easing path.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/21/one-fed-official-may-have-saved-market-from-another-rout-why-john-williams-remarks-matter-so-much.html"
+    },
+    {
+      "text": "Small caps\u2019 multiyear underperformance persists; breadth remains narrow, though improving liquidity and expected rate cuts could catalyze mean reversion.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.marketwatch.com/story/small-stocks-havent-beaten-large-caps-in-more-than-two-decades-but-theyre-trying-984cf9ff?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Texas\u2019 rapid AI data center buildout strains ERCOT capacity, raising blackout risk during extreme cold and highlighting grid upgrade, demand-response, and siting needs.",
+      "tags": [
+        "energy",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/22/texas-data-center-ai-ercot-blackout-power-outage.html"
+    },
+    {
+      "text": "China reports milestone breeding uranium from thorium, advancing fuel self-sufficiency and strategic flexibility for its nuclear program.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "science"
+      ],
+      "link": "https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium"
+    },
+    {
+      "text": "California regulators cleared Waymo\u2019s expansion across the Bay Area and Southern California, signaling growing acceptance of robotaxis and potential scale economies.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/"
+    },
+    {
+      "text": "Meta explores entering electricity trading, leveraging data center flexibility and AI forecasting\u2014blurring lines between big tech and power markets.",
+      "tags": [
+        "energy",
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/22/meta-wants-to-get-into-the-electricity-trading-business/"
+    },
+    {
+      "text": "Nasal nanodrops eradicated brain tumors in mice, suggesting a noninvasive delivery route that bypasses the blood-brain barrier for oncology.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251122044329.htm"
+    },
+    {
+      "text": "Stem cell therapy restored vision in age-related macular degeneration patients, marking a clinically significant advance for retinal regeneration.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251121090736.htm"
+    },
+    {
+      "text": "Activist Ananym Capital urges Baker Hughes to spin off oilfield services, arguing a breakup could unlock value and sharpen strategic focus.",
+      "tags": [
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/11/22/activist-ananym-capital-sees-upside-if-baker-hughes-spins-off-oil-services-.html"
+    }
+  ]
+}

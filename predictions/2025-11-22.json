@@ -23,7 +23,7 @@
       ],
       "rationale": "Cooling but still positive labor demand; services steady while goods stay soft.",
       "id": "7ea37ca8-0aa3-49f9-9f87-0b64879d52ca",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -47,7 +47,7 @@
       ],
       "rationale": "Easing expectations and benign inflation data could compress term yields.",
       "id": "e30f9c53-0026-4b3c-98d4-59d8582876f7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -72,7 +72,7 @@
       ],
       "rationale": "Compressed volatility leaves equities vulnerable to discrete shocks.",
       "id": "97a13340-857f-4709-98c4-0acbe5b451ad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -95,7 +95,7 @@
       ],
       "rationale": "Levered products and fragile risk appetite raise downside tail risk.",
       "id": "9095feb1-5f3d-49ed-90ce-683f936160ed",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "High storage and intermittent mild weather can pressure TTF into year-end.",
       "id": "4de83013-5810-4df6-a274-583234d9c10e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -143,7 +143,7 @@
       ],
       "rationale": "Pre- and post-Patch Tuesday spikes and active exploitation drive KEV additions.",
       "id": "5cedd197-956a-4040-a92b-84651b157766",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "The UK typically synchronizes with EU/G7 timelines on Russia sanctions.",
       "id": "2eb04169-9a9d-4925-aba9-0baa21997c0a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -190,7 +190,7 @@
       ],
       "rationale": "Higher bill supply and risk appetite continue to drain RRP balances.",
       "id": "fb6b8796-8989-4ab5-8e3d-06b1755a5678",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -213,7 +213,7 @@
       "supersedes_id": "3116ee63",
       "rationale": "Seasonal wind patterns and capacity growth can push new hourly peaks.",
       "id": "9c0be26a-c2ba-4cfb-837e-c52faea60e71",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -237,7 +237,7 @@
       ],
       "rationale": "Year-end flows and mega-cap leadership support SPY over equal weight.",
       "id": "28631dc0-3755-43d5-b84c-2667cdcc0be9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

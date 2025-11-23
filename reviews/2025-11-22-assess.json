@@ -1,0 +1,55 @@
+{
+  "date": "2025-11-22",
+  "assessments": [
+    {
+      "id": "7ea37ca8-0aa3-49f9-9f87-0b64879d52ca",
+      "status": "pending",
+      "status_rationale": "No ADP data for November 2025 is referenced in today's news; the report is due in early December and the deadline is still ahead."
+    },
+    {
+      "id": "e30f9c53-0026-4b3c-98d4-59d8582876f7",
+      "status": "pending",
+      "status_rationale": "No confirmed 10-year yield close at or below 3.90% is cited; verification requires market data through 2025-12-31."
+    },
+    {
+      "id": "97a13340-857f-4709-98c4-0acbe5b451ad",
+      "status": "pending",
+      "status_rationale": "No report of an S&P 500 single-session drop of at least 1.8% appears in today's coverage; outcome remains open until 2025-12-20."
+    },
+    {
+      "id": "9095feb1-5f3d-49ed-90ce-683f936160ed",
+      "status": "pending",
+      "status_rationale": "Today's news does not establish BTC trading at or below $75,000; requires price data before 2025-12-31."
+    },
+    {
+      "id": "4de83013-5810-4df6-a274-583234d9c10e",
+      "status": "pending",
+      "status_rationale": "No settlement level for Dutch TTF front-month at or below \u20ac35/MWh is mentioned; needs exchange data by year-end."
+    },
+    {
+      "id": "5cedd197-956a-4040-a92b-84651b157766",
+      "status": "pending",
+      "status_rationale": "No clear update on CISA KEV additions is provided; must check the KEV catalog for entries dated 2025-11-22 to 2025-12-10."
+    },
+    {
+      "id": "2eb04169-9a9d-4925-aba9-0baa21997c0a",
+      "status": "pending",
+      "status_rationale": "No official UK gov.uk press release on new Russia-related sanctions is cited; deadline is 2025-12-20."
+    },
+    {
+      "id": "fb6b8796-8989-4ab5-8e3d-06b1755a5678",
+      "status": "pending",
+      "status_rationale": "No evidence on ON RRP usage at or below $25B; requires Federal Reserve daily data through 2025-12-31."
+    },
+    {
+      "id": "9c0be26a-c2ba-4cfb-837e-c52faea60e71",
+      "status": "pending",
+      "status_rationale": "No ERCOT hourly wind peak is reported; need system operations data to confirm any \u226538,500 MW hour by year-end."
+    },
+    {
+      "id": "28631dc0-3755-43d5-b84c-2667cdcc0be9",
+      "status": "pending",
+      "status_rationale": "The performance window has just opened and today's news does not establish a \u22651.5 pp underperformance of RSP vs SPY; outcome remains open until 2025-12-31 close."
+    }
+  ]
+}
