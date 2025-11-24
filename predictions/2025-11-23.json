@@ -20,7 +20,7 @@
       ],
       "rationale": "Manufacturing remains near contraction/expansion boundary; new orders stabilizing while prices are contained.",
       "id": "a8434cd9-f8ea-4f60-9a90-af852e455e5f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Services activity remains expansionary but moderated by cooling labor demand and lower inflation.",
       "id": "09bd0d53-389e-4ef2-a097-8dc60a53be3e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Thanksgiving is peak travel; throughput has trended to new records with robust leisure demand.",
       "id": "9b880251-7acf-4e4e-ba87-7e253692d5e0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Winter peaks plus rapid load growth from data centers raise risk of tight conditions prompting alerts.",
       "id": "77a28205-1fbc-43d9-8b12-446ce9a0d1ca",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Seasonal draws typically ramp in December; a strong cold spell can push withdrawals past 100 Bcf.",
       "id": "f9675f80-96fe-471d-9b02-f19bad8a08d2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Winter demand is seasonally weak, inventories are comfortable, and crude softness can pressure RBOB.",
       "id": "4128fad1-c09a-4ee0-b43e-9fcbc004e249",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Cooling inflation and dovish-leaning signals raise odds of a rally at the long end.",
       "id": "6970da91-15ff-44fd-be07-7003f3722801",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Narrowing U.S. rate advantage and improving risk sentiment can weigh on the dollar.",
       "id": "05957db2-afa8-400d-beb6-398791c029a4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "Lower real yields and persistent geopolitical hedging support upside tail outcomes for gold.",
       "id": "98dda073-c558-4f1f-adcc-c68e938f27ca",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -218,7 +218,7 @@
       ],
       "rationale": "ETF flows and risk-on bursts could drive a late-year upside test despite elevated volatility.",
       "id": "72b1f496-bd24-4997-a7cb-f35d6ffcfdb6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -240,7 +240,7 @@
       ],
       "rationale": "Year-end manifests are back-loaded; SpaceX cadence plus catch-up launches could push December totals high.",
       "id": "d20f0b54-10d1-449a-af63-a8e66a5f755c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -262,7 +262,7 @@
       ],
       "rationale": "Wage growth is easing but still firm; a 0.2\u20130.4% MoM range is consistent with gradual disinflation.",
       "id": "fce44dd2-36c5-4890-a47b-ed4466ad20af",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

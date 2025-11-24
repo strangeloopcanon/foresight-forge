@@ -1,0 +1,116 @@
+{
+  "bullets": [
+    {
+      "text": "Ukraine and U.S. to discuss Trump-backed cease-fire framework in Switzerland, signaling potential shift in war diplomacy with Russia.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/23/world/europe/ukraine-switzerland-russia-peace-talks.html"
+    },
+    {
+      "text": "Zelensky faces domestic pushback and Trump pressure, constraining Kyiv\u2019s negotiating latitude and war aims.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/23/world/europe/ukraine-zelensky-war-russia.html"
+    },
+    {
+      "text": "G20 showcased multipolar coordination on development and debt with limited U.S. engagement, underscoring shifting global leadership dynamics.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/11/23/world/africa/g20-united-states.html"
+    },
+    {
+      "text": "Israel punished commanders for October 7 failures, aiming to restore deterrence and public trust amid ongoing Gaza operations.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/23/world/middleeast/israel-punishes-commanders-hamas-attack.html"
+    },
+    {
+      "text": "Asia-Pacific equities rebounded as revived Fed rate-cut hopes boosted risk appetite, lifting tech shares.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/11/24/asia-markets-today-monday-kospi-hang-seng-index-fed-rate-cut-tech-ai-trade.html"
+    },
+    {
+      "text": "U.S. futures rose into Thanksgiving week as retailers lean on heavy discounting; holiday spending will set tone for Q4 earnings.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-gain-ahead-of-thanksgiving-week-and-the-crucial-holiday-shopping-season-c6ea13ea?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Bitcoin and long Treasurys rallied together, reflecting sensitivity to liquidity and rate-cut expectations rather than diversification benefits.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.marketwatch.com/story/heres-what-bitcoin-and-u-s-treasurys-have-in-common-right-now-cbfe42d4?mod=mw_rss_topstories"
+    },
+    {
+      "text": "AI trade breadth is narrowing; even Nvidia strength can\u2019t offset weakness across suppliers and beneficiaries, raising rotation risk.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/why-the-once-invincible-nvidia-cant-save-the-ai-trade-893d307a?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Macquarie\u2019s $7.5B bid for Qube sent shares up ~20%, signaling resurgent infrastructure M&A appetite.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/24/australia-qube-holdings-shares-jump-macquarie-takeover-deal.html"
+    },
+    {
+      "text": "Court filings allege Meta suppressed internal research on platform harms, elevating legal and regulatory risks.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://time.com/7336204/meta-lawsuit-files-child-safety/"
+    },
+    {
+      "text": "X\u2019s new origin labels flagged many \u201cUS\u201d accounts as foreign-run, highlighting persistent influence-operations risk ahead of elections.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html"
+    },
+    {
+      "text": "Insurers say generative AI risks are currently uninsurable at scale, constraining enterprise adoption and liability transfer.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/"
+    },
+    {
+      "text": "U.S. cybercrime losses hit $16.6B; China leads quantum funding, underscoring escalating digital risk and strategic tech competition.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://paulkedrosky.com/kedrosky-daily-sunday-edition-us-cybercrime-costs-hit-16-6b-china-leads-quantum-funding/"
+    },
+    {
+      "text": "Geochemical evidence points to a Theia-like planetary body that formed the Moon, refining models of early solar system dynamics.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251123115431.htm"
+    },
+    {
+      "text": "Solar superstorm \u201cGannon\u201d crushed Earth\u2019s plasmasphere to record lows, spotlighting satellite, navigation, and grid vulnerabilities to extreme space weather.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251122234723.htm"
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "date": "2025-11-24",
+  "predictions": [
+    {
+      "text": "Eurostat will report euro area (EA20) HICP flash inflation (YoY) for November 2025 between 2.4% and 2.9%.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-11-30",
+      "confidence_pct": 58,
+      "verification_criteria": "Eurostat flash HICP YoY for the euro area as published in the official press release and database (e.g., prc_hicp_manr). Outcome must fall within [2.4%, 2.9%].",
+      "evidence": [
+        "Energy prices have been soft, lowering headline inflation.",
+        "Core disinflation is gradual; services remain sticky but easing.",
+        "Market consensus and recent country prints point near the high-2% range."
+      ],
+      "monitoring_signals": [
+        "Preliminary national CPI prints (DE, ES, FR, IT)",
+        "Brent crude and natural gas prices",
+        "ECB commentary and surveys (SPF) on inflation expectations"
+      ],
+      "rationale": "Energy-driven base effects and gradual core disinflation keep headline in the high-2s.",
+      "id": "4eb283ac-1208-4fb2-b4af-31ff83bc2fe4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China NBS Manufacturing PMI for November 2025 will print between 49.6 and 50.4.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Official NBS release for November 2025 Manufacturing PMI. Accept if headline PMI is within [49.6, 50.4].",
+      "evidence": [
+        "Incremental policy support and improved export orders.",
+        "Recent Caixin PMI readings hovering near 50.",
+        "Electricity output and rail freight suggest stabilization, not robust expansion."
+      ],
+      "monitoring_signals": [
+        "Caixin Manufacturing PMI",
+        "Export orders subindex in NBS PMI",
+        "High-frequency indicators (steel output, property sales)"
+      ],
+      "rationale": "Stabilization around the 50 line amid modest policy support and mixed external demand.",
+      "id": "8790fb8c-d8ce-4424-a763-b3efe82edfd7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NOAA SWPC will issue at least one G3 (Strong) geomagnetic storm Watch or Warning by 2025-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 37,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "NOAA SWPC official alerts/watches archive must show a G3 Watch or G3 Warning issued within the window.",
+      "evidence": [
+        "Solar Cycle 25 is near peak, increasing severe storm probability.",
+        "Recent superstorm activity highlights elevated space weather risk.",
+        "Multiple complex active regions observed recently."
+      ],
+      "monitoring_signals": [
+        "SWPC sunspot/flare activity (M/X-class flares)",
+        "CMEs observed by SOHO/SDO",
+        "Kp index forecasts and WSA\u2013ENLIL model outputs"
+      ],
+      "rationale": "Solar maximum conditions raise odds of strong geomagnetic activity this month.",
+      "id": "4c1d6127-dc17-4a35-8a9b-20a51eebc811",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Google will publish a Chrome Stable Channel update noting at least one CVE as \"exploited in the wild\" by 2025-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 37,
+      "deadline": "2025-12-31",
+      "confidence_pct": 48,
+      "verification_criteria": "Chrome Releases blog post explicitly states \"Google is aware that an exploit for [CVE] exists in the wild\" for a Stable Channel update in the window.",
+      "evidence": [
+        "Chrome has disclosed numerous zero-days each year (2023\u20132025 trend).",
+        "Rising cybercrime losses and exploit markets.",
+        "Holiday periods often see active exploitation cycles."
+      ],
+      "monitoring_signals": [
+        "Chrome Releases blog and CVE entries",
+        "Threat intel reports on in-the-wild exploits",
+        "CISA KEV catalog additions referencing Chrome"
+      ],
+      "rationale": "Historical cadence of Chrome zero-days and active exploit markets support non-trivial odds.",
+      "id": "978e28d6-5cce-442c-bcc7-9e386655de2c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "PJM will issue at least one Cold Weather Alert between 2025-12-01 and 2025-12-31 (Eastern Time).",
+      "category": "energy",
+      "horizon_days": 37,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "PJM Operations/Newsroom posts or official operator messages indicating a 'Cold Weather Alert' within the specified dates.",
+      "evidence": [
+        "Early winter cold snaps are common in December.",
+        "Forecasts show risk of below-normal temperatures in parts of PJM.",
+        "PJM routinely issues preparedness alerts in cold outbreaks."
+      ],
+      "monitoring_signals": [
+        "NOAA CPC 6\u201314 day temperature outlooks",
+        "PJM public dispatch/notifications page",
+        "Natural gas spot prices and regional basis"
+      ],
+      "rationale": "Seasonal climatology and forecast signals imply at least one preparedness alert is plausible.",
+      "id": "782b12f3-4ce3-4314-82bd-6cf717680468",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "EUR/USD spot will trade at or above 1.1100 on at least one UTC day by 2025-12-31.",
+      "category": "markets",
+      "horizon_days": 37,
+      "deadline": "2025-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Any reputable FX data source showing intraday high for EUR/USD >= 1.1100 on a UTC date within the window.",
+      "evidence": [
+        "Revived Fed rate-cut expectations pressure the USD.",
+        "Euro area data stabilizing from lows improves EUR support.",
+        "Correlation with risk-on sentiment into year-end."
+      ],
+      "monitoring_signals": [
+        "DXY index and U.S.\u2013EU rate differentials (2Y)",
+        "ECB and Fed communications; OIS-implied cuts",
+        "Eurozone flash HICP and PMIs"
+      ],
+      "rationale": "Narrowing rate differentials and risk-on support a test of 1.11.",
+      "id": "79b606e9-4bfd-4fdc-ac35-15c3c453d192",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-Year breakeven inflation rate (FRED: T10YIE) will close at or below 2.20% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 37,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "FRED series T10YIE daily close value <= 2.20% on a trading day within the window.",
+      "evidence": [
+        "Oil and gasoline prices have eased, trimming near-term inflation expectations.",
+        "Growth concerns and disinflation trends cap breakevens.",
+        "Inflation swaps indicate contained medium-term expectations."
+      ],
+      "monitoring_signals": [
+        "Brent/WTI prices and gasoline spreads",
+        "5Y5Y inflation swaps and TIPS flows",
+        "Key U.S. inflation prints (CPI, PCE), ISM prices paid"
+      ],
+      "rationale": "Energy softness and slowing demand can push breakevens toward 2.2%.",
+      "id": "aa27ab15-cc22-47f5-8dae-e5dc1f793be6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 5-Year Treasury yield (FRED: DGS5) will close at or below 4.10% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 37,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "verification_criteria": "FRED series DGS5 daily close <= 4.10% on any trading day within the window.",
+      "evidence": [
+        "Market pricing implies increased odds of 2026 rate cuts.",
+        "Declining term premium and softer data favor lower yields.",
+        "MOVE index has been trending lower on calmer rates volatility."
+      ],
+      "monitoring_signals": [
+        "Fed communications and OIS path",
+        "ISM/PMI, payrolls, and retail sales surprises",
+        "MOVE index and Treasury auction demand"
+      ],
+      "rationale": "Cut expectations and softer data can pull the belly of the curve down.",
+      "id": "a5d811b7-0e1e-4331-a108-04c5fd974d1f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Endex EUA front-month futures will settle at or above \u20ac70.00 per tonne on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 37,
+      "deadline": "2025-12-31",
+      "confidence_pct": 43,
+      "verification_criteria": "ICE Endex official settlement price for the EUA front-month contract >= \u20ac70.00/tonne within the window.",
+      "evidence": [
+        "EU ETS structural support and compliance demand into year-end.",
+        "Colder weather boosts power-sector allowance needs.",
+        "Prices have rebounded from lows, showing positive momentum potential."
+      ],
+      "monitoring_signals": [
+        "ICE EUA futures price and open interest",
+        "EU power and gas prices, temperature forecasts",
+        "Policy headlines affecting EU ETS supply/demand"
+      ],
+      "rationale": "Seasonal compliance and colder weather can lift EUA prices to \u20ac70.",
+      "id": "e06c27c9-c9c2-4d4e-8da2-e976d08f763e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. TSA airport checkpoint throughput will reach at least 2,800,000 passengers on at least one U.S. calendar day between 2025-12-20 and 2025-12-31.",
+      "category": "other",
+      "horizon_days": 37,
+      "deadline": "2025-12-31",
+      "confidence_pct": 60,
+      "verification_criteria": "TSA daily checkpoint travel numbers posted on tsa.gov show a day in the window with total passengers >= 2,800,000.",
+      "evidence": [
+        "Thanksgiving volumes approached or exceeded prior records.",
+        "Airlines report high load factors into the holidays.",
+        "Christmas/New Year travel typically produces multiple peak days."
+      ],
+      "monitoring_signals": [
+        "TSA daily throughput updates",
+        "Airline capacity (seats, ASMs) and on-time performance",
+        "Severe weather disruptions that could depress traffic"
+      ],
+      "rationale": "Strong holiday travel demand suggests at least one 2.8M+ day.",
+      "id": "dcb2e393-8ede-4d91-808f-24a0c511f492",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "S&P 500 Index (SPX) will close at a new all-time high on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 37,
+      "deadline": "2025-12-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Official SPX closing level exceeds its prior all-time closing high as tracked by S&P Dow Jones Indices on a trading day within the window.",
+      "evidence": [
+        "Rate-cut hopes support equity valuations.",
+        "Seasonal tailwinds (year-end rally) often aid risk assets.",
+        "Mega-cap tech leadership remains intact despite breadth concerns."
+      ],
+      "monitoring_signals": [
+        "Fed expectations via futures/OIS",
+        "Market breadth, advance-decline, and equal-weight vs. cap-weight",
+        "Earnings preannouncements and guidance from large caps"
+      ],
+      "rationale": "Supportive rates backdrop and year-end flows can nudge SPX to new highs.",
+      "id": "f61f78f1-0313-4ab1-9e3f-09c7673597af",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted U.S. Initial Jobless Claims will print at or above 240,000 in at least one Weekly Claims report released by 2025-12-31.",
+      "category": "macro",
+      "horizon_days": 37,
+      "deadline": "2025-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "U.S. DOL Weekly Unemployment Insurance Weekly Claims News Release shows initial claims (seasonally adjusted) >= 240,000 in any release within the window.",
+      "evidence": [
+        "Continuing claims have drifted higher, signaling softer labor demand.",
+        "Seasonal layoffs in early December can lift initial claims.",
+        "Mixed hiring trends in retail/transport post-holiday peaks."
+      ],
+      "monitoring_signals": [
+        "DOL weekly initial and continuing claims",
+        "Challenger layoff announcements",
+        "High-frequency job postings (Indeed, LinkUp)"
+      ],
+      "rationale": "Seasonality and cooling labor demand raise odds of a 240k print.",
+      "id": "0754356a-7a2e-4bf8-883f-603028388aaf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

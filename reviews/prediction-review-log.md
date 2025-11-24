@@ -1151,3 +1151,12 @@ Qualitatively, the blend of political uncertainty and central-bank commentary co
 
 ---
 
+
+## 2025-11-23
+
+Today’s news flow is dominated by politics, geopolitics, and broad market sentiment ahead of Thanksgiving, with no definitive data releases that would resolve any of the tracked forecasts. The ISM prints and BLS wage data are still ahead, and commodity/FX settlement levels or specific Treasury yield closes are not cited. As such, all items remain pending based on available evidence.
+
+That said, several signals bear watching. Headlines pointing to record Thanksgiving travel bolster plausibility for a 3 million-plus TSA day but do not confirm it; we’ll need official TSA throughput during the 11/26–12/1 window. Market chatter about renewed rate-cut hopes could pressure long-end yields, support gold, and weigh on the dollar, while holiday-liquidity conditions may amplify moves in BTC and risk assets. Into December, weather-driven power alerts in ERCOT and potential cold snaps influencing EIA gas withdrawals are key catalysts, alongside the early-month ISM releases and the jobs report.
+
+---
+

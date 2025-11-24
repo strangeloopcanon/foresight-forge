@@ -1,0 +1,65 @@
+{
+  "date": "2025-11-23",
+  "assessments": [
+    {
+      "id": "a8434cd9-f8ea-4f60-9a90-af852e455e5f",
+      "status": "pending",
+      "status_rationale": "ISM Manufacturing PMI for November 2025 has not been released; today\u2019s news contains no PMI figures."
+    },
+    {
+      "id": "09bd0d53-389e-4ef2-a097-8dc60a53be3e",
+      "status": "pending",
+      "status_rationale": "ISM Services PMI for November 2025 is not yet out; no service PMI numbers in today\u2019s coverage."
+    },
+    {
+      "id": "9b880251-7acf-4e4e-ba87-7e253692d5e0",
+      "status": "pending",
+      "status_rationale": "The window (2025-11-26 to 2025-12-01) has not begun; news only anticipates record Thanksgiving travel without TSA counts \u22653,000,000."
+    },
+    {
+      "id": "77a28205-1fbc-43d9-8b12-446ce9a0d1ca",
+      "status": "pending",
+      "status_rationale": "The period (2025-12-01 to 2025-12-31 CST) has not started; no ERCOT Conservation Appeal or Weather Watch reported."
+    },
+    {
+      "id": "f9675f80-96fe-471d-9b02-f19bad8a08d2",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Natural Gas report citing a \u2265100 Bcf withdrawal is mentioned; outcome remains unresolved before year-end."
+    },
+    {
+      "id": "4128fad1-c09a-4ee0-b43e-9fcbc004e249",
+      "status": "pending",
+      "status_rationale": "No evidence that NYMEX RBOB settled at or below $2.05/gal; today\u2019s news provides no gasoline settlement data."
+    },
+    {
+      "id": "6970da91-15ff-44fd-be07-7003f3722801",
+      "status": "pending",
+      "status_rationale": "Articles discuss Treasurys broadly but provide no specific DGS30 close \u22644.25%; no confirmation available."
+    },
+    {
+      "id": "05957db2-afa8-400d-beb6-398791c029a4",
+      "status": "pending",
+      "status_rationale": "No report of DXY closing at or below 102.0; today\u2019s items lack dollar index levels."
+    },
+    {
+      "id": "98dda073-c558-4f1f-adcc-c68e938f27ca",
+      "status": "pending",
+      "status_rationale": "No COMEX gold settlement \u2265$2,350 is reported in the news; outcome not yet determined."
+    },
+    {
+      "id": "72b1f496-bd24-4997-a7cb-f35d6ffcfdb6",
+      "status": "pending",
+      "status_rationale": "Coverage mentions bitcoin thematically but no price \u2265$92,000; no resolving price evidence."
+    },
+    {
+      "id": "d20f0b54-10d1-449a-af63-a8e66a5f755c",
+      "status": "pending",
+      "status_rationale": "Launch window (2025-12-01 to 2025-12-31) has not begun; no FAA launch counts provided."
+    },
+    {
+      "id": "fce44dd2-36c5-4890-a47b-ed4466ad20af",
+      "status": "pending",
+      "status_rationale": "BLS November 2025 Average Hourly Earnings not yet released; no wage data in today\u2019s news."
+    }
+  ]
+}
