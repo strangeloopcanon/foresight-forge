@@ -1160,3 +1160,12 @@ That said, several signals bear watching. Headlines pointing to record Thanksgiv
 
 ---
 
+
+## 2025-11-24
+
+Today’s news flow is dominated by U.S. politics, geopolitics, and tech-sector developments, with market color focused on an AI-led rebound in equities. None of the items directly report the specific economic prints, market levels, or operational alerts required to resolve the listed predictions. In particular, there is no coverage of Eurostat’s November flash HICP, China’s November NBS PMI, TSA throughput statistics, or energy/FX rate levels that would settle any outcomes.
+
+Looking ahead, several forecasts hinge on late-November/December releases and events: Euro area flash inflation and China PMI by month-end, potential PJM Cold Weather Alerts as temperatures drop into December, and holiday travel volumes that could influence TSA counts. The tech-led market bounce could affect the probability path for the S&P 500 to set new highs, while policy headlines may later filter into rates and breakevens, but today’s articles provide no definitive evidence to change statuses.
+
+---
+

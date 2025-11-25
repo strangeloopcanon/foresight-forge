@@ -1,0 +1,65 @@
+{
+  "date": "2025-11-24",
+  "assessments": [
+    {
+      "id": "4eb283ac-1208-4fb2-b4af-31ff83bc2fe4",
+      "status": "pending",
+      "status_rationale": "No Eurostat HICP flash for November is reported in the provided news; deadline has not passed."
+    },
+    {
+      "id": "8790fb8c-d8ce-4424-a763-b3efe82edfd7",
+      "status": "pending",
+      "status_rationale": "No mention of China\u2019s NBS Manufacturing PMI release; outcome not determined yet."
+    },
+    {
+      "id": "4c1d6127-dc17-4a35-8a9b-20a51eebc811",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC G3 Watch/Warning referenced in the news items."
+    },
+    {
+      "id": "978e28d6-5cce-442c-bcc7-9e386655de2c",
+      "status": "pending",
+      "status_rationale": "No Chrome Stable Channel update citing an exploited CVE is noted in the coverage."
+    },
+    {
+      "id": "782b12f3-4ce3-4314-82bd-6cf717680468",
+      "status": "pending",
+      "status_rationale": "PJM Cold Weather Alert window begins in December; no alert reported here."
+    },
+    {
+      "id": "79b606e9-4bfd-4fdc-ac35-15c3c453d192",
+      "status": "pending",
+      "status_rationale": "No EUR/USD level information provided; cannot verify a 1.1100+ print."
+    },
+    {
+      "id": "aa27ab15-cc22-47f5-8dae-e5dc1f793be6",
+      "status": "pending",
+      "status_rationale": "No data on the U.S. 10-Year breakeven (T10YIE) in the news summary."
+    },
+    {
+      "id": "a5d811b7-0e1e-4331-a108-04c5fd974d1f",
+      "status": "pending",
+      "status_rationale": "No report of the U.S. 5-Year Treasury yield hitting 4.10% or lower."
+    },
+    {
+      "id": "e06c27c9-c9c2-4d4e-8da2-e976d08f763e",
+      "status": "pending",
+      "status_rationale": "No mention of ICE Endex EUA front-month pricing in the articles."
+    },
+    {
+      "id": "dcb2e393-8ede-4d91-808f-24a0c511f492",
+      "status": "pending",
+      "status_rationale": "The TSA throughput window is Dec 20\u201331; nothing here confirms a \u22652.8M day."
+    },
+    {
+      "id": "f61f78f1-0313-4ab1-9e3f-09c7673597af",
+      "status": "pending",
+      "status_rationale": "Market pieces note a tech-led rebound but do not state a new SPX all-time high."
+    },
+    {
+      "id": "0754356a-7a2e-4bf8-883f-603028388aaf",
+      "status": "pending",
+      "status_rationale": "No Weekly Claims figures cited; no evidence of a \u2265240,000 print."
+    }
+  ]
+}

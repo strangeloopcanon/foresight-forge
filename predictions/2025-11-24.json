@@ -20,7 +20,7 @@
       ],
       "rationale": "Energy-driven base effects and gradual core disinflation keep headline in the high-2s.",
       "id": "4eb283ac-1208-4fb2-b4af-31ff83bc2fe4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Stabilization around the 50 line amid modest policy support and mixed external demand.",
       "id": "8790fb8c-d8ce-4424-a763-b3efe82edfd7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Solar maximum conditions raise odds of strong geomagnetic activity this month.",
       "id": "4c1d6127-dc17-4a35-8a9b-20a51eebc811",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Historical cadence of Chrome zero-days and active exploit markets support non-trivial odds.",
       "id": "978e28d6-5cce-442c-bcc7-9e386655de2c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Seasonal climatology and forecast signals imply at least one preparedness alert is plausible.",
       "id": "782b12f3-4ce3-4314-82bd-6cf717680468",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Narrowing rate differentials and risk-on support a test of 1.11.",
       "id": "79b606e9-4bfd-4fdc-ac35-15c3c453d192",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Energy softness and slowing demand can push breakevens toward 2.2%.",
       "id": "aa27ab15-cc22-47f5-8dae-e5dc1f793be6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Cut expectations and softer data can pull the belly of the curve down.",
       "id": "a5d811b7-0e1e-4331-a108-04c5fd974d1f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "Seasonal compliance and colder weather can lift EUA prices to \u20ac70.",
       "id": "e06c27c9-c9c2-4d4e-8da2-e976d08f763e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -218,7 +218,7 @@
       ],
       "rationale": "Strong holiday travel demand suggests at least one 2.8M+ day.",
       "id": "dcb2e393-8ede-4d91-808f-24a0c511f492",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -240,7 +240,7 @@
       ],
       "rationale": "Supportive rates backdrop and year-end flows can nudge SPX to new highs.",
       "id": "f61f78f1-0313-4ab1-9e3f-09c7673597af",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -262,7 +262,7 @@
       ],
       "rationale": "Seasonality and cooling labor demand raise odds of a 240k print.",
       "id": "0754356a-7a2e-4bf8-883f-603028388aaf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

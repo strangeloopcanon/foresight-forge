@@ -1,0 +1,258 @@
+{
+  "date": "2025-11-25",
+  "predictions": [
+    {
+      "text": "Eurostat will report euro area (EA20) Core HICP flash inflation (YoY) for November 2025 between 2.7% and 3.2%.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Eurostat's HICP flash release for November 2025 shows Core HICP (ex energy and unprocessed food) YoY in [2.7%, 3.2%].",
+      "evidence": [
+        "https://ec.europa.eu/eurostat/web/macroeconomic-statistics/inflation-prices",
+        "Recent EA core inflation running near ~3% with easing goods disinflation but sticky services.",
+        "Oil stabilization and base effects keep headline contained; core trends smoother."
+      ],
+      "monitoring_signals": [
+        "Germany state CPI prints (Nov 28-29)",
+        "Spain/France/Italy national CPIs pre-flash",
+        "ECB nowcasts and services inflation proxies"
+      ],
+      "rationale": "Core inflation trend easing but still near 3%, with national prints likely to cluster around that range.",
+      "id": "40c682f5-860f-42d5-a537-e6c58e77a91b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Core PCE Price Index (YoY, SA) for October 2025 will print between 2.6% and 2.9% in the BEA release.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-11-29",
+      "confidence_pct": 58,
+      "log_odds": 0.321,
+      "verification_criteria": "BEA's PCE release shows Core PCE Price Index 12-month percent change within [2.6%, 2.9%].",
+      "evidence": [
+        "https://www.bea.gov/data/personal-consumption-expenditures-price-index",
+        "Recent CPI/PPI imply ~0.2% core MoM PCE and ongoing YoY glide toward high-2s.",
+        "Core goods deflation offsets sticky services; healthcare weights favor PCE vs CPI."
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed nowcast for PCE",
+        "CPI-to-PCE mapping (shelter, health care services)",
+        "Oct PPI ex-food/energy trade services"
+      ],
+      "rationale": "October CPI/PPI mix is consistent with a core PCE YoY print in the high-2% range.",
+      "id": "eda57936-bb76-441e-999f-d58f28218f61",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China Caixin Manufacturing PMI (headline) for November 2025 will print between 50.0 and 51.0.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-12-03",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Caixin official PMI report for November 2025 shows headline index in [50.0, 51.0].",
+      "evidence": [
+        "https://www.caixinglobal.com/data/pmi",
+        "Caixin tends to outperform NBS when private SMEs stabilize; recent readings hovered near 50.",
+        "External demand showing tentative improvement; domestic stimulus modest."
+      ],
+      "monitoring_signals": [
+        "NBS Manufacturing PMI (Nov 30)",
+        "Export orders subindices and new orders in Caixin flash commentary",
+        "CNY exchange rate and credit impulse proxies"
+      ],
+      "rationale": "Private-sector activity likely modestly expansionary, aligning with recent stabilization signals.",
+      "id": "2f9c3e40-e548-4062-b6e7-6ac87e25157f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Microsoft\u2019s December 2025 Patch Tuesday will include at least one CVE marked as \"Exploited: Yes\" in the wild.",
+      "category": "tech",
+      "horizon_days": 15,
+      "deadline": "2025-12-10",
+      "confidence_pct": 57,
+      "log_odds": 0.285,
+      "verification_criteria": "On the December 2025 release date, Microsoft Security Update Guide lists at least one CVE with Exploited flag set to Yes.",
+      "evidence": [
+        "https://msrc.microsoft.com/update-guide",
+        "Historical cadence: frequent zero-day disclosures with exploitation noted in monthly bulletins.",
+        "Late-year campaigns often drive end-of-year KEV and zero-day adds."
+      ],
+      "monitoring_signals": [
+        "MSRC blog advisories",
+        "Threat intel reports (Google TAG, Mandiant, CISA alerts)",
+        "Early partner pre-briefings and patch previews"
+      ],
+      "rationale": "Recent years show a steady cadence of exploited zero-days revealed around Patch Tuesday.",
+      "id": "e09120aa-32c0-464c-9279-2209a0461b89",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CISA will add at least 10 CVEs to the Known Exploited Vulnerabilities (KEV) catalog with Date Added between 2025-12-01 and 2025-12-15 inclusive.",
+      "category": "tech",
+      "horizon_days": 20,
+      "deadline": "2025-12-15",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Count entries on CISA KEV catalog where Date Added is 2025-12-01 through 2025-12-15 inclusive; total >= 10.",
+      "evidence": [
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "Year-end advisories and Patch Tuesday often trigger KEV additions.",
+        "Active exploitation campaigns tend to surge before holidays."
+      ],
+      "monitoring_signals": [
+        "Vendor advisories (Microsoft, Apple, Google, Adobe)",
+        "CISA ICS alerts and emergency directives",
+        "Exploit kit activity and telemetry from major security vendors"
+      ],
+      "rationale": "December typically sees elevated KEV entries following major vendor patch cycles.",
+      "id": "8881caa5-7016-4b69-937e-33b6325b793a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe VVIX Index will close at or above 105.0 on at least one trading day by 2025-12-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 20,
+      "deadline": "2025-12-15",
+      "confidence_pct": 42,
+      "log_odds": -0.323,
+      "verification_criteria": "Cboe-published official daily VVIX close >= 105.0 by the deadline.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/vvix/",
+        "Seasonal volatility episodes into mid-December; macro/geopolitical event risk elevated.",
+        "Skew and term structure shifts often precede VVIX spikes."
+      ],
+      "monitoring_signals": [
+        "VIX term structure flattening/backwardation",
+        "SPX put-call skew and dealer gamma positioning",
+        "Macro event calendar (central banks, geopolitics)"
+      ],
+      "rationale": "Even modest shocks can lift VVIX above 105 given thin year-end liquidity.",
+      "id": "1b7e852a-ebdc-4505-b0ed-42770d69b80d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NYMEX Henry Hub front-month natural gas will settle at or above $3.60 per MMBtu on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 36,
+      "deadline": "2025-12-31",
+      "confidence_pct": 49,
+      "log_odds": -0.04,
+      "verification_criteria": "CME/NYMEX official front-month Henry Hub futures settlement price >= $3.60/MMBtu by deadline.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.html",
+        "Winter HDDs and first large storage draws can trigger price spikes.",
+        "TTF volatility and LNG flows can tighten U.S. balances."
+      ],
+      "monitoring_signals": [
+        "Ensemble weather forecasts (HDDs) and NatGasWeather updates",
+        "EIA Weekly Storage withdrawals magnitude",
+        "LNG feedgas flows and export terminal availability"
+      ],
+      "rationale": "Seasonal demand and potential cold shots raise odds of at least one tactical spike.",
+      "id": "54155824-7b2c-4465-9a70-b6c25b93feb7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Daily sunspot number will reach at least 200 on at least one UTC day by 2025-12-31.",
+      "category": "other",
+      "horizon_days": 36,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "NOAA/SWPC reported daily sunspot number (official daily value) >= 200 on any day by deadline.",
+      "evidence": [
+        "https://www.swpc.noaa.gov/products/solar-cycle-progression",
+        "Solar Cycle 25 is near/maximizing; elevated activity increases high SSN days.",
+        "Recent G2\u2013G3 storm watches indicate active regions."
+      ],
+      "monitoring_signals": [
+        "10.7 cm solar radio flux index levels",
+        "AR counts and complexity (beta-gamma-delta regions)",
+        "SWPC forecasts for solar activity"
+      ],
+      "rationale": "Solar max conditions make 200+ daily sunspot counts plausible before year-end.",
+      "id": "8552dbd2-110d-45d2-a260-4313f2b8835d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Adobe Analytics will report U.S. Cyber Monday 2025 online spending of at least $13.0 billion.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-12-04",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Adobe Digital Economy Index post-event report cites Cyber Monday 2025 U.S. online spend >= $13.0B.",
+      "evidence": [
+        "https://business.adobe.com/resources/digital-economy-index.html",
+        "Thanksgiving/Black Friday trends show steady YoY growth and record promotional intensity.",
+        "Higher mobile conversion and BNPL usage support larger basket sizes."
+      ],
+      "monitoring_signals": [
+        "Adobe real-time spend trackers on Cyber Monday",
+        "Retailer traffic/conversion disclosures",
+        "BNPL provider volume updates"
+      ],
+      "rationale": "Secular e-commerce growth plus heavy discounting should push a fresh Cyber Monday record.",
+      "id": "58b7c7ba-5f51-4674-9777-57a9e72639ce",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2025-12-31, OFAC will sanction at least one China-based entity for Russia-related evasion or support, via an official U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 36,
+      "deadline": "2025-12-31",
+      "confidence_pct": 58,
+      "log_odds": 0.321,
+      "verification_criteria": "U.S. Treasury press release lists a China-based entity designated under Russia-related authorities (e.g., EO 14024) by the deadline.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "U.S. pattern of targeting PRC firms aiding Russia\u2019s defense-industrial base.",
+        "G7 coordination on sanctions enforcement intensifying into year-end."
+      ],
+      "monitoring_signals": [
+        "State/Treasury briefings referencing PRC assistance to Russia",
+        "G7/EU sanctions packages mentioning third-country facilitators",
+        "Commerce Entity List actions aligned with OFAC designations"
+      ],
+      "rationale": "U.S. pressure on PRC intermediaries has escalated; another designation by year-end is likely.",
+      "id": "9f87761a-689a-4550-a51c-337f6edefc39",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-Year breakeven inflation rate (FRED: T10YIE) will close at or above 2.50% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 36,
+      "deadline": "2025-12-31",
+      "confidence_pct": 41,
+      "log_odds": -0.364,
+      "verification_criteria": "FRED series T10YIE daily close >= 2.50% at least once by deadline.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/T10YIE",
+        "Oil price rebounds and firm services inflation can lift breakevens.",
+        "Risk-on tone and term-premium dynamics can nudge inflation compensation higher."
+      ],
+      "monitoring_signals": [
+        "WTI/Brent trends and gasoline futures",
+        "USD moves and import prices",
+        "Inflation swap (ZCIS) levels vs TIPS auction results"
+      ],
+      "rationale": "A modest reflation impulse could lift breakevens to 2.5% briefly before year-end.",
+      "id": "dd8f4eaf-3b76-4b2e-90b2-dbd19b346f46",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
