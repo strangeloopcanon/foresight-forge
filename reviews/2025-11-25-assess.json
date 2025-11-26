@@ -1,0 +1,60 @@
+{
+  "date": "2025-11-25",
+  "assessments": [
+    {
+      "id": "40c682f5-860f-42d5-a537-e6c58e77a91b",
+      "status": "pending",
+      "status_rationale": "Eurostat\u2019s November 2025 core HICP flash is not yet released and today\u2019s news provides no figure; deadline not reached."
+    },
+    {
+      "id": "eda57936-bb76-441e-999f-d58f28218f61",
+      "status": "pending",
+      "status_rationale": "BEA\u2019s October 2025 Core PCE has not been reported in today\u2019s coverage; no official print cited and deadline not reached."
+    },
+    {
+      "id": "2f9c3e40-e548-4062-b6e7-6ac87e25157f",
+      "status": "pending",
+      "status_rationale": "Caixin Manufacturing PMI for November 2025 is due around early December; no result in today\u2019s news."
+    },
+    {
+      "id": "e09120aa-32c0-464c-9279-2209a0461b89",
+      "status": "pending",
+      "status_rationale": "December 2025 Patch Tuesday has not occurred; no Microsoft CVE advisory referenced."
+    },
+    {
+      "id": "8881caa5-7016-4b69-937e-33b6325b793a",
+      "status": "pending",
+      "status_rationale": "The KEV addition window (2025-12-01 to 2025-12-15) has not started; no CISA updates noted."
+    },
+    {
+      "id": "1b7e852a-ebdc-4505-b0ed-42770d69b80d",
+      "status": "pending",
+      "status_rationale": "No evidence today of VVIX \u2265105; articles discuss volatility broadly but provide no confirming close."
+    },
+    {
+      "id": "54155824-7b2c-4465-9a70-b6c25b93feb7",
+      "status": "pending",
+      "status_rationale": "No settlement price for Henry Hub at or above $3.60 cited; deadline remains open."
+    },
+    {
+      "id": "8552dbd2-110d-45d2-a260-4313f2b8835d",
+      "status": "pending",
+      "status_rationale": "No solar activity data reported; sunspot threshold not confirmed."
+    },
+    {
+      "id": "58b7c7ba-5f51-4674-9777-57a9e72639ce",
+      "status": "pending",
+      "status_rationale": "Cyber Monday 2025 has not concluded and Adobe\u2019s spend estimate is not yet reported."
+    },
+    {
+      "id": "9f87761a-689a-4550-a51c-337f6edefc39",
+      "status": "pending",
+      "status_rationale": "No OFAC press release sanctioning a China-based entity for Russia-related activity is mentioned; window still open."
+    },
+    {
+      "id": "dd8f4eaf-3b76-4b2e-90b2-dbd19b346f46",
+      "status": "pending",
+      "status_rationale": "No cited close for the 10Y breakeven \u22652.50%; deadline not reached."
+    }
+  ]
+}

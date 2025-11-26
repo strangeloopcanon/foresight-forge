@@ -1,0 +1,124 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. PPI final demand +0.3% in September; goods +0.9%, services flat, indicating goods-side price pressure while services cool.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/ppi_11252025.htm"
+    },
+    {
+      "text": "Core wholesale prices rose less than expected while retail sales gained, easing inflation fears but consumer demand resilient.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/25/core-wholesale-prices-rose-less-than-expected-in-september-retail-sales-gain.html"
+    },
+    {
+      "text": "Regulators finalized modifications to regulatory capital standards and proposed measures to help community banks while maintaining strong capital, signaling ongoing recalibration of postcrisis rules.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251125b.htm"
+    },
+    {
+      "text": "Medicare unveiled negotiated prices for 15 drugs, pressuring pharma margins and promising lower out-of-pocket costs for seniors.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/11/25/health/drugs-prices-medicare.html"
+    },
+    {
+      "text": "Meta reportedly adopting Google AI chips sent Nvidia shares lower; Nvidia claims its GPUs remain a generation ahead, underscoring intensifying AI hardware rivalry.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html"
+    },
+    {
+      "text": "Dell missed revenue but guided higher on surging AI server demand, highlighting durable enterprise AI capex despite macro uncertainty.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/25/dell-earnings-report-q3-2026.html"
+    },
+    {
+      "text": "U.S. home sellers are delisting at the fastest pace in nearly a decade, constricting supply and supporting prices despite rate-cut hopes.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/25/home-sellers-delisting-redfin.html"
+    },
+    {
+      "text": "Australia\u2019s inflation quickened to 3.8% in October, above forecasts, complicating Reserve Bank easing prospects and supporting the Aussie dollar.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/11/26/australia-inflation-cpi-in-october-estimates-beat.html"
+    },
+    {
+      "text": "Musk\u2019s xAI is reportedly closing a $15 billion round in December, escalating the capital race among frontier AI developers.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/25/musk-xai-funding-december.html"
+    },
+    {
+      "text": "Families of Oct. 7 victims sued Binance, alleging the exchange facilitated Hamas financing, amplifying legal and regulatory pressure on crypto platforms.",
+      "tags": [
+        "geopolitics",
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/25/binance-trump-crypto-lawsuit-pardon.html"
+    },
+    {
+      "text": "Russia intensified strikes and resisted an amended Ukraine peace plan as U.S. political divisions muddle negotiations, sustaining geopolitical risk.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/25/world/europe/ukraine-russia-strike-peace-plan.html"
+    },
+    {
+      "text": "Scientists identified a hidden vulnerability implicated in Alzheimer\u2019s, offering a potential new therapeutic target for slowing neurodegeneration.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251124094328.htm"
+    },
+    {
+      "text": "New brain maps reveal circuits for sensing internal bodily states (interoception), informing research on anxiety, depression, and autonomic disorders.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2025/11/25/science/brain-neuroscience-interoception.html"
+    },
+    {
+      "text": "AI-guided satellite geophysics led to discovery of a massive lithium deposit, underscoring technology\u2019s growing role in critical minerals exploration.",
+      "tags": [
+        "markets",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/"
+    },
+    {
+      "text": "HP will cut up to 6,000 jobs and issued weak guidance amid U.S. trade restrictions, reflecting tech-sector demand softness and policy headwinds.",
+      "tags": [
+        "tech",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/11/25/hp-inc-shares-fall-as-company-says-it-will-cut-up-to-6000-employees.html"
+    }
+  ]
+}

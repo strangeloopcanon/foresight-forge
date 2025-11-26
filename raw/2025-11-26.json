@@ -1,0 +1,830 @@
+[
+  {
+    "id": "https://www.nytimes.com/2025/11/25/us/politics/trump-age-health.html",
+    "title": "Signs of Fatigue: Trump Faces Realities of Aging in Office",
+    "link": "https://www.nytimes.com/2025/11/25/us/politics/trump-age-health.html",
+    "published": "Tue, 25 Nov 2025 22:45:26 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/us/politics/republicans-trump-obamacare-subsidies.html",
+    "title": "Once Foes of Obamacare, Some Republicans Push to Protect It",
+    "link": "https://www.nytimes.com/2025/11/25/us/politics/republicans-trump-obamacare-subsidies.html",
+    "published": "Tue, 25 Nov 2025 21:09:20 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/health/drugs-prices-medicare.html",
+    "title": "U.S. Announces Negotiated Prices for 15 Drugs Under Medicare",
+    "link": "https://www.nytimes.com/2025/11/25/health/drugs-prices-medicare.html",
+    "published": "Wed, 26 Nov 2025 01:08:45 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html",
+    "title": "Market Volatility Underscores Epic Buildup of Global Risk",
+    "link": "https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html",
+    "published": "Tue, 25 Nov 2025 22:50:11 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/world/europe/ukraine-russia-strike-peace-plan.html",
+    "title": "Russia Strikes Ukraine and Signals Resistance to Amended Peace Plan",
+    "link": "https://www.nytimes.com/2025/11/25/world/europe/ukraine-russia-strike-peace-plan.html",
+    "published": "Tue, 25 Nov 2025 21:08:50 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/us/politics/republicans-trump-ukraine.html",
+    "title": "Republicans Fight With Trump\u2019s Team Over Ukraine Talks",
+    "link": "https://www.nytimes.com/2025/11/25/us/politics/republicans-trump-ukraine.html",
+    "published": "Tue, 25 Nov 2025 19:49:23 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/us/trump-supreme-court-national-guard-chicago-errors.html",
+    "title": "Times Analysis Finds Errors in Trump\u2019s Supreme Court Filing That Calls for National Guard in Chicago",
+    "link": "https://www.nytimes.com/2025/11/25/us/trump-supreme-court-national-guard-chicago-errors.html",
+    "published": "Tue, 25 Nov 2025 22:53:21 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/us/vahid-abedini-oklahoma-professor-ice.html",
+    "title": "Vahid Abedini, University of Oklahoma Professor, Released After ICE Detainment",
+    "link": "https://www.nytimes.com/2025/11/25/us/vahid-abedini-oklahoma-professor-ice.html",
+    "published": "Tue, 25 Nov 2025 20:35:19 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/24/books/notable-books.html",
+    "title": "100 Notable Books of 2025",
+    "link": "https://www.nytimes.com/2025/11/24/books/notable-books.html",
+    "published": "Tue, 25 Nov 2025 20:14:13 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/world/canada/usa-ice-eritrea-deportation-asylum.html",
+    "title": "An Eritrean Woman Seeking Asylum in Canada Was Almost Deported From the U.S.",
+    "link": "https://www.nytimes.com/2025/11/25/world/canada/usa-ice-eritrea-deportation-asylum.html",
+    "published": "Tue, 25 Nov 2025 19:32:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/us/indiana-redistricting-republicans.html",
+    "title": "Indiana Lawmakers Are Poised to Vote on Redistricting After All",
+    "link": "https://www.nytimes.com/2025/11/25/us/indiana-redistricting-republicans.html",
+    "published": "Tue, 25 Nov 2025 21:48:37 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/us/dc-mayor-muriel-bowser-reelection.html",
+    "title": "D.C. Mayor Muriel Bowser Says She Won\u2019t Run for a Fourth Term",
+    "link": "https://www.nytimes.com/2025/11/25/us/dc-mayor-muriel-bowser-reelection.html",
+    "published": "Tue, 25 Nov 2025 22:09:15 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/nyregion/mamdani-trump-michelle-wu.html",
+    "title": "Boston Mayor Wu Question\u2019s Mamdani\u2019s Approach to Meeting With Trump",
+    "link": "https://www.nytimes.com/2025/11/25/nyregion/mamdani-trump-michelle-wu.html",
+    "published": "Tue, 25 Nov 2025 21:33:11 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/us/politics/ai-super-pac-anthropic.html",
+    "title": "Fears About A.I. Prompt Talks of Super PACs to Rein In the Industry",
+    "link": "https://www.nytimes.com/2025/11/25/us/politics/ai-super-pac-anthropic.html",
+    "published": "Wed, 26 Nov 2025 00:49:43 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/business/thanksgiving-dinner-cost-turkey-meal-expensive.html",
+    "title": "How Much Will Thanksgiving Dinner Cost? It Depends on Whom You Ask.",
+    "link": "https://www.nytimes.com/2025/11/25/business/thanksgiving-dinner-cost-turkey-meal-expensive.html",
+    "published": "Tue, 25 Nov 2025 16:55:57 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/dining/anxiety-thanksgiving-dinner.html",
+    "title": "Anxiety. It\u2019s What\u2019s for Thanksgiving Dinner.",
+    "link": "https://www.nytimes.com/2025/11/25/dining/anxiety-thanksgiving-dinner.html",
+    "published": "Tue, 25 Nov 2025 17:13:42 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/world/americas/bolsonaro-arrest-prison-sentence.html",
+    "title": "Bolsonaro To Start Serving 27-Year Prison Sentence Over Coup Plot",
+    "link": "https://www.nytimes.com/2025/11/25/world/americas/bolsonaro-arrest-prison-sentence.html",
+    "published": "Tue, 25 Nov 2025 21:19:00 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/nyregion/etan-patz-retrial.html",
+    "title": "Prosecutors Prepare to Try Suspect in Etan Patz Case for the Third Time",
+    "link": "https://www.nytimes.com/2025/11/25/nyregion/etan-patz-retrial.html",
+    "published": "Tue, 25 Nov 2025 22:18:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/24/style/dress-up-for-flying-sean-duffy.html",
+    "title": "Will Dressing Up Fix Flying?",
+    "link": "https://www.nytimes.com/2025/11/24/style/dress-up-for-flying-sean-duffy.html",
+    "published": "Mon, 24 Nov 2025 16:04:18 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/us/sean-duffy-healthier-plane-snacks.html",
+    "title": "Sean Duffy Wants Healthier In-Flight Snacks Along With Better-Dressed Travelers",
+    "link": "https://www.nytimes.com/2025/11/25/us/sean-duffy-healthier-plane-snacks.html",
+    "published": "Wed, 26 Nov 2025 00:07:27 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/nyregion/sro-apartments-nyc.html",
+    "title": "The \u2018New\u2019 Solution for the N.Y.C. Housing Crisis: Single-Room Apartments",
+    "link": "https://www.nytimes.com/2025/11/25/nyregion/sro-apartments-nyc.html",
+    "published": "Tue, 25 Nov 2025 20:46:06 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/nyregion/homeless-funding-grants-nyc.html",
+    "title": "New York Leads Effort to Stop Plan That Could Cut Housing for 170,000",
+    "link": "https://www.nytimes.com/2025/11/25/nyregion/homeless-funding-grants-nyc.html",
+    "published": "Tue, 25 Nov 2025 21:15:11 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/science/brain-neuroscience-interoception.html",
+    "title": "Mapping the Brain\u2019s Sense of What Goes On Inside the Body",
+    "link": "https://www.nytimes.com/2025/11/25/science/brain-neuroscience-interoception.html",
+    "published": "Tue, 25 Nov 2025 23:07:19 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/dining/street-vendors-new-york-food.html",
+    "title": "How New York Can Protect Its Street Vendors",
+    "link": "https://www.nytimes.com/2025/11/25/dining/street-vendors-new-york-food.html",
+    "published": "Wed, 26 Nov 2025 00:17:43 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/opinion/thanksgiving-and-the-new-births-of-freedom.html",
+    "title": "Thanksgiving Is a Celebration of American Rebirth",
+    "link": "https://www.nytimes.com/2025/11/25/opinion/thanksgiving-and-the-new-births-of-freedom.html",
+    "published": "Tue, 25 Nov 2025 22:00:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/opinion/children-health-defense-kennedy.html",
+    "title": "I Went to an Anti-Vaccine Conference. Medicine Is in Trouble.",
+    "link": "https://www.nytimes.com/2025/11/25/opinion/children-health-defense-kennedy.html",
+    "published": "Wed, 26 Nov 2025 01:32:50 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/briefing/thanksgiving-costs-draw-scrutiny.html",
+    "title": "Thanksgiving Costs Draw Scrutiny",
+    "link": "https://www.nytimes.com/2025/11/25/briefing/thanksgiving-costs-draw-scrutiny.html",
+    "published": "Tue, 25 Nov 2025 23:02:35 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/world/africa/nigeria-food-violence-usaid.html",
+    "title": "Violence Is Driving Catastrophic Hunger in Nigeria, U.N. Report Says",
+    "link": "https://www.nytimes.com/2025/11/25/world/africa/nigeria-food-violence-usaid.html",
+    "published": "Tue, 25 Nov 2025 23:42:41 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/world/europe/joan-branson-dead.html",
+    "title": "Joan Branson, Richard Branson\u2019s Wife of 35 Years, Dies at 80",
+    "link": "https://www.nytimes.com/2025/11/25/world/europe/joan-branson-dead.html",
+    "published": "Tue, 25 Nov 2025 20:26:24 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/world/canada/penny-oleksiak-swimming-ban-doping-testing.html",
+    "title": "Penny Oleksiak, Canadian Swimmer, Faces 2-Year Ban Over Antidoping Testing Rules",
+    "link": "https://www.nytimes.com/2025/11/25/world/canada/penny-oleksiak-swimming-ban-doping-testing.html",
+    "published": "Wed, 26 Nov 2025 01:18:00 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/11/25/health/postpartum-glp1-prescription-increase-study.html",
+    "title": "Postpartum Prescription of GLP-1 Drugs Has Increased Sharply, Study Finds",
+    "link": "https://www.nytimes.com/2025/11/25/health/postpartum-glp1-prescription-increase-study.html",
+    "published": "Tue, 25 Nov 2025 20:54:17 +0000"
+  },
+  {
+    "id": "WP-MKTW-0004612738",
+    "title": "Dell rides a boom in AI servers to deliver an upbeat forecast",
+    "link": "https://www.marketwatch.com/story/dell-rides-a-boom-in-ai-servers-to-deliver-an-upbeat-forecast-62049790?mod=mw_rss_topstories",
+    "published": "Wed, 26 Nov 2025 01:19:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004612821",
+    "title": "Urban Outfitters says shoppers are holding out for deals, but sees little pushback on its prices",
+    "link": "https://www.marketwatch.com/story/urban-outfitters-shares-rally-as-turnaround-at-namesake-stores-pays-off-099f5948?mod=mw_rss_topstories",
+    "published": "Wed, 26 Nov 2025 01:18:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004611927",
+    "title": "Nvidia\u2019s stock drops on Google fears. Are investors missing the point?",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-drops-on-google-fears-are-investors-missing-the-point-f38b39a4?mod=mw_rss_topstories",
+    "published": "Wed, 26 Nov 2025 01:16:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004610668",
+    "title": "Beware of this Black Friday scam",
+    "link": "https://www.marketwatch.com/story/is-it-a-black-friday-scam-ebay-said-id-set-up-an-account-there-was-only-one-problem-i-hadnt-b4b8c169?mod=mw_rss_topstories",
+    "published": "Wed, 26 Nov 2025 00:52:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004611152",
+    "title": "Why AMD\u2019s stock is having its worst month in three years",
+    "link": "https://www.marketwatch.com/story/why-amds-stock-is-having-its-worst-month-in-three-years-c2b30a54?mod=mw_rss_topstories",
+    "published": "Tue, 25 Nov 2025 23:13:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004607571",
+    "title": "\u2018I have no paperwork\u2019: My father gave me my mother\u2019s jewelry before he died. Will I owe taxes if I sell?",
+    "link": "https://www.marketwatch.com/story/i-have-no-paperwork-my-father-gave-my-mothers-jewelry-before-he-died-will-i-owe-taxes-if-i-sell-768ee7dc?mod=mw_rss_topstories",
+    "published": "Tue, 25 Nov 2025 22:27:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004612787",
+    "title": "Is making \u2018Rush Hour 4\u2019 Trump\u2019s latest executive order? Paramount looks to be onboard.",
+    "link": "https://www.marketwatch.com/story/is-making-rush-hour-4-trumps-latest-executive-order-paramount-looks-to-be-onboard-114f53ca?mod=mw_rss_topstories",
+    "published": "Tue, 25 Nov 2025 21:32:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004611736",
+    "title": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
+    "link": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?mod=mw_rss_topstories",
+    "published": "Tue, 25 Nov 2025 21:18:00 GMT"
+  },
+  {
+    "id": "108231850",
+    "title": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
+    "link": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html",
+    "published": "Tue, 25 Nov 2025 23:19:59 GMT"
+  },
+  {
+    "id": "108231276",
+    "title": "Sellers are taking their homes off the market at the fastest pace in nearly a decade",
+    "link": "https://www.cnbc.com/2025/11/25/home-sellers-delisting-redfin.html",
+    "published": "Tue, 25 Nov 2025 17:03:37 GMT"
+  },
+  {
+    "id": "108232113",
+    "title": "Australia's consumer inflation accelerates to 3.8% in October, beating estimates",
+    "link": "https://www.cnbc.com/2025/11/26/australia-inflation-cpi-in-october-estimates-beat.html",
+    "published": "Wed, 26 Nov 2025 01:25:41 GMT"
+  },
+  {
+    "id": "108232045",
+    "title": "HP Inc shares fall on layoffs, weak guidance due to U.S. trade regulations",
+    "link": "https://www.cnbc.com/2025/11/25/hp-inc-shares-fall-as-company-says-it-will-cut-up-to-6000-employees.html",
+    "published": "Tue, 25 Nov 2025 22:56:05 GMT"
+  },
+  {
+    "id": "108231799",
+    "title": "FBI seeks to interview Sen. Mark Kelly, other Democrats Trump accused of seditious behavior",
+    "link": "https://www.cnbc.com/2025/11/25/trump-fbi-mark-kelly-democrats-pentagon-video.html",
+    "published": "Tue, 25 Nov 2025 20:01:56 GMT"
+  },
+  {
+    "id": "108231706",
+    "title": "Trump pardons Thanksgiving turkeys, blasts Biden and says Ukraine peace deal is \u2018very close\u2019",
+    "link": "https://www.cnbc.com/2025/11/25/trump-turkey-pardon-biden-ukraine-2025.html",
+    "published": "Tue, 25 Nov 2025 21:33:45 GMT"
+  },
+  {
+    "id": "108213833",
+    "title": "Why rural Wisconsin is blocking the AI data center boom: 'Horses are skittish'",
+    "link": "https://www.cnbc.com/2025/11/25/microsoft-ai-data-center-rejection-vs-support.html",
+    "published": "Tue, 25 Nov 2025 18:33:31 GMT"
+  },
+  {
+    "id": "108230995",
+    "title": "Manhattan condo values fell over the past decade. Here's why rents are still rising",
+    "link": "https://www.cnbc.com/2025/11/25/as-manhattans-condo-market-wavers-rents-are-still-rising-.html",
+    "published": "Tue, 25 Nov 2025 23:20:03 GMT"
+  },
+  {
+    "id": "108232111",
+    "title": "Asia-Pacific markets track Wall Street gains on rising Fed rate-cut expectations",
+    "link": "https://www.cnbc.com/2025/11/26/asia-pacific-markets-live-nikkei-225-hang-seng-csi300-.html",
+    "published": "Wed, 26 Nov 2025 01:19:29 GMT"
+  },
+  {
+    "id": "108231879",
+    "title": "Workday stock slips on light quarterly margin guidance",
+    "link": "https://www.cnbc.com/2025/11/25/workday-wday-q3-earnings-report-2026.html",
+    "published": "Wed, 26 Nov 2025 00:56:12 GMT"
+  },
+  {
+    "id": "108231635",
+    "title": "Trump says 'only a few' sticking points remain in Ukraine-Russia peace talks as Kyiv reportedly backs framework",
+    "link": "https://www.cnbc.com/2025/11/25/ukraine-russia-peace-trump-abu-dhabi.html",
+    "published": "Tue, 25 Nov 2025 20:09:29 GMT"
+  },
+  {
+    "id": "108231877",
+    "title": "Dell misses on revenue, offers strong forecast driven by AI sales",
+    "link": "https://www.cnbc.com/2025/11/25/dell-earnings-report-q3-2026.html",
+    "published": "Tue, 25 Nov 2025 22:47:02 GMT"
+  },
+  {
+    "id": "108231902",
+    "title": "A third high-profile tech leader is leaving GM as part of a software-product restructuring",
+    "link": "https://www.cnbc.com/2025/11/25/gm-software-leader-baris-cetinok-leaving.html",
+    "published": "Tue, 25 Nov 2025 21:30:02 GMT"
+  },
+  {
+    "id": "108231804",
+    "title": "Binance sued by Oct. 7 victims' families for allegedly aiding Hamas through crypto exchange",
+    "link": "https://www.cnbc.com/2025/11/25/binance-trump-crypto-lawsuit-pardon.html",
+    "published": "Tue, 25 Nov 2025 18:21:07 GMT"
+  },
+  {
+    "id": "108231956",
+    "title": "Lopsided action in the stock market as Big Tech stumbles while retail shares rise",
+    "link": "https://www.cnbc.com/2025/11/25/lopsided-action-in-the-market-as-big-tech-stumbles-while-retail-rises.html",
+    "published": "Tue, 25 Nov 2025 20:02:15 GMT"
+  },
+  {
+    "id": "108231958",
+    "title": "\u2018Rush Hour 4\u2019 revived after Trump urged Paramount Skydance to resurrect franchise, reports say",
+    "link": "https://www.cnbc.com/2025/11/25/trump-pushed-paramount-revive-rush-hour-4-reports-say.html",
+    "published": "Tue, 25 Nov 2025 23:01:50 GMT"
+  },
+  {
+    "id": "108231087",
+    "title": "IRS releases guidance for Trump's tips, overtime deductions. What workers need to know",
+    "link": "https://www.cnbc.com/2025/11/25/irs-guidance-trump-tips-overtime-deductions.html",
+    "published": "Tue, 25 Nov 2025 19:48:02 GMT"
+  },
+  {
+    "id": "108215487",
+    "title": "CNBC's Official NHL Team Valuations 2025: Here's how the 32 franchises stack up",
+    "link": "https://www.cnbc.com/2025/11/25/cnbcs-official-nhl-team-valuations-2025.html",
+    "published": "Tue, 25 Nov 2025 12:39:18 GMT"
+  },
+  {
+    "id": "108231659",
+    "title": "NHL Commissioner Gary Bettman on rising team valuations, league expansion and gambling",
+    "link": "https://www.cnbc.com/2025/11/25/nhl-gary-bettman-rising-hockey-team-values-league-expansion-gambling.html",
+    "published": "Tue, 25 Nov 2025 16:47:31 GMT"
+  },
+  {
+    "id": "108231396",
+    "title": "Sen. Jim Justice, wife sued for $5 million in unpaid taxes from 2009 as legal woes mount",
+    "link": "https://www.cnbc.com/2025/11/24/jim-justice-sued-taxes-west-virginia-coal.html",
+    "published": "Tue, 25 Nov 2025 13:21:07 GMT"
+  },
+  {
+    "id": "108229914",
+    "title": "Michael Burry's next 'Big Short': An inside look at his analysis showing AI is a bubble",
+    "link": "https://www.cnbc.com/2025/11/25/michael-burrys-next-big-short-an-inside-look-at-his-analysis-showing-ai-is-a-bubble.html",
+    "published": "Tue, 25 Nov 2025 16:29:35 GMT"
+  },
+  {
+    "id": "108231614",
+    "title": "Core wholesale prices rose less than expected in September; retail sales gain",
+    "link": "https://www.cnbc.com/2025/11/25/core-wholesale-prices-rose-less-than-expected-in-september-retail-sales-gain.html",
+    "published": "Tue, 25 Nov 2025 15:52:03 GMT"
+  },
+  {
+    "id": "108231284",
+    "title": "Bill Gates: Read these 5 books\u2014each one 'sparks your curiosity' and reveals 'how something important really works'",
+    "link": "https://www.cnbc.com/2025/11/25/bill-gates-book-list-read-these-during-the-2025-holidays.html",
+    "published": "Tue, 25 Nov 2025 18:00:01 GMT"
+  },
+  {
+    "id": "108231618",
+    "title": "Bessent says there's a 'very good chance' Trump names new Fed chair before Christmas",
+    "link": "https://www.cnbc.com/2025/11/25/bessent-says-theres-a-very-good-chance-trump-names-new-fed-chair-before-christmas.html",
+    "published": "Tue, 25 Nov 2025 17:43:21 GMT"
+  },
+  {
+    "id": "108231711",
+    "title": "Musk's xAI to close $15 billion funding round in December: sources",
+    "link": "https://www.cnbc.com/2025/11/25/musk-xai-funding-december.html",
+    "published": "Tue, 25 Nov 2025 15:49:20 GMT"
+  },
+  {
+    "id": "108231686",
+    "title": "TSMC stock falls as it sues former exec alleging he took trade secrets to Intel",
+    "link": "https://www.cnbc.com/2025/11/25/-tsmc-stock-lawsuit-former-executive-trade-secrets-intel.html",
+    "published": "Tue, 25 Nov 2025 15:13:21 GMT"
+  },
+  {
+    "id": "108231508",
+    "title": "Nvidia stock falls 4% on report Meta will use Google AI chips",
+    "link": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
+    "published": "Tue, 25 Nov 2025 19:19:29 GMT"
+  },
+  {
+    "id": "108231601",
+    "title": "Abercrombie shares soar 37% on Hollister growth, strong earnings beat",
+    "link": "https://www.cnbc.com/2025/11/25/abercrombie-fitch-anf-earnings-q3-2025.html",
+    "published": "Tue, 25 Nov 2025 21:44:14 GMT"
+  },
+  {
+    "id": "108231127",
+    "title": "Why ACA subsidy cliff may discourage some people from working",
+    "link": "https://www.cnbc.com/2025/11/25/aca-subsidy-cliff-work-disincentive.html",
+    "published": "Tue, 25 Nov 2025 16:47:03 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/11/251125112506.htm",
+    "title": "The body trait that helps keep your brain young",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251125112506.htm",
+    "published": "Tue, 25 Nov 2025 11:34:58 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/11/251125081916.htm",
+    "title": "Giant hidden heat blob slowly travels beneath the U. S.",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251125081916.htm",
+    "published": "Tue, 25 Nov 2025 12:16:48 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/11/251125081912.htm",
+    "title": "How personalized algorithms trick your brain into wrong answers",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251125081912.htm",
+    "published": "Tue, 25 Nov 2025 10:38:00 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/11/251125081909.htm",
+    "title": "Tiny Yellowstone quakes ignite a surge of hidden life underground",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251125081909.htm",
+    "published": "Tue, 25 Nov 2025 09:12:50 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/11/251124231904.htm",
+    "title": "This glowing particle in a laser trap may reveal how lightning begins",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251124231904.htm",
+    "published": "Mon, 24 Nov 2025 23:57:11 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/11/251124231900.htm",
+    "title": "This tiny plant survived the vacuum of space and still grows",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251124231900.htm",
+    "published": "Mon, 24 Nov 2025 23:27:16 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/11/251124094330.htm",
+    "title": "Tiny bee with devil horns discovered in Western Australia",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251124094330.htm",
+    "published": "Tue, 25 Nov 2025 06:16:35 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/11/251124094328.htm",
+    "title": "Scientists find a hidden weak spot that may trigger Alzheimer\u2019s",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251124094328.htm",
+    "published": "Mon, 24 Nov 2025 09:43:28 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/11/251124094325.htm",
+    "title": "Cocoa and tea may protect your heart from the hidden damage of sitting",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251124094325.htm",
+    "published": "Tue, 25 Nov 2025 01:51:42 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/11/251124094323.htm",
+    "title": "Scientists reveal a hidden alarm system inside your cells",
+    "link": "https://www.sciencedaily.com/releases/2025/11/251124094323.htm",
+    "published": "Tue, 25 Nov 2025 03:17:57 EST"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
+    "title": "Reinventing how .NET builds and ships (again)",
+    "link": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
+    "published": "Tue, 25 Nov 2025 22:37:48 +0000"
+  },
+  {
+    "id": "https://andrej.sh/blog/maintaining-open-source-project/",
+    "title": "What They Don't Tell You About Maintaining an Open Source Project",
+    "link": "https://andrej.sh/blog/maintaining-open-source-project/",
+    "published": "Tue, 25 Nov 2025 22:08:25 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
+    "title": "A new bridge links the math of infinity to computer science",
+    "link": "https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/",
+    "published": "Tue, 25 Nov 2025 19:53:20 +0000"
+  },
+  {
+    "id": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
+    "title": "Unifying our mobile and desktop domains",
+    "link": "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/",
+    "published": "Tue, 25 Nov 2025 17:07:06 +0000"
+  },
+  {
+    "id": "https://www.mikeayles.com/#kidoom",
+    "title": "A DOOM vector engine for rendering in KiCad, and over an audio jack",
+    "link": "https://www.mikeayles.com/#kidoom",
+    "published": "Tue, 25 Nov 2025 22:13:35 +0000"
+  },
+  {
+    "id": "https://github.com/flowglad/flowglad",
+    "title": "Show HN: We built an open source, zero webhooks payment processor",
+    "link": "https://github.com/flowglad/flowglad",
+    "published": "Tue, 25 Nov 2025 17:33:50 +0000"
+  },
+  {
+    "id": "https://www.michigandaily.com/arts/digital-culture/the-fall-of-labubus-and-the-mush-of-modern-internet-trends/",
+    "title": "The fall of Labubus and the mush of modern internet trends",
+    "link": "https://www.michigandaily.com/arts/digital-culture/the-fall-of-labubus-and-the-mush-of-modern-internet-trends/",
+    "published": "Sun, 23 Nov 2025 23:42:22 +0000"
+  },
+  {
+    "id": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+    "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
+    "link": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+    "published": "Tue, 25 Nov 2025 18:31:16 +0000"
+  },
+  {
+    "id": "https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/",
+    "title": "LLVM Adds Constant-Time Support for Protecting Cryptographic Code",
+    "link": "https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/",
+    "published": "Tue, 25 Nov 2025 23:26:38 +0000"
+  },
+  {
+    "id": "https://far.computer/how-to/",
+    "title": "How to repurpose your old phone into a web server",
+    "link": "https://far.computer/how-to/",
+    "published": "Sat, 22 Nov 2025 18:16:59 +0000"
+  },
+  {
+    "id": "https://bfl.ai/blog/flux-2",
+    "title": "FLUX.2: Frontier Visual Intelligence",
+    "link": "https://bfl.ai/blog/flux-2",
+    "published": "Tue, 25 Nov 2025 15:47:14 +0000"
+  },
+  {
+    "id": "https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html",
+    "title": "The Generative Burrito Test",
+    "link": "https://www.generativist.com/notes/2025/Nov/25/generative-burrito-test.html",
+    "published": "Tue, 25 Nov 2025 23:28:17 +0000"
+  },
+  {
+    "id": "https://www.dwarkesh.com/p/ilya-sutskever-2",
+    "title": "Ilya Sutskever: We're moving from the age of scaling to the age of research",
+    "link": "https://www.dwarkesh.com/p/ilya-sutskever-2",
+    "published": "Tue, 25 Nov 2025 17:21:52 +0000"
+  },
+  {
+    "id": "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population",
+    "title": "Jakarta is now the biggest city in the world",
+    "link": "https://www.axios.com/2025/11/24/jakarta-tokyo-worlds-biggest-city-population",
+    "published": "Tue, 25 Nov 2025 06:09:05 +0000"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=46045987",
+    "title": "Launch HN: Onyx (YC W24) \u2013 Open-source chat UI",
+    "link": "https://news.ycombinator.com/item?id=46045987",
+    "published": "Tue, 25 Nov 2025 14:20:30 +0000"
+  },
+  {
+    "id": "https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/",
+    "title": "Constant-time support coming to LLVM: Protecting cryptographic code",
+    "link": "https://blog.trailofbits.com/2025/11/25/constant-time-support-coming-to-llvm-protecting-cryptographic-code-at-the-compiler-level/",
+    "published": "Tue, 25 Nov 2025 13:02:06 +0000"
+  },
+  {
+    "id": "https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54",
+    "title": "1,700-year-old Roman sarcophagus is unearthed in Budapest",
+    "link": "https://apnews.com/article/hungary-roman-sarcophagus-discovery-budapest-77a41fe190bbcc167b43d05141536f54",
+    "published": "Mon, 24 Nov 2025 22:17:40 +0000"
+  },
+  {
+    "id": "https://www.repairfaq.org/sam/monfaq.htm",
+    "title": "Notes on the Troubleshooting and Repair of Computer and Video Monitors",
+    "link": "https://www.repairfaq.org/sam/monfaq.htm",
+    "published": "Tue, 25 Nov 2025 22:40:52 +0000"
+  },
+  {
+    "id": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+    "title": "Ironwood, our latest TPU",
+    "link": "https://blog.google/products/google-cloud/ironwood-google-tpu-things-to-know/",
+    "published": "Tue, 25 Nov 2025 22:04:44 +0000"
+  },
+  {
+    "id": "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for",
+    "title": "Python is not a great language for data science",
+    "link": "https://blog.genesmindsmachines.com/p/python-is-not-a-great-language-for",
+    "published": "Tue, 25 Nov 2025 16:38:57 +0000"
+  },
+  {
+    "id": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
+    "title": "Someone at YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
+    "link": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
+    "published": "Tue, 25 Nov 2025 22:04:31 +0000"
+  },
+  {
+    "id": "https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering",
+    "title": "The 101 of analog signal filtering (2024)",
+    "link": "https://lcamtuf.substack.com/p/the-101-of-analog-signal-filtering",
+    "published": "Fri, 21 Nov 2025 10:54:15 +0000"
+  },
+  {
+    "id": "https://web.stanford.edu/class/cs234/",
+    "title": "CS234: Reinforcement Learning Winter 2025",
+    "link": "https://web.stanford.edu/class/cs234/",
+    "published": "Wed, 26 Nov 2025 00:33:29 +0000"
+  },
+  {
+    "id": "https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indeed-2025-11",
+    "title": "The gruesome new data on tech jobs",
+    "link": "https://www.businessinsider.com/gruesome-tech-jobs-data-scientists-analytics-indeed-2025-11",
+    "published": "Wed, 26 Nov 2025 00:14:21 +0000"
+  },
+  {
+    "id": "https://brooker.co.za/blog/2025/11/20/what-now",
+    "title": "What Now? Handling Errors in Large Systems",
+    "link": "https://brooker.co.za/blog/2025/11/20/what-now",
+    "published": "Wed, 26 Nov 2025 00:31:26 +0000"
+  },
+  {
+    "id": "https://pluralistic.net/2025/11/25/open-season/",
+    "title": "Google steers Americans looking for health care into \"junk insurance\"",
+    "link": "https://pluralistic.net/2025/11/25/open-season/",
+    "published": "Tue, 25 Nov 2025 21:45:01 +0000"
+  },
+  {
+    "id": "https://worksinprogress.co/issue/inflatable-space-stations/",
+    "title": "Inflatable Space Stations",
+    "link": "https://worksinprogress.co/issue/inflatable-space-stations/",
+    "published": "Fri, 21 Nov 2025 13:42:33 +0000"
+  },
+  {
+    "id": "https://www.tomshardware.com/pc-components/gpus/employee-quits-job-over-an-nvidia-rtx-5060-intern-asked-to-hand-in-gpu-won-on-an-all-expense-paid-business-trip-refused",
+    "title": "Employee quits job over an Nvidia RTX 5060",
+    "link": "https://www.tomshardware.com/pc-components/gpus/employee-quits-job-over-an-nvidia-rtx-5060-intern-asked-to-hand-in-gpu-won-on-an-all-expense-paid-business-trip-refused",
+    "published": "Wed, 26 Nov 2025 00:52:23 +0000"
+  },
+  {
+    "id": "https://www.unison-lang.org/unison-1-0/",
+    "title": "Unison 1.0",
+    "link": "https://www.unison-lang.org/unison-1-0/",
+    "published": "Tue, 25 Nov 2025 19:33:00 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/listen-to-protons-diy-magnetometer",
+    "title": "Listen to Protons for Less Than $100",
+    "link": "https://spectrum.ieee.org/listen-to-protons-diy-magnetometer",
+    "published": "Tue, 25 Nov 2025 14:00:02 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/ai-agents-safety",
+    "title": "AI Agents Break Rules Under Everyday Pressure",
+    "link": "https://spectrum.ieee.org/ai-agents-safety",
+    "published": "Tue, 25 Nov 2025 13:00:02 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070587",
+    "title": "Why \u2018hold forever\u2019 investors are snapping up venture capital \u2018zombies\u2019",
+    "link": "https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/",
+    "published": "Tue, 25 Nov 2025 22:52:22 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070703",
+    "title": "YouTube is working on a feature that will fix the messy home feed",
+    "link": "https://techcrunch.com/2025/11/25/youtube-is-working-on-a-feature-that-will-fix-the-messy-home-feed/",
+    "published": "Tue, 25 Nov 2025 22:31:48 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070628",
+    "title": "Character AI will offer interactive \u2018Stories\u2019 to kids instead of open-ended chat",
+    "link": "https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/",
+    "published": "Tue, 25 Nov 2025 21:22:04 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070641",
+    "title": "ChatGPT\u2019s voice mode is no longer a separate interface",
+    "link": "https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/",
+    "published": "Tue, 25 Nov 2025 20:04:52 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070646",
+    "title": "Warner Music signs deal with AI music startup Suno, settles lawsuit",
+    "link": "https://techcrunch.com/2025/11/25/warner-music-signs-deal-with-ai-music-startup-suno-settles-lawsuit/",
+    "published": "Tue, 25 Nov 2025 19:57:31 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070345",
+    "title": "OpenAI and Perplexity are launching AI shopping assistants, but competing startups aren\u2019t sweating it",
+    "link": "https://techcrunch.com/2025/11/25/openai-and-perplexity-are-launching-ai-shopping-assistants-but-competing-startups-arent-sweating-it/",
+    "published": "Tue, 25 Nov 2025 19:35:06 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070617",
+    "title": "Find Your Grind raises $5M to grow platform empowering students to explore unique career paths",
+    "link": "https://techcrunch.com/2025/11/25/find-your-grind-raises-5m-to-grow-platform-empowering-students-to-explore-unique-career-paths/",
+    "published": "Tue, 25 Nov 2025 18:49:20 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070583",
+    "title": "Microsoft\u2019s AI chatbot Copilot leaves WhatsApp on January 15",
+    "link": "https://techcrunch.com/2025/11/25/microsofts-ai-chatbot-copilot-leaves-whatsapp-on-january-15/",
+    "published": "Tue, 25 Nov 2025 17:11:55 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070548",
+    "title": "China\u2019s Pony AI plans to triple global robotaxi fleet by the end of 2026",
+    "link": "https://techcrunch.com/2025/11/25/chinas-pony-ai-plans-to-triple-global-robotaxi-fleet-by-the-end-of-2026/",
+    "published": "Tue, 25 Nov 2025 16:54:57 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070555",
+    "title": "Fleet Space finds massive lithium deposit using AI and satellites",
+    "link": "https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/",
+    "published": "Tue, 25 Nov 2025 16:14:33 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070532",
+    "title": "Speechify adds voice typing and voice assistant to its Chrome extension",
+    "link": "https://techcrunch.com/2025/11/25/speechify-adds-voice-typing-and-voice-assistant-to-its-chrome-extension/",
+    "published": "Tue, 25 Nov 2025 16:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070542",
+    "title": "Spotify to raise US prices in first quarter of next year, report says",
+    "link": "https://techcrunch.com/2025/11/25/spotify-to-raise-us-prices-in-first-quarter-of-next-year-report-says/",
+    "published": "Tue, 25 Nov 2025 15:15:49 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3070253",
+    "title": "India\u2019s gig workers win legal status, but access to social security remains elusive",
+    "link": "https://techcrunch.com/2025/11/24/indias-gig-workers-win-legal-status-but-access-to-social-security-remains-elusive/",
+    "published": "Tue, 25 Nov 2025 04:42:01 +0000"
+  },
+  {
+    "id": "69249c26868628ae9754eb05",
+    "title": "Rogue AI, From RAND to Nvidia: Selection is the Signal",
+    "link": "https://paulkedrosky.com/rogue-ai-from-rand-to-nvidia-selection-is-the-signal/",
+    "published": "Tue, 25 Nov 2025 15:19:30 GMT"
+  },
+  {
+    "id": "6925a55d453e8f5b879484d8",
+    "title": "Kedrosky Daily: China triples robot installs, doubles US manufacturing value",
+    "link": "https://paulkedrosky.com/kedrosky-daily-china-triples-robot-installs-doubles-us-manufacturing-value/",
+    "published": "Tue, 25 Nov 2025 12:47:26 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=91927",
+    "title": "Tuesday assorted links",
+    "link": "https://feeds.feedblitz.com/~/929477570/0/marginalrevolution~Tuesday-assorted-links.html",
+    "published": "Tue, 25 Nov 2025 17:14:18 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=91928",
+    "title": "Why are Mormons so Libertarian?",
+    "link": "https://feeds.feedblitz.com/~/929449037/0/marginalrevolution~Why-are-Mormons-so-Libertarian.html",
+    "published": "Tue, 25 Nov 2025 12:18:59 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=91911",
+    "title": "*God\u2019s Grandeur*",
+    "link": "https://feeds.feedblitz.com/~/929344856/0/marginalrevolution~Gods-Grandeur.html",
+    "published": "Tue, 25 Nov 2025 08:38:33 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=91909",
+    "title": "LLMs Position Themselves as More Rational Than Humans",
+    "link": "https://feeds.feedblitz.com/~/929305040/0/marginalrevolution~LLMs-Position-Themselves-as-More-Rational-Than-Humans.html",
+    "published": "Tue, 25 Nov 2025 05:26:01 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=156874",
+    "title": "Particle Physicists Detect \u2018Magic\u2019 at the Large Hadron Collider",
+    "link": "https://www.quantamagazine.org/particle-physicists-detect-magic-at-the-large-hadron-collider-20251125/",
+    "published": "Tue, 25 Nov 2025 14:59:52 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3162684",
+    "title": "Cuddly koalas had a brutal, blade-toothed close cousin",
+    "link": "https://www.sciencenews.org/article/koalas-marsupials-evolution-extinct",
+    "published": "Tue, 25 Nov 2025 17:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3162950",
+    "title": "Boiling oceans may sculpt the surfaces of small icy moons",
+    "link": "https://www.sciencenews.org/article/boiling-oceans-icy-moons-simulations",
+    "published": "Tue, 25 Nov 2025 15:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3162523",
+    "title": "This bright orange life-form could point to new dino discoveries",
+    "link": "https://www.sciencenews.org/article/lichen-dinosaur-fossils",
+    "published": "Tue, 25 Nov 2025 13:00:00 +0000"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251125a.htm",
+    "title": "Federal Reserve Board announces approval of application by Steel Newco, Inc",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251125a.htm",
+    "published": "Tue, 25 Nov 2025 22:15:00 GMT"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251125a.htm",
+    "title": "Minutes of the Board's discount rate meetings on October 6, October 20, and October 29, 2025",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251125a.htm",
+    "published": "Tue, 25 Nov 2025 19:00:00 GMT"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251125a.htm",
+    "title": "Agencies issue proposal to enhance community banks\u2019 ability to serve their communities while maintaining strong capital requirements",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251125a.htm",
+    "published": "Tue, 25 Nov 2025 18:30:00 GMT"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251125b.htm",
+    "title": "Agencies issue final rule to modify certain regulatory capital standards",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251125b.htm",
+    "published": "Tue, 25 Nov 2025 18:30:00 GMT"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251125a.htm",
+    "title": "Federal Reserve Board issues enforcement action with former employee of Orrstown Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251125a.htm",
+    "published": "Tue, 25 Nov 2025 16:00:00 GMT"
+  },
+  {
+    "id": "ppi-2025_11_25__08_30_00",
+    "title": "PPI for final demand advances 0.3% in September; goods rise 0.9%, services unchanged",
+    "link": "https://www.bls.gov/news.release/archives/ppi_11252025.htm",
+    "published": "2025-11-25T08:30:00Z"
+  }
+]

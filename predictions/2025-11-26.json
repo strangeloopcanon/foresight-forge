@@ -1,0 +1,317 @@
+{
+  "date": "2025-11-26",
+  "predictions": [
+    {
+      "text": "Germany HICP flash inflation (YoY) for November 2025 will print between 2.4% and 2.9%.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-11-28",
+      "confidence_pct": 59,
+      "verification_criteria": "Destatis press release for November 2025 flash HICP (HVPI) shows YoY rate within 2.4%-2.9%.",
+      "evidence": [
+        "https://www.destatis.de/EN/Press/PressReleases/_current/PressReleases.html",
+        "https://ec.europa.eu/eurostat/web/hicp"
+      ],
+      "monitoring_signals": [
+        "German state CPI prints (e.g., NRW, Bavaria) on Nov 27",
+        "Brent price trend and EUR/USD moves",
+        "Eurozone energy component dynamics"
+      ],
+      "rationale": "Energy base effects and easing core goods keep Germany near mid-2s; services stickiness caps downside.",
+      "id": "615a2d34-9c44-4da8-a76e-5bdf545471da",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Spain HICP flash inflation (YoY) for November 2025 will print between 3.4% and 3.9%.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-11-28",
+      "confidence_pct": 57,
+      "verification_criteria": "INE Spain flash HICP (EU-harmonised CPI) YoY for November 2025 falls within 3.4%-3.9%.",
+      "evidence": [
+        "https://www.ine.es/en/indice.htm",
+        "https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736176802&menu=ultiDatos&idp=1254735976607"
+      ],
+      "monitoring_signals": [
+        "Fuel prices in Spain",
+        "Tourism-related services inflation",
+        "Electricity tariff adjustments"
+      ],
+      "rationale": "Spain\u2019s energy exposure and resilient services push HICP above euro-area average.",
+      "id": "99b27a05-187f-4702-98b1-d15a95dd12ad",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. headline PCE Price Index (YoY, SA) for October 2025 will print between 2.8% and 3.2% in the BEA release.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-11-29",
+      "confidence_pct": 59,
+      "verification_criteria": "BEA Personal Income and Outlays report for Oct 2025 shows total PCE Price Index YoY in 2.8%-3.2%.",
+      "evidence": [
+        "https://www.bea.gov/news/2025/personal-income-and-outlays-october-2025",
+        "https://www.cnbc.com/2025/11/25/core-wholesale-prices-rose-less-than-expected-in-september-retail-sales-gain.html"
+      ],
+      "monitoring_signals": [
+        "CPI-to-PCE mapping (weights for shelter, healthcare)",
+        "PPI for core services",
+        "Retail sales control group"
+      ],
+      "rationale": "Goods disinflation offset by steady services keeps headline near 3%.",
+      "id": "14de736f-28d7-43e1-8ad5-c8e8b44a2cad",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. JOLTS job openings for October 2025 will print between 7.0 million and 7.6 million.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-12-03",
+      "confidence_pct": 54,
+      "verification_criteria": "BLS JOLTS release for October 2025 reports total job openings (seasonally adjusted) within 7.0\u20137.6 million.",
+      "evidence": [
+        "https://www.bls.gov/jlt/",
+        "https://www.bls.gov/news.release/archives/"
+      ],
+      "monitoring_signals": [
+        "NFIB hiring plans",
+        "Indeed job postings trends",
+        "Initial and continuing claims trajectory"
+      ],
+      "rationale": "Openings drift lower with cooling labor demand but remain above pre-pandemic norms.",
+      "id": "b2b60fcc-a72f-41ba-b136-89fbbadbcbcc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The ECB will leave the Deposit Facility Rate unchanged at 4.00% at its December 2025 meeting.",
+      "category": "rates",
+      "horizon_days": 16,
+      "deadline": "2025-12-12",
+      "confidence_pct": 61,
+      "verification_criteria": "ECB monetary policy decision statement on the meeting date shows Deposit Facility Rate remains 4.00%.",
+      "evidence": [
+        "https://www.ecb.europa.eu/press/pr/date/2025/html/index.en.html",
+        "https://www.cnbc.com/2025/11/26/australia-inflation-cpi-in-october-estimates-beat.html"
+      ],
+      "monitoring_signals": [
+        "Euro area HICP flash data",
+        "ECB speakers\u2019 guidance and minutes",
+        "Euro OIS path and market-based inflation expectations"
+      ],
+      "rationale": "Inflation easing but not conquered; ECB likely waits for clearer disinflation before cuts.",
+      "id": "01ed1807-d387-42d4-8cd4-deec19b33b8f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "OPEC+ will announce an extension of current additional voluntary oil production cuts into Q1 2026 (through at least March 2026).",
+      "category": "energy",
+      "horizon_days": 14,
+      "deadline": "2025-12-10",
+      "confidence_pct": 55,
+      "verification_criteria": "Official OPEC/OPEC+ communiqu\u00e9s or member ministry statements confirm extension of existing voluntary cuts through at least March 2026.",
+      "evidence": [
+        "https://www.opec.org/opec_web/en/press_room/press_room.htm"
+      ],
+      "monitoring_signals": [
+        "Brent time spreads/backwardation",
+        "Saudi and Russian guidance leaks",
+        "OECD inventory trends (IEA/EIA)"
+      ],
+      "rationale": "Price support and inventory management incentives favor extending voluntary curbs.",
+      "id": "4fe52369-9e25-4c9f-879b-8f79db0ba24e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Apple will publish a security update by 2025-12-31 that notes at least one CVE as \"may have been actively exploited.\"",
+      "category": "tech",
+      "horizon_days": 35,
+      "deadline": "2025-12-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Apple security release notes or HT201222 page include wording indicating at least one actively exploited CVE in a December 2025 update.",
+      "evidence": [
+        "https://support.apple.com/en-us/HT201222"
+      ],
+      "monitoring_signals": [
+        "Threat intel on iOS/macOS zero-days",
+        "Citizen Lab/Google TAG disclosures",
+        "Rapid Security Response issuance cadence"
+      ],
+      "rationale": "Recent cadence of monthly patches and frequent in-the-wild WebKit/kernel fixes support likelihood.",
+      "id": "ffb53125-96fb-4653-a3d5-f47fa9ab2153",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe VIX will close at or above 19.0 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 35,
+      "deadline": "2025-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Official Cboe end-of-day VIX value equals or exceeds 19.0 on at least one date before deadline.",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/"
+      ],
+      "monitoring_signals": [
+        "Event risk around FOMC/ECB/OPEC+",
+        "Equity selloffs, credit spreads",
+        "Realized S&P 500 volatility uptick"
+      ],
+      "rationale": "Seasonal event risk and macro uncertainty leave odds of a volatility spike.",
+      "id": "9c2efbfc-3b87-4305-a796-fa3ce21d8292",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Dollar Index (DXY) will close at or above 105.50 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 35,
+      "deadline": "2025-12-31",
+      "confidence_pct": 43,
+      "verification_criteria": "End-of-day DXY (ICE U.S. Dollar Index) level is \u2265 105.50 on at least one date before deadline.",
+      "evidence": [
+        "https://www.theice.com/products/194/US-Dollar-Index-Futures",
+        "https://www.marketwatch.com/investing/index/dxy"
+      ],
+      "monitoring_signals": [
+        "US rate expectations vs ECB/BOJ",
+        "Risk-off flows",
+        "Energy prices impacting terms of trade"
+      ],
+      "rationale": "Any hawkish repricing or risk-off could lift DXY despite recent softness.",
+      "id": "2fa02040-0b46-4983-b7e0-463deb35f9b5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The EU will announce at least one new Russia-related sanctions designation by 2025-12-31 via an official Council press release or the Official Journal.",
+      "category": "geopolitics",
+      "horizon_days": 35,
+      "deadline": "2025-12-31",
+      "confidence_pct": 61,
+      "verification_criteria": "EU Council press release or Official Journal entry lists new Russia-related listings before the deadline.",
+      "evidence": [
+        "https://www.consilium.europa.eu/en/press/press-releases/",
+        "https://eur-lex.europa.eu/oj/direct-access.html"
+      ],
+      "monitoring_signals": [
+        "Council agenda leaks",
+        "Member-state statements",
+        "Escalations in Ukraine or evasion findings"
+      ],
+      "rationale": "Regular EU rollouts and ongoing conflict sustain likelihood of additional listings.",
+      "id": "96d376bc-8c34-4289-9e8b-b26fd51e9180",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Australia Monthly CPI Indicator for November 2025 will print between 3.6% and 4.1% (YoY).",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-12-11",
+      "confidence_pct": 58,
+      "verification_criteria": "ABS Monthly CPI Indicator (YoY) for November 2025 is within 3.6%-4.1% in the official release.",
+      "evidence": [
+        "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/monthly-consumer-price-index-indicator",
+        "https://www.cnbc.com/2025/11/26/australia-inflation-cpi-in-october-estimates-beat.html"
+      ],
+      "monitoring_signals": [
+        "AUD exchange rate",
+        "Fuel/electricity price movements",
+        "Rents and insurance components"
+      ],
+      "rationale": "October quickened to 3.8%; November likely similar amid services and housing pressures.",
+      "id": "3169e40f-4f6e-4f78-b201-77a35bc0eced",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan (preliminary) 1-year inflation expectations for December 2025 will print between 2.8% and 3.4%.",
+      "category": "macro",
+      "horizon_days": 17,
+      "deadline": "2025-12-13",
+      "confidence_pct": 56,
+      "verification_criteria": "UMich preliminary December 2025 survey release shows 1-year inflation expectations in 2.8%-3.4%.",
+      "evidence": [
+        "https://data.sca.isr.umich.edu/"
+      ],
+      "monitoring_signals": [
+        "Gasoline prices trend",
+        "Inflation headlines and consumer sentiment",
+        "Market-based breakevens"
+      ],
+      "rationale": "Expectations remain anchored near 3% with gas prices and news flow as drivers.",
+      "id": "b49bfd6b-8f3f-48f8-9092-c6c149ba5ff9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China Caixin Services PMI for November 2025 will print between 50.4 and 52.0.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-12-04",
+      "confidence_pct": 55,
+      "verification_criteria": "S&P Global/Caixin press release for November 2025 Services PMI headline falls within 50.4\u201352.0.",
+      "evidence": [
+        "https://www.spglobal.com/marketintelligence/en/solutions/pmi.html",
+        "https://www.caixinglobal.com/"
+      ],
+      "monitoring_signals": [
+        "High-frequency mobility/consumption data",
+        "NBS PMIs divergence",
+        "Policy support signals for services"
+      ],
+      "rationale": "Services expansion persists but remains modest amid uneven recovery.",
+      "id": "00793348-822c-4482-9fd9-7189aa57bc14",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show a U.S. motor gasoline stocks build of +4.0 million barrels or more in at least one report published by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 35,
+      "deadline": "2025-12-31",
+      "confidence_pct": 50,
+      "verification_criteria": "An EIA weekly report before deadline lists motor gasoline stock change \u2265 +4.0 million barrels week-over-week.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.eia.gov/petroleum/weekly/"
+      ],
+      "monitoring_signals": [
+        "Refinery utilization rates",
+        "Import flows and blending component stocks",
+        "Seasonal demand slowdown post-holidays"
+      ],
+      "rationale": "Shoulder-season builds are common with higher refinery runs and softer demand.",
+      "id": "39fd1ffa-8689-4e59-992e-0606cb240868",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2025-11-26 close to 2025-12-31 close, Invesco QQQ Trust (QQQ) adjusted-close total return will outperform SPDR S&P 500 ETF (SPY) by at least 1.5 percentage points.",
+      "category": "markets",
+      "horizon_days": 35,
+      "deadline": "2025-12-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Using adjusted closes (dividends reinvested), compute total return for QQQ and SPY between stated dates; QQQ \u2212 SPY \u2265 +1.5 pp.",
+      "evidence": [
+        "https://finance.yahoo.com/quote/QQQ/history",
+        "https://finance.yahoo.com/quote/SPY/history",
+        "https://www.cnbc.com/2025/11/25/dell-earnings-report-q3-2026.html"
+      ],
+      "monitoring_signals": [
+        "Mega-cap earnings/guidance, AI server demand",
+        "Rates path and growth vs value performance",
+        "Semiconductor index (SOX) momentum"
+      ],
+      "rationale": "AI-driven mega-cap momentum and lower long-end yields favor growth-heavy QQQ.",
+      "id": "68271fa6-1a44-4cac-a8fa-9f485964141f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

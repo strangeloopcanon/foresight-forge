@@ -21,7 +21,7 @@
       ],
       "rationale": "Core inflation trend easing but still near 3%, with national prints likely to cluster around that range.",
       "id": "40c682f5-860f-42d5-a537-e6c58e77a91b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "October CPI/PPI mix is consistent with a core PCE YoY print in the high-2% range.",
       "id": "eda57936-bb76-441e-999f-d58f28218f61",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Private-sector activity likely modestly expansionary, aligning with recent stabilization signals.",
       "id": "2f9c3e40-e548-4062-b6e7-6ac87e25157f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Recent years show a steady cadence of exploited zero-days revealed around Patch Tuesday.",
       "id": "e09120aa-32c0-464c-9279-2209a0461b89",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -113,7 +113,7 @@
       ],
       "rationale": "December typically sees elevated KEV entries following major vendor patch cycles.",
       "id": "8881caa5-7016-4b69-937e-33b6325b793a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "Even modest shocks can lift VVIX above 105 given thin year-end liquidity.",
       "id": "1b7e852a-ebdc-4505-b0ed-42770d69b80d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Seasonal demand and potential cold shots raise odds of at least one tactical spike.",
       "id": "54155824-7b2c-4465-9a70-b6c25b93feb7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -182,7 +182,7 @@
       ],
       "rationale": "Solar max conditions make 200+ daily sunspot counts plausible before year-end.",
       "id": "8552dbd2-110d-45d2-a260-4313f2b8835d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -205,7 +205,7 @@
       ],
       "rationale": "Secular e-commerce growth plus heavy discounting should push a fresh Cyber Monday record.",
       "id": "58b7c7ba-5f51-4674-9777-57a9e72639ce",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -228,7 +228,7 @@
       ],
       "rationale": "U.S. pressure on PRC intermediaries has escalated; another designation by year-end is likely.",
       "id": "9f87761a-689a-4550-a51c-337f6edefc39",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -251,7 +251,7 @@
       ],
       "rationale": "A modest reflation impulse could lift breakevens to 2.5% briefly before year-end.",
       "id": "dd8f4eaf-3b76-4b2e-90b2-dbd19b346f46",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
