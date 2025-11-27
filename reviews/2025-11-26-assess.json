@@ -1,0 +1,80 @@
+{
+  "date": "2025-11-26",
+  "assessments": [
+    {
+      "id": "615a2d34-9c44-4da8-a76e-5bdf545471da",
+      "status": "pending",
+      "status_rationale": "No official Destatis/Eurostat flash HICP print for Germany is cited in today's coverage; deadline not yet reached."
+    },
+    {
+      "id": "99b27a05-187f-4702-98b1-d15a95dd12ad",
+      "status": "pending",
+      "status_rationale": "No INE flash HICP result for Spain appears in the provided news; awaiting the official release."
+    },
+    {
+      "id": "14de736f-28d7-43e1-8ad5-c8e8b44a2cad",
+      "status": "pending",
+      "status_rationale": "No BEA PCE data for October 2025 is referenced; release is still upcoming."
+    },
+    {
+      "id": "b2b60fcc-a72f-41ba-b136-89fbbadbcbcc",
+      "status": "pending",
+      "status_rationale": "No BLS/JOLTS October 2025 figure is mentioned; deadline is still ahead."
+    },
+    {
+      "id": "01ed1807-d387-42d4-8cd4-deec19b33b8f",
+      "status": "pending",
+      "status_rationale": "ECB December 2025 meeting outcome has not occurred yet per the news provided."
+    },
+    {
+      "id": "4fe52369-9e25-4c9f-879b-8f79db0ba24e",
+      "status": "pending",
+      "status_rationale": "No report on an OPEC+ decision to extend voluntary cuts into Q1 2026 is present; awaiting official OPEC+ communications."
+    },
+    {
+      "id": "ffb53125-96fb-4653-a3d5-f47fa9ab2153",
+      "status": "pending",
+      "status_rationale": "No Apple security updates noting actively exploited CVEs are cited in today's news; the window remains open."
+    },
+    {
+      "id": "9c2efbfc-3b87-4305-a796-fa3ce21d8292",
+      "status": "pending",
+      "status_rationale": "No definitive VIX close at or above 19.0 is reported; horizon extends through year-end."
+    },
+    {
+      "id": "2fa02040-0b46-4983-b7e0-463deb35f9b5",
+      "status": "pending",
+      "status_rationale": "No confirmed DXY close at or above 105.50 is provided in the news; still within the evaluation window."
+    },
+    {
+      "id": "96d376bc-8c34-4289-9e8b-b26fd51e9180",
+      "status": "pending",
+      "status_rationale": "No EU Council press release or Official Journal entry on new Russia-related sanctions is referenced today."
+    },
+    {
+      "id": "3169e40f-4f6e-4f78-b201-77a35bc0eced",
+      "status": "pending",
+      "status_rationale": "No coverage of Australia\u2019s November 2025 Monthly CPI Indicator is included; release not yet due."
+    },
+    {
+      "id": "b49bfd6b-8f3f-48f8-9092-c6c149ba5ff9",
+      "status": "pending",
+      "status_rationale": "No University of Michigan preliminary December 2025 expectations figure is mentioned; pending the survey release."
+    },
+    {
+      "id": "00793348-822c-4482-9fd9-7189aa57bc14",
+      "status": "pending",
+      "status_rationale": "No Caixin Services PMI print for November 2025 appears in today's items; awaiting publication."
+    },
+    {
+      "id": "39fd1ffa-8689-4e59-992e-0606cb240868",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report details on a gasoline build of \u2265+4.0 mb are present; multiple reports remain before the deadline."
+    },
+    {
+      "id": "68271fa6-1a44-4cac-a8fa-9f485964141f",
+      "status": "pending",
+      "status_rationale": "The performance window runs through 2025-12-31; interim market color does not resolve the forecast."
+    }
+  ]
+}

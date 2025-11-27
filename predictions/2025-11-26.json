@@ -19,7 +19,7 @@
       ],
       "rationale": "Energy base effects and easing core goods keep Germany near mid-2s; services stickiness caps downside.",
       "id": "615a2d34-9c44-4da8-a76e-5bdf545471da",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Spain\u2019s energy exposure and resilient services push HICP above euro-area average.",
       "id": "99b27a05-187f-4702-98b1-d15a95dd12ad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Goods disinflation offset by steady services keeps headline near 3%.",
       "id": "14de736f-28d7-43e1-8ad5-c8e8b44a2cad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Openings drift lower with cooling labor demand but remain above pre-pandemic norms.",
       "id": "b2b60fcc-a72f-41ba-b136-89fbbadbcbcc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Inflation easing but not conquered; ECB likely waits for clearer disinflation before cuts.",
       "id": "01ed1807-d387-42d4-8cd4-deec19b33b8f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "rationale": "Price support and inventory management incentives favor extending voluntary curbs.",
       "id": "4fe52369-9e25-4c9f-879b-8f79db0ba24e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -143,7 +143,7 @@
       ],
       "rationale": "Recent cadence of monthly patches and frequent in-the-wild WebKit/kernel fixes support likelihood.",
       "id": "ffb53125-96fb-4653-a3d5-f47fa9ab2153",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -163,7 +163,7 @@
       ],
       "rationale": "Seasonal event risk and macro uncertainty leave odds of a volatility spike.",
       "id": "9c2efbfc-3b87-4305-a796-fa3ce21d8292",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "Any hawkish repricing or risk-off could lift DXY despite recent softness.",
       "id": "2fa02040-0b46-4983-b7e0-463deb35f9b5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -205,7 +205,7 @@
       ],
       "rationale": "Regular EU rollouts and ongoing conflict sustain likelihood of additional listings.",
       "id": "96d376bc-8c34-4289-9e8b-b26fd51e9180",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -226,7 +226,7 @@
       ],
       "rationale": "October quickened to 3.8%; November likely similar amid services and housing pressures.",
       "id": "3169e40f-4f6e-4f78-b201-77a35bc0eced",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -246,7 +246,7 @@
       ],
       "rationale": "Expectations remain anchored near 3% with gas prices and news flow as drivers.",
       "id": "b49bfd6b-8f3f-48f8-9092-c6c149ba5ff9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -267,7 +267,7 @@
       ],
       "rationale": "Services expansion persists but remains modest amid uneven recovery.",
       "id": "00793348-822c-4482-9fd9-7189aa57bc14",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -288,7 +288,7 @@
       ],
       "rationale": "Shoulder-season builds are common with higher refinery runs and softer demand.",
       "id": "39fd1ffa-8689-4e59-992e-0606cb240868",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -310,7 +310,7 @@
       ],
       "rationale": "AI-driven mega-cap momentum and lower long-end yields favor growth-heavy QQQ.",
       "id": "68271fa6-1a44-4cac-a8fa-9f485964141f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

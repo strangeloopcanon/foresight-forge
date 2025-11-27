@@ -1178,3 +1178,12 @@ The macro tone remains risk-on/risk-off: headlines highlight market volatility, 
 
 ---
 
+
+## 2025-11-26
+
+None of today’s articles provide definitive data releases or official decisions that would resolve any of the listed forecasts. The news flow is dominated by U.S. political and immigration developments, holiday features, entertainment coverage, and general market commentary. While market pieces note a tech-led rebound ahead of Thanksgiving, they do not specify closing levels for VIX or the Dollar Index and contain no macro data prints relevant to PCE, HICP, JOLTS, or PMI.
+
+Several items are approaching near-term resolution: Germany and Spain flash HICP are due imminently, followed by U.S. PCE and China’s Caixin Services PMI next week. OPEC+ headlines could emerge before the stated deadline, and the ECB decision will come in mid-December. Until official figures or announcements are reported, all forecasts remain pending.
+
+---
+

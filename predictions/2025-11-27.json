@@ -1,0 +1,294 @@
+{
+  "date": "2025-11-27",
+  "predictions": [
+    {
+      "text": "Japan Tokyo Core CPI (Ku-area, excluding fresh food, YoY) for November 2025 will print between 1.8% and 2.4%.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-11-29",
+      "confidence_pct": 60,
+      "verification_criteria": "Confirm via Statistics Bureau of Japan preliminary Tokyo CPI release: Core CPI (all items less fresh food), YoY, November 2025. A result within 1.8%\u20132.4% counts as correct.",
+      "evidence": [
+        "https://www.stat.go.jp/english/data/cpi/index.html",
+        "https://www.boj.or.jp/en/mopo/index.htm"
+      ],
+      "monitoring_signals": [
+        "Energy and utility tariff changes in Tokyo",
+        "JPY exchange rate pass-through",
+        "Private high-frequency price trackers (supermarket, apparel)",
+        "Nikkei previews/consensus"
+      ],
+      "rationale": "Base effects and subdued goods inflation offset by services resilience suggest a mid-2% handle risk but likely near low-2s.",
+      "id": "a3aa7265-a25c-4229-9d4b-5f682c517283",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Euro area (EA20) seasonally adjusted unemployment rate for October 2025 will print between 6.5% and 6.7%.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-11-29",
+      "confidence_pct": 64,
+      "verification_criteria": "Confirm via Eurostat monthly release: euro area (EA20) unemployment rate, seasonally adjusted, October 2025. A result within 6.5%\u20136.7% counts as correct.",
+      "evidence": [
+        "https://ec.europa.eu/eurostat",
+        "https://ec.europa.eu/eurostat/web/lfs/data/database"
+      ],
+      "monitoring_signals": [
+        "National unemployment prints (DE, FR, IT, ES)",
+        "PMI employment components",
+        "Online job postings (Indeed, LinkedIn) trends",
+        "Layoff announcements in European press"
+      ],
+      "rationale": "Labor market remains tight but cooling gradually; recent prints clustered near 6.5\u20136.6%.",
+      "id": "f63db21f-858d-4d67-95d1-bf09f166a82f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "China NBS Non-Manufacturing PMI (headline) for November 2025 will print between 50.2 and 51.6.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-11-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Confirm via National Bureau of Statistics of China official PMI release: Non-Manufacturing Business Activity Index, November 2025. A result within 50.2\u201351.6 counts as correct.",
+      "evidence": [
+        "http://www.stats.gov.cn/english/PressRelease/",
+        "https://www.cnbc.com/2025/11/26/uber-robotaxi-uae-driverless.html"
+      ],
+      "monitoring_signals": [
+        "Caixin Services PMI",
+        "Mobility/transport metrics (subway, air travel)",
+        "Property-related services activity indicators",
+        "Holiday/travel patterns and local restrictions"
+      ],
+      "rationale": "Services expansion persists but remains modest amid property drag; holiday and travel support keeps it above 50.",
+      "id": "f3050728-a253-4572-9071-618292297306",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Canada GDP (monthly, MoM, seasonally adjusted) for September 2025 will print between -0.2% and +0.2%.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-11-29",
+      "confidence_pct": 57,
+      "verification_criteria": "Confirm via Statistics Canada monthly GDP release: real GDP, seasonally adjusted, month-over-month change, September 2025. A result within -0.2% to +0.2% counts as correct.",
+      "evidence": [
+        "https://www150.statcan.gc.ca/n1/daily-quotidien-eng.htm",
+        "https://www.bankofcanada.ca/"
+      ],
+      "monitoring_signals": [
+        "Manufacturing shipments and wholesale trade",
+        "Retail sales and services indicators",
+        "Oil and gas output and maintenance outages",
+        "Hours worked (LFS) and electricity generation"
+      ],
+      "rationale": "Mixed sectoral signals and energy volatility suggest a flat-to-small move month.",
+      "id": "6480fe44-3646-4674-864e-020d3540bb88",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Nonfarm Payrolls (change, SA) for November 2025 will print between +130,000 and +230,000.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-12-06",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm via BLS Employment Situation: total nonfarm payroll employment monthly change, seasonally adjusted, November 2025. A result within +130k to +230k counts as correct.",
+      "evidence": [
+        "https://www.bls.gov/news.release/empsit.nr0.htm",
+        "https://www.census.gov/retail/index.html"
+      ],
+      "monitoring_signals": [
+        "ADP private payrolls",
+        "Initial and continuing claims (reference week)",
+        "ISM employment components (manufacturing/services)",
+        "High-frequency labor indicators (Homebase/UKG)",
+        "Challenger job cuts"
+      ],
+      "rationale": "Hiring decelerates but remains positive; claims steady and survey-based employment soft but not collapsing.",
+      "id": "3c1a2a05-4337-493b-8a9f-d68ff1312506",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing Prices Index for November 2025 will print between 44.0 and 51.0.",
+      "category": "macro",
+      "horizon_days": 7,
+      "deadline": "2025-12-04",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirm via ISM Manufacturing Report On Business: Prices Index, November 2025. A result within 44.0\u201351.0 counts as correct.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+      ],
+      "monitoring_signals": [
+        "Regional Fed surveys (prices paid) e.g., Philly, Empire, Richmond",
+        "Commodity price moves (metals, energy, chemicals)",
+        "Supplier delivery times",
+        "Dollar strength and import prices"
+      ],
+      "rationale": "Goods disinflation and softer input demand keep prices sub-50 to low-50s.",
+      "id": "5725064c-ff87-4faa-aae2-53908416d9ad",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Average Weekly Hours of All Employees (Total Private, SA) for November 2025 will print between 34.2 and 34.4 hours.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-12-06",
+      "confidence_pct": 62,
+      "verification_criteria": "Confirm via BLS Employment Situation: Average weekly hours of all employees, total private, seasonally adjusted, November 2025. A result within 34.2\u201334.4 hours counts as correct.",
+      "evidence": [
+        "https://www.bls.gov/news.release/empsit.a.htm",
+        "https://www.bls.gov/ces/"
+      ],
+      "monitoring_signals": [
+        "ISM manufacturing employment and hours commentary",
+        "Manufacturing overtime series",
+        "Corporate guidance on staffing and overtime",
+        "High-frequency scheduling data"
+      ],
+      "rationale": "Hours have stabilized around 34.3 as firms adjust margins via hours rather than headcount.",
+      "id": "46e543e6-f65f-4dc3-81df-a1fe8461eabd",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Google\u2019s December 2025 Android Security Bulletin will include at least one CVE rated Critical with remote code execution impact.",
+      "category": "tech",
+      "horizon_days": 13,
+      "deadline": "2025-12-10",
+      "confidence_pct": 71,
+      "verification_criteria": "Confirm via Google Android Security Bulletin (December 2025): presence of at least one CVE explicitly marked severity Critical with RCE impact.",
+      "evidence": [
+        "https://source.android.com/docs/security/bulletin",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+      ],
+      "monitoring_signals": [
+        "AOSP patch submissions mentioning Critical/RCE",
+        "Pixel OTA release notes",
+        "Researcher disclosures on Android components",
+        "CISA KEV additions related to Android"
+      ],
+      "rationale": "Historical cadence: monthly bulletins frequently include at least one Critical RCE across media, framework, or system.",
+      "id": "86f57804-497e-402e-b348-21610112d28a",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "By 2025-12-31, OFAC will announce at least one Iran-related sanctions designation via an official U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 34,
+      "deadline": "2025-12-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Confirm via U.S. Treasury website: an official press release announcing sanctions designations explicitly citing Iran-related authorities or targets by 2025-12-31.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/iran-sanctions"
+      ],
+      "monitoring_signals": [
+        "Regional escalation involving IRGC-linked groups",
+        "Maritime interdictions and drone/missile incidents",
+        "Congressional/Executive statements on Iran policy",
+        "Allied coordination (EU/UK) sanctions activity"
+      ],
+      "rationale": "Ongoing regional tensions and U.S. policy posture make additional Iran-related designations likely.",
+      "id": "9b648a63-69b8-4d34-8b02-7d5708f85070",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NASDAQ-100 Index (NDX) will close at a new all-time high on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 34,
+      "deadline": "2025-12-31",
+      "confidence_pct": 53,
+      "verification_criteria": "Verify via Nasdaq official close data: NDX closing level exceeds its prior record closing high on any trading day through 2025-12-31 (UTC).",
+      "evidence": [
+        "https://www.nasdaq.com/market-activity/indexes/ndx",
+        "https://www.marketwatch.com/story/alphabet-gets-closer-to-4-trillion-as-morgan-stanley-puts-a-big-number-around-its-chip-potential-8a0fa5cb?mod=mw_rss_topstories",
+        "https://www.cnbc.com/2025/11/26/apple-iphone-shipments-to-beat-samsung-for-the-first-time-in-14-years.html"
+      ],
+      "monitoring_signals": [
+        "Mega-cap earnings revisions and guidance",
+        "Rates/real yields and discount-rate sensitivity",
+        "Breadth and market internals (advance-decline, 52-week highs)",
+        "Options positioning and implied volatility"
+      ],
+      "rationale": "AI-driven capex cycle and mega-cap momentum support new highs absent a rates shock.",
+      "id": "8088610c-de7e-4978-bb4e-29b521cefe9b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ERCOT system load will exceed 65,000 MW in at least one hour between 2025-12-01 and 2025-12-31 (CST).",
+      "category": "energy",
+      "horizon_days": 34,
+      "deadline": "2025-12-31",
+      "confidence_pct": 51,
+      "verification_criteria": "Confirm via ERCOT hourly load data: any hourly total system load > 65,000 MW during 2025-12-01 to 2025-12-31 CST counts as correct.",
+      "evidence": [
+        "https://www.ercot.com/gridm-data",
+        "https://www.cnbc.com/2025/11/26/ai-data-center-frenzy-is-pushing-up-your-electric-bill-heres-why.html"
+      ],
+      "monitoring_signals": [
+        "NWS temperature forecasts and HDDs for Texas load zones",
+        "ERCOT day-ahead load forecasts",
+        "Planned outages and renewable output forecasts",
+        "Data center interconnection updates"
+      ],
+      "rationale": "Seasonal cold snaps plus structural load growth (including data centers) raise odds of a >65 GW winter spike.",
+      "id": "25a8c833-b5a6-4eb8-acf2-f26562305360",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Conference Board U.S. Consumer Confidence Index (headline) for December 2025 will print between 100.0 and 112.0.",
+      "category": "macro",
+      "horizon_days": 34,
+      "deadline": "2025-12-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Confirm via The Conference Board release: headline Consumer Confidence Index, December 2025. A result within 100.0\u2013112.0 counts as correct.",
+      "evidence": [
+        "https://www.conference-board.org/topics/consumer-confidence",
+        "https://www.bls.gov/cpi/",
+        "https://www.federalreserve.gov/releases/h15/"
+      ],
+      "monitoring_signals": [
+        "Gasoline prices and inflation expectations",
+        "Labor market differential (jobs plentiful vs hard to get)",
+        "Equity market performance into month-end",
+        "UMich preliminary sentiment as leading signal"
+      ],
+      "rationale": "Stable labor conditions and easing inflation support confidence near recent averages, capped by rate sensitivity.",
+      "id": "aa153c17-48b4-490c-9ad5-03bb677f3135",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent front-month crude will settle at or above $86.00 per barrel on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 34,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "verification_criteria": "Confirm via ICE settlement data: front-month Brent crude futures official daily settlement at or above $86.00/bbl on any trading day through 2025-12-31 (UTC).",
+      "evidence": [
+        "https://www.theice.com/products/219/Brent-Crude-Futures",
+        "https://www.nytimes.com/2025/11/26/world/europe/ukraine-peace-talks-russia-missiles.html"
+      ],
+      "monitoring_signals": [
+        "OPEC+ policy decisions and quota compliance",
+        "Geopolitical risk premiums (Middle East, Russia/Ukraine)",
+        "OECD inventories and U.S. EIA weekly balances",
+        "Global demand proxies (jet fuel, mobility)"
+      ],
+      "rationale": "OPEC+ management and geopolitical risks can lift Brent toward upper-$80s despite macro headwinds.",
+      "id": "7ec29698-c025-4fc4-9569-ccf5e8129d09",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
