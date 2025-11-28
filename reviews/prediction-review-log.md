@@ -1187,3 +1187,12 @@ Several items are approaching near-term resolution: Germany and Spain flash HICP
 
 ---
 
+
+## 2025-11-27
+
+None of the monitored indicators have a definitive, sourced outcome in today’s news flow. The only potentially relevant hint is the CNBC note that Tokyo inflation ran hotter than expected, but without a cited figure for the November Tokyo Core CPI (ex-fresh food), we cannot determine whether it falls within the forecast range. All other items either have release dates ahead or are not discussed in the provided articles.
+
+Focus for the next cycle should be on near-term data drops: Tokyo CPI confirmation, EA20 unemployment, and Canada’s September GDP, all of which are due around November 29, followed by China’s NBS PMIs on November 30. Market-related year-end targets (NDX ATH, Brent ≥ $86, ERCOT December peaks) and policy/security events (Android CVEs, OFAC designations) remain open with no new corroborating evidence today.
+
+---
+

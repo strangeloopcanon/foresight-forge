@@ -1,0 +1,70 @@
+{
+  "date": "2025-11-27",
+  "assessments": [
+    {
+      "id": "a3aa7265-a25c-4229-9d4b-5f682c517283",
+      "status": "pending",
+      "status_rationale": "CNBC notes Tokyo inflation ran hotter than expected, but no definitive YoY core Tokyo CPI figure is provided in the supplied news. Awaiting the official November print."
+    },
+    {
+      "id": "f63db21f-858d-4d67-95d1-bf09f166a82f",
+      "status": "pending",
+      "status_rationale": "No confirmed release of the EA20 October unemployment rate appears in today\u2019s news. Outcome not yet observable."
+    },
+    {
+      "id": "f3050728-a253-4572-9071-618292297306",
+      "status": "pending",
+      "status_rationale": "China\u2019s November NBS Non-Manufacturing PMI is not cited; only October industrial profits are mentioned. Awaiting the PMI release."
+    },
+    {
+      "id": "6480fe44-3646-4674-864e-020d3540bb88",
+      "status": "pending",
+      "status_rationale": "No reference to Canada\u2019s September monthly GDP in the provided coverage. Waiting for official data."
+    },
+    {
+      "id": "3c1a2a05-4337-493b-8a9f-d68ff1312506",
+      "status": "pending",
+      "status_rationale": "November U.S. Nonfarm Payrolls have not been reported yet in the news items."
+    },
+    {
+      "id": "5725064c-ff87-4faa-aae2-53908416d9ad",
+      "status": "pending",
+      "status_rationale": "ISM Manufacturing Prices Index for November is not mentioned; release still ahead."
+    },
+    {
+      "id": "46e543e6-f65f-4dc3-81df-a1fe8461eabd",
+      "status": "pending",
+      "status_rationale": "No data on U.S. Average Weekly Hours for November is present in the news feed."
+    },
+    {
+      "id": "86f57804-497e-402e-b348-21610112d28a",
+      "status": "pending",
+      "status_rationale": "December 2025 Android Security Bulletin not yet published; no CVE details available."
+    },
+    {
+      "id": "9b648a63-69b8-4d34-8b02-7d5708f85070",
+      "status": "pending",
+      "status_rationale": "No OFAC Iran-related designation reported in today\u2019s articles. Window remains open through year-end."
+    },
+    {
+      "id": "8088610c-de7e-4978-bb4e-29b521cefe9b",
+      "status": "pending",
+      "status_rationale": "No confirmation of a new NDX all-time high in the provided news summaries."
+    },
+    {
+      "id": "25a8c833-b5a6-4eb8-acf2-f26562305360",
+      "status": "pending",
+      "status_rationale": "ERCOT load outcomes pertain to December; no relevant December load data yet."
+    },
+    {
+      "id": "aa153c17-48b4-490c-9ad5-03bb677f3135",
+      "status": "pending",
+      "status_rationale": "No mention of The Conference Board\u2019s December consumer confidence; release is later."
+    },
+    {
+      "id": "7ec29698-c025-4fc4-9569-ccf5e8129d09",
+      "status": "pending",
+      "status_rationale": "No report of Brent settling at or above $86 in today\u2019s items."
+    }
+  ]
+}

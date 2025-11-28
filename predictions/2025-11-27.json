@@ -20,7 +20,7 @@
       ],
       "rationale": "Base effects and subdued goods inflation offset by services resilience suggest a mid-2% handle risk but likely near low-2s.",
       "id": "a3aa7265-a25c-4229-9d4b-5f682c517283",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Labor market remains tight but cooling gradually; recent prints clustered near 6.5\u20136.6%.",
       "id": "f63db21f-858d-4d67-95d1-bf09f166a82f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Services expansion persists but remains modest amid property drag; holiday and travel support keeps it above 50.",
       "id": "f3050728-a253-4572-9071-618292297306",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Mixed sectoral signals and energy volatility suggest a flat-to-small move month.",
       "id": "6480fe44-3646-4674-864e-020d3540bb88",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "Hiring decelerates but remains positive; claims steady and survey-based employment soft but not collapsing.",
       "id": "3c1a2a05-4337-493b-8a9f-d68ff1312506",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -131,7 +131,7 @@
       ],
       "rationale": "Goods disinflation and softer input demand keep prices sub-50 to low-50s.",
       "id": "5725064c-ff87-4faa-aae2-53908416d9ad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "rationale": "Hours have stabilized around 34.3 as firms adjust margins via hours rather than headcount.",
       "id": "46e543e6-f65f-4dc3-81df-a1fe8461eabd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "rationale": "Historical cadence: monthly bulletins frequently include at least one Critical RCE across media, framework, or system.",
       "id": "86f57804-497e-402e-b348-21610112d28a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "rationale": "Ongoing regional tensions and U.S. policy posture make additional Iran-related designations likely.",
       "id": "9b648a63-69b8-4d34-8b02-7d5708f85070",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -220,7 +220,7 @@
       ],
       "rationale": "AI-driven capex cycle and mega-cap momentum support new highs absent a rates shock.",
       "id": "8088610c-de7e-4978-bb4e-29b521cefe9b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -242,7 +242,7 @@
       ],
       "rationale": "Seasonal cold snaps plus structural load growth (including data centers) raise odds of a >65 GW winter spike.",
       "id": "25a8c833-b5a6-4eb8-acf2-f26562305360",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -265,7 +265,7 @@
       ],
       "rationale": "Stable labor conditions and easing inflation support confidence near recent averages, capped by rate sensitivity.",
       "id": "aa153c17-48b4-490c-9ad5-03bb677f3135",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -287,7 +287,7 @@
       ],
       "rationale": "OPEC+ management and geopolitical risks can lift Brent toward upper-$80s despite macro headwinds.",
       "id": "7ec29698-c025-4fc4-9569-ccf5e8129d09",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

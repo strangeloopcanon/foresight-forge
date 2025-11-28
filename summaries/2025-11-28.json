@@ -1,0 +1,122 @@
+{
+  "bullets": [
+    {
+      "text": "Europe asserts role in Ukraine talks as Trump sidelines allies; France launches voluntary military service; Putin signals openness to serious negotiations.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/11/27/putin-moscow-ready-for-serious-talks-on-ukraine-peace-plan.html"
+    },
+    {
+      "text": "China industrial profits fell 5.5% in October, signaling manufacturing weakness; hotter Tokyo inflation complicates BOJ policy; Asia stocks trade mixed.",
+      "tags": [
+        "macro",
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/11/27/china-industrial-profits-drop-in-october-worst-level-in-five-months-trade-uncertainty.html"
+    },
+    {
+      "text": "Puma shares jumped ~18% on report China's Anta may bid, highlighting renewed Chinese outbound M&A appetite in global sportswear.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/27/puma-shares-chinas-anta-sports-is-reportedly-looking-to-buy-the-firm.html"
+    },
+    {
+      "text": "Apple appeals India\u2019s potential $38 billion antitrust penalty, escalating Big Tech-regulator tensions in a crucial growth market.",
+      "tags": [
+        "tech",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/11/27/apple-challenges-indias-anti-trust-body-over-potential-38-billion-fine.html"
+    },
+    {
+      "text": "SEC reportedly probes Jefferies over First Brands collapse, spotlighting risk controls and disclosure practices across leveraged credit.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/27/sec-investigates-jefferies-over-first-brands-collapse-report-says.html"
+    },
+    {
+      "text": "Investors signal rotation from crowded AI trade amid rising capex burdens and margin risks; some bet against Nvidia while ETFs pivot toward broader value.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html"
+    },
+    {
+      "text": "Google\u2019s TPU-centric strategy, tight hardware-software integration, and cost advantages underpin its AI comeback narrative versus GPU-heavy rivals.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference"
+    },
+    {
+      "text": "Canada eases climate rules to fast-track an Alberta oil pipeline, prioritizing energy security and investment over environmental safeguards.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/11/27/world/canada/alberta-oil-pipeline-climate-change.html"
+    },
+    {
+      "text": "Finland\u2019s 250MWh sand battery project advances long-duration thermal storage for district heating and grid ancillary services, diversifying clean energy storage options.",
+      "tags": [
+        "energy",
+        "science"
+      ],
+      "link": "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/"
+    },
+    {
+      "text": "Gene therapy now effectively cures most infants with SCID (bubble boy disease), marking a pivotal advance in pediatric precision medicine.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2025/11/27/well/bubble-boy-disease-gene-therapy.html"
+    },
+    {
+      "text": "Studies find avian influenza strains resistant to fever, increasing zoonotic risk and complicating human pandemic preparedness.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://medicalxpress.com/news/2025-11-bird-flu-viruses-resistant-fever.html"
+    },
+    {
+      "text": "Two-decade study links cleaner water to substantial reductions in cancer and cardiovascular mortality, underscoring public infrastructure\u2019s health dividend.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251127010327.htm"
+    },
+    {
+      "text": "Breakthroughs in PFAS degradation and Teflon recycling suggest scalable routes to tackle forever chemicals, with major environmental and liability implications.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251125081938.htm"
+    },
+    {
+      "text": "Hong Kong\u2019s deadliest fire in decades exposes building safety lapses; Chinese firms pledge aid, while scrutiny turns to enforcement and infrastructure standards.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/11/27/chinese-firms-rush-to-pledge-millions-in-fire-rescue-as-hong-kong-fire-death-toll-climbs-to-55.html"
+    },
+    {
+      "text": "SNAP eased holiday food insecurity as consumers face relentless price pressure; Black Friday deal-hunting intensifies but risks higher household debt.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/11/27/us/politics/snap-benefits-trump-thanksgiving.html"
+    }
+  ]
+}

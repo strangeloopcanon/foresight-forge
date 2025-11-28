@@ -1,0 +1,274 @@
+{
+  "date": "2025-11-28",
+  "predictions": [
+    {
+      "text": "UK CPI (12-month rate, headline) for November 2025 will print between 3.7% and 4.3%.",
+      "category": "macro",
+      "horizon_days": 20,
+      "deadline": "2025-12-18",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify against ONS 'Consumer price inflation, UK: November 2025' release; the headline CPI 12-month rate must fall within 3.7%\u20134.3%.",
+      "evidence": [
+        "ONS release calendar (UK CPI timing around mid-month)",
+        "Recent UK energy price cap adjustments and fuel prices",
+        "GBP level vs. USD/EUR affecting tradables inflation"
+      ],
+      "monitoring_signals": [
+        "ONS CPI weights and methodology notes",
+        "UK services CPI momentum",
+        "Wholesale energy prices and Ofgem price cap updates",
+        "GBP trade-weighted index"
+      ],
+      "rationale": "Services disinflation and energy base effects likely cap headline CPI near 4% with limited upside risk.",
+      "id": "97571a70-c7c4-4442-94cc-8b45f3f31940",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PPI Final Demand (YoY, NSA) for November 2025 will print between 1.4% and 2.0%.",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-12-13",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify in BLS Producer Price Index News Release for Nov 2025: 12-month percent change in Final Demand must be within 1.4%\u20132.0%.",
+      "evidence": [
+        "Commodity price trends (energy, food) in Nov",
+        "ISM Manufacturing Prices Index softening",
+        "Freight rates and diesel prices stabilizing"
+      ],
+      "monitoring_signals": [
+        "ISM Prices Paid (manufacturing and services)",
+        "WTI crude and diesel rack prices",
+        "Import prices (ex-fuel) and USD strength"
+      ],
+      "rationale": "Moderate pipeline pressures persist but broad goods disinflation and stable energy keep PPI near ~1.7%.",
+      "id": "3ac54772-a171-44dc-b615-1304305d3f49",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Japan BoJ Tankan Q4 2025 Large Manufacturers Business Conditions DI will print between +8 and +14.",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-12-13",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify in BoJ Tankan (Dec 2025) the Large Manufacturers Business Conditions Diffusion Index; value must be within +8 to +14.",
+      "evidence": [
+        "JPY depreciation supporting exporters",
+        "Mixed global manufacturing PMIs",
+        "Commodity input cost easing"
+      ],
+      "monitoring_signals": [
+        "Japan export orders in PMIs",
+        "Auto and electronics production data",
+        "Yen level vs. USD and CNY"
+      ],
+      "rationale": "Weaker yen and steady global demand support sentiment, but China softness caps upside.",
+      "id": "23d6d176-04c4-4a33-9af4-4abad6b67462",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "China foreign exchange reserves (USD) for November 2025 will print between $3.14T and $3.20T.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-12-07",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify via SAFE (State Administration of Foreign Exchange) monthly reserves report; total reserves in USD must be within $3.14\u2013$3.20 trillion.",
+      "evidence": [
+        "DXY movements impacting valuation of non-USD assets",
+        "Portfolio flow indicators",
+        "PBoC/SAFE historical month-to-month volatility"
+      ],
+      "monitoring_signals": [
+        "USD index and EUR/USD, USD/JPY levels",
+        "UST and Bund price changes (valuation effects)",
+        "SAFE FX settlement and sales data"
+      ],
+      "rationale": "Valuation effects and modest flows imply limited deviation from recent levels.",
+      "id": "718e0ea5-bdb1-461a-9f28-74223f12709d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show 'Finished motor gasoline, product supplied' at or above 9.2 million b/d in at least one report published by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 33,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "Verify in EIA WPSR (Table 3/4) weekly product supplied for finished motor gasoline; any report through 2025-12-31 with value \u2265 9,200 kb/d counts.",
+      "evidence": [
+        "Holiday travel can briefly lift gasoline demand",
+        "Mobility indicators remain resilient",
+        "Weather variability drives week-to-week swings"
+      ],
+      "monitoring_signals": [
+        "GasBuddy demand estimates",
+        "NOAA HDD/temperature anomalies",
+        "TSA checkpoint throughput",
+        "TomTom/Apple mobility trends"
+      ],
+      "rationale": "Seasonally low winter demand risks downside, but holiday spikes could breach 9.2 mb/d briefly.",
+      "id": "d48601c5-b36f-45fe-bd3c-ba96488deb3c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "From 2025-11-28 close to 2025-12-31 close, iShares Russell 2000 ETF (IWM) adjusted-close total return will outperform SPDR S&P 500 ETF (SPY) by at least 2.0 percentage points.",
+      "category": "markets",
+      "horizon_days": 33,
+      "deadline": "2025-12-31",
+      "confidence_pct": 48,
+      "verification_criteria": "Compute percentage change in adjusted close (dividends reinvested proxy) for IWM and SPY from 2025-11-28 close to 2025-12-31 close; IWM \u2013 SPY \u2265 +2.0 pp.",
+      "evidence": [
+        "Positioning in mega-cap tech is crowded",
+        "Seasonal small-cap tailwinds into year-end",
+        "Rates stabilization aids small-cap multiples"
+      ],
+      "monitoring_signals": [
+        "Breadth indicators (A/D lines)",
+        "High yield spreads vs. IG",
+        "MOVE/VIX levels and 2y/10y yields"
+      ],
+      "rationale": "Reversion from mega-cap concentration and seasonal flows can favor small caps into year-end.",
+      "id": "254c8947-4f26-418f-abe3-a64678bdb36c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NYMEX WTI front-month crude will settle at or above $82.00 per barrel on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 33,
+      "deadline": "2025-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Verify using CME/NYMEX official settlement for CL front-month; any settlement \u2265 $82.00 before 2025-12-31 (UTC) counts.",
+      "evidence": [
+        "Potential OPEC+ supply signals into year-end",
+        "Inventory draws and product cracks seasonality",
+        "Geopolitical risk premia"
+      ],
+      "monitoring_signals": [
+        "OPEC+ meeting outcomes and compliance",
+        "EIA crude/product inventory trends",
+        "Dollar index (DXY) and risk sentiment"
+      ],
+      "rationale": "Tightness risk and policy headlines can trigger a temporary price spike despite macro headwinds.",
+      "id": "f3a0bfeb-ad95-458e-a3a8-30598ee8ecbc",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. Housing Starts (SAAR, total) for November 2025 will print between 1.31 million and 1.42 million.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2025-12-17",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify in U.S. Census 'New Residential Construction' release; seasonally adjusted annual rate of total housing starts must be within 1.31\u20131.42 million.",
+      "evidence": [
+        "NAHB sentiment stabilization",
+        "Mortgage rate pullback from highs",
+        "Single-family permits trend"
+      ],
+      "monitoring_signals": [
+        "MBA mortgage applications",
+        "NAHB/Wells Fargo HMI",
+        "Building permits (prior month) and regional starts"
+      ],
+      "rationale": "Lower rates and improving builder sentiment support a modest rebound within a tight range.",
+      "id": "612615b0-c72f-4bc3-90f3-b2d623e7105a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Core CPI (MoM, SA; all items less food and energy) for November 2025 will print between +0.1% and +0.3% in the BLS release.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-12-12",
+      "confidence_pct": 62,
+      "verification_criteria": "Verify in BLS CPI News Release for Nov 2025: seasonally adjusted monthly percent change of 'All items less food and energy' must be within +0.1% to +0.3%.",
+      "evidence": [
+        "Rent disinflation from private indices (ZORI) feeds slowly",
+        "Used car prices mixed; airfare and medical volatile but contained",
+        "Goods deflation offsets sticky services"
+      ],
+      "monitoring_signals": [
+        "Manheim Used Vehicle Value Index",
+        "Apartment rent trackers (ZORI, Apartment List)",
+        "Airfare and lodging price data",
+        "PCE deflators preview signals"
+      ],
+      "rationale": "Core services remain sticky but cooling shelter keeps monthly core near the 0.2% trend.",
+      "id": "632fdaa3-280b-4ba0-9a67-0d606889f3a7",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Euro area S&P Global Services PMI Final (headline) for November 2025 will print between 48.5 and 50.5.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-12-04",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify in S&P Global Eurozone Services PMI Final Nov 2025 press release; headline index must be within 48.5\u201350.5.",
+      "evidence": [
+        "Flash prints near 50 amid weak demand",
+        "Energy prices stabilized",
+        "Labor markets still tight but easing"
+      ],
+      "monitoring_signals": [
+        "Country-level PMIs (DE, FR, IT, ES) revisions",
+        "Energy and utility price moves",
+        "Eurozone consumer sentiment"
+      ],
+      "rationale": "Final revisions typically small; services hover around stagnation near 50.",
+      "id": "65b2aa5f-ecf5-4532-88b4-3e6fa76b96bc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The UK will announce at least one Iran-related sanctions designation by 2025-12-31 via an official gov.uk press release (FCDO or HM Treasury/OFSI).",
+      "category": "geopolitics",
+      "horizon_days": 33,
+      "deadline": "2025-12-31",
+      "confidence_pct": 50,
+      "verification_criteria": "A press release on gov.uk from FCDO or HM Treasury/OFSI between now and 2025-12-31 must explicitly announce a new Iran-related designation.",
+      "evidence": [
+        "Ongoing UK coordination with US/EU on Iran sanctions",
+        "Recent regional security incidents",
+        "Pattern of year-end sanctions packages"
+      ],
+      "monitoring_signals": [
+        "FCDO/OFSI press release feeds",
+        "EU/US Iran-related actions",
+        "Iran regional activity and UK parliamentary statements"
+      ],
+      "rationale": "Coordination dynamics and year-end actions raise odds of at least one Iran-related UK designation.",
+      "id": "8a313b9a-2641-4e9f-8ac0-3ccd20204e55",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CISA will add at least 12 CVEs to the Known Exploited Vulnerabilities (KEV) catalog with Date Added between 2025-12-01 and 2025-12-15 inclusive.",
+      "category": "tech",
+      "horizon_days": 17,
+      "deadline": "2025-12-15",
+      "confidence_pct": 46,
+      "verification_criteria": "Count entries on CISA KEV catalog where 'Date Added' is between 2025-12-01 and 2025-12-15 inclusive; total must be \u2265 12.",
+      "evidence": [
+        "Typical December Patch Tuesday spikes additions",
+        "Recent exploit reports across enterprise software",
+        "Increased Chrome/Android zero-day cadence"
+      ],
+      "monitoring_signals": [
+        "Microsoft Patch Tuesday (Dec)",
+        "Google Chrome/Android security bulletins",
+        "Vendor advisories (Cisco, Ivanti, Atlassian)",
+        "Shadowserver/GTSC exploit telemetry"
+      ],
+      "supersedes_id": "8881caa5-7016-4b69-937e-33b6325b793a",
+      "rationale": "Historical mid-December surges justify a higher threshold than 10 while allowing for variability in KEV additions.",
+      "id": "265ddebc-e321-4c21-b4c1-edddeb674fe2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
