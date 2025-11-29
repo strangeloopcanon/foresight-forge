@@ -1196,3 +1196,12 @@ Focus for the next cycle should be on near-term data drops: Tokyo CPI confirmati
 
 ---
 
+
+## 2025-11-28
+
+Today’s headlines focus on U.S. political developments, a tragic Hong Kong fire, equity market strength into the holiday period, and various corporate and technology stories. None provide direct evidence to resolve the macroeconomic data prints (UK CPI, U.S. PPI/CPI, BoJ Tankan, China FX reserves, Euro area PMI, U.S. housing starts) or the policy/sanctions and cybersecurity items. Likewise, path-dependent market forecasts (IWM vs. SPY relative return, WTI ≥ $82 settle, gasoline product supplied ≥ 9.2 mb/d) are still open with no conclusive signals in the coverage.
+
+Near-term watch points include the Euro area services PMI final (around Dec 4) and China’s FX reserves (around Dec 7), followed by U.S. CPI/PPI and housing starts in mid-December, and the BoJ Tankan. For the market-linked calls, we will monitor daily WTI settlements from CME/NYMEX, EIA weekly petroleum reports, and end-period ETF total returns. For sanctions and vulnerabilities, official UK government press releases (FCDO/OFSI) and CISA’s KEV dashboard will be the authoritative sources.
+
+---
+

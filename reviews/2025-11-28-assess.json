@@ -1,0 +1,65 @@
+{
+  "date": "2025-11-28",
+  "assessments": [
+    {
+      "id": "97571a70-c7c4-4442-94cc-8b45f3f31940",
+      "status": "pending",
+      "status_rationale": "No official ONS release for November 2025 UK CPI yet; none of today's news references a CPI print."
+    },
+    {
+      "id": "3ac54772-a171-44dc-b615-1304305d3f49",
+      "status": "pending",
+      "status_rationale": "The November 2025 U.S. PPI release is due in December; no coverage in today's news."
+    },
+    {
+      "id": "23d6d176-04c4-4a33-9af4-4abad6b67462",
+      "status": "pending",
+      "status_rationale": "BoJ Tankan Q4 2025 is typically released mid-December; no result reported in today's articles."
+    },
+    {
+      "id": "718e0ea5-bdb1-461a-9f28-74223f12709d",
+      "status": "pending",
+      "status_rationale": "China\u2019s November FX reserves (SAFE) are expected in early December; no mention in the news items."
+    },
+    {
+      "id": "d48601c5-b36f-45fe-bd3c-ba96488deb3c",
+      "status": "pending",
+      "status_rationale": "Year-end window remains open and no EIA weekly report cited shows the specified gasoline product supplied threshold."
+    },
+    {
+      "id": "254c8947-4f26-418f-abe3-a64678bdb36c",
+      "status": "pending",
+      "status_rationale": "Performance window runs through 2025-12-31; one day into the period is insufficient to judge, and no definitive performance spread reported."
+    },
+    {
+      "id": "f3a0bfeb-ad95-458e-a3a8-30598ee8ecbc",
+      "status": "pending",
+      "status_rationale": "No evidence today that WTI has settled at or above $82 during the window; outcome still possible before 2025-12-31."
+    },
+    {
+      "id": "612615b0-c72f-4bc3-90f3-b2d623e7105a",
+      "status": "pending",
+      "status_rationale": "November 2025 U.S. Housing Starts are due mid-December; not referenced in today's reporting."
+    },
+    {
+      "id": "632fdaa3-280b-4ba0-9a67-0d606889f3a7",
+      "status": "pending",
+      "status_rationale": "November 2025 U.S. Core CPI will be released in December; no data in today\u2019s headlines."
+    },
+    {
+      "id": "65b2aa5f-ecf5-4532-88b4-3e6fa76b96bc",
+      "status": "pending",
+      "status_rationale": "Euro area November Services PMI final is due around 2025-12-04; not covered in today\u2019s news."
+    },
+    {
+      "id": "8a313b9a-2641-4e9f-8ac0-3ccd20204e55",
+      "status": "pending",
+      "status_rationale": "No UK Iran-related sanctions announcement noted; articles mention sanctions by South Korea, not the UK."
+    },
+    {
+      "id": "265ddebc-e321-4c21-b4c1-edddeb674fe2",
+      "status": "pending",
+      "status_rationale": "The relevant KEV window (2025-12-01 to 2025-12-15) has not begun; no CISA updates cited."
+    }
+  ]
+}

@@ -21,7 +21,7 @@
       ],
       "rationale": "Services disinflation and energy base effects likely cap headline CPI near 4% with limited upside risk.",
       "id": "97571a70-c7c4-4442-94cc-8b45f3f31940",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Moderate pipeline pressures persist but broad goods disinflation and stable energy keep PPI near ~1.7%.",
       "id": "3ac54772-a171-44dc-b615-1304305d3f49",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Weaker yen and steady global demand support sentiment, but China softness caps upside.",
       "id": "23d6d176-04c4-4a33-9af4-4abad6b67462",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "Valuation effects and modest flows imply limited deviation from recent levels.",
       "id": "718e0ea5-bdb1-461a-9f28-74223f12709d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "Seasonally low winter demand risks downside, but holiday spikes could breach 9.2 mb/d briefly.",
       "id": "d48601c5-b36f-45fe-bd3c-ba96488deb3c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "Reversion from mega-cap concentration and seasonal flows can favor small caps into year-end.",
       "id": "254c8947-4f26-418f-abe3-a64678bdb36c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "rationale": "Tightness risk and policy headlines can trigger a temporary price spike despite macro headwinds.",
       "id": "f3a0bfeb-ad95-458e-a3a8-30598ee8ecbc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -176,7 +176,7 @@
       ],
       "rationale": "Lower rates and improving builder sentiment support a modest rebound within a tight range.",
       "id": "612615b0-c72f-4bc3-90f3-b2d623e7105a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "Core services remain sticky but cooling shelter keeps monthly core near the 0.2% trend.",
       "id": "632fdaa3-280b-4ba0-9a67-0d606889f3a7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -221,7 +221,7 @@
       ],
       "rationale": "Final revisions typically small; services hover around stagnation near 50.",
       "id": "65b2aa5f-ecf5-4532-88b4-3e6fa76b96bc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -243,7 +243,7 @@
       ],
       "rationale": "Coordination dynamics and year-end actions raise odds of at least one Iran-related UK designation.",
       "id": "8a313b9a-2641-4e9f-8ac0-3ccd20204e55",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -267,7 +267,7 @@
       "supersedes_id": "8881caa5-7016-4b69-937e-33b6325b793a",
       "rationale": "Historical mid-December surges justify a higher threshold than 10 while allowing for variability in KEV additions.",
       "id": "265ddebc-e321-4c21-b4c1-edddeb674fe2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

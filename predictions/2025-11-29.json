@@ -1,0 +1,281 @@
+{
+  "date": "2025-11-29",
+  "predictions": [
+    {
+      "text": "U.S. Core PCE Price Index (MoM, SA) for November 2025 will print between +0.1% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 21,
+      "deadline": "2025-12-20",
+      "confidence_pct": 64,
+      "log_odds": 0.575,
+      "verification_criteria": "Verified via BEA 'Personal Income and Outlays, November 2025' news release: the Core PCE Price Index monthly percent change (seasonally adjusted) must be >= +0.1% and <= +0.3%.",
+      "evidence": [
+        "Recent trend of core disinflation with monthly prints near 0.2%.",
+        "MarketWatch: Consumers entering holidays with spending plans intact.",
+        "Fed communication consistent with gradual inflation cooling into year-end."
+      ],
+      "monitoring_signals": [
+        "BLS CPI core services ex-housing momentum vs PCE translation factors.",
+        "PPI core excluding food/energy/trade services.",
+        "High-frequency card data and retail discounting intensity.",
+        "Unit labor cost revisions and productivity data."
+      ],
+      "rationale": "Core PCE has been running near 0.2% MoM; discounting and slower shelter pass-through support a 0.1\u20130.3% outcome.",
+      "id": "813947fa-379e-49f5-b023-075b84055ef4",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Advance Retail and Food Services Sales (headline, MoM, SA) for November 2025 will print between -0.3% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 17,
+      "deadline": "2025-12-16",
+      "confidence_pct": 58,
+      "log_odds": 0.323,
+      "verification_criteria": "Verified via U.S. Census Bureau 'Advance Monthly Retail and Food Services Sales' for Nov 2025: headline percent change from prior month (seasonally adjusted) must be within -0.3% to +0.3%.",
+      "evidence": [
+        "MarketWatch: Consumers remain resilient heading into holidays, but margins tight.",
+        "Lower gasoline prices can dampen nominal sales despite steady real demand."
+      ],
+      "monitoring_signals": [
+        "Bank/processor card-spend trackers (BAC/GS/Amex).",
+        "Redbook weekly same-store sales.",
+        "Auto SAAR and incentives.",
+        "Adobe holiday e-commerce spend trackers.",
+        "Gasoline prices and volumes (EIA product supplied)."
+      ],
+      "rationale": "Holiday spending looks steady but not exuberant; fuel price declines and discounting likely flatten the nominal headline.",
+      "id": "9c02eb87-4503-40c2-8736-134f88a9928e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "India CPI (Combined, YoY) for November 2025 will print between 4.6% and 5.4%.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-12-13",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "Verified via India NSO CPI (Combined) November 2025 press release: the all-India headline YoY inflation rate must be within 4.6%\u20135.4%.",
+      "evidence": [
+        "CNBC: India GDP grew 8.2%, domestic demand strong.",
+        "Food inflation volatility moderating from prior spikes; core relatively contained."
+      ],
+      "monitoring_signals": [
+        "High-frequency food price indices (vegetables, cereals, pulses).",
+        "Fuel price adjustments and LPG subsidies.",
+        "RBI commentary and expectations from surveys.",
+        "Rainfall/harvest updates affecting perishables."
+      ],
+      "rationale": "Strong growth with moderating food pressures suggests CPI near but above RBI\u2019s 4% target, within a mid-4s to mid-5s band.",
+      "id": "6dcf61f4-e3ac-40d1-8fae-674242ba7eb8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show U.S. commercial crude oil stocks (excluding SPR) declining by at least 8.0 million barrels in at least one report by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 32,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Verified via EIA Weekly Petroleum Status Report: any weekly report published through 2025-12-31 shows 'Crude Oil (Excl. SPR) change' <= -8.0 million barrels from prior week.",
+      "evidence": [
+        "Year-end swings from exports and refinery runs can trigger large draws.",
+        "Prospect of OPEC+ action supports stronger export pull and runs."
+      ],
+      "monitoring_signals": [
+        "API weekly crude stock changes (Tuesday).",
+        "Refinery utilization rates and crude runs (PADD 3).",
+        "Net crude imports/exports and SPR adjustments.",
+        "Gulf Coast weather/fog affecting loadings."
+      ],
+      "rationale": "Seasonal year-end dynamics and firm export demand create tail risk for an 8+ million barrel draw in one of the December weeks.",
+      "id": "de76cb54-38ab-4938-9919-6ae708e4c442",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Arabica Coffee (KC) front-month futures will settle at or above 230.00 cents/lb on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 32,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Verified via ICE Futures U.S. official settlement prices: the front-month Arabica Coffee contract settles >= 230.00 c/lb on any trading day through 2025-12-31 (UTC).",
+      "evidence": [
+        "CNBC: Coffee prices near multi-decade highs amid supply constraints.",
+        "Tight ICE certified stocks and weather risks in Brazil/Colombia."
+      ],
+      "monitoring_signals": [
+        "ICE certified stock levels and grading activity.",
+        "Brazil rainfall anomalies and CONAB updates.",
+        "USD index (DXY) and BRL exchange rate.",
+        "CFTC managed money positioning."
+      ],
+      "rationale": "Supply constraints and weather risk into year-end keep upside tails; a single 230+ c/lb settle is plausible.",
+      "id": "4fc97642-4f98-4a4e-adc3-409fa987d2bf",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 2s10s Treasury yield spread (FRED: T10Y2Y) will close at or above 0.00% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 32,
+      "deadline": "2025-12-31",
+      "confidence_pct": 41,
+      "log_odds": -0.364,
+      "verification_criteria": "Verified via FRED series T10Y2Y daily close: any value >= 0.00% on or before 2025-12-31 counts.",
+      "evidence": [
+        "Late-year rallies have compressed long-end yields; steepening risk lingers.",
+        "Potential Fed policy signaling may lift front-end cut expectations."
+      ],
+      "monitoring_signals": [
+        "CPI/PCE prints vs expectations.",
+        "FOMC/Dot plot and Fed speak.",
+        "Treasury refunding and term premium proxies.",
+        "UST auctions (2Y/10Y bid-to-cover, tails)."
+      ],
+      "rationale": "A modest steepening impulse from policy or growth surprises could briefly erase inversion before year-end.",
+      "id": "33f8d88a-503f-4153-9d6d-fd0c2c954a17",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "CISA will add at least 10 CVEs to the Known Exploited Vulnerabilities (KEV) catalog with Date Added between 2025-12-16 and 2025-12-31 inclusive.",
+      "category": "tech",
+      "horizon_days": 32,
+      "deadline": "2025-12-31",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Verified via CISA KEV catalog (JSON or web): count of entries with 'Date Added' between 2025-12-16 and 2025-12-31 inclusive is >= 10.",
+      "evidence": [
+        "KEV additions often cluster around vendor advisories and post-Patch Tuesday discoveries.",
+        "Seasonal end-of-year disclosures can elevate counts."
+      ],
+      "monitoring_signals": [
+        "CISA KEV RSS/JSON updates.",
+        "Zero-day reports from Google TAG/Mandiant.",
+        "Vendor emergency advisories (e.g., Cisco, VMware, Atlassian, Adobe).",
+        "Exploit kit activity and ransomware TTP reports."
+      ],
+      "rationale": "Even with holidays, exploited vulns are frequently backfilled into KEV after mid-month as exploitation is confirmed.",
+      "id": "52aadd2d-51df-4593-804d-1b7e20cf3859",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The EU will announce at least one new Iran-related sanctions designation by 2025-12-31 via an official Council press release or the Official Journal.",
+      "category": "geopolitics",
+      "horizon_days": 32,
+      "deadline": "2025-12-31",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Verified by a Council of the EU press release and/or publication in the Official Journal listing new Iran-related designations between now and 2025-12-31.",
+      "evidence": [
+        "Heightened regional tensions and allied (US/UK) Iran designations increase EU action likelihood.",
+        "EU routinely refreshes restrictive measures before year-end meetings."
+      ],
+      "monitoring_signals": [
+        "FAC agendas and Council press room updates.",
+        "E3 (France/Germany/UK) statements on Iran.",
+        "EU Parliament/Council debates on sanctions.",
+        "Coordinated rollout with OFAC/OFSI."
+      ],
+      "rationale": "Coordinated transatlantic pressure and year-end Council cycles make at least one Iran-related addition plausible.",
+      "id": "65543736-cbef-4c05-a316-5f365372df28",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe VIX will close at or below 11.50 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 32,
+      "deadline": "2025-12-31",
+      "confidence_pct": 49,
+      "log_odds": -0.04,
+      "verification_criteria": "Verified using Cboe VIX historical close data: any daily close price <= 11.50 on or before 2025-12-31 (UTC) counts.",
+      "evidence": [
+        "MarketWatch: Best Thanksgiving week since 2008; S&P near records.",
+        "Year-end seasonality often suppresses implied volatility absent shocks."
+      ],
+      "monitoring_signals": [
+        "Realized vol (20d) vs implied vol spread.",
+        "Event risk calendar (FOMC, CPI, geopolitics).",
+        "Options positioning and skew.",
+        "Liquidity/market depth conditions into year-end."
+      ],
+      "rationale": "Calm macro and supportive liquidity can briefly push VIX into the low 11s before year-end.",
+      "id": "c4d352c9-1e63-4b87-8d44-3086b00415df",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Euro area (EA20) S&P Global Manufacturing PMI Final for November 2025 will print between 46.0 and 48.0.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-12-02",
+      "confidence_pct": 62,
+      "log_odds": 0.489,
+      "verification_criteria": "Verified via S&P Global press release/data for EA20 Manufacturing PMI Final (Nov 2025): headline index value must be within 46.0\u201348.0.",
+      "evidence": [
+        "Euro manufacturing remains subdued amid weak external demand and tight financial conditions.",
+        "Energy prices and Germany\u2019s industrial softness cap improvements."
+      ],
+      "monitoring_signals": [
+        "Flash PMI and national PMIs (DE, FR, IT, ES).",
+        "ZEW/Ifo surveys and new orders components.",
+        "Energy price dynamics (TTF) and export orders."
+      ],
+      "rationale": "Incremental stabilization but still contractionary; final typically tracks flash closely within a narrow band.",
+      "id": "a05c8376-37b6-4d66-8878-6a4b4d49a940",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Cisco PSIRT will publish at least one security advisory in December 2025 with a CVSS v3.x Base Score >= 9.0.",
+      "category": "tech",
+      "horizon_days": 32,
+      "deadline": "2025-12-31",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Verified via security-advisories.cisco.com: any advisory dated 2025-12-01 to 2025-12-31 includes CVSS v3.x Base Score >= 9.0 (Critical).",
+      "evidence": [
+        "Vendors often issue critical advisories around Patch Tuesday or out-of-band fixes.",
+        "Cisco historically posts multiple high/critical advisories quarterly."
+      ],
+      "monitoring_signals": [
+        "Cisco PSIRT RSS feed and Talos blog.",
+        "CISA KEV additions referencing Cisco products.",
+        "Shadowserver and CERT/CC alerts."
+      ],
+      "rationale": "Large vendor footprint and ongoing exposure surface make at least one critical December advisory likely.",
+      "id": "a5418664-c617-40ce-be32-fec6aee2191a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NOAA SWPC will issue at least one G2 (Moderate) geomagnetic storm Watch or Warning by 2025-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 32,
+      "deadline": "2025-12-31",
+      "confidence_pct": 65,
+      "log_odds": 0.619,
+      "verification_criteria": "Verified via NOAA SWPC alerts/archive: any G2 (Moderate) geomagnetic storm Watch or Warning issued between now and 2025-12-31 (UTC) satisfies the condition.",
+      "evidence": [
+        "Airbus: heightened solar radiation impacted avionics data integrity, implying elevated space weather.",
+        "Solar maximum increases frequency of G2+ events."
+      ],
+      "monitoring_signals": [
+        "SWPC 27-day outlook and alert feed.",
+        "Sunspot number and 10.7 cm solar flux.",
+        "CME detections (SOHO/SDO) and Kp forecasts.",
+        "Ground magnetometer indices (Kp/Ap)."
+      ],
+      "rationale": "At solar maximum, G2 watches/warnings are common; recent solar activity affecting aviation suggests sustained elevated conditions.",
+      "id": "df33e797-a43f-425d-a644-619203c05cf4",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}
