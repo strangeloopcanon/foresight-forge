@@ -1,0 +1,225 @@
+{
+  "date": "2025-11-30",
+  "predictions": [
+    {
+      "text": "U.S. Unemployment Rate (U-3, seasonally adjusted) for November 2025 will print between 3.8% and 4.2%.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-12-06",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify using the BLS Employment Situation news release for November 2025; accept the headline unemployment rate (Table A-1) as the official value.",
+      "evidence": [
+        "https://www.bls.gov/news.release/empsit.nr0.htm",
+        "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4"
+      ],
+      "monitoring_signals": [
+        "Weekly initial and continuing jobless claims trends",
+        "Household survey employment and labor force participation rate",
+        "Challenger job-cut announcements",
+        "NFIB hiring plans and ISM employment subindices"
+      ],
+      "rationale": "Labor market is cooling gradually but remains resilient; claims and hiring surveys suggest a tight but easing jobs market.",
+      "id": "f9602b56-02e7-40e3-91f0-9d03665c1b38",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI (headline, YoY, NSA) for November 2025 will print between 3.0% and 3.4%.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-12-12",
+      "confidence_pct": 57,
+      "verification_criteria": "Confirm from the BLS CPI news release for November 2025; use the all-items CPI year-over-year percent change (NSA) as published.",
+      "evidence": [
+        "https://www.bls.gov/news.release/cpi.nr0.htm",
+        "https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/"
+      ],
+      "monitoring_signals": [
+        "Gasoline and energy price trends (EIA weekly retail, crude futures)",
+        "Used car auction prices (Manheim Index)",
+        "Rents and OER measures in private datasets",
+        "Food commodity price indices"
+      ],
+      "rationale": "Disinflation trend persists; energy volatility and steady services inflation likely keep YoY near low-3%.",
+      "id": "c39559b1-0d81-49b5-8ab6-58f13af8ff9e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing Employment Index for November 2025 will print between 47.5 and 50.5.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-12-04",
+      "confidence_pct": 54,
+      "verification_criteria": "Use the Institute for Supply Management\u2019s official November 2025 report; verify the Employment Index value.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/",
+        "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4"
+      ],
+      "monitoring_signals": [
+        "Regional Fed manufacturing employment components",
+        "S&P Global Manufacturing employment subindex",
+        "Jobless claims in manufacturing-heavy states",
+        "Auto production schedules and aerospace order books"
+      ],
+      "rationale": "Factory hiring remains soft amid subdued output, but layoffs are limited; employment likely hovers near contraction/neutral.",
+      "id": "ad83d214-6856-414c-b307-26e6f6f6fdf2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "S&P Global US Manufacturing PMI Final (headline) for November 2025 will print between 51.0 and 52.3.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-12-02",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirm from S&P Global\u2019s US Manufacturing PMI Final November 2025 report; use the headline seasonally adjusted index.",
+      "evidence": [
+        "https://www.spglobal.com/marketintelligence/en/mi/research-analysis/us-pmi.html",
+        "https://www.cnbc.com/2025/11/29/silver-hit-record-highs-in-2025-and-still-has-further-to-run.html"
+      ],
+      "monitoring_signals": [
+        "Flash PMI reading and revisions history",
+        "Export orders and new orders components",
+        "Supplier delivery times and input cost indices",
+        "Dollar index (DXY) and global demand indicators"
+      ],
+      "rationale": "Flash readings suggest modest expansion; final prints typically see small revisions.",
+      "id": "8a7ec486-cd77-46ee-9d73-87a9bddd845a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "UK Monthly GDP (October 2025, m/m, seasonally adjusted) will print between -0.2% and +0.2%.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-12-12",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify via the ONS GDP monthly estimate release; use the month-over-month growth rate for October 2025.",
+      "evidence": [
+        "https://www.ons.gov.uk/releases/gdpmonthlyestimateuk",
+        "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4"
+      ],
+      "monitoring_signals": [
+        "UK PMI output indices (manufacturing/services)",
+        "Retail sales volumes and card spending",
+        "Industrial production and construction output",
+        "Energy usage/weather-related effects"
+      ],
+      "rationale": "Activity remains near flat amid weak manufacturing and cautious consumers; services provide some offset.",
+      "id": "050a25a3-6a90-4d89-8ad0-835ee2e8fc3d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will announce at least one Venezuela-related sanctions designation by 2025-12-31 (UTC) via a U.S. Treasury press release.",
+      "category": "geopolitics",
+      "horizon_days": 31,
+      "deadline": "2025-12-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Check U.S. Treasury press releases for a sanctions action explicitly referencing Venezuela (country program or targets) dated on/before 2025-12-31 (UTC).",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://www.nytimes.com/2025/11/29/us/politics/trump-venezuela-maduro-airspace.html"
+      ],
+      "monitoring_signals": [
+        "U.S.\u2013Venezuela diplomatic statements and deadlines",
+        "Elections, opposition negotiations, and human rights reports",
+        "Oil sector developments and sanctions waivers",
+        "Allied actions (EU, UK sanctions) and coordination"
+      ],
+      "rationale": "Escalating U.S. pressure and evolving aviation/energy restrictions increase probability of year-end sanctions activity.",
+      "id": "5313f35e-94ce-44f9-8837-08e499b1e6bb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OpenAI will publish an official blog post or press release announcing the introduction of advertisements in ChatGPT for general users by 2025-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 31,
+      "deadline": "2025-12-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Verify by presence of an OpenAI blog or press post explicitly announcing ads in ChatGPT, dated on/before 2025-12-31 (UTC).",
+      "evidence": [
+        "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/",
+        "https://openai.com/blog"
+      ],
+      "monitoring_signals": [
+        "Internal app UI tests or ad placeholders discovered",
+        "Partner advertiser announcements",
+        "OpenAI policy and product update posts",
+        "SDK/API billing or feature changes tied to ads"
+      ],
+      "rationale": "Leaked plans and monetization pressures suggest imminent formalization of an ad-supported model.",
+      "id": "8b7eb362-2469-4091-8a82-8df5b45819db",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "COMEX Silver front-month futures will settle at or above $32.00 per troy ounce on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 31,
+      "deadline": "2025-12-31",
+      "confidence_pct": 51,
+      "verification_criteria": "Confirm using CME Group official settlement prices for the most-active (front-month) Silver (SI) futures contract on/before 2025-12-31 (UTC).",
+      "evidence": [
+        "https://www.cnbc.com/2025/11/29/silver-hit-record-highs-in-2025-and-still-has-further-to-run.html",
+        "https://www.cmegroup.com/markets/metals/precious/silver.quotes.html"
+      ],
+      "monitoring_signals": [
+        "DXY and U.S. real yields (TIPS)",
+        "Solar PV demand and electronics sector indicators",
+        "ETF flows (e.g., SLV) and CFTC positioning",
+        "Gold price momentum and risk sentiment"
+      ],
+      "rationale": "Tight physical markets, strong solar demand, and supportive macro (stable USD/real yields) make a spike plausible.",
+      "id": "9a3da8ea-014e-47a3-a5d3-6afec4fcfcfc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex TTF front-month natural gas will settle at or above \u20ac50.00/MWh on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 31,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "Use ICE Endex official settlement prices for the TTF front-month contract on/before 2025-12-31 (UTC).",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures",
+        "https://www.nytimes.com/2025/11/29/us/politics/trump-venezuela-maduro-airspace.html"
+      ],
+      "monitoring_signals": [
+        "European weather forecasts (HDDs) and cold snaps",
+        "LNG supply disruptions and Norwegian pipeline flows",
+        "Storage levels vs. 5-year averages",
+        "Geopolitical risks affecting energy logistics"
+      ],
+      "rationale": "Winter demand, potential LNG/flow outages, and geopolitics could trigger a temporary price spike.",
+      "id": "4711d4c0-555a-4bc1-8c14-afa7a7dcfb85",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 4.25% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 31,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "verification_criteria": "Verify with FRED series DGS2 daily close at or below 4.25% on any trading day through 2025-12-31 (UTC).",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4"
+      ],
+      "monitoring_signals": [
+        "Core PCE/CPI prints and inflation expectations",
+        "Employment data surprises (NFP, jobless claims)",
+        "FOMC communications and dot-plot expectations",
+        "Financial conditions index and term premium moves"
+      ],
+      "rationale": "Softening inflation and growth data could pull forward cut expectations, nudging 2-year yields lower temporarily.",
+      "id": "2f0b9b82-1ded-42c3-aa56-ddb949c010dc",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

@@ -1205,3 +1205,12 @@ Near-term watch points include the Euro area services PMI final (around Dec 4) a
 
 ---
 
+
+## 2025-11-29
+
+Today’s news focused primarily on U.S. politics, geopolitical developments, and consumer anecdotes around Black Friday, with some market commentary and science/tech items. None of the bullets provided authoritative releases or market closes directly tied to the specified economic indicators, commodities, or security advisories.
+
+Given the lack of definitive data points or official notices, all tracked predictions remain pending. Key upcoming checkpoints include the euro area final PMI (by Dec 2), India CPI (mid-December), U.S. retail sales (Dec 16), and Core PCE (Dec 20), along with ongoing market indicators (VIX, 2s10s) and December-centric security and sanctions events.
+
+---
+

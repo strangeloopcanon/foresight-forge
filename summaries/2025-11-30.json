@@ -1,0 +1,99 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. Black Friday online spending hit $11.8B, defying economic worries and tariffs, signaling resilient consumer demand into the holidays.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/"
+    },
+    {
+      "text": "Fed hawks and doves spar over December rate cuts; jobs data, inflation expectations, and financial conditions will decide, keeping policy and markets uncertain.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/as-fed-hawks-and-doves-battle-over-rate-cuts-investors-need-to-watch-these-critical-clues-f07da3a4?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Silver hit record highs in 2025 on solar, electronics and safe-haven demand; analysts see further upside amid supply constraints.",
+      "tags": [
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/11/29/silver-hit-record-highs-in-2025-and-still-has-further-to-run.html"
+    },
+    {
+      "text": "Airbus orders software fix for thousands of jets over solar radiation risk; airlines report disruptions, though some fleets report remediation completed.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/11/29/airbus-orders-software-fix-to-thousands-of-planes-due-to-solar-radiation-risk/"
+    },
+    {
+      "text": "U.S. closes Venezuelan airspace, escalating pressure on Maduro and risking aviation, trade and energy logistics disruptions in the region.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/11/29/us/politics/trump-venezuela-maduro-airspace.html"
+    },
+    {
+      "text": "Trump plans to pardon convicted Honduran ex-president Hern\u00e1ndez, undercutting anti-narcotics messaging and complicating regional security partnerships.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/29/nyregion/honduras-hernandez-drug-trafficking.html"
+    },
+    {
+      "text": "Top Trump aides will meet Ukrainian officials in Florida, signaling backchannel diplomacy that could shape U.S.-Ukraine policy and aid trajectory.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/11/29/us/politics/trump-aides-ukraine-florida-meeting.html"
+    },
+    {
+      "text": "F.D.A. seeks tighter oversight of vaccine trials and approvals after safety lapses, likely extending timelines and compliance costs for biopharma.",
+      "tags": [
+        "science",
+        "other"
+      ],
+      "link": "https://www.nytimes.com/2025/11/28/health/fda-children-deaths-covid-vaccines.html"
+    },
+    {
+      "text": "Researchers report potential dark matter signal after decades of null results; confirmation would transform fundamental physics and astrophysics.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251129053349.htm"
+    },
+    {
+      "text": "Hidden blood molecules show strong anti-aging effects in animals, highlighting promising therapeutic targets for longevity biotech.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/11/251128050514.htm"
+    },
+    {
+      "text": "New York targets personalized pricing with new law, forcing transparency and limits on algorithmic price discrimination in retail and e-commerce.",
+      "tags": [
+        "tech",
+        "markets",
+        "other"
+      ],
+      "link": "https://techcrunch.com/2025/11/29/new-york-state-law-takes-aim-at-personalized-pricing/"
+    },
+    {
+      "text": "OpenAI preparing ads for ChatGPT, signaling shift toward ad-supported AI and new monetization dynamics that could impact user experience and competitors.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/"
+    }
+  ]
+}

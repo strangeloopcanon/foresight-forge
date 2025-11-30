@@ -1,0 +1,65 @@
+{
+  "date": "2025-11-29",
+  "assessments": [
+    {
+      "id": "813947fa-379e-49f5-b023-075b84055ef4",
+      "status": "pending",
+      "status_rationale": "No BEA release or reporting of the November 2025 Core PCE print in today's news; deadline is later in December."
+    },
+    {
+      "id": "9c02eb87-4503-40c2-8736-134f88a9928e",
+      "status": "pending",
+      "status_rationale": "Headlines mention Black Friday spending, but there is no official Census Bureau Advance Retail Sales print for November 2025 yet."
+    },
+    {
+      "id": "6dcf61f4-e3ac-40d1-8fae-674242ba7eb8",
+      "status": "pending",
+      "status_rationale": "No report of India\u2019s November 2025 CPI in the news bullets; release typically mid-December."
+    },
+    {
+      "id": "de76cb54-38ab-4938-9919-6ae708e4c442",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report cited showing an 8+ million barrel crude draw."
+    },
+    {
+      "id": "4fc97642-4f98-4a4e-adc3-409fa987d2bf",
+      "status": "pending",
+      "status_rationale": "No mention of ICE Arabica Coffee futures reaching or exceeding 230.00 cents/lb."
+    },
+    {
+      "id": "33f8d88a-503f-4153-9d6d-fd0c2c954a17",
+      "status": "pending",
+      "status_rationale": "No evidence provided of the U.S. 2s10s spread closing at or above 0.00% on any day."
+    },
+    {
+      "id": "52aadd2d-51df-4593-804d-1b7e20cf3859",
+      "status": "pending",
+      "status_rationale": "Window for KEV additions begins Dec 16; no relevant CISA updates in today\u2019s news."
+    },
+    {
+      "id": "65543736-cbef-4c05-a316-5f365372df28",
+      "status": "pending",
+      "status_rationale": "No EU press release or Official Journal entry on new Iran-related sanctions is noted."
+    },
+    {
+      "id": "c4d352c9-1e63-4b87-8d44-3086b00415df",
+      "status": "pending",
+      "status_rationale": "No report of VIX closing at or below 11.50."
+    },
+    {
+      "id": "a05c8376-37b6-4d66-8878-6a4b4d49a940",
+      "status": "pending",
+      "status_rationale": "Final Euro area Manufacturing PMI for November 2025 is not reported in the bullets; release expected by Dec 2."
+    },
+    {
+      "id": "a5418664-c617-40ce-be32-fec6aee2191a",
+      "status": "pending",
+      "status_rationale": "No Cisco PSIRT advisory with CVSS \u2265 9.0 reported; December window not yet covered by today\u2019s news."
+    },
+    {
+      "id": "df33e797-a43f-425d-a644-619203c05cf4",
+      "status": "pending",
+      "status_rationale": "Despite mention of solar-flare-linked issues, there is no NOAA SWPC G2 Watch/Warning issuance cited."
+    }
+  ]
+}
