@@ -20,7 +20,7 @@
       ],
       "rationale": "Labor market is cooling gradually but remains resilient; claims and hiring surveys suggest a tight but easing jobs market.",
       "id": "f9602b56-02e7-40e3-91f0-9d03665c1b38",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Disinflation trend persists; energy volatility and steady services inflation likely keep YoY near low-3%.",
       "id": "c39559b1-0d81-49b5-8ab6-58f13af8ff9e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Factory hiring remains soft amid subdued output, but layoffs are limited; employment likely hovers near contraction/neutral.",
       "id": "ad83d214-6856-414c-b307-26e6f6f6fdf2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Flash readings suggest modest expansion; final prints typically see small revisions.",
       "id": "8a7ec486-cd77-46ee-9d73-87a9bddd845a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Activity remains near flat amid weak manufacturing and cautious consumers; services provide some offset.",
       "id": "050a25a3-6a90-4d89-8ad0-835ee2e8fc3d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Escalating U.S. pressure and evolving aviation/energy restrictions increase probability of year-end sanctions activity.",
       "id": "5313f35e-94ce-44f9-8837-08e499b1e6bb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Leaked plans and monetization pressures suggest imminent formalization of an ad-supported model.",
       "id": "8b7eb362-2469-4091-8a82-8df5b45819db",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Tight physical markets, strong solar demand, and supportive macro (stable USD/real yields) make a spike plausible.",
       "id": "9a3da8ea-014e-47a3-a5d3-6afec4fcfcfc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "Winter demand, potential LNG/flow outages, and geopolitics could trigger a temporary price spike.",
       "id": "4711d4c0-555a-4bc1-8c14-afa7a7dcfb85",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -218,7 +218,7 @@
       ],
       "rationale": "Softening inflation and growth data could pull forward cut expectations, nudging 2-year yields lower temporarily.",
       "id": "2f0b9b82-1ded-42c3-aa56-ddb949c010dc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

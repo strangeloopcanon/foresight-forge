@@ -1,0 +1,270 @@
+{
+  "date": "2025-12-01",
+  "predictions": [
+    {
+      "text": "ISM Services PMI (U.S., headline) for November 2025 will print between 50.0 and 52.5.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-12-05",
+      "confidence_pct": 58,
+      "verification_criteria": "Use the Institute for Supply Management 'Services PMI' headline index in the ISM Report On Business for November 2025 (first release). Range inclusive.",
+      "evidence": [
+        "U.S. services activity has been more resilient than manufacturing in recent months.",
+        "Cooling inflation and steady employment support modest services expansion.",
+        "S&P Global U.S. Services PMI levels have hovered near expansion territory."
+      ],
+      "monitoring_signals": [
+        "S&P Global U.S. Services PMI final reading",
+        "High-frequency card spend and airline/TSA throughput",
+        "NFIB services-related indicators",
+        "Regional Fed services surveys (e.g., Richmond, Dallas)"
+      ],
+      "rationale": "Services momentum remains modest; no sharp demand shock signaled.",
+      "id": "29d2ce02-61f1-4aeb-837c-82655bfe2f4f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Services Prices Index for November 2025 will print between 56.0 and 60.5.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-12-05",
+      "confidence_pct": 54,
+      "verification_criteria": "Use ISM Report On Business: Services 'Prices' subindex for November 2025 (first release). Range inclusive.",
+      "evidence": [
+        "Services input cost pressures have cooled but remain above neutral.",
+        "Energy prices off highs reduce broad cost pass-through.",
+        "Moderating wage growth tempers price momentum."
+      ],
+      "monitoring_signals": [
+        "Gasoline and diesel trends (AAA, EIA)",
+        "Wage indicators (Atlanta Fed Wage Growth Tracker)",
+        "PPI services components"
+      ],
+      "rationale": "Prices still above 50 amid sticky services inflation, but subdued.",
+      "id": "a01b3702-df12-4ac6-bbd9-87aca46dc701",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ADP National Employment Report will show U.S. private payrolls rose between +100,000 and +200,000 in November 2025.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-12-05",
+      "confidence_pct": 55,
+      "verification_criteria": "Use headline 'Change in Total Nonfarm Private Employment' in ADP National Employment Report for November 2025 (first release). Range inclusive.",
+      "evidence": [
+        "Hiring has slowed from earlier peaks but remains positive.",
+        "Small business hiring cooling, large firms comparatively steadier.",
+        "Seasonal retail hiring offsets goods-sector softness."
+      ],
+      "monitoring_signals": [
+        "Indeed job postings and vacancy trends",
+        "Challenger, Gray & Christmas layoff announcements",
+        "Weekly initial jobless claims"
+      ],
+      "rationale": "Labor market cooling but not collapsing supports a mid-range ADP gain.",
+      "id": "b88f7579-47d3-4a51-88b1-731742dad1e2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted U.S. Continuing Claims (Insured Unemployment) will print at or above 1.90 million in at least one Weekly Claims report released by 2025-12-31.",
+      "category": "macro",
+      "horizon_days": 30,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "Use 'Insured Unemployment (SA)' level from DOL Unemployment Insurance Weekly Claims press release; any report published by 2025-12-31 qualifies. Threshold inclusive.",
+      "evidence": [
+        "Continuing claims trended higher through autumn, signaling a loosening labor market.",
+        "Longer job searches and seasonal layoffs into December often lift insured unemployment.",
+        "Hiring frictions persist in some sectors."
+      ],
+      "monitoring_signals": [
+        "Four-week average of continuing claims",
+        "Temporary help employment in monthly payrolls",
+        "Layoff announcements (Challenger report)"
+      ],
+      "rationale": "Claims trend has drifted up; seasonal factors could push above 1.9m.",
+      "id": "56c87b4a-cd63-4ce2-a671-52e71e3c8368",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Federal Reserve will leave the federal funds target range unchanged at its December 2025 FOMC meeting.",
+      "category": "rates",
+      "horizon_days": 10,
+      "deadline": "2025-12-11",
+      "confidence_pct": 64,
+      "verification_criteria": "Verify via the FOMC post-meeting statement on the Federal Reserve website; 'target range' identical to the preceding meeting. Any intra-meeting action before the statement voids this prediction.",
+      "evidence": [
+        "Inflation has eased toward target while growth cools.",
+        "Financial conditions do not necessitate an immediate change.",
+        "Recent Fed communications emphasize patience and data dependence."
+      ],
+      "monitoring_signals": [
+        "CME FedWatch implied probabilities",
+        "Key prints: payrolls, ISM, CPI/PPI",
+        "FOMC speakers\u2019 guidance prior to blackout"
+      ],
+      "rationale": "Macro cooling argues for holding to assess trajectory.",
+      "id": "b8238d6f-872b-46bf-8f99-2efcd83be917",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The Bank of England will leave Bank Rate unchanged at its December 2025 MPC meeting.",
+      "category": "rates",
+      "horizon_days": 18,
+      "deadline": "2025-12-19",
+      "confidence_pct": 62,
+      "verification_criteria": "Verify via the Bank of England MPC statement/minutes; Bank Rate equals the pre-meeting level. First announcement governs.",
+      "evidence": [
+        "UK inflation is easing but remains above target.",
+        "Growth softness and housing sensitivity argue for caution.",
+        "MPC communications point to a patient stance."
+      ],
+      "monitoring_signals": [
+        "SONIA OIS curve pricing",
+        "UK CPI and wage growth releases",
+        "MPC member speeches and minutes"
+      ],
+      "rationale": "Inflation trend improving; premature cuts unlikely; hold likely.",
+      "id": "6534a191-1301-4280-a81c-596f9a0d0200",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "COMEX Gold front-month futures will settle at or above $2,450.00 per troy ounce on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 30,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "verification_criteria": "Use CME Group official settlement for the active COMEX Gold (GC) front-month contract as reported by CME or major data vendors. Threshold inclusive.",
+      "evidence": [
+        "Lower real yields and hedging demand can support gold.",
+        "Sustained central bank buying underpins bullion demand.",
+        "Momentum near highs raises breakout odds."
+      ],
+      "monitoring_signals": [
+        "U.S. real yields (TIPS-derived)",
+        "DXY dollar index behavior",
+        "CFTC gold net managed-money positioning"
+      ],
+      "rationale": "Supportive macro and positioning leave upside tail risk.",
+      "id": "fbc2b92c-3707-49fd-99b8-b8e9a4652679",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "BTC/USD spot will trade at or above $80,000 on at least one UTC day by 2025-12-31.",
+      "category": "markets",
+      "horizon_days": 30,
+      "deadline": "2025-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Any reputable exchange (e.g., Coinbase, Kraken) or aggregator (CoinMarketCap/CoinGecko) showing an intraday high \u2265 $80,000 (UTC) suffices. Spot market only.",
+      "evidence": [
+        "Crypto markets can exhibit strong momentum into year-end.",
+        "Institutional participation via ETFs has grown.",
+        "Easier macro/liquidity expectations can buoy digital assets."
+      ],
+      "monitoring_signals": [
+        "BTC ETF net flows",
+        "Perpetuals funding rates and open interest",
+        "Dollar strength and real yields"
+      ],
+      "rationale": "Momentum-driven assets can spike into year-end.",
+      "id": "ebe410e4-f500-46e1-8bc4-558af061ada7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "USD/JPY spot will trade at or below 145.00 on at least one UTC day by 2025-12-31.",
+      "category": "markets",
+      "horizon_days": 30,
+      "deadline": "2025-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Using widely cited FX data (Bloomberg, Refinitiv, TradingView), an intraday low \u2264 145.00 (UTC) satisfies. Spot market, not futures.",
+      "evidence": [
+        "Softer U.S. yields can weigh on the dollar.",
+        "BoJ normalization risk supports episodic JPY strength.",
+        "Crowded USD/JPY positioning is prone to squeezes."
+      ],
+      "monitoring_signals": [
+        "U.S. 10-year Treasury yields",
+        "BoJ communications and JGB yields",
+        "CFTC IMM JPY net positioning"
+      ],
+      "rationale": "Rates convergence risk invites USD/JPY downside tests.",
+      "id": "6d1c76fa-9a64-4f56-867d-fa415085b518",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Euro area (EA20) seasonally adjusted unemployment rate for November 2025 will print between 6.5% and 6.7%.",
+      "category": "macro",
+      "horizon_days": 23,
+      "deadline": "2025-12-24",
+      "confidence_pct": 63,
+      "verification_criteria": "Use Eurostat press release/database for EA20 unemployment rate (SA) for November 2025 (first published value). Range inclusive.",
+      "evidence": [
+        "EA unemployment has hovered near historic lows with gradual drift.",
+        "Growth softness has not yet triggered sharp labor deterioration.",
+        "Historical inertia keeps monthly changes small."
+      ],
+      "monitoring_signals": [
+        "Country labor reports (Germany, France, Spain, Italy)",
+        "PMI employment subindices",
+        "Job vacancy and hiring indicators"
+      ],
+      "rationale": "Unemployment rate is stable with slight upward bias.",
+      "id": "0b363eb8-dadf-4a5d-a4e1-7d35e5156df0",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "EIA Weekly Natural Gas Storage Report will show a Lower 48 net withdrawal of at least 100 Bcf in at least one report published by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 30,
+      "deadline": "2025-12-31",
+      "confidence_pct": 51,
+      "verification_criteria": "Use EIA 'Weekly Natural Gas Storage Report' table for 'Net change' (Lower 48). Any report released by 2025-12-31 with \u2264 -100 Bcf qualifies. First publication counts.",
+      "evidence": [
+        "December typically brings larger storage withdrawals.",
+        "Cold spells can drive triple-digit weekly draws.",
+        "Baseline storage and production shape draw potential."
+      ],
+      "monitoring_signals": [
+        "NOAA/ECMWF HDD forecasts",
+        "Pipeline flows and dry gas production estimates",
+        "Power burn and LNG feedgas demand"
+      ],
+      "rationale": "Seasonal weather risk favors at least one large draw.",
+      "id": "8fa80858-d92e-4d92-ab81-dd2de22f6c10",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NIST NVD will publish at least 2 CVE entries with CVSS v3.x Base Score 10.0 between 2025-12-01 and 2025-12-31 (UTC), inclusive.",
+      "category": "tech",
+      "horizon_days": 30,
+      "deadline": "2025-12-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Query NVD (nvd.nist.gov) for CVEs with 'Published' date in 2025-12-01..2025-12-31 and CVSS v3.x Base Score = 10.0. Count unique CVE IDs. Mirrors/JSON feeds acceptable.",
+      "evidence": [
+        "High/critical CVEs with 10.0 scores appear regularly.",
+        "Year-end disclosures cluster around Patch Tuesday and vendor bulletins.",
+        "NVD promptly posts vendor PSIRT advisories."
+      ],
+      "monitoring_signals": [
+        "Microsoft Patch Tuesday advisories",
+        "Android Security Bulletin (December)",
+        "Vendor PSIRTs (Cisco, VMware, Juniper, Fortinet)"
+      ],
+      "rationale": "Disclosure cadence suggests multiple critical 10.0 CVEs in December.",
+      "id": "82b64af2-e984-4fe7-8f74-43fb8f2f1e04",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

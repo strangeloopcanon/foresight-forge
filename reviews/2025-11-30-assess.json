@@ -1,0 +1,55 @@
+{
+  "date": "2025-11-30",
+  "assessments": [
+    {
+      "id": "f9602b56-02e7-40e3-91f0-9d03665c1b38",
+      "status": "pending",
+      "status_rationale": "No U.S. unemployment rate print for November 2025 is reported in the provided news; release is expected around Dec 6."
+    },
+    {
+      "id": "c39559b1-0d81-49b5-8ab6-58f13af8ff9e",
+      "status": "pending",
+      "status_rationale": "No CPI (headline YoY) figure for November 2025 appears in the news; release is expected around Dec 12."
+    },
+    {
+      "id": "ad83d214-6856-414c-b307-26e6f6f6fdf2",
+      "status": "pending",
+      "status_rationale": "No ISM Manufacturing Employment Index value for November 2025 is mentioned; ISM data typically releases in early December."
+    },
+    {
+      "id": "8a7ec486-cd77-46ee-9d73-87a9bddd845a",
+      "status": "pending",
+      "status_rationale": "No S&P Global US Manufacturing PMI Final for November 2025 is cited; China PMI news is not applicable to this U.S. indicator."
+    },
+    {
+      "id": "050a25a3-6a90-4d89-8ad0-835ee2e8fc3d",
+      "status": "pending",
+      "status_rationale": "No UK October 2025 monthly GDP figure is in the coverage; release expected mid-December."
+    },
+    {
+      "id": "5313f35e-94ce-44f9-8837-08e499b1e6bb",
+      "status": "pending",
+      "status_rationale": "No U.S. Treasury/OFAC press release on Venezuela-related designations is listed in the news items."
+    },
+    {
+      "id": "8b7eb362-2469-4091-8a82-8df5b45819db",
+      "status": "pending",
+      "status_rationale": "No official OpenAI blog post or press release announcing ads in ChatGPT is referenced."
+    },
+    {
+      "id": "9a3da8ea-014e-47a3-a5d3-6afec4fcfcfc",
+      "status": "pending",
+      "status_rationale": "No evidence of COMEX Silver settling at or above $32/oz is provided in the articles."
+    },
+    {
+      "id": "4711d4c0-555a-4bc1-8c14-afa7a7dcfb85",
+      "status": "pending",
+      "status_rationale": "No settlement data for ICE Endex TTF front-month natural gas is included."
+    },
+    {
+      "id": "2f0b9b82-1ded-42c3-aa56-ddb949c010dc",
+      "status": "pending",
+      "status_rationale": "No report of the U.S. 2-Year Treasury yield closing at or below 4.25% is present."
+    }
+  ]
+}

@@ -1214,3 +1214,12 @@ Given the lack of definitive data points or official notices, all tracked predic
 
 ---
 
+
+## 2025-11-30
+
+Today’s news flow is dominated by geopolitical developments, U.S. domestic politics, and general market commentary, with a few pieces on China’s manufacturing contraction. None of the items provide definitive releases or settlement data for the specific economic indicators or market thresholds in our forecasts.
+
+Key economic prints we’re tracking—U.S. unemployment (Nov), CPI (Nov), ISM Manufacturing Employment (Nov), S&P Global US Manufacturing PMI Final (Nov), and UK monthly GDP (Oct)—are due in the coming days, but no values are reported here. Likewise, there’s no concrete evidence on OFAC Venezuela actions, OpenAI ads announcements, or the specified commodity and yield levels. All predictions remain pending until official releases or market settlements are confirmed.
+
+---
+
