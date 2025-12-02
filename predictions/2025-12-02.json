@@ -1,0 +1,284 @@
+{
+  "date": "2025-12-02",
+  "predictions": [
+    {
+      "text": "The Bank of Japan will raise its short-term policy rate target by at least 0.10 percentage point at its December 2025 monetary policy meeting.",
+      "category": "rates",
+      "horizon_days": 17,
+      "deadline": "2025-12-19",
+      "confidence_pct": 52,
+      "verification_criteria": "An official BoJ Monetary Policy Meeting statement shows the uncollateralized overnight call rate target increased by \u22650.10 percentage point versus the prior target.",
+      "evidence": [
+        "https://www.marketwatch.com/story/bank-of-japans-ueda-rattles-global-bond-markets-with-the-prospect-of-a-rate-hike-this-month-73e6e290",
+        "https://www.boj.or.jp/en/announcements/release_2025/index.htm"
+      ],
+      "monitoring_signals": [
+        "JPY OIS-implied hike probabilities",
+        "USD/JPY spot moves and implied vols",
+        "10-year JGB yield changes",
+        "BoJ member speeches and local press leaks"
+      ],
+      "rationale": "BoJ communications turned more hawkish amid above-target inflation and wage gains, pushing markets to price a non-trivial chance of a December move.",
+      "id": "68bf48de-8a01-4252-afd0-f49468f92b28",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. International Trade Balance (goods and services) for October 2025 will print between -$76.0B and -$84.0B.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-12-06",
+      "confidence_pct": 56,
+      "verification_criteria": "BEA/Census joint release for \u201cU.S. International Trade in Goods and Services, October 2025\u201d shows the seasonally adjusted headline deficit within the stated range.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/01/business/tariffs-customs-retail-shopping.html",
+        "https://www.bea.gov/data/intl-trade-investment/international-trade-goods-and-services",
+        "https://www.census.gov/foreign-trade/Press-Release/current_press_release/index.html"
+      ],
+      "monitoring_signals": [
+        "Census advance goods trade deficit",
+        "Dollar broad index (DXY) levels",
+        "Ports throughput and freight rates",
+        "ISM export orders readings"
+      ],
+      "rationale": "Dollar strength and resilient domestic demand support a wider deficit; tariff timing and softer global demand weigh on exports.",
+      "id": "0c6bfdee-35cf-404a-879e-f009fab5faaa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Services (Non-Manufacturing) New Orders Index for November 2025 will print between 51.0 and 56.0.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-12-05",
+      "confidence_pct": 54,
+      "verification_criteria": "Institute for Supply Management\u2019s November 2025 Services Report on Business lists the New Orders Index value within the stated interval.",
+      "evidence": [
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/",
+        "https://www.cnbc.com/2025/12/01/as-regime-change-looms-at-the-fed-one-candidate-emerges-as-frontrunner-for-chair.html"
+      ],
+      "monitoring_signals": [
+        "S&P Global US Services PMI new orders",
+        "High-frequency card/online spending trackers",
+        "Retailer and logistics commentary on holiday demand",
+        "Regional Fed services surveys"
+      ],
+      "rationale": "Holiday-demand support and stable services activity point to modest expansion in new orders rather than a surge.",
+      "id": "4d6e5432-fbd7-47fd-a273-97b02884690c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Google will publish a Chrome Stable Channel update in December 2025 acknowledging at least one CVE as 'exploited in the wild.'",
+      "category": "tech",
+      "horizon_days": 29,
+      "deadline": "2025-12-31",
+      "confidence_pct": 53,
+      "verification_criteria": "A Chrome Releases blog post for a Stable Channel update in December 2025 contains language that Google is aware of an in-the-wild exploit for a listed CVE.",
+      "evidence": [
+        "https://chromereleases.googleblog.com/",
+        "https://nvd.nist.gov/"
+      ],
+      "monitoring_signals": [
+        "Chrome Releases RSS and security advisories",
+        "Threat intel reports of active browser exploits",
+        "CVE assignments referencing Chromium components"
+      ],
+      "rationale": "Chrome has multiple in-the-wild disclosures annually; year-end cycles often include emergency patches.",
+      "id": "cba752f7-f8d0-476c-b9c7-00d095316cda",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "BTC/USD spot will trade at or below $56,000 on at least one UTC day by 2025-12-31.",
+      "category": "markets",
+      "horizon_days": 29,
+      "deadline": "2025-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Any reputable aggregator (e.g., CoinMarketCap, CoinGecko) or major exchange trade data shows a daily low \u2264 $56,000 on a UTC day through 2025-12-31.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html"
+      ],
+      "monitoring_signals": [
+        "Perpetual futures funding and open interest",
+        "Options skew/IV and dealer gamma positioning",
+        "Stablecoin net flows and on-chain liquidity",
+        "Macro risk appetite (VIX, DXY, yields)"
+      ],
+      "rationale": "Enforcement headlines and fragile risk sentiment into year-end elevate downside tails.",
+      "id": "e2ea4ad2-42dc-4f5a-86ab-ba5a3177bf58",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "GIE AGSI+ will show EU-27 natural gas storage fill at or above 75.0% on 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-12-31",
+      "confidence_pct": 51,
+      "verification_criteria": "AGSI+ daily data for EU-27 aggregate on 2025-12-31 shows storage level percentage \u2265 75.0%.",
+      "evidence": [
+        "https://agsi.gie.eu"
+      ],
+      "monitoring_signals": [
+        "Daily withdrawal rates vs HDDs",
+        "LNG send-out and regas capacity utilization",
+        "Pipeline flows (Norway, Algeria, Azerbaijan)",
+        "TTF price and forward curve changes"
+      ],
+      "rationale": "High opening inventories, steady LNG and relatively mild early winter reduce drawdown risk below 75% by year-end.",
+      "id": "800129bf-3991-4128-9c55-1d4c3a595f24",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "In at least one Weekly Petroleum Status Report released by 2025-12-31, U.S. distillate fuel oil stocks will increase by at least 3.0 million barrels week-over-week.",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "EIA Weekly Petroleum Status Report shows the week-over-week change in Distillate Fuel Oil Stocks \u2265 +3.0 million barrels in any December 2025 report.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "Heating degree days vs normal",
+        "Refinery utilization and yields",
+        "Diesel crack spreads and imports",
+        "Trucking/rail demand indicators"
+      ],
+      "rationale": "Warm spells and high refinery runs can produce outsized weekly builds even during winter.",
+      "id": "5c242228-9d1f-4636-8b3c-e4ddccbd379f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Copernicus C3S will report November 2025 as the warmest November on record globally.",
+      "category": "other",
+      "horizon_days": 8,
+      "deadline": "2025-12-10",
+      "confidence_pct": 58,
+      "verification_criteria": "Copernicus Climate Change Service monthly climate bulletin states that November 2025 was the warmest November on record globally.",
+      "evidence": [
+        "https://climate.copernicus.eu/monthly-climate-bulletins"
+      ],
+      "monitoring_signals": [
+        "ERA5 daily global temperature anomalies",
+        "Sea-surface temperature indices (e.g., NINO3.4)",
+        "NOAA and Berkeley Earth preliminary estimates"
+      ],
+      "rationale": "Record warmth has persisted; ocean heat content and lingering anomalies support a new November record.",
+      "id": "ace8c0f2-3f3d-4338-b3c4-3d0bdfc467e7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will designate at least one cryptocurrency mixer or centralized exchange for sanctions (added to the SDN List) by 2025-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 29,
+      "deadline": "2025-12-31",
+      "confidence_pct": 49,
+      "verification_criteria": "A U.S. Treasury (OFAC) press release adds at least one named crypto mixer or exchange to the SDN List between 2025-12-02 and 2025-12-31 UTC.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+        "https://home.treasury.gov/news/press-releases"
+      ],
+      "monitoring_signals": [
+        "DOJ and Treasury press advisories",
+        "EU/Europol actions against mixers",
+        "Blockchain analytics reports on illicit flows"
+      ],
+      "rationale": "Coordinated pressure on illicit crypto finance increases the likelihood of year-end sanctions actions.",
+      "id": "10fd4269-f215-4121-bcb6-9cb1e0b9e555",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 3.95% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 29,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "verification_criteria": "FRED series DGS10 or Treasury official close shows a daily close \u2264 3.95% on any trading day through 2025-12-31.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.cnbc.com/2025/12/01/as-regime-change-looms-at-the-fed-one-candidate-emerges-as-frontrunner-for-chair.html"
+      ],
+      "monitoring_signals": [
+        "Inflation prints (CPI/PCE) vs expectations",
+        "FOMC December tone and SEP",
+        "Term premium measures and auction demand",
+        "Risk sentiment (equities, credit spreads)"
+      ],
+      "rationale": "Soft inflation and a dovish-leaning Fed into year-end can compress term yields.",
+      "id": "f978b3fc-5c03-4e81-8e76-73f137a9803b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Germany Factory Orders (October 2025, MoM, seasonally and calendar adjusted) will print between -1.0% and +1.0%.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-12-07",
+      "confidence_pct": 57,
+      "verification_criteria": "Destatis press release for October 2025 new orders in manufacturing (seasonally and calendar adjusted, MoM) falls within -1.0% to +1.0%.",
+      "evidence": [
+        "https://www.destatis.de/EN/Press/PressReleases/",
+        "https://www.cnbc.com/2025/12/02/asia-pacific-markets-today-tuesday-crypto-bitcoin-nikkei-225-hang-seng-index.html"
+      ],
+      "monitoring_signals": [
+        "Germany and euro area PMI new orders",
+        "Ifo expectations",
+        "Auto production/export indicators",
+        "External demand from U.S./China proxies"
+      ],
+      "rationale": "Indicators point to stabilization without a strong rebound; a flat-ish monthly print is likely.",
+      "id": "249451e4-4084-4ff5-a2d6-0d2950897db1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At the December 2025 FOMC meeting, the SEP median projection for 2026 Core PCE inflation will be between 2.2% and 2.6%.",
+      "category": "rates",
+      "horizon_days": 11,
+      "deadline": "2025-12-13",
+      "confidence_pct": 55,
+      "verification_criteria": "The Summary of Economic Projections table released after the December 2025 FOMC meeting shows the median 2026 Core PCE inflation projection within the stated range.",
+      "evidence": [
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl2025.htm"
+      ],
+      "monitoring_signals": [
+        "Recent core PCE/CPI trends and revisions",
+        "Fed communications pre-meeting",
+        "Market-based inflation expectations (breakevens)"
+      ],
+      "rationale": "Decelerating inflation and anchored expectations point to a mid-2s median for 2026 core PCE.",
+      "id": "352f4496-463d-4197-9391-a03df7681e1f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA's U.S. regular gasoline (all formulations) weekly retail price will be at or below $3.10 per gallon in the week of 2025-12-29.",
+      "category": "energy",
+      "horizon_days": 29,
+      "deadline": "2025-12-31",
+      "confidence_pct": 53,
+      "verification_criteria": "EIA Gasoline and Diesel Fuel Update for the 2025-12-30 publication (week of 2025-12-29) shows the national U.S. regular grade price \u2264 $3.10/gal.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/gasdiesel/",
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "RBOB futures and gasoline cracks",
+        "Crude prices and refinery utilization",
+        "EIA motor gasoline stocks and product supplied",
+        "Regional price dispersion (PADD-level)"
+      ],
+      "rationale": "Seasonal demand fade and softer cracks into late December typically pressure pump prices lower.",
+      "id": "4f572b30-4d3d-47ab-9292-d13f4d22357e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

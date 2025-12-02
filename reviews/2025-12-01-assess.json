@@ -1,0 +1,65 @@
+{
+  "date": "2025-12-01",
+  "assessments": [
+    {
+      "id": "29d2ce02-61f1-4aeb-837c-82655bfe2f4f",
+      "status": "pending",
+      "status_rationale": "No ISM Services PMI release for November 2025 is referenced; report is typically due in early December."
+    },
+    {
+      "id": "a01b3702-df12-4ac6-bbd9-87aca46dc701",
+      "status": "pending",
+      "status_rationale": "No ISM Services Prices Index data for November 2025 in the news; awaiting official release."
+    },
+    {
+      "id": "b88f7579-47d3-4a51-88b1-731742dad1e2",
+      "status": "pending",
+      "status_rationale": "ADP November 2025 private payrolls figures are not reported in the provided news items."
+    },
+    {
+      "id": "56c87b4a-cd63-4ce2-a671-52e71e3c8368",
+      "status": "pending",
+      "status_rationale": "No Weekly Claims data cited; still time before the 2025-12-31 deadline."
+    },
+    {
+      "id": "b8238d6f-872b-46bf-8f99-2efcd83be917",
+      "status": "pending",
+      "status_rationale": "December 2025 FOMC decision has not occurred; articles only discuss potential leadership changes."
+    },
+    {
+      "id": "6534a191-1301-4280-a81c-596f9a0d0200",
+      "status": "pending",
+      "status_rationale": "No outcome from the December 2025 MPC meeting is mentioned; decision still ahead."
+    },
+    {
+      "id": "fbc2b92c-3707-49fd-99b8-b8e9a4652679",
+      "status": "pending",
+      "status_rationale": "No evidence that COMEX gold settled at or above $2,450; window remains open through year-end."
+    },
+    {
+      "id": "ebe410e4-f500-46e1-8bc4-558af061ada7",
+      "status": "pending",
+      "status_rationale": "News notes a sharp Bitcoin drop but does not establish a trade at or above $80,000; timeframe continues."
+    },
+    {
+      "id": "6d1c76fa-9a64-4f56-867d-fa415085b518",
+      "status": "pending",
+      "status_rationale": "BOJ hike speculation is reported, but no confirmation that USD/JPY traded at or below 145.00."
+    },
+    {
+      "id": "0b363eb8-dadf-4a5d-a4e1-7d35e5156df0",
+      "status": "pending",
+      "status_rationale": "Euro area November 2025 unemployment rate has not been reported in the provided news."
+    },
+    {
+      "id": "8fa80858-d92e-4d92-ab81-dd2de22f6c10",
+      "status": "pending",
+      "status_rationale": "No EIA storage print indicating a \u2265100 Bcf withdrawal is cited; several weekly reports remain before 2025-12-31."
+    },
+    {
+      "id": "82b64af2-e984-4fe7-8f74-43fb8f2f1e04",
+      "status": "pending",
+      "status_rationale": "No NVD publication details provided; the December window has just begun."
+    }
+  ]
+}

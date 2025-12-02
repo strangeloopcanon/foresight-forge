@@ -1223,3 +1223,11 @@ Key economic prints we’re tracking—U.S. unemployment (Nov), CPI (Nov), ISM M
 
 ---
 
+
+## 2025-12-01
+
+Most items hinge on imminent December data releases and central bank meetings. Today’s news cycle does not include the ISM Services readings, ADP employment data, unemployment statistics, or rate decisions from the Fed and BoE, so those forecasts remain unverified. Market-focused bets (gold, Bitcoin, USD/JPY) also lack definitive threshold breaches in the coverage provided.
+Macro context is mixed: chatter about a potential BOJ hike supports yen-strength scenarios directionally, while a notable Bitcoin sell-off lowers near-term momentum toward $80,000 but does not settle the forecast. Trade and tariff headlines could influence inflation expectations into year-end, yet no article provides conclusive outcomes for the listed predictions. Accordingly, all statuses remain pending pending official prints or price/action confirmations.
+
+---
+

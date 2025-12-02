@@ -21,7 +21,7 @@
       ],
       "rationale": "Services momentum remains modest; no sharp demand shock signaled.",
       "id": "29d2ce02-61f1-4aeb-837c-82655bfe2f4f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Prices still above 50 amid sticky services inflation, but subdued.",
       "id": "a01b3702-df12-4ac6-bbd9-87aca46dc701",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Labor market cooling but not collapsing supports a mid-range ADP gain.",
       "id": "b88f7579-47d3-4a51-88b1-731742dad1e2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "Claims trend has drifted up; seasonal factors could push above 1.9m.",
       "id": "56c87b4a-cd63-4ce2-a671-52e71e3c8368",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "Macro cooling argues for holding to assess trajectory.",
       "id": "b8238d6f-872b-46bf-8f99-2efcd83be917",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -131,7 +131,7 @@
       ],
       "rationale": "Inflation trend improving; premature cuts unlikely; hold likely.",
       "id": "6534a191-1301-4280-a81c-596f9a0d0200",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "rationale": "Supportive macro and positioning leave upside tail risk.",
       "id": "fbc2b92c-3707-49fd-99b8-b8e9a4652679",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "rationale": "Momentum-driven assets can spike into year-end.",
       "id": "ebe410e4-f500-46e1-8bc4-558af061ada7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "rationale": "Rates convergence risk invites USD/JPY downside tests.",
       "id": "6d1c76fa-9a64-4f56-867d-fa415085b518",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "rationale": "Unemployment rate is stable with slight upward bias.",
       "id": "0b363eb8-dadf-4a5d-a4e1-7d35e5156df0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -241,7 +241,7 @@
       ],
       "rationale": "Seasonal weather risk favors at least one large draw.",
       "id": "8fa80858-d92e-4d92-ab81-dd2de22f6c10",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -263,7 +263,7 @@
       ],
       "rationale": "Disclosure cadence suggests multiple critical 10.0 CVEs in December.",
       "id": "82b64af2-e984-4fe7-8f74-43fb8f2f1e04",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
