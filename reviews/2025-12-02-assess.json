@@ -1,0 +1,70 @@
+{
+  "date": "2025-12-02",
+  "assessments": [
+    {
+      "id": "68bf48de-8a01-4252-afd0-f49468f92b28",
+      "status": "pending",
+      "status_rationale": "No coverage of the Bank of Japan or its December meeting in today's articles; the meeting and deadline are later this month."
+    },
+    {
+      "id": "0c6bfdee-35cf-404a-879e-f009fab5faaa",
+      "status": "pending",
+      "status_rationale": "No report of the October 2025 U.S. trade balance in the news bullets; the release is expected this week before the deadline."
+    },
+    {
+      "id": "4d6e5432-fbd7-47fd-a273-97b02884690c",
+      "status": "pending",
+      "status_rationale": "No ISM Services New Orders data referenced; the November print is due imminently but not in today's coverage."
+    },
+    {
+      "id": "cba752f7-f8d0-476c-b9c7-00d095316cda",
+      "status": "pending",
+      "status_rationale": "No mention of a Chrome Stable Channel security update acknowledging an exploited CVE."
+    },
+    {
+      "id": "e2ea4ad2-42dc-4f5a-86ab-ba5a3177bf58",
+      "status": "pending",
+      "status_rationale": "No BTC/USD price levels cited; nothing indicates a move to $56,000 or below."
+    },
+    {
+      "id": "800129bf-3991-4128-9c55-1d4c3a595f24",
+      "status": "pending",
+      "status_rationale": "EU natural gas storage levels for 2025-12-31 were not discussed; the target date is in the future."
+    },
+    {
+      "id": "5c242228-9d1f-4636-8b3c-e4ddccbd379f",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report details on distillate stocks appeared in today's news."
+    },
+    {
+      "id": "ace8c0f2-3f3d-4338-b3c4-3d0bdfc467e7",
+      "status": "pending",
+      "status_rationale": "No Copernicus C3S November 2025 global temperature report is mentioned; result typically arrives later in the first half of December."
+    },
+    {
+      "id": "10fd4269-f215-4121-bcb6-9cb1e0b9e555",
+      "status": "pending",
+      "status_rationale": "No OFAC designations of a crypto mixer or centralized exchange are reported in today's bullets."
+    },
+    {
+      "id": "f978b3fc-5c03-4e81-8e76-73f137a9803b",
+      "status": "pending",
+      "status_rationale": "No U.S. 10-year Treasury yield levels are cited; nothing confirms a close at or below 3.95%."
+    },
+    {
+      "id": "249451e4-4084-4ff5-a2d6-0d2950897db1",
+      "status": "pending",
+      "status_rationale": "No report on Germany\u2019s October 2025 factory orders in the news bullets; the release is still ahead of the deadline."
+    },
+    {
+      "id": "352f4496-463d-4197-9391-a03df7681e1f",
+      "status": "pending",
+      "status_rationale": "No outcomes from the December FOMC or its SEP were covered; meeting and projections are forthcoming."
+    },
+    {
+      "id": "4f572b30-4d3d-47ab-9292-d13f4d22357e",
+      "status": "pending",
+      "status_rationale": "The relevant EIA weekly gasoline price for the week of 2025-12-29 is in the future; no price data provided today."
+    }
+  ]
+}

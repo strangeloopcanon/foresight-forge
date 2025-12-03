@@ -1,0 +1,278 @@
+{
+  "date": "2025-12-03",
+  "predictions": [
+    {
+      "text": "Microsoft\u2019s December 2025 Patch Tuesday will include at least one CVE noted as 'exploited in the wild.'",
+      "category": "tech",
+      "horizon_days": 7,
+      "deadline": "2025-12-10",
+      "confidence_pct": 58,
+      "verification_criteria": "Microsoft Security Update Guide release notes for December 2025 explicitly tag at least one CVE as 'Exploited: Yes' or equivalent 'exploited in the wild' wording.",
+      "evidence": [
+        "https://msrc.microsoft.com/update-guide/",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+      ],
+      "monitoring_signals": [
+        "MSRC 'Release Notes' for December 2025",
+        "CISA KEV additions the same day",
+        "Security vendor blogs (Sophos, Trend, Kaspersky) citing in-the-wild exploitation"
+      ],
+      "rationale": "Multiple recent Patch Tuesdays included zero-days; December often carries year-end bulletins.",
+      "id": "50344172-577f-46a0-b537-126cee442fd1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will announce at least one Russia-related sanctions designation via a U.S. Treasury press release by 2025-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 28,
+      "deadline": "2025-12-31",
+      "confidence_pct": 62,
+      "verification_criteria": "A press release on home.treasury.gov adds at least one Russia-related designation to the SDN or related sanctions lists.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases?keywords=russia%20sanctions",
+        "https://www.state.gov/russia-sanctions/"
+      ],
+      "monitoring_signals": [
+        "Treasury press room RSS for sanctions",
+        "EU/UK concurrent Russia sanctions actions",
+        "Ukraine war escalations or major strikes"
+      ],
+      "rationale": "Regular cadence of Russia-related designations continues amid ongoing conflict.",
+      "id": "c77c257a-dff9-4292-ad78-41d0d809addb",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The S&P 500 Index (SPX) will close at a new all-time high on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "Official SPX closing level exceeds the prior record closing high as tracked by S&P Dow Jones Indices or major market data providers.",
+      "evidence": [
+        "https://www.spglobal.com/spdji/en/indices/equity/sp-500/",
+        "https://finance.yahoo.com/quote/%5EGSPC/"
+      ],
+      "monitoring_signals": [
+        "Earnings revisions and mega-cap breadth",
+        "Fed guidance at December FOMC",
+        "AI-capex news (AWS, NVDA, etc.)"
+      ],
+      "rationale": "Tech leadership remains strong; seasonal tailwinds and dovish expectations support new highs.",
+      "id": "9534d7c6-0bc4-4777-95c5-258512897e12",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan 5-year inflation expectations (preliminary) for December 2025 will print between 2.8% and 3.2%.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-12-13",
+      "confidence_pct": 58,
+      "verification_criteria": "The preliminary December 2025 Surveys of Consumers release shows 5\u201310 year inflation expectations within [2.8%, 3.2%].",
+      "evidence": [
+        "https://data.sca.isr.umich.edu/",
+        "https://www.sca.isr.umich.edu/"
+      ],
+      "monitoring_signals": [
+        "Gasoline price trends",
+        "Shelter/rent data and inflation headlines",
+        "Market-based breakevens (5y5y)"
+      ],
+      "rationale": "Medium-term expectations have been anchored near 3% despite short-term volatility.",
+      "id": "539af982-c893-43b8-bb8b-80b30fe5dadc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Seasonally adjusted U.S. Initial Jobless Claims will print at or above 240,000 in at least one Weekly Claims report released by 2025-12-31.",
+      "category": "macro",
+      "horizon_days": 28,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "Any DOL weekly report in December 2025 shows Initial Claims SA \u2265 240,000 for the latest available week.",
+      "evidence": [
+        "https://www.dol.gov/ui/data",
+        "https://fred.stlouisfed.org/series/ICSA"
+      ],
+      "monitoring_signals": [
+        "Layoff announcements and WARN notices",
+        "Holiday seasonals and post-Thanksgiving adjustments",
+        "Continuing claims trend"
+      ],
+      "rationale": "Labor market is cooling at the margin; weekly volatility can lift prints.",
+      "id": "31b83481-6f9f-4a5f-811b-3ef5dca1051d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Swiss National Bank will leave its policy rate unchanged at its December 2025 monetary policy assessment.",
+      "category": "rates",
+      "horizon_days": 10,
+      "deadline": "2025-12-13",
+      "confidence_pct": 60,
+      "verification_criteria": "SNB press release states the policy rate is unchanged versus the prior setting.",
+      "evidence": [
+        "https://www.snb.ch/en/monetary-policy/monetary-policy-assessments",
+        "https://www.snb.ch/en"
+      ],
+      "monitoring_signals": [
+        "CHF exchange rate vs EUR and USD",
+        "Swiss inflation data and forecasts",
+        "Global central bank bias into year-end"
+      ],
+      "rationale": "Inflation is subdued; SNB likely to stay patient into year-end.",
+      "id": "1e28988a-186e-44fb-a8cd-5529620de73d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "COMEX Copper (HG) front-month futures will settle at or above $4.20 per pound on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-12-31",
+      "confidence_pct": 54,
+      "verification_criteria": "CME Group settlement for the front-month HG contract is \u2265 $4.20/lb on any trading day through 2025-12-31.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/metals/base/copper.html",
+        "https://www.lme.com/en/market-data/official-prices#Prices"
+      ],
+      "monitoring_signals": [
+        "China stimulus and property indicators",
+        "AI/data center power buildout metals demand",
+        "Mine supply disruptions"
+      ],
+      "rationale": "Tight supply and AI/electrification demand create upside tail risk in copper.",
+      "id": "4d678d49-c3f8-4ec1-9a84-17492952555e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NOAA SWPC will issue at least one R2 (Moderate) Radio Blackout alert by 2025-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 28,
+      "deadline": "2025-12-31",
+      "confidence_pct": 57,
+      "verification_criteria": "An official SWPC alert or event log records at least one R2 (Moderate) event during the period.",
+      "evidence": [
+        "https://www.swpc.noaa.gov/noaa-scales-explanation",
+        "https://www.swpc.noaa.gov/products/alerts-watches-and-warnings"
+      ],
+      "monitoring_signals": [
+        "Solar flux and sunspot numbers",
+        "X-ray flux (GOES) real-time monitoring",
+        "SWPC forecast discussions"
+      ],
+      "rationale": "Solar maximum conditions elevate the probability of moderate flares.",
+      "id": "77a26ead-0ad2-4903-8a6e-a9e6d0567211",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe SKEW Index will close at or above 145.0 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 28,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "Official Cboe SKEW daily close \u2265 145.0 on any trading day in December 2025.",
+      "evidence": [
+        "https://www.cboe.com/us/indices/dashboard/skew/",
+        "https://fred.stlouisfed.org/series/SKEW"
+      ],
+      "monitoring_signals": [
+        "Demand for downside SPX tail hedges",
+        "Earnings surprises and macro event risk",
+        "Dealer positioning and gamma exposure"
+      ],
+      "rationale": "Tail-hedging can spike into year-end but has been subdued recently.",
+      "id": "1fc58e35-bc74-4304-b39e-d6c75bfe7108",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The UK will announce at least one Russia-related sanctions designation by 2025-12-31 via an official gov.uk press release (FCDO or HM Treasury/OFSI).",
+      "category": "geopolitics",
+      "horizon_days": 28,
+      "deadline": "2025-12-31",
+      "confidence_pct": 60,
+      "verification_criteria": "A gov.uk press release adds at least one designation under the Russia sanctions regime to the UK Consolidated List.",
+      "evidence": [
+        "https://www.gov.uk/government/collections/uk-sanctions-on-russia",
+        "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
+      ],
+      "monitoring_signals": [
+        "EU/US parallel Russia sanctions moves",
+        "Escalation in Ukraine conflict",
+        "UK Parliament or FCDO briefings"
+      ],
+      "rationale": "The UK regularly aligns with allied Russia sanctions updates.",
+      "id": "c85d7547-06dc-4ecd-af0b-acfb7c68dfd8",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Adobe\u2019s December 2025 security updates will include at least one CVE with CVSS v3.x Base Score \u2265 9.0.",
+      "category": "tech",
+      "horizon_days": 9,
+      "deadline": "2025-12-12",
+      "confidence_pct": 56,
+      "verification_criteria": "Adobe Security Bulletins (APSB) for December 2025 list at least one CVE rated Critical with CVSS v3.x Base Score \u2265 9.0.",
+      "evidence": [
+        "https://helpx.adobe.com/security/security-bulletins.html",
+        "https://nvd.nist.gov/vuln/search/results?query=Adobe&startIndex=0"
+      ],
+      "monitoring_signals": [
+        "Adobe Patch Tuesday cadence",
+        "Coordinated disclosures via ZDI and vendors",
+        "NVD CVE entries mapped to Adobe bulletins"
+      ],
+      "rationale": "Adobe frequently patches critical flaws across Acrobat/Reader and Creative Cloud apps.",
+      "id": "6cd2c3d6-5ee8-47a4-97a5-c3b5f2df70fa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 30-Year Treasury yield (FRED: DGS30) will close at or below 4.25% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 28,
+      "deadline": "2025-12-31",
+      "confidence_pct": 49,
+      "verification_criteria": "FRED series DGS30 daily close \u2264 4.25% on any trading day through 2025-12-31.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS30",
+        "https://www.marketwatch.com/investing/bond/tmubmusd30y"
+      ],
+      "monitoring_signals": [
+        "FOMC communication and SEP",
+        "Term premium estimates",
+        "Inflation data (CPI/PCE) and long-end auctions"
+      ],
+      "rationale": "Cooling inflation and soft growth impulses can pull the long end lower.",
+      "id": "536e519a-e76d-44e0-b3fc-354bde29f660",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NYMEX Henry Hub Natural Gas front-month futures will settle at or above $3.50 per MMBtu on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 28,
+      "deadline": "2025-12-31",
+      "confidence_pct": 49,
+      "verification_criteria": "CME Group official settlement for the prompt NG contract \u2265 $3.50/MMBtu on any trading day through 2025-12-31.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.html",
+        "https://www.eia.gov/naturalgas/weekly/"
+      ],
+      "monitoring_signals": [
+        "U.S. HDDs and cold snaps",
+        "Storage withdrawals vs. 5-year average",
+        "Production/freeze-offs and LNG feedgas flows"
+      ],
+      "rationale": "Winter weather, LNG demand, and production shifts can briefly lift prompt prices.",
+      "id": "20218b0b-d820-41cc-a649-7892a0813199",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

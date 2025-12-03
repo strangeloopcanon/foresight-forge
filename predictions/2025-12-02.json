@@ -20,7 +20,7 @@
       ],
       "rationale": "BoJ communications turned more hawkish amid above-target inflation and wage gains, pushing markets to price a non-trivial chance of a December move.",
       "id": "68bf48de-8a01-4252-afd0-f49468f92b28",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Dollar strength and resilient domestic demand support a wider deficit; tariff timing and softer global demand weigh on exports.",
       "id": "0c6bfdee-35cf-404a-879e-f009fab5faaa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Holiday-demand support and stable services activity point to modest expansion in new orders rather than a surge.",
       "id": "4d6e5432-fbd7-47fd-a273-97b02884690c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Chrome has multiple in-the-wild disclosures annually; year-end cycles often include emergency patches.",
       "id": "cba752f7-f8d0-476c-b9c7-00d095316cda",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -107,7 +107,7 @@
       ],
       "rationale": "Enforcement headlines and fragile risk sentiment into year-end elevate downside tails.",
       "id": "e2ea4ad2-42dc-4f5a-86ab-ba5a3177bf58",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -128,7 +128,7 @@
       ],
       "rationale": "High opening inventories, steady LNG and relatively mild early winter reduce drawdown risk below 75% by year-end.",
       "id": "800129bf-3991-4128-9c55-1d4c3a595f24",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "rationale": "Warm spells and high refinery runs can produce outsized weekly builds even during winter.",
       "id": "5c242228-9d1f-4636-8b3c-e4ddccbd379f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "rationale": "Record warmth has persisted; ocean heat content and lingering anomalies support a new November record.",
       "id": "ace8c0f2-3f3d-4338-b3c4-3d0bdfc467e7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -190,7 +190,7 @@
       ],
       "rationale": "Coordinated pressure on illicit crypto finance increases the likelihood of year-end sanctions actions.",
       "id": "10fd4269-f215-4121-bcb6-9cb1e0b9e555",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -212,7 +212,7 @@
       ],
       "rationale": "Soft inflation and a dovish-leaning Fed into year-end can compress term yields.",
       "id": "f978b3fc-5c03-4e81-8e76-73f137a9803b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -234,7 +234,7 @@
       ],
       "rationale": "Indicators point to stabilization without a strong rebound; a flat-ish monthly print is likely.",
       "id": "249451e4-4084-4ff5-a2d6-0d2950897db1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -255,7 +255,7 @@
       ],
       "rationale": "Decelerating inflation and anchored expectations point to a mid-2s median for 2026 core PCE.",
       "id": "352f4496-463d-4197-9391-a03df7681e1f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -277,7 +277,7 @@
       ],
       "rationale": "Seasonal demand fade and softer cracks into late December typically pressure pump prices lower.",
       "id": "4f572b30-4d3d-47ab-9292-d13f4d22357e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

@@ -1231,3 +1231,12 @@ Macro context is mixed: chatter about a potential BOJ hike supports yen-strength
 
 ---
 
+
+## 2025-12-02
+
+Today's news flow is dominated by U.S. political developments, immigration enforcement, and assorted corporate headlines. None of the items directly report on the macroeconomic releases or market benchmarks tied to the forecasts, such as ISM Services New Orders, the U.S. trade balance, Germany factory orders, or Copernicus climate data. Likewise, there is no mention of Chrome security advisories, OFAC sanctions on crypto entities, EIA petroleum statistics, BTC price levels, or the 10-year Treasury yield.
+
+Given the lack of directly relevant data, all forecasts remain pending. Key near-term checkpoints include the ISM Services release and the U.S. trade balance later this week, Germany factory orders shortly thereafter, and the C3S November climate report. Market-linked calls on BTC and the 10-year yield, as well as December central bank outcomes (FOMC SEP, BoJ), will require monitoring beyond today’s coverage.
+
+---
+

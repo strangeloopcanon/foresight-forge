@@ -1,0 +1,110 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. pauses immigration applications from travel-ban countries; officials target Afghans for deportation after D.C. shooting, signaling harsher enforcement with geopolitical ripple effects.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/02/us/politics/trump-travel-ban-citizenship-green-cards-dc-shooting.html"
+    },
+    {
+      "text": "Trump threatens military action in Venezuela; Caracas accepts U.S. migrant repatriation flights amid airspace tensions, heightening regional risk and migration policy stakes.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/02/us/politics/venezuela-migrant-deportations-trump.html"
+    },
+    {
+      "text": "Putin meets U.S. developer Steve Witkoff as Washington pushes Ukraine deal, raising concerns about private channels influencing wartime diplomacy and sanctions dynamics.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/02/world/europe/putin-witkoff-trump-ukraine-meeting.html"
+    },
+    {
+      "text": "USDA threatens to withhold SNAP funds from Democratic-led states over alleged data noncompliance, escalating federal-state conflict with potential impacts on millions\u2019 food assistance.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/02/trump-usda-snap-funding-rollins.html"
+    },
+    {
+      "text": "Michael and Susan Dell pledge $6B to 'Trump Accounts,' expanding children\u2019s savings program to 25 million; could bolster household balance sheets and future consumption.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/02/trump-accounts-claim-money.html"
+    },
+    {
+      "text": "Amazon unveils Trainium3, Nova models, autonomous AI agents, and on\u2011prem Nvidia 'AI Factories' at re:Invent, intensifying cloud AI competition and capex race.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/"
+    },
+    {
+      "text": "OpenAI faces 'code red' as Google and Anthropic gain; funding strain seen as bigger risk than rivals\u2019 models, pressuring strategic partnerships and runway.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/02/cramer-openai-code-red-gemini-google-funding.html"
+    },
+    {
+      "text": "Marvell to acquire Celestial AI for up to $5.5B; shares surge as chipmakers consolidate around optical interconnects for AI compute.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/02/mrvl-earnings-q3-2026-acquires-celestial-ai.html"
+    },
+    {
+      "text": "MongoDB jumps 22% on AI-driven database demand, while Okta slides after withholding FY guidance, highlighting bifurcation in software amid AI tailwinds and security spending uncertainty.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/02/mongodb-stock-ai-cloud-database-mdb.html"
+    },
+    {
+      "text": "Apartment rents decline again as vacancies hit record highs, easing inflation pressures but squeezing multifamily landlords and developers.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/02/apartment-rents-vacancies-november.html"
+    },
+    {
+      "text": "Potential stress brewing in key short\u2011term funding markets could force Fed action; policy shifts under next chair may increase bond risk.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/the-fed-may-need-to-act-as-potential-trouble-brews-in-a-key-corner-of-the-financial-market-2256f1b2"
+    },
+    {
+      "text": "Boeing expects higher 737 and 787 deliveries in 2026, boosting cash flow outlook; shares jump 10%.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/02/boeing-plane-deliveries-cfo.html"
+    },
+    {
+      "text": "Ancient Antarctic circulation shift released carbon that warmed the planet, offering clues on feedbacks relevant to present climate change.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251202052209.htm"
+    },
+    {
+      "text": "Twisted stacks of 2\u2011D carbon exhibit unconventional superconductivity, advancing understanding of correlated electron systems and potential quantum technologies.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencenews.org/article/twisted-carbon-graphene-superconductor"
+    }
+  ]
+}
