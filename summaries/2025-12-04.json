@@ -1,0 +1,120 @@
+{
+  "bullets": [
+    {
+      "text": "ADP: November private payrolls fell 32,000, driven by sharp small-business cuts, signaling cooling labor demand.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/03/adp-jobs-report-november-2025-private-payrolls-unexpectedly-fell-by-32000-.html"
+    },
+    {
+      "text": "Stocks closed near record highs as investors embraced weak hiring as disinflationary, supporting lower-rate expectations.",
+      "tags": [
+        "markets",
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.marketwatch.com/story/stock-market-closes-on-doorstep-of-record-territory-as-investors-focus-on-bright-side-of-weak-private-sector-hiring-d541fd19"
+    },
+    {
+      "text": "Trump moves to slash fuel-efficiency standards; analysts say rule changes won\u2019t quickly lower car prices or pump demand.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/03/trump-fuel-economy-standards.html"
+    },
+    {
+      "text": "Energy Department awards $800 million to small modular reactor projects, bolstering nuclear\u2019s role in meeting surging power demand.",
+      "tags": [
+        "energy",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/12/03/energy-department-hands-out-800m-in-grants-for-small-nuclear-reactors/"
+    },
+    {
+      "text": "Nvidia\u2019s CEO discussed chip export controls with Trump, criticized patchwork state AI rules, signaling push for national, coherent AI policy.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/03/nvidias-jensen-huang-talks-chip-controls-with-trump-hits-regulation.html"
+    },
+    {
+      "text": "Anthropic hires IPO counsel, preparing one of the largest tech offerings, signaling robust investor appetite for AI leaders.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f"
+    },
+    {
+      "text": "Microsoft shares fell on reports AI product sales missed internal targets, underscoring monetization challenges despite heavy investment.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/03/microsoft-stock-ai-foundry-sales.html"
+    },
+    {
+      "text": "Salesforce beat earnings and raised guidance, citing a powerful revenue pipeline, buoying large-cap software sentiment.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/03/salesforce-crm-q3-earnings-report-2026.html"
+    },
+    {
+      "text": "AI\u2019s voracious power needs are creating winners in utilities and grid equipment, though consumers risk higher bills if the boom reverses.",
+      "tags": [
+        "energy",
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/ai-needs-power-desperately-heres-how-to-invest-in-companies-profiting-from-the-pain-f10c0d53"
+    },
+    {
+      "text": "Trump\u2019s South Korea tariff cuts materially benefit Hyundai and GM, reshaping auto supply chains and pricing dynamics.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/03/trump-south-korea-tariffs-vehicles-hyundai-gm.html"
+    },
+    {
+      "text": "Putin warned Europe of war as Ukraine talks falter; EU races to secure long-term Ukraine financing from frozen Russian assets.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/03/russia-ready-for-war-with-europe-putin-says-before-ukraine-peace-talks.html"
+    },
+    {
+      "text": "Bitcoin has lagged lofty price predictions, highlighting persistent crypto volatility and fragile retail enthusiasm.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html"
+    },
+    {
+      "text": "JWST found a Milky Way\u2013like galaxy in the early universe, challenging timelines for rapid disk galaxy formation.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251203004729.htm"
+    },
+    {
+      "text": "Shingles vaccination correlated with substantially lower dementia risk, suggesting broad public-health and cost-saving implications.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251203004721.htm"
+    },
+    {
+      "text": "Researchers identified the first gene directly causing mental illness, opening avenues for precise diagnostics and targeted therapies.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251202052230.htm"
+    }
+  ]
+}

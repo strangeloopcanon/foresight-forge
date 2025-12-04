@@ -19,7 +19,7 @@
       ],
       "rationale": "Multiple recent Patch Tuesdays included zero-days; December often carries year-end bulletins.",
       "id": "50344172-577f-46a0-b537-126cee442fd1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Regular cadence of Russia-related designations continues amid ongoing conflict.",
       "id": "c77c257a-dff9-4292-ad78-41d0d809addb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Tech leadership remains strong; seasonal tailwinds and dovish expectations support new highs.",
       "id": "9534d7c6-0bc4-4777-95c5-258512897e12",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Medium-term expectations have been anchored near 3% despite short-term volatility.",
       "id": "539af982-c893-43b8-bb8b-80b30fe5dadc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Labor market is cooling at the margin; weekly volatility can lift prints.",
       "id": "31b83481-6f9f-4a5f-811b-3ef5dca1051d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Inflation is subdued; SNB likely to stay patient into year-end.",
       "id": "1e28988a-186e-44fb-a8cd-5529620de73d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Tight supply and AI/electrification demand create upside tail risk in copper.",
       "id": "4d678d49-c3f8-4ec1-9a84-17492952555e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Solar maximum conditions elevate the probability of moderate flares.",
       "id": "77a26ead-0ad2-4903-8a6e-a9e6d0567211",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Tail-hedging can spike into year-end but has been subdued recently.",
       "id": "1fc58e35-bc74-4304-b39e-d6c75bfe7108",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "The UK regularly aligns with allied Russia sanctions updates.",
       "id": "c85d7547-06dc-4ecd-af0b-acfb7c68dfd8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -229,7 +229,7 @@
       ],
       "rationale": "Adobe frequently patches critical flaws across Acrobat/Reader and Creative Cloud apps.",
       "id": "6cd2c3d6-5ee8-47a4-97a5-c3b5f2df70fa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -250,7 +250,7 @@
       ],
       "rationale": "Cooling inflation and soft growth impulses can pull the long end lower.",
       "id": "536e519a-e76d-44e0-b3fc-354bde29f660",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -271,7 +271,7 @@
       ],
       "rationale": "Winter weather, LNG demand, and production shifts can briefly lift prompt prices.",
       "id": "20218b0b-d820-41cc-a649-7892a0813199",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

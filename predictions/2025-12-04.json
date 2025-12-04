@@ -1,0 +1,292 @@
+{
+  "date": "2025-12-04",
+  "predictions": [
+    {
+      "text": "The European Central Bank will leave the deposit facility rate unchanged at its December 2025 policy meeting.",
+      "category": "rates",
+      "horizon_days": 8,
+      "deadline": "2025-12-12",
+      "confidence_pct": 60,
+      "verification_criteria": "ECB\u2019s official monetary policy press release on ecb.europa.eu for the December 2025 meeting shows no change to the deposit facility rate from its prior level.",
+      "evidence": [
+        "Disinflation narrative has strengthened into year-end, lowering urgency for further tightening.",
+        "Market pricing historically shows limited December policy changes absent shocks."
+      ],
+      "monitoring_signals": [
+        "Euro area HICP headline and core prints versus expectations",
+        "ECB speakers\u2019 guidance ahead of the meeting",
+        "Market-implied path from ESTR/OIS curves",
+        "PMIs and credit conditions survey trends"
+      ],
+      "rationale": "Cooling inflation and cautious ECB communication point to a hold into year-end.",
+      "id": "31f7cfc8-6da1-4177-8e06-ca7dccc818a7",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Average Hourly Earnings (Total Private, MoM, SA) for November 2025 will print between +0.2% and +0.4%.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-12-06",
+      "confidence_pct": 58,
+      "verification_criteria": "BLS Employment Situation report for November 2025 shows Average Hourly Earnings, Total Private, seasonally adjusted MoM change within +0.2% to +0.4%.",
+      "evidence": [
+        "ADP: November private payrolls fell 32,000, signaling cooling labor demand. https://www.cnbc.com/2025/12/03/adp-jobs-report-november-2025-private-payrolls-unexpectedly-fell-by-32000-.html",
+        "Stocks embraced weak hiring as disinflationary, aligning with moderate wage growth. https://www.marketwatch.com/story/stock-market-closes-on-doorstep-of-record-territory-as-investors-focus-on-bright-side-of-weak-private-sector-hiring-d541fd19"
+      ],
+      "monitoring_signals": [
+        "Atlanta Fed Wage Growth Tracker",
+        "Indeed Wage Tracker and job postings",
+        "NFIB compensation plans",
+        "ADP pay insights"
+      ],
+      "rationale": "Cooling labor demand and easing inflation pressures favor moderate wage gains.",
+      "id": "7180c39c-eb9f-4827-a8a9-cf0ae005ecf6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ISM Manufacturing PMI (headline, U.S.) for November 2025 will print between 47.5 and 49.5.",
+      "category": "macro",
+      "horizon_days": 0,
+      "deadline": "2025-12-04",
+      "confidence_pct": 55,
+      "verification_criteria": "Institute for Supply Management\u2019s official November 2025 Manufacturing PMI headline value is within 47.5\u201349.5.",
+      "evidence": [
+        "Manufacturing remained sluggish through 2025 as goods demand normalized post-pandemic.",
+        "Soft labor data (ADP) suggest ongoing cooling momentum."
+      ],
+      "monitoring_signals": [
+        "Regional Fed manufacturing surveys (Empire, Philly, Richmond)",
+        "Chicago PMI and S&P Global Manufacturing PMI",
+        "Inventories and new orders trends",
+        "Export orders and supplier deliveries"
+      ],
+      "rationale": "Regional surveys imply continued contraction but not severe deterioration.",
+      "id": "7de3a1b2-b623-4792-b6cc-0ef0a71218cd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan Consumer Sentiment Index (preliminary) for December 2025 will print between 72.0 and 79.0.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-12-13",
+      "confidence_pct": 56,
+      "verification_criteria": "University of Michigan preliminary December 2025 headline index value is between 72.0 and 79.0 per official release.",
+      "evidence": [
+        "Stocks closed near records as rate expectations eased. https://www.marketwatch.com/story/stock-market-closes-on-doorstep-of-record-territory-as-investors-focus-on-bright-side-of-weak-private-sector-hiring-d541fd19",
+        "Weaker hiring can buoy real income sentiment if inflation cools."
+      ],
+      "monitoring_signals": [
+        "Gasoline prices and mortgage rates",
+        "Equity market levels and volatility",
+        "Consumer inflation expectations series (1-year, 5-year)",
+        "Job market perceptions in high-frequency surveys"
+      ],
+      "rationale": "Easier financial conditions support sentiment, offset by mixed job signals.",
+      "id": "d7a6de95-4e95-4027-a25d-f3f2d68fa07d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Apple will publish at least one December 2025 security update acknowledging a vulnerability that 'may have been actively exploited.'",
+      "category": "tech",
+      "horizon_days": 27,
+      "deadline": "2025-12-31",
+      "confidence_pct": 59,
+      "verification_criteria": "Apple\u2019s security updates page for December 2025 contains language indicating an actively exploited vulnerability (e.g., 'Apple is aware of a report that this issue may have been actively exploited').",
+      "evidence": [
+        "Apple regularly discloses actively exploited 0-days across iOS/macOS.",
+        "Heightened late-year vulnerability disclosures across vendors.",
+        "Apple Security Updates portal: https://support.apple.com/en-us/HT201222"
+      ],
+      "monitoring_signals": [
+        "CISA KEV catalog additions referencing Apple CVEs",
+        "Threat intel reports (Citizen Lab, Project Zero)",
+        "Exploit broker activity and iOS/macOS zero-day chatter",
+        "Apple Rapid Security Response releases"
+      ],
+      "rationale": "Apple frequently patches year-round; Q4 often sees at least one exploited 0\u2011day disclosed.",
+      "id": "5a3974c4-e05c-485f-9fd8-41df26e77f72",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The EU will announce at least one new Russia-related sanctions designation by 2025-12-31 via an official Council press release or the Official Journal.",
+      "category": "geopolitics",
+      "horizon_days": 27,
+      "deadline": "2025-12-31",
+      "confidence_pct": 62,
+      "verification_criteria": "Publication of a Council of the EU press release or Official Journal entry in December 2025 that adds at least one Russia-related designation.",
+      "evidence": [
+        "EU racing to secure Ukraine financing tied to Russian assets. https://www.cnbc.com/2025/12/03/russia-ready-for-war-with-europe-putin-says-before-ukraine-peace-talks.html",
+        "Regular EU sanctions maintenance cycles into year-end."
+      ],
+      "monitoring_signals": [
+        "EU Council agenda/COREPER notes",
+        "Draft OJ listings circulating in Brussels press",
+        "G7 coordination statements",
+        "Member state foreign ministry briefings"
+      ],
+      "rationale": "Ongoing Russia-Ukraine dynamics and EU financing needs sustain incremental sanctions actions.",
+      "id": "2ddc67cf-9ece-4067-8386-a2ba42cb7d81",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "BTC/USD spot will trade at or below $60,000 on at least one UTC day by 2025-12-31.",
+      "category": "markets",
+      "horizon_days": 27,
+      "deadline": "2025-12-31",
+      "confidence_pct": 53,
+      "verification_criteria": "Any reputable consolidated spot source (e.g., Coinbase/CoinDesk daily low on a UTC calendar day) shows BTC/USD \u2264 $60,000.",
+      "evidence": [
+        "Bitcoin has lagged lofty predictions; volatility persists. https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+        "Macro event risk (FOMC, CPI) can trigger downside swings."
+      ],
+      "monitoring_signals": [
+        "Funding rates and futures basis",
+        "Stablecoin flows and exchange reserves",
+        "Risk sentiment (VIX) and DXY moves",
+        "On-chain realized volatility and whale flows"
+      ],
+      "rationale": "Year-end macro events and fragile risk appetite leave downside tails open.",
+      "id": "5ab0343e-c662-44fa-a551-d747ab7070e9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe VIX will close at or above 18.0 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 27,
+      "deadline": "2025-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Cboe\u2019s official VIX historical data shows a daily close \u2265 18.0 on any trading day through 2025-12-31.",
+      "evidence": [
+        "Low-volatility regimes can be punctuated by sharp event-driven spikes.",
+        "December features dense macro/policy catalysts (CPI, FOMC)."
+      ],
+      "monitoring_signals": [
+        "Implied/realized vol spread",
+        "Skew and tail-hedging flows",
+        "Macro event calendar (CPI, FOMC, geopolitics)",
+        "Credit spreads and liquidity metrics"
+      ],
+      "rationale": "Even calm markets often see at least one volatility flare into year-end.",
+      "id": "310423a5-d2a6-4994-bf2d-61ee2c2e3e1e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Seasonally adjusted U.S. Initial Jobless Claims for the week ending 2025-11-29 will print between 220,000 and 245,000.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-12-05",
+      "confidence_pct": 57,
+      "verification_criteria": "U.S. Department of Labor Weekly Claims news release dated 2025-12-05 shows initial claims (seasonally adjusted) for the week ended 2025-11-29 within 220k\u2013245k.",
+      "evidence": [
+        "ADP shows weakening labor demand. https://www.cnbc.com/2025/12/03/adp-jobs-report-november-2025-private-payrolls-unexpectedly-fell-by-32000-.html",
+        "Thanksgiving weeks often introduce mild volatility but within common ranges."
+      ],
+      "monitoring_signals": [
+        "Challenger job cuts",
+        "Online job postings and layoff trackers",
+        "Google Trends for unemployment-related queries",
+        "Continuing claims trajectory"
+      ],
+      "rationale": "Softening labor demand with typical seasonal noise should keep claims in a moderate band.",
+      "id": "a79f6eea-43c9-4e65-9b34-f48b7d7f2c3b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PCE Price Index (headline, MoM, SA) for November 2025 will print between +0.0% and +0.2%.",
+      "category": "macro",
+      "horizon_days": 16,
+      "deadline": "2025-12-20",
+      "confidence_pct": 60,
+      "verification_criteria": "BEA\u2019s Personal Income and Outlays report for November 2025 shows headline PCE MoM within +0.0% to +0.2%.",
+      "evidence": [
+        "Markets are embracing disinflation signals into year-end. https://www.marketwatch.com/story/stock-market-closes-on-doorstep-of-record-territory-as-investors-focus-on-bright-side-of-weak-private-sector-hiring-d541fd19",
+        "Cooling goods prices and stable services moderation."
+      ],
+      "monitoring_signals": [
+        "CPI/PPI details for November (weights to PCE)",
+        "Gasoline prices and health-care components",
+        "Rent/OER momentum",
+        "High-frequency retail pricing data"
+      ],
+      "rationale": "Disinflation trend and energy softness point to a low monthly PCE print.",
+      "id": "46326ebe-867a-4396-956a-ca46f40dcd5f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The Bank of Canada will leave its policy rate unchanged at its December 2025 decision.",
+      "category": "rates",
+      "horizon_days": 6,
+      "deadline": "2025-12-10",
+      "confidence_pct": 61,
+      "verification_criteria": "BoC\u2019s December 2025 rate statement posted on bankofcanada.ca shows no change in the target overnight rate from its prior setting.",
+      "evidence": [
+        "Recent Canadian growth has been soft, reducing urgency for hikes.",
+        "Inflation progress has been uneven but generally easing into year-end."
+      ],
+      "monitoring_signals": [
+        "Canada CPI and core measures (trim/median)",
+        "GDP/monthly output and labor market prints",
+        "OIS market-implied path",
+        "BoC communications and speeches"
+      ],
+      "rationale": "Soft growth and ongoing disinflation argue for a policy pause.",
+      "id": "fd2967b1-4ee5-434b-a157-d5e9da60327f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "ICE Endex TTF front-month natural gas will settle at or below \u20ac35.00/MWh on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 27,
+      "deadline": "2025-12-31",
+      "confidence_pct": 54,
+      "verification_criteria": "ICE Endex official settlement prices for TTF front-month show a settlement \u2264 \u20ac35.00/MWh on any trading day through 2025-12-31.",
+      "evidence": [
+        "EU gas storage remains seasonally high entering winter.",
+        "LNG supply and mild weather scenarios cap price spikes."
+      ],
+      "monitoring_signals": [
+        "EU gas storage levels (GIE/AGSI+)",
+        "Weather forecasts and HDDs",
+        "LNG cargo arrivals and pipeline flows",
+        "Outages at key facilities"
+      ],
+      "rationale": "Comfortable storage and LNG supply increase odds of a sub-\u20ac35 print.",
+      "id": "18ba15e9-2cc5-4b07-ae2f-c2c91d979f54",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 5-Year Treasury yield (FRED: DGS5) will close at or below 3.95% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 27,
+      "deadline": "2025-12-31",
+      "confidence_pct": 48,
+      "verification_criteria": "FRED series DGS5 daily close at or below 3.95% on any trading day through 2025-12-31.",
+      "evidence": [
+        "Weak labor data and disinflation expectations can pull intermediate yields lower.",
+        "Event risk (CPI, FOMC) may induce duration rallies."
+      ],
+      "monitoring_signals": [
+        "CPI/PPI/PCE outcomes versus consensus",
+        "FOMC statement, SEP and dots",
+        "Term premium estimates and breakevens",
+        "Auction demand (5y, 7y) and RV flows"
+      ],
+      "rationale": "A soft data surprise into year-end could briefly push the 5y below 4%.",
+      "id": "4610417d-916a-4906-9d7b-c37801d828fd",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

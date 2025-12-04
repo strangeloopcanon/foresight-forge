@@ -1,0 +1,70 @@
+{
+  "date": "2025-12-03",
+  "assessments": [
+    {
+      "id": "50344172-577f-46a0-b537-126cee442fd1",
+      "status": "pending",
+      "status_rationale": "No reporting today on December Patch Tuesday contents; the release has not occurred yet."
+    },
+    {
+      "id": "c77c257a-dff9-4292-ad78-41d0d809addb",
+      "status": "pending",
+      "status_rationale": "No OFAC/Treasury press release noted today announcing Russia-related designations."
+    },
+    {
+      "id": "9534d7c6-0bc4-4777-95c5-258512897e12",
+      "status": "pending",
+      "status_rationale": "Coverage says stocks are near record territory but does not confirm a new S&P 500 all-time high; time remains before deadline."
+    },
+    {
+      "id": "539af982-c893-43b8-bb8b-80b30fe5dadc",
+      "status": "pending",
+      "status_rationale": "December 2025 preliminary University of Michigan data not reported yet."
+    },
+    {
+      "id": "31b83481-6f9f-4a5f-811b-3ef5dca1051d",
+      "status": "pending",
+      "status_rationale": "No weekly initial claims figure cited today; outcome still open."
+    },
+    {
+      "id": "1e28988a-186e-44fb-a8cd-5529620de73d",
+      "status": "pending",
+      "status_rationale": "December SNB policy decision has not been reported yet."
+    },
+    {
+      "id": "4d678d49-c3f8-4ec1-9a84-17492952555e",
+      "status": "pending",
+      "status_rationale": "No mention of COMEX copper settlements; threshold not confirmed."
+    },
+    {
+      "id": "77a26ead-0ad2-4903-8a6e-a9e6d0567211",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC R2 alert referenced in today\u2019s coverage."
+    },
+    {
+      "id": "1fc58e35-bc74-4304-b39e-d6c75bfe7108",
+      "status": "pending",
+      "status_rationale": "No reporting on Cboe SKEW levels; no evidence of \u2265145 close."
+    },
+    {
+      "id": "c85d7547-06dc-4ecd-af0b-acfb7c68dfd8",
+      "status": "pending",
+      "status_rationale": "No UK government press release on Russia-related sanctions noted today."
+    },
+    {
+      "id": "6cd2c3d6-5ee8-47a4-97a5-c3b5f2df70fa",
+      "status": "pending",
+      "status_rationale": "Adobe\u2019s December 2025 security bulletins are not out yet per today\u2019s news."
+    },
+    {
+      "id": "536e519a-e76d-44e0-b3fc-354bde29f660",
+      "status": "pending",
+      "status_rationale": "No data today on the 30-year Treasury yield closing \u22644.25%."
+    },
+    {
+      "id": "20218b0b-d820-41cc-a649-7892a0813199",
+      "status": "pending",
+      "status_rationale": "No mention of Henry Hub front-month settlements hitting \u2265$3.50."
+    }
+  ]
+}
