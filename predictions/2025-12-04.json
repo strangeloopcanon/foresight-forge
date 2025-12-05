@@ -20,7 +20,7 @@
       ],
       "rationale": "Cooling inflation and cautious ECB communication point to a hold into year-end.",
       "id": "31f7cfc8-6da1-4177-8e06-ca7dccc818a7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Cooling labor demand and easing inflation pressures favor moderate wage gains.",
       "id": "7180c39c-eb9f-4827-a8a9-cf0ae005ecf6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Regional surveys imply continued contraction but not severe deterioration.",
       "id": "7de3a1b2-b623-4792-b6cc-0ef0a71218cd",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Easier financial conditions support sentiment, offset by mixed job signals.",
       "id": "d7a6de95-4e95-4027-a25d-f3f2d68fa07d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "Apple frequently patches year-round; Q4 often sees at least one exploited 0\u2011day disclosed.",
       "id": "5a3974c4-e05c-485f-9fd8-41df26e77f72",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -131,7 +131,7 @@
       ],
       "rationale": "Ongoing Russia-Ukraine dynamics and EU financing needs sustain incremental sanctions actions.",
       "id": "2ddc67cf-9ece-4067-8386-a2ba42cb7d81",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "rationale": "Year-end macro events and fragile risk appetite leave downside tails open.",
       "id": "5ab0343e-c662-44fa-a551-d747ab7070e9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "rationale": "Even calm markets often see at least one volatility flare into year-end.",
       "id": "310423a5-d2a6-4994-bf2d-61ee2c2e3e1e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "rationale": "Softening labor demand with typical seasonal noise should keep claims in a moderate band.",
       "id": "a79f6eea-43c9-4e65-9b34-f48b7d7f2c3b",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "rationale": "Disinflation trend and energy softness point to a low monthly PCE print.",
       "id": "46326ebe-867a-4396-956a-ca46f40dcd5f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -263,7 +263,7 @@
       ],
       "rationale": "Comfortable storage and LNG supply increase odds of a sub-\u20ac35 print.",
       "id": "18ba15e9-2cc5-4b07-ae2f-c2c91d979f54",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -285,7 +285,7 @@
       ],
       "rationale": "A soft data surprise into year-end could briefly push the 5y below 4%.",
       "id": "4610417d-916a-4906-9d7b-c37801d828fd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

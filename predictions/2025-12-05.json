@@ -1,0 +1,282 @@
+{
+  "date": "2025-12-05",
+  "predictions": [
+    {
+      "text": "U.S. Nonfarm Payrolls (total, seasonally adjusted) for November 2025 will print between +120,000 and +220,000.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-12-06",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify the initial headline change in total nonfarm payroll employment in the BLS Employment Situation news release (Table B-1 headline figure or release summary).",
+      "evidence": [
+        "https://www.bls.gov/schedule/news_release/empsit.htm",
+        "https://www.cnbc.com/2025/12/04/layoff-announcements-this-year-top-1point1-million-the-most-since-2020-when-pandemic-hit-challenger-says.html"
+      ],
+      "monitoring_signals": [
+        "ADP National Employment Report",
+        "Initial and continuing jobless claims",
+        "Challenger, Gray & Christmas layoff announcements",
+        "ISM Manufacturing and Services Employment indices",
+        "Job postings trends (Indeed, LinkUp)"
+      ],
+      "rationale": "Labor demand is cooling but still positive; claims are contained. A modest payroll gain is consistent with mixed business surveys and elevated layoff announcements.",
+      "id": "9b41ab20-0109-4df2-bd88-84c31bdfc78b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Average Weekly Hours (Total Private, seasonally adjusted) for November 2025 will print between 34.2 and 34.4 hours.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-12-06",
+      "confidence_pct": 67,
+      "verification_criteria": "Check BLS Employment Situation, series for Average Weekly Hours of All Employees: Total Private (FRED: AWHAEMAN or BLS CES0500000002). Use the initial release value.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/AWHAEMAN",
+        "https://www.bls.gov/news.release/empsit.nr0.htm"
+      ],
+      "monitoring_signals": [
+        "Manufacturing hours in ISM Manufacturing",
+        "Service-sector activity in ISM Services",
+        "Announcements of overtime reductions by large employers"
+      ],
+      "rationale": "Average weekly hours are historically stable near 34.3; modest demand softness suggests limited deviation.",
+      "id": "be577089-1805-4ac7-95b1-6ce60cf49819",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Labor Force Participation Rate (seasonally adjusted) for November 2025 will print between 62.5% and 62.9%.",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2025-12-06",
+      "confidence_pct": 63,
+      "verification_criteria": "Confirm in BLS Employment Situation (Household Survey), series LNS11300000. Use the initial reported rate.",
+      "evidence": [
+        "https://www.bls.gov/news.release/empsit.nr0.htm",
+        "https://fred.stlouisfed.org/series/CIVPART"
+      ],
+      "monitoring_signals": [
+        "Prime-age (25\u201354) participation trends",
+        "Household survey employment growth",
+        "Immigration and population growth estimates"
+      ],
+      "rationale": "Participation has been range-bound; incremental labor supply from demographics and immigration points to a stable reading.",
+      "id": "dd3b1f2d-fd01-4c16-80af-99d499fd2582",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "University of Michigan 1-year inflation expectations (preliminary) for December 2025 will print between 2.7% and 3.5%.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-12-13",
+      "confidence_pct": 62,
+      "verification_criteria": "Verify in the University of Michigan Surveys of Consumers preliminary release; use the headline 1-year inflation expectations value.",
+      "evidence": [
+        "https://data.sca.isr.umich.edu/",
+        "https://www.federalreserve.gov/newsevents/pressreleases/other20251204a.htm"
+      ],
+      "monitoring_signals": [
+        "Gasoline prices trend (AAA/EIA)",
+        "CPI and PCE recent prints",
+        "Consumer sentiment headline and expectations components"
+      ],
+      "rationale": "Short-term expectations have eased alongside disinflation and lower fuel prices but remain sensitive; a 2.7\u20133.5% band captures typical volatility.",
+      "id": "d6dbc398-ebbf-4c25-9a66-e2c5d379653c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "China CPI (headline, YoY, NSA) for November 2025 will print between -0.3% and +0.5%.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-12-10",
+      "confidence_pct": 55,
+      "verification_criteria": "Check China NBS CPI year-over-year headline inflation in the official monthly release; use the initially published YoY rate.",
+      "evidence": [
+        "http://www.stats.gov.cn/english/PressRelease/",
+        "https://www.nytimes.com/2025/12/04/world/asia/china-france-macron-ukraine.html"
+      ],
+      "monitoring_signals": [
+        "Food prices (particularly pork) and energy prices in China",
+        "PMI input/output price indices",
+        "CNY exchange rate moves and import prices"
+      ],
+      "rationale": "Weak domestic demand and prior deflationary pressures suggest subdued inflation around zero.",
+      "id": "fa7d8b4d-3a24-4865-ae0e-5dc025b46636",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will announce at least one Iran-related sanctions designation via a U.S. Treasury press release by 2025-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 26,
+      "deadline": "2025-12-31",
+      "confidence_pct": 57,
+      "verification_criteria": "A U.S. Treasury press release on treasury.gov explicitly listing new Iran-related SDN designations by OFAC before 2026-01-01 UTC.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://ofac.treasury.gov/sanctions-programs-and-country-information/iran-sanctions"
+      ],
+      "monitoring_signals": [
+        "Regional escalation involving Iran or proxies",
+        "Congressional or White House statements on Iran",
+        "EU/UK parallel Iran designations"
+      ],
+      "rationale": "Year-end sanction packages are common; geopolitical tensions keep Iran actions likely.",
+      "id": "15971cca-c71b-483c-82f9-f1336a4fd079",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cisco PSIRT will publish at least two security advisories in December 2025 with CVSS v3.x Base Score \u2265 9.8.",
+      "category": "tech",
+      "horizon_days": 26,
+      "deadline": "2025-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Count distinct December 2025 Cisco PSIRT advisories on tools.cisco.com with CVSS v3.x Base Score \u2265 9.8; publication date in December UTC.",
+      "evidence": [
+        "https://tools.cisco.com/security/center/publicationListing.x",
+        "https://blog.talosintelligence.com/"
+      ],
+      "monitoring_signals": [
+        "Talos blog previews of critical Cisco bugs",
+        "CISA KEV additions referencing Cisco",
+        "Exploit activity noted by security vendors"
+      ],
+      "supersedes_id": "a5418664",
+      "rationale": "Cisco often batches critical fixes; two in a month is plausible but not assured.",
+      "id": "152194e7-eb28-4185-b6f8-e785fe45341c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Nasdaq-100 Index (NDX) will close at a new all-time high on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 26,
+      "deadline": "2025-12-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Confirm the highest-ever official NDX closing level by 2025-12-31 UTC using Nasdaq index data.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/04/nvidia-has-a-cash-problem-too-much-of-it.html",
+        "https://www.cnbc.com/2025/12/04/microsoft-will-raise-prices-of-commercial-office-bundles-in-july-.html",
+        "https://techcrunch.com/2025/12/04/anthropic-signs-200m-deal-to-bring-its-llms-to-snowflakes-customers/"
+      ],
+      "monitoring_signals": [
+        "Mega-cap tech earnings revisions and guidance",
+        "Buyback announcements/dividend increases",
+        "Rates trajectory (U.S. 10Y yield) and financial conditions"
+      ],
+      "rationale": "AI-driven mega-cap momentum, pricing power, and strong balance sheets support incremental highs into year-end.",
+      "id": "f578a507-5672-4477-b390-95e226fabe8f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "In at least one Weekly Petroleum Status Report released by 2025-12-31, U.S. motor gasoline stocks will increase by at least 5.0 million barrels week-over-week.",
+      "category": "energy",
+      "horizon_days": 26,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "Check EIA Weekly Petroleum Status Report; compare total motor gasoline stocks week-over-week. A qualifying report shows a \u2265 +5.0 million barrel change.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.cnbc.com/2025/12/04/layoff-announcements-this-year-top-1point1-million-the-most-since-2020-when-pandemic-hit-challenger-says.html"
+      ],
+      "monitoring_signals": [
+        "Refinery utilization rates and turnaround schedules",
+        "Import levels and blending components",
+        "Demand (product supplied) seasonality"
+      ],
+      "rationale": "Seasonal builds are common in December as refiners increase output while demand softens post-Thanksgiving.",
+      "id": "b8929cea-aa0c-48e9-911f-5f821869fbca",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Android\u2019s December 2025 Security Bulletin will include at least one Critical-severity remote code execution vulnerability in Framework, System, or Media components.",
+      "category": "tech",
+      "horizon_days": 5,
+      "deadline": "2025-12-10",
+      "confidence_pct": 70,
+      "verification_criteria": "Confirm on source.android.com/security/bulletin/2025-12 with a listed CVE marked Critical and RCE in Framework, System, or Media.",
+      "evidence": [
+        "https://source.android.com/security/bulletin",
+        "https://www.google.com/android/security/"
+      ],
+      "monitoring_signals": [
+        "Preview disclosures from OEM advisories (Samsung, Pixel)",
+        "Project Zero and security vendor pre-briefs",
+        "CVE assignment activity for Android components"
+      ],
+      "rationale": "Android monthly bulletins frequently include at least one Critical RCE in core components.",
+      "id": "64ccbfc1-51c9-414d-b454-fdbadd354766",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "NOAA SWPC will issue at least one S3 (Strong) Solar Radiation Storm alert or warning by 2025-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 26,
+      "deadline": "2025-12-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify an NOAA SWPC alert or warning explicitly labeled S3 (Strong) Solar Radiation Storm posted before 2026-01-01 UTC.",
+      "evidence": [
+        "https://www.swpc.noaa.gov/products/alerts-watches-and-warnings",
+        "https://www.swpc.noaa.gov/news/solar-cycle-25-status-updates"
+      ],
+      "monitoring_signals": [
+        "Solar active region counts and flare forecasts",
+        "Solar proton flux (GOES) rising toward thresholds",
+        "NOAA watches indicating elevated risk"
+      ],
+      "rationale": "Solar Cycle 25 activity remains elevated near peak, increasing odds of an S3 event in December.",
+      "id": "13fb1b6c-4272-4e5c-9355-91c4c7b3e318",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. PCE Price Index (headline, YoY, NSA) for November 2025 will print between 2.5% and 2.9%.",
+      "category": "macro",
+      "horizon_days": 15,
+      "deadline": "2025-12-20",
+      "confidence_pct": 62,
+      "verification_criteria": "Check BEA Personal Income and Outlays release; use the headline PCE Price Index year-over-year rate as initially reported.",
+      "evidence": [
+        "https://www.bea.gov/news/schedule",
+        "https://www.federalreserve.gov/newsevents/pressreleases/other20251204a.htm"
+      ],
+      "monitoring_signals": [
+        "CPI/PPI monthly prints and components mapping to PCE",
+        "Health care and housing services components",
+        "Gasoline prices into November"
+      ],
+      "rationale": "Disinflation continues with energy relief and moderating core services; YoY PCE likely high-2% range.",
+      "id": "f1b86b2e-7e03-4a8d-a037-8c70eaad3217",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NFIB Small Business Optimism Index for November 2025 will print between 90.0 and 92.5.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-12-10",
+      "confidence_pct": 57,
+      "verification_criteria": "Confirm the headline NFIB Small Business Optimism Index level in NFIB\u2019s official November 2025 release.",
+      "evidence": [
+        "https://www.nfib.com/surveys/small-business-economic-trends/",
+        "https://www.cnbc.com/2025/12/04/layoff-announcements-this-year-top-1point1-million-the-most-since-2020-when-pandemic-hit-challenger-says.html"
+      ],
+      "monitoring_signals": [
+        "NFIB hiring plans and compensation subindices",
+        "Rates and credit conditions for small firms",
+        "Retail sales trends for small businesses"
+      ],
+      "rationale": "Small-business sentiment remains subdued but stable amid softer demand and easing cost pressures.",
+      "id": "f32c12d1-eb66-45da-af5d-2ed98a8da1f3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

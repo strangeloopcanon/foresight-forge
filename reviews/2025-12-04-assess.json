@@ -1,0 +1,70 @@
+{
+  "date": "2025-12-04",
+  "assessments": [
+    {
+      "id": "31f7cfc8-6da1-4177-8e06-ca7dccc818a7",
+      "status": "pending",
+      "status_rationale": "The ECB\u2019s December 2025 meeting has not occurred yet and there is no mention of a rate decision in today\u2019s news."
+    },
+    {
+      "id": "7180c39c-eb9f-4827-a8a9-cf0ae005ecf6",
+      "status": "pending",
+      "status_rationale": "The November 2025 Average Hourly Earnings data is due with the U.S. jobs report; today\u2019s news does not report the figure."
+    },
+    {
+      "id": "7de3a1b2-b623-4792-b6cc-0ef0a71218cd",
+      "status": "needs-clarification",
+      "status_rationale": "The November ISM Manufacturing PMI should be available by now, but the provided news items do not cite the value; verification from the official release is needed."
+    },
+    {
+      "id": "d7a6de95-4e95-4027-a25d-f3f2d68fa07d",
+      "status": "pending",
+      "status_rationale": "The University of Michigan preliminary December sentiment release is still ahead; no figure reported in today\u2019s news."
+    },
+    {
+      "id": "5a3974c4-e05c-485f-9fd8-41df26e77f72",
+      "status": "pending",
+      "status_rationale": "No report of a December 2025 Apple security update acknowledging an actively exploited vulnerability appears in today\u2019s news."
+    },
+    {
+      "id": "2ddc67cf-9ece-4067-8386-a2ba42cb7d81",
+      "status": "pending",
+      "status_rationale": "While there is geopolitical coverage, there is no EU Council or Official Journal notice of new Russia-related designations in today\u2019s items."
+    },
+    {
+      "id": "5ab0343e-c662-44fa-a551-d747ab7070e9",
+      "status": "pending",
+      "status_rationale": "No BTC/USD price level references are provided in today\u2019s news to confirm a \u2264$60,000 print."
+    },
+    {
+      "id": "310423a5-d2a6-4994-bf2d-61ee2c2e3e1e",
+      "status": "pending",
+      "status_rationale": "There is no mention of VIX levels in today\u2019s coverage to confirm a \u226518.0 close."
+    },
+    {
+      "id": "a79f6eea-43c9-4e65-9b34-f48b7d7f2c3b",
+      "status": "needs-clarification",
+      "status_rationale": "Initial Jobless Claims for the week ending 2025-11-29 should be released, but today\u2019s news does not cite the number; official data required to grade."
+    },
+    {
+      "id": "46326ebe-867a-4396-956a-ca46f40dcd5f",
+      "status": "pending",
+      "status_rationale": "The November PCE release is not yet due per the deadline, and no figures are referenced in today\u2019s news."
+    },
+    {
+      "id": "fd2967b1-4e95-434b-a157-d5e9da60327f",
+      "status": "pending",
+      "status_rationale": "No Bank of Canada December 2025 rate decision is reported in today\u2019s items; the meeting appears still forthcoming."
+    },
+    {
+      "id": "18ba15e9-2cc5-4b07-ae2f-c2c91d979f54",
+      "status": "pending",
+      "status_rationale": "No settlement levels for ICE Endex TTF front-month are mentioned to confirm a \u2264\u20ac35/MWh day."
+    },
+    {
+      "id": "4610417d-916a-4906-9d7b-c37801d828fd",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage does not include U.S. 5-year yield closes; cannot confirm a \u22643.95% day yet."
+    }
+  ]
+}

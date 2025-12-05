@@ -1248,3 +1248,12 @@ Policy headlines focus on fuel-efficiency rollbacks, immigration operations, and
 
 ---
 
+
+## 2025-12-04
+
+Today’s news flow is dominated by U.S. politics, legal actions, and corporate headlines, with little direct macroeconomic data. As a result, most predictions remain pending, either because the relevant events have not occurred yet (central bank decisions, PCE, UMich) or because the day’s articles do not provide the needed market or data points (BTC level, VIX close, TTF gas settle, 5-year Treasury yield).
+
+Two items likely have results available but are not covered here: the ISM Manufacturing PMI for November and U.S. Initial Jobless Claims for the week ending November 29. Without explicit figures in the provided sources, both are marked needs-clarification pending confirmation from the official releases. Geopolitical coverage around Russia and Europe could influence sanctions and energy markets later in the month, but nothing in today’s digest resolves those forecasts.
+
+---
+
