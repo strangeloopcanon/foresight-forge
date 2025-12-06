@@ -1257,3 +1257,12 @@ Two items likely have results available but are not covered here: the ISM Manufa
 
 ---
 
+
+## 2025-12-05
+
+None of today’s articles provide the specific economic prints or technical releases needed to adjudicate the November Employment Situation (payrolls, participation, weekly hours), NFIB, China CPI, University of Michigan inflation expectations, Android’s December security bulletin, or the November PCE YoY figure. Likewise, there is no clear evidence regarding OFAC Iran sanctions actions, NOAA SWPC S3 storm alerts, a large weekly gasoline build, or a new Nasdaq-100 all-time high.
+
+While there is broader market and policy news (e.g., Treasury market moves, tech earnings, and large media M&A) and a note on September core PCE at 2.8%, none of this directly resolves the forecasted outcomes. Key checkpoints ahead include Dec. 10 (Android bulletin, China CPI, NFIB), Dec. 13 (UMich prelim), Dec. 20 (PCE), weekly EIA reports for gasoline stocks, and ongoing monitoring for OFAC actions and market highs through year-end.
+
+---
+

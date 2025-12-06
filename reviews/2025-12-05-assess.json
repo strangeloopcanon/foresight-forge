@@ -1,0 +1,70 @@
+{
+  "date": "2025-12-05",
+  "assessments": [
+    {
+      "id": "9b41ab20-0109-4df2-bd88-84c31bdfc78b",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news feed contains no BLS Employment Situation report or specific nonfarm payroll figure for November 2025; no independent confirmation found."
+    },
+    {
+      "id": "be577089-1805-4ac7-95b1-6ce60cf49819",
+      "status": "pending",
+      "status_rationale": "No coverage of Average Weekly Hours in the provided articles; the Employment Situation details are absent."
+    },
+    {
+      "id": "dd3b1f2d-fd01-4c16-80af-99d499fd2582",
+      "status": "pending",
+      "status_rationale": "No mention of the Labor Force Participation Rate in the news items; Employment Situation metrics not reported here."
+    },
+    {
+      "id": "d6dbc398-ebbf-4c25-9a66-e2c5d379653c",
+      "status": "pending",
+      "status_rationale": "University of Michigan preliminary December expectations are not referenced; release is due closer to Dec. 13."
+    },
+    {
+      "id": "fa7d8b4d-3a24-4865-ae0e-5dc025b46636",
+      "status": "pending",
+      "status_rationale": "No China CPI (November) print is cited; that release is expected around Dec. 10."
+    },
+    {
+      "id": "15971cca-c71b-483c-82f9-f1336a4fd079",
+      "status": "pending",
+      "status_rationale": "No OFAC Iran-related designations reported today; window remains open through Dec. 31."
+    },
+    {
+      "id": "152194e7-eb28-4185-b6f8-e785fe45341c",
+      "status": "pending",
+      "status_rationale": "No Cisco PSIRT advisories mentioned; December has just begun and outcome depends on future disclosures."
+    },
+    {
+      "id": "f578a507-5672-4477-b390-95e226fabe8f",
+      "status": "pending",
+      "status_rationale": "No report of a new Nasdaq-100 all-time high in the articles; market pieces do not confirm such a milestone."
+    },
+    {
+      "id": "b8929cea-aa0c-48e9-911f-5f821869fbca",
+      "status": "pending",
+      "status_rationale": "No Weekly Petroleum Status Report figures are cited; no evidence of a \u22655.0 million barrel gasoline build."
+    },
+    {
+      "id": "64ccbfc1-51c9-414d-b454-fdbadd354766",
+      "status": "pending",
+      "status_rationale": "Android\u2019s December 2025 Security Bulletin is not referenced; expected around Dec. 10."
+    },
+    {
+      "id": "13fb1b6c-4272-4e5c-9355-91c4c7b3e318",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC S3 (Strong) Solar Radiation Storm alert or warning reported; monitoring continues through month-end."
+    },
+    {
+      "id": "f1b86b2e-7e03-4a8d-a037-8c70eaad3217",
+      "status": "pending",
+      "status_rationale": "No November 2025 PCE YoY data in today\u2019s coverage; a separate item references September data only."
+    },
+    {
+      "id": "f32c12d1-eb66-45da-af5d-2ed98a8da1f3",
+      "status": "pending",
+      "status_rationale": "No NFIB Small Business Optimism print mentioned; November data typically releases around Dec. 10."
+    }
+  ]
+}

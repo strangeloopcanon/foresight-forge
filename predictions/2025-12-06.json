@@ -1,0 +1,230 @@
+{
+  "date": "2025-12-06",
+  "predictions": [
+    {
+      "text": "U.S. CPI (headline, MoM, seasonally adjusted) for November 2025 will print between -0.1% and +0.2%.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-12-12",
+      "confidence_pct": 60,
+      "log_odds": 0.41,
+      "verification_criteria": "Verify in BLS CPI-U news release Table 1; the 'All items' percent change from preceding month (SA) must fall within the stated range.",
+      "evidence": [
+        "https://www.bls.gov/news.release/cpi.nr0.htm",
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+      ],
+      "monitoring_signals": [
+        "Cleveland Fed CPI nowcast for November",
+        "AAA national average gasoline prices",
+        "Manheim used vehicle value index (monthly/weekly)",
+        "EIA retail gasoline/diesel price trends"
+      ],
+      "rationale": "Disinflation trend persists, with soft goods and energy offsetting sticky shelter.",
+      "id": "98008c50-950e-4d64-b62f-7f4ea905ca49",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Core CPI (MoM, SA) for November 2025 will print between +0.1% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-12-12",
+      "confidence_pct": 62,
+      "log_odds": 0.49,
+      "verification_criteria": "Verify in BLS CPI news release Table 1; the 'All items less food and energy' percent change from preceding month (SA) must be within range.",
+      "evidence": [
+        "https://www.bls.gov/news.release/cpi.nr0.htm",
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting"
+      ],
+      "monitoring_signals": [
+        "Market rents (ZORI, Apartment List) as shelter lead indicators",
+        "Used car auction prices (Manheim)",
+        "Retail discounting (Adobe Digital Price Index) for goods"
+      ],
+      "rationale": "Core services remain sticky but moderating; goods disinflation continues.",
+      "id": "f548533c-5f95-4fa6-8d8d-3516e9245601",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "University of Michigan Consumer Sentiment Index (final) for December 2025 will print between 73.0 and 80.0.",
+      "category": "macro",
+      "horizon_days": 14,
+      "deadline": "2025-12-20",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "Verify in the University of Michigan final December release; the headline Consumer Sentiment Index must be within range.",
+      "evidence": [
+        "https://data.sca.isr.umich.edu/",
+        "https://www.sca.isr.umich.edu/"
+      ],
+      "monitoring_signals": [
+        "Preliminary UoM reading and revisions",
+        "Gasoline price movements before survey close",
+        "Equity market performance and media coverage of inflation"
+      ],
+      "rationale": "Final readings typically revise modestly from preliminaries; gas and markets drive sentiment.",
+      "id": "57f9c67b-e0a9-4171-aebd-89b670718a51",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At the December 2025 FOMC meeting, the SEP median projection for the 2026 federal funds rate will be between 3.0% and 3.6%.",
+      "category": "rates",
+      "horizon_days": 5,
+      "deadline": "2025-12-11",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Verify in the Federal Reserve Summary of Economic Projections tables released with the December FOMC; the median appropriate policy rate for 2026 must be within range.",
+      "evidence": [
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20250918.htm"
+      ],
+      "monitoring_signals": [
+        "Fed funds futures path for 2026",
+        "Recent core inflation prints (CPI/PCE)",
+        "FOMC communications and speeches pre-meeting"
+      ],
+      "rationale": "Disinflation supports a lower terminal path, but not far below neutral.",
+      "id": "c38ed443-6dc9-42eb-b458-34b3cb51a41b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will announce at least one DPRK (North Korea)-related sanctions designation via a U.S. Treasury press release by 2025-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 25,
+      "deadline": "2025-12-31",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Confirmation via a U.S. Treasury press release explicitly referencing DPRK/North Korea with new SDN designations.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://ofac.treasury.gov/sanctions-programs-and-country-information/north-korea-sanctions"
+      ],
+      "monitoring_signals": [
+        "Missile tests or cyber activity linked to DPRK",
+        "UN Panel of Experts reports",
+        "Treasury/State DPRK statements"
+      ],
+      "rationale": "Year-end enforcement cadence and ongoing DPRK activity make a designation likely.",
+      "id": "a8c9bb29-1c54-488b-b2a0-3bc9d9ee3a2c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The European Commission will open at least one new formal DSA proceeding against a Very Large Online Platform by 2025-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 25,
+      "deadline": "2025-12-31",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "An official European Commission communication announcing initiation of DSA proceedings against a VLOP (press release or decision publication).",
+      "evidence": [
+        "https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package",
+        "https://ec.europa.eu/commission/presscorner/home/en"
+      ],
+      "monitoring_signals": [
+        "EC pre-notices or requests for information",
+        "Reporting by Politico Europe/FT on pending DSA actions",
+        "Platform transparency reports triggering scrutiny"
+      ],
+      "rationale": "Post-first fine momentum and political incentives raise odds of additional actions.",
+      "id": "3c49618b-54b9-4e80-92d2-6183821ffd83",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NOAA SWPC will report at least one X1.0 or stronger solar flare by 2025-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 25,
+      "deadline": "2025-12-31",
+      "confidence_pct": 65,
+      "log_odds": 0.62,
+      "verification_criteria": "SWPC event reports or daily summaries listing an X-class (\u2265X1.0) flare during the period.",
+      "evidence": [
+        "https://www.swpc.noaa.gov/products/solar-and-geophysical-event-reports",
+        "https://www.swpc.noaa.gov/products/goes-x-ray-flux",
+        "https://www.swpc.noaa.gov/products/solar-cycle-progression"
+      ],
+      "monitoring_signals": [
+        "GOES X-ray flux spikes",
+        "Active region complexity (beta-gamma-delta sunspots)",
+        "SWPC forecasts and watches"
+      ],
+      "rationale": "Solar Cycle 25 near peak increases frequency of X-class events.",
+      "id": "59c79626-9531-40ed-b077-a247f502f750",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures will settle at or below $72.00 per barrel on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 25,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Verify via CME/NYMEX official settlements; any front-month WTI settlement \u2264 $72.00 before deadline counts.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.quotes.html",
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.opec.org/opec_web/en/press_room/28.htm"
+      ],
+      "monitoring_signals": [
+        "EIA weekly U.S. crude inventory builds",
+        "OPEC+ quota headlines or compliance slippage",
+        "Global growth indicators (PMIs), USD strength"
+      ],
+      "rationale": "Inventory builds and macro softness could pressure prices despite geopolitics.",
+      "id": "295b1dcc-8ecb-47a5-b0f0-91ffbb591f66",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Mozilla will publish at least one security advisory in December 2025 with Critical severity affecting Firefox or Thunderbird.",
+      "category": "tech",
+      "horizon_days": 25,
+      "deadline": "2025-12-31",
+      "confidence_pct": 70,
+      "log_odds": 0.85,
+      "verification_criteria": "Presence of at least one December 2025 Mozilla Security Advisory labeled 'Critical' for Firefox/Thunderbird on mozilla.org.",
+      "evidence": [
+        "https://www.mozilla.org/security/advisories/",
+        "https://wiki.mozilla.org/Release_Management/Calendar"
+      ],
+      "monitoring_signals": [
+        "Firefox/ESR release notes and security advisories",
+        "Reported browser RCEs in NVD or Zero Day Initiative",
+        "Bugzilla security flags activity"
+      ],
+      "rationale": "Mozilla routinely patches Critical vulnerabilities on regular release cycles.",
+      "id": "3918c4c9-dfea-4f56-8c6f-19944e4c8fbf",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "CISA ICS-CERT will publish at least one ICS Advisory in December 2025 with CVSS v3.x Base Score \u2265 9.8.",
+      "category": "tech",
+      "horizon_days": 25,
+      "deadline": "2025-12-31",
+      "confidence_pct": 63,
+      "log_odds": 0.53,
+      "verification_criteria": "At least one CISA ICS Advisory (ICSA-*) dated December 2025 listing a vulnerability with CVSS v3.x Base Score \u2265 9.8 on cisa.gov.",
+      "evidence": [
+        "https://www.cisa.gov/news-events/ics-advisories",
+        "https://nvd.nist.gov/vuln/search"
+      ],
+      "monitoring_signals": [
+        "Vendor ICS advisories (Siemens, Schneider Electric, Rockwell)",
+        "OT security research disclosures (Dragos, Claroty/Team82)",
+        "NVD entries for ICS CVEs with high scores"
+      ],
+      "rationale": "Critical ICS flaws are disclosed frequently; year-end batches are common.",
+      "id": "6661f3fb-d0c6-4487-857c-38592bc8876a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}

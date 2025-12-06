@@ -21,7 +21,7 @@
       ],
       "rationale": "Labor demand is cooling but still positive; claims are contained. A modest payroll gain is consistent with mixed business surveys and elevated layoff announcements.",
       "id": "9b41ab20-0109-4df2-bd88-84c31bdfc78b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Average weekly hours are historically stable near 34.3; modest demand softness suggests limited deviation.",
       "id": "be577089-1805-4ac7-95b1-6ce60cf49819",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Participation has been range-bound; incremental labor supply from demographics and immigration points to a stable reading.",
       "id": "dd3b1f2d-fd01-4c16-80af-99d499fd2582",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Short-term expectations have eased alongside disinflation and lower fuel prices but remain sensitive; a 2.7\u20133.5% band captures typical volatility.",
       "id": "d6dbc398-ebbf-4c25-9a66-e2c5d379653c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "Weak domestic demand and prior deflationary pressures suggest subdued inflation around zero.",
       "id": "fa7d8b4d-3a24-4865-ae0e-5dc025b46636",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "Year-end sanction packages are common; geopolitical tensions keep Iran actions likely.",
       "id": "15971cca-c71b-483c-82f9-f1336a4fd079",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -148,7 +148,7 @@
       "supersedes_id": "a5418664",
       "rationale": "Cisco often batches critical fixes; two in a month is plausible but not assured.",
       "id": "152194e7-eb28-4185-b6f8-e785fe45341c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -170,7 +170,7 @@
       ],
       "rationale": "AI-driven mega-cap momentum, pricing power, and strong balance sheets support incremental highs into year-end.",
       "id": "f578a507-5672-4477-b390-95e226fabe8f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -191,7 +191,7 @@
       ],
       "rationale": "Seasonal builds are common in December as refiners increase output while demand softens post-Thanksgiving.",
       "id": "b8929cea-aa0c-48e9-911f-5f821869fbca",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -212,7 +212,7 @@
       ],
       "rationale": "Android monthly bulletins frequently include at least one Critical RCE in core components.",
       "id": "64ccbfc1-51c9-414d-b454-fdbadd354766",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -233,7 +233,7 @@
       ],
       "rationale": "Solar Cycle 25 activity remains elevated near peak, increasing odds of an S3 event in December.",
       "id": "13fb1b6c-4272-4e5c-9355-91c4c7b3e318",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -254,7 +254,7 @@
       ],
       "rationale": "Disinflation continues with energy relief and moderating core services; YoY PCE likely high-2% range.",
       "id": "f1b86b2e-7e03-4a8d-a037-8c70eaad3217",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -275,7 +275,7 @@
       ],
       "rationale": "Small-business sentiment remains subdued but stable amid softer demand and easing cost pressures.",
       "id": "f32c12d1-eb66-45da-af5d-2ed98a8da1f3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

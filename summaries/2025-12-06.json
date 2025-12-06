@@ -1,0 +1,114 @@
+{
+  "bullets": [
+    {
+      "text": "Netflix to acquire Warner Bros. film/streaming assets for ~$72\u201383B; CNN excluded. Massive media consolidation faces antitrust scrutiny.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/12/05/business/warner-brothers-discovery-netflix.html"
+    },
+    {
+      "text": "SpaceX seeks ~$800B valuation in secondary sale, becoming America\u2019s most valuable private company; signals strong private-market appetite for space and AI connectivity.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/05/spacex-aims-for-800b-valuation-in-secondary-share-sale-wsj-reports.html"
+    },
+    {
+      "text": "Treasurys logged worst weekly selloff since April, pushing yields higher and raising borrowing costs for governments, corporates, and mortgages ahead of Fed decision.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/treasury-market-logs-worst-weekly-rout-since-april-in-a-bad-sign-for-borrowers-ceb60395"
+    },
+    {
+      "text": "Core PCE inflation came in at 2.8% YoY (September, delayed), below expectations, bolstering disinflation narrative ahead of Fed meeting.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/12/05/pce-inflation-report-september-2025.html"
+    },
+    {
+      "text": "EU levies first DSA penalty: \u20ac120M fine on X over \u2018deceptive\u2019 verification and transparency failures, tightening platform compliance costs in Europe.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/12/05/in-its-first-dsa-penalty-eu-fines-x-e120m-for-deceptive-blue-check-verification-system/"
+    },
+    {
+      "text": "U.S. Supreme Court will review Trump\u2019s order restricting birthright citizenship, posing major constitutional and labor-market implications for immigration policy.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/05/trump-birthright-citizenship-supreme-court.html"
+    },
+    {
+      "text": "CDC advisory panel dropped universal newborn hepatitis B vaccination guidance, shifting to risk-based approach that may affect coverage, hospital protocols, and public health outcomes.",
+      "tags": [
+        "other"
+      ],
+      "link": "https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html"
+    },
+    {
+      "text": "Court finalized remedies in Google antitrust case, potentially reshaping default search deals and Android distribution economics across tech and advertising markets.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/05/judge-finalize-remedies-in-google-antitrust-case.html"
+    },
+    {
+      "text": "Meta acquires AI wearable startup Limitless, signaling push into AI hardware and on-device assistants, with implications for data capture and ecosystem lock-in.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html"
+    },
+    {
+      "text": "Plunging battery costs and record deployments have strengthened grid reliability, with energy storage already surpassing 2025 targets, accelerating renewables integration.",
+      "tags": [
+        "energy",
+        "science"
+      ],
+      "link": "https://techcrunch.com/2025/12/05/energy-storage-industry-set-aggressive-goals-for-2025-and-already-crushed-them/"
+    },
+    {
+      "text": "Putin offers India \u201cuninterrupted\u201d fuel supplies despite U.S. pressure, underscoring deepening Russia-India energy ties and sanctions leakage risks.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/12/05/russia-willing-to-supply-uninterrupted-fuel-to-india-says-putin.html"
+    },
+    {
+      "text": "Carvana to join S&P 500, capping dramatic turnaround and likely prompting index-tracking inflows and short-covering.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/carvana-gets-a-spot-in-the-s-p-500-ahead-of-these-tech-stocks-5b3e540f"
+    },
+    {
+      "text": "The New York Times sues Perplexity for copyright infringement, escalating legal risks for AI firms training on news content without licenses.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/05/the-new-york-times-perplexity-copyright.html"
+    },
+    {
+      "text": "House panels advance Social Security bills proposing higher retirement age and expanded ID-theft protections, signaling potential benefit reforms and fiscal impacts.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/05/congress-weighs-social-security-changes.html"
+    }
+  ]
+}
