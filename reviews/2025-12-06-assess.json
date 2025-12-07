@@ -1,0 +1,55 @@
+{
+  "date": "2025-12-06",
+  "assessments": [
+    {
+      "id": "98008c50-950e-4d64-b62f-7f4ea905ca49",
+      "status": "pending",
+      "status_rationale": "No CPI print reported; BLS November CPI is expected around Dec 11\u201312 and the deadline has not arrived."
+    },
+    {
+      "id": "f548533c-5f95-4fa6-8d8d-3516e9245601",
+      "status": "pending",
+      "status_rationale": "No Core CPI figure in today\u2019s coverage; the release is due next week ahead of the Dec 12 deadline."
+    },
+    {
+      "id": "57f9c67b-e0a9-4171-aebd-89b670718a51",
+      "status": "pending",
+      "status_rationale": "No University of Michigan final December sentiment reported; final print typically posts closer to Dec 20."
+    },
+    {
+      "id": "c38ed443-6dc9-42eb-b458-34b3cb51a41b",
+      "status": "pending",
+      "status_rationale": "No FOMC SEP details in the news; the December meeting and projections are expected later this week before the deadline."
+    },
+    {
+      "id": "a8c9bb29-1c54-488b-b2a0-3bc9d9ee3a2c",
+      "status": "pending",
+      "status_rationale": "No OFAC press release on DPRK designations in today\u2019s bullets; still before the year-end deadline."
+    },
+    {
+      "id": "3c49618b-54b9-4e80-92d2-6183821ffd83",
+      "status": "pending",
+      "status_rationale": "No report of a new European Commission DSA proceeding; deadline remains year-end."
+    },
+    {
+      "id": "59c79626-9531-40ed-b077-a247f502f750",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC report of an X1.0+ flare in the provided news; cannot confirm without explicit evidence."
+    },
+    {
+      "id": "295b1dcc-8ecb-47a5-b0f0-91ffbb591f66",
+      "status": "pending",
+      "status_rationale": "No confirmation of a WTI front-month settle at or below $72; no commodity settlement data cited."
+    },
+    {
+      "id": "3918c4c9-dfea-4f56-8c6f-19944e4c8fbf",
+      "status": "pending",
+      "status_rationale": "No Mozilla Critical advisory noted for December 2025 in the news items; month is ongoing."
+    },
+    {
+      "id": "6661f3fb-d0c6-4487-857c-38592bc8876a",
+      "status": "pending",
+      "status_rationale": "No CISA ICS advisory with CVSS \u22659.8 referenced; December advisories may still post later in the month."
+    }
+  ]
+}

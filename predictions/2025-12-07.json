@@ -1,0 +1,340 @@
+{
+  "date": "2025-12-07",
+  "predictions": [
+    {
+      "text": "U.S. Producer Price Index (Final Demand, MoM, SA) for November 2025 will print between -0.1% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-12-13",
+      "confidence_pct": 61,
+      "verification_criteria": "Confirm via BLS news release 'Producer Price Index \u2014 November 2025'. Use seasonally adjusted final demand MoM change; range inclusive.",
+      "evidence": [
+        "Recent disinflation trend with muted goods price pressures",
+        "Energy prices have been range-bound; limited pass-through",
+        "Soft manufacturing pricing signals"
+      ],
+      "monitoring_signals": [
+        "ISM Manufacturing Prices Paid (latest month)",
+        "WTI and refined products prices into the print",
+        "Freight and shipping cost indexes",
+        "Corporate earnings commentary on input costs"
+      ],
+      "rationale": "Goods disinflation and stable energy suggest modest PPI.",
+      "id": "1a605f45-23d2-401e-8f28-4c880fa21384",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. PPI Final Demand less Food, Energy, and Trade Services (MoM, SA) for November 2025 will print between +0.0% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2025-12-13",
+      "confidence_pct": 59,
+      "verification_criteria": "Confirm via BLS PPI release table for 'Final demand less foods, energy, and trade services' MoM; seasonally adjusted; range inclusive.",
+      "evidence": [
+        "Core pipeline pressures easing but not collapsing",
+        "Service margins relatively stable",
+        "Limited wage-cost acceleration in recent data"
+      ],
+      "monitoring_signals": [
+        "NFIB price plans",
+        "Services PMIs input/output prices",
+        "Wage trackers (Atlanta Fed, ECI signals)",
+        "Corporate services margin commentary"
+      ],
+      "rationale": "Core pipeline inflation remains subdued yet positive.",
+      "id": "a5d1feee-01ac-481b-ae12-607908027c91",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Retail Sales (Advance, total, MoM, SA) for November 2025 will print between -0.3% and +0.4%.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-12-17",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify via Census Bureau 'Advance Monthly Retail Trade and Food Services' Table 1, seasonally adjusted MoM percent change; range inclusive.",
+      "evidence": [
+        "Mixed holiday season indicators; softer big-ticket demand",
+        "Lower gasoline prices dampen nominal sales",
+        "E-commerce strength offsets weakness in discretionary goods"
+      ],
+      "monitoring_signals": [
+        "Bank/credit card spending trackers",
+        "Redbook same-store sales",
+        "Gasoline retail prices into the reference period",
+        "Manheim used vehicle index for autos component"
+      ],
+      "rationale": "Holiday promotions and cheaper gas yield modest headline.",
+      "id": "76ab145c-691d-4aed-9382-16e5e5890012",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Retail Sales Control Group (ex autos, gas, building materials, food services; MoM, SA) for November 2025 will print between -0.1% and +0.5%.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-12-17",
+      "confidence_pct": 57,
+      "verification_criteria": "Use Census 'control group' concept (retail & food services excluding motor vehicles & parts, gasoline stations, building materials & garden equipment, and food services & drinking places). Verify via Census release or FRED RSXFS; MoM SA; range inclusive.",
+      "evidence": [
+        "Core goods volumes steady; promotional discounting",
+        "E-commerce resilience",
+        "Flat to modestly positive real spending trend"
+      ],
+      "monitoring_signals": [
+        "Card-spend trackers for core retail categories",
+        "E-commerce sales indicators",
+        "Inventory/sales ratios in retail earnings updates"
+      ],
+      "rationale": "Solid core retail offset by discounting keeps gains modest.",
+      "id": "c292f19b-5099-494b-af27-aa0ffd1dbd83",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Industrial Production (MoM, SA) for November 2025 will print between -0.3% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-12-17",
+      "confidence_pct": 60,
+      "verification_criteria": "Verify via Federal Reserve G.17 release; total industrial production, seasonally adjusted percent change MoM; range inclusive.",
+      "evidence": [
+        "Manufacturing activity remains soft; sub-50 ISM",
+        "Energy output steady; utilities weather-dependent",
+        "Autos production normalizing"
+      ],
+      "monitoring_signals": [
+        "ISM/PMI output components",
+        "Auto assemblies and inventories",
+        "Utilities demand/weather anomalies",
+        "Freight rail/intermodal volumes"
+      ],
+      "rationale": "Muted factory activity and stable energy cap overall moves.",
+      "id": "2af20a00-8688-415b-94f3-5037f01066fb",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Capacity Utilization (Total Industry, SA) for November 2025 will print between 78.0% and 79.6%.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-12-17",
+      "confidence_pct": 56,
+      "verification_criteria": "Verify via Federal Reserve G.17; total industry capacity utilization, seasonally adjusted percent level; range inclusive.",
+      "evidence": [
+        "Utilization has trended slightly below long-run average",
+        "Soft manufacturing tempers utilization gains",
+        "No major energy outages"
+      ],
+      "monitoring_signals": [
+        "Fed regional surveys on capacity and orders backlogs",
+        "Energy sector outages/maintenance",
+        "Auto production schedules"
+      ],
+      "rationale": "Slack persists with modest variation around recent levels.",
+      "id": "5790bf4b-5612-423f-af3d-76de90a39a24",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Housing Starts (SAAR) for November 2025 will print between 1.30 million and 1.45 million.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-12-19",
+      "confidence_pct": 57,
+      "verification_criteria": "Verify via Census/HUD New Residential Construction; headline Housing Starts, seasonally adjusted annual rate; range inclusive.",
+      "evidence": [
+        "Mortgage rates eased from peaks, aiding builders",
+        "Elevated new-home share supports starts",
+        "Tight existing-home supply backdrop"
+      ],
+      "monitoring_signals": [
+        "MBA purchase applications",
+        "NAHB Housing Market Index",
+        "Homebuilder guidance and order trends",
+        "Mortgage rate levels through November"
+      ],
+      "rationale": "Lower rates and tight supply stabilize starts within range.",
+      "id": "08e7e0d0-a425-44cf-bdfe-addcae25cd9f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Building Permits (SAAR) for November 2025 will print between 1.38 million and 1.55 million.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-12-19",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify via Census/HUD New Residential Construction; Building Permits, seasonally adjusted annual rate; range inclusive.",
+      "evidence": [
+        "Improving buyer traffic boosts permitting",
+        "Builders responding to easing rate environment",
+        "Backlogs support pipeline"
+      ],
+      "monitoring_signals": [
+        "NAHB buyer traffic and sales expectations",
+        "Regional permit filings",
+        "Mortgage rate moves and lock volumes"
+      ],
+      "rationale": "Permits track builder optimism, improving on rate relief.",
+      "id": "5772e74f-f770-4f27-9dc1-475dca28670b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Philadelphia Fed Manufacturing Business Outlook Survey General Activity Index for December 2025 will print between -8.0 and +8.0.",
+      "category": "macro",
+      "horizon_days": 12,
+      "deadline": "2025-12-19",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify via Philadelphia Fed MBO survey release; headline General Activity Index; range inclusive.",
+      "evidence": [
+        "Regional manufacturing remains weak but volatile",
+        "Orders/backlogs soft, slight improvement possible",
+        "Price pressures easing"
+      ],
+      "monitoring_signals": [
+        "S&P Global/ISM regional correlations",
+        "New orders subindex trends",
+        "Export orders and inventory signals"
+      ],
+      "rationale": "Sideways manufacturing with high month-to-month noise.",
+      "id": "82666a0d-a6a6-4bdc-a4f9-f7316add863c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NY Fed Empire State Manufacturing Survey General Business Conditions Index for December 2025 will print between -15.0 and 0.0.",
+      "category": "macro",
+      "horizon_days": 9,
+      "deadline": "2025-12-16",
+      "confidence_pct": 55,
+      "verification_criteria": "Verify via New York Fed release; headline General Business Conditions Index; range inclusive.",
+      "evidence": [
+        "Northeast manufacturing lagging broader U.S.",
+        "Weak new orders and shipments reported recently",
+        "Inventory adjustment cycle persists"
+      ],
+      "monitoring_signals": [
+        "Regional PMI diffusion indexes",
+        "Supplier delivery times and backlog indicators",
+        "Export demand proxies"
+      ],
+      "rationale": "Empire State tends to print weak amid soft orders.",
+      "id": "197db6d8-f08d-45e9-8ec9-ce09b706a9ec",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan 1-year inflation expectations (final) for December 2025 will print between 2.8% and 3.4%.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-12-20",
+      "confidence_pct": 59,
+      "verification_criteria": "Verify via University of Michigan 'Surveys of Consumers' final December release; 1-year inflation expectations; range inclusive.",
+      "evidence": [
+        "Gasoline prices have eased into December",
+        "Inflation news flow less alarming recently",
+        "Preliminary December readings were contained"
+      ],
+      "monitoring_signals": [
+        "AAA gasoline prices trend",
+        "Inflation headline news sentiment",
+        "Market-based breakevens (1y, 2y) into release"
+      ],
+      "rationale": "Gasoline relief anchors near-term expectations within range.",
+      "id": "69906111-70f5-47d0-831e-084f68c2cb0c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan 5-year inflation expectations (final) for December 2025 will print between 2.8% and 3.2%.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-12-20",
+      "confidence_pct": 58,
+      "verification_criteria": "Verify via University of Michigan final December release; 5-year inflation expectations; range inclusive.",
+      "evidence": [
+        "Long-run expectations have remained range-bound",
+        "Limited shock news on inflation",
+        "Stable rate expectations near term"
+      ],
+      "monitoring_signals": [
+        "Fed communication ahead of FOMC",
+        "Breakevens 5y/5y forward",
+        "Press coverage of inflation outlook"
+      ],
+      "rationale": "Anchored long-run views persist amid steady policy guidance.",
+      "id": "ce1ec5a9-677c-4a49-8d6b-7962aed92f81",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will announce at least one China-related sanctions designation via a U.S. Treasury press release by 2025-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 24,
+      "deadline": "2025-12-31",
+      "confidence_pct": 55,
+      "verification_criteria": "A Treasury/OFAC press release listing China/PRC-linked persons or entities (domiciled in China or sanctioned for China-related activity) added to the SDN List by the deadline.",
+      "evidence": [
+        "Rising U.S. scrutiny of Chinese tech and security risks",
+        "Frequent year-end OFAC activity across programs",
+        "Bipartisan hardening on China policy"
+      ],
+      "monitoring_signals": [
+        "U.S. Treasury press releases page",
+        "State/Commerce coordinated actions (Entity List)",
+        "Congressional announcements on PRC-related enforcement"
+      ],
+      "rationale": "Policy momentum and typical year-end cadence favor action.",
+      "id": "bd476c64-e0e8-45b7-8826-e42a3a6a219b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "SAP\u2019s December 2025 Security Notes (Patch Day) will include at least one HotNews note (CVSS v3.x Base Score \u2265 9.0).",
+      "category": "tech",
+      "horizon_days": 3,
+      "deadline": "2025-12-10",
+      "confidence_pct": 64,
+      "verification_criteria": "Verify via SAP Security Notes portal/blog for December 2025; at least one note labeled 'HotNews' or with CVSS v3.x Base Score \u2265 9.0 published on Patch Day.",
+      "evidence": [
+        "SAP typically issues HotNews notes most months",
+        "December cycles historically include critical fixes",
+        "Third-party advisories often flag SAP High/CRIT in Dec"
+      ],
+      "monitoring_signals": [
+        "SAP Security Notes monthly blog",
+        "Onapsis/SAP partner advisories",
+        "CVE/NVD entries mapped to SAP on Patch Day"
+      ],
+      "rationale": "SAP regularly ships critical notes; December is often active.",
+      "id": "c4121c9b-2ff1-47ec-a5fc-ba35be61b257",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Netflix or Warner Bros. Discovery will publicly disclose receipt of a 'Second Request' under the HSR Act for their proposed transaction by 2026-01-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 55,
+      "deadline": "2026-01-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Disclosure via SEC filing (e.g., Form 8-K) or official company press/investor statement explicitly stating receipt of an HSR 'Second Request' regarding the deal.",
+      "evidence": [
+        "Large media mergers typically face in-depth review",
+        "Heightened U.S. antitrust scrutiny of tech/media consolidation",
+        "Deal size and market overlap invite Second Request"
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR 8-Ks for NFLX and WBD",
+        "Company IR press releases",
+        "FTC/DOJ merger review public statements"
+      ],
+      "rationale": "Scale and antitrust climate make a Second Request likely.",
+      "id": "f497b887-6784-49e1-a65b-95a685b4b1cd",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

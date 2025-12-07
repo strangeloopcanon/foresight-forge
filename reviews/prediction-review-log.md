@@ -1266,3 +1266,12 @@ While there is broader market and policy news (e.g., Treasury market moves, tech
 
 ---
 
+
+## 2025-12-06
+
+Today’s news flow centers on geopolitics, U.S. policy, and media M&A, with no direct data releases or official notices that would resolve any of the tracked forecasts. In particular, there are no BLS CPI prints, University of Michigan sentiment figures, FOMC SEP disclosures, OFAC sanctions announcements, EC DSA proceedings, NOAA SWPC flare reports, commodity settlement data, or vendor/security advisories cited.
+
+Multiple predictions are likely to resolve or gain clarity in the coming week: the November CPI release and the December FOMC meeting/SEP are imminent. The security- and infrastructure-related items (Mozilla advisories, CISA ICS advisories) often cluster around scheduled release cycles and could post later in the month. Solar activity remains elevated near solar maximum, but absent explicit SWPC confirmation, the solar-flare forecast remains open. All items stay pending for now due to lack of conclusive evidence.
+
+---
+

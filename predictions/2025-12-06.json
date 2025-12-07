@@ -22,7 +22,7 @@
       ],
       "rationale": "Disinflation trend persists, with soft goods and energy offsetting sticky shelter.",
       "id": "98008c50-950e-4d64-b62f-7f4ea905ca49",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Core services remain sticky but moderating; goods disinflation continues.",
       "id": "f548533c-5f95-4fa6-8d8d-3516e9245601",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Final readings typically revise modestly from preliminaries; gas and markets drive sentiment.",
       "id": "57f9c67b-e0a9-4171-aebd-89b670718a51",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Disinflation supports a lower terminal path, but not far below neutral.",
       "id": "c38ed443-6dc9-42eb-b458-34b3cb51a41b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -111,7 +111,7 @@
       ],
       "rationale": "Year-end enforcement cadence and ongoing DPRK activity make a designation likely.",
       "id": "a8c9bb29-1c54-488b-b2a0-3bc9d9ee3a2c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -133,7 +133,7 @@
       ],
       "rationale": "Post-first fine momentum and political incentives raise odds of additional actions.",
       "id": "3c49618b-54b9-4e80-92d2-6183821ffd83",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -156,7 +156,7 @@
       ],
       "rationale": "Solar Cycle 25 near peak increases frequency of X-class events.",
       "id": "59c79626-9531-40ed-b077-a247f502f750",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Inventory builds and macro softness could pressure prices despite geopolitics.",
       "id": "295b1dcc-8ecb-47a5-b0f0-91ffbb591f66",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -201,7 +201,7 @@
       ],
       "rationale": "Mozilla routinely patches Critical vulnerabilities on regular release cycles.",
       "id": "3918c4c9-dfea-4f56-8c6f-19944e4c8fbf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -223,7 +223,7 @@
       ],
       "rationale": "Critical ICS flaws are disclosed frequently; year-end batches are common.",
       "id": "6661f3fb-d0c6-4487-857c-38592bc8876a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]
