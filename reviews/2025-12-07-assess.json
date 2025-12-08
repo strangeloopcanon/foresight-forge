@@ -1,0 +1,80 @@
+{
+  "date": "2025-12-07",
+  "assessments": [
+    {
+      "id": "1a605f45-23d2-401e-8f28-4c880fa21384",
+      "status": "pending",
+      "status_rationale": "No report of the November 2025 U.S. PPI (Final Demand) print in today's news; release appears forthcoming and before the 2025-12-13 deadline."
+    },
+    {
+      "id": "a5d1feee-01ac-481b-ae12-607908027c91",
+      "status": "pending",
+      "status_rationale": "No mention of the November 2025 core PPI (less food, energy, trade) print in the provided coverage; outcome not yet reported."
+    },
+    {
+      "id": "76ab145c-691d-4aed-9382-16e5e5890012",
+      "status": "pending",
+      "status_rationale": "No official November 2025 Advance Retail Sales figure is cited in today's articles; release expected later this week before the 2025-12-17 deadline."
+    },
+    {
+      "id": "c292f19b-5099-494b-af27-aa0ffd1dbd83",
+      "status": "pending",
+      "status_rationale": "No coverage of the November 2025 Retail Sales Control Group print; no evidence to resolve."
+    },
+    {
+      "id": "2af20a00-8688-415b-94f3-5037f01066fb",
+      "status": "pending",
+      "status_rationale": "No report of November 2025 Industrial Production in today's news; outcome awaits official release before the 2025-12-17 deadline."
+    },
+    {
+      "id": "5790bf4b-5612-423f-af3d-76de90a39a24",
+      "status": "pending",
+      "status_rationale": "No mention of November 2025 Capacity Utilization in the news items; result not yet available."
+    },
+    {
+      "id": "08e7e0d0-a425-44cf-bdfe-addcae25cd9f",
+      "status": "pending",
+      "status_rationale": "No report of November 2025 Housing Starts SAAR; awaiting official release prior to the 2025-12-19 deadline."
+    },
+    {
+      "id": "5772e74f-f770-4f27-9dc1-475dca28670b",
+      "status": "pending",
+      "status_rationale": "No coverage of November 2025 Building Permits SAAR; no evidence provided to resolve."
+    },
+    {
+      "id": "82666a0d-a6a6-4bdc-a4f9-f7316add863c",
+      "status": "pending",
+      "status_rationale": "No report of the December 2025 Philadelphia Fed index print; outcome remains unknown."
+    },
+    {
+      "id": "197db6d8-f08d-45e9-8ec9-ce09b706a9ec",
+      "status": "pending",
+      "status_rationale": "No mention of the December 2025 Empire State Manufacturing Survey index; result not yet published in the provided sources."
+    },
+    {
+      "id": "69906111-70f5-47d0-831e-084f68c2cb0c",
+      "status": "pending",
+      "status_rationale": "No coverage of the University of Michigan final 1-year inflation expectations for December 2025; release still ahead of the 2025-12-20 deadline."
+    },
+    {
+      "id": "ce1ec5a9-677c-4a49-8d6b-7962aed92f81",
+      "status": "pending",
+      "status_rationale": "No coverage of the University of Michigan final 5-year inflation expectations for December 2025; no confirming data in today's news."
+    },
+    {
+      "id": "bd476c64-e0e8-45b7-8826-e42a3a6a219b",
+      "status": "pending",
+      "status_rationale": "No U.S. Treasury/OFAC press release in the headlines confirming China-related sanctions designations; deadline remains 2025-12-31."
+    },
+    {
+      "id": "c4121c9b-2ff1-47ec-a5fc-ba35be61b257",
+      "status": "pending",
+      "status_rationale": "No item confirms whether SAP\u2019s December 2025 Security Notes include a HotNews (CVSS \u2265 9.0); Patch Day (2025-12-10) is imminent."
+    },
+    {
+      "id": "f497b887-6784-49e1-a65b-95a685b4b1cd",
+      "status": "pending",
+      "status_rationale": "Articles discuss the proposed Netflix\u2013WBD transaction and government skepticism, but there is no disclosure of an HSR Second Request; deadline is 2026-01-31."
+    }
+  ]
+}

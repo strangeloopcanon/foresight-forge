@@ -1275,3 +1275,12 @@ Multiple predictions are likely to resolve or gain clarity in the coming week: t
 
 ---
 
+
+## 2025-12-07
+
+Today’s coverage focuses on politics, immigration, and general market positioning ahead of the Fed meeting, with no definitive reports on the specific macroeconomic data prints tracked here. None of the November 2025 PPI, Retail Sales, Industrial Production, Capacity Utilization, Housing Starts, or Building Permits figures are cited, nor are the December 2025 Philadelphia and Empire State regional manufacturing indices or the University of Michigan inflation expectations finals.
+
+On event-driven items, there is discussion of the proposed Netflix–Warner Bros. Discovery deal and potential governmental skepticism, but no indication of an HSR Second Request being issued. There is also no evidence of a new OFAC China-related sanctions press release, and nothing confirming SAP’s December Patch Day contents yet. As such, all items remain pending and should be monitored closely over the upcoming release dates.
+
+---
+

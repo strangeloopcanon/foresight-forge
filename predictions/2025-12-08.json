@@ -1,0 +1,319 @@
+{
+  "date": "2025-12-08",
+  "predictions": [
+    {
+      "text": "U.S. CPI (headline, YoY, NSA) for November 2025 will print between 3.0% and 3.4%.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-12-12",
+      "confidence_pct": 61,
+      "log_odds": 0.45,
+      "verification_criteria": "Correct if BLS CPI-U 12-month percent change (All items) for November 2025 in the official BLS release and series CUUR0000SA0 is >=3.0% and <=3.4%.",
+      "evidence": [
+        "Energy prices were soft in November; gasoline down w/w.",
+        "Core services disinflation trend continues in recent prints.",
+        "Cleveland Fed nowcast points to subdued MoM, keeping YoY near low-3s.",
+        "Consensus surveys cluster around low-3% YoY."
+      ],
+      "monitoring_signals": [
+        "BLS CPI release page and data tables",
+        "Cleveland Fed CPI nowcast",
+        "EIA weekly gasoline prices",
+        "Bloomberg/Reuters CPI consensus"
+      ],
+      "rationale": "Energy softness and moderate core keep YoY near low-3%.",
+      "id": "f9ceb789-0091-4bad-9d7a-195d446c88ad",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Core CPI (YoY, NSA) for November 2025 will print between 3.4% and 3.8%.",
+      "category": "macro",
+      "horizon_days": 4,
+      "deadline": "2025-12-12",
+      "confidence_pct": 60,
+      "log_odds": 0.41,
+      "verification_criteria": "Correct if BLS CPI-U 12-month percent change for Core CPI (All items less food and energy; series CUSR0000SA0L1E) for November 2025 is within 3.4%-3.8%.",
+      "evidence": [
+        "Shelter inflation easing but still elevated keeps core in mid-3s.",
+        "Goods deflation persists; services steady.",
+        "Recent monthly core prints around 0.2-0.3% imply gradual YoY drift lower."
+      ],
+      "monitoring_signals": [
+        "BLS CPI release tables",
+        "Apartment rent indexes and shelter trackers",
+        "Used car auction price indices (Manheim)",
+        "Market core CPI consensus"
+      ],
+      "rationale": "Shelter stickiness caps disinflation; core drifts mid-3%.",
+      "id": "ae9c3c9d-4415-4ba3-8099-f2dd61ebd48c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "At the December 2025 FOMC meeting, the SEP median projection for the 2025 federal funds rate (year-end) will be between 4.0% and 4.6%.",
+      "category": "rates",
+      "horizon_days": 3,
+      "deadline": "2025-12-11",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Correct if the Summary of Economic Projections shows the median 'appropriate policy' federal funds rate for 2025 (end-of-year) within 4.0%-4.6%, as published on federalreserve.gov.",
+      "evidence": [
+        "Market-implied path signals multiple 2025 cuts but not below ~4%.",
+        "Inflation progress is real but incomplete; growth moderate.",
+        "Fed speakers cautious about pace of easing."
+      ],
+      "monitoring_signals": [
+        "Federal Reserve SEP/dot plot release",
+        "CME FedWatch for 2025 path",
+        "WSJ/Fed watcher reports",
+        "Post-meeting press conference tone"
+      ],
+      "rationale": "Balanced easing path; dots likely imply several 2025 cuts.",
+      "id": "0b40272f-a39d-471b-9c77-10b514385b8f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe VIX will close at or below 12.0 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 23,
+      "deadline": "2025-12-31",
+      "confidence_pct": 49,
+      "log_odds": -0.04,
+      "verification_criteria": "Correct if the official Cboe closing value of VIX is <=12.0 on any trading day through 2025-12-31, per cboe.com historical data.",
+      "evidence": [
+        "Year-end seasonality often compresses implied volatility.",
+        "Improved inflation trend and policy visibility damp risk premia.",
+        "Strong equity breadth can suppress vol."
+      ],
+      "monitoring_signals": [
+        "Cboe VIX term structure/contango",
+        "SPX realized volatility (20d/30d)",
+        "Event risk calendar (FOMC, CPI, geopolitics)",
+        "Dealer gamma positioning metrics"
+      ],
+      "rationale": "Seasonal vol compression could briefly push VIX to 12.",
+      "id": "b2377a61-3170-449f-9a0e-4e1782b539a3",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Russell 2000 Index (RUT) will close at or above 2,350 on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 23,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Correct if the official closing level of the Russell 2000 (RUT) on any trading day through 2025-12-31 is >=2,350, per FTSE Russell or major data vendors.",
+      "evidence": [
+        "Falling yields typically aid small-cap multiples and financing.",
+        "Potential year-end risk-on rotation into laggards.",
+        "Improving soft data (sentiment) supports cyclicals."
+      ],
+      "monitoring_signals": [
+        "IWM flows and breadth thrust indicators",
+        "U.S. 2y/10y Treasury yields",
+        "Financial conditions indexes",
+        "Earnings revisions for small-cap sectors"
+      ],
+      "rationale": "Rates relief and rotation can lift small caps into year-end.",
+      "id": "2bad3b83-1eb8-4690-9a5c-0fda57637132",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "EIA Weekly Natural Gas Storage Report will show a Lower 48 net withdrawal of at least 120 Bcf in at least one report published by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 23,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "log_odds": -0.24,
+      "verification_criteria": "Correct if any EIA Weekly Natural Gas Storage Report released by 2025-12-31 reports a Lower 48 net change <= -120 Bcf (i.e., withdrawal of 120 Bcf or more).",
+      "evidence": [
+        "Seasonal December cold snaps can trigger >120 Bcf draws.",
+        "Storage is ample but early-winter HDDs can drive large pulls.",
+        "Futures/weather models suggest volatility in December demand."
+      ],
+      "monitoring_signals": [
+        "NOAA/CPC 6-15 day temperature outlooks",
+        "ECMWF/GFS HDD forecasts",
+        "Henry Hub front-month price action",
+        "EIA Weekly Natural Gas Storage reports"
+      ],
+      "supersedes_id": "8fa80858-d92e-4d92-ab81-dd2de22f6c10",
+      "rationale": "A stronger threshold refines earlier storage-draw call.",
+      "id": "22c9e8b8-d309-4655-85c7-6f7ce297d3ba",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NFIB Small Business 'Plans to Make Capital Outlays' index for November 2025 will print between 20 and 24.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-12-10",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Correct if the NFIB Small Business Economic Trends report for November 2025 shows the seasonally adjusted 'Plans to Make Capital Outlays' percentage in the 20\u201324 range.",
+      "evidence": [
+        "Rates have eased but credit remains tight for small firms.",
+        "Headline NFIB optimism improving from lows but still subdued.",
+        "Capex plans historically track rates and demand expectations."
+      ],
+      "monitoring_signals": [
+        "NFIB SBET monthly report",
+        "Senior Loan Officer Opinion Survey signals",
+        "Treasury yields and credit spreads",
+        "Small-business lending metrics"
+      ],
+      "rationale": "Improving sentiment, but tight credit caps capex plans.",
+      "id": "67eee42a-e8ff-4a5a-be1e-3f387edc7407",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "University of Michigan Index of Current Economic Conditions (preliminary) for December 2025 will print between 67.0 and 74.0.",
+      "category": "macro",
+      "horizon_days": 5,
+      "deadline": "2025-12-13",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Correct if the preliminary December 2025 UMich release shows the Index of Current Economic Conditions within 67.0\u201374.0.",
+      "evidence": [
+        "Gasoline prices stabilized; equity market strength lifts assessments.",
+        "Labor market cooling modestly but still resilient.",
+        "Recent improvements in sentiment subindices."
+      ],
+      "monitoring_signals": [
+        "UMich preliminary release",
+        "AAA national gas prices",
+        "Jobless claims trend",
+        "Equity market performance"
+      ],
+      "rationale": "Stable gas and equities support current-conditions sentiment.",
+      "id": "43870492-9ca6-4123-91ca-a98a1656ac69",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Philadelphia Fed Manufacturing Survey Prices Paid Index for December 2025 will print between 12.0 and 30.0.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-12-19",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Correct if the Philly Fed\u2019s December 2025 Business Outlook Survey shows the Prices Paid diffusion index value within 12.0\u201330.0.",
+      "evidence": [
+        "National ISM prices indicators remain moderate.",
+        "Input costs eased with softer commodities and freight.",
+        "Regional surveys show stabilization without sharp reacceleration."
+      ],
+      "monitoring_signals": [
+        "Philadelphia Fed BOS release",
+        "ISM Manufacturing Prices index",
+        "Commodity indexes (GSCI, metals)",
+        "Freight/PMI input-cost components"
+      ],
+      "rationale": "Moderate upstream price pressure fits a mid-range print.",
+      "id": "4182192b-0907-49bb-b305-6b2e74927a06",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NAHB/Wells Fargo Housing Market Index (headline, SA) for December 2025 will print between 34 and 43.",
+      "category": "macro",
+      "horizon_days": 8,
+      "deadline": "2025-12-16",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Correct if NAHB\u2019s December 2025 headline HMI (seasonally adjusted) is within 34\u201343 as published by NAHB.",
+      "evidence": [
+        "Mortgage rates recently fell, aiding sentiment off lows.",
+        "Affordability remains constrained; builders still using incentives.",
+        "Traffic and sales expectations improving but below neutral (50)."
+      ],
+      "monitoring_signals": [
+        "NAHB monthly HMI release",
+        "Freddie Mac PMMS 30y mortgage rate",
+        "MBA purchase applications",
+        "Homebuilder order commentary"
+      ],
+      "rationale": "Lower rates help, but affordability keeps HMI sub-50.",
+      "id": "e3107db5-6854-413d-8bc3-dbd193b6bc4a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will announce at least one Venezuela-related sanctions designation via a U.S. Treasury press release by 2025-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 23,
+      "deadline": "2025-12-31",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Correct if treasury.gov posts a press release announcing sanctions that add at least one Venezuela-related party to the SDN List by 2025-12-31 (UTC).",
+      "evidence": [
+        "U.S. pressure fluctuates with Venezuela compliance and elections.",
+        "Periodic tightening around oil sector and individuals persists.",
+        "Year-end sanctions actions are common across programs."
+      ],
+      "monitoring_signals": [
+        "U.S. Treasury press releases (sanctions)",
+        "OFAC SDN List updates",
+        "State Dept./White House statements on Venezuela",
+        "Oil policy headlines"
+      ],
+      "rationale": "Policy drift and periodic enforcement make a year-end action plausible.",
+      "id": "ccd3e509-0417-43b0-8c88-6878ba39cf50",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Google will publish a Chrome Stable Channel update in December 2025 acknowledging at least one High-severity 'use after free' vulnerability in V8.",
+      "category": "tech",
+      "horizon_days": 23,
+      "deadline": "2025-12-31",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "Correct if the Chrome Releases blog or release notes for any Stable update in Dec 2025 list a CVE described as 'Use after free in V8' with severity High or higher.",
+      "evidence": [
+        "UAF in V8 is a frequent class in Chrome advisories.",
+        "Monthly Stable updates commonly include V8 fixes.",
+        "December typically sees at least one Stable refresh."
+      ],
+      "monitoring_signals": [
+        "Chrome Releases blog",
+        "Chromium security bug tracker",
+        "CVE entries referencing V8",
+        "Stable channel version announcements"
+      ],
+      "rationale": "Historic vulnerability patterns favor at least one V8 UAF fix.",
+      "id": "35928a58-f733-4ad3-aed8-7c360bc0dfbe",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Android\u2019s December 2025 Security Bulletin will include at least one kernel elevation-of-privilege CVE with CVSS v3.x Base Score \u2265 7.8.",
+      "category": "tech",
+      "horizon_days": 2,
+      "deadline": "2025-12-10",
+      "confidence_pct": 62,
+      "log_odds": 0.49,
+      "verification_criteria": "Correct if the official December 2025 Android Security Bulletin lists any kernel component CVE marked as elevation-of-privilege with CVSS v3.x Base Score \u22657.8.",
+      "evidence": [
+        "Kernel EoP issues are routine in Android bulletins.",
+        "Vendors frequently score kernel EoPs \u22657.8 due to impact.",
+        "December bulletins historically sizeable across components."
+      ],
+      "monitoring_signals": [
+        "Android Security Bulletin (Dec 2025)",
+        "AOSP security updates",
+        "CVE entries for Android kernel",
+        "Vendor bulletins (Samsung, Pixel)"
+      ],
+      "rationale": "Kernel EoPs are common and typically high-severity in bulletins.",
+      "id": "b8545fee-fab1-458f-be8a-dca60d8f2bf7",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}

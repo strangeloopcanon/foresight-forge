@@ -21,7 +21,7 @@
       ],
       "rationale": "Goods disinflation and stable energy suggest modest PPI.",
       "id": "1a605f45-23d2-401e-8f28-4c880fa21384",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Core pipeline inflation remains subdued yet positive.",
       "id": "a5d1feee-01ac-481b-ae12-607908027c91",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Holiday promotions and cheaper gas yield modest headline.",
       "id": "76ab145c-691d-4aed-9382-16e5e5890012",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Solid core retail offset by discounting keeps gains modest.",
       "id": "c292f19b-5099-494b-af27-aa0ffd1dbd83",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -112,7 +112,7 @@
       ],
       "rationale": "Muted factory activity and stable energy cap overall moves.",
       "id": "2af20a00-8688-415b-94f3-5037f01066fb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -134,7 +134,7 @@
       ],
       "rationale": "Slack persists with modest variation around recent levels.",
       "id": "5790bf4b-5612-423f-af3d-76de90a39a24",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -157,7 +157,7 @@
       ],
       "rationale": "Lower rates and tight supply stabilize starts within range.",
       "id": "08e7e0d0-a425-44cf-bdfe-addcae25cd9f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Permits track builder optimism, improving on rate relief.",
       "id": "5772e74f-f770-4f27-9dc1-475dca28670b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -201,7 +201,7 @@
       ],
       "rationale": "Sideways manufacturing with high month-to-month noise.",
       "id": "82666a0d-a6a6-4bdc-a4f9-f7316add863c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -223,7 +223,7 @@
       ],
       "rationale": "Empire State tends to print weak amid soft orders.",
       "id": "197db6d8-f08d-45e9-8ec9-ce09b706a9ec",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -245,7 +245,7 @@
       ],
       "rationale": "Gasoline relief anchors near-term expectations within range.",
       "id": "69906111-70f5-47d0-831e-084f68c2cb0c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -267,7 +267,7 @@
       ],
       "rationale": "Anchored long-run views persist amid steady policy guidance.",
       "id": "ce1ec5a9-677c-4a49-8d6b-7962aed92f81",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -289,7 +289,7 @@
       ],
       "rationale": "Policy momentum and typical year-end cadence favor action.",
       "id": "bd476c64-e0e8-45b7-8826-e42a3a6a219b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -311,7 +311,7 @@
       ],
       "rationale": "SAP regularly ships critical notes; December is often active.",
       "id": "c4121c9b-2ff1-47ec-a5fc-ba35be61b257",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -333,7 +333,7 @@
       ],
       "rationale": "Scale and antitrust climate make a Second Request likely.",
       "id": "f497b887-6784-49e1-a65b-95a685b4b1cd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
