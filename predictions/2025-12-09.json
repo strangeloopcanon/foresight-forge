@@ -1,0 +1,312 @@
+{
+  "date": "2025-12-09",
+  "predictions": [
+    {
+      "text": "The FOMC will leave the federal funds target range unchanged at 5.25%\u20135.50% at its December 2025 meeting.",
+      "category": "rates",
+      "horizon_days": 2,
+      "deadline": "2025-12-11",
+      "confidence_pct": 68,
+      "log_odds": 0.753,
+      "verification_criteria": "Federal Reserve press release on 2025-12-11 shows target range unchanged at 5.25%\u20135.50% versus the prior meeting.",
+      "evidence": [
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "https://www.cnbc.com/2025/12/09/asia-markets-live-today-tuesday-fed-decision-nikkei-225-kospi-hang-seng-index-nifty-50.html"
+      ],
+      "monitoring_signals": [
+        "CME FedWatch implied probabilities",
+        "Fedspeak and SEP previews",
+        "Latest CPI/PPI prints",
+        "Treasury yield curve and term premium",
+        "Market-implied rate path (OIS)"
+      ],
+      "rationale": "Inflation is easing and the Fed is set to update projections rather than surprise with a rate move.",
+      "id": "69b7ddfe-5d7e-4950-89c1-24228657dc5d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The Bank of England will leave Bank Rate unchanged at its December 2025 policy meeting.",
+      "category": "rates",
+      "horizon_days": 10,
+      "deadline": "2025-12-19",
+      "confidence_pct": 64,
+      "log_odds": 0.575,
+      "verification_criteria": "BoE Monetary Policy Summary for December 2025 shows Bank Rate unchanged from the prior meeting level.",
+      "evidence": [
+        "https://www.bankofengland.co.uk/monetary-policy-summary"
+      ],
+      "monitoring_signals": [
+        "UK CPI and services inflation",
+        "Average Weekly Earnings ex-bonus",
+        "Labour market slack indicators",
+        "Gilt yields and SONIA OIS pricing",
+        "PMI momentum"
+      ],
+      "rationale": "Growth is soft and inflation is moderating; BoE likely to hold while assessing incoming data.",
+      "id": "375d1cb6-903e-4964-b926-d6be9798e33d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Existing-Home Sales (SAAR) for November 2025 will print between 3.70 million and 4.10 million.",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2025-12-20",
+      "confidence_pct": 57,
+      "log_odds": 0.282,
+      "verification_criteria": "NAR\u2019s official November 2025 Existing-Home Sales press release reports SAAR within 3.70\u20134.10 million.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/08/home-sellers-delisting-high-rate-realtor.html",
+        "https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales"
+      ],
+      "monitoring_signals": [
+        "MBA Purchase Index",
+        "Pending Home Sales Index",
+        "30-year mortgage rate levels",
+        "Active listings and days on market",
+        "Price cuts and delisting rates"
+      ],
+      "rationale": "High mortgage rates and elevated delistings suggest weak closings.",
+      "id": "d9dfd2e4-4e38-440c-804b-7cc445989edd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "S&P CoreLogic Case-Shiller 20-City Home Price Index (YoY) for October 2025 will print between +1.5% and +3.5%.",
+      "category": "macro",
+      "horizon_days": 22,
+      "deadline": "2025-12-31",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "S&P Dow Jones Indices release shows the 20-City Composite YoY percent change for October 2025 within +1.5% to +3.5%.",
+      "evidence": [
+        "https://www.spglobal.com/spdji/en/index-family/indicators/sp-corelogic-case-shiller/"
+      ],
+      "monitoring_signals": [
+        "Mortgage rate moves",
+        "Zillow/Redfin price indices",
+        "Inventory and new listings",
+        "Affordability indices",
+        "Regional PMIs and employment"
+      ],
+      "rationale": "Affordability constraints are cooling price growth without causing broad declines.",
+      "id": "a60cc35b-9313-4f71-a5f2-b5cd8c07ff01",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NOAA SWPC will issue at least one G3 (Strong) Geomagnetic Storm watch, warning, or alert by 2025-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 22,
+      "deadline": "2025-12-31",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "An official SWPC message (watch/warning/alert) explicitly labeled 'G3 (Strong) Geomagnetic Storm' appears on swpc.noaa.gov or official product feeds during the period.",
+      "evidence": [
+        "https://www.swpc.noaa.gov/",
+        "https://www.swpc.noaa.gov/products/solar-cycle-progression"
+      ],
+      "monitoring_signals": [
+        "Sunspot number and solar flux",
+        "CME halo events",
+        "WSA\u2013Enlil model outputs",
+        "KP index forecasts",
+        "Solar wind speed/density from DSCOVR"
+      ],
+      "rationale": "Solar Cycle 25 is near peak; G3 events are relatively frequent around solar maximum.",
+      "id": "716f21a7-6537-4884-96a6-019ef6a8568d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "EIA will report U.S. crude oil field production at or above 13.4 million barrels/day in at least one Weekly Petroleum Status Report released by 2025-12-31.",
+      "category": "energy",
+      "horizon_days": 22,
+      "deadline": "2025-12-31",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "Within any WPSR released by the deadline, Table 1 'U.S. Field Production of Crude Oil' weekly estimate is \u2265 13.4 million b/d.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/"
+      ],
+      "monitoring_signals": [
+        "Rig count and frac spread data",
+        "EIA Drilling Productivity Report",
+        "Pipeline takeaway capacity",
+        "Well productivity trends in Permian",
+        "WTI price and hedging activity"
+      ],
+      "rationale": "Output is at record highs and trending modestly upward.",
+      "id": "9a4ef16e-27eb-4f0e-98ad-9f02824f6b21",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures will settle at or above $85.00 per barrel on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 22,
+      "deadline": "2025-12-31",
+      "confidence_pct": 42,
+      "log_odds": -0.323,
+      "verification_criteria": "CME Group official settlement for the prompt WTI contract is \u2265 $85.00 on any trading day through the deadline.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.html"
+      ],
+      "monitoring_signals": [
+        "OPEC+ supply decisions",
+        "Middle East and Russia supply risks",
+        "U.S. crude and product inventory draws",
+        "Global demand indicators (PMIs, mobility)",
+        "Dollar index (DXY)"
+      ],
+      "rationale": "Supply risks and potential draws could briefly push prices higher.",
+      "id": "f1feefa8-c330-4b42-8ee6-4941c9817e13",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NYMEX Henry Hub natural gas front-month futures will settle at or below $2.25 per MMBtu on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 22,
+      "deadline": "2025-12-31",
+      "confidence_pct": 44,
+      "log_odds": -0.241,
+      "verification_criteria": "CME Group official settlement for the prompt Henry Hub contract is \u2264 $2.25 per MMBtu on any trading day through the deadline.",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.html",
+        "https://ir.eia.gov/ngs/ngs.html"
+      ],
+      "monitoring_signals": [
+        "HDD forecasts and weather anomalies",
+        "Storage vs. 5-year average",
+        "LNG export facility outages",
+        "Appalachia/Permian production trends",
+        "Pipeline maintenance and constraints"
+      ],
+      "rationale": "High storage and mild weather risk could briefly pressure prices.",
+      "id": "08c4b3de-c867-47b7-bdc5-3cbd29b40ef4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Commerce Department (BIS) will add at least one China-based AI accelerator or chip design firm to the Entity List by 2025-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 22,
+      "deadline": "2025-12-31",
+      "confidence_pct": 41,
+      "log_odds": -0.364,
+      "verification_criteria": "A BIS press release or Federal Register notice lists a PRC AI chip/accelerator firm newly added to the Entity List during the period.",
+      "evidence": [
+        "https://www.bis.doc.gov/index.php/about-bis/newsroom/press-releases",
+        "https://www.cnbc.com/2025/12/08/trump-nvidia-h200-sales-china.html"
+      ],
+      "monitoring_signals": [
+        "Commerce/White House export control statements",
+        "Congressional pressure on China tech controls",
+        "Reporting on PRC AI hardware supply chains",
+        "Entity List rumor/leak reporting",
+        "FR publication pipeline"
+      ],
+      "rationale": "Policy remains fluid; selective tightening may accompany targeted allowances.",
+      "id": "7bfeb641-83db-41e6-98e0-71b7383f646e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Paramount Global or Warner Bros. Discovery will publicly disclose receipt of a 'Second Request' under the HSR Act in connection with a proposed Paramount\u2013WBD transaction by 2026-01-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 53,
+      "deadline": "2026-01-31",
+      "confidence_pct": 36,
+      "log_odds": -0.575,
+      "verification_criteria": "An 8-K, press release, or court filing from either company states DOJ/FTC issued a Request for Additional Information (Second Request) for a Paramount\u2013WBD deal within the period.",
+      "evidence": [
+        "https://techcrunch.com/2025/12/08/paramount-goes-to-war-with-netflix-for-warner-bros-discovery-with-hostile-108-4b-bid/",
+        "https://www.ftc.gov/legal-library/browse/hsr-resources/hsr-filing-faqs"
+      ],
+      "monitoring_signals": [
+        "Deal acceptance and definitive agreement",
+        "HSR filing date and waiting period status",
+        "Agency assignment (DOJ vs. FTC)",
+        "Media reports of Second Request issuance",
+        "Political/regulatory commentary"
+      ],
+      "supersedes_id": "f497b887",
+      "rationale": "If a filing proceeds, market concentration concerns make a Second Request likely.",
+      "id": "eeb5e76f-4477-48ae-9896-cfd1f9e43379",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Waymo will report achieving at least 500,000 weekly paid robotaxi rides on at least one week by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 112,
+      "deadline": "2026-03-31",
+      "confidence_pct": 64,
+      "log_odds": 0.575,
+      "verification_criteria": "An official Waymo blog post, press release, or regulatory filing states weekly paid rides \u2265 500,000 during the period.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/08/waymo-paid-rides-robotaxi-tesla.html"
+      ],
+      "monitoring_signals": [
+        "Fleet size and utilization",
+        "Service area expansions",
+        "Wait times and reliability metrics",
+        "Municipal approvals",
+        "App engagement/download trends"
+      ],
+      "rationale": "Scaling from 450k to 500k weekly appears achievable with ongoing expansion.",
+      "id": "3a6d3750-9e34-4a6a-9754-2489290d1fe0",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The European Commission will open at least one new formal non-compliance proceeding under the Digital Markets Act against a designated gatekeeper by 2025-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 22,
+      "deadline": "2025-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "An official European Commission press release announces initiation of a DMA non-compliance investigation (Article 29) against a gatekeeper during the period.",
+      "evidence": [
+        "https://ec.europa.eu/competition-policy/dma_en"
+      ],
+      "monitoring_signals": [
+        "Gatekeeper compliance updates",
+        "Developer/competitor complaints",
+        "Commissioner statements",
+        "Deadlines for remedy commitments",
+        "Leak reporting on case openings"
+      ],
+      "rationale": "DMA enforcement cadence and open issues make another proceeding plausible.",
+      "id": "bfd6faab-da6d-4714-a992-079d5f16cc22",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. CPI Shelter index (YoY, NSA) for November 2025 will print between 4.8% and 5.6%.",
+      "category": "macro",
+      "horizon_days": 3,
+      "deadline": "2025-12-12",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "BLS CPI detailed tables report the CPI-U Shelter index year-over-year percent change for November 2025 within 4.8%\u20135.6%.",
+      "evidence": [
+        "https://www.bls.gov/cpi/",
+        "https://www.apartmentlist.com/research/national-rent-data"
+      ],
+      "monitoring_signals": [
+        "Apartment List and Zillow rent indices",
+        "Vacancy rates and lease renewal terms",
+        "OER trends in recent CPI reports",
+        "Regional rent trends",
+        "Real-time listing price data"
+      ],
+      "rationale": "Private rent data show cooling; shelter disinflation is gradual.",
+      "id": "f6ce277a-53a6-439f-8ff0-81f14486e3f4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

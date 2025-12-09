@@ -1284,3 +1284,11 @@ On event-driven items, there is discussion of the proposed Netflix–Warner Bros
 
 ---
 
+
+## 2025-12-08
+
+Today’s news flow centers on U.S. policy moves (farmer aid, export rules for AI chips), legal developments at the Supreme Court, and high-profile media M&A jockeying. While these items may shape market sentiment, none directly provide the specific economic prints or regulatory disclosures required to resolve the tracked forecasts.
+Key macro releases remain imminent: November CPI and the December FOMC SEP later this week, with additional December indicators (NFIB, Michigan sentiment, NAHB, Philly Fed) following. Market-level thresholds (VIX, Russell 2000) and sector-specific disclosures (EIA storage, Chrome/Android security bulletins, OFAC designations) were not confirmed in today’s reporting, so all predictions remain pending until definitive data or announcements appear.
+
+---
+

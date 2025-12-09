@@ -23,7 +23,7 @@
       ],
       "rationale": "Energy softness and moderate core keep YoY near low-3%.",
       "id": "f9ceb789-0091-4bad-9d7a-195d446c88ad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -47,7 +47,7 @@
       ],
       "rationale": "Shelter stickiness caps disinflation; core drifts mid-3%.",
       "id": "ae9c3c9d-4415-4ba3-8099-f2dd61ebd48c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -71,7 +71,7 @@
       ],
       "rationale": "Balanced easing path; dots likely imply several 2025 cuts.",
       "id": "0b40272f-a39d-471b-9c77-10b514385b8f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -95,7 +95,7 @@
       ],
       "rationale": "Seasonal vol compression could briefly push VIX to 12.",
       "id": "b2377a61-3170-449f-9a0e-4e1782b539a3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Rates relief and rotation can lift small caps into year-end.",
       "id": "2bad3b83-1eb8-4690-9a5c-0fda57637132",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -144,7 +144,7 @@
       "supersedes_id": "8fa80858-d92e-4d92-ab81-dd2de22f6c10",
       "rationale": "A stronger threshold refines earlier storage-draw call.",
       "id": "22c9e8b8-d309-4655-85c7-6f7ce297d3ba",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -168,7 +168,7 @@
       ],
       "rationale": "Improving sentiment, but tight credit caps capex plans.",
       "id": "67eee42a-e8ff-4a5a-be1e-3f387edc7407",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -192,7 +192,7 @@
       ],
       "rationale": "Stable gas and equities support current-conditions sentiment.",
       "id": "43870492-9ca6-4123-91ca-a98a1656ac69",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -216,7 +216,7 @@
       ],
       "rationale": "Moderate upstream price pressure fits a mid-range print.",
       "id": "4182192b-0907-49bb-b305-6b2e74927a06",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -240,7 +240,7 @@
       ],
       "rationale": "Lower rates help, but affordability keeps HMI sub-50.",
       "id": "e3107db5-6854-413d-8bc3-dbd193b6bc4a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -264,7 +264,7 @@
       ],
       "rationale": "Policy drift and periodic enforcement make a year-end action plausible.",
       "id": "ccd3e509-0417-43b0-8c88-6878ba39cf50",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -288,7 +288,7 @@
       ],
       "rationale": "Historic vulnerability patterns favor at least one V8 UAF fix.",
       "id": "35928a58-f733-4ad3-aed8-7c360bc0dfbe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -312,7 +312,7 @@
       ],
       "rationale": "Kernel EoPs are common and typically high-severity in bulletins.",
       "id": "b8545fee-fab1-458f-be8a-dca60d8f2bf7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]

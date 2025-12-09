@@ -1,0 +1,104 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. clears Nvidia H200 AI chip sales to China, reportedly seeking 25% revenue cut; Nvidia shares jump on expanded TAM.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/08/trump-nvidia-h200-sales-china.html"
+    },
+    {
+      "text": "White House unveils $12B bailout for farmers hurt by tariffs, cushioning trade-war fallout on agriculture.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/08/trump-farmer-aid-trade-tariffs-china.html"
+    },
+    {
+      "text": "Paramount-Skydance launches $108B hostile bid for Warner Bros. Discovery, intensifying media consolidation battle with Netflix; regulatory and political scrutiny loom.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/12/08/paramount-goes-to-war-with-netflix-for-warner-bros-discovery-with-hostile-108-4b-bid/"
+    },
+    {
+      "text": "IBM to acquire Confluent for $11B, bolstering real-time data and AI infrastructure portfolio.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/12/08/ibm-to-acquire-confluent-for-11b-as-it-seeks-to-bolster-its-data-offerings/"
+    },
+    {
+      "text": "NextEra to build 15 GW of power for data centers by 2035; teams with Exxon on gigawatt campus for a hyperscaler.",
+      "tags": [
+        "energy",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/08/nextera-to-build-15-gigawatts-power-data-centers-google.html"
+    },
+    {
+      "text": "Asia-Pacific stocks drop, tracking Wall Street, as investors await Fed rate decision.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/12/09/asia-markets-live-today-tuesday-fed-decision-nikkei-225-kospi-hang-seng-index-nifty-50.html"
+    },
+    {
+      "text": "U.S. home sellers are delisting at unusually high rates, signaling weak buyer demand and pricing resets.",
+      "tags": [
+        "macro",
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/12/08/home-sellers-delisting-high-rate-realtor.html"
+    },
+    {
+      "text": "Japan assembles China-light rare-earth supply chain via Lynas and diversification, strengthening materials security for EVs and magnets.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/12/08/business/japan-rare-earths-lynas.html"
+    },
+    {
+      "text": "Waymo surpasses 450,000 weekly paid robotaxi rides, widening commercialization lead over rivals.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/08/waymo-paid-rides-robotaxi-tesla.html"
+    },
+    {
+      "text": "Environmental groups seek moratorium on new data centers over power and water strains, raising permitting and cost risks for AI infrastructure.",
+      "tags": [
+        "energy",
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/12/08/environmental-groups-call-for-halt-to-new-data-center-construction/"
+    },
+    {
+      "text": "Two major trials find GLP-1 drugs fail to slow Alzheimer's, tempering hopes for crossover neuroprotection.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencenews.org/article/glp-1-drugs-failed-slow-alzheimers"
+    },
+    {
+      "text": "Supreme Court appears set to expand presidential power to fire independent officials, potentially reshaping regulatory oversight and market rules.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/12/08/us/politics/supreme-court-trump-presidential-power.html"
+    }
+  ]
+}

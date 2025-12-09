@@ -1,0 +1,70 @@
+{
+  "date": "2025-12-08",
+  "assessments": [
+    {
+      "id": "f9ceb789-0091-4bad-9d7a-195d446c88ad",
+      "status": "pending",
+      "status_rationale": "No reporting of the November 2025 CPI YoY print in today\u2019s coverage; BLS release is expected imminently (around Dec 11)."
+    },
+    {
+      "id": "ae9c3c9d-4415-4ba3-8099-f2dd61ebd48c",
+      "status": "pending",
+      "status_rationale": "No mention of the November 2025 Core CPI YoY figure; official release expected this week."
+    },
+    {
+      "id": "0b40272f-a39d-471b-9c77-10b514385b8f",
+      "status": "pending",
+      "status_rationale": "FOMC decision/SEP due Dec 11; articles note market anticipation but provide no SEP median projection."
+    },
+    {
+      "id": "b2377a61-3170-449f-9a0e-4e1782b539a3",
+      "status": "pending",
+      "status_rationale": "No definitive Cboe VIX close at or below 12.0 reported; requires market close data not present here."
+    },
+    {
+      "id": "2bad3b83-1eb8-4690-9a5c-0fda57637132",
+      "status": "pending",
+      "status_rationale": "No Russell 2000 close level cited; need verified market data showing \u2265 2,350."
+    },
+    {
+      "id": "22c9e8b8-d309-4655-85c7-6f7ce297d3ba",
+      "status": "pending",
+      "status_rationale": "No EIA storage report figures discussed; no evidence of a \u2265120 Bcf withdrawal."
+    },
+    {
+      "id": "67eee42a-e8ff-4a5a-be1e-3f387edc7407",
+      "status": "pending",
+      "status_rationale": "NFIB November 2025 data not referenced; release expected around Dec 10."
+    },
+    {
+      "id": "43870492-9ca6-4123-91ca-a98a1656ac69",
+      "status": "pending",
+      "status_rationale": "No University of Michigan preliminary Current Conditions print reported; release typically around Dec 13."
+    },
+    {
+      "id": "4182192b-0907-49bb-b305-6b2e74927a06",
+      "status": "pending",
+      "status_rationale": "No Philadelphia Fed Prices Paid index data for December cited; report due later in the month."
+    },
+    {
+      "id": "e3107db5-6854-413d-8bc3-dbd193b6bc4a",
+      "status": "pending",
+      "status_rationale": "No NAHB/Wells Fargo HMI print for December reported; release expected mid-December."
+    },
+    {
+      "id": "ccd3e509-0417-43b0-8c88-6878ba39cf50",
+      "status": "pending",
+      "status_rationale": "No OFAC/Treasury press release on Venezuela designations noted in today\u2019s news."
+    },
+    {
+      "id": "35928a58-f733-4ad3-aed8-7c360bc0dfbe",
+      "status": "pending",
+      "status_rationale": "No Chrome Stable Channel security notes referenced; no evidence of a V8 high-severity UAF acknowledgment."
+    },
+    {
+      "id": "b8545fee-fab1-458f-be8a-dca60d8f2bf7",
+      "status": "pending",
+      "status_rationale": "No citation of the Android December 2025 Security Bulletin contents; need official bulletin to verify kernel EoP CVE \u22657.8."
+    }
+  ]
+}
