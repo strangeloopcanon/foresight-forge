@@ -1292,3 +1292,12 @@ Key macro releases remain imminent: November CPI and the December FOMC SEP later
 
 ---
 
+
+## 2025-12-09
+
+None of the listed predictions were conclusively resolved by today’s articles. The most time-sensitive item is the FOMC decision, with preview coverage suggesting a rate cut, but no official outcome yet; the CPI shelter print is also imminent but not reported here. Housing activity and Case-Shiller readings for the relevant months are likewise not in today’s coverage.
+
+On policy and industry, reporting on the U.S. allowing some Nvidia chip sales to China signals a looser export-control posture, which marginally lowers the short-term likelihood of new BIS Entity List additions targeting China-based AI chip firms, but it does not determine the outcome. Coverage of political involvement in Warner Bros.-related matters does not include any formal Paramount–WBD transaction disclosures or an HSR Second Request. Energy market threshold calls (WTI, Henry Hub, U.S. crude production), geomagnetic storm alerts, DMA enforcement, and Waymo ride metrics see no definitive updates in the provided news.
+
+---
+

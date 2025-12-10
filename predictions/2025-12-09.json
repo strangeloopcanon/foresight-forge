@@ -22,7 +22,7 @@
       ],
       "rationale": "Inflation is easing and the Fed is set to update projections rather than surprise with a rate move.",
       "id": "69b7ddfe-5d7e-4950-89c1-24228657dc5d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "Growth is soft and inflation is moderating; BoE likely to hold while assessing incoming data.",
       "id": "375d1cb6-903e-4964-b926-d6be9798e33d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -69,7 +69,7 @@
       ],
       "rationale": "High mortgage rates and elevated delistings suggest weak closings.",
       "id": "d9dfd2e4-4e38-440c-804b-7cc445989edd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -92,7 +92,7 @@
       ],
       "rationale": "Affordability constraints are cooling price growth without causing broad declines.",
       "id": "a60cc35b-9313-4f71-a5f2-b5cd8c07ff01",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -116,7 +116,7 @@
       ],
       "rationale": "Solar Cycle 25 is near peak; G3 events are relatively frequent around solar maximum.",
       "id": "716f21a7-6537-4884-96a6-019ef6a8568d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Output is at record highs and trending modestly upward.",
       "id": "9a4ef16e-27eb-4f0e-98ad-9f02824f6b21",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -162,7 +162,7 @@
       ],
       "rationale": "Supply risks and potential draws could briefly push prices higher.",
       "id": "f1feefa8-c330-4b42-8ee6-4941c9817e13",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -186,7 +186,7 @@
       ],
       "rationale": "High storage and mild weather risk could briefly pressure prices.",
       "id": "08c4b3de-c867-47b7-bdc5-3cbd29b40ef4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -210,7 +210,7 @@
       ],
       "rationale": "Policy remains fluid; selective tightening may accompany targeted allowances.",
       "id": "7bfeb641-83db-41e6-98e0-71b7383f646e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -235,7 +235,7 @@
       "supersedes_id": "f497b887",
       "rationale": "If a filing proceeds, market concentration concerns make a Second Request likely.",
       "id": "eeb5e76f-4477-48ae-9896-cfd1f9e43379",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -258,7 +258,7 @@
       ],
       "rationale": "Scaling from 450k to 500k weekly appears achievable with ongoing expansion.",
       "id": "3a6d3750-9e34-4a6a-9754-2489290d1fe0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -281,7 +281,7 @@
       ],
       "rationale": "DMA enforcement cadence and open issues make another proceeding plausible.",
       "id": "bfd6faab-da6d-4714-a992-079d5f16cc22",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -305,7 +305,7 @@
       ],
       "rationale": "Private rent data show cooling; shelter disinflation is gradual.",
       "id": "f6ce277a-53a6-439f-8ff0-81f14486e3f4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

@@ -1,0 +1,118 @@
+{
+  "bullets": [
+    {
+      "text": "US job openings flat in October; hires, separations little changed, signaling steady but cooler labor demand.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/jolts_12092025.htm"
+    },
+    {
+      "text": "Fed widely expected to cut rates and update forward guidance at upcoming decision.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html"
+    },
+    {
+      "text": "Survey: Hassett seen as likely next Fed chair, though most respondents prefer different nominee.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/09/hassett-likely-next-fed-chair-but-most-think-trump-should-nominate-someone-else-cnbc-fed-survey-shows.html"
+    },
+    {
+      "text": "Trump greenlights Nvidia AI chip sales to China, reversing long-standing tech curbs; GOP pushback underscores strategic rift.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-nvidia-ai-chips-china.html"
+    },
+    {
+      "text": "Nvidia allowed to sell H200 to China, but demand uncertainty clouds outlook amid U.S.-China tensions.",
+      "tags": [
+        "tech",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/09/nvidia-can-sell-h200-ai-chip-to-china-but-will-beijing-want-them.html"
+    },
+    {
+      "text": "Wall Street shaking off AI bubble fears, as earnings and demand still support lofty valuations for now.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html"
+    },
+    {
+      "text": "Commercial real estate deal volume falls for first time in nearly two years, reflecting higher-rate drag on transactions.",
+      "tags": [
+        "markets",
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/12/09/commercial-real-estate-deals-october.html"
+    },
+    {
+      "text": "CVS boosts 2025 guidance, sending shares higher as healthcare giant signals stronger-than-expected results.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/cvs-health-updated-its-2025-guidance-again-and-the-stock-is-rallying-52c73dde"
+    },
+    {
+      "text": "Oracle\u2019s AI buildout leaves investors wary of rising debt ahead of earnings.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/09/oracles-ai-fueled-debt-load-has-investors-on-edge-ahead-of-earnings.html"
+    },
+    {
+      "text": "Eli Lilly investing $6B in Alabama plant to produce obesity pill and other drugs, expanding U.S. manufacturing.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/09/eli-lilly-6-billion-alabama-manufacturing-plant-obesity-pill.html"
+    },
+    {
+      "text": "SpaceX reportedly targets 2026 IPO at $1.5T valuation, signaling potential mega-listing in private space sector.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/12/09/spacex-reportedly-planning-2026-ipo-with-1-5t-valuation-target/"
+    },
+    {
+      "text": "Canada to fast-track immigration for U.S. H-1B holders, intensifying North American talent competition.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/12/09/world/canada/canada-usa-immigration-h1-b-visa-talent.html"
+    },
+    {
+      "text": "Instacart\u2019s AI pricing tools may raise grocery costs, study finds, spotlighting inflationary risks of algorithmic pricing.",
+      "tags": [
+        "macro",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/09/study-instacart-ai-pricing-cost-of-groceries.html"
+    },
+    {
+      "text": "New gravitational lens measurements sharpen Hubble-tension debate, deepening mystery over universe\u2019s expansion rate.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251209043036.htm"
+    }
+  ]
+}

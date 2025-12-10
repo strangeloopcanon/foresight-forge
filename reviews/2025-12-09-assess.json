@@ -1,0 +1,70 @@
+{
+  "date": "2025-12-09",
+  "assessments": [
+    {
+      "id": "69b7ddfe-5d7e-4950-89c1-24228657dc5d",
+      "status": "pending",
+      "status_rationale": "The FOMC decision has not been announced yet; while one article previews a likely rate cut, no official outcome is reported."
+    },
+    {
+      "id": "375d1cb6-903e-4964-b926-d6be9798e33d",
+      "status": "pending",
+      "status_rationale": "No report of the Bank of England\u2019s December decision is included in today\u2019s news."
+    },
+    {
+      "id": "d9dfd2e4-4e38-440c-804b-7cc445989edd",
+      "status": "pending",
+      "status_rationale": "November existing-home sales data have not been released or cited in today\u2019s coverage."
+    },
+    {
+      "id": "a60cc35b-9313-4f71-a5f2-b5cd8c07ff01",
+      "status": "pending",
+      "status_rationale": "No Case-Shiller October 2025 YoY figure is reported in the provided news."
+    },
+    {
+      "id": "716f21a7-6537-4884-96a6-019ef6a8568d",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC G3 watch/warning/alert is mentioned; the window remains open."
+    },
+    {
+      "id": "9a4ef16e-27eb-4f0e-98ad-9f02824f6b21",
+      "status": "pending",
+      "status_rationale": "There is no cited Weekly Petroleum Status Report showing crude production \u226513.4 mb/d."
+    },
+    {
+      "id": "f1feefa8-c330-4b42-8ee6-4941c9817e13",
+      "status": "pending",
+      "status_rationale": "No article references a WTI front-month settlement at or above $85."
+    },
+    {
+      "id": "08c4b3de-c867-47b7-bdc5-3cbd29b40ef4",
+      "status": "pending",
+      "status_rationale": "No article references a Henry Hub front-month settlement at or below $2.25."
+    },
+    {
+      "id": "7bfeb641-83db-41e6-98e0-71b7383f646e",
+      "status": "pending",
+      "status_rationale": "Coverage notes approval of some Nvidia chip sales to China, but there is no report of BIS adding a China AI chip firm to the Entity List."
+    },
+    {
+      "id": "eeb5e76f-4477-48ae-9896-cfd1f9e43379",
+      "status": "pending",
+      "status_rationale": "Despite reporting on political involvement around Warner Bros., there is no disclosure of an HSR Second Request tied to a Paramount\u2013WBD deal."
+    },
+    {
+      "id": "3a6d3750-9e34-4a6a-9754-2489290d1fe0",
+      "status": "pending",
+      "status_rationale": "No operational statistics from Waymo are reported regarding weekly paid ride volume."
+    },
+    {
+      "id": "bfd6faab-da6d-4714-a992-079d5f16cc22",
+      "status": "pending",
+      "status_rationale": "No new European Commission DMA non-compliance proceeding is mentioned."
+    },
+    {
+      "id": "f6ce277a-53a6-439f-8ff0-81f14486e3f4",
+      "status": "pending",
+      "status_rationale": "The November 2025 CPI shelter figure has not been reported in the provided news."
+    }
+  ]
+}

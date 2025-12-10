@@ -1,0 +1,237 @@
+{
+  "date": "2025-12-10",
+  "predictions": [
+    {
+      "text": "The FOMC will cut the federal funds target range by 25 bps to 5.00%\u20135.25% at its December 2025 meeting.",
+      "category": "rates",
+      "horizon_days": 1,
+      "deadline": "2025-12-11",
+      "confidence_pct": 66,
+      "log_odds": 0.664,
+      "verification_criteria": "Verified by the Federal Reserve Board press release and FOMC statement dated 2025-12-11 specifying the new target range as 5.00%\u20135.25%.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html",
+        "https://www.bls.gov/news.release/archives/jolts_12092025.htm"
+      ],
+      "monitoring_signals": [
+        "November CPI release and components (shelter, core services ex-housing)",
+        "Fed funds futures (CME FedWatch) implied probabilities",
+        "Financial conditions indices",
+        "FOMC statement language and SEP medians"
+      ],
+      "supersedes_id": "69b7ddfe-5d7e-4950-89c1-24228657dc5d",
+      "rationale": "Cooling labor demand and market pricing point to a moderate, pre-signaled cut.",
+      "id": "14865234-dcfc-46f6-8fdb-202a459fc29d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2025-12-20 (UTC), the U.S. Commerce Department (BIS) will publicly confirm or formalize policy enabling Nvidia H200 shipments to China (e.g., guidance or Federal Register notice).",
+      "category": "geopolitics",
+      "horizon_days": 10,
+      "deadline": "2025-12-20",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "A BIS press release, BIS website guidance, or a Federal Register notice explicitly confirming permissible export conditions for Nvidia H200 shipments to China without case-by-case licenses.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/09/us/politics/trump-nvidia-ai-chips-china.html",
+        "https://www.cnbc.com/2025/12/09/nvidia-can-sell-h200-ai-chip-to-china-but-will-beijing-want-them.html"
+      ],
+      "monitoring_signals": [
+        "BIS press releases and rulemaking docket",
+        "Federal Register export control notices",
+        "White House fact sheets or statements",
+        "Nvidia investor relations updates"
+      ],
+      "rationale": "White House signaling implies BIS follow-through to operationalize policy.",
+      "id": "6f6ebe81-ee94-4059-8d82-e7cc56fd9e10",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CISA will add at least 5 new CVEs to the Known Exploited Vulnerabilities (KEV) Catalog in December 2025.",
+      "category": "tech",
+      "horizon_days": 21,
+      "deadline": "2025-12-31",
+      "confidence_pct": 62,
+      "log_odds": 0.489,
+      "verification_criteria": "Count December 2025 KEV entries on the CISA KEV Catalog page; five or more December-dated additions satisfies this.",
+      "evidence": [
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "https://www.cnbc.com/2025/12/09/study-instacart-ai-pricing-cost-of-groceries.html",
+        "https://www.marketwatch.com/story/cvs-health-updated-its-2025-guidance-again-and-the-stock-is-rallying-52c73dde"
+      ],
+      "monitoring_signals": [
+        "High-profile vendor advisories noting in-the-wild exploitation",
+        "Zero-day disclosures from Microsoft, Apple, Google, Mozilla, Cisco",
+        "Threat intel reports linking active exploitation",
+        "CISA Binding Operational Directive updates"
+      ],
+      "rationale": "Typical December cadence and ongoing exploitation flow make 5+ KEV additions likely.",
+      "id": "031c466c-1c09-4958-9118-9c2524059d2b",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The iShares PHLX Semiconductor ETF (SOXX) will close at a new all-time high on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 21,
+      "deadline": "2025-12-31",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "Any official closing price for SOXX (Nasdaq/NYSE Arca) equal to or above its prior record close, as recorded by the exchange or iShares product page.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html",
+        "https://www.cnbc.com/2025/12/09/nvidia-can-sell-h200-ai-chip-to-china-but-will-beijing-want-them.html",
+        "https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf"
+      ],
+      "monitoring_signals": [
+        "Nvidia and TSMC guidance and unit demand",
+        "Rates moves affecting duration-sensitive growth equities",
+        "Breadth within semiconductor subsectors (equipment vs. designers)",
+        "AI capex commentary from hyperscalers and enterprise"
+      ],
+      "rationale": "AI demand and policy tailwinds support semis leadership into year-end.",
+      "id": "4bfdb88c-2783-40bd-a5cd-a8f4e930cbe7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Core PCE Price Index (MoM, SA) for November 2025 will print between +0.1% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-12-20",
+      "confidence_pct": 61,
+      "log_odds": 0.447,
+      "verification_criteria": "BEA Personal Income and Outlays news release for November 2025; Table showing Core PCE (PCE excluding food & energy) month-over-month percent change within the stated range.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html",
+        "https://www.bls.gov/news.release/archives/jolts_12092025.htm",
+        "https://www.bea.gov/"
+      ],
+      "monitoring_signals": [
+        "CPI core services ex-housing nowcasts",
+        "PPI components mapping to PCE",
+        "Healthcare and financial services price indicators",
+        "Revisions to prior months\u2019 PCE"
+      ],
+      "rationale": "Disinflation trend persists, with core services sticky but moderating.",
+      "id": "6ffa149c-a979-41ac-86b4-0a52cb004a1e",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Seasonally adjusted U.S. Initial Jobless Claims for the week ending 2025-12-06 will print between 220,000 and 245,000.",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2025-12-12",
+      "confidence_pct": 59,
+      "log_odds": 0.364,
+      "verification_criteria": "U.S. Department of Labor Unemployment Insurance Weekly Claims News Release for the specified week; initial claims figure must fall within the range.",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/jolts_12092025.htm",
+        "https://www.dol.gov/newsroom/releases/eta"
+      ],
+      "monitoring_signals": [
+        "High-frequency claims from large states (CA, NY, TX)",
+        "Continuing claims trend",
+        "Holiday adjustment factors",
+        "Layoff announcements (Challenger report) and hiring plans (NFIB)"
+      ],
+      "rationale": "Labor demand is cooler but stable; seasonal noise contained.",
+      "id": "ed144c7a-a971-420e-bc47-bf38b222453c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent crude front-month futures will settle at or above $88.00 per barrel on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 21,
+      "deadline": "2025-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Settlement price for the front-month Brent futures contract as published by ICE Futures Europe on any trading day on or before 2025-12-31 must be \u2265 $88.00.",
+      "evidence": [
+        "https://www.theice.com/products/219/Brent-Crude-Futures"
+      ],
+      "monitoring_signals": [
+        "OPEC+ policy and compliance headlines",
+        "Geopolitical supply risks (Middle East, Russia)",
+        "U.S. inventory and product demand data (EIA)",
+        "Dollar index and global growth indicators"
+      ],
+      "rationale": "Year-end geopolitics and positioning can spur an upside test in Brent.",
+      "id": "9156944c-5c8c-4e9b-ad9c-eae42436d65d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or below 3.95% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 21,
+      "deadline": "2025-12-31",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Daily close for DGS10 on FRED at or below 3.95% on any trading day through 2025-12-31.",
+      "evidence": [
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.cnbc.com/2025/12/09/the-fed-decision-is-expected-to-feature-a-rate-cut-and-a-lot-more-heres-what-to-expect.html"
+      ],
+      "monitoring_signals": [
+        "FOMC decision and SEP path",
+        "Inflation releases (CPI, PCE)",
+        "Treasury refunding and term premium estimates",
+        "Risk sentiment and foreign demand for USTs"
+      ],
+      "rationale": "A dovish Fed and disinflation increase odds of a sub-4% 10Y print.",
+      "id": "d7d81ea7-5eb4-4b3c-816b-bc4d903bb4f8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NAR Total housing inventory at end of November 2025 will print between 1.05 million and 1.25 million.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2025-12-20",
+      "confidence_pct": 56,
+      "log_odds": 0.241,
+      "verification_criteria": "National Association of Realtors Existing-Home Sales news release for November 2025; the 'Total inventory' end-of-month figure must fall within the range.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/09/commercial-real-estate-deals-october.html",
+        "https://www.nar.realtor/newsroom/existing-home-sales"
+      ],
+      "monitoring_signals": [
+        "Mortgage rates and applications (MBA)",
+        "Active listings data (Altos/Redfin)",
+        "Homebuilder sentiment (NAHB)",
+        "Regional MLS inventory trends"
+      ],
+      "rationale": "Higher rates have lifted active listings modestly into year-end.",
+      "id": "1955da41-4c3b-4a56-bddf-8c92f471a666",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Endex Dutch TTF front-month natural gas will settle at or above \u20ac50.00/MWh on at least one trading day by 2025-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 21,
+      "deadline": "2025-12-31",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Front-month TTF futures settlement published by ICE Endex at \u2265 \u20ac50.00/MWh on any trading day through 2025-12-31.",
+      "evidence": [
+        "https://www.theice.com/products/27996665/Dutch-TTF-Gas-Futures"
+      ],
+      "monitoring_signals": [
+        "European weather forecasts (HDDs) and cold snaps",
+        "LNG supply disruptions and shipping constraints",
+        "Storage levels vs. 5-year average",
+        "Pipeline flows from Norway/Russia and Asian spot demand"
+      ],
+      "rationale": "Winter weather risks and LNG volatility can trigger a brief price spike.",
+      "id": "d06715eb-923d-4462-bafd-80ed639496a8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
