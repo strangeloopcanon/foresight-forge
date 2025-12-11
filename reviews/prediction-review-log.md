@@ -1301,3 +1301,12 @@ On policy and industry, reporting on the U.S. allowing some Nvidia chip sales to
 
 ---
 
+
+## 2025-12-10
+
+The dominant development is the Federal Reserve cutting rates again at its December meeting, with multiple outlets highlighting both the decision and unusually sharp divisions among policymakers. However, the articles provided do not state the exact cut size or the new target range, which prevents a definitive grading of the FOMC-specific forecast without the formal statement or precise figures.
+
+Other headlines center on the U.S. seizure of an oil tanker near Venezuela, mixed reactions in equities (notably pressure on AI-adjacent names after Oracle’s revenue miss), and corporate moves. None of these provide conclusive evidence for the remaining forecasts. Energy and rates-sensitive predictions could be influenced by these developments, but verification will hinge on official price settlements, Treasury yield closes, and scheduled data releases such as jobless claims and Core PCE later this month.
+
+---
+

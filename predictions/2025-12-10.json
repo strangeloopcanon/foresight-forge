@@ -22,7 +22,7 @@
       "supersedes_id": "69b7ddfe-5d7e-4950-89c1-24228657dc5d",
       "rationale": "Cooling labor demand and market pricing point to a moderate, pre-signaled cut.",
       "id": "14865234-dcfc-46f6-8fdb-202a459fc29d",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "60-70"
     },
     {
@@ -45,7 +45,7 @@
       ],
       "rationale": "White House signaling implies BIS follow-through to operationalize policy.",
       "id": "6f6ebe81-ee94-4059-8d82-e7cc56fd9e10",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -69,7 +69,7 @@
       ],
       "rationale": "Typical December cadence and ongoing exploitation flow make 5+ KEV additions likely.",
       "id": "031c466c-1c09-4958-9118-9c2524059d2b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -93,7 +93,7 @@
       ],
       "rationale": "AI demand and policy tailwinds support semis leadership into year-end.",
       "id": "4bfdb88c-2783-40bd-a5cd-a8f4e930cbe7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -117,7 +117,7 @@
       ],
       "rationale": "Disinflation trend persists, with core services sticky but moderating.",
       "id": "6ffa149c-a979-41ac-86b4-0a52cb004a1e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "Labor demand is cooler but stable; seasonal noise contained.",
       "id": "ed144c7a-a971-420e-bc47-bf38b222453c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -162,7 +162,7 @@
       ],
       "rationale": "Year-end geopolitics and positioning can spur an upside test in Brent.",
       "id": "9156944c-5c8c-4e9b-ad9c-eae42436d65d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "rationale": "A dovish Fed and disinflation increase odds of a sub-4% 10Y print.",
       "id": "d7d81ea7-5eb4-4b3c-816b-bc4d903bb4f8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Higher rates have lifted active listings modestly into year-end.",
       "id": "1955da41-4c3b-4a56-bddf-8c92f471a666",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -230,7 +230,7 @@
       ],
       "rationale": "Winter weather risks and LNG volatility can trigger a brief price spike.",
       "id": "d06715eb-923d-4462-bafd-80ed639496a8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

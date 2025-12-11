@@ -1,0 +1,305 @@
+{
+  "date": "2025-12-11",
+  "predictions": [
+    {
+      "text": "S&P 500 Index (SPX) will close at a new all-time high on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 20,
+      "deadline": "2025-12-31",
+      "confidence_pct": 60,
+      "verification_criteria": "A daily official close for the S&P 500 (SPX) exceeding its prior record close, as reported by S&P Dow Jones Indices or equivalent market-data sources, occurring on or before 2025-12-31 (UTC).",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm",
+        "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html"
+      ],
+      "monitoring_signals": [
+        "SPX vs prior record close (market data)",
+        "U.S. Treasury yields (2y/10y) and real yields",
+        "Breadth indicators (advance/decline, new highs)",
+        "Macro prints: CPI/PCE, claims, retail sales"
+      ],
+      "rationale": "Fed easing, falling yields, and resilient macro increase probability of a year-end equity record.",
+      "id": "cf063b78-1c93-4de7-8b34-10e71e3a79a0",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "COMEX Gold (GC) front-month futures will settle at or above $2,500/oz on at least one trading day by 2025-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 20,
+      "deadline": "2025-12-31",
+      "confidence_pct": 38,
+      "verification_criteria": "CME/COMEX official settlement price for the front-month GC futures contract is \u2265 $2,500.00/oz on or before 2025-12-31 (UTC).",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm",
+        "https://www.cnbc.com/2025/12/10/us-tariff-switzerland-trade-tariffs.html",
+        "https://www.nytimes.com/2025/12/10/business/beef-prices-steakhouses.html"
+      ],
+      "monitoring_signals": [
+        "U.S. real yields (TIPS breakevens, 10y TIPS)",
+        "USD DXY index and USD/JPY",
+        "Geopolitical headlines and sanctions updates",
+        "ETF flows (GLD/IAU) and CFTC positioning"
+      ],
+      "rationale": "Lower real yields, tariff/trade uncertainty, and geopolitical risk support an upside tail for gold.",
+      "id": "fe22869f-7be4-4afd-962c-d86bf36d92bb",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "USD/JPY spot will trade at or below 140.00 on at least one UTC day by 2026-01-31.",
+      "category": "markets",
+      "horizon_days": 51,
+      "deadline": "2026-01-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Any intraday trade in USD/JPY at or below 140.00 recorded by major FX data sources (Refinitiv/Bloomberg) on or before 2026-01-31 (UTC).",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm",
+        "https://www.boj.or.jp/en/mopo/index.htm"
+      ],
+      "monitoring_signals": [
+        "U.S.-Japan 2-year yield differential",
+        "BOJ policy guidance and JGB yields",
+        "Risk sentiment and equity moves (Nikkei, SPX)",
+        "U.S. inflation prints and Fed communication"
+      ],
+      "rationale": "Fed cuts narrow rate differentials; BOJ policy normalization risk and risk-off episodes can push USD/JPY lower.",
+      "id": "06451ee2-40f0-4a28-97fa-7eba04e4c33b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Bank of Japan will leave its short-term policy rate unchanged at its December 2025 meeting.",
+      "category": "rates",
+      "horizon_days": 8,
+      "deadline": "2025-12-19",
+      "confidence_pct": 62,
+      "verification_criteria": "BOJ Monetary Policy Statement for the December 2025 MPM shows no change to the short-term policy rate from its prior setting.",
+      "evidence": [
+        "https://www.boj.or.jp/en/mopo/index.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm"
+      ],
+      "monitoring_signals": [
+        "Pre-meeting BOJ press reports and leaks",
+        "JPY moves and JGB yield dynamics",
+        "Domestic data: wages, CPI ex-fresh food",
+        "Global financial conditions post-Fed"
+      ],
+      "rationale": "Despite inflation progress, BOJ likely prioritizes stability amid global easing and fragile domestic demand.",
+      "id": "2f544a46-f4d9-4816-9504-584da8e2068a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Microsoft\u2019s January 2026 Patch Tuesday will include at least one Critical-severity Remote Code Execution vulnerability affecting Windows.",
+      "category": "tech",
+      "horizon_days": 35,
+      "deadline": "2026-01-15",
+      "confidence_pct": 78,
+      "verification_criteria": "Microsoft Security Update Guide for January 2026 lists \u22651 CVE with Severity: Critical and Impact: Remote Code Execution that affects a supported Windows SKU.",
+      "evidence": [
+        "https://msrc.microsoft.com/update-guide",
+        "https://msrc.microsoft.com/blog/2023/11/vulnerability-severity-classification-for-the-security-update-guide/"
+      ],
+      "monitoring_signals": [
+        "Advance notifications and MSRC blog posts",
+        "CVE previews from security vendors",
+        "Exploit activity reports (Trend, Mandiant, CISA)"
+      ],
+      "rationale": "Windows regularly receives Critical RCE fixes on Patch Tuesday; base rates are high.",
+      "id": "6a644582-770b-4b36-ab41-9908fbb8bbee",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "CISA will add at least one Chrome/Chromium V8 zero-day (known exploited) to the KEV Catalog by 2026-01-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 51,
+      "deadline": "2026-01-31",
+      "confidence_pct": 55,
+      "verification_criteria": "CISA KEV Catalog includes \u22651 CVE for Google Chrome/Chromium V8 marked as Known Exploited, with an 'Added to Catalog' date on or before 2026-01-31 (UTC).",
+      "evidence": [
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "https://chromereleases.googleblog.com/"
+      ],
+      "monitoring_signals": [
+        "Chrome Stable Channel updates citing 'actively exploited'",
+        "CVE assignments referencing V8 use-after-free",
+        "Threat intel reports on in-the-wild Chrome exploits"
+      ],
+      "rationale": "Chrome frequently discloses in-the-wild V8 issues; CISA typically mirrors them quickly in KEV.",
+      "id": "a6a79412-8135-4362-90f3-d20003a47d3d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NOAA SWPC will report a planetary Kp index reading of at least 7 (G3-level geomagnetic activity) on at least one 3-hour interval by 2025-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 20,
+      "deadline": "2025-12-31",
+      "confidence_pct": 57,
+      "verification_criteria": "SWPC Kp index data (preliminary or definitive) shows any interval with Kp \u2265 7 on or before 2025-12-31 (UTC).",
+      "evidence": [
+        "https://www.swpc.noaa.gov/products/planetary-k-index",
+        "https://www.swpc.noaa.gov/products/solar-cycle-progression"
+      ],
+      "monitoring_signals": [
+        "Solar flare class and CME arrival predictions",
+        "Solar wind speed and Bz components at L1",
+        "SWPC watches/warnings (G2/G3) and ACE/DSCOVR data"
+      ],
+      "rationale": "Solar Cycle 25 is near peak; recent strong activity raises odds of G3 geomagnetic conditions.",
+      "id": "7306af16-5bbb-4699-9010-2a3d10ce3391",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. New Home Sales (SAAR) for November 2025 will print between 650,000 and 750,000.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-12-24",
+      "confidence_pct": 58,
+      "verification_criteria": "U.S. Census/HUD New Residential Sales press release for November 2025 (SAAR) headline level falls within 650k\u2013750k.",
+      "evidence": [
+        "https://www.census.gov/construction/nrs/",
+        "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm"
+      ],
+      "monitoring_signals": [
+        "Mortgage rates (MBA, Freddie Mac PMMS)",
+        "Homebuilder sentiment (NAHB HMI)",
+        "High-frequency listings and permits/starts data"
+      ],
+      "rationale": "Lower rates and builder incentives support sales, but affordability constraints cap upside.",
+      "id": "4744b861-0a15-480a-ac33-2868017a8efe",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Durable Goods Orders (headline, MoM, SA) for November 2025 will print between -0.4% and +1.2%.",
+      "category": "macro",
+      "horizon_days": 13,
+      "deadline": "2025-12-24",
+      "confidence_pct": 56,
+      "verification_criteria": "U.S. Census Bureau Manufacturers\u2019 Shipments, Inventories, and Orders (M3) advance report shows November 2025 headline durable goods new orders change within -0.4% to +1.2% MoM (SA).",
+      "evidence": [
+        "https://www.census.gov/manufacturing/m3/adv/pdf/durgd.pdf",
+        "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/pmi/november/"
+      ],
+      "monitoring_signals": [
+        "ISM manufacturing new orders index",
+        "Aircraft orders (Boeing monthly orders/deliveries)",
+        "Core capital goods orders previews"
+      ],
+      "rationale": "Manufacturing remains soft but stable; aircraft volatility and core goods likely keep headline in a modest band.",
+      "id": "3ddf8b34-bb21-4d22-b926-1d33645f1c52",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. JOLTS Job Openings for November 2025 will print between 8.6 million and 9.3 million (seasonally adjusted).",
+      "category": "macro",
+      "horizon_days": 28,
+      "deadline": "2026-01-08",
+      "confidence_pct": 59,
+      "verification_criteria": "BLS JOLTS November 2025 press release shows total job openings (seasonally adjusted level) within 8.6\u20139.3 million.",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/eci_12102025.htm",
+        "https://www.bls.gov/jlt/"
+      ],
+      "monitoring_signals": [
+        "Weekly initial jobless claims",
+        "Online job postings (Indeed, LinkUp)",
+        "NFIB hiring plans"
+      ],
+      "rationale": "Openings have trended lower with cooling wage growth; modest slackening continues without sharp deterioration.",
+      "id": "ae1113e6-0e51-49cd-a165-b972bc7fb0d2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 2-Year Treasury yield (FRED: DGS2) will close at or below 4.00% on at least one trading day by 2025-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 20,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "FRED series DGS2 daily close \u2264 4.00% on any trading day on or before 2025-12-31 (UTC).",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm",
+        "https://fred.stlouisfed.org/series/DGS2"
+      ],
+      "monitoring_signals": [
+        "Fed path implied by OIS/ED futures",
+        "Inflation prints (CPI/PCE) and labor data",
+        "Treasury auction demand and term premiums"
+      ],
+      "rationale": "Post-cut repricing and benign inflation prints can pull 2y yields briefly below 4%.",
+      "id": "3524ab9f-2fd7-4297-87a2-a3cce6aa41a0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX Henry Hub natural gas front-month futures will settle at or above $3.25 per MMBtu on at least one trading day by 2026-01-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 51,
+      "deadline": "2026-01-31",
+      "confidence_pct": 49,
+      "verification_criteria": "CME/NYMEX official settlement for front-month NG futures is \u2265 $3.25/MMBtu on or before 2026-01-31 (UTC).",
+      "evidence": [
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.quote.html",
+        "https://www.eia.gov/outlooks/steo/"
+      ],
+      "monitoring_signals": [
+        "Weather forecasts (HDDs) and SSW risks",
+        "EIA storage draws and pipeline flows",
+        "Freeport LNG feedgas and export capacity"
+      ],
+      "rationale": "Seasonal demand and potential cold snaps create upside tails into late January.",
+      "id": "45b6f986-e2dc-4f3d-b6f3-3fdb8d3122d1",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Apple will publish a January 2026 iOS/iPadOS security update acknowledging at least one WebKit vulnerability that 'may have been actively exploited.'",
+      "category": "tech",
+      "horizon_days": 51,
+      "deadline": "2026-01-31",
+      "confidence_pct": 51,
+      "verification_criteria": "Apple\u2019s January 2026 security updates page for iOS/iPadOS includes at least one WebKit CVE with the phrase 'may have been actively exploited.'",
+      "evidence": [
+        "https://support.apple.com/en-us/HT201222",
+        "https://webkit.org/blog/"
+      ],
+      "monitoring_signals": [
+        "Apple rapid security responses (RSR)",
+        "Citizen Lab/Amnesty reports on in-the-wild exploits",
+        "Browser exploit activity tracking"
+      ],
+      "rationale": "Apple frequently patches in-the-wild WebKit issues; early-year releases are common.",
+      "id": "f7590877-61ba-4caf-9a53-9adc910ac54f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "In at least one Weekly Petroleum Status Report released by 2026-01-31, U.S. operable refinery utilization will be reported at or above 92.0%.",
+      "category": "energy",
+      "horizon_days": 51,
+      "deadline": "2026-01-31",
+      "confidence_pct": 44,
+      "verification_criteria": "EIA WPSR Table 1 shows 'Percent Utilization of Operable Capacity' for U.S. refineries \u2265 92.0% in any report issued on or before 2026-01-31.",
+      "evidence": [
+        "https://www.eia.gov/petroleum/supply/weekly/",
+        "https://www.eia.gov/todayinenergy/"
+      ],
+      "monitoring_signals": [
+        "Refinery outages/maintenance schedules",
+        "Crack spreads and product inventories",
+        "Gulf Coast utilization trends"
+      ],
+      "rationale": "Less likely in deep winter, but a rebound post-maintenance or strong product cracks could briefly lift utilization.",
+      "id": "281af5bb-143e-4536-8df9-5760874945e2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

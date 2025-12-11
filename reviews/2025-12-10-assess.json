@@ -1,0 +1,55 @@
+{
+  "date": "2025-12-10",
+  "assessments": [
+    {
+      "id": "14865234-dcfc-46f6-8fdb-202a459fc29d",
+      "status": "needs-clarification",
+      "status_rationale": "News confirms the Fed cut rates at the December meeting, but none of the cited reports specify the cut size or the resulting target range. We need the FOMC statement or reliable coverage with exact figures to verify a 25 bp move to 5.00%\u20135.25%."
+    },
+    {
+      "id": "6f6ebe81-ee94-4059-8d82-e7cc56fd9e10",
+      "status": "pending",
+      "status_rationale": "No reporting indicates BIS formally enabling Nvidia H200 shipments to China. Deadline remains ahead."
+    },
+    {
+      "id": "031c466c-1c09-4958-9118-9c2524059d2b",
+      "status": "pending",
+      "status_rationale": "No mention of new KEV Catalog additions in the coverage; December tally not yet clear."
+    },
+    {
+      "id": "4bfdb88c-2783-40bd-a5cd-a8f4e930cbe7",
+      "status": "pending",
+      "status_rationale": "No evidence that SOXX set a new all-time closing high; market headlines focus on Fed and select large caps."
+    },
+    {
+      "id": "6ffa149c-a979-41ac-86b4-0a52cb004a1e",
+      "status": "pending",
+      "status_rationale": "November 2025 Core PCE has not been released in the cited news; typical release is later in December."
+    },
+    {
+      "id": "ed144c7a-a971-420e-bc47-bf38b222453c",
+      "status": "pending",
+      "status_rationale": "Initial jobless claims for the week ending 2025-12-06 are not referenced; the report is expected imminently but not yet available here."
+    },
+    {
+      "id": "9156944c-5c8c-4e9b-ad9c-eae42436d65d",
+      "status": "pending",
+      "status_rationale": "While geopolitical headlines could affect oil, there is no confirmation that Brent settled at or above $88 yet."
+    },
+    {
+      "id": "d7d81ea7-5eb4-4b3c-816b-bc4d903bb4f8",
+      "status": "pending",
+      "status_rationale": "No definitive report on the 10-year closing at or below 3.95% on any trading day so far."
+    },
+    {
+      "id": "1955da41-4c3b-4a56-bddf-8c92f471a666",
+      "status": "pending",
+      "status_rationale": "NAR\u2019s November inventory data is not cited; release typically comes mid-to-late December."
+    },
+    {
+      "id": "d06715eb-923d-4462-bafd-80ed639496a8",
+      "status": "pending",
+      "status_rationale": "No report that Dutch TTF front-month settled at or above \u20ac50/MWh yet."
+    }
+  ]
+}

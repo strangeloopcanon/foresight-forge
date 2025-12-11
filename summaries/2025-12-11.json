@@ -1,0 +1,98 @@
+{
+  "bullets": [
+    {
+      "text": "Fed delivers third 25 bp cut; SEP signals gradual disinflation; policymakers most divided in years on 2026 rate path.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm"
+    },
+    {
+      "text": "Employment Cost Index: compensation costs rose 0.8% Q3 2025; up 3.5% year-over-year, indicating cooling but persistent wage pressures.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/eci_12102025.htm"
+    },
+    {
+      "text": "U.S. seizes oil tanker near Venezuela amid sanctions enforcement; ship previously spoofed location, heightening tensions and potential risks to illicit oil flows.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/10/us/politics/oil-tanker-seized-us-venezuela-trump.html"
+    },
+    {
+      "text": "U.S. imposes new 15% tariff ceiling, retroactive to mid-November, Swiss government says\u2014adding uncertainty to transatlantic trade costs.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/10/us-tariff-switzerland-trade-tariffs.html"
+    },
+    {
+      "text": "Oracle revenue miss wipes out AI momentum; stock down double-digits, pressuring Nvidia and CoreWeave on hyperscaler spending concerns.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/10/oracle-orcl-q2-earnings-report-2026.html"
+    },
+    {
+      "text": "Nvidia reportedly testing chip-tracking as reports allege China\u2019s DeepSeek uses banned Blackwell GPUs, underscoring export-control challenges.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/"
+    },
+    {
+      "text": "FHA refinance demand jumps 24% as borrowers rush to capture savings following Fed\u2019s latest cut.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/10/refinance-demand-for-fha-loans-jumps-24percent-.html"
+    },
+    {
+      "text": "Beef prices surge put restaurants in \u2018code red,\u2019 signaling stubborn food inflation and margin pressures.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/12/10/business/beef-prices-steakhouses.html"
+    },
+    {
+      "text": "Australia enforces world-first under-16 social media ban, intensifying global regulatory scrutiny of platforms.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/"
+    },
+    {
+      "text": "Deep ocean fixes carbon in unexpected ways, suggesting stronger long-term sequestration and adjustments to climate models.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251210092024.htm"
+    },
+    {
+      "text": "Evidence for a new state of matter in Earth\u2019s core reshapes understanding of planetary interiors and heat transport.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251209043053.htm"
+    },
+    {
+      "text": "Blood biomarkers show obesity accelerates Alzheimer\u2019s progression, strengthening metabolic-health focus in dementia prevention.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251210092019.htm"
+    }
+  ]
+}
