@@ -1,0 +1,75 @@
+{
+  "date": "2025-12-11",
+  "assessments": [
+    {
+      "id": "cf063b78-1c93-4de7-8b34-10e71e3a79a0",
+      "status": "pending",
+      "status_rationale": "Reports say the S&P 500 reached a record high, but it is not explicit that it closed at a record; awaiting clear confirmation of a record closing level."
+    },
+    {
+      "id": "fe22869f-7be4-4afd-962c-d86bf36d92bb",
+      "status": "pending",
+      "status_rationale": "No news indicating COMEX gold settled at or above $2,500/oz."
+    },
+    {
+      "id": "06451ee2-40f0-4a28-97fa-7eba04e4c33b",
+      "status": "pending",
+      "status_rationale": "No coverage of USD/JPY trading at or below 140.00."
+    },
+    {
+      "id": "2f544a46-f4d9-4816-9504-584da8e2068a",
+      "status": "pending",
+      "status_rationale": "No outcome yet from the Bank of Japan\u2019s December 2025 meeting."
+    },
+    {
+      "id": "6a644582-770b-4b36-ab41-9908fbb8bbee",
+      "status": "pending",
+      "status_rationale": "January 2026 Patch Tuesday has not occurred."
+    },
+    {
+      "id": "a6a79412-8135-4362-90f3-d20003a47d3d",
+      "status": "pending",
+      "status_rationale": "No CISA KEV additions reported involving a Chrome/Chromium V8 zero-day."
+    },
+    {
+      "id": "7306af16-5bbb-4699-9010-2a3d10ce3391",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC report today citing Kp \u2265 7."
+    },
+    {
+      "id": "4744b861-0a15-480a-ac33-2868017a8efe",
+      "status": "pending",
+      "status_rationale": "November 2025 New Home Sales data not reported in today\u2019s news."
+    },
+    {
+      "id": "3ddf8b34-bb21-4d22-b926-1d33645f1c52",
+      "status": "pending",
+      "status_rationale": "No November 2025 Durable Goods Orders release referenced."
+    },
+    {
+      "id": "ae1113e6-0e51-49cd-a165-b972bc7fb0d2",
+      "status": "pending",
+      "status_rationale": "No JOLTS November 2025 print reported."
+    },
+    {
+      "id": "3524ab9f-2fd7-4297-87a2-a3cce6aa41a0",
+      "status": "pending",
+      "status_rationale": "No explicit report that the 2-year Treasury closed at or below 4.00%."
+    },
+    {
+      "id": "45b6f986-e2dc-4f3d-b6f3-3fdb8d3122d1",
+      "status": "pending",
+      "status_rationale": "No settlement reports indicating Henry Hub front-month \u2265 $3.25/MMBtu."
+    },
+    {
+      "id": "f7590877-61ba-4caf-9a53-9adc910ac54f",
+      "status": "pending",
+      "status_rationale": "January 2026 iOS/iPadOS security updates are not yet available."
+    },
+    {
+      "id": "281af5bb-143e-4536-8df9-5760874945e2",
+      "status": "pending",
+      "status_rationale": "No Weekly Petroleum Status Report noted with refinery utilization \u2265 92%."
+    }
+  ]
+}

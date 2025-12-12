@@ -1,0 +1,123 @@
+{
+  "bullets": [
+    {
+      "text": "Fed reappoints all regional bank presidents, signaling policy continuity as markets weigh 2025 rate cuts.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/11/fed-votes-to-reappoint-all-of-its-regional-bank-presidents-.html"
+    },
+    {
+      "text": "Fed terminates enforcement actions with Credit Suisse entities and JPMorgan, easing regulatory overhang for global banks.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251211a.htm"
+    },
+    {
+      "text": "S&P 500 hits record; small caps surge in early 'January effect' as Asia-Pacific equities follow overnight gains.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/12/11/business/sp-stocks-record.html"
+    },
+    {
+      "text": "U.S. home prices turn negative for first time in 2+ years as falling mortgage rates revive demand, affordability still constrained.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/11/us-home-prices-negative.html"
+    },
+    {
+      "text": "Broadcom beats; guides AI chip sales to double this quarter, underscoring resilient datacenter demand.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/11/broadcom-avgo-q4-earnings-2025.html"
+    },
+    {
+      "text": "Oracle shares sink on AI infrastructure spend concerns, dragging peers, despite 150% jump in lease commitments to meet AI demand.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/11/oracle-shares-plummet-dragging-down-ai-stocks-nvidia-coreweave.html"
+    },
+    {
+      "text": "Potential systematic overcounting in payrolls could strengthen the case for additional Fed rate cuts in 2025.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/11/case-for-more-fed-rate-cuts-could-rest-on-systemic-overcount-of-jobs.html"
+    },
+    {
+      "text": "White House orders a single national AI regulatory standard, preempting state rules and centralizing oversight.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/11/trump-signs-executive-order-for-single-national-ai-regulation-framework.html"
+    },
+    {
+      "text": "OpenAI launches GPT-5.2, claiming stronger professional task performance as it counters Google's advances.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://openai.com/index/introducing-gpt-5-2/"
+    },
+    {
+      "text": "Disney partners with OpenAI to let Sora generate videos featuring Disney characters, alongside a $1B investment.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/11/disney-openai-sora-characters-video.html"
+    },
+    {
+      "text": "U.S. tightens Venezuela sanctions, targets Maduro\u2019s family and oil sector; seizes 'spoof' tanker, signaling readiness for further interdictions.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/12/11/us-venezuela-iran-oil-tanker-skipper-trump.html"
+    },
+    {
+      "text": "Zelensky says revised U.S. plan still envisions Ukraine ceding Donbas, raising stakes for European security and negotiations.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/11/world/europe/trump-ukraine-european-leaders.html"
+    },
+    {
+      "text": "Federal judge blocks FEMA from canceling climate resiliency grants as administration delays broader disaster-policy overhaul.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/12/11/climate/judge-blocks-fema-canceling-climate-grants.html"
+    },
+    {
+      "text": "Bessent proposes overhauling a crisis-era financial regulator to streamline rules and jumpstart growth.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/11/bessent-to-propose-major-overhaul-of-regulatory-body-created-from-financial-crisis.html"
+    },
+    {
+      "text": "Scientists identify a massive CO2 reservoir beneath the seafloor, potentially revising carbon cycle estimates and climate models.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251211100631.htm"
+    }
+  ]
+}

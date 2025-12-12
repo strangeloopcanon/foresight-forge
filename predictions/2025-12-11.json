@@ -20,7 +20,7 @@
       ],
       "rationale": "Fed easing, falling yields, and resilient macro increase probability of a year-end equity record.",
       "id": "cf063b78-1c93-4de7-8b34-10e71e3a79a0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Lower real yields, tariff/trade uncertainty, and geopolitical risk support an upside tail for gold.",
       "id": "fe22869f-7be4-4afd-962c-d86bf36d92bb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Fed cuts narrow rate differentials; BOJ policy normalization risk and risk-off episodes can push USD/JPY lower.",
       "id": "06451ee2-40f0-4a28-97fa-7eba04e4c33b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "Despite inflation progress, BOJ likely prioritizes stability amid global easing and fragile domestic demand.",
       "id": "2f544a46-f4d9-4816-9504-584da8e2068a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Windows regularly receives Critical RCE fixes on Patch Tuesday; base rates are high.",
       "id": "6a644582-770b-4b36-ab41-9908fbb8bbee",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -129,7 +129,7 @@
       ],
       "rationale": "Chrome frequently discloses in-the-wild V8 issues; CISA typically mirrors them quickly in KEV.",
       "id": "a6a79412-8135-4362-90f3-d20003a47d3d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -150,7 +150,7 @@
       ],
       "rationale": "Solar Cycle 25 is near peak; recent strong activity raises odds of G3 geomagnetic conditions.",
       "id": "7306af16-5bbb-4699-9010-2a3d10ce3391",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -172,7 +172,7 @@
       ],
       "rationale": "Lower rates and builder incentives support sales, but affordability constraints cap upside.",
       "id": "4744b861-0a15-480a-ac33-2868017a8efe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -193,7 +193,7 @@
       ],
       "rationale": "Manufacturing remains soft but stable; aircraft volatility and core goods likely keep headline in a modest band.",
       "id": "3ddf8b34-bb21-4d22-b926-1d33645f1c52",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -214,7 +214,7 @@
       ],
       "rationale": "Openings have trended lower with cooling wage growth; modest slackening continues without sharp deterioration.",
       "id": "ae1113e6-0e51-49cd-a165-b972bc7fb0d2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -235,7 +235,7 @@
       ],
       "rationale": "Post-cut repricing and benign inflation prints can pull 2y yields briefly below 4%.",
       "id": "3524ab9f-2fd7-4297-87a2-a3cce6aa41a0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -256,7 +256,7 @@
       ],
       "rationale": "Seasonal demand and potential cold snaps create upside tails into late January.",
       "id": "45b6f986-e2dc-4f3d-b6f3-3fdb8d3122d1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -277,7 +277,7 @@
       ],
       "rationale": "Apple frequently patches in-the-wild WebKit issues; early-year releases are common.",
       "id": "f7590877-61ba-4caf-9a53-9adc910ac54f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -298,7 +298,7 @@
       ],
       "rationale": "Less likely in deep winter, but a rebound post-maintenance or strong product cracks could briefly lift utilization.",
       "id": "281af5bb-143e-4536-8df9-5760874945e2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

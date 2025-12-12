@@ -1,0 +1,318 @@
+{
+  "date": "2025-12-12",
+  "predictions": [
+    {
+      "text": "Cboe VIX will close at or above 20.0 on at least one trading day by 2026-01-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 50,
+      "deadline": "2026-01-31",
+      "confidence_pct": 43,
+      "verification_criteria": "Any official Cboe VIX close >= 20.0 as shown on cboe.com or major market data providers by 2026-01-31 (UTC).",
+      "evidence": [
+        "https://www.cboe.com/tradable_products/vix/vix_historical_data/",
+        "https://www.clevelandfed.org/en/indicators-and-data/financial-stress/credit-spreads",
+        "https://www.wsj.com/market-data/quotes/index/VIX"
+      ],
+      "monitoring_signals": [
+        "Equity drawdowns >2% intraday",
+        "Credit spreads widening (CDX IG/HY)",
+        "Options skew/term-structure steepening",
+        "Macro event risk calendar (CPI/Fed/earnings)",
+        "Move Index spikes spilling into equities"
+      ],
+      "rationale": "Post-rally complacency and dense Jan event risk raise odds of a brief volatility spike.",
+      "id": "7b7f1e57-a51c-4cb6-abb5-037acc76c828",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. Unemployment Rate (seasonally adjusted) for December 2025 will print between 3.6% and 4.0%.",
+      "category": "macro",
+      "horizon_days": 29,
+      "deadline": "2026-01-10",
+      "confidence_pct": 62,
+      "verification_criteria": "BLS Employment Situation news release Table A-1 shows the total unemployment rate in [3.6%, 4.0%].",
+      "evidence": [
+        "https://www.bls.gov/news.release/empsit.t01.htm",
+        "https://www.bls.gov/schedule/news_release/empsit.htm",
+        "https://fred.stlouisfed.org/series/UNRATE"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims",
+        "Household survey employment and participation shifts",
+        "Challenger job cuts and Indeed postings",
+        "NFIB hiring plans",
+        "Temporary help services payrolls"
+      ],
+      "rationale": "Labor market is easing gradually, but still near full employment.",
+      "id": "8467934f-fe78-42e4-b28f-3e4f222e5149",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. CPI (headline, MoM, seasonally adjusted) for December 2025 will print between -0.1% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 34,
+      "deadline": "2026-01-15",
+      "confidence_pct": 65,
+      "verification_criteria": "BLS CPI-U headline month-over-month percent change falls within [-0.1%, +0.3%] in the official release.",
+      "evidence": [
+        "https://www.bls.gov/cpi/",
+        "https://www.bls.gov/schedule/news_release/cpi.htm",
+        "https://www.atlantafed.org/chcs/inflationproject/sticky-price-cpi"
+      ],
+      "monitoring_signals": [
+        "Gasoline prices (AAA, EIA) and used car auction prices (Manheim MMR)",
+        "Rent/OER leading indicators (Zillow, Apartment List)",
+        "Food commodity indexes",
+        "Airfares and lodging prices",
+        "Import prices and USD strength"
+      ],
+      "rationale": "Cooling core goods, moderating shelter, and softer energy keep headline contained.",
+      "id": "969469cd-ed55-4c58-933e-b458d4d0d500",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The FOMC will cut the federal funds target range by 25 bps at its January 2026 meeting.",
+      "category": "rates",
+      "horizon_days": 48,
+      "deadline": "2026-01-29",
+      "confidence_pct": 52,
+      "verification_criteria": "Federal Reserve statement and implementation note show a 25 bp reduction in the target range versus the prior meeting.",
+      "evidence": [
+        "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+        "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+        "https://www.federalreserve.gov/monetarypolicy.htm"
+      ],
+      "monitoring_signals": [
+        "Fed communications and SEP path relative to market pricing",
+        "Labor market slack indicators",
+        "Inflation trend (core PCE) vs 2% target",
+        "Financial conditions indexes",
+        "OIS and Fed funds futures pricing shifts"
+      ],
+      "rationale": "Disinflation momentum and softening growth raise odds of an early follow-on cut.",
+      "id": "059f2b9f-c352-4745-8754-681824863415",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will announce at least one Russia-related sanctions designation via a U.S. Treasury press release by 2025-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 19,
+      "deadline": "2025-12-31",
+      "confidence_pct": 64,
+      "verification_criteria": "A press release on home.treasury.gov explicitly lists Russia-related designations before 2026-01-01 UTC.",
+      "evidence": [
+        "https://home.treasury.gov/news/press-releases",
+        "https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russia-related-sanctions",
+        "https://ofac.treasury.gov/recent-actions"
+      ],
+      "monitoring_signals": [
+        "U.S.-EU coordinated announcements",
+        "Oil price cap enforcement updates",
+        "Arms procurement and evasion networks exposure",
+        "Congressional or White House statements",
+        "Financial intelligence leaks or indictments"
+      ],
+      "rationale": "Ongoing conflict and evasion crackdowns make additional year-end designations likely.",
+      "id": "b7b1cc76-575f-423e-a808-b281cfd36f4e",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Freddie Mac PMMS 30-year fixed mortgage rate will print at or below 6.25% in at least one weekly survey by 2026-01-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 50,
+      "deadline": "2026-01-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Freddie Mac Primary Mortgage Market Survey shows the 30-year fixed rate <= 6.25% in any weekly release by the deadline.",
+      "evidence": [
+        "https://www.freddiemac.com/pmms",
+        "https://fred.stlouisfed.org/series/MORTGAGE30US",
+        "https://www.bankrate.com/mortgages/mortgage-rates/"
+      ],
+      "monitoring_signals": [
+        "10-year Treasury yield level and volatility",
+        "MBS current coupon yields and spreads",
+        "Mortgage demand/refi index (MBA)",
+        "Inflation data surprises",
+        "Fed communication on balance sheet and policy path"
+      ],
+      "rationale": "Falling Treasury yields and tighter MBS spreads should filter into mortgage rates.",
+      "id": "5bf7b3eb-1f5c-4cda-bfee-5f9d1b87ebf9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CISA will add at least 10 new CVEs to the Known Exploited Vulnerabilities (KEV) Catalog in January 2026.",
+      "category": "tech",
+      "horizon_days": 50,
+      "deadline": "2026-01-31",
+      "confidence_pct": 57,
+      "verification_criteria": "The KEV Catalog shows at least 10 CVEs with January 2026 add dates.",
+      "evidence": [
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "https://www.cisa.gov/news-events/alerts",
+        "https://kevtracker.com/"
+      ],
+      "monitoring_signals": [
+        "Vendor zero-day disclosures",
+        "Threat intel reports on in-the-wild exploits",
+        "Patch Tuesday advisories",
+        "Ransomware campaign upticks",
+        "Exploit kit activity"
+      ],
+      "rationale": "Zero-day and n-day exploitation cadence remains elevated; CISA routinely updates KEV monthly.",
+      "id": "ae8919e7-5a61-4c34-9c07-3493300ec9b1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Apple will publish a January 2026 macOS security update acknowledging at least one vulnerability that \"may have been actively exploited.\"",
+      "category": "tech",
+      "horizon_days": 50,
+      "deadline": "2026-01-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Apple Security Updates page for macOS in Jan 2026 includes wording indicating at least one actively exploited vulnerability.",
+      "evidence": [
+        "https://support.apple.com/en-us/HT201222",
+        "https://security.apple.com/documentation/security-updates/",
+        "https://blog.kaspersky.com/tag/zero-day/"
+      ],
+      "monitoring_signals": [
+        "Security vendor reports (Project Zero, Kaspersky, Citizen Lab)",
+        "CVE assignments tied to WebKit/kernel",
+        "Exploit broker/zero-day market chatter",
+        "CISA KEV additions referencing Apple CVEs",
+        "Apple rapid security response frequency"
+      ],
+      "rationale": "Apple frequently patches actively exploited issues shortly after discovery, often across iOS and macOS.",
+      "id": "3d5f9f4a-e6a8-4cbe-aae2-8cec7a2aad80",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will trade at or above $95,000 on at least one UTC day by 2026-03-31.",
+      "category": "markets",
+      "horizon_days": 109,
+      "deadline": "2026-03-31",
+      "confidence_pct": 34,
+      "verification_criteria": "A print >= $95,000 on reputable consolidated feeds (e.g., CoinDesk BPI, CoinMarketCap) during any UTC day by the deadline.",
+      "evidence": [
+        "https://www.coindesk.com/price/bitcoin/",
+        "https://coinmarketcap.com/currencies/bitcoin/",
+        "https://www.theblock.co/data/crypto-markets/spot"
+      ],
+      "monitoring_signals": [
+        "Spot BTC ETF net flows and AUM",
+        "Funding rates and futures basis",
+        "Macro liquidity and real yields",
+        "Stablecoin supply growth",
+        "On-chain activity and exchange reserves"
+      ],
+      "rationale": "Liquidity tailwinds and ETF adoption could propel a late-cycle extension, but volatility is high.",
+      "id": "4e4c4c39-9cd6-468c-ac8a-f491189298a9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "NOAA SWPC will report at least one S2 (Moderate) Solar Radiation Storm by 2026-03-31 (UTC).",
+      "category": "other",
+      "horizon_days": 109,
+      "deadline": "2026-03-31",
+      "confidence_pct": 56,
+      "verification_criteria": "SWPC event reports or alerts show an S2 (or higher) Solar Radiation Storm classification within the period.",
+      "evidence": [
+        "https://www.swpc.noaa.gov/noaa-scales-explanation",
+        "https://www.swpc.noaa.gov/products/solar-and-geophysical-event-reports",
+        "https://www.swpc.noaa.gov/products/alerts-watches-and-warnings"
+      ],
+      "monitoring_signals": [
+        "Solar cycle 25 sunspot number and 10.7 cm flux",
+        "CME frequency and velocities",
+        "Proton flux measurements (GOES satellites)",
+        "X-class flare occurrences",
+        "SWPC watches/warnings cadence"
+      ],
+      "rationale": "High solar activity increases probability of radiation storms through early 2026.",
+      "id": "cb92b803-38c2-4ba5-8ee3-238a1c0ae2db",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Retail Sales (Advance, total, MoM, SA) for December 2025 will print between -0.2% and +0.6%.",
+      "category": "macro",
+      "horizon_days": 36,
+      "deadline": "2026-01-17",
+      "confidence_pct": 58,
+      "verification_criteria": "U.S. Census Bureau Advance Monthly Retail Trade report shows total retail and food services MoM percent change within [-0.2%, +0.6%].",
+      "evidence": [
+        "https://www.census.gov/retail/index.html",
+        "https://www.census.gov/calendar/",
+        "https://www.bloomberg.com/markets/economic-calendar"
+      ],
+      "monitoring_signals": [
+        "Card-spend trackers (BAC, JPM, Redbook)",
+        "E-commerce indicators and parcel volumes",
+        "Auto SAAR and gasoline prices",
+        "Seasonal adjustments/holiday shifts",
+        "Consumer sentiment and real income growth"
+      ],
+      "rationale": "Holiday demand is mixed; lower gas prices and easing rates support modest growth.",
+      "id": "04fedadd-847b-413c-9be4-891d9d43c1b5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY spot will trade at or below 138.00 on at least one UTC day by 2026-03-31.",
+      "category": "markets",
+      "horizon_days": 109,
+      "deadline": "2026-03-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Any reputable FX data source (e.g., Refinitiv, Bloomberg, Investing.com) shows a spot print <= 138.00 during the period.",
+      "evidence": [
+        "https://www.boj.or.jp/en/mopo/",
+        "https://fred.stlouisfed.org/series/DGS2",
+        "https://www.investing.com/currencies/usd-jpy"
+      ],
+      "monitoring_signals": [
+        "U.S.-Japan 2Y and 10Y yield differentials",
+        "BoJ policy normalization signals",
+        "Risk-off flows and equity corrections",
+        "Japan wage/price data and Shunto outcomes",
+        "U.S. inflation surprises and Fed path"
+      ],
+      "supersedes_id": "06451ee2-40f0-4a28-97fa-7eba04e4c33b",
+      "rationale": "Narrowing rate differentials and BoJ normalization raise downside risks for USD/JPY.",
+      "id": "a54cbffc-e8e2-43e3-ad98-27220fbc1fab",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent crude front-month futures will settle at or below $70.00 per barrel on at least one trading day by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 109,
+      "deadline": "2026-03-31",
+      "confidence_pct": 32,
+      "verification_criteria": "ICE Brent front-month official settlement price <= $70.00/bbl on any trading day by the deadline.",
+      "evidence": [
+        "https://www.theice.com/products/219/Brent-Crude-Futures",
+        "https://www.eia.gov/outlooks/steo/",
+        "https://www.iea.org/reports/oil-market-report"
+      ],
+      "monitoring_signals": [
+        "OECD and China demand data",
+        "OPEC+ compliance and spare capacity",
+        "U.S. crude/inventory builds (EIA)",
+        "Refining margins and runs",
+        "Dollar strength and global PMIs"
+      ],
+      "rationale": "A growth scare or inventory builds could trigger a temporary downside overshoot despite OPEC+ efforts.",
+      "id": "69028e6c-5d24-4045-89bf-038ab95c5654",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

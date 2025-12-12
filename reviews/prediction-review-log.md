@@ -1310,3 +1310,12 @@ Other headlines center on the U.S. seizure of an oil tanker near Venezuela, mixe
 
 ---
 
+
+## 2025-12-11
+
+Today’s news flow was market-positive, highlighting that the S&P 500 reached a record high and that Wall Street notched fresh records, but headlines do not clearly confirm a record closing level. As a result, the equity-index prediction remains pending until a closing record is explicitly documented. Broader risk sentiment looks firm, with Asia-Pacific markets following through, which indirectly supports several macro forecasts but does not resolve them.
+
+Policy headlines—new U.S. sanctions on Venezuela’s oil sector, and the administration’s stance on AI regulation—could shift energy and tech risk premia but provide no definitive outcomes for the commodity or cybersecurity items. Upcoming key data and events (BoJ’s December meeting, late-December U.S. macro releases) will be the next decision points for several predictions, including rates, housing, and durable goods.
+
+---
+
