@@ -1,0 +1,70 @@
+{
+  "date": "2025-12-12",
+  "assessments": [
+    {
+      "id": "7b7f1e57-a51c-4cb6-abb5-037acc76c828",
+      "status": "pending",
+      "status_rationale": "No report of a VIX close at or above 20.0 in today's coverage; the deadline remains in the future."
+    },
+    {
+      "id": "8467934f-fe78-42e4-b28f-3e4f222e5149",
+      "status": "pending",
+      "status_rationale": "The December 2025 unemployment rate has not been released yet and is not mentioned in today's news."
+    },
+    {
+      "id": "969469cd-ed55-4c58-933e-b458d4d0d500",
+      "status": "pending",
+      "status_rationale": "December 2025 CPI has not been reported and there is no relevant data in today's news."
+    },
+    {
+      "id": "059f2b9f-c352-4745-8754-681824863415",
+      "status": "pending",
+      "status_rationale": "No January 2026 FOMC decision has occurred; related headlines do not resolve the outcome."
+    },
+    {
+      "id": "b7b1cc76-575f-423e-a808-b281cfd36f4e",
+      "status": "pending",
+      "status_rationale": "No Treasury/OFAC Russia-related designation press release is cited today; the deadline is still open."
+    },
+    {
+      "id": "5bf7b3eb-1f5c-4cda-bfee-5f9d1b87ebf9",
+      "status": "pending",
+      "status_rationale": "No Freddie Mac PMMS reading is referenced today, and the timeframe runs through January 2026."
+    },
+    {
+      "id": "ae8919e7-5a61-4c34-9c07-3493300ec9b1",
+      "status": "pending",
+      "status_rationale": "The January 2026 window has not begun; no CISA KEV catalog updates are reported."
+    },
+    {
+      "id": "3d5f9f4a-e6a8-4cbe-aae2-8cec7a2aad80",
+      "status": "pending",
+      "status_rationale": "No January 2026 macOS security update has been released or mentioned."
+    },
+    {
+      "id": "4e4c4c39-9cd6-468c-ac8a-f491189298a9",
+      "status": "pending",
+      "status_rationale": "No report that Bitcoin has traded at or above $95,000; the deadline is in the future."
+    },
+    {
+      "id": "cb92b803-38c2-4ba5-8ee3-238a1c0ae2db",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC S2 radiation storm is reported today; the window remains open."
+    },
+    {
+      "id": "04fedadd-847b-413c-9be4-891d9d43c1b5",
+      "status": "pending",
+      "status_rationale": "December 2025 retail sales data are not yet released and are not covered in today's news."
+    },
+    {
+      "id": "a54cbffc-e8e2-43e3-ad98-27220fbc1fab",
+      "status": "pending",
+      "status_rationale": "No USD/JPY level is cited that resolves this threshold; the deadline is still ahead."
+    },
+    {
+      "id": "69028e6c-5d24-4045-89bf-038ab95c5654",
+      "status": "pending",
+      "status_rationale": "No Brent front-month settlement at or below $70.00 is noted; the window runs to March 2026."
+    }
+  ]
+}

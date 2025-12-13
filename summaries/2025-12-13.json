@@ -1,0 +1,126 @@
+{
+  "bullets": [
+    {
+      "text": "SpaceX hits $800 billion valuation preparing IPO, cementing dominance in launch and satellite markets and repricing private space assets.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/12/12/technology/elon-musk-spacex-ipo.html"
+    },
+    {
+      "text": "White House expected to reclassify cannabis soon; sector rallies on shift from Schedule I toward leniency, potentially unlocking banking, research, and tax relief.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/12/cannabis-stocks-trump-regulations.html"
+    },
+    {
+      "text": "Trump floats Kevin Warsh for Fed chair and asserts presidential say on rates, while Goolsbee warns against front\u2011loading cuts, injecting policy uncertainty.",
+      "tags": [
+        "rates",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/12/trump-kevin-warsh-fed-chair-rates.html"
+    },
+    {
+      "text": "AI trade wobbles: Broadcom sinks despite strong results as \u201cAI angst\u201d hits chip and software peers, though Oracle denies OpenAI deal delays.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html"
+    },
+    {
+      "text": "Hyperscaler capex projected to triple by 2026, signaling prolonged infrastructure supercycle across data centers, power, cooling, and networking suppliers.",
+      "tags": [
+        "macro",
+        "tech",
+        "energy"
+      ],
+      "link": "https://paulkedrosky.com/kedrosky-daily-hyperscaler-capex-triples-by-2026-forty-percent-of-russell-2000-firms-lose-money/"
+    },
+    {
+      "text": "Texas faces a flood of AI data center proposals, raising bubble concerns and highlighting power\u2011grid and water\u2011supply constraints.",
+      "tags": [
+        "tech",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/12/ai-data-center-flood-texas-on-massive-scale.html"
+    },
+    {
+      "text": "White House moves to preempt state AI rules with a single federal framework, but legal challenges threaten uncertainty for startups and compliance planning.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/"
+    },
+    {
+      "text": "Microsoft commits to 3.6 million metric tons of carbon removal from bioenergy with CCS, scaling demand for negative\u2011emissions projects and long\u2011term offtake financing.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/12/12/microsoft-buys-3-6m-metric-tons-of-carbon-removal-from-bioenergy-plant/"
+    },
+    {
+      "text": "Falling home prices are eroding homeowner equity, reversing pandemic gains and pressuring consumer balance sheets and mobility.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/12/homeowners-losing-equity-weakening-prices.html"
+    },
+    {
+      "text": "Coinbase to launch regulated prediction markets via Kalshi integration, expanding crypto\u2019s financial utility and fee streams amid evolving derivatives oversight.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/12/coinbase-to-soon-unveil-prediction-markets-powered-by-kalshi-source-says.html"
+    },
+    {
+      "text": "TSA sharing passenger data with ICE to accelerate deportations, while DOT threatens funding cuts over noncitizen licenses, intensifying federal\u2011state immigration clashes.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/12/ice-deportation-airline-passengers-tsa.html"
+    },
+    {
+      "text": "Russia\u2019s war financing remains robust for years, raising escalation risk and testing U.S. resolve under Trump amid aid fatigue.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/12/ukraine-war-trump-frustrated-amid-warning-putin-can-escalate-conflict.html"
+    },
+    {
+      "text": "Risk\u2011based breast cancer screening performs as well as annual checks after 40, suggesting cost\u2011effective personalization of imaging schedules.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2025/12/12/health/jama-breast-cancer-risk-based-screening.html"
+    },
+    {
+      "text": "Retailers race to deploy AI shopping tools projected to influence $263 billion in holiday sales, reshaping marketing spend and conversion economics.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/12/ai-chatgpt-holiday-shopping-sales-walmart-target.html"
+    },
+    {
+      "text": "700Credit breach affects at least 5.6 million consumers, exposing auto\u2011finance data and underscoring third\u2011party cybersecurity risks for lenders and dealerships.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/12/12/data-breach-at-credit-check-giant-700credit-affects-at-least-5-6-million/"
+    }
+  ]
+}

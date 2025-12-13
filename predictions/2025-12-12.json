@@ -22,7 +22,7 @@
       ],
       "rationale": "Post-rally complacency and dense Jan event risk raise odds of a brief volatility spike.",
       "id": "7b7f1e57-a51c-4cb6-abb5-037acc76c828",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -46,7 +46,7 @@
       ],
       "rationale": "Labor market is easing gradually, but still near full employment.",
       "id": "8467934f-fe78-42e4-b28f-3e4f222e5149",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -70,7 +70,7 @@
       ],
       "rationale": "Cooling core goods, moderating shelter, and softer energy keep headline contained.",
       "id": "969469cd-ed55-4c58-933e-b458d4d0d500",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "rationale": "Disinflation momentum and softening growth raise odds of an early follow-on cut.",
       "id": "059f2b9f-c352-4745-8754-681824863415",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Ongoing conflict and evasion crackdowns make additional year-end designations likely.",
       "id": "b7b1cc76-575f-423e-a808-b281cfd36f4e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -142,7 +142,7 @@
       ],
       "rationale": "Falling Treasury yields and tighter MBS spreads should filter into mortgage rates.",
       "id": "5bf7b3eb-1f5c-4cda-bfee-5f9d1b87ebf9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Zero-day and n-day exploitation cadence remains elevated; CISA routinely updates KEV monthly.",
       "id": "ae8919e7-5a61-4c34-9c07-3493300ec9b1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -190,7 +190,7 @@
       ],
       "rationale": "Apple frequently patches actively exploited issues shortly after discovery, often across iOS and macOS.",
       "id": "3d5f9f4a-e6a8-4cbe-aae2-8cec7a2aad80",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -214,7 +214,7 @@
       ],
       "rationale": "Liquidity tailwinds and ETF adoption could propel a late-cycle extension, but volatility is high.",
       "id": "4e4c4c39-9cd6-468c-ac8a-f491189298a9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -238,7 +238,7 @@
       ],
       "rationale": "High solar activity increases probability of radiation storms through early 2026.",
       "id": "cb92b803-38c2-4ba5-8ee3-238a1c0ae2db",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -262,7 +262,7 @@
       ],
       "rationale": "Holiday demand is mixed; lower gas prices and easing rates support modest growth.",
       "id": "04fedadd-847b-413c-9be4-891d9d43c1b5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -287,7 +287,7 @@
       "supersedes_id": "06451ee2-40f0-4a28-97fa-7eba04e4c33b",
       "rationale": "Narrowing rate differentials and BoJ normalization raise downside risks for USD/JPY.",
       "id": "a54cbffc-e8e2-43e3-ad98-27220fbc1fab",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -311,7 +311,7 @@
       ],
       "rationale": "A growth scare or inventory builds could trigger a temporary downside overshoot despite OPEC+ efforts.",
       "id": "69028e6c-5d24-4045-89bf-038ab95c5654",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

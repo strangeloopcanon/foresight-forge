@@ -1,0 +1,251 @@
+{
+  "date": "2025-12-13",
+  "predictions": [
+    {
+      "text": "ERCOT system peak demand will set a new winter record at or above 80.0 GW by 2026-02-28 (UTC).",
+      "category": "energy",
+      "horizon_days": 77,
+      "deadline": "2026-02-28",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirmation via ERCOT public data (hourly load) showing a winter-season peak >= 80.0 GW by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/12/ai-data-center-flood-texas-on-massive-scale.html",
+        "http://www.ercot.com/gridinfo/load"
+      ],
+      "monitoring_signals": [
+        "ERCOT day-ahead load forecasts",
+        "NOAA/CPC outlooks for Arctic air outbreaks in TX",
+        "Data center interconnection updates and large-load notices",
+        "Natural gas-fired generation availability and outages"
+      ],
+      "rationale": "Rapid AI/data center load growth and potential cold snaps increase odds of a new winter peak.",
+      "id": "f0ea5ce5-0e12-4bbe-90cc-89e42002686b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Starlink will publicly file an S-1 registration statement with the U.S. SEC by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 108,
+      "deadline": "2026-03-31",
+      "confidence_pct": 42,
+      "verification_criteria": "A public S-1 or F-1 filing on SEC EDGAR for a Starlink IPO (not a confidential submission).",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/12/technology/elon-musk-spacex-ipo.html",
+        "https://www.sec.gov/edgar/search/"
+      ],
+      "monitoring_signals": [
+        "Reports of a Starlink tracking stock or spin-off",
+        "Underwriter mandates or syndicate leaks",
+        "SEC pre-filing correspondence becoming public",
+        "Starlink standalone financial disclosures"
+      ],
+      "rationale": "Reports indicate IPO preparation and a separation path; a near-term filing is plausible.",
+      "id": "c31412c4-ed4c-4623-af0a-6f7543820cc5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The DEA will publish a final rule in the Federal Register rescheduling marijuana to Schedule III by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 199,
+      "deadline": "2026-06-30",
+      "confidence_pct": 53,
+      "verification_criteria": "A DEA final rule in the Federal Register explicitly moving marijuana from Schedule I to Schedule III.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/12/cannabis-stocks-trump-regulations.html",
+        "https://www.federalregister.gov/agencies/drug-enforcement-administration"
+      ],
+      "monitoring_signals": [
+        "OIRA review status for DEA rule",
+        "DEA hearing timelines and comment responses",
+        "White House statements or DOJ guidance",
+        "Litigation that could delay rule finalization"
+      ],
+      "rationale": "Policy momentum and executive signals suggest resolution; timelines allow for process.",
+      "id": "201de33a-6b2c-4edc-8642-4ecdc220cd2c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Coinbase will announce or launch a regulated prediction markets product integrated with Kalshi by 2026-02-28 (UTC).",
+      "category": "tech",
+      "horizon_days": 77,
+      "deadline": "2026-02-28",
+      "confidence_pct": 60,
+      "verification_criteria": "Official Coinbase announcement or product page detailing prediction markets via Kalshi integration, or Kalshi announcement naming Coinbase integration.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/12/coinbase-to-soon-unveil-prediction-markets-powered-by-kalshi-source-says.html",
+        "https://blog.coinbase.com/",
+        "https://kalshi.com/"
+      ],
+      "monitoring_signals": [
+        "Coinbase blog and X account posts",
+        "Kalshi product updates and CFTC filings",
+        "Mobile app release notes",
+        "Developer API documentation referencing markets integration"
+      ],
+      "rationale": "Reporting indicates imminent unveiling; technical and regulatory paths already exist.",
+      "id": "c75012a4-9e88-4396-89f7-fe558c5e669d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NOAA SWPC will report at least one G4 (Severe) geomagnetic storm event by 2026-03-31 (UTC).",
+      "category": "other",
+      "horizon_days": 108,
+      "deadline": "2026-03-31",
+      "confidence_pct": 34,
+      "verification_criteria": "SWPC event reports or alerts indicating a G4 (Severe) geomagnetic storm within the period.",
+      "evidence": [
+        "https://www.swpc.noaa.gov/",
+        "https://www.swpc.noaa.gov/products/planetary-k-index",
+        "https://www.swpc.noaa.gov/products/space-weather-scales"
+      ],
+      "monitoring_signals": [
+        "Sunspot number and 10.7 cm flux trends",
+        "Halo CME detections and Earth-directed CMEs",
+        "Kp index nowcasts and warnings",
+        "Solar cycle peak timing and active regions frequency"
+      ],
+      "rationale": "Solar Cycle 25 is near peak; severe storms are plausible but not baseline.",
+      "id": "41893575-a3fe-4b04-8ed1-efffd4202475",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "S&P CoreLogic Case-Shiller U.S. National Home Price Index (YoY, NSA) for October 2025 will print between -0.5% and +1.5%.",
+      "category": "macro",
+      "horizon_days": 18,
+      "deadline": "2025-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "Value as published in the official S&P CoreLogic Case-Shiller October 2025 news release.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/12/homeowners-losing-equity-weakening-prices.html",
+        "https://www.spglobal.com/spdji/en/index-family/indicators/sp-corelogic-case-shiller/"
+      ],
+      "monitoring_signals": [
+        "High-frequency listing price data",
+        "Months\u2019 supply and sales pace",
+        "Mortgage rate moves affecting affordability",
+        "Regional dispersion across 20-city composites"
+      ],
+      "rationale": "Affordability headwinds and softening demand imply near-flat national YoY prices.",
+      "id": "c84a83ae-a75e-478e-b567-994eea010baf",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Freddie Mac PMMS 30-year fixed mortgage rate will print at or below 6.00% in at least one weekly survey by 2026-03-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 108,
+      "deadline": "2026-03-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Freddie Mac Primary Mortgage Market Survey weekly release showing the U.S. average 30-year fixed rate <= 6.00%.",
+      "evidence": [
+        "https://www.freddiemac.com/pmms"
+      ],
+      "monitoring_signals": [
+        "U.S. 10-year Treasury yield and term premium",
+        "MBS current coupon spreads",
+        "Inflation prints (CPI/PCE) and Fed guidance",
+        "Mortgage application trends"
+      ],
+      "rationale": "Easing inflation and prospective Fed cuts should pull mortgage rates toward 6%.",
+      "id": "28d374ab-b8a5-45e1-aabc-3273beede661",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent crude front-month futures will settle at or below $65.00 per barrel on at least one trading day by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 108,
+      "deadline": "2026-03-31",
+      "confidence_pct": 35,
+      "verification_criteria": "ICE settlement price for the front-month Brent contract at or below $65.00 on any trading day in the window.",
+      "evidence": [
+        "https://www.eia.gov/outlooks/steo/",
+        "https://www.theice.com/products/219/Brent-Crude-Futures"
+      ],
+      "monitoring_signals": [
+        "Global growth indicators and demand revisions",
+        "OPEC+ policy and quota compliance",
+        "U.S. crude inventory builds",
+        "Shipping/logistics disruptions normalization"
+      ],
+      "supersedes_id": "69028e6c-5d24-4045-89bf-038ab95c5654",
+      "rationale": "Demand risks and ample non-OPEC supply create downside tail risk for crude prices.",
+      "id": "1fae0af7-7a2f-45b1-a817-4023e3de7f78",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "NYMEX Henry Hub natural gas front-month futures will settle at or above $3.75 per MMBtu on at least one trading day by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 108,
+      "deadline": "2026-03-31",
+      "confidence_pct": 47,
+      "verification_criteria": "CME/NYMEX settlement for front-month Henry Hub at or above $3.75 per MMBtu within the period.",
+      "evidence": [
+        "https://ir.eia.gov/ngs/ngs.html",
+        "https://www.eia.gov/outlooks/steo/",
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.html"
+      ],
+      "monitoring_signals": [
+        "Heating degree days and cold outbreaks",
+        "Freeze-offs and production curtailments",
+        "LNG export volumes and outages",
+        "Storage withdrawal pace vs. 5-year average"
+      ],
+      "supersedes_id": "45b6f986-e2dc-4f3d-b6f3-3fdb8d3122d1",
+      "rationale": "Winter weather volatility, LNG demand, and potential supply hiccups can spike prompt gas.",
+      "id": "46f232e6-1526-47cc-a942-25b7caf7283a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "S&P 500 Index (SPX) will close at least 10.0% below its all-time closing high on at least one trading day by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 108,
+      "deadline": "2026-03-31",
+      "confidence_pct": 31,
+      "verification_criteria": "Using official S&P Dow Jones closing data, identify any close at or below 90% of the latest recorded all-time closing high by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/12/broadcom-tumbles-10percent-after-earnings-as-ai-trade-sells-off-.html",
+        "https://www.spglobal.com/spdji/en/indices/equity/sp-500/"
+      ],
+      "monitoring_signals": [
+        "Breadth deterioration and small-cap underperformance",
+        "Credit spread widening and VIX spikes",
+        "Earnings estimate downgrades",
+        "Policy uncertainty around Fed leadership and rates"
+      ],
+      "rationale": "Concentration risk and AI multiple fragility elevate drawdown tail risk.",
+      "id": "7b10b2da-b586-4d91-a9b2-03cf395a8e24",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Google will publish a Chrome Stable Channel update in January 2026 acknowledging at least one security vulnerability that has been \"actively exploited\" in the wild.",
+      "category": "tech",
+      "horizon_days": 49,
+      "deadline": "2026-01-31",
+      "confidence_pct": 64,
+      "verification_criteria": "Chrome Releases blog or Chrome Stable notes in January 2026 contain language indicating at least one CVE was actively exploited.",
+      "evidence": [
+        "https://chromereleases.googleblog.com/",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+      ],
+      "monitoring_signals": [
+        "Out-of-band Chrome patches",
+        "CISA KEV additions for Chromium",
+        "Security researcher disclosures on V8/WebRTC/GPU bugs",
+        "Exploit kit tracking reports"
+      ],
+      "rationale": "Chrome frequently patches in-the-wild exploits; year-end holidays historically reveal carryover zero-days.",
+      "id": "454eb3e3-2ff2-401a-87f4-f0e94a8198c2",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}
