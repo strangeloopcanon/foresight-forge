@@ -23,7 +23,7 @@ from openai import OpenAI, OpenAIError
 # models in the future.
 # ---------------------------------------------------------------------------
 
-DEFAULT_LLM_MODEL = os.getenv("FORESIGHT_LLM_MODEL", "gpt-5")
+DEFAULT_LLM_MODEL = os.getenv("FORESIGHT_LLM_MODEL", "gpt-5.2")
 # GPT-5 reasoning models only support default temperature=1.0; set 1 by default
 DEFAULT_TEMPERATURE = float(os.getenv("FORESIGHT_LLM_TEMPERATURE", "1"))
 from git import Repo

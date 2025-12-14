@@ -30,6 +30,7 @@ but “Foresight Forge” felt the most distinctive and memorable.
    ```ini
    OPENAI_API_KEY=your_openai_api_key_here
    GITHUB_TOKEN=your_github_token_here
+   FORESIGHT_LLM_MODEL=gpt-5.2
    ```
 3. Populate `sources.yaml` with one URL per line of a news/RSS feed you want to track.
 4. (Optional) To publish the dashboard via GitHub Pages, enable Pages in repo settings and select the `docs/` folder on the `main` branch.
