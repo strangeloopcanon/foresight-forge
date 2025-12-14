@@ -20,7 +20,7 @@
       ],
       "rationale": "Rapid AI/data center load growth and potential cold snaps increase odds of a new winter peak.",
       "id": "f0ea5ce5-0e12-4bbe-90cc-89e42002686b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Reports indicate IPO preparation and a separation path; a near-term filing is plausible.",
       "id": "c31412c4-ed4c-4623-af0a-6f7543820cc5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Policy momentum and executive signals suggest resolution; timelines allow for process.",
       "id": "201de33a-6b2c-4edc-8642-4ecdc220cd2c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "Reporting indicates imminent unveiling; technical and regulatory paths already exist.",
       "id": "c75012a4-9e88-4396-89f7-fe558c5e669d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "Solar Cycle 25 is near peak; severe storms are plausible but not baseline.",
       "id": "41893575-a3fe-4b04-8ed1-efffd4202475",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "Affordability headwinds and softening demand imply near-flat national YoY prices.",
       "id": "c84a83ae-a75e-478e-b567-994eea010baf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "rationale": "Easing inflation and prospective Fed cuts should pull mortgage rates toward 6%.",
       "id": "28d374ab-b8a5-45e1-aabc-3273beede661",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -176,7 +176,7 @@
       "supersedes_id": "69028e6c-5d24-4045-89bf-038ab95c5654",
       "rationale": "Demand risks and ample non-OPEC supply create downside tail risk for crude prices.",
       "id": "1fae0af7-7a2f-45b1-a817-4023e3de7f78",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -200,7 +200,7 @@
       "supersedes_id": "45b6f986-e2dc-4f3d-b6f3-3fdb8d3122d1",
       "rationale": "Winter weather volatility, LNG demand, and potential supply hiccups can spike prompt gas.",
       "id": "46f232e6-1526-47cc-a942-25b7caf7283a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -222,7 +222,7 @@
       ],
       "rationale": "Concentration risk and AI multiple fragility elevate drawdown tail risk.",
       "id": "7b10b2da-b586-4d91-a9b2-03cf395a8e24",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -244,7 +244,7 @@
       ],
       "rationale": "Chrome frequently patches in-the-wild exploits; year-end holidays historically reveal carryover zero-days.",
       "id": "454eb3e3-2ff2-401a-87f4-f0e94a8198c2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]

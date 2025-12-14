@@ -1,0 +1,60 @@
+{
+  "date": "2025-12-13",
+  "assessments": [
+    {
+      "id": "f0ea5ce5-0e12-4bbe-90cc-89e42002686b",
+      "status": "pending",
+      "status_rationale": "No reports in today's news about ERCOT winter peak demand or new records; deadline remains in the future."
+    },
+    {
+      "id": "c31412c4-ed4c-4623-af0a-6f7543820cc5",
+      "status": "pending",
+      "status_rationale": "No mention of a Starlink S-1 filing; nothing indicates a public SEC registration; timeline still open."
+    },
+    {
+      "id": "201de33a-6b2c-4edc-8642-4ecdc220cd2c",
+      "status": "pending",
+      "status_rationale": "No news about a DEA final rule on marijuana rescheduling; no Federal Register reference; deadline is mid-2026."
+    },
+    {
+      "id": "c75012a4-9e88-4396-89f7-fe558c5e669d",
+      "status": "pending",
+      "status_rationale": "Coverage of Kalshi odds does not confirm any Coinbase-Kalshi product announcement or launch; no relevant company statements cited."
+    },
+    {
+      "id": "41893575-a3fe-4b04-8ed1-efffd4202475",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC alerts or reports of a G4 (Severe) geomagnetic storm in the provided news."
+    },
+    {
+      "id": "c84a83ae-a75e-478e-b567-994eea010baf",
+      "status": "pending",
+      "status_rationale": "No Case-Shiller October 2025 YoY print reported; the release typically comes later in December."
+    },
+    {
+      "id": "28d374ab-b8a5-45e1-aabc-3273beede661",
+      "status": "pending",
+      "status_rationale": "No Freddie Mac PMMS weekly rate cited; nothing confirms a sub-6.00% print yet."
+    },
+    {
+      "id": "1fae0af7-7a2f-45b1-a817-4023e3de7f78",
+      "status": "pending",
+      "status_rationale": "No Brent front-month settlement levels mentioned; no evidence of a \u2264$65 close."
+    },
+    {
+      "id": "46f232e6-1526-47cc-a942-25b7caf7283a",
+      "status": "pending",
+      "status_rationale": "No Henry Hub front-month settlement data provided; no \u2265$3.75 settlement confirmed."
+    },
+    {
+      "id": "7b10b2da-b586-4d91-a9b2-03cf395a8e24",
+      "status": "pending",
+      "status_rationale": "No report of an SPX drawdown reaching at least 10% below the all-time closing high."
+    },
+    {
+      "id": "454eb3e3-2ff2-401a-87f4-f0e94a8198c2",
+      "status": "pending",
+      "status_rationale": "January 2026 window has not begun; no Chrome Stable update or actively exploited CVE acknowledgment reported."
+    }
+  ]
+}

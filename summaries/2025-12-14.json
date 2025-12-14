@@ -1,0 +1,107 @@
+{
+  "bullets": [
+    {
+      "text": "ISIS attack in Syria kills three Americans; Trump vows retaliation, raising regional escalation risk and potential complications for U.S. Middle East deployments.",
+      "tags": [
+        "geopolitics"
+      ]
+    },
+    {
+      "text": "Israel says it killed senior Hamas commander despite cease-fire, threatening truce stability and increasing odds of renewed Gaza hostilities.",
+      "tags": [
+        "geopolitics"
+      ]
+    },
+    {
+      "text": "Russia strikes Odesa during peace talks, endangering Black Sea shipping and grain flows, with potential food inflation spillovers.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ]
+    },
+    {
+      "text": "Belarus releases political prisoners as U.S. eases some trade sanctions, signaling tentative thaw and potential reopening for limited commerce.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ]
+    },
+    {
+      "text": "Markets price higher odds of Kevin Warsh as Fed chair after Trump comments, implying potentially tighter policy bias and volatility around rates path.",
+      "tags": [
+        "rates",
+        "markets",
+        "macro"
+      ]
+    },
+    {
+      "text": "Goldman Sachs bets on downside-protection ETFs, reflecting investor demand for hedging amid late-cycle risks and uncertain rate trajectory.",
+      "tags": [
+        "markets"
+      ]
+    },
+    {
+      "text": "Berkshire Hathaway succession accelerates as Combs exits; potential shifts in capital allocation and governance could re-rate conglomerate\u2019s valuation.",
+      "tags": [
+        "markets",
+        "macro"
+      ]
+    },
+    {
+      "text": "FTC estimates seniors lost up to $81.5 billion to fraud in 2024, highlighting consumer vulnerability and potential regulatory enforcement tightening.",
+      "tags": [
+        "macro",
+        "other"
+      ]
+    },
+    {
+      "text": "Affordability squeeze pushes more buyers to adjustable-rate and buydown mortgages, increasing household rate risk if cuts lag expectations.",
+      "tags": [
+        "macro",
+        "rates"
+      ]
+    },
+    {
+      "text": "AI data center boom strains grids and capital, potentially crowding out other infrastructure projects; rising electricity demand may pressure prices.",
+      "tags": [
+        "tech",
+        "energy",
+        "macro"
+      ]
+    },
+    {
+      "text": "Scientists identify brain circuit 'switch' for mental illness, opening therapeutic targets that could transform treatment for depression and anxiety.",
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "text": "AI reveals a vaccine-evading weak spot in monkeypox, accelerating antigen design and showcasing AI\u2019s potential in rapid biodefense development.",
+      "tags": [
+        "science",
+        "tech"
+      ]
+    },
+    {
+      "text": "Discovery of hidden rainfall pattern could reshape agricultural planning, improving irrigation, yield forecasts, and climate risk management.",
+      "tags": [
+        "science",
+        "macro"
+      ]
+    },
+    {
+      "text": "Ozempic shows potential brain health benefits beyond weight loss, influencing pharma pipelines and payer decisions on GLP-1 coverage.",
+      "tags": [
+        "science",
+        "markets"
+      ]
+    },
+    {
+      "text": "Daily multivitamins modestly lower blood pressure in some older adults, suggesting low-cost intervention and possible boost for supplement market.",
+      "tags": [
+        "science",
+        "markets"
+      ]
+    }
+  ]
+}

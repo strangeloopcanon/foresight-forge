@@ -1,0 +1,282 @@
+{
+  "date": "2025-12-14",
+  "predictions": [
+    {
+      "text": "The U.S. Department of Defense will publicly announce at least one airstrike targeting ISIS in Syria or Iraq by 2026-01-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 48,
+      "deadline": "2026-01-31",
+      "confidence_pct": 62,
+      "log_odds": 0.49,
+      "verification_criteria": "A DoD/CENTCOM press release or website post explicitly stating U.S. forces conducted airstrikes against ISIS targets in Syria or Iraq within the window.",
+      "evidence": [
+        "Recent ISIS attack on Americans increased likelihood of U.S. retaliation",
+        "Historical U.S. response patterns to ISIS attacks (CENTCOM press releases)"
+      ],
+      "monitoring_signals": [
+        "CENTCOM press statements and social media",
+        "Increased ISR flight activity reports over Syria/Iraq",
+        "Coalition/OIR briefings or strike summaries",
+        "Major media citing named DoD officials on imminent reprisals"
+      ],
+      "rationale": "High-profile ISIS attack raises probability of targeted U.S. retaliatory strikes.",
+      "id": "e020371d-da3b-4a19-bc27-440bf3a57961",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "OFAC will announce at least one Iran-related sanctions designation via a U.S. Treasury press release by 2025-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 17,
+      "deadline": "2025-12-31",
+      "confidence_pct": 58,
+      "log_odds": 0.32,
+      "verification_criteria": "A U.S. Treasury press release on treasury.gov explicitly identifying new Iran-related designations or additions to the SDN List within the period.",
+      "evidence": [
+        "Heightened regional tensions following attacks and proxy activity",
+        "Regular cadence of Iran-related designations by OFAC in recent years"
+      ],
+      "monitoring_signals": [
+        "Treasury/OFAC press room updates",
+        "Congressional or NSC statements hinting at sanctions",
+        "Iranian proxy activity in Iraq/Syria/Red Sea",
+        "EU/UK coordinated action signals"
+      ],
+      "rationale": "Escalation risk and standard U.S. sanctions toolkit make a near-term action plausible.",
+      "id": "628c470b-a0b4-4f49-bb05-846d87863e29",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "MBA Weekly Applications Survey will report the adjustable-rate mortgage (ARM) share at or above 10.0% in at least one weekly release by 2026-03-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 107,
+      "deadline": "2026-03-31",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "An official MBA Weekly Applications Survey press release or data table showing ARM share of total applications >= 10.0% for any reported week within the window.",
+      "evidence": [
+        "Affordability pressures pushing buyers toward ARMs and buydowns",
+        "Recent trend of increased ARM uptake in high-rate environments"
+      ],
+      "monitoring_signals": [
+        "MBA weekly ARM share metric",
+        "30y fixed vs 5/1 ARM rate spread",
+        "Homebuilder incentives and buydown prevalence",
+        "Mortgage rate volatility"
+      ],
+      "rationale": "Rate spreads and affordability constraints should intermittently lift ARM share above 10%.",
+      "id": "eef8dbdc-789a-4e73-b741-32750bb1a454",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Cboe VIX3M minus VIX (term structure spread) will close at or below -2.0 points on at least one trading day by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 107,
+      "deadline": "2026-03-31",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Cboe or reputable market data showing daily closing values with VIX3M - VIX <= -2.0 on any trading day in the period.",
+      "evidence": [
+        "Late-cycle risks and policy uncertainty can invert near-term vol",
+        "Episodes of front-month stress compress the term structure"
+      ],
+      "monitoring_signals": [
+        "Macro event risk calendar (FOMC, CPI, geopolitics)",
+        "S&P 500 drawdowns and skew bid",
+        "Credit spread widening",
+        "Dealer gamma positioning"
+      ],
+      "rationale": "Periodic risk spikes often invert the vol curve into negative territory.",
+      "id": "2ef90987-71c1-498b-ba89-935394e44847",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly Natural Gas Storage Report will show a Lower 48 net withdrawal of at least 180 Bcf in at least one report published by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 107,
+      "deadline": "2026-03-31",
+      "confidence_pct": 41,
+      "log_odds": -0.36,
+      "verification_criteria": "Any EIA Weekly Natural Gas Storage Report within the window listing a net withdrawal >= 180 Bcf for the Lower 48.",
+      "evidence": [
+        "Winter cold snaps can drive large weekly draws",
+        "Storage levels and production/exports interplay"
+      ],
+      "monitoring_signals": [
+        "NOAA HDD forecasts and Polar vortex risk",
+        "LNG feedgas flows",
+        "Appalachia and Permian gas production trends",
+        "Pipeline constraints/outages"
+      ],
+      "rationale": "Requires a significant cold event; plausible but not baseline.",
+      "id": "abf9228f-663d-418f-9f73-82f84771f91a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-Year Treasury yield (FRED: DGS10) will close at or above 4.50% on at least one trading day by 2026-03-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 107,
+      "deadline": "2026-03-31",
+      "confidence_pct": 44,
+      "log_odds": -0.24,
+      "verification_criteria": "FRED DGS10 or Treasury data showing a daily close >= 4.50% within the specified period.",
+      "evidence": [
+        "Policy uncertainty around new Fed leadership and cuts timing",
+        "Term premium sensitivity to fiscal supply and inflation surprises"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE surprises",
+        "Treasury refunding announcements and auction tails",
+        "Fed communications and balance sheet policy",
+        "Global yields (Bunds, JGBs) and FX moves"
+      ],
+      "rationale": "Upside tail from inflation or supply shocks could lift long-end yields.",
+      "id": "13b36c1b-a759-4f24-a9d9-71f5962ba95e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The European Commission will open at least one new formal non-compliance proceeding under the Digital Markets Act against a designated gatekeeper by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 107,
+      "deadline": "2026-03-31",
+      "confidence_pct": 70,
+      "log_odds": 0.85,
+      "verification_criteria": "Official European Commission communication announcing a DMA non-compliance proceeding against a gatekeeper during the period.",
+      "evidence": [
+        "Ongoing DMA scrutiny and prior investigations",
+        "Regulator momentum to enforce interoperability/anti-steering rules"
+      ],
+      "monitoring_signals": [
+        "EC press releases and case register",
+        "Gatekeeper compliance updates and app store policy changes",
+        "Complaints by app developers/competitors",
+        "Parliamentary or DG COMP briefings"
+      ],
+      "supersedes_id": "bfd6faab-da6d-4714-a992-079d5f16cc22",
+      "rationale": "Extended horizon raises likelihood amid active DMA enforcement pipeline.",
+      "id": "f0876c0c-2ad4-4136-84cc-53aa31cc7bf4",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "At least one of the top five U.S. commercial insurers (UnitedHealthcare, Elevance/Anthem, Aetna/CVS, Cigna, Humana) will announce expanded GLP-1 coverage for obesity including maintenance beyond 12 months by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 107,
+      "deadline": "2026-03-31",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Public insurer policy bulletin or press release clearly expanding GLP-1 obesity coverage to include maintenance beyond 12 months within the window.",
+      "evidence": [
+        "Emerging data on broader GLP-1 benefits (e.g., cardiometabolic, cognitive)",
+        "Competitive pressure and employer demand for obesity coverage"
+      ],
+      "monitoring_signals": [
+        "Insurer formulary updates and prior auth criteria",
+        "Outcomes data and guidelines from medical societies",
+        "Employer benefits surveys",
+        "Pharma payer negotiations and rebate structures"
+      ],
+      "rationale": "Clinical momentum and market competition may push incremental coverage expansion.",
+      "id": "24ea069d-7aa4-4526-aa80-bd952172a5fd",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. CPI (headline, MoM, seasonally adjusted) for January 2026 will print between -0.1% and +0.3%.",
+      "category": "macro",
+      "horizon_days": 76,
+      "deadline": "2026-02-28",
+      "confidence_pct": 63,
+      "log_odds": 0.53,
+      "verification_criteria": "BLS CPI news release for January 2026 showing headline MoM SA within [-0.1%, +0.3%].",
+      "evidence": [
+        "Recent disinflation trend with volatile energy components",
+        "Shelter deceleration offsetting services stickiness"
+      ],
+      "monitoring_signals": [
+        "High-frequency gasoline prices and utility rates",
+        "Rent indices (ZORI, CPI shelter leads)",
+        "Goods price trackers and freight rates",
+        "PCE/CPI nowcasts"
+      ],
+      "rationale": "Base effects and easing goods prices likely keep monthly CPI in a low range.",
+      "id": "abce2634-7dbe-4dba-b182-e6984a4dcbed",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NOAA SWPC will report at least one R3 (Strong) Radio Blackout event by 2026-03-31 (UTC).",
+      "category": "other",
+      "horizon_days": 107,
+      "deadline": "2026-03-31",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "SWPC event logs or alerts indicating an R3 radio blackout classification (X-ray flux) occurring within the period.",
+      "evidence": [
+        "Solar cycle peak window increases severe space weather probability",
+        "Recent uptick in geomagnetic and radiation storms"
+      ],
+      "monitoring_signals": [
+        "Solar active region counts and AR complexity",
+        "GOES X-ray flux levels",
+        "SWPC watches/warnings",
+        "Sunspot number trends"
+      ],
+      "rationale": "Solar maximum conditions raise odds of strong radio blackout events.",
+      "id": "e66df748-7265-42ca-a8cd-9e1a7205262b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA Weekly Petroleum Status Report will show U.S. crude oil field production at or above 13.6 million barrels/day in at least one release by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 107,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Any EIA WPSR within the window listing crude oil field production >= 13.6 million bpd.",
+      "evidence": [
+        "Recent record U.S. production and productivity gains",
+        "Permian associated gas/oil growth and improved drilling efficiency"
+      ],
+      "monitoring_signals": [
+        "Rig counts and frac spread data",
+        "Permian pipeline takeaway expansions",
+        "Corporate production guidance",
+        "EIA 914 monthly reconciliations"
+      ],
+      "rationale": "Momentum in shale efficiency and completions supports incremental production highs.",
+      "id": "ebde815a-c73b-457e-acf2-4dbbf106bfb1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Berkshire Hathaway Class B (BRK.B) will close at a new all-time high on at least one trading day by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 107,
+      "deadline": "2026-03-31",
+      "confidence_pct": 53,
+      "log_odds": 0.12,
+      "verification_criteria": "Exchange data (NYSE/Nasdaq) or reputable financial data sources showing a BRK.B daily closing price exceeding its prior all-time closing high within the period.",
+      "evidence": [
+        "Potential governance and capital allocation shifts post-management changes",
+        "Strong insurance underwriting and investment income tailwinds from higher rates"
+      ],
+      "monitoring_signals": [
+        "Quarterly earnings and buyback activity",
+        "Catastrophe loss trends",
+        "Equity market trajectory (SPX) and rates",
+        "Valuation vs historical premium/discount"
+      ],
+      "rationale": "Buybacks and earnings power provide a path to marginal new highs.",
+      "id": "c9f48939-a79e-41dc-b5dd-ff2555f6e470",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
