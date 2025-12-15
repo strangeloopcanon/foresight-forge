@@ -1,0 +1,176 @@
+{
+  "date": "2025-12-15",
+  "predictions": [
+    {
+      "text": "ServiceNow will announce a definitive agreement to acquire Armis by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 106,
+      "deadline": "2026-03-31",
+      "confidence_pct": 34,
+      "verification_criteria": "Resolves YES if ServiceNow or Armis issues an official press release or SEC filing announcing a signed definitive merger/acquisition agreement where ServiceNow is acquiring Armis (any consideration structure). Rumors/leaks without confirmation do not count.",
+      "evidence": [
+        "Reported acquisition talks indicate strategic interest in cybersecurity consolidation and platform-led M&A.",
+        "Large-cap software firms often pursue security acquisitions to expand ARR and enterprise footprint."
+      ],
+      "monitoring_signals": [
+        "ServiceNow investor relations press releases and 8-K filings",
+        "Armis press releases/blog",
+        "Regulatory filings (US SEC, EU merger control notifications)",
+        "Major deal reporters (WSJ, Bloomberg, CNBC) followed by company confirmation"
+      ],
+      "rationale": "Talks can fail due to price, diligence, or antitrust, so probability is meaningfully below 50% despite credible reporting.",
+      "id": "0ab35648-785d-4de2-9320-ed786fdb6e27",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "iRobot will publicly disclose (via press release or SEC filing) a signed agreement to sell substantially all assets or the company (a sale transaction) out of bankruptcy by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 197,
+      "deadline": "2026-06-30",
+      "confidence_pct": 57,
+      "verification_criteria": "YES if iRobot (or a court-appointed entity) announces a signed asset purchase agreement or merger agreement during the Chapter 11 process, documented in an iRobot press release, 8-K/10-Q/10-K, or bankruptcy court filing. Mere bidding procedures approval without a signed deal is NO.",
+      "evidence": [
+        "Chapter 11 processes frequently culminate in a 363 asset sale or plan sale transaction.",
+        "Going-private/restructuring narratives often still require a formal sale agreement under court oversight."
+      ],
+      "monitoring_signals": [
+        "iRobot SEC filings (8-K) and press releases",
+        "Bankruptcy docket (bidding procedures, stalking horse, sale motion, sale order)",
+        "Creditor committee updates and court hearing schedules"
+      ],
+      "rationale": "Bankruptcy increases odds of an eventual sale, though outcomes can include stand-alone reorganization or liquidation without a signed sale agreement.",
+      "id": "32d9a86c-2246-4b7f-9a1f-6b4792dc1fa3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one publicly confirmed direct meeting between official delegations from Ukraine and Russia (in-person or virtual) will occur by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 106,
+      "deadline": "2026-03-31",
+      "confidence_pct": 29,
+      "verification_criteria": "YES if either government (Ukraine or Russia) publicly confirms a direct meeting between official delegations (e.g., foreign ministry, defense, presidential office) for peace/cease-fire talks. Indirect talks via intermediaries only are NO.",
+      "evidence": [
+        "Public signaling of flexibility around talks can precede exploratory contacts.",
+        "Historical precedent of intermittent negotiation attempts even amid ongoing conflict."
+      ],
+      "monitoring_signals": [
+        "Official statements from Ukraine\u2019s President/Foreign Ministry",
+        "Russian government statements and MFA releases",
+        "Turkey/UN/OSCE facilitation announcements",
+        "Credible wire services (Reuters/AP) confirmations"
+      ],
+      "rationale": "Even with talk signals, domestic politics and battlefield dynamics often block direct delegation-level meetings on short horizons.",
+      "id": "285a631e-0b8b-490d-b964-ea053e02e416",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Australia\u2019s federal government will introduce (table) a bill in Parliament specifically targeting online misinformation/deepfakes or violent-extremist content amplification by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 106,
+      "deadline": "2026-03-31",
+      "confidence_pct": 46,
+      "verification_criteria": "YES if a bill is formally introduced in the House of Representatives or Senate and its stated purpose includes combating misinformation/deepfakes and/or tightening online extremist-content rules (as described in the bill\u2019s explanatory memorandum or official summary). Consult the Australian Parliament bill register.",
+      "evidence": [
+        "High-profile violence events commonly trigger legislative responses on content moderation and platform accountability.",
+        "Recent attention to AI-driven misinformation increases policy momentum."
+      ],
+      "monitoring_signals": [
+        "Australian Parliament bills register and Hansard",
+        "Attorney-General and Communications Minister announcements",
+        "eSafety Commissioner consultations",
+        "Exposure drafts or consultation papers preceding tabling"
+      ],
+      "rationale": "Political salience is high, but drafting, consultation, and coalition dynamics can delay formal introduction past the quarter.",
+      "id": "92ca7b69-44c2-44c5-9749-0073d0403fbf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Chile\u2019s new administration will submit an executive-sponsored public security/anti-crime legislative package to the National Congress by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 197,
+      "deadline": "2026-06-30",
+      "confidence_pct": 66,
+      "verification_criteria": "YES if the Chilean executive branch (presidency/ministry) formally presents a bill or bundled set of bills labeled as a security/anti-crime package to the National Congress, confirmed on official government or Congress websites.",
+      "evidence": [
+        "Election outcomes driven by crime fears typically translate into early agenda-setting on security.",
+        "New administrations often prioritize high-visibility public safety legislation in their first months."
+      ],
+      "monitoring_signals": [
+        "Chile government press releases (Presidency, Interior Ministry)",
+        "Chamber of Deputies/Senate bill tracking systems",
+        "Inaugural address and first 100-day agenda announcements"
+      ],
+      "rationale": "Given the stated political mandate around crime, a formal package submission is more likely than not within the first months in office.",
+      "id": "68000fc4-e49a-49e9-8efa-64d16decda8e",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. Navy will award at least one new shipbuilding-related contract (new award, not an option exercise) with announced total value of $1.0B or more by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 106,
+      "deadline": "2026-03-31",
+      "confidence_pct": 72,
+      "verification_criteria": "YES if the U.S. Department of Defense posts a contract announcement explicitly related to shipbuilding/shipyards/shipbuilding industrial base with value \u2265 $1.0B, and it is a new award (not merely exercising a previously awarded option).",
+      "evidence": [
+        "Shipbuilding procurement routinely features billion-dollar awards and modifications, reflecting program scale.",
+        "Industrial-base emphasis increases likelihood of large awards/initiatives."
+      ],
+      "monitoring_signals": [
+        "DoD daily contract announcements",
+        "Navy procurement (NAVSEA) press releases",
+        "Major shipbuilder IR updates (HII, General Dynamics)"
+      ],
+      "rationale": "Base rates for large naval shipbuilding awards are high, especially across a full quarter, making this a relatively high-confidence operational forecast.",
+      "id": "336b58fb-0f2b-402d-bfd9-c1a218532c75",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "KOSPI (South Korea) will close at or below 2,500 on at least one trading day by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 106,
+      "deadline": "2026-03-31",
+      "confidence_pct": 38,
+      "verification_criteria": "YES if the KOSPI official close (as published by Korea Exchange or widely-cited market data providers like Refinitiv/Bloomberg) is \u2264 2,500 on any trading day on or before 2026-03-31 (UTC date).",
+      "evidence": [
+        "Regional equities are sensitive to China-demand signals and global liquidity/earnings revisions.",
+        "Year-end and early-year windows can see outsized moves under thin liquidity and risk repricing."
+      ],
+      "monitoring_signals": [
+        "Daily KOSPI close levels from KRX and major data vendors",
+        "China macro releases impacting Asia cyclicals",
+        "KRW moves and foreign net flows into Korean equities"
+      ],
+      "rationale": "Downside tail risk exists, but the threshold may require a nontrivial shock or sustained risk-off period, keeping probability below 50%.",
+      "id": "def9f186-580e-40c3-bb63-c1261d3c965a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A hyperscale cloud provider (AWS, Microsoft Azure, or Google Cloud) will publicly announce a pilot or customer availability for glass-based archival storage media (e.g., 5D glass/ultra-long-life glass storage) by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 197,
+      "deadline": "2026-06-30",
+      "confidence_pct": 22,
+      "verification_criteria": "YES if AWS, Microsoft, or Google Cloud publishes a blog post, press release, conference talk, or product note stating a pilot/customer trial/availability using glass-based data storage media for archival/cold storage. Lab research without provider participation is NO.",
+      "evidence": [
+        "Data-center pilots are being explored for high-density, long-term archival alternatives.",
+        "Hyperscalers continually test new storage tiers to reduce long-run TCO and energy costs."
+      ],
+      "monitoring_signals": [
+        "AWS/Azure/Google Cloud blogs and conference keynotes",
+        "Partner announcements from glass-storage vendors",
+        "Patents and research collaborations tied to hyperscalers"
+      ],
+      "rationale": "Technical feasibility is progressing, but hyperscalers are conservative about announcing media changes; many pilots remain undisclosed or limited to research partnerships.",
+      "id": "b155360a-2389-425b-83d9-166e0dc94df0",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

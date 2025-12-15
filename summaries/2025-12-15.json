@@ -1,0 +1,107 @@
+{
+  "bullets": [
+    {
+      "text": "Bondi Beach shooting intensifies Australia\u2019s security and extremist-violence debate; misinformation around the event highlights AI reliability risks in breaking news.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/12/14/world/australia/what-we-know-bondi-shooting.html"
+    },
+    {
+      "text": "Zelensky signals flexibility for renewed peace talks, testing whether limited compromises can unlock cease-fire dynamics without undermining Ukraine\u2019s core security aims.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/14/world/europe/zelensky-ukraine-peace-talks.html"
+    },
+    {
+      "text": "Chile elects Jos\u00e9 Antonio Kast amid regionwide crime fears, pointing to a rightward shift that could reshape fiscal policy, regulation, and regional alignments.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/12/14/world/americas/chile-election-kast.html"
+    },
+    {
+      "text": "Kenya\u2019s growth strategy leans on female overseas labor and remittances, exposing households and macro stability to worker-abuse risks and Gulf labor policy changes.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/14/world/africa/kenya-saudi-arabia-worker-abuse.html"
+    },
+    {
+      "text": "Trump\u2019s push to revive U.S. shipbuilding underscores industrial-policy competition with China; scale, skilled labor, and procurement reform are key constraints.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/14/trump-america-shipbuilding-china-competition.html"
+    },
+    {
+      "text": "Year-end trading enters a volatility-prone window; positioning and liquidity can amplify moves even without major macro surprises.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/stocks-risk-a-stir-up-in-last-trading-push-of-the-year-where-to-put-your-money-ec3792d1"
+    },
+    {
+      "text": "Asia-Pacific equities slide with South Korea leading losses ahead of key China data, reflecting sensitivity to China-demand signals and regional earnings expectations.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/15/asia-markets-live-nikkei-kospi-hang-seng.html"
+    },
+    {
+      "text": "Fed governance enters campaign crosswinds: Kevin Hassett claims a Trump-appointed chair would keep politics out of rate decisions, spotlighting independence concerns.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/hassett-says-trump-would-have-no-weight-on-feds-decision-making-if-hes-chair-8e9b52b5"
+    },
+    {
+      "text": "iRobot bankruptcy shows hardware-margin pressure and platform dependence; going private may enable restructuring, but signals tougher financing for consumer robotics.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/roomba-maker-irobot-files-for-bankruptcy-will-go-private-aa2277df"
+    },
+    {
+      "text": "ServiceNow\u2019s reported $7B Armis talks highlight continued cybersecurity consolidation as platforms buy growth and defenses amid rising breach and compliance costs.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/14/servicenow-reportedly-in-talks-to-acquire-cybersecurity-startup-armis.html"
+    },
+    {
+      "text": "Research links Indus Valley collapse to environmental and hydrological shifts, strengthening evidence that climate variability can destabilize complex urban economies.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251214100930.htm"
+    },
+    {
+      "text": "New gut biology findings could reshape obesity/diabetes treatments by targeting host\u2013microbiome pathways, expanding the pipeline for metabolic drugs beyond GLP-1s.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251214100926.htm"
+    },
+    {
+      "text": "Data-center storage pilots for 5D glass discs (360TB in 5 inches) suggest long-term archival disruption potential, though write/read speed and cost remain hurdles.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://www.tomshardware.com/pc-components/storage/sphotonix-pushes-5d-glass-storage-toward-data-center-pilots"
+    }
+  ]
+}

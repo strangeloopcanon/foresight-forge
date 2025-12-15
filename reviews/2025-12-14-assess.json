@@ -1,0 +1,65 @@
+{
+  "date": "2025-12-14",
+  "assessments": [
+    {
+      "id": "e020371d-da3b-4a19-bc27-440bf3a57961",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets reference Syria/ISIS-related violence (e.g., a Syrian linked to killing U.S. soldiers), but do not report a U.S. DoD public announcement of an airstrike targeting ISIS in Syria or Iraq. Deadline not yet reached."
+    },
+    {
+      "id": "628c470b-a0b4-4f49-bb05-846d87863e29",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets indicates an OFAC/U.S. Treasury press release announcing Iran-related sanctions designations. Deadline not yet reached."
+    },
+    {
+      "id": "eef8dbdc-789a-4e73-b741-32750bb1a454",
+      "status": "pending",
+      "status_rationale": "No MBA Weekly Applications Survey data (ARM share) is referenced in today\u2019s bullets. Deadline not yet reached."
+    },
+    {
+      "id": "2ef90987-71c1-498b-ba89-935394e44847",
+      "status": "pending",
+      "status_rationale": "No market data in today\u2019s bullets establishes that the Cboe VIX3M minus VIX spread closed at or below -2.0 on any day. Deadline not yet reached."
+    },
+    {
+      "id": "abf9228f-663d-418f-9f73-82f84771f91a",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Natural Gas Storage Report figures are provided in today\u2019s bullets indicating a \u2265180 Bcf Lower 48 net withdrawal. Deadline not yet reached."
+    },
+    {
+      "id": "13b36c1b-a759-4f24-a9d9-71f5962ba95e",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not provide evidence (e.g., a cited close) that the U.S. 10-year Treasury yield closed at or above 4.50% on any trading day. Deadline not yet reached."
+    },
+    {
+      "id": "f0876c0c-2ad4-4136-84cc-53aa31cc7bf4",
+      "status": "pending",
+      "status_rationale": "No reporting in today\u2019s bullets indicates the European Commission opened a new formal DMA non-compliance proceeding against a gatekeeper. Deadline not yet reached."
+    },
+    {
+      "id": "24ea069d-7aa4-4526-aa80-bd952172a5fd",
+      "status": "pending",
+      "status_rationale": "No bullet reports a top-five U.S. commercial insurer announcing expanded GLP-1 obesity coverage (including maintenance beyond 12 months). Deadline not yet reached."
+    },
+    {
+      "id": "abce2634-7dbe-4dba-b182-e6984a4dcbed",
+      "status": "pending",
+      "status_rationale": "This is a specific January 2026 CPI print range; today\u2019s bullets contain no CPI release for that period. Deadline not yet reached."
+    },
+    {
+      "id": "e66df748-7265-42ca-a8cd-9e1a7205262b",
+      "status": "pending",
+      "status_rationale": "No NOAA SWPC reporting is included in today\u2019s bullets indicating an R3 (Strong) radio blackout event. Deadline not yet reached."
+    },
+    {
+      "id": "ebde815a-c73b-457e-acf2-4dbbf106bfb1",
+      "status": "pending",
+      "status_rationale": "No EIA Weekly Petroleum Status Report data is cited showing U.S. crude oil field production at or above 13.6 mb/d. Deadline not yet reached."
+    },
+    {
+      "id": "c9f48939-a79e-41dc-b5dd-ff2555f6e470",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not state that BRK.B closed at a new all-time high on any trading day. Deadline not yet reached."
+    }
+  ]
+}

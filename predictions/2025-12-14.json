@@ -21,7 +21,7 @@
       ],
       "rationale": "High-profile ISIS attack raises probability of targeted U.S. retaliatory strikes.",
       "id": "e020371d-da3b-4a19-bc27-440bf3a57961",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Escalation risk and standard U.S. sanctions toolkit make a near-term action plausible.",
       "id": "628c470b-a0b4-4f49-bb05-846d87863e29",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Rate spreads and affordability constraints should intermittently lift ARM share above 10%.",
       "id": "eef8dbdc-789a-4e73-b741-32750bb1a454",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Periodic risk spikes often invert the vol curve into negative territory.",
       "id": "2ef90987-71c1-498b-ba89-935394e44847",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -113,7 +113,7 @@
       ],
       "rationale": "Requires a significant cold event; plausible but not baseline.",
       "id": "abf9228f-663d-418f-9f73-82f84771f91a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "Upside tail from inflation or supply shocks could lift long-end yields.",
       "id": "13b36c1b-a759-4f24-a9d9-71f5962ba95e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -160,7 +160,7 @@
       "supersedes_id": "bfd6faab-da6d-4714-a992-079d5f16cc22",
       "rationale": "Extended horizon raises likelihood amid active DMA enforcement pipeline.",
       "id": "f0876c0c-2ad4-4136-84cc-53aa31cc7bf4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -183,7 +183,7 @@
       ],
       "rationale": "Clinical momentum and market competition may push incremental coverage expansion.",
       "id": "24ea069d-7aa4-4526-aa80-bd952172a5fd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -206,7 +206,7 @@
       ],
       "rationale": "Base effects and easing goods prices likely keep monthly CPI in a low range.",
       "id": "abce2634-7dbe-4dba-b182-e6984a4dcbed",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -229,7 +229,7 @@
       ],
       "rationale": "Solar maximum conditions raise odds of strong radio blackout events.",
       "id": "e66df748-7265-42ca-a8cd-9e1a7205262b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -252,7 +252,7 @@
       ],
       "rationale": "Momentum in shale efficiency and completions supports incremental production highs.",
       "id": "ebde815a-c73b-457e-acf2-4dbbf106bfb1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -275,7 +275,7 @@
       ],
       "rationale": "Buybacks and earnings power provide a path to marginal new highs.",
       "id": "c9f48939-a79e-41dc-b5dd-ff2555f6e470",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

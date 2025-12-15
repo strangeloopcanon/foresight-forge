@@ -1337,3 +1337,12 @@ While some stories could be second-order signals—for example, shifting Fed cha
 
 ---
 
+
+## 2025-12-14
+
+None of the listed news bullets provide direct, checkable evidence that any of the forecasted quantitative or policy events have occurred (e.g., an OFAC Iran designation, EIA storage/production thresholds being met, VIX term-structure inversion hitting the specified level, or a BRK.B all-time-high close). Accordingly, all predictions remain pending rather than being updated to correct/incorrect.
+
+The only thematic overlap is the Syria/ISIS-related reporting, but it concerns an attack and attribution rather than the specific forecasted outcome (a publicly announced DoD airstrike targeting ISIS in Syria or Iraq). For the market- and indicator-based forecasts (Treasury yields, VIX spread, EIA/MBA releases, CPI), the bullets do not contain the required datapoints, so status updates would be speculative without the underlying releases or closing values.
+
+---
+
