@@ -1,0 +1,836 @@
+[
+  {
+    "id": "https://www.nytimes.com/2025/12/15/us/politics/trump-rob-reiner.html",
+    "title": "Trump\u2019s Post Attacking Rob Reiner After Stabbing Death Draws Immediate Outrage",
+    "link": "https://www.nytimes.com/2025/12/15/us/politics/trump-rob-reiner.html",
+    "published": "Mon, 15 Dec 2025 21:36:17 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/movies/nick-reiner-drugs-rehab-heroin-cocaine.html",
+    "title": "Nick Reiner\u2019s Struggles With Drugs Left His Parents \u2018Desperate\u2019",
+    "link": "https://www.nytimes.com/2025/12/15/movies/nick-reiner-drugs-rehab-heroin-cocaine.html",
+    "published": "Tue, 16 Dec 2025 01:23:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/us/politics/kash-patel-fbi.html",
+    "title": "FBI Director Kash Patel, Eager for Spotlight, Casts Aside Caution in Social Media Posts",
+    "link": "https://www.nytimes.com/2025/12/15/us/politics/kash-patel-fbi.html",
+    "published": "Tue, 16 Dec 2025 00:34:10 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/world/europe/uk-mi6-russia-chaos.html",
+    "title": "U.K. Spy Chief Warns of Growing Russia Threat in Europe",
+    "link": "https://www.nytimes.com/2025/12/15/world/europe/uk-mi6-russia-chaos.html",
+    "published": "Mon, 15 Dec 2025 19:05:02 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/world/europe/ukraine-russia-submarine-drones.html",
+    "title": "Ukraine Claims First Strike by Underwater Drone on Russian Submarine",
+    "link": "https://www.nytimes.com/2025/12/15/world/europe/ukraine-russia-submarine-drones.html",
+    "published": "Mon, 15 Dec 2025 23:39:49 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/world/australia/bondi-beach-shooting-sydney-australia.html",
+    "title": "How the Bondi Beach Shooting Unfolded at a Hanukkah Celebration",
+    "link": "https://www.nytimes.com/2025/12/15/world/australia/bondi-beach-shooting-sydney-australia.html",
+    "published": "Mon, 15 Dec 2025 22:27:02 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/world/australia/albanese-gun-control-bondi-shooting.html",
+    "title": "Albanese Vows to Toughen Gun Laws After Deadly Bondi Shooting",
+    "link": "https://www.nytimes.com/2025/12/15/world/australia/albanese-gun-control-bondi-shooting.html",
+    "published": "Mon, 15 Dec 2025 20:41:51 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/world/australia/ahmed-bondi-shooting-hero-tackled-shooter-injured.html",
+    "title": "Ahmed el Ahmed, Who Tackled One of the Bondi Beach Gunmen, Is Recovering in a Hospital",
+    "link": "https://www.nytimes.com/2025/12/15/world/australia/ahmed-bondi-shooting-hero-tackled-shooter-injured.html",
+    "published": "Mon, 15 Dec 2025 18:36:39 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/magazine/bullying-teenagers-gilbert-goons-gang.html",
+    "title": "He Tried to Protect His Son From Bullies. He Didn\u2019t Know How Far They Would Go.",
+    "link": "https://www.nytimes.com/2025/12/15/magazine/bullying-teenagers-gilbert-goons-gang.html",
+    "published": "Mon, 15 Dec 2025 13:43:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/business/ford-electric-vehicles-hybrids.html",
+    "title": "Ford Will Take $19.5 Billion Hit as It Rolls Back E.V. Plans",
+    "link": "https://www.nytimes.com/2025/12/15/business/ford-electric-vehicles-hybrids.html",
+    "published": "Mon, 15 Dec 2025 23:10:15 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/us/politics/pelosi-stock-trading-ban.html",
+    "title": "Pelosi Long Resisted Stock-Trading Ban for Congress, Fueling Suspicion",
+    "link": "https://www.nytimes.com/2025/12/15/us/politics/pelosi-stock-trading-ban.html",
+    "published": "Tue, 16 Dec 2025 00:42:40 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/us/heng-guan-china-uyghurs-deportation-uganda.html",
+    "title": "Heng Guan Documented China\u2019s Detention of Uyghurs. The U.S. Wants to Deport Him.",
+    "link": "https://www.nytimes.com/2025/12/15/us/heng-guan-china-uyghurs-deportation-uganda.html",
+    "published": "Mon, 15 Dec 2025 21:06:34 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/us/politics/trump-sues-bbc.html",
+    "title": "Trump Files $10 Billion Suit Over BBC Documentary",
+    "link": "https://www.nytimes.com/2025/12/15/us/politics/trump-sues-bbc.html",
+    "published": "Tue, 16 Dec 2025 01:12:52 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/us/politics/trump-crypto-winklevoss.html",
+    "title": "How the Winklevoss Twins Won Big in Trump\u2019s Pro-Crypto Washington",
+    "link": "https://www.nytimes.com/2025/12/15/us/politics/trump-crypto-winklevoss.html",
+    "published": "Tue, 16 Dec 2025 01:25:55 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/arts/television/anthony-geary-dead.html",
+    "title": "Anthony Geary, Luke on \u2018General Hospital,\u2019 Dies at 78",
+    "link": "https://www.nytimes.com/2025/12/15/arts/television/anthony-geary-dead.html",
+    "published": "Mon, 15 Dec 2025 22:58:39 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html",
+    "title": "How Tech\u2019s Biggest Companies Are Offloading the Risks of the A.I. Boom",
+    "link": "https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html",
+    "published": "Mon, 15 Dec 2025 21:08:37 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/technology/ai-venture-capital-big-funds.html",
+    "title": "In A.I. Boom, Venture Capital Firms Are Raising Loads More Money",
+    "link": "https://www.nytimes.com/2025/12/15/technology/ai-venture-capital-big-funds.html",
+    "published": "Mon, 15 Dec 2025 17:50:54 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/style/best-breakup-lines.html",
+    "title": "The 52 Best Breakup Lines (Said in Real Life)",
+    "link": "https://www.nytimes.com/2025/12/15/style/best-breakup-lines.html",
+    "published": "Mon, 15 Dec 2025 12:51:14 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/opinion/monroe-doctrine-trump.html",
+    "title": "Trump\u2019s Dated Strategy Is Putting Us on a Path to World War III",
+    "link": "https://www.nytimes.com/2025/12/15/opinion/monroe-doctrine-trump.html",
+    "published": "Mon, 15 Dec 2025 22:54:35 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/opinion/contributors/holiday-gifts-presents-free.html",
+    "title": "13 Holiday Gifts that Cost (Almost) Nothing",
+    "link": "https://www.nytimes.com/2025/12/15/opinion/contributors/holiday-gifts-presents-free.html",
+    "published": "Mon, 15 Dec 2025 23:14:04 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/briefing/rob-reiners-son-arrested.html",
+    "title": "Rob Reiner\u2019s Son Arrested After Fatal Stabbing",
+    "link": "https://www.nytimes.com/2025/12/15/briefing/rob-reiners-son-arrested.html",
+    "published": "Mon, 15 Dec 2025 22:52:25 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/well/blood-sugar-heart-disease-risk.html",
+    "title": "Controlling Blood Sugar Cut Heart Disease Risk in Half, New Study Says",
+    "link": "https://www.nytimes.com/2025/12/15/well/blood-sugar-heart-disease-risk.html",
+    "published": "Mon, 15 Dec 2025 21:57:00 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/business/media/robert-samuelson-dead.html",
+    "title": "Robert Samuelson, Award-Winning Economics Columnist, Dies at 79",
+    "link": "https://www.nytimes.com/2025/12/15/business/media/robert-samuelson-dead.html",
+    "published": "Tue, 16 Dec 2025 00:20:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/us/syria-killed-soldiers-iowa-national-guard.html",
+    "title": "U.S. Soldiers and Translator Killed in Syria Are Identified",
+    "link": "https://www.nytimes.com/2025/12/15/us/syria-killed-soldiers-iowa-national-guard.html",
+    "published": "Mon, 15 Dec 2025 22:43:42 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2025/12/15/science/covid-ecology-anthropause-birds.html",
+    "title": "How the Pandemic Lockdowns Changed a Songbird\u2019s Beak",
+    "link": "https://www.nytimes.com/2025/12/15/science/covid-ecology-anthropause-birds.html",
+    "published": "Mon, 15 Dec 2025 20:00:06 +0000"
+  },
+  {
+    "id": "WP-MKTW-0004649099",
+    "title": "Two Fed officials who rarely agree both say inflation will not be a problem going forward",
+    "link": "https://www.marketwatch.com/story/two-fed-officials-who-rarely-agree-both-say-inflation-will-not-be-a-problem-going-forward-f5425178?mod=mw_rss_topstories",
+    "published": "Tue, 16 Dec 2025 00:56:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004648589",
+    "title": "\u2018Am I simply the unloved son?\u2019 My mother ghosted me after my father died. Is she stealing his money?",
+    "link": "https://www.marketwatch.com/story/am-i-simply-the-unloved-son-my-mother-ghosted-me-after-my-father-died-is-she-stealing-his-money-522ec5b7?mod=mw_rss_topstories",
+    "published": "Tue, 16 Dec 2025 00:30:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004648308",
+    "title": "\u2018We all have economic jitters\u2019: After the Fed cut rates, should my son buy a $600K house?",
+    "link": "https://www.marketwatch.com/story/we-all-have-economic-jitters-after-the-fed-cut-rates-should-my-son-buy-a-600k-house-e97d039b?mod=mw_rss_topstories",
+    "published": "Tue, 16 Dec 2025 00:08:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004648323",
+    "title": "2025 was one hell of a year. Consumers should expect more \u2018silent pain\u2019 in 2026",
+    "link": "https://www.marketwatch.com/story/affordability-is-a-con-job-for-consumers-2025-was-one-hell-of-a-year-what-can-we-learn-from-it-4c99b891?mod=mw_rss_topstories",
+    "published": "Tue, 16 Dec 2025 00:07:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004650858",
+    "title": "Broadcom\u2019s worst three-day stock slide since 2020 marks a humbling of sorts",
+    "link": "https://www.marketwatch.com/story/broadcoms-worst-three-day-stock-slide-since-2020-marks-a-humbling-of-sorts-608b1960?mod=mw_rss_topstories",
+    "published": "Mon, 15 Dec 2025 23:12:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004648821",
+    "title": "Why Oracle\u2019s stock \u2014 and its bonds \u2014 can\u2019t shake off AI spending fears",
+    "link": "https://www.marketwatch.com/story/why-oracles-stock-and-its-bonds-cant-shake-off-ai-spending-fears-aec2365c?mod=mw_rss_topstories",
+    "published": "Mon, 15 Dec 2025 23:02:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004650587",
+    "title": "Why Ford is scrapping major EV plans and taking a $19.5 billion hit",
+    "link": "https://www.marketwatch.com/story/why-ford-is-scrapping-major-ev-plans-and-taking-a-19-5-billion-hit-4d42e9ef?mod=mw_rss_topstories",
+    "published": "Mon, 15 Dec 2025 22:19:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004645799",
+    "title": "Trouble persists in a key corner of financial markets \u2014 and these assets face the greatest risk",
+    "link": "https://www.marketwatch.com/story/trouble-persists-in-a-key-corner-of-financial-markets-and-these-assets-face-the-greatest-risk-badbf845?mod=mw_rss_topstories",
+    "published": "Mon, 15 Dec 2025 21:52:00 GMT"
+  },
+  {
+    "id": "108242185",
+    "title": "Trump sues BBC for $5 billion, claims defamation from Panorama documentary",
+    "link": "https://www.cnbc.com/2025/12/16/trump-bbc-panorama-election-defamation-lawsuit.html",
+    "published": "Tue, 16 Dec 2025 01:29:14 GMT"
+  },
+  {
+    "id": "108241882",
+    "title": "Zillow shares are getting crushed. Here's why",
+    "link": "https://www.cnbc.com/2025/12/15/zillow-shares-are-getting-crushed-heres-why.html",
+    "published": "Mon, 15 Dec 2025 22:49:41 GMT"
+  },
+  {
+    "id": "108242016",
+    "title": "New Trump tariffs collection hits $200 billion, Customs says",
+    "link": "https://www.cnbc.com/2025/12/15/trump-tariffs-trade-customs-imports.html",
+    "published": "Mon, 15 Dec 2025 21:31:59 GMT"
+  },
+  {
+    "id": "108242084",
+    "title": "Trump says he's 'strongly' considering reclassifying pot via executive order",
+    "link": "https://www.cnbc.com/2025/12/15/trump-pot-executive-order-reclassification.html",
+    "published": "Mon, 15 Dec 2025 21:46:30 GMT"
+  },
+  {
+    "id": "108241804",
+    "title": "Trump admin to hire 1,000 specialists for 'Tech Force' to build AI, finance projects",
+    "link": "https://www.cnbc.com/2025/12/15/trump-ai-tech-force-amazon-apple.html",
+    "published": "Mon, 15 Dec 2025 16:40:02 GMT"
+  },
+  {
+    "id": "108241958",
+    "title": "Tesla stock closes at 2025 high after Musk confirms driverless Robotaxi tests underway in Austin",
+    "link": "https://www.cnbc.com/2025/12/15/tesla-tests-driverless-cars-in-austin-without-humans-on-board.html",
+    "published": "Mon, 15 Dec 2025 23:53:57 GMT"
+  },
+  {
+    "id": "108242159",
+    "title": "Asia-Pacific markets mostly fall as AI sell-off on Wall Street continues",
+    "link": "https://www.cnbc.com/2025/12/16/asia-markets-nikkei-kospi-hang-seng-australia.html",
+    "published": "Tue, 16 Dec 2025 01:38:59 GMT"
+  },
+  {
+    "id": "108242117",
+    "title": "PayPal applies to form bank that can offer small business loans and savings accounts",
+    "link": "https://www.cnbc.com/2025/12/15/paypal-seeks-us-approval-to-form-bank-offer-small-business-loans.html",
+    "published": "Mon, 15 Dec 2025 22:11:08 GMT"
+  },
+  {
+    "id": "108242036",
+    "title": "Jim Cramer makes the case for buying Procter & Gamble stock",
+    "link": "https://www.cnbc.com/2025/12/15/jim-cramer-makes-the-case-for-buying-procter-gamble-stock.html",
+    "published": "Mon, 15 Dec 2025 23:55:37 GMT"
+  },
+  {
+    "id": "108241727",
+    "title": "High cost of goods is causing consumers to spend less for the holidays, CNBC survey finds",
+    "link": "https://www.cnbc.com/2025/12/15/inflation-causing-less-holiday-spending-cnbc-all-america-economic-survey.html",
+    "published": "Mon, 15 Dec 2025 14:39:06 GMT"
+  },
+  {
+    "id": "108241903",
+    "title": "New York AG sues UPS for allegedly shorting Christmas season workers' wages",
+    "link": "https://www.cnbc.com/2025/12/15/new-york-lawsuit-ups-christmas-wage-steal-seasonal-workers.html",
+    "published": "Mon, 15 Dec 2025 23:08:22 GMT"
+  },
+  {
+    "id": "108242119",
+    "title": "Frontier Airlines replaces CEO Barry Biffle with carrier's president",
+    "link": "https://www.cnbc.com/2025/12/15/frontier-airlines-replaces-ceo-biffle-with-carriers-president.html",
+    "published": "Mon, 15 Dec 2025 22:56:52 GMT"
+  },
+  {
+    "id": "108242037",
+    "title": "Affirm CEO details no-fee lending model: 'We have total alignment with our consumers'",
+    "link": "https://www.cnbc.com/2025/12/15/affirm-ceo-no-fee-lending-consumers.html",
+    "published": "Mon, 15 Dec 2025 23:56:06 GMT"
+  },
+  {
+    "id": "108241825",
+    "title": "Trump doubles down on Rob Reiner criticism after killing; director's son in custody",
+    "link": "https://www.cnbc.com/2025/12/15/rob-reiner-death-trump.html",
+    "published": "Tue, 16 Dec 2025 00:10:14 GMT"
+  },
+  {
+    "id": "108242082",
+    "title": "Merriam-Webster declares 'slop' its word of the year in nod to growth of AI",
+    "link": "https://www.cnbc.com/2025/12/15/merriam-webster-declares-slop-word-of-the-year-nod-to-growth-of-ai.html",
+    "published": "Mon, 15 Dec 2025 22:44:01 GMT"
+  },
+  {
+    "id": "108241998",
+    "title": "AI infrastructure selloff continues on Wall Street as Broadcom, Oracle shares slide",
+    "link": "https://www.cnbc.com/2025/12/15/ai-infrastructure-selloff-continues-broadcom-oracle-coreweave-shares-slide.html",
+    "published": "Mon, 15 Dec 2025 21:04:23 GMT"
+  },
+  {
+    "id": "108242005",
+    "title": "One of our chipmakers has become a tech battleground stock \u2014 plus, an update on Linde",
+    "link": "https://www.cnbc.com/2025/12/15/one-of-our-chipmakers-has-become-a-tech-battleground-stock-plus-an-update-on-linde.html",
+    "published": "Mon, 15 Dec 2025 19:42:30 GMT"
+  },
+  {
+    "id": "108242064",
+    "title": "Ford to record $19.5 billion in special charges related to EV pullback",
+    "link": "https://www.cnbc.com/2025/12/15/ford-ev-pullback.html",
+    "published": "Tue, 16 Dec 2025 00:28:37 GMT"
+  },
+  {
+    "id": "108241940",
+    "title": "Pentagon takes big stake in new Korea Zinc smelter in Tennessee, will get 10% of company",
+    "link": "https://www.cnbc.com/2025/12/15/pentagon-korea-zinc-refinery-tennessee.html",
+    "published": "Mon, 15 Dec 2025 21:50:16 GMT"
+  },
+  {
+    "id": "108241774",
+    "title": "Hassett's Fed chair candidacy received pushback from high-level people close to Trump, sources say",
+    "link": "https://www.cnbc.com/2025/12/15/hassetts-fed-chair-candidacy-received-pushback-from-high-level-people-close-to-trump-sources-say.html",
+    "published": "Mon, 15 Dec 2025 18:57:41 GMT"
+  },
+  {
+    "id": "108242029",
+    "title": "Baron Capital rolls out five active ETFs, SpaceX becomes the firm's biggest investment",
+    "link": "https://www.cnbc.com/2025/12/15/baron-capital-rolls-out-five-active-etfs-spacex-becomes-the-firms-biggest-investment-.html",
+    "published": "Mon, 15 Dec 2025 21:20:41 GMT"
+  },
+  {
+    "id": "108241909",
+    "title": "OpenAI poaches Google executive to lead corporate development",
+    "link": "https://www.cnbc.com/2025/12/15/openai-poaches-google-executive-to-lead-corporate-development.html",
+    "published": "Mon, 15 Dec 2025 19:03:16 GMT"
+  },
+  {
+    "id": "108241899",
+    "title": "Ukraine peace talks progressing, Russia open to EU membership, U.S. officials say",
+    "link": "https://www.cnbc.com/2025/12/15/ukraine-peace-talks-russia-eu-us-trump.html",
+    "published": "Mon, 15 Dec 2025 22:29:46 GMT"
+  },
+  {
+    "id": "108240704",
+    "title": "FDA approved a $250,000 Singapore work trip during government shutdown, records show",
+    "link": "https://www.cnbc.com/2025/12/15/fda-staff-trip-singapore-government-shutdown.html",
+    "published": "Mon, 15 Dec 2025 13:00:01 GMT"
+  },
+  {
+    "id": "108241787",
+    "title": "How surprise year-end income could derail your tax strategy \u2014 and how to plan for it",
+    "link": "https://www.cnbc.com/2025/12/15/capital-gains-bracket.html",
+    "published": "Mon, 15 Dec 2025 20:42:08 GMT"
+  },
+  {
+    "id": "108241953",
+    "title": "Former Instacart employee says she was fired over her Democratic congressional campaign",
+    "link": "https://www.cnbc.com/2025/12/15/instacart-lawsuit-congress-campaign-trump.html",
+    "published": "Mon, 15 Dec 2025 19:57:28 GMT"
+  },
+  {
+    "id": "108241925",
+    "title": "Former iRobot CEO calls Roomba maker's bankruptcy 'a tragedy for consumers'",
+    "link": "https://www.cnbc.com/2025/12/15/former-irobot-ceo-calls-roomba-makers-bankruptcy-a-tragedy.html",
+    "published": "Mon, 15 Dec 2025 21:23:17 GMT"
+  },
+  {
+    "id": "108239421",
+    "title": "45% of Gen Z adults say they would be happy to receive crypto as a gift this holiday season\u2014here's what experts say",
+    "link": "https://www.cnbc.com/2025/12/15/gifting-crypto-this-holiday-season-what-experts-say-to-know-first.html",
+    "published": "Mon, 15 Dec 2025 19:03:23 GMT"
+  },
+  {
+    "id": "108241480",
+    "title": "Palantir CIO Jim Siders leaves to become head of Thrive's new IT services business",
+    "link": "https://www.cnbc.com/2025/12/15/palantir-cio-jim-siders-leaves-for-thrive-capitals-shield-technology.html",
+    "published": "Mon, 15 Dec 2025 17:32:03 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251215084222.htm",
+    "title": "Hidden dimensions could explain where mass comes from",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251215084222.htm",
+    "published": "Mon, 15 Dec 2025 10:13:41 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251215084209.htm",
+    "title": "Why consciousness exists at all",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251215084209.htm",
+    "published": "Mon, 15 Dec 2025 10:29:52 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251215084155.htm",
+    "title": "AI found a way to stop a virus before it enters cells",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251215084155.htm",
+    "published": "Mon, 15 Dec 2025 09:45:33 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251215025319.htm",
+    "title": "New orbital clue reveals how hot Jupiters really formed",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251215025319.htm",
+    "published": "Mon, 15 Dec 2025 04:13:38 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251214100924.htm",
+    "title": "Anxiety and insomnia linked to sharp drops in key immune cells",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251214100924.htm",
+    "published": "Mon, 15 Dec 2025 05:47:43 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251214100921.htm",
+    "title": "Researchers find how plants survive without sunlight or sex",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251214100921.htm",
+    "published": "Sun, 14 Dec 2025 23:45:55 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251214100911.htm",
+    "title": "Researchers identify viral suspects that could be fueling long COVID",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251214100911.htm",
+    "published": "Sun, 14 Dec 2025 22:36:14 EST"
+  },
+  {
+    "id": "https://quill-os.org/",
+    "title": "Quill OS \u2013 an open-source, fully-functional standalone OS for Kobo eReaders",
+    "link": "https://quill-os.org/",
+    "published": "Tue, 16 Dec 2025 00:22:41 +0000"
+  },
+  {
+    "id": "https://johnlian.net/posts/hdmi-cec/",
+    "title": "Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable",
+    "link": "https://johnlian.net/posts/hdmi-cec/",
+    "published": "Mon, 15 Dec 2025 21:37:09 +0000"
+  },
+  {
+    "id": "https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find",
+    "title": "Ideas Aren't Getting Harder to Find",
+    "link": "https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find",
+    "published": "Tue, 16 Dec 2025 00:34:35 +0000"
+  },
+  {
+    "id": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
+    "title": "Nature's many attempts to evolve a Nostr",
+    "link": "https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a",
+    "published": "Wed, 10 Dec 2025 23:54:34 +0000"
+  },
+  {
+    "id": "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/",
+    "title": "\u201cAre you the one?\u201d is free money",
+    "link": "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/",
+    "published": "Fri, 12 Dec 2025 06:47:45 +0000"
+  },
+  {
+    "id": "https://seths.blog/2025/12/understanding-carriage/",
+    "title": "Understanding Carriage",
+    "link": "https://seths.blog/2025/12/understanding-carriage/",
+    "published": "Thu, 11 Dec 2025 00:11:32 +0000"
+  },
+  {
+    "id": "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf",
+    "title": "Essential Semiconductor Physics [pdf]",
+    "link": "https://nanohub.org/resources/43623/download/Essential_Semiconductor_Physics.pdf",
+    "published": "Sat, 13 Dec 2025 18:19:51 +0000"
+  },
+  {
+    "id": "https://umbrel.com",
+    "title": "Umbrel \u2013 Personal Cloud",
+    "link": "https://umbrel.com",
+    "published": "Mon, 15 Dec 2025 19:27:08 +0000"
+  },
+  {
+    "id": "https://questdb.com/blog/async-profiler-kernel-bug/",
+    "title": "A kernel bug froze my machine: Debugging an async-profiler deadlock",
+    "link": "https://questdb.com/blog/async-profiler-kernel-bug/",
+    "published": "Mon, 15 Dec 2025 20:52:35 +0000"
+  },
+  {
+    "id": "https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one",
+    "title": "The Bob Dylan Concert for Just One Person",
+    "link": "https://www.flaggingdown.com/p/the-bob-dylan-concert-for-just-one",
+    "published": "Tue, 16 Dec 2025 00:18:58 +0000"
+  },
+  {
+    "id": "https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/",
+    "title": "Ford kills the All-Electric F-150",
+    "link": "https://www.wired.com/story/ford-kills-electric-f-150-lightning-for-hybrid/",
+    "published": "Mon, 15 Dec 2025 21:46:53 +0000"
+  },
+  {
+    "id": "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/",
+    "title": "JetBlue flight averts mid-air collision with US Air Force jet",
+    "link": "https://www.reuters.com/world/americas/jetblue-flight-averts-mid-air-collision-with-us-air-force-jet-2025-12-15/",
+    "published": "Mon, 15 Dec 2025 22:48:56 +0000"
+  },
+  {
+    "id": "https://hpjansson.org/chafa/",
+    "title": "Chafa: Terminal Graphics for the 21st Century",
+    "link": "https://hpjansson.org/chafa/",
+    "published": "Mon, 15 Dec 2025 18:16:34 +0000"
+  },
+  {
+    "id": "https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code",
+    "title": "In Defense of Matlab Code",
+    "link": "https://runmat.org/blog/in-defense-of-matlab-whiteboard-style-code",
+    "published": "Fri, 12 Dec 2025 20:13:26 +0000"
+  },
+  {
+    "id": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys",
+    "title": "Avoid UUID Version 4 Primary Keys in Postgres",
+    "link": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys",
+    "published": "Mon, 15 Dec 2025 10:08:02 +0000"
+  },
+  {
+    "id": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
+    "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
+    "link": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
+    "published": "Mon, 15 Dec 2025 21:24:06 +0000"
+  },
+  {
+    "id": "https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873",
+    "title": "Upcoming Changes to Let's Encrypt Certificates",
+    "link": "https://community.letsencrypt.org/t/upcoming-changes-to-let-s-encrypt-certificates/243873",
+    "published": "Mon, 15 Dec 2025 19:30:22 +0000"
+  },
+  {
+    "id": "https://www.science.org/doi/10.1126/sciadv.adx7892",
+    "title": "Cosmic-ray bath in a past supernova gives birth to Earth-like planets",
+    "link": "https://www.science.org/doi/10.1126/sciadv.adx7892",
+    "published": "Mon, 15 Dec 2025 17:01:42 +0000"
+  },
+  {
+    "id": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
+    "title": "\u201cSuper secure\u201d messaging app leaks everyone's phone number",
+    "link": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/",
+    "published": "Mon, 15 Dec 2025 19:23:51 +0000"
+  },
+  {
+    "id": "https://support.google.com/websearch/answer/16767242?hl=en",
+    "title": "We are discontinuing the dark web report",
+    "link": "https://support.google.com/websearch/answer/16767242?hl=en",
+    "published": "Mon, 15 Dec 2025 14:56:02 +0000"
+  },
+  {
+    "id": "https://arxiv.org/abs/2512.11146",
+    "title": "A quarter of US-trained scientists eventually leave",
+    "link": "https://arxiv.org/abs/2512.11146",
+    "published": "Mon, 15 Dec 2025 20:25:18 +0000"
+  },
+  {
+    "id": "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt",
+    "title": "I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me",
+    "link": "https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt",
+    "published": "Mon, 15 Dec 2025 12:12:24 +0000"
+  },
+  {
+    "id": "https://relaxing.run/blag/posts/top-gun-landing/",
+    "title": "Carrier Landing in Top Gun for the NES",
+    "link": "https://relaxing.run/blag/posts/top-gun-landing/",
+    "published": "Mon, 15 Dec 2025 14:16:32 +0000"
+  },
+  {
+    "id": "https://blog.vaxry.net/articles/2025-dbusSucks",
+    "title": "Problems with D-Bus on the Linux desktop",
+    "link": "https://blog.vaxry.net/articles/2025-dbusSucks",
+    "published": "Mon, 15 Dec 2025 19:07:10 +0000"
+  },
+  {
+    "id": "https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3",
+    "title": "It seems that OpenAI is scraping [certificate transparency] logs",
+    "link": "https://benjojo.co.uk/u/benjojo/h/Gxy2qrCkn1Y327Y6D3",
+    "published": "Mon, 15 Dec 2025 13:48:03 +0000"
+  },
+  {
+    "id": "https://www.youtube.com/watch?v=EvTolqbCHXo",
+    "title": "The Optics and Image Processing Behind Fundus Cameras",
+    "link": "https://www.youtube.com/watch?v=EvTolqbCHXo",
+    "published": "Wed, 10 Dec 2025 18:29:28 +0000"
+  },
+  {
+    "id": "https://www.udp7777.com/",
+    "title": "Show HN: A pager",
+    "link": "https://www.udp7777.com/",
+    "published": "Sun, 14 Dec 2025 17:10:08 +0000"
+  },
+  {
+    "id": "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/",
+    "title": "SoundCloud has banned VPN access",
+    "link": "https://old.reddit.com/r/SoundCloudMusic/comments/1pltd19/soundcloud_just_banned_vpn_access/",
+    "published": "Mon, 15 Dec 2025 02:51:24 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/virtual-power-plant-litmus",
+    "title": "Virtual Power Plants Play the Imitation Game",
+    "link": "https://spectrum.ieee.org/virtual-power-plant-litmus",
+    "published": "Mon, 15 Dec 2025 23:03:43 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/virtual-synchronous-machines",
+    "title": "Could This Technology Prevent Blackouts?",
+    "link": "https://spectrum.ieee.org/virtual-synchronous-machines",
+    "published": "Mon, 15 Dec 2025 19:15:36 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/remembering-lyle-feisel",
+    "title": "Remembering Influential Engineering Educator Lyle Feisel",
+    "link": "https://spectrum.ieee.org/remembering-lyle-feisel",
+    "published": "Mon, 15 Dec 2025 19:00:02 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3076284",
+    "title": "VCs discuss why most consumer AI startups still lack staying power",
+    "link": "https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/",
+    "published": "Tue, 16 Dec 2025 00:22:07 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075995",
+    "title": "OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation",
+    "link": "https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/",
+    "published": "Mon, 15 Dec 2025 23:41:26 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3076050",
+    "title": "I hate that I love Riverside\u2019s AI-driven \u2018Rewind\u2019 for podcasters",
+    "link": "https://techcrunch.com/2025/12/15/i-hate-that-i-love-riversides-ai-driven-rewind-for-podcasters/",
+    "published": "Mon, 15 Dec 2025 22:53:12 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3076160",
+    "title": "Disney\u2019s OpenAI deal is exclusive for just one year \u2014 then it\u2019s open season",
+    "link": "https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/",
+    "published": "Mon, 15 Dec 2025 22:17:36 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3076166",
+    "title": "Nvidia\u00a0bulks up\u00a0open source offerings with an acquisition and new open AI models",
+    "link": "https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/",
+    "published": "Mon, 15 Dec 2025 22:00:57 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3076153",
+    "title": "Ford is starting a battery storage business to power data centers and the grid",
+    "link": "https://techcrunch.com/2025/12/15/ford-is-starting-a-battery-storage-business-to-power-data-centers-and-the-grid/",
+    "published": "Mon, 15 Dec 2025 21:17:45 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3076127",
+    "title": "Ford\u2019s next F-150 Lightning will have a gas generator as it\u00a0pivots away from large EVs",
+    "link": "https://techcrunch.com/2025/12/15/fords-next-f-150-lightning-will-have-a-gas-generator-as-it-pivots-away-from-large-evs/",
+    "published": "Mon, 15 Dec 2025 21:05:03 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3076085",
+    "title": "Creative Commons announces tentative support for AI \u2018pay-to-crawl\u2019 systems",
+    "link": "https://techcrunch.com/2025/12/15/creative-commons-announces-tentative-support-for-ai-pay-to-crawl-systems/",
+    "published": "Mon, 15 Dec 2025 20:54:54 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3076110",
+    "title": "Lightspeed raises record $9B in fresh capital",
+    "link": "https://techcrunch.com/2025/12/15/lightspeed-raises-record-9b-in-fresh-capital/",
+    "published": "Mon, 15 Dec 2025 20:32:33 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075979",
+    "title": "Merriam-Webster names \u2018slop\u2019 the word of the year",
+    "link": "https://techcrunch.com/2025/12/15/merriam-webster-names-slop-the-word-of-the-year/",
+    "published": "Mon, 15 Dec 2025 19:47:53 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3076072",
+    "title": "Google\u2019s \u2018dark web report\u2019 feature will no longer be available starting in February",
+    "link": "https://techcrunch.com/2025/12/15/googles-dark-web-report-feature-will-no-longer-be-available-starting-in-february/",
+    "published": "Mon, 15 Dec 2025 19:19:18 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075952",
+    "title": "Gift guide: TechCrunch\u2019s favorite things",
+    "link": "https://techcrunch.com/2025/12/15/gift-guide-techcrunchs-favorite-things/",
+    "published": "Mon, 15 Dec 2025 18:41:35 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075839",
+    "title": "Threads adds new communities, tests badges for highly engaged members",
+    "link": "https://techcrunch.com/2025/12/15/threads-adds-new-communities-tests-badges-for-highly-engaged-members/",
+    "published": "Mon, 15 Dec 2025 18:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075970",
+    "title": "Lidar-maker Luminar files for bankruptcy",
+    "link": "https://techcrunch.com/2025/12/15/lidar-maker-luminar-files-for-bankruptcy/",
+    "published": "Mon, 15 Dec 2025 17:34:55 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075900",
+    "title": "Zoom brings its AI assistant to the web with access to free users",
+    "link": "https://techcrunch.com/2025/12/15/zoom-brings-its-ai-assistant-to-the-web-with-access-to-free-users/",
+    "published": "Mon, 15 Dec 2025 16:58:46 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075909",
+    "title": "Netflix responds to concerns about WBD deal",
+    "link": "https://techcrunch.com/2025/12/15/netflix-responds-to-concerns-about-wbd-deal/",
+    "published": "Mon, 15 Dec 2025 16:28:06 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075908",
+    "title": "Facebook Messenger\u2019s desktop app is no more",
+    "link": "https://techcrunch.com/2025/12/15/facebook-messengers-desktop-app-is-no-more/",
+    "published": "Mon, 15 Dec 2025 16:26:56 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075859",
+    "title": "Tesla starts testing robotaxis in Austin with no safety driver",
+    "link": "https://techcrunch.com/2025/12/15/tesla-starts-testing-robotaxis-in-austin-with-no-safety-driver/",
+    "published": "Mon, 15 Dec 2025 15:16:26 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075869",
+    "title": "Snapchat rolls out its end-of-year Recaps",
+    "link": "https://techcrunch.com/2025/12/15/snapchat-rolls-out-its-end-of-year-recaps/",
+    "published": "Mon, 15 Dec 2025 15:13:49 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3075846",
+    "title": "First Voyage raises $2.5M for its AI companion that helps you build habits",
+    "link": "https://techcrunch.com/2025/12/15/first-voyage-raises-2-5m-for-its-ai-companion-helps-you-build-habits/",
+    "published": "Mon, 15 Dec 2025 14:48:24 +0000"
+  },
+  {
+    "id": "694058af8865ab033a9b8907",
+    "title": "Which AI Inning Are We In?",
+    "link": "https://paulkedrosky.com/which-ai-inning-are-we-in/",
+    "published": "Mon, 15 Dec 2025 20:12:31 GMT"
+  },
+  {
+    "id": "694003508865ab033a9b8662",
+    "title": "Kedrosky Daily: Largest cities shift to low income countries; bank credit share drops to thirteen percent",
+    "link": "https://paulkedrosky.com/kedrosky-daily-largest-cities-shift-to-low-income-countries-bank-credit-share-drops-to-thirteen-percent/",
+    "published": "Mon, 15 Dec 2025 12:47:13 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92047",
+    "title": "Markets in everything?",
+    "link": "https://feeds.feedblitz.com/~/934855568/0/marginalrevolution~Markets-in-everything.html",
+    "published": "Mon, 15 Dec 2025 19:35:48 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92045",
+    "title": "Monday assorted links",
+    "link": "https://feeds.feedblitz.com/~/934851263/0/marginalrevolution~Monday-assorted-links.html",
+    "published": "Mon, 15 Dec 2025 17:14:03 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92052",
+    "title": "Growth Matters",
+    "link": "https://feeds.feedblitz.com/~/934835051/0/marginalrevolution~Growth-Matters.html",
+    "published": "Mon, 15 Dec 2025 12:18:30 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92048",
+    "title": "Cats, dogs, and babies, in Taiwan",
+    "link": "https://feeds.feedblitz.com/~/934746074/0/marginalrevolution~Cats-dogs-and-babies-in-Taiwan.html",
+    "published": "Mon, 15 Dec 2025 08:35:10 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92028",
+    "title": "Is involuntary hospitalization working?",
+    "link": "https://feeds.feedblitz.com/~/934651352/0/marginalrevolution~Is-involuntary-hospitalization-working.html",
+    "published": "Mon, 15 Dec 2025 05:31:54 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=157292",
+    "title": "The Year in Biology",
+    "link": "https://www.quantamagazine.org/the-year-in-biology-20251215/",
+    "published": "Mon, 15 Dec 2025 15:45:05 +0000"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251215025317.htm",
+    "title": "Light-printed electrodes turn skin and clothing into sensors",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251215025317.htm",
+    "published": "Mon, 15 Dec 2025 03:47:05 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251215025315.htm",
+    "title": "Cannabis compounds show unexpected power against ovarian cancer",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251215025315.htm",
+    "published": "Mon, 15 Dec 2025 03:22:06 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251214100940.htm",
+    "title": "Mayo Clinic neurosurgeon reveals 8 back pain myths to stop believing",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251214100940.htm",
+    "published": "Mon, 15 Dec 2025 01:55:23 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251214100933.htm",
+    "title": "These simple habits could make your brain 8 years younger, study finds",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251214100933.htm",
+    "published": "Mon, 15 Dec 2025 08:26:34 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251214100928.htm",
+    "title": "New study shows some plant-based diets may raise heart disease risk",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251214100928.htm",
+    "published": "Mon, 15 Dec 2025 08:55:31 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251214100919.htm",
+    "title": "Indoor tanning triples melanoma risk and seeds broad DNA mutations",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251214100919.htm",
+    "published": "Mon, 15 Dec 2025 00:10:33 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2025/12/251214100916.htm",
+    "title": "Stem cell pain sponge soaks up osteoarthritis joint pain and protects cartilage",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251214100916.htm",
+    "published": "Mon, 15 Dec 2025 00:37:44 EST"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3163751",
+    "title": "How to levitate objects sans magic",
+    "link": "https://www.sciencenews.org/article/levitate-magnets-electricity-sound",
+    "published": "Mon, 15 Dec 2025 16:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3163387",
+    "title": "Dark matter \u2018nuggets\u2019 could explain the Milky Way\u2019s mysterious glow",
+    "link": "https://www.sciencenews.org/article/dark-matter-nuggets-milky-way-glow",
+    "published": "Mon, 15 Dec 2025 14:00:00 +0000"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215a.htm",
+    "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215a.htm",
+    "published": "Mon, 15 Dec 2025 16:00:00 GMT"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215b.htm",
+    "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251215b.htm",
+    "published": "Mon, 15 Dec 2025 16:00:00 GMT"
+  }
+]

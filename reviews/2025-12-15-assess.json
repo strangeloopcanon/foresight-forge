@@ -1,0 +1,45 @@
+{
+  "date": "2025-12-15",
+  "assessments": [
+    {
+      "id": "0ab35648-785d-4de2-9320-ed786fdb6e27",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items include general tech/AI and market news but nothing indicating ServiceNow has announced (or is about to announce) a definitive agreement to acquire Armis. No acquisition announcement evidence is present."
+    },
+    {
+      "id": "32d9a86c-2246-4b7f-9a1f-6b4792dc1fa3",
+      "status": "pending",
+      "status_rationale": "No referenced news about iRobot, bankruptcy proceedings, or any disclosed signed sale agreement (press release/SEC filing). The prediction remains unresolved."
+    },
+    {
+      "id": "285a631e-0b8b-490d-b964-ea053e02e416",
+      "status": "pending",
+      "status_rationale": "The Ukraine/Russia bullets focus on military developments and intelligence warnings, not a publicly confirmed direct meeting between official delegations. No meeting confirmation is cited."
+    },
+    {
+      "id": "92ca7b69-44c2-44c5-9749-0073d0403fbf",
+      "status": "pending",
+      "status_rationale": "Australia-related coverage concerns the Bondi Beach shooting and potential gun-law changes. Nothing indicates the federal government has tabled (introduced) a bill specifically targeting online misinformation/deepfakes or violent-extremist content amplification."
+    },
+    {
+      "id": "68000fc4-e49a-49e9-8efa-64d16decda8e",
+      "status": "pending",
+      "status_rationale": "No news items address Chilean politics or legislative actions. There is no evidence regarding submission of an executive-sponsored public security/anti-crime package to the National Congress."
+    },
+    {
+      "id": "336b58fb-0f2b-402d-bfd9-c1a218532c75",
+      "status": "pending",
+      "status_rationale": "No defense procurement or U.S. Navy contracting announcements are included in today\u2019s bullets; specifically, nothing about a new $1.0B+ shipbuilding-related contract award."
+    },
+    {
+      "id": "def9f186-580e-40c3-bb63-c1261d3c965a",
+      "status": "needs-clarification",
+      "status_rationale": "A bullet references Asia-Pacific markets and the KOSPI but does not provide the closing level or confirm a close at/below 2,500. Without the actual close data, the outcome cannot be updated."
+    },
+    {
+      "id": "b155360a-2389-425b-83d9-166e0dc94df0",
+      "status": "pending",
+      "status_rationale": "The AI/tech bullets discuss financing, infrastructure, and risk offloading, but none mention any hyperscaler (AWS/Azure/Google Cloud) announcing a pilot or customer availability for glass-based archival storage media."
+    }
+  ]
+}

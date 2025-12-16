@@ -1346,3 +1346,12 @@ The only thematic overlap is the Syria/ISIS-related reporting, but it concerns a
 
 ---
 
+
+## 2025-12-15
+
+Today’s news set does not contain direct, decision-grade signals for most of the long-horizon predictions (M&A, bankruptcy asset sale, diplomatic meeting, legislative tabling, major defense contracting, or hyperscaler storage announcements). The closest thematic links are the Ukraine/Russia military updates and Australian domestic-policy coverage, but neither provides the specific confirmatory event required by the corresponding forecast questions.
+
+The only item that brushes against an explicit measurable criterion is the reference to Asia-Pacific markets including KOSPI; however, the bullet lacks the necessary closing level to verify whether the index closed at or below 2,500 on a given day. As a result, most forecasts remain pending, with one flagged as needing clarification due to missing quantitative detail rather than contrary evidence.
+
+---
+

@@ -1,0 +1,168 @@
+{
+  "date": "2025-12-16",
+  "predictions": [
+    {
+      "text": "The EU Council will renew (extend) the EU\u2019s sectoral economic sanctions on Russia by 2026-01-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 46,
+      "deadline": "2026-01-31",
+      "confidence_pct": 78,
+      "verification_criteria": "Resolves YES if the Council of the European Union (or European Council) issues a press release/Official Journal notice stating the renewal/extension of Russia-related sectoral economic restrictive measures on or before 2026-01-31 (UTC). Otherwise NO.",
+      "evidence": [
+        "U.K. intelligence warns Russia is escalating destabilization across Europe, which typically sustains EU political support for continued sanctions: https://www.nytimes.com/2025/12/15/world/europe/uk-mi6-russia-chaos.html",
+        "U.S. officials say Ukraine peace talks are progressing but uncertainty remains; sanctions are often renewed absent a finalized settlement: https://www.cnbc.com/2025/12/15/ukraine-peace-talks-russia-eu-us-trump.html"
+      ],
+      "monitoring_signals": [
+        "Council of the EU press releases on Russia restrictive measures",
+        "EU Official Journal (L series) for renewal regulations/decisions",
+        "European Commission/Council calendar items related to Foreign Affairs Council"
+      ],
+      "rationale": "EU sanctions renewals are routine and politically easier than lifting them; current security warnings support continuation through the next renewal window.",
+      "id": "4fdc6c34-d26f-426d-bf55-526028c41fde",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "The U.S. Treasury Monthly Statement will report Customs Duties (tariff receipts) of at least $20.0B in at least one month by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 105,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if any Treasury Monthly Statement for a month ending on or before 2026-03-31 shows Customs Duties (or equivalent line item) >= $20.0B (not cumulative FYTD). Otherwise NO.",
+      "evidence": [
+        "Customs says tariff collections hit $200B under Trump policy, indicating elevated run-rate receipts: https://www.cnbc.com/2025/12/15/trump-tariffs-trade-customs-imports.html"
+      ],
+      "monitoring_signals": [
+        "U.S. Treasury Monthly Statement (receipts table) releases",
+        "CBP monthly trade/tariff collection commentary",
+        "Any announced tariff rate or coverage changes affecting near-term receipts"
+      ],
+      "rationale": "With reported elevated tariff collections, a $20B monthly print is plausible during seasonal import surges or if tariff coverage expands.",
+      "id": "877f20c2-8530-4dd2-852e-43c9c7f41745",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The ICE BofA MOVE Index will close at or below 75.0 on at least one trading day by 2026-03-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 105,
+      "deadline": "2026-03-31",
+      "confidence_pct": 48,
+      "verification_criteria": "Resolves YES if the ICE BofA MOVE Index closing value is <= 75.0 on any trading day on or before 2026-03-31 (UTC). Otherwise NO.",
+      "evidence": [
+        "Two Fed officials signaling inflation risks look contained supports lower rate volatility regimes: https://www.marketwatch.com/story/two-fed-officials-who-rarely-agree-both-say-inflation-will-not-be-a-problem-going-forward-f5425178"
+      ],
+      "monitoring_signals": [
+        "Daily MOVE index closes",
+        "Fed communications shifting expected policy path",
+        "Inflation surprises (CPI/PCE) affecting rate vol"
+      ],
+      "rationale": "If disinflation narrative holds and cuts remain on the table, rate vol can compress into mid-70s, though policy uncertainty caps confidence.",
+      "id": "364f9212-06fc-45de-848e-484ca19a1298",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "PayPal will publicly disclose that U.S. regulators have either approved or denied its application to form a U.S. bank by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 196,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if PayPal (press release, SEC filing, or earnings call transcript) or a U.S. regulator (e.g., OCC/Fed/FDIC) publicly states an approval or denial decision on PayPal\u2019s bank formation application on or before 2026-06-30 (UTC). Otherwise NO.",
+      "evidence": [
+        "PayPal applied to form a U.S. bank, creating a clear regulatory decision point: https://www.cnbc.com/2025/12/15/paypal-seeks-us-approval-to-form-bank-offer-small-business-loans.html"
+      ],
+      "monitoring_signals": [
+        "OCC charter application decisions and notices",
+        "PayPal 10-Q/10-K and earnings call Q&A",
+        "FDIC/Fed public orders if applicable"
+      ],
+      "rationale": "High-profile fintech bank applications often reach a public decision or disclosure within a few quarters, but timelines can slip.",
+      "id": "336b6e4e-0d05-4d14-a065-f5816cf90fe8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Ford\u2019s new battery storage business will announce at least one signed commercial contract (customer order or long-term agreement) for a data-center battery storage deployment of at least 50 MWh by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 196,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves YES if Ford (or the storage unit) publicly announces a signed customer contract explicitly tied to a data center with size >= 50 MWh on or before 2026-06-30 (UTC). Announcement must include customer/partner name or contract size. Otherwise NO.",
+      "evidence": [
+        "Ford is launching a battery storage business targeting data centers and grid services: https://techcrunch.com/2025/12/15/ford-is-starting-a-battery-storage-business-to-power-data-centers-and-the-grid/",
+        "Ford is scaling back EV plans, increasing incentives to monetize adjacent electrification capabilities like stationary storage: https://www.cnbc.com/2025/12/15/ford-ev-pullback.html"
+      ],
+      "monitoring_signals": [
+        "Ford press releases and investor presentations mentioning stationary storage bookings",
+        "Data center operator announcements of storage procurements",
+        "Interconnection/permit filings indicating large behind-the-meter storage at data centers"
+      ],
+      "rationale": "Data-center power demand is strong, but contract size disclosure and execution speed for a new entrant make this a lower-confidence call.",
+      "id": "d3f91d03-7916-45d5-9c59-b707bab6ef3f",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Defense (or a DoD-controlled entity) will announce a finalized definitive investment agreement for the Korea Zinc Tennessee smelter project by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 105,
+      "deadline": "2026-03-31",
+      "confidence_pct": 61,
+      "verification_criteria": "Resolves YES if DoD (or an identified DoD investment vehicle) publicly announces execution of a definitive agreement (not just intent/MOU) to invest in the Korea Zinc Tennessee smelter project on or before 2026-03-31 (UTC). Otherwise NO.",
+      "evidence": [
+        "Pentagon taking ~10% stake highlights industrial-policy support and supply-chain de-risking for strategic metals: https://www.cnbc.com/2025/12/15/pentagon-korea-zinc-refinery-tennessee.html"
+      ],
+      "monitoring_signals": [
+        "DoD press releases (Industrial Base/OSD) and DPA-related announcements",
+        "Company filings/press releases from Korea Zinc or project SPV",
+        "Congressional notifications related to defense industrial investments"
+      ],
+      "rationale": "If a stake has been telegraphed, moving from concept to definitive documentation within a quarter is plausible for strategic-materials projects.",
+      "id": "298427ea-271d-4df9-9c08-ab30b5fbd673",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The Nasdaq-100 Index (NDX) will have at least one single trading day with a close-to-close decline of 3.0% or more by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 105,
+      "deadline": "2026-03-31",
+      "confidence_pct": 59,
+      "verification_criteria": "Resolves YES if NDX daily close shows a decline of >= 3.0% versus the prior trading day close on any day on or before 2026-03-31 (UTC). Otherwise NO.",
+      "evidence": [
+        "AI-infrastructure stocks sold off, raising the odds of further high-beta tech volatility: https://www.cnbc.com/2025/12/15/ai-infrastructure-selloff-continues-broadcom-oracle-coreweave-shares-slide.html",
+        "Asia-Pacific equities fell as the U.S.-led AI selloff spilled over, indicating broader risk-off sensitivity: https://www.cnbc.com/2025/12/16/asia-markets-nikkei-kospi-hang-seng-australia.html"
+      ],
+      "monitoring_signals": [
+        "Daily NDX returns",
+        "Earnings and guidance from mega-cap and AI infrastructure names",
+        "Realized/implicit equity volatility (VXN/QQQ IV) and liquidity conditions"
+      ],
+      "rationale": "A 3% down day is common in tech-heavy indices during valuation resets or macro surprises; recent AI-capex jitters increase probability.",
+      "id": "d7bd3387-aa68-4d6e-8d47-d0c6ff2b89b7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Russia will issue an official statement acknowledging a successful Ukrainian unmanned maritime/underwater attack causing material damage to a Russian naval submarine by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 105,
+      "deadline": "2026-03-31",
+      "confidence_pct": 18,
+      "verification_criteria": "Resolves YES if an official Russian government or Russian Navy/Defense Ministry communication (website, verified social channels, or state media citing MoD) explicitly acknowledges Ukrainian unmanned maritime/underwater systems damaged a Russian submarine on or before 2026-03-31 (UTC). Otherwise NO.",
+      "evidence": [
+        "Ukraine claims an underwater drone struck a Russian submarine, but confirmation/acknowledgment is uncertain: https://www.nytimes.com/2025/12/15/world/europe/ukraine-russia-submarine-drones.html"
+      ],
+      "monitoring_signals": [
+        "Russian MoD/Navy communications and incident reports",
+        "Independent OSINT confirmations that might pressure acknowledgment",
+        "Satellite imagery and reputable investigative reporting on submarine status"
+      ],
+      "rationale": "Even if damage occurred, official acknowledgment is politically costly; resolution requires explicit admission, making this low probability.",
+      "id": "4ea48e98-774e-4e8b-a688-6905d2127b8e",
+      "outcome": null,
+      "confidence_bin": "10-20"
+    }
+  ]
+}

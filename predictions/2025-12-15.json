@@ -20,7 +20,7 @@
       ],
       "rationale": "Talks can fail due to price, diligence, or antitrust, so probability is meaningfully below 50% despite credible reporting.",
       "id": "0ab35648-785d-4de2-9320-ed786fdb6e27",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Bankruptcy increases odds of an eventual sale, though outcomes can include stand-alone reorganization or liquidation without a signed sale agreement.",
       "id": "32d9a86c-2246-4b7f-9a1f-6b4792dc1fa3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Even with talk signals, domestic politics and battlefield dynamics often block direct delegation-level meetings on short horizons.",
       "id": "285a631e-0b8b-490d-b964-ea053e02e416",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "Political salience is high, but drafting, consultation, and coalition dynamics can delay formal introduction past the quarter.",
       "id": "92ca7b69-44c2-44c5-9749-0073d0403fbf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "rationale": "Given the stated political mandate around crime, a formal package submission is more likely than not within the first months in office.",
       "id": "68000fc4-e49a-49e9-8efa-64d16decda8e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rationale": "Base rates for large naval shipbuilding awards are high, especially across a full quarter, making this a relatively high-confidence operational forecast.",
       "id": "336b58fb-0f2b-402d-bfd9-c1a218532c75",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -148,7 +148,7 @@
       ],
       "rationale": "Downside tail risk exists, but the threshold may require a nontrivial shock or sustained risk-off period, keeping probability below 50%.",
       "id": "def9f186-580e-40c3-bb63-c1261d3c965a",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "30-40"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "rationale": "Technical feasibility is progressing, but hyperscalers are conservative about announcing media changes; many pilots remain undisclosed or limited to research partnerships.",
       "id": "b155360a-2389-425b-83d9-166e0dc94df0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]
