@@ -1,0 +1,45 @@
+{
+  "date": "2025-12-16",
+  "assessments": [
+    {
+      "id": "4fdc6c34-d26f-426d-bf55-526028c41fde",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets include an article about Ukraine security guarantees but do not report an EU Council decision renewing/ extending EU sectoral economic sanctions on Russia through 2026-01-31."
+    },
+    {
+      "id": "877f20c2-8530-4dd2-852e-43c9c7f41745",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets references the U.S. Treasury Monthly Statement or a month with Customs Duties at or above $20.0B."
+    },
+    {
+      "id": "364f9212-06fc-45de-848e-484ca19a1298",
+      "status": "pending",
+      "status_rationale": "No market data in the provided bullets reports the ICE BofA MOVE Index closing at or below 75.0 on any trading day."
+    },
+    {
+      "id": "336b6e4e-0d05-4d14-a065-f5816cf90fe8",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention PayPal disclosing regulatory approval or denial of an application to form a U.S. bank."
+    },
+    {
+      "id": "d3f91d03-7916-45d5-9c59-b707bab6ef3f",
+      "status": "pending",
+      "status_rationale": "No bullet reports Ford\u2019s battery storage business signing/announcing a commercial contract for a \u226550 MWh data-center battery storage deployment."
+    },
+    {
+      "id": "298427ea-271d-4df9-9c08-ab30b5fbd673",
+      "status": "pending",
+      "status_rationale": "There is no report in today\u2019s bullets of the DoD (or a DoD-controlled entity) announcing a finalized definitive investment agreement for the Korea Zinc Tennessee smelter project."
+    },
+    {
+      "id": "d7bd3387-aa68-4d6e-8d47-d0c6ff2b89b7",
+      "status": "pending",
+      "status_rationale": "None of the provided items states that the Nasdaq-100 (NDX) had a single-day close-to-close decline of 3.0% or more."
+    },
+    {
+      "id": "4ea48e98-774e-4e8b-a688-6905d2127b8e",
+      "status": "pending",
+      "status_rationale": "The bullets include general Ukraine-related coverage but do not indicate Russia issued an official statement acknowledging a successful Ukrainian unmanned maritime/underwater attack that materially damaged a Russian naval submarine."
+    }
+  ]
+}

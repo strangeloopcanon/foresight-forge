@@ -19,7 +19,7 @@
       ],
       "rationale": "EU sanctions renewals are routine and politically easier than lifting them; current security warnings support continuation through the next renewal window.",
       "id": "4fdc6c34-d26f-426d-bf55-526028c41fde",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "With reported elevated tariff collections, a $20B monthly print is plausible during seasonal import surges or if tariff coverage expands.",
       "id": "877f20c2-8530-4dd2-852e-43c9c7f41745",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "If disinflation narrative holds and cuts remain on the table, rate vol can compress into mid-70s, though policy uncertainty caps confidence.",
       "id": "364f9212-06fc-45de-848e-484ca19a1298",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "High-profile fintech bank applications often reach a public decision or disclosure within a few quarters, but timelines can slip.",
       "id": "336b6e4e-0d05-4d14-a065-f5816cf90fe8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -100,7 +100,7 @@
       ],
       "rationale": "Data-center power demand is strong, but contract size disclosure and execution speed for a new entrant make this a lower-confidence call.",
       "id": "d3f91d03-7916-45d5-9c59-b707bab6ef3f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "rationale": "If a stake has been telegraphed, moving from concept to definitive documentation within a quarter is plausible for strategic-materials projects.",
       "id": "298427ea-271d-4df9-9c08-ab30b5fbd673",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rationale": "A 3% down day is common in tech-heavy indices during valuation resets or macro surprises; recent AI-capex jitters increase probability.",
       "id": "d7bd3387-aa68-4d6e-8d47-d0c6ff2b89b7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -161,7 +161,7 @@
       ],
       "rationale": "Even if damage occurred, official acknowledgment is politically costly; resolution requires explicit admission, making this low probability.",
       "id": "4ea48e98-774e-4e8b-a688-6905d2127b8e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "10-20"
     }
   ]

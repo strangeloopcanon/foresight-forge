@@ -1,0 +1,118 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. November jobs report: payrolls +64,000; unemployment 4.6%, little changed\u2014signals soft but stable labor market after October decline.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/empsit_12162025.htm"
+    },
+    {
+      "text": "Fed ends enforcement actions against Goldman Sachs and Metropolitan Commercial Bank, reducing regulatory overhang and signaling remediation completion.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20251216a.htm"
+    },
+    {
+      "text": "U.S. crude settles at lowest since early 2021 on looming surplus, pressuring energy revenues and inflation expectations.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/16/crude-oil-prices-today.html"
+    },
+    {
+      "text": "Trump orders blockade of sanctioned Venezuelan oil tankers and labels Venezuela a terrorist regime, raising regional tensions and oil-market disruption risk.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2025/12/17/trump-orders-blockade-of-sanctioned-venezuelan-oil-tankers.html"
+    },
+    {
+      "text": "Trump expands travel ban/restrictions to 20 more countries, heightening diplomatic friction and potentially affecting immigration, tourism, and cross-border business flows.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/16/us/politics/trump-expanded-travel-ban.html"
+    },
+    {
+      "text": "Ukraine security plan emphasizes enhanced forces with U.S./European backing, implying long-term Western commitments and continued defense-industrial demand.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/16/world/europe/ukraine-security-guarantees-talks.html"
+    },
+    {
+      "text": "France passes welfare budget law, a rare legislative win that may reduce near-term political risk around fiscal governance.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/12/16/world/europe/france-budget-law-lecornu-macron.html"
+    },
+    {
+      "text": "Japan exports post fastest growth in nine months, beating expectations\u2014supports growth outlook and highlights resilience in external demand.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/17/japans-exports-imports-trade-data-november.html"
+    },
+    {
+      "text": "Trump signals strong consideration of cannabis rescheduling; pot stocks rally as investors price expanded medical research, banking access, and broader commercialization.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/pot-stocks-keep-blazing-after-trump-says-hes-very-strongly-looking-at-rescheduling-cannabis-73dca4fc"
+    },
+    {
+      "text": "Tesla shares hit record on robotaxi optimism, but California judge finds deceptive Autopilot/FSD marketing\u2014raising legal, regulatory, and reputational risks.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/16/california-judge-says-tesla-engaged-in-deceptive-autopilot-marketing-.html"
+    },
+    {
+      "text": "Waymo reportedly seeks $15B funding round, signaling escalating capital needs for autonomous mobility and sustained investor appetite despite long commercialization timelines.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/16/alphabet-owned-waymo-in-talks-to-raise-15-billion-in-funding.html"
+    },
+    {
+      "text": "Databricks raises $4B at $134B valuation, underscoring robust private-market pricing for enterprise AI data platforms.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/"
+    },
+    {
+      "text": "Pfizer cuts revenue forecast and offers modest 2026 outlook, highlighting near-term earnings pressure while large acquisitions and pipeline bets mature.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/heres-why-pfizer-is-revising-its-revenue-forecasts-c6ed3e12"
+    },
+    {
+      "text": "Study suggests ~40% of fMRI signals may be non-neural artifacts, implying neuroscience findings may require recalibration and improved measurement/analysis methods.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity"
+    },
+    {
+      "text": "Quantum tensor-network methods may compress AI models, potentially lowering compute costs and energy use for training/inference if scalable to production workloads.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencenews.org/article/quantum-tensor-network-ai-model-relief"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "date": "2025-12-17",
+  "predictions": [
+    {
+      "text": "The U.S. government (Treasury/OFAC, DHS/Coast Guard, or another federal agency) will publish an official notice (press release or Federal Register) announcing new enforcement guidance, interdiction authority, or expanded sanctions specifically targeting Venezuelan crude/oil-product maritime shipments by 2026-01-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 45,
+      "deadline": "2026-01-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Resolves YES if by the deadline there is an official U.S. government publication (Treasury/OFAC press release, DHS/USCG statement, or Federal Register notice) that explicitly announces new or expanded enforcement/sanctions measures aimed at Venezuelan oil shipping (tankers, maritime transport, insurers, or facilitators).",
+      "evidence": [
+        "Recent reporting indicates the U.S. president ordered a blockade of sanctioned Venezuelan oil tankers and labeled Venezuela a terrorist regime, which commonly precedes formal enforcement or sanctions actions.",
+        "OFAC and related agencies frequently operationalize new policy stances via press releases, FAQs, or Federal Register actions."
+      ],
+      "monitoring_signals": [
+        "U.S. Treasury/OFAC press releases and FAQs mentioning Venezuela, PDVSA, tankers, shipping, or insurers",
+        "Federal Register notices referencing Venezuela sanctions, maritime enforcement, or interdiction rules",
+        "DHS/USCG advisories (MARAD, MSIBs) referencing Venezuela or sanctions compliance"
+      ],
+      "rationale": "High-profile policy signaling on Venezuelan oil shipping often leads to formal, citable guidance or sanctions/enforcement notices within weeks.",
+      "id": "0e34afff-3b95-4004-8c90-588c8d2c2a14",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one major marine insurer (e.g., NorthStandard, Gard, UK P&I Club) or top-tier tanker operator (e.g., Frontline, Euronav, Teekay, Angelicoussis group entity) will publicly announce a suspension/restriction of coverage or carriage specifically for Venezuela-related crude/oil-product voyages due to U.S. enforcement risk by 2026-02-28 (UTC).",
+      "category": "energy",
+      "horizon_days": 73,
+      "deadline": "2026-02-28",
+      "confidence_pct": 44,
+      "verification_criteria": "Resolves YES if a named major P&I club/insurer or a top-tier publicly visible tanker operator issues a public statement, circular, or filing explicitly restricting or suspending Venezuela-related voyages/coverage citing U.S. sanctions/enforcement risk.",
+      "evidence": [
+        "Reported escalation in U.S. posture toward Venezuelan oil tankers increases compliance risk for shippers and insurers.",
+        "Shipping/insurance firms commonly issue compliance circulars rapidly when sanctions enforcement tightens."
+      ],
+      "monitoring_signals": [
+        "P&I club circulars and compliance advisories referencing Venezuela",
+        "Operator press releases, investor calls, or filings referencing Venezuela exposure changes",
+        "Shipping intelligence reports noting insurance coverage withdrawals on Venezuela routes"
+      ],
+      "rationale": "Even limited U.S. enforcement escalation can trigger risk-avoidance behavior among insurers/operators active in sanctioned or high-risk trades.",
+      "id": "ccc5537b-b647-453f-897f-e71bde53b429",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures will settle at or below $60.00 per barrel on at least one trading day by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 104,
+      "deadline": "2026-03-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Resolves YES if the official settlement price of the NYMEX WTI (CL) front-month contract is <= 60.00 USD/bbl on any trading day on or before the deadline.",
+      "evidence": [
+        "Recent news reports indicate crude prices have fallen to the lowest since early 2021 on surplus concerns.",
+        "A surplus narrative can generate downside tail events even if the central path is higher."
+      ],
+      "monitoring_signals": [
+        "Daily NYMEX CL front-month settlement prices",
+        "EIA weekly inventory/production data and OPEC+ policy headlines",
+        "Global demand indicators (PMIs, freight, refining margins)"
+      ],
+      "rationale": "With crude already weak on surplus expectations, a further risk-off or inventory shock could plausibly push WTI through $60 at least once.",
+      "id": "9aa9bb21-7c35-4f91-85de-8b254e008cf1",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A U.S. federal court will issue a temporary restraining order (TRO) or preliminary injunction that blocks or pauses enforcement of at least one material part of the expanded U.S. travel restrictions affecting newly added countries by 2026-02-15 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 60,
+      "deadline": "2026-02-15",
+      "confidence_pct": 53,
+      "verification_criteria": "Resolves YES if a federal district court or appellate court issues a TRO or preliminary injunction (order on the docket) that explicitly blocks/pauses enforcement of at least one substantive provision of the newly expanded travel restrictions for at least one affected country/class of travelers.",
+      "evidence": [
+        "Recent expansion of travel restrictions to many countries increases the likelihood of rapid litigation by states, NGOs, and affected individuals.",
+        "Prior large-scale travel restrictions have historically faced immediate court challenges and interim relief requests."
+      ],
+      "monitoring_signals": [
+        "PACER filings and major civil-liberties litigation announcements",
+        "DOJ court filings and emergency motions",
+        "Implementation guidance from DHS/State that signals disputed provisions"
+      ],
+      "rationale": "Broad, fast-moving travel restrictions frequently prompt swift lawsuits where TROs/PI orders are plausible, even if later narrowed or stayed.",
+      "id": "6787d55c-394e-4ab0-8294-7d3db1f4c722",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Tesla will update consumer-facing Autopilot/FSD marketing language (website purchase flow or official product page) to remove or materially qualify at least one capability claim cited in the California deceptive-marketing ruling, by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 104,
+      "deadline": "2026-03-31",
+      "confidence_pct": 49,
+      "verification_criteria": "Resolves YES if Tesla changes its official Autopilot/FSD web pages or purchasing UI text in a way that removes or adds prominent qualifying language to a capability claim referenced in the ruling (as evidenced by archived page diffs/screenshots or reputable reporting citing the change).",
+      "evidence": [
+        "A California judge found Tesla engaged in deceptive Autopilot/FSD marketing, raising incentive to mitigate legal/regulatory exposure.",
+        "Companies commonly respond to adverse rulings with marketing copy revisions rather than immediate product changes."
+      ],
+      "monitoring_signals": [
+        "Tesla Autopilot/FSD product pages (archived diffs, Wayback, change trackers)",
+        "Tesla legal disclosures in 10-K/10-Q and regulator communications",
+        "Media reports on Tesla marketing and FSD labeling updates"
+      ],
+      "rationale": "Marketing language is a relatively low-cost lever for Tesla to reduce litigation risk following an adverse deceptive-marketing finding.",
+      "id": "d8e6151d-9e47-48b6-9820-40aff1210177",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Waymo will publicly confirm closing a new external funding round with disclosed proceeds of at least $10.0B by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 195,
+      "deadline": "2026-06-30",
+      "confidence_pct": 36,
+      "verification_criteria": "Resolves YES if Waymo/Alphabet or credible financial reporting confirms a closed financing round for Waymo with disclosed total new capital raised >= $10.0B (equity and/or primary capital), by the deadline.",
+      "evidence": [
+        "Recent reporting indicates Waymo is in talks to raise $15B, implying both need and investor interest.",
+        "Robotaxi scaling requires heavy capital for fleet, operations, and compute."
+      ],
+      "monitoring_signals": [
+        "Waymo/Alphabet press releases and SEC filings (if material)",
+        "Credible outlet reporting confirming round close and size (e.g., WSJ, Bloomberg, CNBC)",
+        "Secondary signals: hiring acceleration, fleet expansion announcements, new market launches"
+      ],
+      "rationale": "If negotiations are real and strategic investors remain interested, a large round could close within 6 months\u2014though sizing makes it uncertain.",
+      "id": "1879df90-779e-4629-8aa5-5c5b066d21fe",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Databricks will publicly file an S-1 (or confidentially submit a draft registration statement that it publicly acknowledges) for a U.S. IPO by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 195,
+      "deadline": "2026-06-30",
+      "confidence_pct": 32,
+      "verification_criteria": "Resolves YES if Databricks (1) publicly files an S-1 with the SEC, or (2) publicly announces it has confidentially submitted a draft registration statement for an IPO, by the deadline.",
+      "evidence": [
+        "Databricks recently raised $4B at a very high valuation, often a precursor to IPO readiness but not always immediate.",
+        "AI/data-platform leaders face strong public-market narratives when IPO windows reopen."
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR for Databricks filings",
+        "Company statements about IPO readiness/auditor changes/governance upgrades",
+        "IPO market conditions (volatility, tech IPO performance)"
+      ],
+      "rationale": "A major late-stage raise can bridge to an IPO; timing depends on market window and internal readiness, making this plausible but not likely.",
+      "id": "86a262b0-297c-4688-8672-8594d091eacd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The DEA will publish a final rule in the Federal Register rescheduling marijuana to Schedule III by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 104,
+      "deadline": "2026-03-31",
+      "confidence_pct": 37,
+      "verification_criteria": "Resolves YES if the Federal Register publishes a DEA final rule that reschedules marijuana to Schedule III on or before the deadline.",
+      "evidence": [
+        "Recent reporting indicates strong political consideration of cannabis rescheduling, increasing the chance of accelerated administrative action.",
+        "Final rules typically follow proposed rules with variable but sometimes rapid timelines under political priority."
+      ],
+      "monitoring_signals": [
+        "Federal Register search for DEA/cannabis/marijuana scheduling entries",
+        "DOJ/DEA press releases and OMB/OIRA regulatory agenda updates",
+        "Statements from HHS/DEA leadership or congressional oversight signals"
+      ],
+      "supersedes_id": "201de33a-6b2c-4edc-8642-4ecdc220cd2c",
+      "rationale": "Same outcome as prior forecast but with a shorter deadline reflecting increased political salience; still uncertain due to administrative and legal process risk.",
+      "id": "6779c1f2-41f5-452a-9d96-28cbc43fb4f7",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Unemployment Rate (seasonally adjusted) for February 2026 will print at or above 4.8%.",
+      "category": "macro",
+      "horizon_days": 83,
+      "deadline": "2026-03-10",
+      "confidence_pct": 41,
+      "verification_criteria": "Resolves YES if the BLS Employment Situation release for February 2026 reports U-3 unemployment rate (seasonally adjusted) >= 4.8%.",
+      "evidence": [
+        "Recent jobs report showed unemployment at 4.6% with weak payroll growth, consistent with gradual labor-market softening.",
+        "Labor-market turning points can push unemployment up in discrete steps."
+      ],
+      "monitoring_signals": [
+        "Weekly initial claims trend and continuing claims",
+        "Monthly payroll diffusion and hours worked",
+        "Business surveys (ISM employment components) and layoff announcements"
+      ],
+      "rationale": "Starting from 4.6%, a modest deterioration could reach 4.8% by February, but the labor market could also stabilize, keeping odds below 50%.",
+      "id": "39dcf203-2bb7-4fcd-9e04-3bab97f8aa4a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At the March 2026 FOMC meeting, the Federal Reserve will cut the federal funds target range by at least 25 basis points versus its level immediately before the meeting.",
+      "category": "rates",
+      "horizon_days": 91,
+      "deadline": "2026-03-18",
+      "confidence_pct": 39,
+      "verification_criteria": "Resolves YES if the FOMC announcement for the March 2026 meeting shows the target range upper bound reduced by >= 0.25 percentage points relative to the pre-meeting target range.",
+      "evidence": [
+        "Recent payroll growth appears weak and unemployment is drifting higher, increasing the probability of further easing after any earlier move.",
+        "However, inflation uncertainty can delay cuts even amid softer activity."
+      ],
+      "monitoring_signals": [
+        "Fed communication (speeches, SEP updates if applicable) and market-implied path (OIS/FF futures)",
+        "Inflation prints (CPI/PCE) and labor-market cooling indicators",
+        "Financial conditions indices and credit spreads"
+      ],
+      "rationale": "Softening labor data raises easing odds, but inflation and policy caution keep the probability under 50% for a specific meeting.",
+      "id": "ff7c467b-5e17-4a6e-a9ad-f47da55d2843",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
