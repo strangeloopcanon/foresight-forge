@@ -1,0 +1,117 @@
+{
+  "bullets": [
+    {
+      "text": "Fed withdraws 2023 guidance and issues new policy for Board-supervised banks to support responsible innovation, potentially easing fintech/crypto experimentation under supervision.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251217a.htm"
+    },
+    {
+      "text": "First post-shutdown CPI release is a key read on disinflation vs stickiness, shaping near-term rate-cut expectations and risk assets\u2019 sensitivity to surprises.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/12/17/novembers-inflation-report-is-the-first-to-be-released-after-the-shutdown.html"
+    },
+    {
+      "text": "Mortgage rates rose even after a Fed cut, depressing loan demand\u2014highlighting term-premium/credit-spread dynamics that can blunt monetary easing for households.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/17/mortgage-rates-moved-higher-after-fed-rate-cut.html"
+    },
+    {
+      "text": "Micron forecasts surging revenue as AI-driven memory demand stays strong, reinforcing semis\u2019 AI capex cycle and tight supply supporting pricing power.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/17/micron-q1-earnings-forecast-memory-demand-ai.html"
+    },
+    {
+      "text": "AI megacap stocks slide amid valuation and demand fears, signaling higher sensitivity to rates, capex payback timelines, and any slowdown in hyperscaler spending.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/why-nvidia-broadcom-and-other-ai-stocks-are-falling-sharply-25d35edd"
+    },
+    {
+      "text": "Oracle shares drop after Blue Owl exits funding a $10B data center, underscoring financing risk and potential cooling in aggressive AI-infrastructure buildouts.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/17/oracle-stock-blue-owl-michigan-data-center.html"
+    },
+    {
+      "text": "Instacart faces FTC scrutiny over an AI pricing tool, raising broader regulatory risk for algorithmic pricing and potential limits on automated price discrimination.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/17/instacart-sec-probe-pricing-tool.html"
+    },
+    {
+      "text": "Coinbase adds prediction markets and stock trading, accelerating convergence of crypto and traditional brokerage and increasing regulatory and competitive stakes in retail trading platforms.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/17/coinbase-prediction-markets-stock-trading-stablecoins.html"
+    },
+    {
+      "text": "Trump orders a Venezuela oil-tanker blockade; Venezuela escorts vessels. Oil rebounds, highlighting supply-disruption risk and potential escalation in U.S.-Venezuela tensions.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/17/crude-oil-prices-today.html"
+    },
+    {
+      "text": "Canada\u2019s population declines amid tightened immigration, implying weaker labor-force growth and potential drag on GDP, housing demand, and fiscal sustainability.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/17/world/canada/canada-population-decline-immigration.html"
+    },
+    {
+      "text": "Coursera agrees to combine with Udemy (~$2.5B), signaling consolidation in online learning as platforms reposition around AI-era workforce upskilling demand.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/12/17/coursera-and-udemy-enter-a-merger-agreement-valued-at-around-2-5b/"
+    },
+    {
+      "text": "U.S. plans largest nuclear buildout since the 1970s, potentially boosting grid reliability and decarbonization while intensifying demand for uranium, financing, and supply-chain capacity.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://spectrum.ieee.org/80-billion-us-nuclear-power"
+    },
+    {
+      "text": "New test may detect Alzheimer\u2019s before symptoms, a potential breakthrough for earlier intervention and a major catalyst for diagnostics markets and trial design.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251216081943.htm"
+    },
+    {
+      "text": "Google launches Gemini 3 Flash and makes it default, intensifying model competition focused on speed/cost and shaping enterprise inference economics and app-layer adoption.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://blog.google/products/gemini/gemini-3-flash/"
+    }
+  ]
+}

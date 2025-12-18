@@ -19,7 +19,7 @@
       ],
       "rationale": "High-profile policy signaling on Venezuelan oil shipping often leads to formal, citable guidance or sanctions/enforcement notices within weeks.",
       "id": "0e34afff-3b95-4004-8c90-588c8d2c2a14",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Even limited U.S. enforcement escalation can trigger risk-avoidance behavior among insurers/operators active in sanctioned or high-risk trades.",
       "id": "ccc5537b-b647-453f-897f-e71bde53b429",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "With crude already weak on surplus expectations, a further risk-off or inventory shock could plausibly push WTI through $60 at least once.",
       "id": "9aa9bb21-7c35-4f91-85de-8b254e008cf1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Broad, fast-moving travel restrictions frequently prompt swift lawsuits where TROs/PI orders are plausible, even if later narrowed or stayed.",
       "id": "6787d55c-394e-4ab0-8294-7d3db1f4c722",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Marketing language is a relatively low-cost lever for Tesla to reduce litigation risk following an adverse deceptive-marketing finding.",
       "id": "d8e6151d-9e47-48b6-9820-40aff1210177",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "If negotiations are real and strategic investors remain interested, a large round could close within 6 months\u2014though sizing makes it uncertain.",
       "id": "1879df90-779e-4629-8aa5-5c5b066d21fe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "A major late-stage raise can bridge to an IPO; timing depends on market window and internal readiness, making this plausible but not likely.",
       "id": "86a262b0-297c-4688-8672-8594d091eacd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -167,7 +167,7 @@
       "supersedes_id": "201de33a-6b2c-4edc-8642-4ecdc220cd2c",
       "rationale": "Same outcome as prior forecast but with a shorter deadline reflecting increased political salience; still uncertain due to administrative and legal process risk.",
       "id": "6779c1f2-41f5-452a-9d96-28cbc43fb4f7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Starting from 4.6%, a modest deterioration could reach 4.8% by February, but the labor market could also stabilize, keeping odds below 50%.",
       "id": "39dcf203-2bb7-4fcd-9e04-3bab97f8aa4a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -209,7 +209,7 @@
       ],
       "rationale": "Softening labor data raises easing odds, but inflation and policy caution keep the probability under 50% for a specific meeting.",
       "id": "ff7c467b-5e17-4a6e-a9ad-f47da55d2843",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

@@ -1,0 +1,194 @@
+{
+  "date": "2025-12-18",
+  "predictions": [
+    {
+      "text": "Coursera and Udemy will close (consummate) their announced merger transaction by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 286,
+      "deadline": "2026-09-30",
+      "confidence_pct": 65,
+      "log_odds": 0.619,
+      "verification_criteria": "Resolves YES if both companies (or the surviving entity) announce deal completion via press release and/or SEC filing (8-K, 6-K) dated on or before 2026-09-30 UTC; NO otherwise.",
+      "evidence": [
+        "TechCrunch reports Coursera agreed to combine with Udemy (~$2.5B), implying a signed merger agreement and typical multi-month close timeline: https://techcrunch.com/2025/12/17/coursera-and-udemy-enter-a-merger-agreement-valued-at-around-2-5b/"
+      ],
+      "monitoring_signals": [
+        "HSR/antitrust second-request announcements or early termination notices",
+        "Coursera/Udemy 8-K filings on shareholder votes and regulatory clearances",
+        "Material adverse effect disclosures or deal amendment press releases"
+      ],
+      "rationale": "Signed public merger agreements commonly close within 6\u201312 months, but education-platform overlap could trigger regulatory or shareholder delays.",
+      "id": "0c96d013-6f7a-4210-b072-71ff29c6a37b",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. Federal Trade Commission will file a formal complaint (federal court or administrative) or announce a settlement/order against Instacart related to algorithmic/AI pricing practices by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 194,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Resolves YES if the FTC publicly posts or announces (press release, docket, or federal court filing) a complaint and/or settlement/order naming Instacart and primarily concerning algorithmic/AI pricing; must be dated on or before 2026-06-30 UTC.",
+      "evidence": [
+        "CNBC notes FTC scrutiny of an AI pricing tool, increasing odds of escalation beyond inquiry: https://www.cnbc.com/2025/12/17/instacart-sec-probe-pricing-tool.html"
+      ],
+      "monitoring_signals": [
+        "FTC press releases mentioning Instacart, pricing algorithms, or unfair/deceptive pricing",
+        "PACER filings with FTC as plaintiff vs Instacart",
+        "Instacart disclosures about CIDs, subpoenas, or settlement talks in filings/press"
+      ],
+      "rationale": "Regulators are increasingly focused on algorithmic price discrimination, but many probes end without a public complaint or settle after longer timelines.",
+      "id": "3f45be2a-73a4-4959-a56a-31a7127cd563",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Coinbase will launch U.S. retail-accessible stock trading (ability for U.S.-based retail customers to place orders for U.S.-listed equities) by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 194,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Resolves YES if Coinbase publicly announces U.S. retail availability of stock trading (not just beta/waitlist) and the feature is accessible in the Coinbase app/site for U.S. retail users by 2026-06-30 UTC; NO otherwise.",
+      "evidence": [
+        "CNBC reports Coinbase adds prediction markets and stock trading, indicating active product build and regulatory/operational readiness efforts: https://www.cnbc.com/2025/12/17/coinbase-prediction-markets-stock-trading-stablecoins.html"
+      ],
+      "monitoring_signals": [
+        "Coinbase product announcements and updated fee schedules for equities",
+        "Broker-dealer/clearing partnerships disclosed by Coinbase",
+        "App store release notes and U.S. user enablement confirmations"
+      ],
+      "rationale": "Coinbase is expanding toward full-service brokerage, but U.S. equities require licensing/partners and could slip if regulators or infrastructure timelines extend.",
+      "id": "066e2b49-fe20-4b35-8615-f455210916ff",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Micron will report quarterly revenue of at least $9.0B in at least one earnings release issued by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 194,
+      "deadline": "2026-06-30",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Resolves YES if any Micron quarterly earnings press release dated on or before 2026-06-30 UTC reports GAAP (or non-GAAP, as presented as total revenue) revenue >= $9.0B for the reported quarter; NO otherwise.",
+      "evidence": [
+        "CNBC reports Micron forecasting surging revenue as AI-driven memory demand stays strong: https://www.cnbc.com/2025/12/17/micron-q1-earnings-forecast-memory-demand-ai.html"
+      ],
+      "monitoring_signals": [
+        "DRAM/NAND spot and contract pricing indices",
+        "Hyperscaler capex guidance updates",
+        "Micron earnings pre-announcements and segment commentary (HBM, data center)"
+      ],
+      "rationale": "AI memory demand and HBM ramp raise the chance of a $9B+ quarter, though cyclicality and supply additions remain key downside risks.",
+      "id": "40bcfb90-b73a-463e-872a-4d8f2ae88b3c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Oracle will publicly announce a new external financing partner or co-investor for its Michigan (formerly reported ~$10B) data center project by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 194,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Resolves YES if Oracle (or the project entity) issues a press release, investor presentation, or SEC filing naming a new financing partner/co-investor explicitly tied to the Michigan data center project, dated on or before 2026-06-30 UTC.",
+      "evidence": [
+        "CNBC reports Oracle shares dropped after Blue Owl exited funding a $10B data center, implying a need to reconstitute financing: https://www.cnbc.com/2025/12/17/oracle-stock-blue-owl-michigan-data-center.html"
+      ],
+      "monitoring_signals": [
+        "Oracle capex guidance changes and data center buildout commentary",
+        "Infrastructure fund announcements referencing Michigan/Oracle",
+        "Local permitting/utility filings showing continued build vs pause"
+      ],
+      "rationale": "Large AI-infrastructure projects often repackage financing after a partner exits, but higher rates and tighter underwriting could delay or shrink the deal.",
+      "id": "a8a7f46f-8e81-428a-89a6-355d6ac89e2d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Freddie Mac PMMS 30-year fixed mortgage rate will print at or above 7.00% in at least one weekly survey by 2026-03-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 103,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "Resolves YES if any Freddie Mac Primary Mortgage Market Survey (PMMS) weekly release dated on or before 2026-03-31 UTC reports the 30-year fixed rate >= 7.00%.",
+      "evidence": [
+        "CNBC highlights mortgage rates rose even after a Fed cut, pointing to term premium/credit spread dynamics: https://www.cnbc.com/2025/12/17/mortgage-rates-moved-higher-after-fed-rate-cut.html"
+      ],
+      "monitoring_signals": [
+        "10-year Treasury yield and MBS current-coupon spreads",
+        "Weekly PMMS prints and Mortgage News Daily rate tracking",
+        "Bank funding stress and mortgage originator margin changes"
+      ],
+      "rationale": "If term premium or MBS spreads widen, mortgage rates can rise despite policy easing, but a growth scare or rally in long rates would counteract.",
+      "id": "4a8fd278-1f23-426e-8a22-8465c3724411",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent crude oil front-month futures will settle at or above $85.00 per barrel on at least one trading day by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 103,
+      "deadline": "2026-03-31",
+      "confidence_pct": 33,
+      "log_odds": -0.709,
+      "verification_criteria": "Resolves YES if the official ICE Brent front-month settlement price is >= $85.00 on any trading day with settlement date on or before 2026-03-31 UTC (per ICE settlement data).",
+      "evidence": [
+        "CNBC reports U.S. action targeting Venezuelan oil tankers and escorting by Venezuela, highlighting supply-disruption risk: https://www.cnbc.com/2025/12/17/crude-oil-prices-today.html"
+      ],
+      "monitoring_signals": [
+        "Announced enforcement actions affecting Venezuelan exports",
+        "OPEC+ policy shifts and compliance data",
+        "OECD inventory levels and prompt time-spread steepening"
+      ],
+      "rationale": "Geopolitical supply risks can produce sharp price spikes, but weak demand or spare capacity offsets keep the probability below 50% over this horizon.",
+      "id": "a49c195c-5c01-4138-9c39-2a05dc285980",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Statistics Canada will report another quarter of negative population growth (quarter-over-quarter change < 0) in an official release published by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 194,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Resolves YES if any official Statistics Canada quarterly population estimates release published on or before 2026-06-30 UTC shows total population Q/Q change < 0 for the reported quarter; NO otherwise.",
+      "evidence": [
+        "NYT reports Canada\u2019s population declines amid tightened immigration, suggesting potential persistence if policies remain restrictive: https://www.nytimes.com/2025/12/17/world/canada/canada-population-decline-immigration.html"
+      ],
+      "monitoring_signals": [
+        "Immigration admissions and visa policy updates",
+        "Quarterly net international migration estimates",
+        "Labor market and housing indicators that influence policy reversals"
+      ],
+      "rationale": "A continued policy-driven drop is plausible, but Canada can quickly reverse trends via visa/permit adjustments, making persistence uncertain.",
+      "id": "450e718e-73ca-46a4-b90f-cb55b33225a3",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Department of Energy (DOE) Loan Programs Office (or another DOE financing vehicle) will announce a conditional commitment or finalized loan guarantee totaling at least $2.0B for a nuclear power project in the U.S. by 2026-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 378,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Resolves YES if DOE publicly announces (press release or official statement) a conditional commitment and/or closed loan/guarantee with stated total amount >= $2.0B for a U.S. nuclear generation project (including SMR) dated on or before 2026-12-31 UTC.",
+      "evidence": [
+        "IEEE Spectrum describes U.S. plans for the largest nuclear buildout since the 1970s, implying financing mechanisms will be activated: https://spectrum.ieee.org/80-billion-us-nuclear-power"
+      ],
+      "monitoring_signals": [
+        "DOE/LPO solicitation updates and application pipeline disclosures",
+        "Utility announcements of SMR/new-build milestones (COL, EPC awards)",
+        "Congressional appropriations/credit subsidy changes affecting LPO capacity"
+      ],
+      "rationale": "Ambitious buildout plans increase financing odds, but permitting, offtake, and cost-overrun concerns often slow commitments and reduce deal sizes.",
+      "id": "3afd04dc-fdc5-48b3-a25c-b83e8c8c77e1",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

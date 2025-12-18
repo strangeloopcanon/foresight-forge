@@ -1,0 +1,55 @@
+{
+  "date": "2025-12-17",
+  "assessments": [
+    {
+      "id": "0e34afff-3b95-4004-8c90-588c8d2c2a14",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage highlights escalating U.S.-Venezuela tensions and discussion of a potential U.S. \u201cblockade\u201d/maritime pressure (e.g., Venezuelan Navy escorts in defiance of threats), but does not cite an official U.S. government notice (press release or Federal Register) issuing new enforcement guidance/interdiction authority/expanded sanctions specifically targeting Venezuelan oil maritime shipments."
+    },
+    {
+      "id": "ccc5537b-b647-453f-897f-e71bde53b429",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets reports a major marine insurer or top-tier tanker operator publicly announcing suspension/restriction of coverage or carriage for Venezuela-related voyages due to U.S. enforcement risk."
+    },
+    {
+      "id": "9aa9bb21-7c35-4f91-85de-8b254e008cf1",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets do not provide NYMEX WTI front-month settlement data, and there is no explicit report that WTI settled at or below $60 on any trading day."
+    },
+    {
+      "id": "6787d55c-394e-4ab0-8294-7d3db1f4c722",
+      "status": "pending",
+      "status_rationale": "No bullet indicates a U.S. federal court issued a TRO or preliminary injunction pausing enforcement of expanded U.S. travel restrictions affecting newly added countries."
+    },
+    {
+      "id": "d8e6151d-9e47-48b6-9820-40aff1210177",
+      "status": "pending",
+      "status_rationale": "The Tesla-related item concerns EV sales/market dynamics, not a confirmed change to consumer-facing Autopilot/FSD marketing language removing or qualifying claims cited in the California ruling."
+    },
+    {
+      "id": "1879df90-779e-4629-8aa5-5c5b066d21fe",
+      "status": "pending",
+      "status_rationale": "There is no report in today\u2019s bullets that Waymo confirmed closing a new external funding round with disclosed proceeds of at least $10B."
+    },
+    {
+      "id": "86a262b0-297c-4688-8672-8594d091eacd",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention Databricks publicly filing an S-1 or publicly acknowledging confidential submission of a draft registration statement for a U.S. IPO."
+    },
+    {
+      "id": "6779c1f2-41f5-452a-9d96-28cbc43fb4f7",
+      "status": "pending",
+      "status_rationale": "No bullet references the DEA publishing a final rule in the Federal Register rescheduling marijuana to Schedule III."
+    },
+    {
+      "id": "39dcf203-2bb7-4fcd-9e04-3bab97f8aa4a",
+      "status": "pending",
+      "status_rationale": "This prediction concerns the February 2026 unemployment rate print; today\u2019s news does not include (and cannot yet include) that release."
+    },
+    {
+      "id": "ff7c467b-5e17-4a6e-a9ad-f47da55d2843",
+      "status": "pending",
+      "status_rationale": "This prediction concerns an action at the March 2026 FOMC meeting; today\u2019s bullets do not provide evidence about that future decision."
+    }
+  ]
+}
