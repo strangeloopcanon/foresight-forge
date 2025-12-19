@@ -19,7 +19,7 @@
       ],
       "rationale": "Signed public merger agreements commonly close within 6\u201312 months, but education-platform overlap could trigger regulatory or shareholder delays.",
       "id": "0c96d013-6f7a-4210-b072-71ff29c6a37b",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "60-70"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Regulators are increasingly focused on algorithmic price discrimination, but many probes end without a public complaint or settle after longer timelines.",
       "id": "3f45be2a-73a4-4959-a56a-31a7127cd563",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Coinbase is expanding toward full-service brokerage, but U.S. equities require licensing/partners and could slip if regulators or infrastructure timelines extend.",
       "id": "066e2b49-fe20-4b35-8615-f455210916ff",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "AI memory demand and HBM ramp raise the chance of a $9B+ quarter, though cyclicality and supply additions remain key downside risks.",
       "id": "40bcfb90-b73a-463e-872a-4d8f2ae88b3c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Large AI-infrastructure projects often repackage financing after a partner exits, but higher rates and tighter underwriting could delay or shrink the deal.",
       "id": "a8a7f46f-8e81-428a-89a6-355d6ac89e2d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "If term premium or MBS spreads widen, mortgage rates can rise despite policy easing, but a growth scare or rally in long rates would counteract.",
       "id": "4a8fd278-1f23-426e-8a22-8465c3724411",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Geopolitical supply risks can produce sharp price spikes, but weak demand or spare capacity offsets keep the probability below 50% over this horizon.",
       "id": "a49c195c-5c01-4138-9c39-2a05dc285980",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "A continued policy-driven drop is plausible, but Canada can quickly reverse trends via visa/permit adjustments, making persistence uncertain.",
       "id": "450e718e-73ca-46a4-b90f-cb55b33225a3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Ambitious buildout plans increase financing odds, but permitting, offtake, and cost-overrun concerns often slow commitments and reduce deal sizes.",
       "id": "3afd04dc-fdc5-48b3-a25c-b83e8c8c77e1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

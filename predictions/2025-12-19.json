@@ -1,0 +1,194 @@
+{
+  "date": "2025-12-19",
+  "predictions": [
+    {
+      "text": "Bank of Japan will raise its policy rate by at least 10 basis points (cumulative) by 2026-04-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 132,
+      "deadline": "2026-04-30",
+      "confidence_pct": 58,
+      "log_odds": 0.323,
+      "verification_criteria": "Resolves YES if BoJ announces (via policy statement) at least one rate hike totaling >=0.10 percentage points versus the policy rate level on 2025-12-19, with the announcement date on or before 2026-04-30 (UTC).",
+      "evidence": [
+        "Japan CPI has stayed above 2% target for an extended period, strengthening the case for additional tightening (CNBC, 2025-12-19): https://www.cnbc.com/2025/12/19/japan-cpi-consumer-inflation-rate-policy-meeting.html"
+      ],
+      "monitoring_signals": [
+        "BoJ meeting outcomes and policy statements",
+        "Japan CPI (headline/core) prints and wage negotiations (Shunto) headlines",
+        "JPY rates market (OIS) pricing for next 1\u20132 BoJ meetings"
+      ],
+      "rationale": "Persistently above-target inflation increases pressure for incremental tightening, though growth/financial-stability concerns could delay action.",
+      "id": "697560c9-83cd-4a3b-bbd9-9ca233b15a57",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "TikTok will remain available for download in the U.S. (both Apple App Store and Google Play) on 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 193,
+      "deadline": "2026-06-30",
+      "confidence_pct": 70,
+      "log_odds": 0.847,
+      "verification_criteria": "Resolves YES if, on 2026-06-30 (UTC), the TikTok app is listed and downloadable in the U.S. storefronts of both Apple App Store and Google Play; otherwise NO.",
+      "evidence": [
+        "TikTok signed agreements toward a U.S. joint venture/ownership restructuring, reducing near-term ban risk (CNBC, 2025-12-18): https://www.cnbc.com/2025/12/18/tik-tok-us-sale-china.html"
+      ],
+      "monitoring_signals": [
+        "CFIUS/White House/DOJ statements on TikTok enforcement timing",
+        "Announcements of definitive U.S. JV/ownership restructuring and governance terms",
+        "China regulator commentary/approvals related to data/export control"
+      ],
+      "rationale": "Recent restructuring steps make near-term delisting less likely, though legal and cross-border approval risks remain.",
+      "id": "0bca1523-1b4f-4409-b2b2-fc144b79921b",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "The EU will adopt (final approval) a legal instrument committing at least \u20ac20B in support for Ukraine explicitly financed by proceeds from frozen Russian sovereign assets (e.g., windfall profits) by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 193,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "log_odds": -0.847,
+      "verification_criteria": "Resolves YES if an EU Council/Commission press release or Official Journal publication confirms final adoption of a measure that (a) cites frozen Russian sovereign assets as the funding source (principal or profits), and (b) specifies aggregate committed support >=\u20ac20B, with adoption date on or before 2026-06-30 (UTC).",
+      "evidence": [
+        "Ukraine urged EU leaders to deploy frozen Russian funds; Hungary voiced opposition, highlighting fracture risk (NYT, 2025-12-18): https://www.nytimes.com/2025/12/18/world/europe/ukraine-zelensky-russia-putin.html"
+      ],
+      "monitoring_signals": [
+        "EU Council summit conclusions referencing Russian frozen assets",
+        "European Commission legislative proposals on asset/profit use",
+        "Hungary/other veto-threat signals and legal-service opinions"
+      ],
+      "rationale": "Political and legal hurdles are high; progress may occur via limited profit-use mechanisms but large-scale commitments face veto/legal risk.",
+      "id": "3b05f7de-833d-469a-bf77-f0e61482b0c5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. IRS will publish guidance stating that Internal Revenue Code Section 280E no longer applies to cannabis businesses compliant with federal Schedule III status, effective for tax year 2026, by 2026-12-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 377,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Resolves YES if an IRS notice/revenue ruling/revenue procedure (or equivalent official IRS guidance) published on or before 2026-12-31 explicitly states that 280E does not apply to Schedule III cannabis activities and specifies applicability beginning in tax year 2026 (or earlier).",
+      "evidence": [
+        "Executive action to reclassify cannabis increases likelihood of downstream tax/regulatory clarifications (CNBC, 2025-12-18): https://www.cnbc.com/2025/12/18/trump-pot-reclassification-cannabis-stocks-medicare-cbd.html"
+      ],
+      "monitoring_signals": [
+        "DEA/HHS scheduling milestones and Federal Register notices",
+        "IRS Priority Guidance Plan updates mentioning 280E/cannabis",
+        "Treasury/IRS public statements on cannabis taxation implementation"
+      ],
+      "rationale": "If Schedule III is implemented, 280E relief becomes a major pressure point; timing and legal conservatism could delay explicit IRS guidance.",
+      "id": "651bff1f-0e24-4850-9e5e-2aa2d70b1183",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "TrendForce (or DRAMeXchange/TrendForce) will report that the average contract price for DDR5 16Gb DRAM is at least 15% higher than its December 2025 level in a report published by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 193,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Resolves YES if a TrendForce/DRAMeXchange report dated on or before 2026-06-30 shows the then-current average DDR5 16Gb contract price >= 1.15 \u00d7 the December 2025 reported level (using the same unit/series).",
+      "evidence": [
+        "Micron cited surging AI-memory demand and capacity constraints, consistent with tight supply supporting higher pricing (CNBC, 2025-12-18): https://www.cnbc.com/2025/12/18/micron-mu-stock-earnings-ai-memory-demand.html"
+      ],
+      "monitoring_signals": [
+        "TrendForce monthly DRAM contract price updates",
+        "HBM/DDR5 capacity expansion announcements and lead-time commentary",
+        "Major memory vendor earnings commentary on pricing and supply tightness"
+      ],
+      "rationale": "AI-driven demand and constrained leading-edge supply support upside risk to contract pricing, though cyclical inventory swings could cap gains.",
+      "id": "3bc99518-9fbe-4cbe-ad00-fa7a839355e6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Nike will report Greater China quarterly revenue down at least 10% year-over-year in its fiscal Q3 2026 earnings release (quarter ending ~Feb 2026), published by 2026-04-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 132,
+      "deadline": "2026-04-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Resolves YES if Nike\u2019s fiscal Q3 2026 earnings release (or 10-Q) reports Greater China revenue (as disclosed segment/geography) with YoY percentage change <= -10%. The release filing/publication must occur on or before 2026-04-30 (UTC).",
+      "evidence": [
+        "Nike warned its turnaround remains midstream as China sales plunge and tariffs pressure margins (CNBC, 2025-12-18): https://www.cnbc.com/2025/12/18/nike-nke-q2-2026-earnings.html"
+      ],
+      "monitoring_signals": [
+        "Nike quarterly pre-announcements and channel inventory commentary",
+        "China consumer spending/retail indicators and competitive share signals",
+        "Trade/tariff policy developments impacting apparel/footwear"
+      ],
+      "rationale": "Recent warnings suggest continued weakness in Greater China into the next reporting window, though comps and promotions add uncertainty.",
+      "id": "4d8f8dec-964b-4396-be65-49dbef7afa83",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Federal Reserve will publish at least one additional public supervisory document (e.g., SR letter, supervisory guidance, or FAQ) explicitly referencing implementation of its new supervision manual for large/complex banks by 2026-09-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 285,
+      "deadline": "2026-09-30",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Resolves YES if the Fed posts (on federalreserve.gov) a public document on or before 2026-09-30 that explicitly references the new staff supervision manual for the largest/most complex banks and provides implementation/interpretive details (beyond merely announcing its existence).",
+      "evidence": [
+        "Fed issued a new staff supervision manual for the largest, most complex banks, signaling more standardized oversight expectations (Fed press release, 2025-12-18): https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251218a.htm"
+      ],
+      "monitoring_signals": [
+        "Fed SR letters and supervisory guidance page updates",
+        "Speeches/testimony by Fed supervision leadership",
+        "Large-bank exam cycle and public summaries referencing manual alignment"
+      ],
+      "rationale": "A new manual often triggers follow-on interpretive guidance as examiners and banks operationalize standards.",
+      "id": "245231c9-8cd2-42aa-b029-35b1ed5e3e4a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Trump Media & Technology Group and TAE Technologies (or the named fusion counterpart) will file an S-4 (or equivalent registration/proxy statement for the merger) with the U.S. SEC by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 102,
+      "deadline": "2026-03-31",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Resolves YES if the SEC EDGAR system shows an S-4 (or Form F-4, or DEFM14A/424B materials explicitly for the merger) filed by DJT or the transaction vehicle on or before 2026-03-31 (UTC) describing the proposed merger transaction.",
+      "evidence": [
+        "Trump Media agreed to merge with fusion firm TAE in a ~$6B deal (CNBC, 2025-12-18): https://www.cnbc.com/2025/12/18/trump-media-djt-tae-fusion-merger.html"
+      ],
+      "monitoring_signals": [
+        "EDGAR filings from DJT and counterpart entities",
+        "Press releases updating deal timeline, financing, or shareholder vote dates",
+        "Any SEC comment-letter disclosures or amendments indicating process progress"
+      ],
+      "rationale": "A signed merger agreement typically requires timely registration/proxy filings; timing risk mainly from deal re-trades or structure changes.",
+      "id": "6e3f7468-3447-4d98-ab1f-a96a68c6a944",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "A satellite-based quantum communications demonstration will be publicly announced showing distribution of quantum keys or entanglement between a satellite and a ground station by 2026-12-31 (UTC).",
+      "category": "science",
+      "horizon_days": 377,
+      "deadline": "2026-12-31",
+      "confidence_pct": 25,
+      "log_odds": -1.099,
+      "verification_criteria": "Resolves YES if a space agency, major university consortium, or commercial satellite operator issues a press release or peer-reviewed publication (dated on/before 2026-12-31) claiming a successful satellite-to-ground QKD or entanglement distribution demonstration with described experimental results.",
+      "evidence": [
+        "Researchers demonstrated feasibility of an Earth-to-space quantum link, advancing prospects for secure satellite quantum communications (ScienceDaily, 2025-12-17): https://www.sciencedaily.com/releases/2025/12/251217082515.htm"
+      ],
+      "monitoring_signals": [
+        "ESA/NASA/CNSA/ISRO and major university lab announcements on quantum comm payloads",
+        "Conference proceedings (QCrypt, APS March Meeting) referencing on-orbit demos",
+        "Launch manifests mentioning quantum communications payloads"
+      ],
+      "rationale": "Technical feasibility is improving, but on-orbit demonstrations depend on launch schedules, payload readiness, and disclosure choices.",
+      "id": "b1892be8-8f2e-4afd-9b6a-33de2718cb0c",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

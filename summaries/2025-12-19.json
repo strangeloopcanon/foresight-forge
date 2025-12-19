@@ -1,0 +1,107 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. CPI rose 2.7% y/y in November; shelter inflation remains a key driver, complicating the disinflation narrative.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/cpi_12182025.htm"
+    },
+    {
+      "text": "Real average hourly earnings increased 0.8% y/y in November, indicating modest real wage gains despite still-elevated cumulative prices since 2020.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/realer_12182025.htm"
+    },
+    {
+      "text": "Japan\u2019s CPI stayed above the BoJ\u2019s 2% target for a 44th month, strengthening the case for additional tightening at upcoming policy meetings.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/12/19/japan-cpi-consumer-inflation-rate-policy-meeting.html"
+    },
+    {
+      "text": "Federal Reserve issued a new staff supervision manual for the largest, most complex banks, signaling tighter, more standardized oversight expectations.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251218a.htm"
+    },
+    {
+      "text": "TikTok signed agreements toward a U.S. joint venture/ownership restructuring, reducing near-term ban risk but raising governance and China-approval uncertainty.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/18/tik-tok-us-sale-china.html"
+    },
+    {
+      "text": "Trump signed an executive order to reclassify cannabis, reshaping regulatory and tax assumptions; sector volatility reflects uncertainty over implementation details.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/18/trump-pot-reclassification-cannabis-stocks-medicare-cbd.html"
+    },
+    {
+      "text": "Micron reported surging AI-memory demand and capacity constraints (\u201cmore than sold out\u201d), reinforcing the thesis of persistent HBM/DRAM tightness supporting prices.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/18/micron-mu-stock-earnings-ai-memory-demand.html"
+    },
+    {
+      "text": "Nike warned its turnaround remains midstream as China sales plunge and tariffs pressure margins, highlighting consumer-demand and trade-policy sensitivity for global brands.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2025/12/18/nike-nke-q2-2026-earnings.html"
+    },
+    {
+      "text": "Ukraine urged E.U. leaders to deploy frozen Russian funds for defense; Hungary\u2019s Orb\u00e1n called such plans a dead end, underscoring intra-EU fracture risk.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/18/world/europe/ukraine-zelensky-russia-putin.html"
+    },
+    {
+      "text": "Trump Media agreed to merge with fusion firm TAE in a ~$6B deal, blending political-media capital with speculative energy tech financing risk.",
+      "tags": [
+        "markets",
+        "energy",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/18/trump-media-djt-tae-fusion-merger.html"
+    },
+    {
+      "text": "Scientists identified a hidden T-cell \u201cswitch\u201d that could broaden cancer immunotherapy effectiveness, potentially expanding treatable patient populations and therapeutic targets.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251218074429.htm"
+    },
+    {
+      "text": "Researchers demonstrated an \u201cimpossible\u201d Earth-to-space quantum link is feasible, advancing prospects for secure satellite-based quantum communications networks.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251217082515.htm"
+    },
+    {
+      "text": "Beginning January 2026, all ACM publications become open access, shifting computer-science publishing economics toward author/institution funding and broader global knowledge diffusion.",
+      "tags": [
+        "science",
+        "other"
+      ],
+      "link": "https://dl.acm.org/openaccess"
+    }
+  ]
+}

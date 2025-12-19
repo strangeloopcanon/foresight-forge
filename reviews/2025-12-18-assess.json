@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-18",
+  "assessments": [
+    {
+      "id": "0c96d013-6f7a-4210-b072-71ff29c6a37b",
+      "status": "needs-clarification",
+      "status_rationale": "The prediction references an \"announced merger\" between Coursera and Udemy, but no such announcement is evidenced in today\u2019s bullets; the claim is hard to evaluate without specifying the announcement date/source and transaction structure."
+    },
+    {
+      "id": "3f45be2a-73a4-4959-a56a-31a7127cd563",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets contain no mention of the FTC filing a complaint or announcing a settlement/order involving Instacart and algorithmic/AI pricing practices."
+    },
+    {
+      "id": "066e2b49-fe20-4b35-8615-f455210916ff",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets indicates Coinbase has launched U.S. retail-accessible U.S.-listed equity trading."
+    },
+    {
+      "id": "40bcfb90-b73a-463e-872a-4d8f2ae88b3c",
+      "status": "pending",
+      "status_rationale": "There is a MarketWatch headline about Micron, but the provided bullets do not include a Micron earnings release or a revenue figure confirming quarterly revenue \u2265 $9.0B."
+    },
+    {
+      "id": "a8a7f46f-8e81-428a-89a6-355d6ac89e2d",
+      "status": "pending",
+      "status_rationale": "While Oracle is mentioned in relation to TikTok\u2019s U.S. deal, there is no clear evidence in the bullets of Oracle announcing an external financing partner/co-investor for the Michigan data center project."
+    },
+    {
+      "id": "4a8fd278-1f23-426e-8a22-8465c3724411",
+      "status": "pending",
+      "status_rationale": "No bullet references Freddie Mac\u2019s PMMS weekly 30-year fixed rate printing at or above 7.00%."
+    },
+    {
+      "id": "a49c195c-5c01-4138-9c39-2a05dc285980",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention Brent front-month settlements or any \u2265 $85/bbl settlement event."
+    },
+    {
+      "id": "450e718e-73ca-46a4-b90f-cb55b33225a3",
+      "status": "pending",
+      "status_rationale": "There is no Statistics Canada release referenced in today\u2019s bullets indicating quarter-over-quarter negative population growth."
+    },
+    {
+      "id": "3afd04dc-fdc5-48b3-a25c-b83e8c8c77e1",
+      "status": "pending",
+      "status_rationale": "No bullet reports a DOE Loan Programs Office (or other DOE vehicle) conditional commitment or finalized loan guarantee totaling at least $2.0B for a U.S. nuclear project."
+    }
+  ]
+}
