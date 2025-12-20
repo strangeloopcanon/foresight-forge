@@ -19,7 +19,7 @@
       ],
       "rationale": "Persistently above-target inflation increases pressure for incremental tightening, though growth/financial-stability concerns could delay action.",
       "id": "697560c9-83cd-4a3b-bbd9-9ca233b15a57",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Recent restructuring steps make near-term delisting less likely, though legal and cross-border approval risks remain.",
       "id": "0bca1523-1b4f-4409-b2b2-fc144b79921b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Political and legal hurdles are high; progress may occur via limited profit-use mechanisms but large-scale commitments face veto/legal risk.",
       "id": "3b05f7de-833d-469a-bf77-f0e61482b0c5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "If Schedule III is implemented, 280E relief becomes a major pressure point; timing and legal conservatism could delay explicit IRS guidance.",
       "id": "651bff1f-0e24-4850-9e5e-2aa2d70b1183",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "AI-driven demand and constrained leading-edge supply support upside risk to contract pricing, though cyclical inventory swings could cap gains.",
       "id": "3bc99518-9fbe-4cbe-ad00-fa7a839355e6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Recent warnings suggest continued weakness in Greater China into the next reporting window, though comps and promotions add uncertainty.",
       "id": "4d8f8dec-964b-4396-be65-49dbef7afa83",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "A new manual often triggers follow-on interpretive guidance as examiners and banks operationalize standards.",
       "id": "245231c9-8cd2-42aa-b029-35b1ed5e3e4a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "A signed merger agreement typically requires timely registration/proxy filings; timing risk mainly from deal re-trades or structure changes.",
       "id": "6e3f7468-3447-4d98-ab1f-a96a68c6a944",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Technical feasibility is improving, but on-orbit demonstrations depend on launch schedules, payload readiness, and disclosure choices.",
       "id": "b1892be8-8f2e-4afd-9b6a-33de2718cb0c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

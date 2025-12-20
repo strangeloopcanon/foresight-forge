@@ -1,0 +1,122 @@
+{
+  "bullets": [
+    {
+      "text": "Fed biennial debit-card report offers a high-level read on U.S. card-payment volumes, fees, and network/issuer structure\u2014useful for payments competition and consumer-cost analysis.",
+      "tags": [
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219b.htm"
+    },
+    {
+      "text": "Fed seeks input on defining a limited-purpose \u201cpayment account\u201d for clearing/settlement, signaling potential changes to access and plumbing of U.S. payment rails.",
+      "tags": [
+        "macro",
+        "tech",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219a.htm"
+    },
+    {
+      "text": "NY Fed\u2019s Williams says November CPI was pushed down by technical factors, implying underlying inflation may be firmer than the headline suggested.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/12/19/ny-fed-president-williams-says-some-technical-factors-distorted-novembers-cpi-reading-downward.html"
+    },
+    {
+      "text": "Fed-governor Waller reportedly interviewed strongly for chair; leadership uncertainty can shift market expectations for the reaction function toward jobs vs inflation.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/19/waller-had-a-strong-interview-for-fed-chair-with-trump.html"
+    },
+    {
+      "text": "November existing-home sales remained weak as supply stalled, reinforcing a housing affordability/supply constraint that can keep shelter inflation sticky.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/19/november-home-sales.html"
+    },
+    {
+      "text": "Data-center M&A hit a record $61B in 2025 amid AI buildout; investor sensitivity rises to OpenAI funding and utilization assumptions.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html"
+    },
+    {
+      "text": "OpenAI is reportedly raising up to $100B at an $830B valuation\u2014an indicator of capital intensity and scale economics driving the AI infrastructure cycle.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/"
+    },
+    {
+      "text": "Delaware Supreme Court restores Musk\u2019s ~$56B Tesla pay package, strengthening founder control and setting a major precedent for executive-compensation litigation.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/19/musk-tesla-pay-delaware-supreme-court.html"
+    },
+    {
+      "text": "Trump\u2019s move to reclassify cannabis could broaden legal access and reshape financing; sector upside depends on banking, tax, and enforcement follow-through.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/19/trump-pot-executive-order-medicare-cbd-lobbying-donors.html"
+    },
+    {
+      "text": "Nine large pharma companies\u2019 drug-pricing deals with Trump intensify U.S. pricing pressure; European Big Pharma\u2019s U.S. revenue exposure heightens earnings risk.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/19/nine-pharma-companies-ink-deals-with-trump-to-lower-drug-prices.html"
+    },
+    {
+      "text": "U.S. strikes on Islamic State targets in Syria signal continued counterterror operations, with potential spillovers to regional stability and U.S. force posture.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/19/us/politics/us-islamic-state-strikes-syria.html"
+    },
+    {
+      "text": "Trump names a new SOUTHCOM leader as pressure on Venezuela grows, highlighting heightened U.S. attention to sanctions, migration, and regional security.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/19/us/politics/frank-donovan-southern-command-trump.html"
+    },
+    {
+      "text": "NOAA deploys AI-driven global weather models, improving forecast skill and potentially reducing climate-risk uncertainty for energy markets, insurers, and disaster planning.",
+      "tags": [
+        "science",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models"
+    },
+    {
+      "text": "Researchers link functional \u201cjunk DNA\u201d regions to Alzheimer\u2019s biology, expanding therapeutic targets beyond protein-coding genes and reshaping genetic risk interpretation.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251219093315.htm"
+    },
+    {
+      "text": "Security researchers warn of a Chinese hacking campaign exploiting Cisco devices, underscoring persistent infrastructure risk and the need for rapid patching at scale.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2025/12/19/hundreds-of-cisco-customers-are-vulnerable-to-new-chinese-hacking-campaign-researchers-say/"
+    }
+  ]
+}

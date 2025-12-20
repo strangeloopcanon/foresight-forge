@@ -1382,3 +1382,14 @@ The only partial “touches” are Oracle and Micron: Oracle appears in commenta
 
 ---
 
+
+## 2025-12-19
+
+None of the listed predictions can be marked resolved based on today’s headlines; all remain pending because the relevant deadlines are in 2026 and today’s coverage does not provide definitive confirmation or disconfirmation for any item. The strongest “directional” signal is on TikTok: reporting that Oracle joined an investor group to run TikTok’s U.S. business is consistent with continued U.S. availability, but it is not a clear, final condition about app-store download status on a specific date in mid-2026.
+
+Cannabis-related news also creates informative context but not resolution. Coverage of Trump’s move to reclassify cannabis (Schedule III) increases relevance for the IRS/280E prediction, yet the prediction is narrowly about the IRS publishing guidance explicitly stating 280E no longer applies (and with an effective tax-year-2026 framing). Without that specific IRS action, the forecast remains unscored.
+
+Overall, today’s news is largely orthogonal to the remaining forecasts (BoJ rates, EU Ukraine financing via frozen assets proceeds, DDR5 contract prices, Nike China revenue, Fed supervision documentation, a specific merger filing, and satellite quantum comms). Future assessment will require targeted source checks (official central bank statements, EU Council/Parliament acts, TrendForce reports, Nike 10-Q/earnings release, Fed SR letters, SEC EDGAR filings, and credible scientific/agency announcements).
+
+---
+

@@ -1,0 +1,186 @@
+{
+  "date": "2025-12-20",
+  "predictions": [
+    {
+      "text": "The Federal Reserve will publish (Federal Register) a Notice of Proposed Rulemaking or formal proposed definition/framework for a limited-purpose \"payment account\" for clearing/settlement access by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 192,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if the Federal Register contains an NPRM (or equivalent proposed rule) issued by the Federal Reserve that explicitly proposes a definition/framework for a limited-purpose \"payment account\" (or substantially similar term) intended for payment clearing/settlement access; NO otherwise.",
+      "evidence": [
+        "Fed press release seeking input on defining a limited-purpose \u201cpayment account\u201d for clearing/settlement: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219a.htm"
+      ],
+      "monitoring_signals": [
+        "Federal Register entries under Federal Reserve System (12 CFR) mentioning \u201cpayment account\u201d",
+        "Fed Board press releases tagged \u201cRegulation\u201d referencing payments access/settlement",
+        "Speeches/testimony by Fed governors about payments access or clearing/settlement accounts"
+      ],
+      "rationale": "A public RFI often precedes an NPRM within 6\u201312 months when an agency is serious about rulemaking; payments-rail access is an active policy topic.",
+      "id": "97528892-3e6a-4b1a-8e76-b299748a80ae",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The White House will publicly announce a nominee for Chair of the Federal Reserve Board of Governors (to succeed the current Chair) by 2026-02-15 (UTC).",
+      "category": "rates",
+      "horizon_days": 57,
+      "deadline": "2026-02-15",
+      "confidence_pct": 65,
+      "verification_criteria": "Resolves YES if a White House press release (or official statement by the President/Press Secretary) names a nominee for Fed Chair by the deadline; NO otherwise.",
+      "evidence": [
+        "Reporting on Waller being interviewed strongly for Fed chair, highlighting active selection process: https://www.cnbc.com/2025/12/19/waller-had-a-strong-interview-for-fed-chair-with-trump.html"
+      ],
+      "monitoring_signals": [
+        "White House press releases: nominations section",
+        "Major financial media reporting on shortlist/interviews (WSJ, Bloomberg, CNBC, Reuters)",
+        "Senate Banking Committee scheduling/communications indicating an incoming nomination"
+      ],
+      "rationale": "Chair succession planning typically becomes explicit months ahead; recent reporting suggests the process is underway.",
+      "id": "24cd13a7-2af4-4a4f-84f3-49c4191b1226",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "OpenAI will publicly confirm closing a primary financing round with at least $50.0B in gross proceeds (new capital raised) by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 284,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if OpenAI (or a lead investor with OpenAI confirmation) announces a closed financing round with disclosed proceeds \u2265 $50.0B by the deadline; NO otherwise. Rumors without confirmation do not count.",
+      "evidence": [
+        "OpenAI reportedly attempting to raise up to $100B at an ~$830B valuation: https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/"
+      ],
+      "monitoring_signals": [
+        "OpenAI official blog/press releases about funding",
+        "SEC filings by major investors disclosing large private investments",
+        "Credible reporting of signed term sheets/lead investors and round close timing"
+      ],
+      "rationale": "Reported target is extremely large; closing such a round is plausible but execution risk is substantial (syndication, valuation, regulatory scrutiny).",
+      "id": "3df48ff2-eb4c-4285-a1b5-e7a4bc9068e4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one data-center company/REIT or hyperscale-related operator will announce a definitive agreement for a data-center acquisition (asset or company) with transaction value of at least $5.0B by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 192,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if a press release/8-K announces a signed definitive agreement for a data-center M&A transaction valued \u2265 $5.0B (enterprise value or stated purchase price) by the deadline; NO otherwise.",
+      "evidence": [
+        "Record $61B data-center M&A in 2025 amid AI buildout: https://www.cnbc.com/2025/12/19/data-center-deals-hit-record-amid-ai-funding-concerns-grip-investors.html"
+      ],
+      "monitoring_signals": [
+        "8-K filings and press releases from major operators (Equinix, Digital Realty, CyrusOne owners, etc.)",
+        "Bank/PE deal announcements in data-center infrastructure",
+        "Industry deal trackers reporting large announced transactions"
+      ],
+      "rationale": "With record recent volumes and ongoing AI-driven capacity demand, another multi-billion transaction in the next two quarters is plausible.",
+      "id": "e8f11bbb-ad72-47ae-aef1-310ebced8ba8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Tesla will file a definitive proxy statement or other SEC filing that explicitly puts approval/ratification or implementation mechanics of Elon Musk\u2019s restored pay package to a shareholder vote (or equivalent formal corporate action) by 2026-04-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 131,
+      "deadline": "2026-04-30",
+      "confidence_pct": 60,
+      "verification_criteria": "Resolves YES if Tesla files a DEF 14A/DEFA14A (or materially equivalent SEC filing) by the deadline that (a) references Musk\u2019s pay package restoration and (b) solicits shareholder action or details implementation steps; NO otherwise.",
+      "evidence": [
+        "Delaware Supreme Court restores Musk\u2019s ~$56B Tesla pay package: https://www.cnbc.com/2025/12/19/musk-tesla-pay-delaware-supreme-court.html"
+      ],
+      "monitoring_signals": [
+        "Tesla SEC filings (DEF 14A, 8-K) referencing compensation plan or court ruling",
+        "Board/committee announcements regarding executive compensation",
+        "Scheduling of Tesla annual/special meeting and agenda items"
+      ],
+      "rationale": "After a major court ruling, companies often move quickly to formalize implementation/ratification and reduce governance uncertainty.",
+      "id": "108610d7-a02f-4824-8ddb-e1efc019fd6c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Cisco will publish at least one security advisory stating that a Cisco product vulnerability is being \"actively exploited\" in the wild by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 101,
+      "deadline": "2026-03-31",
+      "confidence_pct": 58,
+      "verification_criteria": "Resolves YES if Cisco\u2019s official security advisories include the phrase \"actively exploited\" (or equivalent wording indicating confirmed in-the-wild exploitation) for any CVE by the deadline; NO otherwise.",
+      "evidence": [
+        "Reporting on a Chinese hacking campaign exploiting Cisco devices: https://techcrunch.com/2025/12/19/hundreds-of-cisco-customers-are-vulnerable-to-new-chinese-hacking-campaign-researchers-say/"
+      ],
+      "monitoring_signals": [
+        "Cisco PSIRT advisory updates and CVE postings",
+        "CISA KEV catalog additions involving Cisco",
+        "Incident-response firm writeups linking exploitation to a specific Cisco CVE"
+      ],
+      "rationale": "High-profile campaign reporting increases the chance Cisco confirms exploitation via advisory updates within a quarter.",
+      "id": "e48b8f64-6a92-4584-a899-1cb187af12e2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "A bipartisan bill to cap or materially reform U.S. credit-card interchange fees (Visa/Mastercard networks) will be introduced in either chamber of Congress by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 101,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if Congress.gov shows introduction of a bill by the deadline whose text/sponsor summary includes a cap mandate or routing/price-control reform explicitly targeting credit-card interchange/network fees; NO otherwise.",
+      "evidence": [
+        "Fed releases payments-competition-relevant debit-card report, keeping fee/rail policy salient: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219b.htm",
+        "Fed seeks input on payment-account definitions for clearing/settlement access, indicating continued policy attention to payments plumbing: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251219a.htm"
+      ],
+      "monitoring_signals": [
+        "Congress.gov searches for \u201cinterchange\u201d, \u201ccredit card competition\u201d, \u201crouting\u201d",
+        "Statements/hearings by Senate Judiciary, Senate Banking, House Financial Services on card fees",
+        "Retail/merchant lobby announcements and coalition letters"
+      ],
+      "rationale": "Payments cost pressure and competition policy remain recurring legislative themes, but timing is uncertain\u2014hence moderate-low confidence.",
+      "id": "2e6bba1c-349b-468f-889b-99bd5efac17f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one of the nine large pharma companies reported as signing drug-pricing deals with Trump will publicly announce U.S. list-price reductions affecting at least 10 branded drugs (combined) effective in 2026, by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 376,
+      "deadline": "2026-12-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if a covered company issues a press release (or investor/SEC disclosure) stating it will reduce U.S. list prices for \u226510 branded drugs in aggregate (either within that company or across multiple announcements by that company) with effective date in calendar year 2026; NO otherwise.",
+      "evidence": [
+        "Report that nine large pharma companies inked drug-pricing deals with Trump: https://www.cnbc.com/2025/12/19/nine-pharma-companies-ink-deals-with-trump-to-lower-drug-prices.html"
+      ],
+      "monitoring_signals": [
+        "Company press releases on U.S. pricing actions",
+        "Earnings-call transcripts referencing \u201clist price reductions\u201d and counts of products affected",
+        "HHS/White House announcements naming participating firms and commitments"
+      ],
+      "rationale": "Public commitments increase probability of visible follow-through; using a \u226510-drug threshold avoids counting token cuts.",
+      "id": "00f62c47-dadd-453f-9f0c-9f70b59aa4da",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NOAA will publish an official verification/skill assessment (NOAA.gov, NWS, or NOAA technical memorandum) showing its AI-driven global weather model outperforms a prior NOAA baseline on at least one named forecast-skill metric at 3\u20137 day horizons by 2026-06-30 (UTC).",
+      "category": "science",
+      "horizon_days": 192,
+      "deadline": "2026-06-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Resolves YES if NOAA posts an official document by the deadline that (a) explicitly compares an AI-driven NOAA global model to a previous NOAA baseline model and (b) reports improvement on at least one specified metric (e.g., RMSE, anomaly correlation) for 3\u20137 day forecasts; NO otherwise.",
+      "evidence": [
+        "NOAA announcement deploying AI-driven global weather models: https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models"
+      ],
+      "monitoring_signals": [
+        "NOAA/NWS technical memoranda or verification dashboards referencing the new AI model",
+        "Conference presentations from NOAA labs (ESRL/GSL) about AI model verification",
+        "Updates to NOAA model documentation pages mentioning skill improvements"
+      ],
+      "rationale": "After operational deployment, agencies commonly publish validation; NOAA has incentives to document performance gains to support continued adoption.",
+      "id": "10a3623e-32b8-42c6-ba64-9a1a205ed0e8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
