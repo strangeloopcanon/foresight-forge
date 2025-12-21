@@ -1,0 +1,215 @@
+{
+  "date": "2025-12-21",
+  "predictions": [
+    {
+      "text": "Berkshire Hathaway will publicly announce (press release or SEC 8-K) that Greg Abel has become CEO (effective date stated) by 2026-01-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 25,
+      "deadline": "2026-01-15",
+      "confidence_pct": 72,
+      "log_odds": 0.944,
+      "verification_criteria": "Resolves YES if Berkshire Hathaway (berkshirehathaway.com, PR Newswire, or an SEC filing including an 8-K) states Greg Abel is CEO with an effective date on or before 2026-01-15; otherwise NO.",
+      "evidence": [
+        "Recent reporting indicates a near-term leadership transition and heightened investor focus on succession execution."
+      ],
+      "monitoring_signals": [
+        "Berkshire Hathaway SEC filings (8-K)",
+        "Berkshire Hathaway newsroom / press releases",
+        "Major financial wires (WSJ, Reuters, CNBC) citing an official Berkshire statement"
+      ],
+      "rationale": "With succession described as imminent, a formal and dated public transition announcement is likely within weeks.",
+      "id": "606e314a-00a5-4b09-ae9a-81dc987edb32",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "OFAC will announce at least 2 Venezuela-related SDN designations explicitly tied to crude/oil-product shipping or trading networks by 2026-02-28 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 69,
+      "deadline": "2026-02-28",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "YES if U.S. Treasury/OFAC press releases or SDN updates (treasury.gov) between 2025-12-21 and 2026-02-28 include 2+ distinct Venezuela-related designations that mention maritime shipment, vessels, shipowners, traders, or oil export facilitation; otherwise NO.",
+      "evidence": [
+        "Recent U.S. maritime enforcement action against a tanker carrying Venezuelan oil suggests increased operational focus and potential follow-on sanctions."
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN list update notices",
+        "Treasury 'Recent Actions' feed filtering for Venezuela",
+        "Reuters/Bloomberg reports citing OFAC designations targeting shipping networks"
+      ],
+      "rationale": "Escalating enforcement often pairs operational interdictions with follow-on network designations to raise compliance risk for facilitators.",
+      "id": "e74fcd56-4610-442d-a239-878db51d66ea",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Reuters or Bloomberg will report that Venezuela\u2019s seaborne crude+condensate exports (citing Kpler or Vortexa) fell below a 4-week average of 600,000 barrels/day at least once by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 100,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "YES if Reuters or Bloomberg publishes a story on or before 2026-03-31 stating Venezuela exports fell below a 4-week average of 600 kb/d (explicitly citing Kpler and/or Vortexa); otherwise NO.",
+      "evidence": [
+        "Recent U.S. interdiction activity increases the probability of temporary shipping disruptions and self-sanctioning by carriers/buyers."
+      ],
+      "monitoring_signals": [
+        "Reuters/Bloomberg Venezuela oil export trackers",
+        "Kpler/Vortexa figures quoted in public media",
+        "Changes in Venezuelan export destinations, vessel queues, or delays reported in shipping press"
+      ],
+      "rationale": "Even brief enforcement spikes can cause episodic export drawdowns via delayed liftings and higher compliance risk.",
+      "id": "27d704b7-6550-4a36-a71e-307b41632960",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A major tech trade association or frontier-AI developer will file a federal lawsuit challenging New York\u2019s RAISE Act (or its implementing provisions) by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 100,
+      "deadline": "2026-03-31",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "YES if a complaint is filed in U.S. federal court by 2026-03-31 with claims explicitly challenging the NY RAISE Act (named in the filing) and a plaintiff that is (i) a major AI company, or (ii) a major tech/industry association (e.g., Chamber/NetChoice/CCIA); otherwise NO.",
+      "evidence": [
+        "NY signed a notable AI safety law, increasing compliance costs and incentivizing preemption/constitutional challenges."
+      ],
+      "monitoring_signals": [
+        "PACER docket searches for 'RAISE Act' and 'New York' + AI",
+        "NetChoice/CCIA/Chamber litigation announcements",
+        "NY AG or state agency implementation notices prompting lawsuits"
+      ],
+      "rationale": "High-impact state tech regulations frequently draw rapid federal challenges on preemption, speech, and dormant commerce grounds.",
+      "id": "06daf9e0-d4f6-4a8a-b7f2-c92d93ccbc61",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one U.S. state legislature outside New York will introduce a bill that mandates safety evaluations or risk-management obligations specifically for 'frontier'/'foundation' AI models by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 191,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "YES if an official state legislature website posts a newly introduced bill (first reading/filing) by 2026-06-30 that explicitly targets frontier/foundation models and requires safety testing/evaluations, incident reporting, or deployment gating; otherwise NO.",
+      "evidence": [
+        "NY\u2019s RAISE Act increases policy diffusion pressure among states absent comprehensive federal AI safety law."
+      ],
+      "monitoring_signals": [
+        "California, Illinois, Massachusetts legislative trackers for AI safety/foundation model bills",
+        "NCSL summaries on AI legislation",
+        "Public statements from state attorneys general and governors on 'frontier AI' rules"
+      ],
+      "rationale": "State policy diffusion is common when a first-mover law creates a template and advocacy momentum.",
+      "id": "5bd6842b-7049-487d-973b-92e65447962a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A bipartisan U.S. Senate bill establishing a federal regulatory framework for payment stablecoins will be introduced by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 100,
+      "deadline": "2026-03-31",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "YES if a stablecoin framework bill is introduced in the U.S. Senate by 2026-03-31 with at least 1 Democratic and 1 Republican sponsor/co-sponsor at introduction, and the text/summary is principally about payment stablecoin issuance and oversight; otherwise NO.",
+      "evidence": [
+        "A key Senate vacancy may reshuffle committee dynamics while stablecoin policy remains a recurring bipartisan topic."
+      ],
+      "monitoring_signals": [
+        "Congress.gov new Senate bill filings for 'stablecoin'",
+        "Senate Banking Committee press releases",
+        "Statements from Treasury/FSOC urging stablecoin legislation"
+      ],
+      "rationale": "Stablecoin legislation has repeated near-miss history; committee reconfiguration often triggers a renewed bipartisan push.",
+      "id": "11492cde-1576-444a-8516-71cde9092478",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "S&P CoreLogic Case-Shiller 20-city home price index will show year-over-year growth below 0.0% (negative YoY) in at least one release published by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 191,
+      "deadline": "2026-06-30",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "YES if any Case-Shiller 20-city composite index release date on or before 2026-06-30 reports the index\u2019s YoY percent change < 0.0%; otherwise NO.",
+      "evidence": [
+        "Affordability pressures persist as housing costs and borrowing costs have outpaced wage gains."
+      ],
+      "monitoring_signals": [
+        "Case-Shiller monthly releases (S&P Dow Jones Indices)",
+        "Mortgage rate levels and purchase application trends",
+        "Inventory and price-cut metrics (Redfin/Zillow) leading indicators"
+      ],
+      "rationale": "High rates and stretched affordability raise odds of at least a temporary negative YoY print in a major price index.",
+      "id": "5cb63c88-f0d6-419c-bad5-259e8160ece9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Google will announce general availability in the U.S. of a Gemini-powered AI answer feature integrated into core Search (not limited to an invite-only experiment) by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 191,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "YES if Google posts an official announcement (The Keyword / Google Search blog) by 2026-06-30 stating a Gemini-powered AI answer/summary feature is generally available in U.S. Search to broad users (language like 'rolling out broadly', 'available to all', or 'generally available'), not restricted to labs/testers; otherwise NO.",
+      "evidence": [
+        "Google is reorganizing leadership to protect search dominance amid generative AI competition."
+      ],
+      "monitoring_signals": [
+        "Google Search blog / The Keyword announcements",
+        "Product UI rollout notes and help-center documentation",
+        "Advertiser communications about AI answer placements"
+      ],
+      "rationale": "Competitive pressure from generative AI increases likelihood of broader Search integration and formal GA language.",
+      "id": "59008606-d7c4-4560-b1d1-e918e097db27",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Minor Planet Center will publish an orbit solution and official designation confirming the newly observed object as an interstellar comet (I/ designation) by 2026-01-31 (UTC).",
+      "category": "other",
+      "horizon_days": 41,
+      "deadline": "2026-01-31",
+      "confidence_pct": 65,
+      "log_odds": 0.619,
+      "verification_criteria": "YES if the Minor Planet Center (minorplanetcenter.net) issues an MPEC/circular by 2026-01-31 assigning an I/ designation and publishing orbital elements for the object; otherwise NO.",
+      "evidence": [
+        "NASA reported observation of a rare interstellar comet, typically followed by MPC designation after sufficient astrometry."
+      ],
+      "monitoring_signals": [
+        "Minor Planet Center MPEC feed for new I/ designations",
+        "NASA/JPL Small-Body Database updates",
+        "IAU/MPC announcements about hyperbolic orbit confirmation"
+      ],
+      "rationale": "Once candidate interstellar status is public, confirmation and formal MPC designation usually follow quickly with additional observations.",
+      "id": "8fae9b78-0cd9-4506-8c3a-daa81b603f5a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. Treasury (OFAC or FinCEN) will issue at least one public advisory or alert explicitly warning financial institutions about sanctions-evasion typologies involving Venezuelan oil shipments by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 191,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "log_odds": -0.323,
+      "verification_criteria": "YES if OFAC or FinCEN posts an advisory/alert by 2026-06-30 that explicitly mentions Venezuelan oil shipment sanctions evasion (e.g., AIS spoofing, STS transfers, document fraud) and provides compliance guidance; otherwise NO.",
+      "evidence": [
+        "Recent maritime enforcement actions elevate compliance risk and increase demand for typology guidance to the private sector."
+      ],
+      "monitoring_signals": [
+        "OFAC advisories page updates",
+        "FinCEN advisories and AML alerts",
+        "Industry compliance bulletins citing new U.S. government typology guidance"
+      ],
+      "rationale": "Enforcement escalations often coincide with typology advisories to operationalize compliance and deter facilitation.",
+      "id": "37188620-8eab-449c-ae9c-17490a0d92b3",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

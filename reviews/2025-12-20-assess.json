@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-20",
+  "assessments": [
+    {
+      "id": "97528892-3e6a-4b1a-8e76-b299748a80ae",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets do not mention the Federal Reserve publishing any Federal Register NPRM or proposed definition/framework for a limited-purpose \u201cpayment account\u201d for clearing/settlement access. Deadline is 2026-06-30, so the claim remains unresolved."
+    },
+    {
+      "id": "24cd13a7-2af4-4a4f-84f3-49c4191b1226",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets indicates the White House announced a nominee for the next Federal Reserve Chair. With a deadline of 2026-02-15, there is no confirming or disconfirming evidence here."
+    },
+    {
+      "id": "3df48ff2-eb4c-4285-a1b5-e7a4bc9068e4",
+      "status": "pending",
+      "status_rationale": "The provided news list contains no report of OpenAI confirming a primary financing round of at least $50B in gross proceeds. Deadline is 2026-09-30, so this remains open."
+    },
+    {
+      "id": "e8f11bbb-ad72-47ae-aef1-310ebced8ba8",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s bullets describe a definitive agreement for a $5B+ data-center acquisition by a data-center company/REIT or hyperscale-related operator. Deadline 2026-06-30; no clear evidence either way."
+    },
+    {
+      "id": "108610d7-a02f-4824-8ddb-e1efc019fd6c",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Tesla has filed a definitive proxy statement or other SEC filing putting Elon Musk\u2019s restored pay package mechanics to a shareholder vote (or similar formal action). Deadline is 2026-04-30."
+    },
+    {
+      "id": "e48b8f64-6a92-4584-a899-1cb187af12e2",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news does not include any Cisco security advisory stating a vulnerability is being \u201cactively exploited\u201d in the wild. With the deadline at 2026-03-31, the prediction remains unresolved."
+    },
+    {
+      "id": "2e6bba1c-349b-468f-889b-99bd5efac17f",
+      "status": "pending",
+      "status_rationale": "No bullet reports introduction of a bipartisan bill to cap or materially reform U.S. credit-card interchange fees. Deadline 2026-03-31; no evidence in the provided items."
+    },
+    {
+      "id": "00f62c47-dadd-453f-9f0c-9f70b59aa4da",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention any of the referenced large pharma companies announcing broad U.S. list-price reductions affecting 10+ branded drugs effective in 2026. Deadline is 2026-12-31, so still open."
+    },
+    {
+      "id": "10a3623e-32b8-42c6-ba64-9a1a205ed0e8",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s list references NOAA publishing an official verification/skill assessment showing its AI-driven global weather model outperforming a prior NOAA baseline on a named 3\u20137 day skill metric. Deadline 2026-06-30; unresolved."
+    }
+  ]
+}

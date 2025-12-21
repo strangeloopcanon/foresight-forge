@@ -18,7 +18,7 @@
       ],
       "rationale": "A public RFI often precedes an NPRM within 6\u201312 months when an agency is serious about rulemaking; payments-rail access is an active policy topic.",
       "id": "97528892-3e6a-4b1a-8e76-b299748a80ae",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "Chair succession planning typically becomes explicit months ahead; recent reporting suggests the process is underway.",
       "id": "24cd13a7-2af4-4a4f-84f3-49c4191b1226",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "rationale": "Reported target is extremely large; closing such a round is plausible but execution risk is substantial (syndication, valuation, regulatory scrutiny).",
       "id": "3df48ff2-eb4c-4285-a1b5-e7a4bc9068e4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "rationale": "With record recent volumes and ongoing AI-driven capacity demand, another multi-billion transaction in the next two quarters is plausible.",
       "id": "e8f11bbb-ad72-47ae-aef1-310ebced8ba8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "After a major court ruling, companies often move quickly to formalize implementation/ratification and reduce governance uncertainty.",
       "id": "108610d7-a02f-4824-8ddb-e1efc019fd6c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "High-profile campaign reporting increases the chance Cisco confirms exploitation via advisory updates within a quarter.",
       "id": "e48b8f64-6a92-4584-a899-1cb187af12e2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Payments cost pressure and competition policy remain recurring legislative themes, but timing is uncertain\u2014hence moderate-low confidence.",
       "id": "2e6bba1c-349b-468f-889b-99bd5efac17f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Public commitments increase probability of visible follow-through; using a \u226510-drug threshold avoids counting token cuts.",
       "id": "00f62c47-dadd-453f-9f0c-9f70b59aa4da",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "After operational deployment, agencies commonly publish validation; NOAA has incentives to document performance gains to support continued adoption.",
       "id": "10a3623e-32b8-42c6-ba64-9a1a205ed0e8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
