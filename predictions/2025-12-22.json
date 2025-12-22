@@ -1,0 +1,215 @@
+{
+  "date": "2025-12-22",
+  "predictions": [
+    {
+      "text": "S&P 500 will close at least 2.0% higher on 2025-12-31 than its close on 2025-12-22.",
+      "category": "markets",
+      "horizon_days": 9,
+      "deadline": "2025-12-31",
+      "confidence_pct": 42,
+      "log_odds": -0.323,
+      "verification_criteria": "Compare official S&P 500 close on 2025-12-22 vs 2025-12-31 (S&P Dow Jones Indices or Bloomberg/Refinitiv). Condition is met if Close(2025-12-31) / Close(2025-12-22) - 1 >= 0.02.",
+      "evidence": [
+        "Market commentary highlights positioning for a late-December 'Santa rally' after a choppy month (MarketWatch, 2025-12-21)."
+      ],
+      "monitoring_signals": [
+        "Daily S&P 500 closes and breadth (advance/decline)",
+        "Flows into U.S. equity ETFs and dealer gamma/positioning commentary",
+        "Key U.S. macro prints and rate-volatility (MOVE index) into year-end"
+      ],
+      "rationale": "Year-end seasonality and positioning support a bounce, but macro sensitivity and thin liquidity raise downside tail risk; 2% is achievable yet far from assured.",
+      "id": "cee882b0-576a-4423-b1d6-0ad63f380c4c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "China\u2019s PBoC will cut the 1-year Loan Prime Rate (LPR) by at least 10 basis points versus its 2025-12-22 level by 2026-03-31.",
+      "category": "rates",
+      "horizon_days": 99,
+      "deadline": "2026-03-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Use the official published 1-year LPR on the LPR setting dates. The prediction is true if any published 1-year LPR by 2026-03-31 is at least 0.10 percentage points lower than the published 1-year LPR as of 2025-12-22.",
+      "evidence": [
+        "China kept benchmark lending rates unchanged despite weak data (CNBC, 2025-12-22)."
+      ],
+      "monitoring_signals": [
+        "Monthly LPR fixings and PBoC guidance",
+        "Medium-term lending facility (MLF) rate changes and liquidity operations",
+        "China credit impulse, property sales/starts, and CPI/PPI trends"
+      ],
+      "rationale": "Weak domestic demand and property stress argue for easing, but policy reluctance and RMB stability constraints can delay LPR cuts.",
+      "id": "d1e3bd1e-cc59-4649-96b7-f29164ba27ab",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Department of Justice will publicly announce a criminal case (complaint/indictment/arrest) involving alleged PRC-directed transnational repression activity on U.S. soil by 2026-06-30.",
+      "category": "geopolitics",
+      "horizon_days": 190,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "A DOJ press release (justice.gov) or unsealed federal court filing must explicitly allege PRC/PRC-linked direction or coordination of harassment/coercion/illegal operations targeting individuals in the U.S. for political speech (i.e., transnational repression).",
+      "evidence": [
+        "Reporting highlights concerns about China targeting critics in the U.S., increasing scrutiny of influence operations (NYT, 2025-12-21)."
+      ],
+      "monitoring_signals": [
+        "DOJ National Security Division press releases and FBI public statements",
+        "New FARA-related enforcement actions tied to PRC-linked actors",
+        "Congressional hearings or letters on transnational repression"
+      ],
+      "rationale": "Elevated attention and prior enforcement patterns make another case plausible, but timing depends on investigative cycles and evidentiary thresholds.",
+      "id": "1f3c4387-8887-45be-8351-125b9a8e4f65",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Canada\u2019s federal government will announce new border-enforcement measures specifically targeting illegal firearm smuggling from the U.S., including either (a) new dedicated funding of at least C$100M or (b) a new legislative bill introduced in Parliament, by 2026-06-30.",
+      "category": "geopolitics",
+      "horizon_days": 190,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Verified by an official Government of Canada announcement (e.g., Public Safety Canada/CBSA) that either specifies >= C$100,000,000 in new funding explicitly for cross-border firearms interdiction or confirms tabling a bill whose stated purpose includes reducing illegal firearm smuggling from the U.S.",
+      "evidence": [
+        "Rising Canadian gun violence linked to U.S.-sourced firearms increases pressure for cross-border enforcement (NYT, 2025-12-21)."
+      ],
+      "monitoring_signals": [
+        "Federal budget/mini-budget line items and Public Safety Canada announcements",
+        "CBSA seizure statistics and joint task force announcements",
+        "Parliament bill introductions and committee agendas on firearms/smuggling"
+      ],
+      "rationale": "Political salience and bilateral enforcement optics favor action; exact scale and legislative path remain uncertain.",
+      "id": "e7e9e72f-b67f-4a97-a48c-f2a35aca12bb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The European Commission will publish a formal legislative proposal (COM document) that changes or delays at least one key element of the EU\u2019s 2035 light-duty vehicle zero-CO2 target / ICE phaseout framework by 2026-06-30.",
+      "category": "macro",
+      "horizon_days": 190,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "True if the European Commission publishes a COM-numbered proposal amending the relevant regulations/directives such that it (i) alters the 2035 target, (ii) introduces a compliance derogation/extension, or (iii) creates a new pathway materially affecting the phaseout (e.g., broader e-fuels carveout).",
+      "evidence": [
+        "Reports of EU watering down 2035 EV targets raise policy uncertainty (TechCrunch, 2025-12-21)."
+      ],
+      "monitoring_signals": [
+        "European Commission work programme and mobility/climate legislative calendar",
+        "EU Council/Parliament negotiation updates on CO2 standards",
+        "Automaker lobbying signals and member-state position papers"
+      ],
+      "rationale": "Public debate and competitiveness pressures make a proposal plausible, but institutional friction could slow a formal COM issuance.",
+      "id": "f5649db2-7012-425f-bfa2-8ccd69923be3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "California regulators will open a formal proceeding (e.g., CPUC Order Instituting Investigation or DMV enforcement action) explicitly referencing the San Francisco robotaxi service disruption during the reported blackout-related incident, by 2026-03-31.",
+      "category": "tech",
+      "horizon_days": 99,
+      "deadline": "2026-03-31",
+      "confidence_pct": 30,
+      "log_odds": -0.847,
+      "verification_criteria": "True if CPUC, CA DMV, or NHTSA posts an official docket entry/order/action that explicitly cites the SF outage/blackout disruption described in public reporting and initiates a formal investigation/enforcement process (not just an information request).",
+      "evidence": [
+        "Waymo paused SF robotaxi service after a blackout, highlighting infrastructure dependence and reliability issues (NYT, 2025-12-21)."
+      ],
+      "monitoring_signals": [
+        "CPUC AV docket postings and meeting agendas",
+        "CA DMV AV permit action logs and suspension notices",
+        "NHTSA ODI inquiries/standing general orders updates"
+      ],
+      "rationale": "Regulators often respond to high-visibility AV incidents, but this event may be treated as operational rather than safety-critical, lowering odds of a formal proceeding.",
+      "id": "9cc6a632-1ebe-4896-b0d7-6f72b7936955",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Challenger, Gray & Christmas (or another widely cited U.S. layoff tracker) will report at least 150,000 U.S. job-cut announcements explicitly attributed to AI/automation in 2026 H1 (Jan\u2013Jun).",
+      "category": "macro",
+      "horizon_days": 190,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "True if a reputable tracker\u2019s published aggregation for 2026-01-01 through 2026-06-30 states cumulative announced layoffs explicitly attributed to AI/automation >= 150,000 (either in a single report or via monthly totals that sum to >=150,000).",
+      "evidence": [
+        "Reports cite AI in 50,000+ layoffs in 2025, suggesting acceleration of AI-attributed displacement (CNBC, 2025-12-21)."
+      ],
+      "monitoring_signals": [
+        "Monthly Challenger job-cut reports and category breakdowns",
+        "Large-company WARN notices and earnings-call layoff rationales",
+        "Major tech and retail restructuring announcements referencing automation/AI"
+      ],
+      "rationale": "AI attribution is rising but classification is noisy; hitting 150k in six months requires multiple very large restructurings being explicitly labeled as AI-driven.",
+      "id": "fe7ba0cf-ea12-49ca-ae51-a0287f0094bb",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A CO2-based energy storage technology provider will announce commercial operation (COD) of a grid-connected project with nameplate energy capacity of at least 10 MWh by 2026-12-31.",
+      "category": "energy",
+      "horizon_days": 374,
+      "deadline": "2026-12-31",
+      "confidence_pct": 25,
+      "log_odds": -1.099,
+      "verification_criteria": "True if a project developer or utility announces COD for a grid-connected CO2-based storage system (compressed/liquefied/supercritical CO2 cycle) with >=10 MWh stated capacity; press release, regulatory filing, or utility project page acceptable.",
+      "evidence": [
+        "CO2-based energy storage systems are gaining traction as long-duration alternatives (IEEE Spectrum, 2025-12-21)."
+      ],
+      "monitoring_signals": [
+        "Utility interconnection queues and public IRP filings mentioning CO2 storage",
+        "DOE/ARPA\u2011E award updates and project milestone announcements",
+        "Developer press releases indicating commissioning timelines and capacity"
+      ],
+      "rationale": "Momentum exists, but scaling to 10 MWh grid COD depends on financing, permitting, and execution risk typical for first-of-kind deployments.",
+      "id": "a43a823a-d235-4ce0-aca2-c4ac9c7e7178",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The U.S. (NOAA, USGS, or FEMA) will announce at least $50M in new federal funding awards specifically for tsunami risk mitigation or evacuation infrastructure in Alaska by 2026-09-30.",
+      "category": "science",
+      "horizon_days": 282,
+      "deadline": "2026-09-30",
+      "confidence_pct": 28,
+      "log_odds": -0.944,
+      "verification_criteria": "True if an official federal announcement (press release, grants database update, or Federal Register notice) awards or allocates >=$50,000,000 in aggregate for Alaska tsunami mitigation (e.g., evacuation routes/towers, warning systems, resilience infrastructure), with tsunami risk explicitly cited.",
+      "evidence": [
+        "New research highlights hidden seismic signals indicating Alaska tsunami risk, raising planning and insurance implications (ScienceDaily, 2025-12-21)."
+      ],
+      "monitoring_signals": [
+        "FEMA BRIC/HAZMIT grant award cycles and NOAA tsunami program funding notices",
+        "Alaska delegation appropriations announcements",
+        "USGS/NOAA hazard updates tied to Alaska coastal communities"
+      ],
+      "rationale": "Improved risk characterization can support funding, but large dedicated allocations face appropriations and program-eligibility constraints.",
+      "id": "a9a8f16c-d9ec-4997-b43d-9d93ad35002a",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The U.S. government will publicly report (press release or official statement) the seizure, detention, or forced diversion to a U.S.-controlled port/anchorage of at least one tanker carrying Venezuelan-origin crude or products by 2026-03-31.",
+      "category": "geopolitics",
+      "horizon_days": 99,
+      "deadline": "2026-03-31",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "True if a U.S. federal agency (USCG, DOJ, Treasury, DHS) publicly states it seized/detained/diverted a tanker and explicitly links the cargo to Venezuelan-origin crude/oil products (or Venezuela-linked sanctions-evading shipments).",
+      "evidence": [
+        "U.S. Coast Guard pursuit of a Venezuela-linked oil tanker signals tighter enforcement risk (NYT, 2025-12-21)."
+      ],
+      "monitoring_signals": [
+        "USCG district press releases and DHS/DOJ asset forfeiture announcements",
+        "OFAC enforcement actions referencing maritime shipments",
+        "AIS/shiptracking anomalies and insurer/charterer advisories tied to Venezuela routes"
+      ],
+      "rationale": "Enforcement intensity is rising, but moving from pursuit/interdiction activity to publicly disclosed seizure/diversion depends on legal posture and operational opportunities.",
+      "id": "7a0d22ee-060b-4b99-bf7e-94cb0411d10e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

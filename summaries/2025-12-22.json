@@ -1,0 +1,101 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. Coast Guard pursuit of a Venezuela-linked oil tanker signals tighter sanctions enforcement risk, potentially disrupting gray-market crude flows and regional shipping/insurance costs.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/21/us/politics/us-coast-guard-venezuela-oil-tankers.html"
+    },
+    {
+      "text": "Russia downplays Ukraine peace-talk progress, reinforcing expectations of prolonged conflict and continued defense spending, sanctions, and commodity/energy-risk premia.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/12/21/world/europe/ukraine-peace-talks.html"
+    },
+    {
+      "text": "China\u2019s raid on a major underground church highlights intensifying state control over civil society, raising operating and reputational risks for foreign-linked religious and NGO networks.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/21/world/asia/china-christian-zion-church-raid.html"
+    },
+    {
+      "text": "Reports of China targeting critics in the U.S. underscore transnational repression concerns, likely increasing scrutiny of Chinese influence operations and affecting diaspora and academic/tech collaboration.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2025/12/21/world/asia/chinese-dissidents-protest-art.html"
+    },
+    {
+      "text": "U.S.-sourced firearms flowing into Canada are linked to rising gun violence, pressuring cross-border enforcement and potentially tightening trade, customs, and firearms regulation.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/12/21/world/americas/canada-gun-violence-us.html"
+    },
+    {
+      "text": "China kept benchmark lending rates unchanged despite weak data, signaling reluctance for broad stimulus and prolonging pressure on property markets and domestic demand.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/12/22/china-lpr-1-year-5-year-property-market-weak-economic-data-.html"
+    },
+    {
+      "text": "Investors are positioning for a year-end 'Santa rally' after a choppy December, highlighting sentiment-driven flows and elevated sensitivity to macro surprises.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/dont-give-up-on-a-santa-claus-rally-just-yet-even-after-a-rough-december-start-for-stocks-d75e3e2d"
+    },
+    {
+      "text": "Waymo pausing San Francisco robotaxi service after a blackout shows autonomy\u2019s dependence on resilient infrastructure, raising reliability, regulatory, and scaling risks for AV deployments.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/12/21/us/waymo-suspended-service-in-san-francisco-after-problems-during-power-outage.html"
+    },
+    {
+      "text": "AI cited in 50,000+ layoffs in 2025 suggests accelerating labor displacement and productivity reallocation, reshaping wage dynamics, retraining needs, and tech-capex priorities.",
+      "tags": [
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/21/ai-job-cuts-amazon-microsoft-and-more-cite-ai-for-2025-layoffs.html"
+    },
+    {
+      "text": "EU watering down 2035 EV targets raises policy uncertainty, potentially slowing battery/charging investment and challenging EV startups\u2019 funding assumptions and demand forecasts.",
+      "tags": [
+        "macro",
+        "tech",
+        "energy"
+      ],
+      "link": "https://techcrunch.com/2025/12/21/as-eu-waters-down-2035-ev-goals-electric-startups-express-concern/"
+    },
+    {
+      "text": "CO2-based energy-storage systems gaining traction could add long-duration grid flexibility, improving renewable integration economics and diversifying storage beyond lithium-ion supply chains.",
+      "tags": [
+        "energy",
+        "tech"
+      ],
+      "link": "https://spectrum.ieee.org/co2-battery-energy-storage"
+    },
+    {
+      "text": "Hidden seismic signals indicating Alaska tsunami risk improve hazard forecasting, with implications for coastal infrastructure planning, insurance risk models, and emergency-response investment.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251221043230.htm"
+    }
+  ]
+}

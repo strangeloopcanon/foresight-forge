@@ -19,7 +19,7 @@
       ],
       "rationale": "With succession described as imminent, a formal and dated public transition announcement is likely within weeks.",
       "id": "606e314a-00a5-4b09-ae9a-81dc987edb32",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Escalating enforcement often pairs operational interdictions with follow-on network designations to raise compliance risk for facilitators.",
       "id": "e74fcd56-4610-442d-a239-878db51d66ea",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Even brief enforcement spikes can cause episodic export drawdowns via delayed liftings and higher compliance risk.",
       "id": "27d704b7-6550-4a36-a71e-307b41632960",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "High-impact state tech regulations frequently draw rapid federal challenges on preemption, speech, and dormant commerce grounds.",
       "id": "06daf9e0-d4f6-4a8a-b7f2-c92d93ccbc61",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "State policy diffusion is common when a first-mover law creates a template and advocacy momentum.",
       "id": "5bd6842b-7049-487d-973b-92e65447962a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Stablecoin legislation has repeated near-miss history; committee reconfiguration often triggers a renewed bipartisan push.",
       "id": "11492cde-1576-444a-8516-71cde9092478",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "High rates and stretched affordability raise odds of at least a temporary negative YoY print in a major price index.",
       "id": "5cb63c88-f0d6-419c-bad5-259e8160ece9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Competitive pressure from generative AI increases likelihood of broader Search integration and formal GA language.",
       "id": "59008606-d7c4-4560-b1d1-e918e097db27",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Once candidate interstellar status is public, confirmation and formal MPC designation usually follow quickly with additional observations.",
       "id": "8fae9b78-0cd9-4506-8c3a-daa81b603f5a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Enforcement escalations often coincide with typology advisories to operationalize compliance and deter facilitation.",
       "id": "37188620-8eab-449c-ae9c-17490a0d92b3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

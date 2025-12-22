@@ -1,0 +1,55 @@
+{
+  "date": "2025-12-21",
+  "assessments": [
+    {
+      "id": "606e314a-00a5-4b09-ae9a-81dc987edb32",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets indicates Berkshire Hathaway has announced (press release or 8-K) that Greg Abel has become CEO; deadline is 2026-01-15."
+    },
+    {
+      "id": "e74fcd56-4610-442d-a239-878db51d66ea",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news includes an NYT story about a Coast Guard pursuit linked to Venezuela, but there is no cited OFAC announcement of new Venezuela-related SDN designations tied to oil shipping/trading networks; deadline is 2026-02-28."
+    },
+    {
+      "id": "27d704b7-6550-4a36-a71e-307b41632960",
+      "status": "pending",
+      "status_rationale": "No Reuters/Bloomberg report in today\u2019s bullets cites Kpler/Vortexa data showing Venezuela seaborne crude+condensate exports falling below a 4-week average of 600 kb/d; deadline is 2026-03-31."
+    },
+    {
+      "id": "06daf9e0-d4f6-4a8a-b7f2-c92d93ccbc61",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s bullets of a major tech trade association or frontier-AI developer filing a federal lawsuit challenging New York\u2019s RAISE Act (or implementing provisions); deadline is 2026-03-31."
+    },
+    {
+      "id": "5bd6842b-7049-487d-973b-92e65447962a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention any U.S. state legislature (outside New York) introducing a bill mandating safety evaluations/risk management obligations specifically for frontier/foundation models; deadline is 2026-06-30."
+    },
+    {
+      "id": "11492cde-1576-444a-8516-71cde9092478",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets indicates introduction of a bipartisan U.S. Senate bill establishing a federal payment-stablecoin regulatory framework; deadline is 2026-03-31."
+    },
+    {
+      "id": "5cb63c88-f0d6-419c-bad5-259e8160ece9",
+      "status": "pending",
+      "status_rationale": "No referenced Case-Shiller 20-city release in today\u2019s bullets shows negative YoY home price growth; deadline is 2026-06-30."
+    },
+    {
+      "id": "59008606-d7c4-4560-b1d1-e918e097db27",
+      "status": "pending",
+      "status_rationale": "No announcement in today\u2019s bullets that Google has made a Gemini-powered AI answers feature generally available in U.S. core Search (beyond invite-only/experimental); deadline is 2026-06-30."
+    },
+    {
+      "id": "8fae9b78-0cd9-4506-8c3a-daa81b603f5a",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s bullets indicates the Minor Planet Center has published an orbit solution/designation confirming a newly observed object as an interstellar comet (I/); deadline is 2026-01-31."
+    },
+    {
+      "id": "37188620-8eab-449c-ae9c-17490a0d92b3",
+      "status": "pending",
+      "status_rationale": "While today\u2019s news includes Venezuela-linked oil-tanker enforcement activity, there is no cited OFAC/FinCEN public advisory/alert explicitly warning financial institutions about sanctions-evasion typologies involving Venezuelan oil shipments; deadline is 2026-06-30."
+    }
+  ]
+}
