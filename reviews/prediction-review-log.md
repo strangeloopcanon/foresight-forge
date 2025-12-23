@@ -1413,3 +1413,14 @@ Overall, today’s feed is dominated by U.S. politics, consumer/business feature
 
 ---
 
+
+## 2025-12-22
+
+Only one forecast cleanly resolves on today’s reporting: the U.S. government tanker-seizure prediction is supported by multiple prominent stories explicitly describing Venezuelan-linked tanker seizures. Given the prediction’s requirement of a public report and at least one tanker, the threshold appears clearly met, and it also resolves well ahead of the stated deadline.
+
+All other items remain time-dependent and lack decisive confirming or disconfirming evidence in today’s bullets. Several topics appear adjacent (e.g., a China-linked legal case, broad U.S. political/legal developments), but none match the specific operational criteria in the forecasts (e.g., DOJ announcement of PRC-directed transnational repression on U.S. soil; a specific Canadian border-enforcement package for firearm smuggling; an EC COM proposal modifying the 2035 framework). The near-term S&P 500 call also cannot be judged until the 2025-12-31 close is known.
+
+Overall, today’s news provides a strong validation signal for the Venezuela-related enforcement trajectory while offering little incremental evidence on the remaining forecasts. The unresolved predictions are mostly structured appropriately with clear triggers (COM document, formal proceedings, tracker totals), which should make later adjudication straightforward when the relevant announcements occur.
+
+---
+

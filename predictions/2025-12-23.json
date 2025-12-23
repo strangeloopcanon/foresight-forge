@@ -1,0 +1,247 @@
+{
+  "date": "2025-12-23",
+  "predictions": [
+    {
+      "text": "The U.S. Bureau of Ocean Energy Management (BOEM) will NOT conduct any competitive offshore wind lease auction in U.S. federal waters between 2025-12-23 and 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 189,
+      "deadline": "2026-06-30",
+      "confidence_pct": 62,
+      "log_odds": 0.4895482253187058,
+      "verification_criteria": "Resolves YES if BOEM holds zero competitive offshore wind lease auctions (lease sale events) in U.S. federal waters during the stated window. Resolves NO if any such BOEM lease sale occurs before or on 2026-06-30 (UTC). Sources: BOEM press releases, Federal Register notices, and BOEM lease sale webpages.",
+      "evidence": [
+        "Reported U.S. halt of major offshore wind projects/leases (~6 GW) increases likelihood of no near-term lease sales.",
+        "Lease auctions require multi-month planning and Federal Register notices; abrupt policy shifts typically pause auctions."
+      ],
+      "monitoring_signals": [
+        "BOEM leasing schedule updates and Notices of Sale in the Federal Register",
+        "DOI/BOEM public statements on offshore wind policy",
+        "Developer/utility earnings calls discussing federal leasing pipeline"
+      ],
+      "rationale": "A broad federal pause and heightened regulatory risk make it more likely BOEM avoids new auctions in the next ~6 months.",
+      "id": "f98d47c3-0913-4ad0-9b1e-44d8c711895c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Dominion Energy will disclose an impairment, write-down, or asset valuation charge of at least $500 million related to offshore wind in an SEC filing or earnings release by 2026-05-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 143,
+      "deadline": "2026-05-15",
+      "confidence_pct": 38,
+      "log_odds": -0.4895482253187058,
+      "verification_criteria": "Resolves YES if Dominion Energy reports (10-K/10-Q/8-K, earnings release, or audited financial statements) an impairment or valuation charge >=$500M explicitly tied to offshore wind assets/projects. Resolves NO otherwise by deadline.",
+      "evidence": [
+        "Reported federal halt of major offshore wind projects/leases raises probability of project delays/cancellations and associated accounting impairments.",
+        "Utilities have previously taken large charges following regulatory/financing shocks to generation projects."
+      ],
+      "monitoring_signals": [
+        "Dominion quarterly/annual filings and earnings transcripts",
+        "Credit-rating agency notes on offshore wind exposure",
+        "Project-specific regulatory updates (permits, stop-work, cost revisions)"
+      ],
+      "rationale": "If halted leases materially reduce expected cash flows or extend timelines, accounting rules can force impairments; size threshold keeps this from being a trivial charge.",
+      "id": "1c27e1f1-da81-47cc-9317-e533a10fdc92",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The European Commission will initiate a WTO dispute against China concerning the reported tariffs on EU dairy (e.g., request for consultations) by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 189,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.20067069546215124,
+      "verification_criteria": "Resolves YES if the EU (European Commission) files/announces a WTO request for consultations or dispute case specifically referencing China\u2019s dairy tariffs/measures reported on 2025-12-22. Sources: WTO dispute settlement database (DS), EU Commission trade press releases.",
+      "evidence": [
+        "China\u2019s imposition of up to 42.7% tariffs on EU dairy suggests escalating trade disputes.",
+        "EU has a track record of using WTO dispute mechanisms in high-profile trade conflicts."
+      ],
+      "monitoring_signals": [
+        "EU DG Trade statements and retaliatory-measure announcements",
+        "WTO DS filings involving EU vs China",
+        "EU member-state trade minister comments and Council conclusions"
+      ],
+      "rationale": "A sharp, targeted tariff increase makes formal escalation plausible; WTO route is a common EU response even amid broader fragmentation.",
+      "id": "c7d0fd8c-f626-48c4-a154-b00d8183b940",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The India\u2013New Zealand free-trade agreement announced on 2025-12-22 will enter into force (effective date announced by either government) by 2026-12-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 374,
+      "deadline": "2026-12-31",
+      "confidence_pct": 60,
+      "log_odds": 0.4054651081081642,
+      "verification_criteria": "Resolves YES if an official government source (India or New Zealand) announces the FTA has entered into force or provides an effective date on/before 2026-12-31 (UTC). Resolves NO otherwise.",
+      "evidence": [
+        "Announced pact making most goods duty-free indicates substantial political buy-in and advanced negotiations.",
+        "FTAs commonly require domestic ratification but often enter into force within ~6\u201318 months after signature/announcement."
+      ],
+      "monitoring_signals": [
+        "Parliamentary ratification steps in India and New Zealand",
+        "Publication of implementing schedules/tariff books",
+        "Official gazette notices or treaty-depository updates"
+      ],
+      "rationale": "Given public announcement and clear market-facing benefits, the probability of completion within a year is moderate-to-high, but ratification risks remain.",
+      "id": "5210c4cf-e120-439c-82b4-c22404ff4877",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Spot gold (XAU/USD) will record at least one daily close above its 2025-12-22 record close by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 189,
+      "deadline": "2026-06-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08004270767353636,
+      "verification_criteria": "Resolves YES if any daily close for XAU/USD (spot) exceeds the 2025-12-22 daily close (record close referenced in widely cited market data) on or before 2026-06-30 (UTC). Data sources: LBMA, Refinitiv, Bloomberg, or CME spot proxies.",
+      "evidence": [
+        "Reported gold and silver at new highs indicates strong momentum and hedging demand.",
+        "Geopolitical and real-rate uncertainty historically supports further upside tail risk in gold."
+      ],
+      "monitoring_signals": [
+        "Real yields (U.S. TIPS), USD index trend",
+        "Central bank gold purchases and ETF flows",
+        "Risk-off shocks and inflation surprises"
+      ],
+      "rationale": "New highs often cluster; with elevated uncertainty and potential for looser real rates, a further record close within 6 months is slightly more likely than not.",
+      "id": "330b2712-95be-48fe-b184-64755403f417",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Alphabet/Google will announce at least one North America data-center power procurement deal totaling \u22651.0 GW of nameplate capacity (e.g., PPAs, generation acquisition, or dedicated build agreement) by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 189,
+      "deadline": "2026-06-30",
+      "confidence_pct": 57,
+      "log_odds": 0.281851152140729,
+      "verification_criteria": "Resolves YES if Alphabet/Google (or Google Cloud) publicly announces one or more transactions that explicitly total \u22651.0 GW of nameplate generation capacity dedicated to or contracted for North America data centers (may be aggregated if announced as a package). Sources: company press releases, SEC filings, or major wire reporting citing company confirmation.",
+      "evidence": [
+        "Reported Alphabet acquisition of Intersect Power highlights power as the binding constraint for AI/data-center scaling.",
+        "Hyperscalers increasingly sign large multi-hundred-MW PPAs; aggregation to \u22651 GW within 6 months is plausible amid constraints."
+      ],
+      "monitoring_signals": [
+        "Google sustainability/energy procurement announcements",
+        "Regional interconnection queue and utility partnership news",
+        "Intersect Power project pipeline updates post-acquisition"
+      ],
+      "rationale": "After a strategic generation move, follow-on large-scale procurement/contracting is a likely next step to secure near-term capacity.",
+      "id": "7b318e7b-f41f-42e4-b439-5393b0ff681f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Warner Bros. Discovery and Paramount will announce a definitive merger agreement (signed deal) by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 282,
+      "deadline": "2026-09-30",
+      "confidence_pct": 34,
+      "log_odds": -0.6632942174102642,
+      "verification_criteria": "Resolves YES if WBD and Paramount announce a signed definitive agreement to merge or for one to acquire the other (including stock-and-cash). Sources: joint press release, SEC filings (8-K/S-4), or company-confirmed reporting. Resolves NO otherwise by deadline.",
+      "evidence": [
+        "Reported renewed bid dynamics and named financing backing indicate continued consolidation pressure.",
+        "Streaming economics and scale incentives have driven repeated M&A attempts across legacy media."
+      ],
+      "monitoring_signals": [
+        "Exclusive talks or go-shop/exclusivity reports from major outlets",
+        "Financing commitments, bridge loans, or bankers retained",
+        "Regulatory signaling (DOJ/FTC) and deal structure leaks"
+      ],
+      "rationale": "Strategic logic exists but financing, valuation gaps, and antitrust/political risk keep probability below 50% within this timeframe.",
+      "id": "75e4ee33-1cba-4e3f-8357-5151fd9f3205",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Novo Nordisk will report at least $500 million in quarterly net sales (company-reported) for its newly approved oral GLP-1 obesity pill in a financial report released by 2026-12-31 (UTC).",
+      "category": "science",
+      "horizon_days": 374,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "log_odds": -0.8472978603872036,
+      "verification_criteria": "Resolves YES if Novo Nordisk reports (in a quarterly earnings release, investor presentation, or financial statements) net sales for the specific oral obesity GLP-1 pill product (by brand or clearly identified) of \u2265$500M in any single quarter by 2026-12-31 (UTC). Resolves NO otherwise.",
+      "evidence": [
+        "FDA approval of a first oral GLP-1 obesity pill could expand access versus injectables, potentially accelerating uptake.",
+        "However, payer coverage, pricing, and supply constraints often slow first-year commercialization."
+      ],
+      "monitoring_signals": [
+        "PBM/formulary and employer coverage announcements",
+        "Novo production/supply updates and guidance revisions",
+        "Prescription volume trackers and channel checks"
+      ],
+      "rationale": "Big upside exists given category demand, but high sales in a single quarter within the first year faces coverage and rollout frictions.",
+      "id": "56265b65-b655-4c4b-860e-27d98e6532de",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Defense (DoD) will award or announce a contract (or OTA award) of at least $150 million to expand U.S. rare-earth permanent magnet manufacturing capacity by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 189,
+      "deadline": "2026-06-30",
+      "confidence_pct": 46,
+      "log_odds": -0.16034265007517945,
+      "verification_criteria": "Resolves YES if DoD (or a DoD component) publicly announces a single award \u2265$150M (or multiple awards announced as one package totaling \u2265$150M) explicitly aimed at rare-earth permanent magnet manufacturing in the U.S. Sources: DoD press releases, SAM.gov award notices, congressional notifications, or company releases citing DoD award details.",
+      "evidence": [
+        "Recent reporting emphasizes strategic material bottlenecks and mitigation efforts for defense supply chains post-China curbs.",
+        "DoD has repeatedly used sizable awards/OTAs to accelerate domestic capacity in constrained supply chains."
+      ],
+      "monitoring_signals": [
+        "DoD Industrial Base Analysis and Sustainment (IBAS) announcements",
+        "National Defense Stockpile and DPA Title III activity",
+        "Earnings/news from MP Materials, Lynas, Vacuumschmelze/US magnet projects, and peers"
+      ],
+      "rationale": "Strategic urgency is real, but procurement timing and budget execution uncertainty keep odds near mid-range.",
+      "id": "5dd54927-d306-4643-8c46-293487e7fecd",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Denmark\u2019s government will announce a new Arctic/Greenland security spending package totaling at least DKK 5.0 billion (\u2248US$700M) by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 189,
+      "deadline": "2026-06-30",
+      "confidence_pct": 41,
+      "log_odds": -0.3639653777821267,
+      "verification_criteria": "Resolves YES if Denmark\u2019s government (Ministry of Defence, Prime Minister\u2019s Office, or Finance Ministry) announces a discrete funding package (new allocation, supplemental budget, or multi-year agreement) with stated total \u2265DKK 5.0B primarily for Arctic/Greenland defense/security (basing, surveillance, patrols, infrastructure). Resolves NO otherwise by deadline.",
+      "evidence": [
+        "Reported Denmark/Greenland rebuke of U.S. envoy move underscores rising Arctic geopolitical pressure.",
+        "Arctic competition has been driving incremental defense investments among Nordic states."
+      ],
+      "monitoring_signals": [
+        "Danish defence agreements (Forsvarsforlig) updates and budget bills",
+        "Announcements about Arctic surveillance, drones, satellites, or basing upgrades",
+        "Greenland/Danish diplomatic escalations tied to Arctic access"
+      ],
+      "rationale": "Geopolitical signaling may translate into budgeted action, but Denmark\u2019s coalition politics and fiscal tradeoffs make a large near-term package uncertain.",
+      "id": "1a095be1-87e2-4924-80e7-a5259c34ee32",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. CPI for the BLS category 'distilled spirits' will be negative year-over-year in at least one monthly CPI release published by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 189,
+      "deadline": "2026-06-30",
+      "confidence_pct": 44,
+      "log_odds": -0.2411620568168882,
+      "verification_criteria": "Resolves YES if any BLS CPI report (monthly release) shows the 'distilled spirits' index with YoY percent change < 0.0% for that month, in a release published on/before 2026-06-30 (UTC). Source: U.S. Bureau of Labor Statistics CPI tables.",
+      "evidence": [
+        "Reported production pause at a flagship Jim Beam distillery signals weakening demand and potential discounting/inventory overhang.",
+        "Consumer staples categories with inventory gluts often exhibit episodic negative YoY CPI prints."
+      ],
+      "monitoring_signals": [
+        "Large spirits producers\u2019 pricing/promo commentary",
+        "Retail scanner data and inventory indicators",
+        "BLS CPI detail tables for alcohol at home"
+      ],
+      "rationale": "If demand softness persists, promotions and trade-down dynamics can push the category into at least a brief negative YoY CPI print.",
+      "id": "eb43ee19-2345-4d11-94c5-82f3212eacdc",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

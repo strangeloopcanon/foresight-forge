@@ -19,7 +19,7 @@
       ],
       "rationale": "Year-end seasonality and positioning support a bounce, but macro sensitivity and thin liquidity raise downside tail risk; 2% is achievable yet far from assured.",
       "id": "cee882b0-576a-4423-b1d6-0ad63f380c4c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Weak domestic demand and property stress argue for easing, but policy reluctance and RMB stability constraints can delay LPR cuts.",
       "id": "d1e3bd1e-cc59-4649-96b7-f29164ba27ab",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Elevated attention and prior enforcement patterns make another case plausible, but timing depends on investigative cycles and evidentiary thresholds.",
       "id": "1f3c4387-8887-45be-8351-125b9a8e4f65",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Political salience and bilateral enforcement optics favor action; exact scale and legislative path remain uncertain.",
       "id": "e7e9e72f-b67f-4a97-a48c-f2a35aca12bb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Public debate and competitiveness pressures make a proposal plausible, but institutional friction could slow a formal COM issuance.",
       "id": "f5649db2-7012-425f-bfa2-8ccd69923be3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Regulators often respond to high-visibility AV incidents, but this event may be treated as operational rather than safety-critical, lowering odds of a formal proceeding.",
       "id": "9cc6a632-1ebe-4896-b0d7-6f72b7936955",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "AI attribution is rising but classification is noisy; hitting 150k in six months requires multiple very large restructurings being explicitly labeled as AI-driven.",
       "id": "fe7ba0cf-ea12-49ca-ae51-a0287f0094bb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Momentum exists, but scaling to 10 MWh grid COD depends on financing, permitting, and execution risk typical for first-of-kind deployments.",
       "id": "a43a823a-d235-4ce0-aca2-c4ac9c7e7178",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Improved risk characterization can support funding, but large dedicated allocations face appropriations and program-eligibility constraints.",
       "id": "a9a8f16c-d9ec-4997-b43d-9d93ad35002a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Enforcement intensity is rising, but moving from pursuit/interdiction activity to publicly disclosed seizure/diversion depends on legal posture and operational opportunities.",
       "id": "7a0d22ee-060b-4b99-bf7e-94cb0411d10e",
-      "outcome": null,
+      "outcome": "correct",
       "confidence_bin": "30-40"
     }
   ]

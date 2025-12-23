@@ -1,0 +1,55 @@
+{
+  "date": "2025-12-22",
+  "assessments": [
+    {
+      "id": "cee882b0-576a-4423-b1d6-0ad63f380c4c",
+      "status": "pending",
+      "status_rationale": "This prediction depends on the S&P 500 close on 2025-12-31 versus 2025-12-22; today\u2019s news does not provide the 12/31 closing level."
+    },
+    {
+      "id": "d1e3bd1e-cc59-4649-96b7-f29164ba27ab",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates a PBoC 1-year LPR cut of at least 10 bps versus the 2025-12-22 level; the deadline is 2026-03-31."
+    },
+    {
+      "id": "1f3c4387-8887-45be-8351-125b9a8e4f65",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets include a mistrial in a New York case involving alleged work for China, but nothing about a DOJ-announced criminal case specifically involving PRC-directed transnational repression activity on U.S. soil; deadline is 2026-06-30."
+    },
+    {
+      "id": "e7e9e72f-b67f-4a97-a48c-f2a35aca12bb",
+      "status": "pending",
+      "status_rationale": "No bullet describes Canada announcing new border-enforcement measures targeting illegal firearm smuggling from the U.S. with C$100M+ funding or a new bill; deadline is 2026-06-30."
+    },
+    {
+      "id": "f5649db2-7012-425f-bfa2-8ccd69923be3",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the European Commission has published a COM legislative proposal altering/delaying the EU 2035 light-duty vehicle zero-CO2/ICE phaseout framework; deadline is 2026-06-30."
+    },
+    {
+      "id": "9cc6a632-1ebe-4896-b0d7-6f72b7936955",
+      "status": "pending",
+      "status_rationale": "No bullet reports a California regulator opening a formal proceeding explicitly referencing the San Francisco robotaxi blackout-related service disruption; deadline is 2026-03-31."
+    },
+    {
+      "id": "fe7ba0cf-ea12-49ca-ae51-a0287f0094bb",
+      "status": "pending",
+      "status_rationale": "This is a 2026 H1 layoff-tracker metric; today\u2019s news does not provide any relevant 2026 H1 tracker totals."
+    },
+    {
+      "id": "a43a823a-d235-4ce0-aca2-c4ac9c7e7178",
+      "status": "pending",
+      "status_rationale": "No bullet indicates a CO2-based energy storage provider has announced commercial operation of a \u226510 MWh grid-connected project; deadline is 2026-12-31."
+    },
+    {
+      "id": "a9a8f16c-d9ec-4997-b43d-9d93ad35002a",
+      "status": "pending",
+      "status_rationale": "No bullet mentions NOAA/USGS/FEMA announcing \u2265$50M in new federal funding awards specifically for tsunami risk mitigation/evacuation infrastructure in Alaska; deadline is 2026-09-30."
+    },
+    {
+      "id": "7a0d22ee-060b-4b99-bf7e-94cb0411d10e",
+      "status": "correct",
+      "status_rationale": "Today\u2019s news explicitly reports that the Trump administration is conducting oil tanker seizures targeting Venezuela (NYT and CNBC items), which constitutes a public report of seizure/detention/forced diversion of at least one tanker carrying Venezuelan-origin crude/products, and this occurs before the 2026-03-31 deadline."
+    }
+  ]
+}
