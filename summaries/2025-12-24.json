@@ -1,0 +1,115 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. real GDP surged 4.3% in Q3 2025 (initial estimate), highlighting strong growth momentum; corporate profits also reported in the same release.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bea.gov/news/2025/gross-domestic-product-3rd-quarter-2025-initial-estimate-and-corporate-profits"
+    },
+    {
+      "text": "Fed released guidance on how delayed G.17 industrial data for Sep\u2013Nov 2025 affects industrial production and capacity utilization estimates; revisions risk.",
+      "tags": [
+        "macro"
+      ],
+      "link": "http://www.federalreserve.gov/feeds/G17.html#3820"
+    },
+    {
+      "text": "October and November 2025 G.17 industrial data are now available, improving visibility into manufacturing trends after publication delays.",
+      "tags": [
+        "macro"
+      ],
+      "link": "http://www.federalreserve.gov/feeds/G17.html#3821"
+    },
+    {
+      "text": "Fed approved National Bank Holdings Corporation\u2019s application, signaling regulatory clearance for an expansion/transaction in the banking sector.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20251223a.htm"
+    },
+    {
+      "text": "Fed chair candidate Kevin Hassett argues the U.S. is \u201cbehind the curve\u201d on rate cuts, increasing uncertainty around the 2026 policy path.",
+      "tags": [
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2025/12/23/fed-chair-candidate-hassett-says-us-behind-the-curve-on-lowering-rates.html"
+    },
+    {
+      "text": "U.S. to resume seizing pay of defaulted student-loan borrowers starting January, raising household cash-flow stress and potential consumer spending headwinds.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/23/student-loan-borrowers-wage-garnishment.html"
+    },
+    {
+      "text": "Trump administration actions reportedly paralyzed Venezuelan oil exports and the U.S. is adding to its Caribbean military buildup, escalating regional pressure.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/12/23/world/americas/trump-tankers-venezuela-oil-industry.html"
+    },
+    {
+      "text": "U.S. extended additional tariffs on Chinese chips to June 2027, reinforcing long-run tech decoupling and supply-chain reshoring incentives.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2025/12/23/us-china-chip-tariffs.html"
+    },
+    {
+      "text": "Gold hit fresh records, crossing $4,500, signaling heightened demand for inflation/geopolitical hedges and potentially looser-real-rate expectations.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/24/asia-markets-nikkei-225-hang-seng-index-csi-300.html"
+    },
+    {
+      "text": "Trump halted offshore wind projects; analysts warn the pause could last weeks to months, increasing U.S. renewable project risk and financing uncertainty.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/trump-stops-offshore-wind-projects-the-pause-could-last-weeks-to-months-analysts-warn-99339b81?mod=mw_rss_topstories"
+    },
+    {
+      "text": "ServiceNow agreed to acquire cybersecurity startup Armis for $7.75B, underscoring consolidation and rising spend on enterprise security and AI-era risk management.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/12/23/servicenow-to-acquire-cybersecurity-startup-armis-for-7-75b/"
+    },
+    {
+      "text": "Aflac says hackers stole personal and health data for 22.6 million people, highlighting systemic cyber risk and potential regulatory, legal, and remediation costs.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2025/12/23/us-insurance-giant-aflac-says-hackers-stole-personal-and-health-data-of-22-6-million-people/"
+    },
+    {
+      "text": "Hackers stole over $2.7B in crypto in 2025, reinforcing security and custody weaknesses that may accelerate regulation and institutional risk controls.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2025/12/23/hackers-stole-over-2-7-billion-in-crypto-in-2025-data-shows/"
+    },
+    {
+      "text": "U.S. approved two additional antibiotics for gonorrhea, improving treatment options amid rising resistance and potentially lowering public-health and economic burdens.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencenews.org/article/antibiotics-gonorrhea-sti"
+    },
+    {
+      "text": "Researchers developed a fish-inspired filter removing over 99% of microplastics, a potential step-change for water treatment and environmental remediation.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251222044102.htm"
+    }
+  ]
+}

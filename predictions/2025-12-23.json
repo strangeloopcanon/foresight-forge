@@ -20,7 +20,7 @@
       ],
       "rationale": "A broad federal pause and heightened regulatory risk make it more likely BOEM avoids new auctions in the next ~6 months.",
       "id": "f98d47c3-0913-4ad0-9b1e-44d8c711895c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "If halted leases materially reduce expected cash flows or extend timelines, accounting rules can force impairments; size threshold keeps this from being a trivial charge.",
       "id": "1c27e1f1-da81-47cc-9317-e533a10fdc92",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "A sharp, targeted tariff increase makes formal escalation plausible; WTO route is a common EU response even amid broader fragmentation.",
       "id": "c7d0fd8c-f626-48c4-a154-b00d8183b940",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Given public announcement and clear market-facing benefits, the probability of completion within a year is moderate-to-high, but ratification risks remain.",
       "id": "5210c4cf-e120-439c-82b4-c22404ff4877",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "New highs often cluster; with elevated uncertainty and potential for looser real rates, a further record close within 6 months is slightly more likely than not.",
       "id": "330b2712-95be-48fe-b184-64755403f417",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "After a strategic generation move, follow-on large-scale procurement/contracting is a likely next step to secure near-term capacity.",
       "id": "7b318e7b-f41f-42e4-b439-5393b0ff681f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Strategic logic exists but financing, valuation gaps, and antitrust/political risk keep probability below 50% within this timeframe.",
       "id": "75e4ee33-1cba-4e3f-8357-5151fd9f3205",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Big upside exists given category demand, but high sales in a single quarter within the first year faces coverage and rollout frictions.",
       "id": "56265b65-b655-4c4b-860e-27d98e6532de",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "Strategic urgency is real, but procurement timing and budget execution uncertainty keep odds near mid-range.",
       "id": "5dd54927-d306-4643-8c46-293487e7fecd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -218,7 +218,7 @@
       ],
       "rationale": "Geopolitical signaling may translate into budgeted action, but Denmark\u2019s coalition politics and fiscal tradeoffs make a large near-term package uncertain.",
       "id": "1a095be1-87e2-4924-80e7-a5259c34ee32",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -240,7 +240,7 @@
       ],
       "rationale": "If demand softness persists, promotions and trade-down dynamics can push the category into at least a brief negative YoY CPI print.",
       "id": "eb43ee19-2345-4d11-94c5-82f3212eacdc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

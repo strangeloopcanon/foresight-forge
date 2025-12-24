@@ -1,0 +1,60 @@
+{
+  "date": "2025-12-23",
+  "assessments": [
+    {
+      "id": "f98d47c3-0913-4ad0-9b1e-44d8c711895c",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news includes reporting that the Trump administration has stopped/paused offshore wind projects, but it does not provide definitive evidence about whether BOEM will or will not conduct a competitive offshore wind lease auction during 2025-12-23 to 2026-06-30."
+    },
+    {
+      "id": "1c27e1f1-da81-47cc-9317-e533a10fdc92",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates Dominion Energy has disclosed (or not disclosed) a \u2265$500M offshore-wind-related impairment/write-down/valuation charge in an SEC filing or earnings release."
+    },
+    {
+      "id": "c7d0fd8c-f626-48c4-a154-b00d8183b940",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets include U.S.\u2013China tariff-related reporting, but nothing about the European Commission initiating a WTO dispute against China over reported tariffs on EU dairy."
+    },
+    {
+      "id": "5210c4cf-e120-439c-82b4-c22404ff4877",
+      "status": "pending",
+      "status_rationale": "No reporting in today\u2019s news confirms that the India\u2013New Zealand free-trade agreement has entered into force or that an effective date has been announced."
+    },
+    {
+      "id": "330b2712-95be-48fe-b184-64755403f417",
+      "status": "pending",
+      "status_rationale": "CNBC reports gold crossing $4,500 and reaching fresh highs, but this is not explicit evidence of a daily close above the 2025-12-22 record close (and it does not state what the 2025-12-22 record close was)."
+    },
+    {
+      "id": "7b318e7b-f41f-42e4-b439-5393b0ff681f",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Alphabet/Google has announced a North America data-center power procurement deal totaling \u22651.0 GW."
+    },
+    {
+      "id": "75e4ee33-1cba-4e3f-8357-5151fd9f3205",
+      "status": "pending",
+      "status_rationale": "Today\u2019s media-related items mention a CBS/60 Minutes report but provide no evidence of a definitive merger agreement between Warner Bros. Discovery and Paramount."
+    },
+    {
+      "id": "56265b65-b655-4c4b-860e-27d98e6532de",
+      "status": "pending",
+      "status_rationale": "There is no financial-report evidence in today\u2019s news about Novo Nordisk reporting \u2265$500M in quarterly net sales for a newly approved oral GLP-1 obesity pill."
+    },
+    {
+      "id": "5dd54927-d306-4643-8c46-293487e7fecd",
+      "status": "pending",
+      "status_rationale": "No bullet describes the DoD awarding/announcing a \u2265$150M contract or OTA to expand U.S. rare-earth permanent magnet manufacturing capacity."
+    },
+    {
+      "id": "1a095be1-87e2-4924-80e7-a5259c34ee32",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s news references Denmark announcing a new Arctic/Greenland security spending package totaling at least DKK 5.0 billion."
+    },
+    {
+      "id": "eb43ee19-2345-4d11-94c5-82f3212eacdc",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items do not include CPI detail for the BLS \u2018distilled spirits\u2019 category, so there is no clear evidence about whether it is negative year-over-year in any published CPI release."
+    }
+  ]
+}

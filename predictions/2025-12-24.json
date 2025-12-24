@@ -1,0 +1,196 @@
+{
+  "date": "2025-12-24",
+  "predictions": [
+    {
+      "text": "At least one major U.S. offshore-wind developer (e.g., \u00d8rsted, Equinor, Avangrid, Dominion JV, Vineyard Wind owners) or an industry trade group will file a federal lawsuit challenging the Trump administration\u2019s offshore-wind project halt/pause (seeking injunctive/declaratory relief) by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 97,
+      "deadline": "2026-03-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2006706955,
+      "verification_criteria": "Verified if a complaint/petition is filed in a U.S. federal court (PACER) by the deadline where the filing explicitly challenges the offshore-wind halt/pause and seeks court relief; must be publicly reportable via docket entry or reputable press citing the docket number.",
+      "evidence": [
+        "Market reporting indicates the Trump administration halted offshore wind projects, with analysts warning the pause could last weeks to months, raising project-financing and permitting risk.",
+        "Large offshore-wind projects have significant sunk costs and regulatory timelines, increasing incentives to seek judicial relief if a broad pause persists."
+      ],
+      "monitoring_signals": [
+        "PACER alerts for filings mentioning 'offshore wind', 'BOEM', 'Interior', 'injunction', 'moratorium' by major developers",
+        "Developer/industry statements about 'legal options' or 'litigation'",
+        "Law-firm press releases announcing representation related to offshore wind pause"
+      ],
+      "rationale": "A broad permitting/approval freeze creates immediate economic harm and schedule risk; litigation is a common response for capital-intensive infrastructure when administrative pathways stall.",
+      "id": "b1682e68-9145-472b-9053-32e7cc689b4a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ServiceNow will complete (close) its announced acquisition of Armis for $7.75B, with the closing publicly confirmed by ServiceNow via press release, 8-K, or earnings release, by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 280,
+      "deadline": "2026-09-30",
+      "confidence_pct": 65,
+      "log_odds": 0.6190392084,
+      "verification_criteria": "Verified if ServiceNow publicly announces transaction closing (press release, SEC filing, or earnings materials) stating the acquisition has been consummated on/before the deadline.",
+      "evidence": [
+        "ServiceNow announced an agreement to acquire Armis for $7.75B, reflecting active cybersecurity M&A and consolidation."
+      ],
+      "monitoring_signals": [
+        "ServiceNow SEC filings (8-K/10-Q) for deal timing updates",
+        "Regulatory clearance announcements (HSR expiration/clearance; EU filings if applicable)",
+        "Earnings-call transcripts discussing expected close quarter"
+      ],
+      "rationale": "Signed strategic software/cyber deals typically close within 6\u201312 months absent major antitrust issues; cybersecurity consolidation remains a tailwind.",
+      "id": "d7cc1b39-ded8-4048-a368-c7ee5d3244e9",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Aflac will disclose in an SEC filing or earnings release an estimated pre-tax charge, reserve, or loss contingency of at least $100 million attributable to the reported data breach/cyber incident by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 188,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2006706955,
+      "verification_criteria": "Verified if Aflac (or a material subsidiary) files an 8-K/10-Q/10-K or publishes earnings materials explicitly quantifying breach-related costs/reserves/charges totaling \u2265$100M pre-tax by the deadline.",
+      "evidence": [
+        "Aflac reported hackers stole personal and health data for 22.6 million people, implying potentially large notification, remediation, legal, and regulatory costs."
+      ],
+      "monitoring_signals": [
+        "Aflac 8-K updates on incident impact and estimated costs",
+        "Class-action filings/MDL consolidation announcements and settlement talks",
+        "Credit-rating agency commentary on cyber-loss estimates"
+      ],
+      "rationale": "Incidents affecting tens of millions of individuals often generate large multi-category costs that become quantifiable within 1\u20132 quarters.",
+      "id": "068c88bb-b82c-4fe1-8307-fbfa2b0fa43d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. SEC will announce at least one settled enforcement action (order or litigation release) primarily alleging violations of the SEC\u2019s public-company cybersecurity disclosure controls/timing requirements adopted in 2023, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 188,
+      "deadline": "2026-06-30",
+      "confidence_pct": 60,
+      "log_odds": 0.4054651081,
+      "verification_criteria": "Verified if the SEC publishes an order or litigation release by the deadline where the core allegations cite the 2023 cybersecurity disclosure rules (e.g., Form 8-K Item 1.05 timing, disclosure controls and procedures) and the matter is resolved via settlement/consent.",
+      "evidence": [
+        "Large, frequent breaches (e.g., Aflac) elevate scrutiny of disclosure timeliness and controls under the SEC\u2019s newer cyber regime.",
+        "Cyber incidents and crypto theft totals underscore ongoing systemic cyber risk likely to trigger enforcement examples."
+      ],
+      "monitoring_signals": [
+        "SEC litigation releases mentioning 'cybersecurity', 'Item 1.05', 'timely disclosure'",
+        "SEC enforcement docket and speeches referencing cyber disclosure compliance",
+        "High-profile breach follow-on investigations reported by major outlets"
+      ],
+      "rationale": "New disclosure regimes often see early test cases; ongoing major incidents increase the probability of at least one settled matter within six months.",
+      "id": "210c8f8c-8451-450e-925d-09dfd366d60c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "China will announce at least one new export-control measure (new restriction, licensing requirement, or controlled-item expansion) targeting a semiconductor-related material, tool, or component, with the U.S. explicitly identified as a destination or affected party, by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 97,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081,
+      "verification_criteria": "Verified if an official PRC government/agency notice (MOFCOM, State Council, Customs, etc.) announces a new/expanded export-control action on a semiconductor-related item and explicitly names the U.S. (or U.S. entities) as a covered destination/target by the deadline.",
+      "evidence": [
+        "The U.S. extended additional tariffs on Chinese chips to June 2027, reinforcing decoupling pressures that can trigger PRC countermeasures."
+      ],
+      "monitoring_signals": [
+        "MOFCOM/State Council export-control bulletins and entity listings",
+        "PRC customs licensing guidance affecting chipmaking inputs",
+        "Major-law-firm client alerts on China export controls"
+      ],
+      "rationale": "Tit-for-tat policy responses are common in semiconductor trade disputes; export controls are a high-leverage PRC tool even if used selectively.",
+      "id": "8306bba9-afec-42da-ad23-a555e527c8ed",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one of the major global oil traders (Vitol, Trafigura, Glencore, Mercuria) will publicly state (press statement, court filing, or quoted executive comment in Reuters/Bloomberg/FT/WSJ) that it has suspended or is winding down Venezuela crude/oil-product trading specifically due to U.S. enforcement/sanctions risk by 2026-02-28 (UTC).",
+      "category": "energy",
+      "horizon_days": 66,
+      "deadline": "2026-02-28",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084,
+      "verification_criteria": "Verified if a named major trader is quoted in a top-tier outlet or issues a statement explicitly linking a Venezuela trading suspension/wind-down to U.S. enforcement or sanctions risk by the deadline.",
+      "evidence": [
+        "Reporting describes Trump administration actions as having paralyzed Venezuelan oil exports and escalated regional pressure, increasing compliance risk for intermediaries."
+      ],
+      "monitoring_signals": [
+        "Reuters/Bloomberg stories on trader participation in Venezuela cargoes",
+        "Public compliance statements and sanctions-risk disclosures by traders",
+        "Shipping/cargo tracking commentary citing trader withdrawal"
+      ],
+      "rationale": "Heightened U.S. enforcement risk can quickly shift risk appetite among intermediaries; explicit public confirmation is less common, keeping probability moderate.",
+      "id": "903e9a2f-99a4-499e-8f23-db6a1b90272a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The CDC will publish an official update (web update, MMWR, or revised guideline document) to its U.S. STI treatment guidance that includes at least one of the newly approved gonorrhea antibiotics as a recommended regimen or alternative regimen by 2026-12-31 (UTC).",
+      "category": "science",
+      "horizon_days": 372,
+      "deadline": "2026-12-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2006706955,
+      "verification_criteria": "Verified if CDC publishes an updated guidance document or MMWR notice by the deadline where the named newly approved antibiotic(s) appear in recommended/alternative gonorrhea treatment regimens.",
+      "evidence": [
+        "Two additional antibiotics for gonorrhea were reported as newly approved, expanding treatment options amid resistance concerns."
+      ],
+      "monitoring_signals": [
+        "CDC STI guideline pages and MMWR updates",
+        "IDSA/ASTDA statements on incorporating new agents",
+        "Post-marketing surveillance or resistance trend reports prompting guideline updates"
+      ],
+      "rationale": "Guidelines are typically updated after approvals plus early rollout/implementation data; resistance pressures create demand for additional recommended options.",
+      "id": "aabcd98b-d4a3-4cce-8b9b-8eb49513929b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "A peer-reviewed study will report a pilot-scale deployment (not just lab bench) of a biomimetic 'fish-inspired' (or explicitly derived from that work) microplastics filter treating real-world water (drinking water, wastewater, or surface water), achieving \u226590% microplastics removal, published by 2026-12-31 (UTC).",
+      "category": "science",
+      "horizon_days": 372,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084,
+      "verification_criteria": "Verified if a peer-reviewed journal article published by the deadline describes pilot-scale operation on real-world water and reports quantified microplastics removal \u226590% (as stated in the paper\u2019s results).",
+      "evidence": [
+        "Researchers reported a fish-inspired filter removing over 99% of microplastics, suggesting promise for scaling beyond lab conditions."
+      ],
+      "monitoring_signals": [
+        "Preprints and subsequent journal publications by the originating research group",
+        "Announcements of utility or industrial pilots using the technology",
+        "Grant awards or industry partnerships aimed at scale-up"
+      ],
+      "rationale": "Translating high lab performance to pilot-scale real water is nontrivial; progress is plausible within a year but far from assured.",
+      "id": "b68ca265-abd6-4989-ac48-2f1edefd3f71",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Education will issue an official press release or Federal Student Aid (studentaid.gov) update stating that involuntary collections (wage garnishment and/or Treasury offsets) have resumed and have cumulatively recovered at least $1.0 billion since resumption, by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 188,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "log_odds": -0.3227733923,
+      "verification_criteria": "Verified if ED/FSA publishes an official statement by the deadline that both (a) confirms resumed involuntary collections and (b) reports cumulative recovered amounts \u2265$1.0B since resumption.",
+      "evidence": [
+        "Reporting indicates the U.S. will resume seizing pay of defaulted student-loan borrowers starting January, increasing household cash-flow stress and collection activity."
+      ],
+      "monitoring_signals": [
+        "ED/FSA press releases and blog updates on collections metrics",
+        "Treasury Offset Program statistics referencing student loans",
+        "Congressional letters/hearings requesting ED collection totals"
+      ],
+      "rationale": "Collections resumption makes recovery totals likely to be tracked; whether ED publicly reports a \u2265$1B cumulative figure by mid-2026 is uncertain.",
+      "id": "5c462f88-9b7c-4cf3-a91c-0a15726106b5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

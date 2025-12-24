@@ -1424,3 +1424,12 @@ Overall, today’s news provides a strong validation signal for the Venezuela-re
 
 ---
 
+
+## 2025-12-23
+
+None of the listed predictions can be resolved from today’s headlines alone; all remain pending with deadlines mostly in mid-to-late 2026. The most prediction-relevant development is the reported Trump administration pause on offshore wind projects, which could shift the likelihood of BOEM holding (or not holding) competitive lease auctions in early-to-mid 2026, but it does not itself confirm an auction schedule outcome.
+
+A second notable signal is the precious-metals surge: reporting that gold crossed $4,500 and hit fresh highs suggests upward momentum consistent with the gold “new record close” thesis, but the prediction is specifically about a daily close exceeding the 2025-12-22 record close, which is not established by “crosses”/intraday-high language. The remaining topics (Dominion offshore wind impairments, EC WTO action on dairy tariffs, India–NZ FTA entry into force, Google ≥1 GW power procurement, large DoD rare-earth magnet contract, Denmark Arctic package, and distilled-spirits CPI y/y negative) are not addressed by the provided news bullets.
+
+---
+
