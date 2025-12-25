@@ -1,0 +1,195 @@
+{
+  "date": "2025-12-25",
+  "predictions": [
+    {
+      "text": "Nvidia will publicly announce a definitive agreement to acquire Groq (company or material assets/IP), with disclosed or reliably reported transaction value of at least $10 billion, by 2026-02-28 (UTC).",
+      "category": "tech",
+      "horizon_days": 65,
+      "deadline": "2026-02-28",
+      "confidence_pct": 55,
+      "log_odds": 0.20067069546215124,
+      "verification_criteria": "Resolves YES if Nvidia issues a press release, SEC 8-K, or equivalent investor communication announcing a signed definitive agreement to acquire Groq (or Groq\u2019s material assets/IP) with value >= $10B (stated or reported by Reuters/Bloomberg/WSJ/FT citing deal terms). Otherwise NO.",
+      "evidence": [
+        "CNBC reports Nvidia is buying Groq assets for about $20B and licensing its tech (2025-12-24)."
+      ],
+      "monitoring_signals": [
+        "Nvidia investor relations press releases/8-K filings referencing Groq",
+        "Groq corporate statements on strategic transactions",
+        "Major deal reporters (Reuters/Bloomberg/WSJ/FT) confirming signed terms and valuation"
+      ],
+      "rationale": "A high-specificity rumor suggests advanced talks; the key uncertainty is whether it becomes a signed, announced deal versus exploratory discussions or a narrower licensing arrangement.",
+      "id": "73b0603a-1d4e-4610-bb6d-67753d697f45",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "BP will close (complete) the announced sale of a 65% stake in Castrol to Stonepeak (or named buyer group) by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 279,
+      "deadline": "2026-09-30",
+      "confidence_pct": 65,
+      "log_odds": 0.6190392084062235,
+      "verification_criteria": "Resolves YES if BP publicly confirms completion/closing of the transaction (press release, RNS, 6-K/8-K, earnings release) on or before the deadline. NO if not closed by the deadline or if the deal is terminated.",
+      "evidence": [
+        "CNBC reports BP plans to sell 65% of its ~$10B Castrol unit to Stonepeak (2025-12-24)."
+      ],
+      "monitoring_signals": [
+        "BP deal timeline updates in quarterly results",
+        "Regulatory approval updates (competition/FDI) in relevant jurisdictions",
+        "Buyer financing announcements and closing-condition disclosures"
+      ],
+      "rationale": "Portfolio sales of this type typically close within 6\u201312 months but can slip on regulatory approvals and financing/structure complexity.",
+      "id": "118f30d5-05b7-47ad-9bea-e89bbf3da2d5",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Harvard University (or its governing corporation) will file a federal lawsuit against the U.S. executive branch or a federal agency related to the ongoing dispute (e.g., funding conditions, oversight demands, or regulatory leverage) by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 187,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.20067069546215122,
+      "verification_criteria": "Resolves YES if a complaint is filed in U.S. federal court by Harvard (or an affiliated Harvard entity) naming a federal agency/official as defendant and the case is publicly docketed (PACER) by the deadline, clearly tied to the reported dispute. Otherwise NO.",
+      "evidence": [
+        "NYT reports escalation in a high-stakes dispute between Harvard and the Trump administration (2025-12-24)."
+      ],
+      "monitoring_signals": [
+        "Harvard statements indicating imminent litigation",
+        "Federal agency actions affecting Harvard funding/conditions",
+        "PACER filings and major legal-news coverage (Reuters/WSJ)"
+      ],
+      "rationale": "Escalating federal leverage campaigns against institutions often culminate in injunctive/APA litigation; timing depends on concrete agency action that creates standing and urgency.",
+      "id": "9769e2bc-96fb-435c-b9e9-e61579d7cd4d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Department of Justice Office of Inspector General will publicly announce (press release, report, or formal notice) a review/investigation into the handling, redaction, or release process for the Epstein-related document disclosures by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 96,
+      "deadline": "2026-03-31",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Resolves YES if DOJ OIG publicly states it has opened/initiated a review, audit, or investigation specifically referencing the Epstein document release/redaction issues by the deadline. Otherwise NO.",
+      "evidence": [
+        "CNBC reports DOJ released more Epstein files and uncovered >1M additional potential records (2025-12-24).",
+        "NYT reports some DOJ redactions in Epstein documents are reportedly recoverable (2025-12-23)."
+      ],
+      "monitoring_signals": [
+        "DOJ OIG announcements and semiannual reports",
+        "Congressional letters requesting OIG involvement",
+        "DOJ internal policy updates on redaction/records handling"
+      ],
+      "rationale": "Operational-security and redaction failures with intense political scrutiny frequently trigger OIG review, but OIG prioritization and jurisdictional questions add uncertainty.",
+      "id": "33b91184-a9d3-43a3-bc1e-5daa60e37baf",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Amazon will launch a broadly available (not invite-only) AI shopping-agent feature in the U.S. that can autonomously perform multi-step shopping tasks (e.g., search/compare/select and complete checkout on behalf of a user) by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 279,
+      "deadline": "2026-09-30",
+      "confidence_pct": 60,
+      "log_odds": 0.4054651081081642,
+      "verification_criteria": "Resolves YES if Amazon publicly announces and makes available to U.S. customers (web/app) an AI agent explicitly designed to autonomously execute multi-step shopping flows beyond simple Q&A/recommendations, with rollout described as generally available or broadly available (not limited beta). Otherwise NO.",
+      "evidence": [
+        "CNBC describes Amazon\u2019s strategic dilemma regarding AI shopping agents that could disintermediate storefronts (2025-12-24)."
+      ],
+      "monitoring_signals": [
+        "Amazon Shopping and Alexa feature announcements",
+        "Public documentation/help pages describing agentic checkout capabilities",
+        "Third-party testing reports confirming autonomous task execution"
+      ],
+      "rationale": "Competitive pressure from agentic commerce makes an Amazon-native solution likely; the main uncertainty is legal/UX risk around delegated purchasing and merchant relationships.",
+      "id": "b0912c4f-c2bb-4ae9-9bc9-e30de17522b8",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "At least one large U.S. investor-owned utility will publicly announce (press release, IRP filing, or earnings materials) a delay of a previously scheduled coal unit retirement by at least 24 months, explicitly citing new or expected federal policy support for coal plant retention, by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 187,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.20067069546215124,
+      "verification_criteria": "Resolves YES if a U.S. investor-owned utility announces a coal-fired generating unit retirement date moving later by >=24 months versus its prior published plan, and the announcement explicitly references federal policy support from the administration (or federal actions) as a reason. Otherwise NO.",
+      "evidence": [
+        "NYT reports Trump administration policy support to slow coal-plant closures, complicating transition economics (2025-12-24)."
+      ],
+      "monitoring_signals": [
+        "Integrated Resource Plans and state commission filings",
+        "Utility earnings calls citing federal coal-retention support",
+        "DOE/FERC emergency reliability actions involving coal"
+      ],
+      "rationale": "Utilities periodically revise IRPs; credible federal incentives or reliability directives can shift retirement economics, but state regulators and fuel/maintenance realities may limit reversals.",
+      "id": "2dc21978-a46a-41bd-a3c3-a0afad67defd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. and Honduras will announce a new bilateral migration/security cooperation package totaling at least $100 million in pledged funding and/or equipment support by 2026-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 371,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081081643,
+      "verification_criteria": "Resolves YES if the U.S. government (State/White House/DHS/DoD) and/or Honduras\u2019 government publicly announces a new cooperation package explicitly tied to migration management and/or security cooperation with total value >= $100M (funding, equipment, or combined) by the deadline. Otherwise NO.",
+      "evidence": [
+        "NYT reports Honduras declares Nasry Asfura president, implying potential shift in U.S. alignment and regional cooperation (2025-12-24)."
+      ],
+      "monitoring_signals": [
+        "State Department and DHS bilateral announcements",
+        "Foreign Military Financing (FMF) or security assistance notifications",
+        "Joint communiqu\u00e9s following high-level visits"
+      ],
+      "rationale": "Political realignment can unlock U.S. packages, but funding depends on U.S. congressional appropriations, regional priorities, and Honduran domestic politics.",
+      "id": "9fc6bd69-cb11-49ce-b58b-037a67b894dc",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Ukraine and Russia will hold at least one publicly confirmed direct in-person meeting between official delegations (not solely via intermediaries) that explicitly includes discussion of a demilitarized zone and/or troop pullbacks in eastern Ukraine by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 187,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084062235,
+      "verification_criteria": "Resolves YES if reputable outlets (Reuters/AP/AFP/FT/WSJ) or official statements confirm an in-person meeting between official Ukrainian and Russian delegations by the deadline where agenda includes demilitarized zone and/or troop pullbacks. Otherwise NO.",
+      "evidence": [
+        "NYT reports Zelensky signals openness to pulling back troops in eastern Ukraine for a peace deal (2025-12-24)."
+      ],
+      "monitoring_signals": [
+        "Announcements of peace talks hosted by third countries",
+        "Public readouts mentioning DMZ/troop withdrawal terms",
+        "UN/OSCE involvement signals and envoy travel"
+      ],
+      "rationale": "Public signaling may precede talks, but domestic constraints and battlefield dynamics make direct meetings on territorial-security arrangements uncertain.",
+      "id": "12c982c7-7da4-4d7b-9146-145f9db56d35",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one major academic publisher (Elsevier, Springer Nature, Wiley, Taylor & Francis, IEEE) will announce a mandatory AI-use disclosure requirement embedded in manuscript submission for all journals (e.g., required checkbox/field) by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 187,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Resolves YES if any listed publisher publicly announces (policy post, author guidelines update, submission-system notice) a mandatory disclosure field/checkbox for AI tool use that applies publisher-wide (or across a clearly stated large portfolio) by the deadline. Otherwise NO.",
+      "evidence": [
+        "ScienceDaily summary: studies suggest AI boosts paper output while average quality slips, raising concerns for evaluation and peer review integrity (2025-12-25)."
+      ],
+      "monitoring_signals": [
+        "Publisher-wide research integrity policy updates",
+        "Submission platform (Editorial Manager/ScholarOne) requirement changes",
+        "Retraction watch and publisher statements on AI screening"
+      ],
+      "rationale": "Publishers face rising volume and integrity pressure; moving from guidance to mandatory disclosure is a plausible near-term governance response, though implementation coordination can delay rollout.",
+      "id": "e4a13284-1f50-47be-a921-58fab80eaca7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

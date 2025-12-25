@@ -20,7 +20,7 @@
       ],
       "rationale": "A broad permitting/approval freeze creates immediate economic harm and schedule risk; litigation is a common response for capital-intensive infrastructure when administrative pathways stall.",
       "id": "b1682e68-9145-472b-9053-32e7cc689b4a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Signed strategic software/cyber deals typically close within 6\u201312 months absent major antitrust issues; cybersecurity consolidation remains a tailwind.",
       "id": "d7cc1b39-ded8-4048-a368-c7ee5d3244e9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Incidents affecting tens of millions of individuals often generate large multi-category costs that become quantifiable within 1\u20132 quarters.",
       "id": "068c88bb-b82c-4fe1-8307-fbfa2b0fa43d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "New disclosure regimes often see early test cases; ongoing major incidents increase the probability of at least one settled matter within six months.",
       "id": "210c8f8c-8451-450e-925d-09dfd366d60c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "Tit-for-tat policy responses are common in semiconductor trade disputes; export controls are a high-leverage PRC tool even if used selectively.",
       "id": "8306bba9-afec-42da-ad23-a555e527c8ed",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "Heightened U.S. enforcement risk can quickly shift risk appetite among intermediaries; explicit public confirmation is less common, keeping probability moderate.",
       "id": "903e9a2f-99a4-499e-8f23-db6a1b90272a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -147,7 +147,7 @@
       ],
       "rationale": "Guidelines are typically updated after approvals plus early rollout/implementation data; resistance pressures create demand for additional recommended options.",
       "id": "aabcd98b-d4a3-4cce-8b9b-8eb49513929b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -168,7 +168,7 @@
       ],
       "rationale": "Translating high lab performance to pilot-scale real water is nontrivial; progress is plausible within a year but far from assured.",
       "id": "b68ca265-abd6-4989-ac48-2f1edefd3f71",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "rationale": "Collections resumption makes recovery totals likely to be tracked; whether ED publicly reports a \u2265$1B cumulative figure by mid-2026 is uncertain.",
       "id": "5c462f88-9b7c-4cf3-a91c-0a15726106b5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

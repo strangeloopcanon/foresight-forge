@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-24",
+  "assessments": [
+    {
+      "id": "b1682e68-9145-472b-9053-32e7cc689b4a",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s bullets indicate a federal lawsuit by a major U.S. offshore-wind developer or trade group challenging an offshore-wind halt/pause; the cited climate/energy item is about coal industry support, not offshore-wind litigation."
+    },
+    {
+      "id": "d7cc1b39-ded8-4048-a368-c7ee5d3244e9",
+      "status": "pending",
+      "status_rationale": "No bullet reports ServiceNow closing an acquisition of Armis or any confirming SEC filing/press release; the only acquisition headline shown concerns Nvidia and Groq."
+    },
+    {
+      "id": "068c88bb-b82c-4fe1-8307-fbfa2b0fa43d",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not reference Aflac, an SEC filing, earnings release, or any disclosed pre-tax charge/reserve tied to a cyber incident."
+    },
+    {
+      "id": "210c8f8c-8451-450e-925d-09dfd366d60c",
+      "status": "pending",
+      "status_rationale": "No item indicates the SEC announced a settled enforcement action primarily alleging violations of the 2023 public-company cybersecurity disclosure timing/controls requirements."
+    },
+    {
+      "id": "8306bba9-afec-42da-ad23-a555e527c8ed",
+      "status": "pending",
+      "status_rationale": "The China-related bullet concerns mineral/rare-earth dominance, but does not describe a new China export-control measure targeting semiconductor-related materials/tools/components with the U.S. explicitly identified as a destination/affected party."
+    },
+    {
+      "id": "903e9a2f-99a4-499e-8f23-db6a1b90272a",
+      "status": "pending",
+      "status_rationale": "The Venezuela-related news mentions a U.S. pressure campaign/aircraft carrier deployment, but does not include a public statement (per Reuters/Bloomberg/FT/WSJ, court filing, or press statement) from Vitol/Trafigura/Glencore/Mercuria about suspending or winding down Venezuela trading due to U.S. sanctions/enforcement risk."
+    },
+    {
+      "id": "aabcd98b-d4a3-4cce-8b9b-8eb49513929b",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the CDC updated U.S. STI treatment guidance to include newly approved gonorrhea antibiotics as recommended/alternative regimens."
+    },
+    {
+      "id": "b68ca265-abd6-4989-ac48-2f1edefd3f71",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s items describe a peer-reviewed publication of a pilot-scale, fish-inspired biomimetic microplastics filter achieving \u226590% removal in real-world water."
+    },
+    {
+      "id": "5c462f88-9b7c-4cf3-a91c-0a15726106b5",
+      "status": "pending",
+      "status_rationale": "No Department of Education/FSA update is referenced stating involuntary collections have resumed and cumulatively recovered at least $1.0B since resumption."
+    }
+  ]
+}
