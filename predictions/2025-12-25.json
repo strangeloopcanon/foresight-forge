@@ -19,7 +19,7 @@
       ],
       "rationale": "A high-specificity rumor suggests advanced talks; the key uncertainty is whether it becomes a signed, announced deal versus exploratory discussions or a narrower licensing arrangement.",
       "id": "73b0603a-1d4e-4610-bb6d-67753d697f45",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Portfolio sales of this type typically close within 6\u201312 months but can slip on regulatory approvals and financing/structure complexity.",
       "id": "118f30d5-05b7-47ad-9bea-e89bbf3da2d5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Escalating federal leverage campaigns against institutions often culminate in injunctive/APA litigation; timing depends on concrete agency action that creates standing and urgency.",
       "id": "9769e2bc-96fb-435c-b9e9-e61579d7cd4d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Operational-security and redaction failures with intense political scrutiny frequently trigger OIG review, but OIG prioritization and jurisdictional questions add uncertainty.",
       "id": "33b91184-a9d3-43a3-bc1e-5daa60e37baf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "Competitive pressure from agentic commerce makes an Amazon-native solution likely; the main uncertainty is legal/UX risk around delegated purchasing and merchant relationships.",
       "id": "b0912c4f-c2bb-4ae9-9bc9-e30de17522b8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Utilities periodically revise IRPs; credible federal incentives or reliability directives can shift retirement economics, but state regulators and fuel/maintenance realities may limit reversals.",
       "id": "2dc21978-a46a-41bd-a3c3-a0afad67defd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Political realignment can unlock U.S. packages, but funding depends on U.S. congressional appropriations, regional priorities, and Honduran domestic politics.",
       "id": "9fc6bd69-cb11-49ce-b58b-037a67b894dc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "Public signaling may precede talks, but domestic constraints and battlefield dynamics make direct meetings on territorial-security arrangements uncertain.",
       "id": "12c982c7-7da4-4d7b-9146-145f9db56d35",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Publishers face rising volume and integrity pressure; moving from guidance to mandatory disclosure is a plausible near-term governance response, though implementation coordination can delay rollout.",
       "id": "e4a13284-1f50-47be-a921-58fab80eaca7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

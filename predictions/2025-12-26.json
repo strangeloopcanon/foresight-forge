@@ -1,0 +1,205 @@
+{
+  "date": "2025-12-26",
+  "predictions": [
+    {
+      "text": "Waymo will publicly confirm it has resumed offering paid driverless robotaxi rides to the general public in San Francisco by 2026-02-15 (UTC).",
+      "category": "tech",
+      "horizon_days": 51,
+      "deadline": "2026-02-15",
+      "confidence_pct": 75,
+      "verification_criteria": "Waymo (or Alphabet) posts an official update (blog, press statement, in-app notice, or regulator filing cited by major media) stating that its driverless commercial ride-hail service is operating again in San Francisco for members of the public (not employees-only testing).",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/25/business/tesla-robotaxis-austin-waymo.html"
+      ],
+      "monitoring_signals": [
+        "Waymo SF service-area map/status page changes",
+        "CPUC/DMV notices about Waymo SF operations",
+        "Local media reports of Waymo One reopening to SF riders"
+      ],
+      "rationale": "The reported pause was tied to flood warnings; operational suspensions for weather are typically temporary, making resumption within ~7 weeks more likely than a prolonged halt absent a safety/regulatory shock.",
+      "id": "17713e39-a0c0-495a-839c-f377e3bad30e",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "CISA will add CVE-2025-68664 (LangChain/LangChain-core) to its Known Exploited Vulnerabilities (KEV) Catalog by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 95,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "verification_criteria": "CISA\u2019s official KEV Catalog (or CISA alert announcing catalog updates) includes an entry for CVE-2025-68664 by the deadline.",
+      "evidence": [
+        "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/"
+      ],
+      "monitoring_signals": [
+        "CISA KEV RSS/JSON feed updates",
+        "Vendor advisories and exploit PoC/public exploitation reports",
+        "Mentions of active exploitation in major incident-response writeups"
+      ],
+      "rationale": "If exploitation is observed in real-world intrusions, CISA often adds widely used dependency vulnerabilities to KEV; timing depends on confirmation of exploitation at scale.",
+      "id": "50dcd495-079d-4d43-a6b3-c28bf9815f24",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Department of Defense (or U.S. Africa Command) will publicly announce at least one additional kinetic strike/operation in Nigeria targeting ISIS-linked militants by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 186,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "verification_criteria": "An official DoD/AFRICOM press release, briefing transcript, or statement confirms a U.S. strike/raid in Nigeria against ISIS/ISWAP or ISIS-linked militants after 2025-12-26 and by the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/25/us/politics/trump-isis-nigeria-strike.html"
+      ],
+      "monitoring_signals": [
+        "AFRICOM press releases and briefings",
+        "Reuters/AP reporting citing U.S. officials on Sahel/West Africa operations",
+        "Security incident spikes involving ISWAP/Boko Haram prompting U.S. response"
+      ],
+      "rationale": "A recent strike increases the base rate of follow-on actions if ISR/targeting pipelines remain active, but political constraints and host-nation dynamics keep probability moderate.",
+      "id": "71818de1-36bd-4ca9-bb3d-2ed54af9e0b8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The EU and/or U.S. will announce at least $1.0 billion in new funding commitments specifically for Ukraine electricity/grid/heat/water infrastructure repair or resilience by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 95,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "verification_criteria": "A European Commission, EU member-state coalition, U.S. government agency (State/USAID/DoE), or G7-aligned joint announcement commits \u2265$1.0B (new money, not re-labeled prior funds) explicitly earmarked for Ukraine energy/utilities infrastructure.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html"
+      ],
+      "monitoring_signals": [
+        "EU Commission and EBRD/EIB Ukraine support announcements",
+        "USAID/State Department Ukraine energy resilience press releases",
+        "Ukrenergo/Ukraine government statements about donor packages"
+      ],
+      "rationale": "Sustained winter targeting raises urgency for large, earmarked utility-resilience packages; the main uncertainty is whether commitments clear the $1B threshold before late winter ends.",
+      "id": "345bd492-00da-43d5-9f9f-26ad1dca965b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "FEMA will approve federal Individual Assistance (IA) or Public Assistance (PA) for at least one Southern California county due to the post-Christmas flooding by 2026-02-28 (UTC).",
+      "category": "macro",
+      "horizon_days": 64,
+      "deadline": "2026-02-28",
+      "confidence_pct": 50,
+      "verification_criteria": "FEMA\u2019s official disaster declaration/notice lists IA or PA authorized for one or more Southern California counties in connection with the late-December 2025 flooding event.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/25/weather/rain-flooding-los-angeles-storm.html"
+      ],
+      "monitoring_signals": [
+        "California OES requests for federal assistance",
+        "FEMA disaster declaration database updates",
+        "Damage estimates from counties and Caltrans/utility outage data"
+      ],
+      "rationale": "Major metro-area flooding frequently triggers PA/IA, but outcomes depend on assessed damage thresholds and state/federal coordination speed.",
+      "id": "aa486082-c739-462f-8d93-5cff95a898fe",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The California Department of Insurance will approve a homeowners insurance rate increase of at least 20% for at least one top-10 U.S. home insurer (by premiums) for its California book, by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 278,
+      "deadline": "2026-09-30",
+      "confidence_pct": 65,
+      "verification_criteria": "A CDI rate approval notice (or insurer/CDI public filing) shows an approved homeowners rate change with an indicated average increase \u226520% for a top-10 U.S. homeowners insurer operating in California.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/25/weather/rain-flooding-los-angeles-storm.html"
+      ],
+      "monitoring_signals": [
+        "CDI SERFF filings and rate-approval announcements",
+        "Insurer earnings calls citing California rate actions",
+        "Wildfire/flood loss trends and reinsurance pricing at renewals"
+      ],
+      "rationale": "California catastrophe exposure and reinsurance costs create strong upward rate pressure; approval magnitude is uncertain but large increases have become more common.",
+      "id": "05a283cc-4cfe-4ecb-a688-6f434b86ab79",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "A bill creating a federal income-tax deduction (or credit) for consumer auto-loan interest will be introduced in either chamber of the U.S. Congress by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 95,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Congress.gov shows introduction of a bill whose text establishes an above-the-line deduction, itemized deduction, or tax credit explicitly tied to interest paid on qualified personal-use vehicle loans.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/25/us/politics/trump-auto-loan-deduction-benefits.html"
+      ],
+      "monitoring_signals": [
+        "House Ways & Means / Senate Finance member press releases",
+        "Tax-policy draft packages and reconciliation chatter",
+        "Auto-industry lobbying and coalition letters"
+      ],
+      "rationale": "Public discussion of an auto-loan tax break raises likelihood of legislative drafting, but enactment prospects and timing are uncertain, keeping confidence modest.",
+      "id": "22e45fd4-5fd7-4c6f-be99-a4538286331d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "COMEX silver futures (front-month) will settle at or above $32.00/oz at least once by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 186,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "verification_criteria": "CME/COMEX official settlement data (or widely cited market data providers reflecting CME settlements) show a front-month silver futures settlement price \u2265 $32.00/oz on at least one trading day by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/26/asia-pacific-markets-live-friday-boxing-day-holiday-nikkei-225-kospi-csi-300.html"
+      ],
+      "monitoring_signals": [
+        "Dollar real-rate moves and Fed policy expectations",
+        "ETFs (SLV) net inflows and positioning data (CFTC COT)",
+        "Industrial-demand indicators and China macro surprises"
+      ],
+      "rationale": "Recent strength raises the chance of a further upside test; however, silver\u2019s volatility and sensitivity to real yields keep the probability below 50%.",
+      "id": "2f7c6188-f1e3-46cc-a498-55b6a07fbf2a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. EPA will publish a funding solicitation (NOFO/RFP) offering at least $50 million total for PFAS destruction/destruction-technology pilots or demonstrations by 2026-06-30 (UTC).",
+      "category": "science",
+      "horizon_days": 186,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "EPA (or grants.gov for an EPA program) posts an official NOFO/RFP where eligible activities include PFAS destruction (not only filtration) and the total available funding stated is \u2265 $50,000,000.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2025/12/251224032401.htm"
+      ],
+      "monitoring_signals": [
+        "EPA press releases on PFAS strategy and technology demonstrations",
+        "grants.gov searches for EPA + PFAS + destruction",
+        "State water-utility coalitions advocating for destruction pilots"
+      ],
+      "rationale": "If claimed destruction advances are credible, EPA has incentives to accelerate pilots; budget/process constraints and competing PFAS priorities make a \u2265$50M dedicated solicitation uncertain.",
+      "id": "8693529f-fc1c-486d-8faf-1867bc290bd4",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "NOAA will issue a 2026 Atlantic hurricane seasonal outlook that calls for an 'above-normal' season (per NOAA\u2019s categorical language) by 2026-05-31 (UTC).",
+      "category": "science",
+      "horizon_days": 156,
+      "deadline": "2026-05-31",
+      "confidence_pct": 55,
+      "verification_criteria": "NOAA/NHC/CPC publishes the official 2026 Atlantic hurricane season outlook and the categorical summary states 'above-normal' (not 'near-normal' or 'below-normal').",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2025/12/251225080725.htm"
+      ],
+      "monitoring_signals": [
+        "ENSO forecasts (La Ni\u00f1a/El Ni\u00f1o) for Aug\u2013Oct 2026",
+        "Atlantic MDR SST anomalies and vertical wind shear outlooks",
+        "NOAA spring outlook briefings and pre-season statements"
+      ],
+      "rationale": "Recent warm-ocean conditions tilt outlooks toward above-normal, but ENSO uncertainty and NOAA\u2019s multi-factor framework keep confidence only moderately above a coin flip.",
+      "id": "91826bce-982c-4d98-a7e4-6af45d8eec4f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

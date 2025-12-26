@@ -1,0 +1,106 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. carried out strikes on ISIS-linked militants in Nigeria, signaling expanded counterterror operations in West Africa and heightened U.S. involvement in regional security.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-isis-nigeria-strike.html"
+    },
+    {
+      "text": "Russia\u2019s attacks on Odesa\u2019s power, heat, and water infrastructure underscore targeting of civilian energy systems, worsening Ukraine\u2019s winter resilience and reconstruction costs.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html"
+    },
+    {
+      "text": "Russia is likely to reject a new U.S.-Ukrainian peace plan, implying prolonged war risk, continued sanctions trajectory, and sustained European defense and energy-security spending.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2025/12/25/world/europe/russia-ukraine-peace-plan.html"
+    },
+    {
+      "text": "Post-Christmas California flooding with more rain ahead highlights rising climate-driven disruption risks for infrastructure, utilities, and property insurance in high-exposure regions.",
+      "tags": [
+        "macro",
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2025/12/25/weather/rain-flooding-los-angeles-storm.html"
+    },
+    {
+      "text": "NYC bracing for heavy snow shows increasing weather volatility affecting logistics, labor productivity, and municipal preparedness costs during peak travel and retail periods.",
+      "tags": [
+        "macro",
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2025/12/25/nyregion/snow-storm-nyc-weather-forecast.html"
+    },
+    {
+      "text": "Trump\u2019s auto-loan tax break could shift demand toward financed vehicle purchases; benefits likely skew to higher-income filers, with modest macro impact but material consumer incentives.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-auto-loan-deduction-benefits.html"
+    },
+    {
+      "text": "Tariffs and higher leather prices are raising costs for footwear, handbags, and furniture; supply relief may take years, pressuring margins and consumer prices.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/25/leather-prices-tariffs-trump-boots-handbags-furniture-twisted-x.html"
+    },
+    {
+      "text": "Holiday-thinned Asia trading opened higher while silver hit fresh highs, reinforcing precious-metals strength amid uncertain growth and risk hedging demand.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2025/12/26/asia-pacific-markets-live-friday-boxing-day-holiday-nikkei-225-kospi-csi-300.html"
+    },
+    {
+      "text": "Robotaxi commercialization remains uneven: Tesla enthusiasm outpaces road readiness; Waymo paused SF operations due to flood warnings, highlighting operational and regulatory fragility.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2025/12/25/business/tesla-robotaxis-austin-waymo.html"
+    },
+    {
+      "text": "AI market may splinter between model \u201cmonetizers\u201d and hardware/manufacturing \u201cmanufacturers,\u201d shaping 2026 winners across cloud, chips, data centers, and application layers.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2025/12/25/how-the-ai-market-could-splinter-in-2026-.html"
+    },
+    {
+      "text": "Critical LangChain vulnerability (CVE-2025-68664) elevates supply-chain and agentic-AI security risk for enterprises embedding LLM tooling in production workflows.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://cyata.ai/blog/langgrinch-langchain-core-cve-2025-68664/"
+    },
+    {
+      "text": "Oceans \u2018supercharging\u2019 hurricanes beyond Category 5 strengthens the scientific case for higher disaster losses, stricter building codes, and repricing of coastal risk.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251225080725.htm"
+    },
+    {
+      "text": "New PFAS destruction technology claims record speed/efficiency, potentially lowering cleanup costs and accelerating regulation-driven remediation across water utilities and industrial sites.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2025/12/251224032401.htm"
+    }
+  ]
+}

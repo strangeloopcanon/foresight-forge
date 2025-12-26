@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-25",
+  "assessments": [
+    {
+      "id": "73b0603a-1d4e-4610-bb6d-67753d697f45",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets contain no report of Nvidia announcing (or being reliably reported to have signed) a definitive agreement to acquire Groq for \u2265$10B. No relevant M&A confirmation or transaction value is cited."
+    },
+    {
+      "id": "118f30d5-05b7-47ad-9bea-e89bbf3da2d5",
+      "status": "pending",
+      "status_rationale": "No bullet references BP, Castrol, Stonepeak, or completion/closing of a stake sale. There is no evidence to mark the prediction correct or incorrect at this time."
+    },
+    {
+      "id": "9769e2bc-96fb-435c-b9e9-e61579d7cd4d",
+      "status": "pending",
+      "status_rationale": "None of the listed stories indicate Harvard has filed a federal lawsuit against the U.S. executive branch or a federal agency related to the described dispute. No court filing or announcement is referenced."
+    },
+    {
+      "id": "33b91184-a9d3-43a3-bc1e-5daa60e37baf",
+      "status": "pending",
+      "status_rationale": "The news bullets provide no indication that the DOJ Office of Inspector General has announced a review/investigation into handling/redaction/release of Epstein-related document disclosures."
+    },
+    {
+      "id": "b0912c4f-c2bb-4ae9-9bc9-e30de17522b8",
+      "status": "pending",
+      "status_rationale": "No item mentions Amazon launching a broadly available U.S. AI shopping agent that can autonomously complete multi-step shopping tasks and checkout. AI-related bullets are general market commentary, not a product launch."
+    },
+    {
+      "id": "2dc21978-a46a-41bd-a3c3-a0afad67defd",
+      "status": "pending",
+      "status_rationale": "There is no report in today\u2019s bullets of a large U.S. investor-owned utility announcing a \u226524-month coal retirement delay explicitly citing new/expected federal policy support for coal retention."
+    },
+    {
+      "id": "9fc6bd69-cb11-49ce-b58b-037a67b894dc",
+      "status": "pending",
+      "status_rationale": "None of the bullets refer to a U.S.-Honduras bilateral migration/security cooperation package totaling \u2265$100M. The prominent U.S. foreign-policy item relates to U.S. military action in Nigeria."
+    },
+    {
+      "id": "12c982c7-7da4-4d7b-9146-145f9db56d35",
+      "status": "pending",
+      "status_rationale": "While there are articles about the U.S.-Ukraine peace plan and Russia\u2019s likely reaction, the bullets do not confirm any direct in-person meeting between Ukrainian and Russian official delegations that explicitly includes discussion of a demilitarized zone and/or troop pullbacks in eastern Ukraine."
+    },
+    {
+      "id": "e4a13284-1f50-47be-a921-58fab80eaca7",
+      "status": "pending",
+      "status_rationale": "No bullet reports that Elsevier, Springer Nature, Wiley, Taylor & Francis, or IEEE has announced a mandatory AI-use disclosure requirement embedded in manuscript submission across all journals."
+    }
+  ]
+}
