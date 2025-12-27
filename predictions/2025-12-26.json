@@ -18,7 +18,7 @@
       ],
       "rationale": "The reported pause was tied to flood warnings; operational suspensions for weather are typically temporary, making resumption within ~7 weeks more likely than a prolonged halt absent a safety/regulatory shock.",
       "id": "17713e39-a0c0-495a-839c-f377e3bad30e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "If exploitation is observed in real-world intrusions, CISA often adds widely used dependency vulnerabilities to KEV; timing depends on confirmation of exploitation at scale.",
       "id": "50dcd495-079d-4d43-a6b3-c28bf9815f24",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "rationale": "A recent strike increases the base rate of follow-on actions if ISR/targeting pipelines remain active, but political constraints and host-nation dynamics keep probability moderate.",
       "id": "71818de1-36bd-4ca9-bb3d-2ed54af9e0b8",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "40-50"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "rationale": "Sustained winter targeting raises urgency for large, earmarked utility-resilience packages; the main uncertainty is whether commitments clear the $1B threshold before late winter ends.",
       "id": "345bd492-00da-43d5-9f9f-26ad1dca965b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "Major metro-area flooding frequently triggers PA/IA, but outcomes depend on assessed damage thresholds and state/federal coordination speed.",
       "id": "aa486082-c739-462f-8d93-5cff95a898fe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "California catastrophe exposure and reinsurance costs create strong upward rate pressure; approval magnitude is uncertain but large increases have become more common.",
       "id": "05a283cc-4cfe-4ecb-a688-6f434b86ab79",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "Public discussion of an auto-loan tax break raises likelihood of legislative drafting, but enactment prospects and timing are uncertain, keeping confidence modest.",
       "id": "22e45fd4-5fd7-4c6f-be99-a4538286331d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "Recent strength raises the chance of a further upside test; however, silver\u2019s volatility and sensitivity to real yields keep the probability below 50%.",
       "id": "2f7c6188-f1e3-46cc-a498-55b6a07fbf2a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -178,7 +178,7 @@
       ],
       "rationale": "If claimed destruction advances are credible, EPA has incentives to accelerate pilots; budget/process constraints and competing PFAS priorities make a \u2265$50M dedicated solicitation uncertain.",
       "id": "8693529f-fc1c-486d-8faf-1867bc290bd4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -198,7 +198,7 @@
       ],
       "rationale": "Recent warm-ocean conditions tilt outlooks toward above-normal, but ENSO uncertainty and NOAA\u2019s multi-factor framework keep confidence only moderately above a coin flip.",
       "id": "91826bce-982c-4d98-a7e4-6af45d8eec4f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

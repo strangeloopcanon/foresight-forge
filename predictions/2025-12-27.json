@@ -1,0 +1,205 @@
+{
+  "date": "2025-12-27",
+  "predictions": [
+    {
+      "text": "Hong Kong authorities will announce at least one arrest or formal charge for bribery/corruption tied to building-code enforcement related to the 2025 Hong Kong apartment-fire case, by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 94,
+      "deadline": "2026-03-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Official announcement by Hong Kong ICAC, Hong Kong Police, or the Department of Justice (press release or official statement) confirming at least one arrest or charge explicitly connected to building-code enforcement/inspection approvals linked to the apartment-fire case.",
+      "evidence": [
+        "NYT reporting (2025-12-26) highlights allegations of corruption and weak code enforcement connected to the apartment-fire investigation."
+      ],
+      "monitoring_signals": [
+        "ICAC press releases mentioning the fire or building inspection bribery",
+        "Hong Kong DOJ case filings/press statements",
+        "Hong Kong Legislative Council meeting minutes on the fire investigation"
+      ],
+      "rationale": "High-profile fatalities plus explicit corruption allegations often trigger enforcement actions or headline arrests, though evidentiary timelines can slip past one quarter.",
+      "id": "aebb069f-d6f1-4f49-8422-af10a2a5f6a3",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The African Union (AU) will issue an official communique/statement explicitly criticizing or condemning Israel\u2019s recognition of Somaliland, by 2026-02-15 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 50,
+      "deadline": "2026-02-15",
+      "confidence_pct": 55,
+      "verification_criteria": "AU Commission, AU Peace and Security Council, or AU Chair issues a public statement/communique that names Israel and Somaliland and frames the recognition negatively (e.g., condemns, criticizes, or calls it a violation of Somalia\u2019s territorial integrity).",
+      "evidence": [
+        "NYT reporting (2025-12-26) describes potential diplomatic backlash and regional alignment shifts after Israel\u2019s recognition of Somaliland."
+      ],
+      "monitoring_signals": [
+        "AU PSC communiques schedule and releases",
+        "Somalia MFA statements requesting AU action",
+        "Reuters/AP reporting on AU diplomatic reactions"
+      ],
+      "rationale": "Somalia\u2019s territorial-integrity issue is a recurring AU stance; a prompt, formal AU response is plausible given the sensitivity and precedent.",
+      "id": "2442c53a-ab52-443f-8594-4167474efd0f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will announce a Russia-related sanctions package designating at least 30 individuals/entities in a single action (same press release/date), by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 94,
+      "deadline": "2026-03-31",
+      "confidence_pct": 52,
+      "verification_criteria": "U.S. Treasury/OFAC press release or OFAC update lists \u226530 new Russia program (or Russia-related) SDN designations on the same date, tied to Russia/Ukraine conflict or Russian state support networks.",
+      "evidence": [
+        "NYT reporting (2025-12-26) indicates Republican senators pushing for a tougher stance on Putin, increasing odds of additional sanctions."
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN updates",
+        "Congressional letters/public statements calling for sanctions",
+        "White House/National Security Council readouts mentioning sanctions"
+      ],
+      "rationale": "Sanctions are a flexible policy lever and can be rolled out quickly; the size threshold (30) is material but historically achievable.",
+      "id": "e1d1d423-4459-4b90-8c72-b798004acced",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "A California state wealth-tax bill will be introduced that proposes an annual tax rate of at least 1.0% on individual net worth, by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 94,
+      "deadline": "2026-03-31",
+      "confidence_pct": 48,
+      "verification_criteria": "A bill is filed in the California Assembly or Senate (LegInfo) whose text includes (a) an annual wealth tax and (b) a top marginal rate \u22651.0% applied to net worth (or worldwide wealth) above a stated threshold.",
+      "evidence": [
+        "NYT reporting (2025-12-26) notes revived California wealth-tax discussion and capital-flight concerns among high earners."
+      ],
+      "monitoring_signals": [
+        "California LegInfo bill filings and summaries",
+        "Statements from Assembly/Senate leadership and committee agendas",
+        "Reports from Sacramento-based outlets (e.g., CalMatters) on wealth-tax drafts"
+      ],
+      "rationale": "Repeated prior attempts plus renewed public debate raise introduction odds, though passage is substantially harder than introduction.",
+      "id": "a9590f92-bd90-4763-b089-85e047cc4648",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "An investor will file a Schedule 13D disclosing beneficial ownership of at least 5.0% of Target Corp. (TGT), by 2026-02-28 (UTC).",
+      "category": "markets",
+      "horizon_days": 63,
+      "deadline": "2026-02-28",
+      "confidence_pct": 40,
+      "verification_criteria": "SEC EDGAR shows a Schedule 13D (not 13G) for Target (CIK of Target Corp.) reporting \u22655.0% beneficial ownership, filed on or before the deadline.",
+      "evidence": [
+        "MarketWatch reporting (2025-12-26) cites significant new investment interest in Target."
+      ],
+      "monitoring_signals": [
+        "EDGAR new 13D filings for TGT",
+        "13G-to-13D conversions by large holders",
+        "News reports naming specific funds accumulating shares"
+      ],
+      "rationale": "A 13D implies activism/intent; the reported interest could culminate in a stake disclosure, but many accumulations remain below 5% or use 13G.",
+      "id": "98769f22-92bf-4aa2-9302-3610643d1995",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Oracle will reduce or defer previously communicated FY2026 capital-expenditure plans by at least $1.0 billion, as stated in an earnings release/call or SEC filing, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 185,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "In an Oracle earnings release, earnings-call transcript, 10-Q, or 8-K, Oracle explicitly revises FY2026 capex (or data-center investment) guidance downward by \u2265$1.0B versus a prior stated figure, or states a \u2265$1.0B deferral into a later fiscal period.",
+      "evidence": [
+        "CNBC reporting (2025-12-26) highlights investor concerns about Oracle\u2019s AI build-out strategy and execution."
+      ],
+      "monitoring_signals": [
+        "Oracle quarterly earnings releases and guidance language",
+        "Capex line items in Oracle cash-flow statements",
+        "Management commentary on data-center build timelines and procurement"
+      ],
+      "rationale": "If execution/returns disappoint, capex pacing is a common adjustment lever; however, competitive pressure may keep spend elevated.",
+      "id": "257de746-7607-415c-af16-7175a277ed34",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Education will publish a Federal Register Notice of Proposed Rulemaking (NPRM) for a new or revised income-driven repayment (IDR) plan, by 2026-05-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 155,
+      "deadline": "2026-05-31",
+      "confidence_pct": 50,
+      "verification_criteria": "Federal Register publication by ED containing an NPRM that proposes creating, replacing, or materially revising an IDR plan (e.g., payment formula, forgiveness terms, eligibility), explicitly labeled as proposed rulemaking.",
+      "evidence": [
+        "CNBC reporting (2025-12-26) notes court-related denials impacting new IDR options, increasing pressure for replacement pathways."
+      ],
+      "monitoring_signals": [
+        "Federal Register searches for ED/Student Aid NPRMs",
+        "ED press releases on repayment plan changes",
+        "OMB/OIRA regulatory agenda entries for ED student-loan rules"
+      ],
+      "rationale": "If courts constrain existing programs, ED typically pivots to formal rulemaking; timing is plausible within 5 months but depends on administration priorities.",
+      "id": "fc3bc18e-f5c0-460c-800c-45a696349b73",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. CPI \u2018Shelter\u2019 (BLS) will fall to 3.0% year-over-year or lower in at least one monthly CPI release, by 2026-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 369,
+      "deadline": "2026-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Any BLS CPI report (monthly release) shows the 12-month percent change for the CPI shelter index at \u22643.0% (not seasonally adjusted YoY).",
+      "evidence": [
+        "CNBC reporting (2025-12-26) indicates rents falling in several large U.S. cities heading into 2026, implying easing shelter inflation with lags."
+      ],
+      "monitoring_signals": [
+        "Monthly BLS CPI tables (shelter 12-month change)",
+        "Private rent indices (Zillow, Apartment List) trend persistence",
+        "OER vs. rent-of-primary-residence divergence"
+      ],
+      "rationale": "Shelter disinflation is lagged and sticky; falling market rents help, but reaching \u22643% may require broad-based cooling and time.",
+      "id": "31ab33fe-7489-4e43-a440-fd4adf269511",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The FTC or DOJ will open a publicly confirmed antitrust investigation (second request, civil investigative demand, or formal inquiry acknowledged in filings) into an AI-accelerator-related acquisition or strategic investment announced in 2026, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 369,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "A company involved in an AI-accelerator (GPU/ASIC/NPU) acquisition/investment announced in 2026 discloses receiving a second request/CID or otherwise confirms an FTC/DOJ antitrust investigation in an SEC filing, press release, or on-record regulator statement by the deadline.",
+      "evidence": [
+        "CNBC reporting (2025-12-26) underscores heightened antitrust sensitivity around AI accelerator platform power and deal structuring."
+      ],
+      "monitoring_signals": [
+        "SEC filings disclosing HSR second requests/CIDs",
+        "FTC/DOJ public remarks on AI compute competition",
+        "Reuters/Bloomberg deal reporting on accelerator startups and vertical integration"
+      ],
+      "rationale": "Regulators are increasingly focused on AI compute concentration; some 2026 transaction is likely to attract formal scrutiny, though public confirmation isn\u2019t guaranteed.",
+      "id": "1897f828-6fe8-4309-a269-cb1cf3b5a145",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A peer-reviewed paper will report independent replication of superconductivity in a newly reported \u2018rule-breaking\u2019 superconductor material at a transition temperature of at least 77 K, published by 2026-12-31 (UTC).",
+      "category": "science",
+      "horizon_days": 369,
+      "deadline": "2026-12-31",
+      "confidence_pct": 28,
+      "verification_criteria": "A peer-reviewed journal article (not preprint only) explicitly frames itself as an independent replication/verification study and reports a superconducting transition (e.g., zero resistance and/or Meissner effect evidence) with Tc \u226577 K in the specific newly reported material/system.",
+      "evidence": [
+        "ScienceDaily summary (2025-12-25) highlights a \u2018new rule-breaking superconductor\u2019 among multiple advances, suggesting follow-on validation attempts."
+      ],
+      "monitoring_signals": [
+        "Follow-up publications in Nature/Science/PRL/PRB and specialized superconductivity journals",
+        "Conference abstracts reporting replication attempts (APS March Meeting, MRS)",
+        "Retractions/corrections or replication controversies around the original claim"
+      ],
+      "rationale": "Replication is common but often slower than expected; setting a high Tc threshold (\u226577 K) makes success less likely within one year.",
+      "id": "73e51e8c-158e-4a7a-b104-5abe9525f62a",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

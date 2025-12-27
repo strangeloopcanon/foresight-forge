@@ -1,0 +1,55 @@
+{
+  "date": "2025-12-26",
+  "assessments": [
+    {
+      "id": "17713e39-a0c0-495a-839c-f377e3bad30e",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s provided headlines indicate Waymo has publicly confirmed resuming paid driverless robotaxi rides to the general public in San Francisco."
+    },
+    {
+      "id": "50dcd495-079d-4d43-a6b3-c28bf9815f24",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news bullets indicates CISA added CVE-2025-68664 (LangChain/LangChain-core) to the KEV Catalog."
+    },
+    {
+      "id": "71818de1-36bd-4ca9-bb3d-2ed54af9e0b8",
+      "status": "needs-clarification",
+      "status_rationale": "A NYT headline references a \u201cNigeria strike\u201d involving ISIS claims, but the bullet list does not establish (a) that the strike was ISIS-linked militants, (b) that it occurred in Nigeria as a U.S. kinetic operation, and critically (c) that DoD/AFRICOM publicly announced it (rather than it being based on political claims or other reporting)."
+    },
+    {
+      "id": "345bd492-00da-43d5-9f9f-26ad1dca965b",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not contain evidence of an EU and/or U.S. announcement of $1.0B+ in new commitments specifically for Ukraine electricity/grid/heat/water infrastructure repair/resilience."
+    },
+    {
+      "id": "aa486082-c739-462f-8d93-5cff95a898fe",
+      "status": "pending",
+      "status_rationale": "No headline provided indicates FEMA approved Individual Assistance or Public Assistance for any Southern California county due to post-Christmas flooding."
+    },
+    {
+      "id": "05a283cc-4cfe-4ecb-a688-6f434b86ab79",
+      "status": "pending",
+      "status_rationale": "No provided news item references the California Department of Insurance approving a homeowners rate increase of at least 20% for a top-10 U.S. home insurer."
+    },
+    {
+      "id": "22e45fd4-5fd7-4c6f-be99-a4538286331d",
+      "status": "pending",
+      "status_rationale": "There is no evidence in today\u2019s bullet list that a bill creating a federal deduction/credit for consumer auto-loan interest was introduced in Congress."
+    },
+    {
+      "id": "2f7c6188-f1e3-46cc-a498-55b6a07fbf2a",
+      "status": "pending",
+      "status_rationale": "MarketWatch items mention gold/silver setup and tax-deadline risks, but provide no clear evidence that COMEX front-month silver settled at or above $32.00/oz."
+    },
+    {
+      "id": "8693529f-fc1c-486d-8faf-1867bc290bd4",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the U.S. EPA published a solicitation (NOFO/RFP) for $50M+ for PFAS destruction or destruction-technology pilots/demonstrations."
+    },
+    {
+      "id": "91826bce-982c-4d98-a7e4-6af45d8eec4f",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s news bullets references NOAA issuing a 2026 Atlantic hurricane seasonal outlook, much less one calling for an 'above-normal' season."
+    }
+  ]
+}
