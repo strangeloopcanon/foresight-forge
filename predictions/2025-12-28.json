@@ -1,0 +1,198 @@
+{
+  "date": "2025-12-28",
+  "predictions": [
+    {
+      "text": "U.S. DHS (ICE/HSI) will publicly announce a single-day worksite/logistics enforcement operation resulting in at least 250 arrests/detentions across one metro area, by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 184,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.200670695,
+      "verification_criteria": "Official DHS/ICE/HSI press release or official statement (or congressional testimony citing a specific operation) that reports >=250 arrests/detentions tied to a single-day operation targeting warehouses/import distribution/logistics facilities within one metro area.",
+      "evidence": [
+        "Expansion of worksite/warehouse immigration raids into logistics nodes suggests rising likelihood of large-scale operations: https://www.nytimes.com/2025/12/27/nyregion/immigration-arrests-import-warehouses-new-jersey.html",
+        "Second-term agenda emphasizes tighter immigration enforcement, increasing operational tempo: https://www.nytimes.com/2025/12/27/us/politics/trump-second-term-promises-actions.html"
+      ],
+      "monitoring_signals": [
+        "ICE/HSI field office press releases referencing 'worksite enforcement' and 'logistics/warehouse' targets",
+        "State/local reports of multi-site raids near major ports (NY/NJ, LA/LB, Houston, Savannah)",
+        "DHS budget or staffing reallocations toward HSI worksite enforcement"
+      ],
+      "rationale": "Recent reporting indicates raids are moving into import-distribution nodes; scaling to a single-day, high-count operation is plausible but not assured.",
+      "id": "d5a4a214-f5a1-4883-845d-1beaa7af3f88",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The USTR will publish a Federal Register notice imposing an additional tariff rate of at least 10% on a defined list of imports with an estimated annual import value of at least $50 billion (as stated by USTR/ITC or reported by Reuters/Bloomberg), effective no later than 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 276,
+      "deadline": "2026-09-30",
+      "confidence_pct": 40,
+      "log_odds": -0.405465108,
+      "verification_criteria": "Federal Register notice from USTR establishing new/additional duties with rate >=10% on an enumerated HTS list; USTR/ITC (or Reuters/Bloomberg citing USTR/ITC) must state or estimate affected annual import value >=$50B; effective date on/before 2026-09-30.",
+      "evidence": [
+        "Historical evidence and renewed political emphasis suggest higher tariff risk: https://feeds.feedblitz.com/~/939366320/0/marginalrevolution~The-Macroeconomic-Effects-of-Tariffs-Evidence-From-US-Historical-Data.html",
+        "Administration agenda highlights tougher trade posture: https://www.nytimes.com/2025/12/27/us/politics/trump-second-term-promises-actions.html"
+      ],
+      "monitoring_signals": [
+        "USTR docket openings and Section 301/232 announcements",
+        "White House trade statements mentioning broad new tariff schedules",
+        "ITC briefing papers estimating affected import value"
+      ],
+      "rationale": "Trade posture is tightening; whether it reaches a $50B+ scope at >=10% by the deadline is uncertain.",
+      "id": "9d3b00df-56f9-4c3f-adc9-cf077f23e36b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one of Moody\u2019s, S&P Global Ratings, or Fitch will downgrade (not just place on watch) a rated U.S. private student-loan ABS tranche, citing increased bankruptcy discharge risk and/or higher-than-expected losses, by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 368,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "log_odds": -0.619039209,
+      "verification_criteria": "A published rating action report from Moody\u2019s/S&P/Fitch that (1) downgrades a U.S. private student-loan ABS tranche and (2) explicitly cites bankruptcy discharge trends/standards and/or related loss increases as a key driver.",
+      "evidence": [
+        "Rising student-loan bankruptcy discharge activity could pressure credit performance over time: https://www.nytimes.com/2025/12/27/business/student-loans-bankruptcy.html"
+      ],
+      "monitoring_signals": [
+        "Rating-agency surveillance reports flagging bankruptcy-related loss severity changes",
+        "Higher delinquency/charge-off metrics in private student-loan trusts",
+        "Legal/regulatory updates lowering discharge barriers further"
+      ],
+      "rationale": "Bankruptcy discharge trends are shifting, but translating into ABS downgrades depends on portfolio seasoning, enhancement, and loss timing.",
+      "id": "2071d8ea-c156-4537-9d2b-7409310a9a44",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The European Commission will publish a formal legislative proposal (COM document) creating or scaling an EU-level funding program of at least \u20ac10 billion specifically for AI compute infrastructure (data centers, accelerators, or AI supercomputing) and/or associated grid/power enablement, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 368,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "log_odds": -0.84729786,
+      "verification_criteria": "A European Commission COM document proposing a new or expanded program with total proposed budget >=\u20ac10B that is explicitly framed around AI compute capacity (and/or required power/grid buildout for AI compute).",
+      "evidence": [
+        "Europe faces a capital-allocation push toward AI competitiveness and compute access: https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html",
+        "AI strategies can be constrained by infrastructure buildout execution: https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html"
+      ],
+      "monitoring_signals": [
+        "EC speeches referencing 'AI compute' as a budget line item for the next MFF/industrial plan",
+        "Draft COM documents or leaks referencing EU AI compute facilities",
+        "Member-state coalition letters pushing EU-level compute funding"
+      ],
+      "rationale": "Compute scarcity is salient, but reaching a \u20ac10B+ EU-level COM proposal within one year is ambitious.",
+      "id": "4657def6-6952-426a-b56d-edb72441feab",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "LME 3-month copper will settle at or above $10,500 per metric tonne at least once, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 184,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "log_odds": -0.322773392,
+      "verification_criteria": "London Metal Exchange official settlement price for Copper, 3-month contract, is >= $10,500/tonne on at least one trading day on/before 2026-06-30.",
+      "evidence": [
+        "AI data-center scaling may be constrained by copper and interconnect limits, raising capex pressures: https://spectrum.ieee.org/rf-over-fiber"
+      ],
+      "monitoring_signals": [
+        "LME inventory trends and canceled warrants",
+        "Major mine disruption headlines (Chile/Peru) and TC/RC moves",
+        "Hyperscaler capex acceleration tied to power+network builds"
+      ],
+      "rationale": "AI/power buildouts support demand, but macro slowdown or supply response could cap prices.",
+      "id": "827ff6ef-5dce-414a-92fb-463db85de0a2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Amazon (AWS) will announce a North America data-center power procurement deal totaling at least 1.0 GW of nameplate capacity (PPAs, generation acquisition, or dedicated build agreement), by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 276,
+      "deadline": "2026-09-30",
+      "confidence_pct": 48,
+      "log_odds": -0.080042708,
+      "verification_criteria": "AWS/Amazon press release, SEC filing, or reputable reporting (Reuters/Bloomberg/FT/WSJ) describing a specific deal or set of deals announced by Amazon/AWS in North America that sum to >=1.0 GW nameplate capacity dedicated to data-center power supply.",
+      "evidence": [
+        "AI infrastructure expansion increasingly bottlenecked by power availability: https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html",
+        "Interconnect and materials constraints raise the need for large, explicit power procurement: https://spectrum.ieee.org/rf-over-fiber"
+      ],
+      "monitoring_signals": [
+        "Utility interconnection filings mentioning AWS as offtaker",
+        "AWS regional announcements tied to new 'campus' builds",
+        "Merchant generator disclosures (gas/nuclear/renewables) naming AWS in offtake agreements"
+      ],
+      "rationale": "Hyperscalers are increasingly forced to secure power at scale; AWS is likely to follow peers with an explicitly GW-sized announcement.",
+      "id": "eec0043d-161b-433b-a093-26d127865955",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-year Treasury yield will close at or below 3.50% (New York close) at least once, by 2026-06-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 184,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "log_odds": -0.489548226,
+      "verification_criteria": "The 10-year Treasury yield (e.g., U.S. Treasury constant maturity 10-year, or widely cited market close such as Reuters) records a New York close <= 3.50% on at least one trading day on/before 2026-06-30.",
+      "evidence": [
+        "Tariff-driven growth/inflation tradeoffs can raise recession-risk scenarios that pull long yields down: https://feeds.feedblitz.com/~/939366320/0/marginalrevolution~The-Macroeconomic-Effects-of-Tariffs-Evidence-From-US-Historical-Data.html"
+      ],
+      "monitoring_signals": [
+        "Fed communications shifting toward faster easing",
+        "ISM/Payroll downside surprises and recession-probability indicators",
+        "Inflation measures continuing to cool (core PCE, shelter disinflation)"
+      ],
+      "rationale": "A 3.50% close requires meaningful risk-off or accelerated easing expectations; plausible but not base case within 6 months.",
+      "id": "e2167b98-d15a-4aac-9757-5a1f3d68cd87",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one U.S.-listed quantum-computing company (IonQ, Rigetti, D-Wave, or Quantum Computing Inc.) will complete an underwritten public equity offering raising at least $200 million in gross proceeds, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 184,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.200670695,
+      "verification_criteria": "Company press release and/or SEC filing (424B/8-K) confirming pricing/closing of an underwritten public offering with gross proceeds >=$200M (excluding overallotment unless exercised and included in gross).",
+      "evidence": [
+        "Quantum computing is re-emerging as a speculative equity theme; funding needs remain high given limited near-term revenue: https://www.marketwatch.com/story/quantum-stocks-are-where-ai-was-five-years-ago-these-bets-could-be-big-winners-099dcf37?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Shelf registration statements becoming effective",
+        "ATM usage accelerating and cash runway commentary",
+        "Run-ups in quantum stock prices enabling larger deals"
+      ],
+      "rationale": "Speculative rallies often precede dilution; a $200M+ underwritten raise is feasible if valuations remain elevated.",
+      "id": "df07bd59-3e47-49ab-9fc2-f6db6f85a94b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one of Microsoft, Amazon, Alphabet, or Meta will explicitly cite 'copper' as a supply constraint or cost driver for data-center or AI infrastructure buildouts in an earnings-call transcript, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 184,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.200670695,
+      "verification_criteria": "Verbatim mention of 'copper' in the context of constraints/costs for data centers/AI infrastructure in an official quarterly earnings call transcript (company IR site or major transcript provider) for MSFT/AMZN/GOOGL/META on/before 2026-06-30.",
+      "evidence": [
+        "Analyses increasingly point to copper/interconnect as limiting factors for AI data-center scaling: https://spectrum.ieee.org/rf-over-fiber"
+      ],
+      "monitoring_signals": [
+        "Procurement commentary in capex guidance updates",
+        "Supply-chain risk sections in 10-Q/10-K filings mentioning copper/cabling",
+        "Utility and contractor lead-time reports for high-voltage and data-center builds"
+      ],
+      "rationale": "If copper becomes a visible bottleneck, hyperscalers are likely to acknowledge it when explaining capex timing and cost pressures.",
+      "id": "dae04ed9-96b7-4e20-8e5c-e7beabbe8a2b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

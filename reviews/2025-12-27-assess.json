@@ -1,0 +1,55 @@
+{
+  "date": "2025-12-27",
+  "assessments": [
+    {
+      "id": "aebb069f-d6f1-4f49-8422-af10a2a5f6a3",
+      "status": "pending",
+      "status_rationale": "Today\u2019s headlines contain no reporting about Hong Kong building-code enforcement, bribery/corruption investigations, or arrests/charges tied to a 2025 Hong Kong apartment-fire case. Deadline not reached."
+    },
+    {
+      "id": "2442c53a-ab52-443f-8594-4167474efd0f",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates the African Union issued a communique/statement about Israel recognizing Somaliland. Deadline not reached."
+    },
+    {
+      "id": "e1d1d423-4459-4b90-8c72-b798004acced",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s bullets of an OFAC Russia-related sanctions action designating 30+ individuals/entities in a single package. Deadline not reached."
+    },
+    {
+      "id": "a9590f92-bd90-4763-b089-85e047cc4648",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news does not mention introduction of a California state wealth-tax bill meeting the specified 1.0%+ annual net-worth tax threshold. Deadline not reached."
+    },
+    {
+      "id": "98769f22-92bf-4aa2-9302-3610643d1995",
+      "status": "pending",
+      "status_rationale": "No reporting here indicates a Schedule 13D filing for 5%+ beneficial ownership of Target (TGT). Deadline not reached."
+    },
+    {
+      "id": "257de746-7607-415c-af16-7175a277ed34",
+      "status": "pending",
+      "status_rationale": "No Oracle earnings/SEC disclosure in today\u2019s items indicates a $1B+ reduction/deferral of previously communicated FY2026 capex plans. Deadline not reached."
+    },
+    {
+      "id": "fc3bc18e-f5c0-460c-800c-45a696349b73",
+      "status": "pending",
+      "status_rationale": "A story about student-loan bankruptcy trends is not evidence of a Department of Education Federal Register NPRM for a new/revised IDR plan. No NPRM indicated today. Deadline not reached."
+    },
+    {
+      "id": "31ab33fe-7489-4e43-a440-fd4adf269511",
+      "status": "pending",
+      "status_rationale": "No CPI release data is included in today\u2019s bullets, and nothing indicates BLS \u2018Shelter\u2019 inflation at or below 3.0% YoY. Deadline not reached."
+    },
+    {
+      "id": "1897f828-6fe8-4309-a269-cb1cf3b5a145",
+      "status": "pending",
+      "status_rationale": "This prediction is conditional on an AI-accelerator-related acquisition/investment announced in 2026 and a publicly confirmed FTC/DOJ investigation; today\u2019s news provides no such 2026 trigger event or investigation confirmation. Deadline not reached."
+    },
+    {
+      "id": "73e51e8c-158e-4a7a-b104-5abe9525f62a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s science items do not report a peer-reviewed independent replication of superconductivity in a newly reported \u2018rule-breaking\u2019 material at Tc \u2265 77 K. Deadline not reached."
+    }
+  ]
+}
