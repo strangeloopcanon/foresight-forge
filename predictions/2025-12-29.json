@@ -1,0 +1,203 @@
+{
+  "date": "2025-12-29",
+  "predictions": [
+    {
+      "text": "ICE Brent crude oil (front-month) will settle at or above $100.00/bbl at least once by 2026-09-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 275,
+      "deadline": "2026-09-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Verified true if the ICE Brent front-month futures official daily settlement price is >= 100.00 USD/bbl on any trading day on or before 2026-09-30 (UTC).",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/28/world/middleeast/future-of-mideast.html"
+      ],
+      "monitoring_signals": [
+        "Red Sea/Gulf shipping disruption headlines (missile/drone attacks, insurance rate spikes)",
+        "OPEC+ meeting outcomes and compliance commentary",
+        "EIA weekly inventory surprises and OECD stock levels",
+        "Options-implied skew for Brent calls (risk premium steepening)"
+      ],
+      "rationale": "Geopolitical volatility and fragile regional security can reprice crude risk premium quickly, even without sustained supply loss; $100 is reachable on shock days but not the base case.",
+      "id": "b1da4d82-6b80-4e64-b2ff-9a74c211f675",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "TrendForce/DRAMeXchange will report that average server DRAM contract prices increased by at least 15% quarter-over-quarter for any quarter in 2026 H1 or 2026 Q3, published by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 275,
+      "deadline": "2026-09-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Verified true if a TrendForce/DRAMeXchange pricing update explicitly states (in text or table) that average server DRAM contract prices rose >=15% QoQ for a named quarter (e.g., 2026Q2 vs 2026Q1), and the update is published on or before 2026-09-30 (UTC).",
+      "evidence": [
+        "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram"
+      ],
+      "monitoring_signals": [
+        "HBM allocation tightness and lead-time extensions cited by OEMs/cloud providers",
+        "Micron/SK hynix/Samsung commentary on pricing and supply discipline",
+        "AI server shipment forecasts and BOM cost trends",
+        "TrendForce weekly/monthly DRAM/NAND spot indicators"
+      ],
+      "rationale": "AI datacenter demand increases memory intensity; contract pricing tends to respond with step-changes during tight cycles, and >=15% QoQ is plausible within 2026.",
+      "id": "a257c108-b05f-41a5-8cfb-aac09cc04e8d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "BLS CPI-U for the category 'computers, peripherals, and smart home assistant devices' will show a positive year-over-year (12-month) percent change (>0.0%) in at least one monthly CPI release by 2026-12-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 367,
+      "deadline": "2026-12-31",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Verified true if any BLS CPI monthly release (published on or before 2026-12-31 UTC) shows the 12-month percent change for 'computers, peripherals, and smart home assistant devices' is > 0.0%.",
+      "evidence": [
+        "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram"
+      ],
+      "monitoring_signals": [
+        "BLS detailed CPI tables for IT hardware subcomponents",
+        "PC/smartphone ASP trends and memory pass-through commentary",
+        "DRAM/NAND contract price trajectory and GPU supply constraints",
+        "Retail electronics promo intensity (seasonal discounting levels)"
+      ],
+      "rationale": "Electronics deflation can reverse if memory and components re-inflate and discounting eases; a single positive YoY print is a moderate-probability outcome over a year.",
+      "id": "085b9f86-9226-4313-951b-d9efc8205546",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "DHS and/or USCIS will publish a Federal Register Notice of Proposed Rulemaking (NPRM) that expands mandatory E-Verify usage beyond current federal-contractor requirements, by 2026-12-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 367,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "log_odds": -0.847,
+      "verification_criteria": "Verified true if the Federal Register publishes an NPRM sponsored by DHS and/or USCIS proposing new mandatory E-Verify requirements for additional employer categories (not merely guidance), on or before 2026-12-31 (UTC).",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/28/business/us-immigration-trump-1920s.html"
+      ],
+      "monitoring_signals": [
+        "DHS Unified Agenda entries referencing E-Verify expansion",
+        "White House immigration enforcement directives and agency memos",
+        "Congressional hearings/legislation that could be paired with rulemaking",
+        "Employer-compliance rulemaking activity in the Federal Register"
+      ],
+      "rationale": "If the policy agenda prioritizes lowering unauthorized employment, E-Verify expansion is a logical lever, but rulemaking bandwidth and legal risk keep probability modest.",
+      "id": "4ae73be0-240c-48e0-a06a-db1d4d50d184",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The DOJ Antitrust Division or FTC will publicly announce a settlement/consent agreement that ends at least one active U.S. federal antitrust lawsuit against a major tech platform (Alphabet/Google, Meta, Amazon, Apple, or Microsoft) by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 367,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "Verified true if DOJ or FTC issues a press release (or the defendant files an 8-K) announcing a settlement/consent decree/stipulated dismissal that resolves at least one pending federal antitrust case against one of the named platforms, on or before 2026-12-31 (UTC).",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/28/technology/tech-trump.html"
+      ],
+      "monitoring_signals": [
+        "Court docket activity indicating settlement talks (joint status reports, continuances)",
+        "Changes in DOJ/FTC leadership priorities and remedy posture",
+        "Public statements about narrowing claims or remedy negotiations",
+        "Earnings-call references to litigation resolution timelines"
+      ],
+      "rationale": "Shifts in enforcement priorities and litigation fatigue often produce at least one negotiated resolution in a multi-case portfolio within a year, though not guaranteed.",
+      "id": "7736c3d3-5cb7-4b57-8aee-507719c29886",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "South Korea\u2019s Personal Information Protection Commission (PIPC) will announce an administrative fine/penalty against Coupang for the reported data breach totaling at least KRW 50 billion, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 367,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Verified true if the PIPC publishes a press release/decision naming Coupang and stating an administrative fine/penalty >= 50,000,000,000 KRW related to the incident, on or before 2026-12-31 (UTC).",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/29/south-korea-retail-coupang-bon-kim-1-billion-trillion-won-data-breach-compensation-vouchers.html"
+      ],
+      "monitoring_signals": [
+        "PIPC investigation updates and committee meeting agendas",
+        "Korean press reporting on provisional findings and proposed penalties",
+        "Coupang regulatory risk disclosures in filings and earnings calls",
+        "Parallel actions by Korea Fair Trade Commission or prosecutors"
+      ],
+      "rationale": "Large consumer-platform breaches increasingly draw sizeable penalties; however, final amounts and timing depend on investigation conclusions and appeal processes.",
+      "id": "c26610d2-72b0-4b8b-b0ea-b045a2692d70",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. government will publicly announce a pause, suspension, or reduction of at least $50 million in planned security/counternarcotics assistance to Colombia (named programs or aggregated amount), by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 183,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "log_odds": -0.847,
+      "verification_criteria": "Verified true if an official U.S. government statement (State/White House/USAID/DoD) or published budget/notifications explicitly indicates a pause/suspension/reduction totaling >= $50M for Colombia security/counternarcotics assistance, on or before 2026-06-30 (UTC).",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/28/world/americas/colombia-drug-trade-trump-petro.html"
+      ],
+      "monitoring_signals": [
+        "State/Foreign Ops budget releases and congressional notification letters",
+        "Bilateral diplomatic disputes and public rhetoric spikes",
+        "Reporting on DEA/INL cooperation changes or program hold notices",
+        "Conditions-based aid language in appropriations/authorization text"
+      ],
+      "rationale": "Political tensions can spill into conditionality and aid timing; still, formal reductions at this size face interagency and congressional friction.",
+      "id": "d51242b1-5eeb-4dfb-97ab-c52ff40305f2",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The EU (Council of the European Union) will adopt a new Syria-related restrictive-measures package designating at least 10 individuals and/or entities in a single action, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 183,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Verified true if the Council of the EU issues a press release and/or Official Journal publication showing Syria restrictive measures with >=10 new listings adopted on the same date, on or before 2026-06-30 (UTC).",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/28/world/middleeast/syria-protests-alawite-two-killed.html"
+      ],
+      "monitoring_signals": [
+        "EU Foreign Affairs Council agendas referencing Syria",
+        "UN/NGO reporting on escalations, repression, or mass-casualty events",
+        "UK/US coordination signals on Syria sanctions",
+        "Leak/preview reporting from Brussels correspondents (Reuters/FT)"
+      ],
+      "rationale": "Renewed violence and instability often trigger incremental listings; reaching 10+ in one tranche is plausible but contingent on a clear attribution narrative.",
+      "id": "33fbfa5b-97e8-407c-9c7f-8227a45794fb",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A top U.S. quick-service or fast-casual restaurant company (McDonald's, Yum! Brands, Restaurant Brands International, Wendy\u2019s, or Chipotle) will state in an earnings call transcript, press release, or SEC filing that a national 'value' platform (e.g., value menu/meal deal) is planned to continue through at least 2026-12-31, by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 275,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Verified true if one named company explicitly states (in transcript/press release/10-Q/8-K) that a nationwide value menu/meal-deal platform will continue 'through 2026' or through a date >= 2026-12-31, with the statement published on or before 2026-09-30 (UTC).",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/28/value-meals-restaurants-mcdonalds-chilis-taco-bell.html"
+      ],
+      "monitoring_signals": [
+        "Company earnings call commentary on traffic drivers and promo calendars",
+        "Menu pricing actions and franchisee margin discussions",
+        "Consumer spending/restaurant traffic data (NPD/Black Box/Kalibrate)",
+        "Competitive moves (copycat value offers) indicating a prolonged value cycle"
+      ],
+      "rationale": "If consumers remain price-sensitive, chains tend to institutionalize value platforms; explicit multi-quarter guidance through year-end 2026 is plausible but not assured.",
+      "id": "07d7cc21-181a-4655-ada4-6cf355dd9dae",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

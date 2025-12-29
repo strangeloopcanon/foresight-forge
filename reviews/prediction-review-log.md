@@ -1469,3 +1469,12 @@ Several items are thematically adjacent but not dispositive: the Ukraine/Russia 
 
 ---
 
+
+## 2025-12-28
+
+None of the listed predictions can be confidently resolved from today’s provided headlines/bullets; all remain pending due to lack of direct, criterion-matching evidence (e.g., specific agency notices, ratings actions, commodity settlements, or corporate deal announcements). Several bullets touch adjacent themes—U.S. immigration politics, U.S.-Ukraine diplomacy, and Big Tech’s policy positioning—but they do not satisfy the operationally specific triggers in the forecasts.
+
+The closest “directional” signals are sectoral: the MarketWatch quantum computing piece suggests ongoing investor attention (relevant to the equity-raise forecast), and the NYT article on tech and Trump speaks to continued momentum/enablement for AI infrastructure (tangentially relevant to compute/power buildout-related forecasts). However, neither provides the concrete event confirmations (e.g., an underwritten ≥$200M offering, a named ≥1 GW power procurement, or an earnings transcript explicitly citing copper) required to mark any prediction correct or incorrect.
+
+---
+

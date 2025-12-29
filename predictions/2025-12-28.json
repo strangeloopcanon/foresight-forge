@@ -20,7 +20,7 @@
       ],
       "rationale": "Recent reporting indicates raids are moving into import-distribution nodes; scaling to a single-day, high-count operation is plausible but not assured.",
       "id": "d5a4a214-f5a1-4883-845d-1beaa7af3f88",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Trade posture is tightening; whether it reaches a $50B+ scope at >=10% by the deadline is uncertain.",
       "id": "9d3b00df-56f9-4c3f-adc9-cf077f23e36b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Bankruptcy discharge trends are shifting, but translating into ABS downgrades depends on portfolio seasoning, enhancement, and loss timing.",
       "id": "2071d8ea-c156-4537-9d2b-7409310a9a44",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "Compute scarcity is salient, but reaching a \u20ac10B+ EU-level COM proposal within one year is ambitious.",
       "id": "4657def6-6952-426a-b56d-edb72441feab",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "rationale": "AI/power buildouts support demand, but macro slowdown or supply response could cap prices.",
       "id": "827ff6ef-5dce-414a-92fb-463db85de0a2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -128,7 +128,7 @@
       ],
       "rationale": "Hyperscalers are increasingly forced to secure power at scale; AWS is likely to follow peers with an explicitly GW-sized announcement.",
       "id": "eec0043d-161b-433b-a093-26d127865955",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "rationale": "A 3.50% close requires meaningful risk-off or accelerated easing expectations; plausible but not base case within 6 months.",
       "id": "e2167b98-d15a-4aac-9757-5a1f3d68cd87",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -170,7 +170,7 @@
       ],
       "rationale": "Speculative rallies often precede dilution; a $200M+ underwritten raise is feasible if valuations remain elevated.",
       "id": "df07bd59-3e47-49ab-9fc2-f6db6f85a94b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -191,7 +191,7 @@
       ],
       "rationale": "If copper becomes a visible bottleneck, hyperscalers are likely to acknowledge it when explaining capex timing and cost pressures.",
       "id": "dae04ed9-96b7-4e20-8e5c-e7beabbe8a2b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
