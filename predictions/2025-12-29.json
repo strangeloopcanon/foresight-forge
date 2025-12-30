@@ -20,7 +20,7 @@
       ],
       "rationale": "Geopolitical volatility and fragile regional security can reprice crude risk premium quickly, even without sustained supply loss; $100 is reachable on shock days but not the base case.",
       "id": "b1da4d82-6b80-4e64-b2ff-9a74c211f675",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "AI datacenter demand increases memory intensity; contract pricing tends to respond with step-changes during tight cycles, and >=15% QoQ is plausible within 2026.",
       "id": "a257c108-b05f-41a5-8cfb-aac09cc04e8d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Electronics deflation can reverse if memory and components re-inflate and discounting eases; a single positive YoY print is a moderate-probability outcome over a year.",
       "id": "085b9f86-9226-4313-951b-d9efc8205546",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "If the policy agenda prioritizes lowering unauthorized employment, E-Verify expansion is a logical lever, but rulemaking bandwidth and legal risk keep probability modest.",
       "id": "4ae73be0-240c-48e0-a06a-db1d4d50d184",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Shifts in enforcement priorities and litigation fatigue often produce at least one negotiated resolution in a multi-case portfolio within a year, though not guaranteed.",
       "id": "7736c3d3-5cb7-4b57-8aee-507719c29886",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Large consumer-platform breaches increasingly draw sizeable penalties; however, final amounts and timing depend on investigation conclusions and appeal processes.",
       "id": "c26610d2-72b0-4b8b-b0ea-b045a2692d70",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Political tensions can spill into conditionality and aid timing; still, formal reductions at this size face interagency and congressional friction.",
       "id": "d51242b1-5eeb-4dfb-97ab-c52ff40305f2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Renewed violence and instability often trigger incremental listings; reaching 10+ in one tranche is plausible but contingent on a clear attribution narrative.",
       "id": "33fbfa5b-97e8-407c-9c7f-8227a45794fb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "If consumers remain price-sensitive, chains tend to institutionalize value platforms; explicit multi-quarter guidance through year-end 2026 is plausible but not assured.",
       "id": "07d7cc21-181a-4655-ada4-6cf355dd9dae",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

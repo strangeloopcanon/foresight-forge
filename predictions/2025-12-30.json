@@ -1,0 +1,186 @@
+{
+  "date": "2025-12-30",
+  "predictions": [
+    {
+      "text": "Donald Trump will publicly announce a specific intended replacement nominee for Federal Reserve Chair Jerome Powell (naming an individual) by 2026-01-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 32,
+      "deadline": "2026-01-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if the White House, Trump campaign/transition, or Trump (in a recorded interview/speech or official social-media post) explicitly names a person as the intended/expected next Fed Chair by the deadline. NO otherwise.",
+      "evidence": [
+        "https://www.marketwatch.com/story/trump-eyes-january-for-announcement-of-powell-replacement-as-he-renews-attacks-on-fed-chief-914828b2"
+      ],
+      "monitoring_signals": [
+        "White House press briefings and official statements referencing Fed leadership",
+        "Major outlets (WSJ/FT/Bloomberg/Reuters) reporting shortlist and decision timing",
+        "Senate Banking Committee outreach/whip activity around a potential nominee"
+      ],
+      "rationale": "Public signaling suggests near-term intent to name a successor; naming an individual is a discrete, verifiable action.",
+      "id": "e0996582-e5f1-464c-aac2-50d0ac69a8d6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Federal Reserve will leave the federal funds target range unchanged at its first two scheduled FOMC meetings of 2026 (no rate hike/cut at either meeting).",
+      "category": "rates",
+      "horizon_days": 91,
+      "deadline": "2026-03-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Resolves YES if the FOMC statements for the first two scheduled 2026 meetings both show no change to the target range from its level entering 2026. Resolves NO if either meeting changes the range.",
+      "evidence": [
+        "https://www.marketwatch.com/story/the-fed-has-gone-into-hibernation-tuesday-may-bring-clues-to-how-long-it-might-wait-to-emerge-7ee04f6c"
+      ],
+      "monitoring_signals": [
+        "CME FedWatch probabilities for Jan/Mar 2026",
+        "Core PCE and CPI surprises vs consensus",
+        "Fed speakers signaling bias (minutes, SEP, speeches)"
+      ],
+      "rationale": "Current narrative points to a hold; two-meeting hold is more likely than an early pivot absent sharp inflation/growth surprises.",
+      "id": "9692ab76-cca4-4923-ab5b-a99b06febd51",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "China\u2019s CAC (or another central regulator) will publish draft rules or formal regulatory guidance specifically requiring AI chatbots to implement anti-self-harm/suicide-content measures and to mitigate \u201cemotional dependence\u201d/manipulation risks by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 91,
+      "deadline": "2026-03-31",
+      "confidence_pct": 65,
+      "verification_criteria": "Resolves YES if a Chinese central regulator posts (official website or gazette) a draft regulation, consultation document, or binding guidance that explicitly references both (a) suicide/self-harm content controls and (b) emotional dependence/manipulation risk controls for conversational AI/chatbots. NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html"
+      ],
+      "monitoring_signals": [
+        "CAC consultation postings and enforcement notices",
+        "Platform compliance updates from major Chinese AI/chatbot apps",
+        "State media commentary on youth protection and AI governance"
+      ],
+      "rationale": "Reported policy direction implies near-term codification; China frequently moves from signaling to draft rules quickly on content governance.",
+      "id": "2233a4aa-c3e2-4042-8ee6-d9539cd1db5e",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "SoftBank will announce a definitive agreement to acquire DigitalBridge (DBRG) (or substantially all of its operating assets) by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 182,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "verification_criteria": "Resolves YES if SoftBank and DigitalBridge jointly announce (press release/8-K) a signed definitive merger or acquisition agreement. Rumors, talks, or non-binding offers do not count. NO if not announced by deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html"
+      ],
+      "monitoring_signals": [
+        "DigitalBridge 8-K filings and board/committee disclosures",
+        "Financing package news (banks, debt commitments, equity partners)",
+        "Regulatory/antitrust filing indications (HSR filings, etc.)"
+      ],
+      "rationale": "Talks can fail or reprice; M&A probability is meaningful but far from certain given valuation, financing, and governance hurdles.",
+      "id": "3c7e9ec1-ffeb-4e6e-bcac-47f6ce9060ca",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "UN General Assembly will adopt a resolution explicitly calling on Israel to restore/maintain UNRWA privileges, immunities, or operational access, with at least 100 member states voting in favor, by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 91,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if UNGA voting records show adoption of such a resolution with \u2265100 \u201cYes\u201d votes by the deadline. NO otherwise.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/29/world/middleeast/israel-unrwa-diplomatic-immunity.html"
+      ],
+      "monitoring_signals": [
+        "UNGA agenda items and draft resolutions concerning UNRWA",
+        "Statements by UNRWA, OCHA, and major donor states",
+        "Israel UN mission responses and diplomatic activity"
+      ],
+      "rationale": "UNGA responses to UN agency constraints often achieve large majorities; vote threshold set to be meaningful but attainable.",
+      "id": "31501f2a-c9a1-4dbb-887e-ef15e7cff959",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "UNRWA will publicly announce a suspension of at least 14 consecutive days of its operations in either Gaza or the West Bank, explicitly citing Israeli legal/administrative restrictions (e.g., loss of privileges/immunities, access constraints), by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 182,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if UNRWA publishes (official statement/press release) an operations suspension lasting \u226514 consecutive days in Gaza or the West Bank and explicitly attributes it primarily to Israeli legal/administrative restrictions. NO otherwise.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/29/world/middleeast/israel-unrwa-diplomatic-immunity.html"
+      ],
+      "monitoring_signals": [
+        "UNRWA situation reports and operational updates",
+        "Israel announcements affecting UNRWA permissions, visas, or access",
+        "Humanitarian access metrics reported by OCHA/UNRWA"
+      ],
+      "rationale": "Diplomatic-immunity removal increases operational friction, but full multi-week suspension requires escalation beyond intermittent disruptions.",
+      "id": "0e1057d0-4b0a-4ef2-95cf-b9c02de256b6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. State Department (or OMB) will publicly announce withholding, pausing, or conditioning at least $200 million in U.S. contributions to UN agencies/programs, explicitly tied to reforms, restructuring, or performance requirements, by 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 274,
+      "deadline": "2026-09-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if an official U.S. government statement, budget document, or public notification specifies a hold/withhold/pause/conditioning totaling \u2265$200M for UN agencies/programs and explicitly links it to reforms/restructuring/performance conditions. NO otherwise.",
+      "evidence": [
+        "https://www.nytimes.com/2025/12/29/world/europe/us-un-aid-funding-foreign-assistance.html"
+      ],
+      "monitoring_signals": [
+        "State/OMB budget releases and congressional notifications",
+        "UN agency funding pipelines and arrears statements",
+        "Congressional hearing language on UN reform and foreign assistance"
+      ],
+      "rationale": "Rhetoric indicates tighter scrutiny, but translating into a quantified, public withholding decision is uncertain and politically constrained.",
+      "id": "a228e38d-d22d-4ad5-9802-55ce827b764b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ICE Brent crude oil (front-month) will settle at or above $90.00/bbl at least once by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 91,
+      "deadline": "2026-03-31",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if ICE publishes an official daily settlement for Brent front-month futures at \u2265$90.00/bbl on any trading day by the deadline. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2025/12/29/trump-iran.html"
+      ],
+      "monitoring_signals": [
+        "Iran-related escalation signals (missile/drone strikes, enrichment announcements)",
+        "OPEC+ production policy changes and compliance",
+        "Red Sea/Gulf shipping disruptions and insurance premia"
+      ],
+      "rationale": "Geopolitical risk can lift crude quickly, but demand uncertainty and spare capacity keep a coin-flip probability for $90 within one quarter.",
+      "id": "e6b24d5f-a99b-464e-8c16-8be188b12670",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CBOE Volatility Index (VIX) will close at or above 35.0 at least once by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 182,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves YES if the official VIX close (Cboe) is \u226535.0 on any U.S. trading day by the deadline. Otherwise NO.",
+      "evidence": [
+        "https://www.marketwatch.com/story/trump-eyes-january-for-announcement-of-powell-replacement-as-he-renews-attacks-on-fed-chief-914828b2",
+        "https://www.cnbc.com/2025/12/29/silver-tops-80-for-first-time-then-stages-dramatic-reversal-overnight.html"
+      ],
+      "monitoring_signals": [
+        "Equity index drawdowns and credit spreads (HY OAS)",
+        "Macro surprises (CPI/jobs) and rate-volatility (MOVE index)",
+        "Geopolitical shock indicators (oil spikes, shipping disruptions)"
+      ],
+      "rationale": "Policy uncertainty plus commodity volatility raises tail-risk, but VIX\u226535 typically needs a sharp risk-off episode; not the base case.",
+      "id": "faf27d56-5b17-4299-905c-aa492ff4209f",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

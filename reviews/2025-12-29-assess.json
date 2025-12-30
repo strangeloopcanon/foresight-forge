@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-29",
+  "assessments": [
+    {
+      "id": "b1da4d82-6b80-4e64-b2ff-9a74c211f675",
+      "status": "pending",
+      "status_rationale": "No bullet reports ICE Brent front-month settling at or above $100/bbl; the deadline is 2026-09-30, so the event may still occur later."
+    },
+    {
+      "id": "a257c108-b05f-41a5-8cfb-aac09cc04e8d",
+      "status": "pending",
+      "status_rationale": "No item references TrendForce/DRAMeXchange server DRAM contract-price data or a \u226515% QoQ increase; deadline is 2026-09-30."
+    },
+    {
+      "id": "085b9f86-9226-4313-951b-d9efc8205546",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention BLS CPI-U for 'computers, peripherals, and smart home assistant devices' turning positive YoY; deadline is 2026-12-31."
+    },
+    {
+      "id": "4ae73be0-240c-48e0-a06a-db1d4d50d184",
+      "status": "pending",
+      "status_rationale": "No bullet indicates DHS/USCIS issued a Federal Register NPRM expanding mandatory E-Verify beyond current federal-contractor requirements; deadline is 2026-12-31."
+    },
+    {
+      "id": "7736c3d3-5cb7-4b57-8aee-507719c29886",
+      "status": "pending",
+      "status_rationale": "No bullet reports a DOJ Antitrust Division or FTC settlement/consent agreement ending an active federal antitrust lawsuit against a major tech platform; deadline is 2026-12-31."
+    },
+    {
+      "id": "c26610d2-72b0-4b8b-b0ea-b045a2692d70",
+      "status": "pending",
+      "status_rationale": "No bullet references South Korea\u2019s PIPC issuing a \u2265KRW 50 billion administrative fine/penalty against Coupang tied to the reported data breach; deadline is 2026-12-31."
+    },
+    {
+      "id": "d51242b1-5eeb-4dfb-97ab-c52ff40305f2",
+      "status": "pending",
+      "status_rationale": "While several bullets concern Colombia/Venezuela-related incidents and U.S. pressure in the region, none clearly state a public U.S. announcement of a pause/suspension/reduction of \u2265$50 million in security/counternarcotics assistance to Colombia; deadline is 2026-06-30."
+    },
+    {
+      "id": "33fbfa5b-97e8-407c-9c7f-8227a45794fb",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the EU Council adopted a new Syria-related restrictive-measures package designating \u226510 individuals/entities in a single action; deadline is 2026-06-30."
+    },
+    {
+      "id": "07d7cc21-181a-4655-ada4-6cf355dd9dae",
+      "status": "pending",
+      "status_rationale": "No bullet mentions McDonald\u2019s, Yum!, RBI, Wendy\u2019s, or Chipotle stating (in an earnings call/press release/SEC filing) that a national value platform will continue through at least 2026-12-31; deadline is 2026-09-30."
+    }
+  ]
+}
