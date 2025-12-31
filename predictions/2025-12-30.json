@@ -18,7 +18,7 @@
       ],
       "rationale": "Public signaling suggests near-term intent to name a successor; naming an individual is a discrete, verifiable action.",
       "id": "e0996582-e5f1-464c-aac2-50d0ac69a8d6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "Current narrative points to a hold; two-meeting hold is more likely than an early pivot absent sharp inflation/growth surprises.",
       "id": "9692ab76-cca4-4923-ab5b-a99b06febd51",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "rationale": "Reported policy direction implies near-term codification; China frequently moves from signaling to draft rules quickly on content governance.",
       "id": "2233a4aa-c3e2-4042-8ee6-d9539cd1db5e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "rationale": "Talks can fail or reprice; M&A probability is meaningful but far from certain given valuation, financing, and governance hurdles.",
       "id": "3c7e9ec1-ffeb-4e6e-bcac-47f6ce9060ca",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "UNGA responses to UN agency constraints often achieve large majorities; vote threshold set to be meaningful but attainable.",
       "id": "31501f2a-c9a1-4dbb-887e-ef15e7cff959",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Diplomatic-immunity removal increases operational friction, but full multi-week suspension requires escalation beyond intermittent disruptions.",
       "id": "0e1057d0-4b0a-4ef2-95cf-b9c02de256b6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "Rhetoric indicates tighter scrutiny, but translating into a quantified, public withholding decision is uncertain and politically constrained.",
       "id": "a228e38d-d22d-4ad5-9802-55ce827b764b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "Geopolitical risk can lift crude quickly, but demand uncertainty and spare capacity keep a coin-flip probability for $90 within one quarter.",
       "id": "e6b24d5f-a99b-464e-8c16-8be188b12670",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Policy uncertainty plus commodity volatility raises tail-risk, but VIX\u226535 typically needs a sharp risk-off episode; not the base case.",
       "id": "faf27d56-5b17-4299-905c-aa492ff4209f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

@@ -1487,3 +1487,12 @@ The closest thematic overlap is geopolitical coverage involving Colombia/Venezue
 
 ---
 
+
+## 2025-12-30
+
+None of the listed predictions can be scored definitively from today’s headlines; all remain pending with deadlines in 2026. The only directly relevant macro/markets datapoint is the CNBC report on December 2025 Fed minutes showing officials were tightly split over the December rate cut, which adds context for 2026 rate-path uncertainty but does not confirm the “no change at first two 2026 meetings” claim.
+
+Geopolitically and institutionally, the NYT report about new Israeli rules leading to aid-group suspensions is the most pertinent to the UNRWA-related forecasts, but the bullet list does not specify UNRWA announcing a 14+ day suspension explicitly due to Israeli legal/administrative restrictions, nor does it mention a UNGA resolution on UNRWA privileges/immunities. In corporate/tech, SoftBank’s fully funded $40B OpenAI investment signals capacity for large deals but is not evidence of a DigitalBridge acquisition, while no items indicate Trump naming a Fed chair replacement nominee, China issuing the specified chatbot safety/dependence guidance, or U.S. withholding $200M+ in UN contributions tied to reforms.
+
+---
+

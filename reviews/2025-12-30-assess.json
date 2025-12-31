@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-30",
+  "assessments": [
+    {
+      "id": "e0996582-e5f1-464c-aac2-50d0ac69a8d6",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets include a broad NYT piece on Trump\u2019s impact on the federal government but do not report Trump publicly naming a specific intended replacement nominee for Fed Chair Powell. Deadline (2026-01-31) has not yet passed."
+    },
+    {
+      "id": "9692ab76-cca4-4923-ab5b-a99b06febd51",
+      "status": "pending",
+      "status_rationale": "CNBC coverage of December 2025 Fed minutes (including a split over a December rate cut) does not establish what the Fed will do at the first two scheduled FOMC meetings of 2026. Those meetings have not occurred yet."
+    },
+    {
+      "id": "2233a4aa-c3e2-4042-8ee6-d9539cd1db5e",
+      "status": "pending",
+      "status_rationale": "No bullet indicates China\u2019s CAC (or another regulator) has issued draft rules/guidance specifically requiring AI chatbots to implement anti-self-harm measures and mitigate \u201cemotional dependence\u201d risks. Deadline (2026-03-31) has not yet passed."
+    },
+    {
+      "id": "3c7e9ec1-ffeb-4e6e-bcac-47f6ce9060ca",
+      "status": "pending",
+      "status_rationale": "Today\u2019s SoftBank-related news concerns a fully funded $40B investment in OpenAI, not an announced definitive agreement to acquire DigitalBridge. Deadline (2026-06-30) has not yet passed."
+    },
+    {
+      "id": "31501f2a-c9a1-4dbb-887e-ef15e7cff959",
+      "status": "pending",
+      "status_rationale": "No bullet reports a UN General Assembly resolution explicitly calling on Israel to restore/maintain UNRWA privileges/immunities/operational access with at least 100 votes in favor. Deadline (2026-03-31) has not yet passed."
+    },
+    {
+      "id": "0e1057d0-4b0a-4ef2-95cf-b9c02de256b6",
+      "status": "pending",
+      "status_rationale": "An NYT item notes Gaza aid groups facing suspensions under new Israeli rules, which may be directionally relevant, but the bullets do not clearly state that UNRWA itself announced a suspension of at least 14 consecutive days citing Israeli restrictions. Deadline (2026-06-30) has not yet passed."
+    },
+    {
+      "id": "a228e38d-d22d-4ad5-9802-55ce827b764b",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the U.S. State Department or OMB publicly announced withholding/pausing/conditioning at least $200M in U.S. contributions to UN agencies/programs tied to reform/performance requirements. Deadline (2026-09-30) has not yet passed."
+    },
+    {
+      "id": "e6b24d5f-a99b-464e-8c16-8be188b12670",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets do not provide evidence about ICE Brent front-month settling at or above $90/bbl (nor do they report such a settlement). Deadline (2026-03-31) has not yet passed."
+    },
+    {
+      "id": "faf27d56-5b17-4299-905c-aa492ff4209f",
+      "status": "pending",
+      "status_rationale": "No bullet reports a VIX close at or above 35.0. Deadline (2026-06-30) has not yet passed."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "date": "2025-12-31",
+  "predictions": [
+    {
+      "text": "The U.S. (White House, DoD, or State) will publicly announce a pause, suspension, or reduction of at least $1.0 billion (USD) in planned Ukraine security assistance (weapons/munitions/training), by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 90,
+      "deadline": "2026-03-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2006706955,
+      "verification_criteria": "Resolves YES if an official U.S. government statement/press release (White House, DoD, State, or OMB) specifies a pause/suspension/reduction totaling >=$1.0B of planned Ukraine security aid; or Reuters/Bloomberg/WSJ/FT reports the same citing named officials/documents. Otherwise NO.",
+      "evidence": [
+        "NYT (2025-12-30) reports fraying U.S.-Ukraine ties increasing uncertainty for military aid: https://www.nytimes.com/2025/12/30/world/europe/ukraine-us-russia-takeaways.html"
+      ],
+      "monitoring_signals": [
+        "DoD/State press briefings referencing Ukraine aid \u2018review\u2019, \u2018conditionality\u2019, or \u2018pause\u2019",
+        "OMB apportionment delays or reprogramming notifications related to Ukraine",
+        "Congressional letters/hearings indicating withheld tranches or delayed drawdowns",
+        "Major wire-service scoops (Reuters/Bloomberg) on halted shipments"
+      ],
+      "rationale": "Political friction and shifting priorities raise the odds of an explicit aid slowdown; the threshold is set high to avoid counting routine timing slippage.",
+      "id": "2ba04754-0d15-40a9-adca-e04de05c6064",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Israel will formally suspend, revoke, or deny renewal of authorization/registration for at least one major international humanitarian NGO operating in Gaza (excluding UNRWA), with the NGO publicly confirming disruption of Gaza operations due to the Israeli action, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 181,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "YES if (a) Israel\u2019s government (COGAT/Defense Ministry/Interior/Justice or published regulation/notice) announces or is credibly reported (Reuters/AP/AFP/NYT/FT/WSJ/Bloomberg) to have suspended/revoked/denied authorization for a named NGO (e.g., MSF, IRC, NRC, Save the Children, Mercy Corps), and (b) the NGO states this action disrupted its Gaza operations. Otherwise NO.",
+      "evidence": [
+        "NYT (2025-12-30) reports new Israeli rules could suspend Gaza aid groups: https://www.nytimes.com/2025/12/30/world/middleeast/gaza-aid-group-suspensions-israel.html"
+      ],
+      "monitoring_signals": [
+        "COGAT policy updates on NGO access/visas/registrations",
+        "NGO statements about license/registration denial or staff visa refusals",
+        "Israeli court filings related to NGO status",
+        "Diplomatic protests from EU/UN about NGO operating permissions"
+      ],
+      "rationale": "Regulatory tightening plus ongoing conflict increases the chance at least one prominent NGO faces a concrete authorization action beyond UNRWA-specific dynamics.",
+      "id": "c50b4b87-910d-451b-9b40-8811be38e7fd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Treasury (OFAC) will announce a Venezuela-related sanctions package designating at least 20 individuals/entities in a single action (same press release/date), by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 90,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081,
+      "verification_criteria": "YES if OFAC issues a single Venezuela-related action with >=20 new designations (individuals and/or entities) disclosed on the same date/press release; counts only new SDN/NS-MBS additions. Otherwise NO.",
+      "evidence": [
+        "CNBC (2025-12-30) notes widened U.S. sanctions targeting Iranian and Venezuelan networks: https://www.cnbc.com/2025/12/30/us-iran-venezuela-sanctions.html",
+        "NYT (2025-12-30) reports a CIA strike in Venezuela signaling higher confrontation risk: https://www.nytimes.com/2025/12/30/us/politics/trump-venezuela-drone-strike-attack.html"
+      ],
+      "monitoring_signals": [
+        "OFAC press releases mentioning Venezuela, PDVSA networks, or shipping/trading intermediaries",
+        "Treasury/State joint statements on Venezuela enforcement",
+        "SDN list update volume spikes tied to Venezuela",
+        "Reuters/Bloomberg reporting on pending \u2018major\u2019 Venezuela sanctions rollouts"
+      ],
+      "rationale": "Escalating confrontation and prior multi-target actions make a larger batch designation plausible; the >=20 threshold avoids counting small, routine updates.",
+      "id": "6311999f-7b68-46b8-873a-3bc3b9f44899",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OpenAI will close and publicly confirm (or be credibly reported by Reuters/Bloomberg/FT/WSJ) a new debt financing and/or revolving credit facility totaling at least $5.0 billion (USD) in committed amount, by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 273,
+      "deadline": "2026-09-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2006706955,
+      "verification_criteria": "YES if OpenAI announces, or a top-tier outlet (Reuters/Bloomberg/FT/WSJ) reports with specific size, that OpenAI has closed a debt raise and/or committed credit facility with aggregate committed amount >=$5.0B. Must be committed/closed (not just \u2018in talks\u2019). Otherwise NO.",
+      "evidence": [
+        "CNBC (2025-12-30) reports SoftBank fully funded a $40B OpenAI investment, underscoring capital intensity: https://www.cnbc.com/2025/12/30/softbank-openai-investment.html",
+        "The Economist (2025-12-30) highlights OpenAI cash burn as a key 2026 bubble risk: https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026"
+      ],
+      "monitoring_signals": [
+        "Reports of OpenAI negotiating bank facilities or issuing private credit",
+        "Credit-market chatter about large AI borrower syndications",
+        "OpenAI disclosures about compute capex commitments and cash runway",
+        "SoftBank/Microsoft-related financing updates affecting OpenAI capital structure"
+      ],
+      "rationale": "Frontier-model scaling is capital intensive; incremental equity may be supplemented with structured debt/credit to fund compute and working capital through 2026.",
+      "id": "1ecd934b-4d8e-4b1f-a5c6-926e06f567f8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Meta will launch a broadly available (not invite-only) consumer-facing AI agent in the U.S. that can autonomously execute at least one multi-step task (e.g., plan-and-book, shop-and-checkout, or schedule-and-confirm) across third-party websites or services, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 181,
+      "deadline": "2026-06-30",
+      "confidence_pct": 48,
+      "log_odds": -0.0800427077,
+      "verification_criteria": "YES if Meta (official blog/app release notes/press release) launches a U.S.-available agent feature that (a) is generally accessible, and (b) completes a multi-step task with third-party integration (APIs or web actions) beyond Meta\u2019s own properties; corroborated by reputable tech press demos. Otherwise NO.",
+      "evidence": [
+        "CNBC (2025-12-30) reports Meta\u2019s acquisition of AI agent firm Manus, suggesting acceleration toward autonomous agents: https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html"
+      ],
+      "monitoring_signals": [
+        "Meta product announcements about \u2018agents\u2019, \u2018actions\u2019, \u2018skills\u2019, or tool-use",
+        "App updates for WhatsApp/Instagram/Facebook mentioning bookings or purchases",
+        "Partnership announcements with travel, commerce, or scheduling providers",
+        "Developer platform updates enabling third-party agent actions"
+      ],
+      "rationale": "Acquisition-driven capability plus competitive pressure increases the chance of a real consumer agent rollout, but third-party execution and safety/compliance could delay general availability.",
+      "id": "7b6d6ee6-a4db-4f0a-8d55-c19e67f9dbf6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one major publicly traded China-focused EV maker (NIO, XPeng, Li Auto, Zeekr/Geely, Leapmotor, or BYD) will announce a single workforce reduction of at least 10% (or at least 10,000 employees) in a press release, filing, or Reuters/Bloomberg report citing the company, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 181,
+      "deadline": "2026-06-30",
+      "confidence_pct": 60,
+      "log_odds": 0.4054651081,
+      "verification_criteria": "YES if a named eligible company publicly discloses, or Reuters/Bloomberg reports citing company statements/documents, a headcount reduction meeting >=10% or >=10,000 employees executed as a single restructuring event (not cumulative attrition). Otherwise NO.",
+      "evidence": [
+        "CNBC (2025-12-30) notes China\u2019s EV sector may shift from boom to survival amid price wars and margin pressure: https://www.cnbc.com/2025/12/30/china-electric-car-2026-price-war-evs-sales-global-expansion-slowdown-price-war-2025.html"
+      ],
+      "monitoring_signals": [
+        "Earnings calls referencing \u2018organizational optimization\u2019 or \u2018cost reset\u2019",
+        "Chinese media and wire reports on layoffs at major EV OEMs",
+        "Supplier payment-term stress and factory utilization declines",
+        "Government signals reducing support or tightening financing"
+      ],
+      "rationale": "Price-war dynamics and margin compression often trigger large restructuring moves; the threshold focuses on unmistakably material layoffs.",
+      "id": "b85ea92d-67ed-40b9-a921-209f8a519114",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NetBlocks (or a comparably cited internet-monitoring organization) will report a nationwide disruption in Iran reducing internet connectivity by at least 50% for 24+ consecutive hours, with major international media attribution to unrest/security measures, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 181,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "log_odds": -0.4895482253,
+      "verification_criteria": "YES if NetBlocks (or equivalent widely cited monitor) posts data showing Iran\u2019s national connectivity down >=50% for >=24 hours, and at least one major outlet (Reuters/AP/AFP/NYT/FT/WSJ/Bloomberg) links it to unrest/security actions (not natural disasters). Otherwise NO.",
+      "evidence": [
+        "NYT (2025-12-30) describes Iran\u2019s currency crash/inflation driving protests into universities, elevating internal instability risk: https://www.nytimes.com/2025/12/30/world/middleeast/iran-protests-currency-inflation-universities.html"
+      ],
+      "monitoring_signals": [
+        "Protest escalations across multiple provinces/cities",
+        "Iranian government statements on \u2018cybersecurity\u2019 or \u2018public order\u2019 measures",
+        "NetBlocks and IODA anomaly alerts for Iran",
+        "Messaging-app throttling reports preceding wider shutdowns"
+      ],
+      "rationale": "Iran has precedent for large shutdowns during unrest, but timing is uncertain and policy may shift toward more targeted throttling instead of nationwide outages.",
+      "id": "b2ed8dc5-228b-4cb1-92b4-cefce9446071",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The Federal Reserve will cut the federal funds target range at least once (a reduction in either/both bounds) in any scheduled 2026 FOMC meeting, by 2026-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 365,
+      "deadline": "2026-12-31",
+      "confidence_pct": 65,
+      "log_odds": 0.6190392084,
+      "verification_criteria": "YES if the FOMC announces a lower target range than the immediately prior meeting at any point in 2026 (scheduled meetings only). Otherwise NO.",
+      "evidence": [
+        "Fed minutes (2025-12-30) show officials balancing inflation risks vs slowing growth, consistent with potential easing later if data weaken: https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm"
+      ],
+      "monitoring_signals": [
+        "Core inflation trend and labor-market softening",
+        "Fed communications about \u2018restrictive\u2019 stance no longer needed",
+        "Futures-implied probability of cuts rising above 60%",
+        "Downside growth surprises (PMIs, payrolls, credit spreads)"
+      ],
+      "rationale": "With policy already restrictive and growth risks highlighted, at least one cut during 2026 is more likely than not, though inflation persistence remains a key counterweight.",
+      "id": "fd92aedf-dde2-464b-8052-b7fa8cdc9463",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "South Africa\u2019s government (DMRE/IPP Office) will award (preferred bidders announced) at least 2.0 GW of new utility-scale solar PV capacity in a single procurement round (or combined announcement explicitly tied to one round), by 2026-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 365,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2006706955,
+      "verification_criteria": "YES if an official South African government announcement names preferred bidders/awards totaling >=2.0 GW solar PV (MW aggregated) tied to a specific procurement round (e.g., REIPPPP bid window). Otherwise NO.",
+      "evidence": [
+        "NYT (2025-12-30) describes cheap solar reshaping African households and businesses, implying continued policy and investment momentum: https://www.nytimes.com/2025/12/30/climate/solar-south-africa-china.html"
+      ],
+      "monitoring_signals": [
+        "REIPPPP bid-window timelines and government gazettes",
+        "Eskom grid-connection capacity updates and curtailment rules",
+        "Financing announcements by DFIs and local banks for PV pipelines",
+        "Policy statements prioritizing load-shedding reduction via renewables"
+      ],
+      "rationale": "Solar economics and reliability needs support sizable awards, but transmission constraints, procurement delays, and political/administrative bottlenecks can push awards beyond 2026.",
+      "id": "4cedba26-0fae-4643-842b-c6e35bac2527",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
