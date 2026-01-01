@@ -20,7 +20,7 @@
       ],
       "rationale": "Political friction and shifting priorities raise the odds of an explicit aid slowdown; the threshold is set high to avoid counting routine timing slippage.",
       "id": "2ba04754-0d15-40a9-adca-e04de05c6064",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Regulatory tightening plus ongoing conflict increases the chance at least one prominent NGO faces a concrete authorization action beyond UNRWA-specific dynamics.",
       "id": "c50b4b87-910d-451b-9b40-8811be38e7fd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Escalating confrontation and prior multi-target actions make a larger batch designation plausible; the >=20 threshold avoids counting small, routine updates.",
       "id": "6311999f-7b68-46b8-873a-3bc3b9f44899",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -88,7 +88,7 @@
       ],
       "rationale": "Frontier-model scaling is capital intensive; incremental equity may be supplemented with structured debt/credit to fund compute and working capital through 2026.",
       "id": "1ecd934b-4d8e-4b1f-a5c6-926e06f567f8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "Acquisition-driven capability plus competitive pressure increases the chance of a real consumer agent rollout, but third-party execution and safety/compliance could delay general availability.",
       "id": "7b6d6ee6-a4db-4f0a-8d55-c19e67f9dbf6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "Price-war dynamics and margin compression often trigger large restructuring moves; the threshold focuses on unmistakably material layoffs.",
       "id": "b85ea92d-67ed-40b9-a921-209f8a519114",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "rationale": "Iran has precedent for large shutdowns during unrest, but timing is uncertain and policy may shift toward more targeted throttling instead of nationwide outages.",
       "id": "b2ed8dc5-228b-4cb1-92b4-cefce9446071",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "30-40"
     },
     {
@@ -176,7 +176,7 @@
       ],
       "rationale": "With policy already restrictive and growth risks highlighted, at least one cut during 2026 is more likely than not, though inflation persistence remains a key counterweight.",
       "id": "fd92aedf-dde2-464b-8052-b7fa8cdc9463",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -198,7 +198,7 @@
       ],
       "rationale": "Solar economics and reliability needs support sizable awards, but transmission constraints, procurement delays, and political/administrative bottlenecks can push awards beyond 2026.",
       "id": "4cedba26-0fae-4643-842b-c6e35bac2527",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

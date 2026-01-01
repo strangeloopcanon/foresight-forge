@@ -1496,3 +1496,12 @@ Geopolitically and institutionally, the NYT report about new Israeli rules leadi
 
 ---
 
+
+## 2025-12-31
+
+None of the listed predictions are cleanly resolved by today’s articles. Most are long-horizon (2026) institutional actions (U.S. security-assistance announcements, OFAC packages, Fed decisions, South African procurement) and the day’s news flow is largely political (Trump vetoes; NYC politics), market/year-end retrospectives, and regional developments in Venezuela and Iran without the formal, criteria-matching triggers specified in the forecasts.
+
+The only item that plausibly touches a forecast is the Iran headline about widespread shutdown amid protests and economic strain. However, the prediction is tightly operationalized (NetBlocks-like measurement, ≥50% connectivity reduction, ≥24 hours, and unrest/security attribution), and the provided bullet does not supply those required quantitative/source elements; this is best treated as “needs-clarification” rather than a status change. Overall, the day’s news does not materially update the truth status of these claims, though it may suggest monitoring Iran connectivity metrics and any near-term U.S. policy actions toward Venezuela.
+
+---
+

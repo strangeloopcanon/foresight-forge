@@ -1,0 +1,165 @@
+{
+  "date": "2026-01-01",
+  "predictions": [
+    {
+      "text": "Neither of President Trump\u2019s two 2025-12 infrastructure/water-project vetoes will be overridden by Congress (i.e., no successful 2/3 vote in both chambers) by 2026-04-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 119,
+      "deadline": "2026-04-30",
+      "confidence_pct": 70,
+      "verification_criteria": "Resolves YES if, by the deadline, Congress has NOT enacted either vetoed bill over the President\u2019s veto (requires recorded 2/3 votes in both House and Senate for at least one of the two vetoed bills). Resolves NO if at least one veto override becomes law by the deadline.",
+      "evidence": [
+        "Recent report: Trump issued first vetoes of his second term, targeting bipartisan infrastructure and water projects, raising funding uncertainty."
+      ],
+      "monitoring_signals": [
+        "House/Senate floor schedule and vote notices referencing veto overrides",
+        "Congressional Record roll-call votes on veto override motions",
+        "White House legislative affairs updates; major-wire coverage (Reuters/AP) confirming override outcome"
+      ],
+      "rationale": "Veto overrides are historically rare and require sustained bipartisan supermajorities; even with bipartisan projects, coordination and political incentives typically favor renegotiation over override.",
+      "id": "edbe82c4-25be-47df-9114-a8b312d42487",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "Venezuela will release at least one U.S. citizen detained in 2025 (publicly identified by U.S. officials or major media as detained) following a publicly acknowledged diplomatic engagement, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 180,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if Venezuelan authorities free at least one U.S. citizen detained in 2025 and the release is publicly confirmed by the U.S. government (State Department/White House) or reliably reported by Reuters/AP/NYT/WSJ with attribution to officials, and the reporting cites diplomatic talks/engagement as part of the resolution. Otherwise NO at deadline.",
+      "evidence": [
+        "Recent report: Venezuela detained U.S. citizens amid escalating U.S. pressure, increasing diplomatic risk."
+      ],
+      "monitoring_signals": [
+        "U.S. State Department press briefings and consular statements",
+        "Venezuelan government announcements; prisoner-release reports",
+        "Reuters/AP reporting on backchannel or formal talks; Qatar/other mediators mentioned"
+      ],
+      "rationale": "Detentions often become bargaining chips; partial releases are plausible but not assured given heightened confrontation and domestic political incentives.",
+      "id": "fce0d328-7cb1-40a7-ae6f-04c43109c282",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The UK will announce a Russia-related sanctions action adding at least 50 oil tankers/vessels (by name/IMO) to its sanctions list in a single package, by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 89,
+      "deadline": "2026-03-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Resolves YES if the UK (OFSI/FCDO) publishes an update/press release on the Russia sanctions regime that, in one dated action, newly lists \u226550 vessels (tankers/shipping) with identifiers (name and/or IMO). Otherwise NO by deadline.",
+      "evidence": [
+        "Recent report: a tanker linked to sanctions-evasion infrastructure appears in Russian databases, highlighting opaque oil flows."
+      ],
+      "monitoring_signals": [
+        "UK OFSI consolidated list updates and FCDO press releases",
+        "Reuters/Bloomberg coverage of 'shadow fleet' sanctions packages",
+        "Shipping intel and NGO trackers flagging candidate vessels prior to sanctions"
+      ],
+      "rationale": "Shadow-fleet focus has been rising; vessel-focused packages are administratively straightforward and politically salient for curbing oil revenue circumvention.",
+      "id": "f7a65397-bc8b-44b3-84bd-cc7fe83a4159",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Commerce (BIS) will add at least 5 China- or Hong Kong-based entities to the Entity List in a single rule/action explicitly citing Nvidia GPU smuggling/diversion or 'advanced computing' export-control evasion, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 180,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if the Federal Register or BIS announcement shows one dated Entity List action adding \u22655 entities located in China or Hong Kong, and the stated rationale includes diversion/smuggling/evasion tied to advanced computing chips (e.g., Nvidia GPUs) or comparable language. Otherwise NO.",
+      "evidence": [
+        "Recent report: $160M in export-controlled Nvidia chips allegedly smuggled into China, underscoring enforcement gaps."
+      ],
+      "monitoring_signals": [
+        "BIS Entity List final rules (Federal Register) and BIS press releases",
+        "DOJ/HSI indictments mentioning diversion networks that later correlate with BIS listings",
+        "Reuters/Bloomberg reporting on enforcement actions tied to GPU routing through intermediaries"
+      ],
+      "rationale": "Public allegations and strategic sensitivity increase pressure for visible enforcement; Entity List additions are a common, scalable response.",
+      "id": "6de49af0-694f-4cbf-a543-821b039b9c85",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The PBOC will cut either (a) the reserve requirement ratio (RRR) for banks or (b) a key policy rate (7-day reverse repo or 1-year MLF) at least once, by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 89,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if, by the deadline, the People\u2019s Bank of China announces a reduction in the RRR for at least one broad bank category, or announces a reduction in the 7-day reverse repo rate or 1-year MLF rate. Otherwise NO.",
+      "evidence": [
+        "Recent report: China\u2019s manufacturing PMI expanded for the first time since March, hinting at stabilization but still fragile demand."
+      ],
+      "monitoring_signals": [
+        "PBOC official notices; state media (Xinhua) monetary-policy announcements",
+        "Market reactions: CNH/CNY moves, bond yield shifts around policy meetings",
+        "Economist previews and signaling via PBOC quarterly reports"
+      ],
+      "rationale": "Even with PMI stabilization, policymakers often lean on incremental easing to support confidence, credit transmission, and property/industrial demand.",
+      "id": "afd4af57-d845-4248-b1b7-7a70a83a667e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CME will raise initial margin requirements for at least one major precious-metals futures contract (COMEX gold or COMEX silver) by at least 10% in a single announced change, by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 89,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if CME Clearing publishes a margin advisory showing an increase of \u226510% to initial margin for COMEX gold or silver futures (any key contract family) effective on a stated date, with the change announced by deadline. Otherwise NO.",
+      "evidence": [
+        "Recent report: CME raised precious-metals margins again; gold and silver fell afterward, illustrating deleveraging effects."
+      ],
+      "monitoring_signals": [
+        "CME Clearing margin advisories and SPAN parameter updates",
+        "Large moves in gold/silver volatility and open interest",
+        "Broker margin notices referencing CME updates"
+      ],
+      "rationale": "If volatility persists or speculative positioning rebuilds, CME often tightens margins; however, repeated hikes in a short window are not guaranteed.",
+      "id": "3705a88a-2629-4f2f-9674-c838e5e9b4ef",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one venture-backed European alternative-protein company (excluding insect-farming) that has raised \u2265$100 million in disclosed funding will enter formal insolvency/liquidation/administration proceedings, by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 364,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if a Europe-headquartered alt-protein company (plant-based, cultivated meat, fermentation-derived proteins; excluding insect farming) with \u2265$100M disclosed funding is reported by Reuters/FT/Bloomberg/WSJ or a national corporate registry notice as having entered insolvency/liquidation/administration by deadline. Otherwise NO.",
+      "evidence": [
+        "Recent report: \u0178nsect entered liquidation after raising $600M+, signaling tougher capital markets and scaling risk in alternative proteins."
+      ],
+      "monitoring_signals": [
+        "Funding-to-burn indicators: down-rounds, missed payroll rumors, supplier disputes",
+        "Corporate registry filings (administration/liquidation) in key jurisdictions (UK, France, Germany, Netherlands)",
+        "Trade-press reports of plant closures or emergency bridge financing"
+      ],
+      "rationale": "Higher rates and tighter venture funding increase failure risk for capex-heavy food tech; still, consolidation and rescues can prevent formal insolvency.",
+      "id": "3ddb468a-c2a6-41de-b7db-c52db8215132",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The Netherlands will issue at least one formal decision blocking or ordering divestment/unwinding of a China-linked acquisition/investment in a Dutch semiconductor or semiconductor-equipment company under national security/investment screening powers, by 2026-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 364,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "verification_criteria": "Resolves YES if the Dutch government (e.g., Minister for Economic Affairs/competent authority) publicly confirms a block, prohibition, or divestment/unwind order for a China-linked stake/acquisition in a Dutch semiconductor or semi-equipment firm, citing security/screening law, by deadline. Otherwise NO.",
+      "evidence": [
+        "Recent report: China criticized the Netherlands over Nexperia decisions, highlighting politicization and regulatory risk in chip supply chains."
+      ],
+      "monitoring_signals": [
+        "Dutch government letters to parliament and official gazette publications",
+        "Reuters/Bloomberg reports on Vifo Act decisions and semiconductor-linked screenings",
+        "Company filings disclosing screening outcomes/conditions"
+      ],
+      "rationale": "Escalating chip geopolitics increases scrutiny, but formal blocks/divestments are relatively rare and often resolved via conditions or quiet restructurings.",
+      "id": "5ccfd335-c172-408f-a866-18bf2130c529",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

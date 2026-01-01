@@ -1,0 +1,50 @@
+{
+  "date": "2025-12-31",
+  "assessments": [
+    {
+      "id": "2ba04754-0d15-40a9-adca-e04de05c6064",
+      "status": "pending",
+      "status_rationale": "Today\u2019s headlines do not report any White House/DoD/State announcement of a pause, suspension, or reduction of \u2265$1B in planned Ukraine security assistance. Deadline is 2026-03-31, so the claim remains unresolved."
+    },
+    {
+      "id": "c50b4b87-910d-451b-9b40-8811be38e7fd",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates Israel has suspended/revoked/denied renewal for a major international humanitarian NGO (excluding UNRWA) operating in Gaza with the NGO publicly confirming operational disruption. Deadline is 2026-06-30."
+    },
+    {
+      "id": "6311999f-7b68-46b8-873a-3bc3b9f44899",
+      "status": "pending",
+      "status_rationale": "The Venezuela-related stories concern detentions and pressure, but there is no reported OFAC action designating \u226520 individuals/entities in a single sanctions package today. Deadline is 2026-03-31."
+    },
+    {
+      "id": "1ecd934b-4d8e-4b1f-a5c6-926e06f567f8",
+      "status": "pending",
+      "status_rationale": "No credible report in today\u2019s bullets (Reuters/Bloomberg/FT/WSJ cited) indicates OpenAI closed and publicly confirmed a new \u2265$5B debt financing and/or revolving credit facility. Deadline is 2026-09-30."
+    },
+    {
+      "id": "7b6d6ee6-a4db-4f0a-8d55-c19e67f9dbf6",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news includes general AI-market commentary but no report that Meta launched a broadly available U.S. consumer AI agent capable of autonomously executing multi-step tasks across third-party websites/services. Deadline is 2026-06-30."
+    },
+    {
+      "id": "b85ea92d-67ed-40b9-a921-209f8a519114",
+      "status": "pending",
+      "status_rationale": "No Reuters/Bloomberg/filing/press-release item here reports a \u226510% (or \u226510,000) workforce reduction announced by a major publicly traded China-focused EV maker. Deadline is 2026-06-30."
+    },
+    {
+      "id": "b2ed8dc5-228b-4cb1-92b4-cefce9446071",
+      "status": "needs-clarification",
+      "status_rationale": "A NYT headline says \u201cMost of Iran Shuts Down as Government Grapples With Protests and Economy,\u201d which could be consistent with major disruptions, but the prediction requires (a) NetBlocks or similar monitoring org reporting (b) nationwide internet connectivity reduced by \u226550% for \u226524 consecutive hours (c) with major international media attributing it to unrest/security measures. Those specific quantified/connectivity-source criteria are not confirmed in today\u2019s bullet."
+    },
+    {
+      "id": "fd92aedf-dde2-464b-8052-b7fa8cdc9463",
+      "status": "pending",
+      "status_rationale": "Today\u2019s CNBC item cites an economist predicting potential 2026 Fed cuts, but there is no report of an actual 2026 scheduled FOMC rate cut having occurred. Deadline is 2026-12-31."
+    },
+    {
+      "id": "4cedba26-0fae-4643-842b-c6e35bac2527",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates South Africa\u2019s DMRE/IPP Office awarded (preferred bidders) \u22652.0 GW of utility-scale solar PV in a single procurement round/announcement. Deadline is 2026-12-31."
+    }
+  ]
+}
