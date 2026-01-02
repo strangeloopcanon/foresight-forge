@@ -1,0 +1,185 @@
+{
+  "date": "2026-01-02",
+  "predictions": [
+    {
+      "text": "Finland\u2019s National Bureau of Investigation (NBI) or Finnish prosecutors will publicly announce criminal suspicion/charges (e.g., sabotage or aggravated criminal damage) against a named vessel and/or at least one crew member in connection with the Dec 2025 Finland\u2013Estonia undersea cable damage, by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 88,
+      "deadline": "2026-03-31",
+      "confidence_pct": 45,
+      "verification_criteria": "NBI/prosecutor press release or official statement naming the case as criminal and naming the vessel and/or at least one suspect/accused individual, explicitly tied to the Dec 2025 cable incident.",
+      "evidence": [
+        "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl"
+      ],
+      "monitoring_signals": [
+        "NBI or Finnish prosecutor press briefings on the cable case",
+        "Finnish court filings regarding detention/seizure orders for the vessel",
+        "Estonian/Finnish transport or telecom authority incident updates"
+      ],
+      "rationale": "A detention already occurred; follow-on criminal process (publicly naming suspects/charges) is a plausible next step but not assured.",
+      "id": "c431ce14-98f1-42d4-beea-88c73835b68c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NATO will announce a new Baltic Sea maritime operation or task force explicitly focused on protecting undersea critical infrastructure (cables/pipelines), with a named operation/initiative and participating allies, by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 88,
+      "deadline": "2026-03-31",
+      "confidence_pct": 50,
+      "verification_criteria": "NATO (HQ, SACEUR, or NATO Maritime Command) publishes an announcement that explicitly frames the initiative as Baltic Sea undersea critical-infrastructure protection and includes a named operation/initiative and at least 2 participating member states.",
+      "evidence": [
+        "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl"
+      ],
+      "monitoring_signals": [
+        "NATO press releases and North Atlantic Council statements",
+        "MARCOM announcements and force posture updates",
+        "Baltic Sea ally defense-ministry communiques mentioning cable protection"
+      ],
+      "rationale": "Repeated cable incidents raise the odds of a formal NATO-branded response beyond ad hoc national patrols.",
+      "id": "6c0e3667-cb11-4989-8d16-12ccd132b024",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one U.S. state public utility commission will open a formal docket/rulemaking specifically addressing data-center load growth (or creating a new large-load tariff class) that explicitly mentions AI/data centers as the driver, by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 179,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "PUC commission order/notice opening a docket or rulemaking in any U.S. state where the purpose statement explicitly cites AI data centers/data-center load and addresses tariffs, interconnection, cost allocation, or reliability planning for that load.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html"
+      ],
+      "monitoring_signals": [
+        "PUC agenda items and new docket postings in VA, GA, NC, OH, TX, AZ",
+        "Utility IRPs and special contract filings for large-load customers",
+        "State legislative hearings referencing data-center electricity impacts"
+      ],
+      "rationale": "Political backlash and rapid load forecasts make a formal regulatory proceeding likely within 6 months in at least one state.",
+      "id": "f479dcf8-75c3-4f63-aded-5425381d3b42",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one major European bank (HSBC, Santander, BNP Paribas, SocGen, Deutsche Bank, Barclays, UBS, UniCredit, or ING) will announce a restructuring plan that includes at least 7,500 net job cuts (or planned role eliminations) and explicitly cites AI/automation/digitalization as a driver, by 2026-12-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 363,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Company press release, earnings materials, or a Reuters/Bloomberg report quoting the bank that specifies \u22657,500 job cuts/role eliminations and explicitly links the action to AI/automation/digitalization.",
+      "evidence": [
+        "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/"
+      ],
+      "monitoring_signals": [
+        "Bank earnings calls and investor-day presentations",
+        "Union consultations/works council notices in major EU jurisdictions",
+        "Reuters/Bloomberg restructuring scoops citing headcount figures"
+      ],
+      "rationale": "If large sector-wide cuts are real, at least one flagship bank should crystallize plans into a measurable announcement in 2026.",
+      "id": "21a51636-1f76-426e-a789-7df2965ec321",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Monetary Authority of Singapore (MAS) will leave its monetary policy settings unchanged (no re-centering or slope change) at its next scheduled policy decision in 2026 H1, by 2026-04-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 118,
+      "deadline": "2026-04-30",
+      "confidence_pct": 60,
+      "verification_criteria": "MAS monetary policy statement indicating no change to the S$NEER policy band parameters (slope, width, or level/re-centering) at the relevant scheduled review in 2026 H1.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/02/singapore-fourth-quarter-gdp-jumps-5point7percent-beats-expectations-on-strong-manufacturing.html"
+      ],
+      "monitoring_signals": [
+        "MAS policy statement calendar and pre-meeting economist surveys",
+        "Singapore CPI core inflation prints and GDP revisions",
+        "S$NEER commentary and MAS speeches"
+      ],
+      "rationale": "Strong growth alone doesn\u2019t force tightening if inflation is manageable; MAS often prefers holding settings steady absent a clear inflation surprise.",
+      "id": "fedb029d-ef1c-44cd-9a86-c65e6818d23a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "A bill will be introduced in the U.S. Congress to permanently exclude discharged/forgiven student-loan balances from federal taxable income (i.e., making student-loan forgiveness tax-free beyond temporary provisions), by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 179,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Congress.gov shows a newly introduced bill in the House or Senate that amends the Internal Revenue Code to exclude student-loan forgiveness/discharge from gross income (permanent or with an end date beyond 2028).",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/01/student-loan-forgiveness-taxes.html"
+      ],
+      "monitoring_signals": [
+        "Congress.gov keyword alerts (student loan, 1099-C, gross income, IRC 108)",
+        "Press releases from Senate Finance/House Ways & Means members",
+        "Advocacy group legislative trackers (NASFAA, Student Borrower Protection Center)"
+      ],
+      "rationale": "A renewed \u2018tax bomb\u2019 increases political pressure for a legislative fix, making bill introduction more likely than passage.",
+      "id": "7464519d-5b56-42b0-b964-e0c9f8540ff2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CMS (or HHS) will issue a proposed rule or formal Medicare policy guidance that would expand or clarify Medicare Part D coverage pathways for FDA-approved anti-obesity drugs (GLP-1s) for weight loss (not solely diabetes), by 2026-12-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 363,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "verification_criteria": "A CMS/HHS proposed rule in the Federal Register or an official CMS guidance document explicitly addressing Medicare coverage for anti-obesity pharmacotherapy for weight loss (beyond diabetes-only indications).",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/01/novo-nordisk-faces-must-win-battle-over-us-wegovy-ozempic-in-2026.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register: CMS Part D and coverage rulemaking",
+        "CMS HPMS memos to Part D sponsors",
+        "HHS/CMS press briefings and legislative proposals tied to obesity treatment"
+      ],
+      "rationale": "GLP-1 budget impact is large, but competitive and public-health pressure could push CMS toward a formal proposal even if finalization is uncertain.",
+      "id": "f5738199-3ccb-4695-888b-842389f14b25",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "BYD will announce China-wide MSRP reductions (or new lower-priced trims positioned as price cuts) of at least 5% on at least 3 distinct passenger-vehicle models in a single coordinated announcement, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 179,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "verification_criteria": "BYD press release/official channels or a Reuters/Bloomberg report citing BYD that lists \u22653 models with new MSRPs at least 5% below prior published MSRPs, characterized as a pricing action in China.",
+      "evidence": [
+        "https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal"
+      ],
+      "monitoring_signals": [
+        "BYD official Weibo/website model pricing updates",
+        "China auto-industry media tracking transaction price changes",
+        "Reuters/Bloomberg reporting on EV price wars"
+      ],
+      "rationale": "High volumes and intense competition make periodic broad-based price actions plausible, especially if demand softens or rivals discount.",
+      "id": "64e023ec-59b4-4f62-8a12-1b4d47c6e3b0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Nasdaq Composite will close at least 15% below its highest close of 2026 at least once, by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 271,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Using official Nasdaq Composite closing values: there exists a trading day on or before 2026-09-30 where the close is \u2264 0.85 \u00d7 (maximum closing level achieved in 2026 up to that point).",
+      "evidence": [
+        "https://www.marketwatch.com/story/wall-street-is-starting-2026-with-echoes-of-2000s-dot-com-woes-1accb670"
+      ],
+      "monitoring_signals": [
+        "Nasdaq 100/Nasdaq Composite peak-to-trough drawdown tracking",
+        "AI megacap earnings revisions and guidance",
+        "Financial conditions (credit spreads, rate expectations) and equity breadth"
+      ],
+      "rationale": "Valuation-concentration concerns raise drawdown odds, but a 15% move is common enough that confidence is moderate.",
+      "id": "dfda2ef3-7946-4d97-8195-d9c61cd5a815",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

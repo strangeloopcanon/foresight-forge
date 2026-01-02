@@ -1,0 +1,45 @@
+{
+  "date": "2026-01-01",
+  "assessments": [
+    {
+      "id": "edbe82c4-25be-47df-9114-a8b312d42487",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets indicates Congress has attempted or succeeded in overriding either of the referenced 2025-12 infrastructure/water-project vetoes; the deadline (2026-04-30) has not passed."
+    },
+    {
+      "id": "fce0d328-7cb1-40a7-ae6f-04c43109c282",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news notes Venezuela freed dozens of political prisoners, but the bullet list does not clearly state that any released person was a U.S. citizen detained in 2025 and publicly identified as such, nor that the release followed a publicly acknowledged diplomatic engagement as defined in the prediction."
+    },
+    {
+      "id": "f7a65397-bc8b-44b3-84bd-cc7fe83a4159",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the UK announced a Russia-related sanctions package adding 50+ oil tankers/vessels by name/IMO; the deadline (2026-03-31) has not passed."
+    },
+    {
+      "id": "6de49af0-694f-4cbf-a543-821b039b9c85",
+      "status": "pending",
+      "status_rationale": "There is no mention in today\u2019s bullets of a BIS Entity List action adding 5+ China/Hong Kong entities explicitly citing Nvidia GPU smuggling/diversion or advanced-computing export-control evasion; the deadline (2026-06-30) has not passed."
+    },
+    {
+      "id": "afd4af57-d845-4248-b1b7-7a70a83a667e",
+      "status": "pending",
+      "status_rationale": "No bullet references a PBOC cut to the RRR or key policy rates; the deadline (2026-03-31) has not passed."
+    },
+    {
+      "id": "3705a88a-2629-4f2f-9674-c838e5e9b4ef",
+      "status": "pending",
+      "status_rationale": "No bullet references CME raising initial margins for COMEX gold or silver by at least 10% in a single change; the deadline (2026-03-31) has not passed."
+    },
+    {
+      "id": "3ddb468a-c2a6-41de-b7db-c52db8215132",
+      "status": "pending",
+      "status_rationale": "No bullet indicates a venture-backed European alternative-protein company (non-insect) with \u2265$100M disclosed funding entering formal insolvency/administration; the deadline (2026-12-31) has not passed."
+    },
+    {
+      "id": "5ccfd335-c172-408f-a866-18bf2130c529",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the Netherlands issued a formal order blocking or unwinding a China-linked acquisition/investment in a Dutch semiconductor or semiconductor-equipment company; the deadline (2026-12-31) has not passed."
+    }
+  ]
+}

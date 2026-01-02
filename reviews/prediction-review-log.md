@@ -1505,3 +1505,14 @@ The only item that plausibly touches a forecast is the Iran headline about wides
 
 ---
 
+
+## 2026-01-01
+
+Most predictions remain unresolvable from today’s news because their deadlines are months away and the provided headlines do not speak directly to the specified triggers (Congressional veto overrides, UK tanker sanctions in a single package, BIS Entity List rationale tied to Nvidia diversion, PBOC policy moves, CME margin hikes, European alt-protein insolvency, or Dutch investment-screening blocks).
+
+The only potentially adjacent development is Venezuela’s reported release of dozens of political prisoners and a separate Russia–U.S. story involving a fleeing oil tanker. However, the prediction requires a clearly identified U.S. citizen detained in 2025 to be released following a publicly acknowledged diplomatic engagement. The bullet list does not confirm those defining details (identity, detention year, and causal linkage to a specific diplomatic engagement), so the forecast stays pending rather than being marked correct.
+
+Overall, today’s headlines provide limited adjudication-relevant evidence; continued monitoring should focus on official government announcements and regulatory notices (sanctions lists, BIS rules, PBOC statements, CME advisories) and on specific case reporting for the Venezuela detainee scenario.
+
+---
+
