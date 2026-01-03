@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-02",
+  "assessments": [
+    {
+      "id": "c431ce14-98f1-42d4-beea-88c73835b68c",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets include no report of Finland\u2019s NBI/prosecutors announcing criminal suspicion/charges against a named vessel or crew tied to the Dec 2025 Finland\u2013Estonia undersea cable damage. Deadline (2026-03-31) has not yet passed."
+    },
+    {
+      "id": "6c0e3667-cb11-4989-8d16-12ccd132b024",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates NATO announced a new Baltic Sea maritime operation/task force explicitly focused on protecting undersea critical infrastructure. Deadline (2026-03-31) has not yet passed."
+    },
+    {
+      "id": "f479dcf8-75c3-4f63-aded-5425381d3b42",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention any U.S. state public utility commission opening a formal docket/rulemaking on data-center/AI-driven load growth or a new large-load tariff class. Deadline (2026-06-30) has not yet passed."
+    },
+    {
+      "id": "21a51636-1f76-426e-a789-7df2965ec321",
+      "status": "pending",
+      "status_rationale": "No report today of a major European bank announcing a restructuring plan with \u22657,500 net job cuts explicitly citing AI/automation/digitalization. Deadline (2026-12-31) has not yet passed."
+    },
+    {
+      "id": "fedb029d-ef1c-44cd-9a86-c65e6818d23a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no coverage of the Monetary Authority of Singapore\u2019s next scheduled 2026 H1 policy decision or whether settings were left unchanged. Deadline (2026-04-30) has not yet passed."
+    },
+    {
+      "id": "7464519d-5b56-42b0-b964-e0c9f8540ff2",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s news that a bill was introduced in Congress to permanently make discharged/forgiven student-loan balances tax-free. Deadline (2026-06-30) has not yet passed."
+    },
+    {
+      "id": "f5738199-3ccb-4695-888b-842389f14b25",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention CMS/HHS issuing a proposed rule or formal Medicare guidance expanding/clarifying Part D coverage pathways for FDA-approved anti-obesity drugs for weight loss. Deadline (2026-12-31) has not yet passed."
+    },
+    {
+      "id": "64e023ec-59b4-4f62-8a12-1b4d47c6e3b0",
+      "status": "pending",
+      "status_rationale": "While today\u2019s news notes BYD surpassing Tesla in EV sales, it does not report a coordinated China-wide MSRP reduction of \u22655% across at least three BYD passenger-vehicle models in a single announcement. Deadline (2026-06-30) has not yet passed."
+    },
+    {
+      "id": "dfda2ef3-7946-4d97-8195-d9c61cd5a815",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets discuss market themes but provide no definitive evidence that the Nasdaq Composite has already closed \u226515% below its highest close of 2026 at least once. Deadline (2026-09-30) has not yet passed."
+    }
+  ]
+}

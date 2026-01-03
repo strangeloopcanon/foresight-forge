@@ -18,7 +18,7 @@
       ],
       "rationale": "A detention already occurred; follow-on criminal process (publicly naming suspects/charges) is a plausible next step but not assured.",
       "id": "c431ce14-98f1-42d4-beea-88c73835b68c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "Repeated cable incidents raise the odds of a formal NATO-branded response beyond ad hoc national patrols.",
       "id": "6c0e3667-cb11-4989-8d16-12ccd132b024",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "rationale": "Political backlash and rapid load forecasts make a formal regulatory proceeding likely within 6 months in at least one state.",
       "id": "f479dcf8-75c3-4f63-aded-5425381d3b42",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "rationale": "If large sector-wide cuts are real, at least one flagship bank should crystallize plans into a measurable announcement in 2026.",
       "id": "21a51636-1f76-426e-a789-7df2965ec321",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "Strong growth alone doesn\u2019t force tightening if inflation is manageable; MAS often prefers holding settings steady absent a clear inflation surprise.",
       "id": "fedb029d-ef1c-44cd-9a86-c65e6818d23a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "A renewed \u2018tax bomb\u2019 increases political pressure for a legislative fix, making bill introduction more likely than passage.",
       "id": "7464519d-5b56-42b0-b964-e0c9f8540ff2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "GLP-1 budget impact is large, but competitive and public-health pressure could push CMS toward a formal proposal even if finalization is uncertain.",
       "id": "f5738199-3ccb-4695-888b-842389f14b25",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "High volumes and intense competition make periodic broad-based price actions plausible, especially if demand softens or rivals discount.",
       "id": "64e023ec-59b4-4f62-8a12-1b4d47c6e3b0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -178,7 +178,7 @@
       ],
       "rationale": "Valuation-concentration concerns raise drawdown odds, but a 15% move is common enough that confidence is moderate.",
       "id": "dfda2ef3-7946-4d97-8195-d9c61cd5a815",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

@@ -1,0 +1,187 @@
+{
+  "date": "2026-01-03",
+  "predictions": [
+    {
+      "text": "A U.S. federal judge will grant \u00d8rsted (or its U.S. subsidiary) a temporary restraining order or preliminary injunction that pauses or blocks the Trump administration\u2019s halt/suspension of the Revolution Wind project, by 2026-02-28 (UTC).",
+      "category": "energy",
+      "horizon_days": 56,
+      "deadline": "2026-02-28",
+      "confidence_pct": 35,
+      "verification_criteria": "Court docket/order (PACER) or a Reuters/Bloomberg/WSJ/FT report citing the order confirms a TRO or preliminary injunction in \u00d8rsted\u2019s challenge that prevents enforcement of the federal halt (in whole or in material part) pending further proceedings.",
+      "evidence": [
+        "\u00d8rsted filed a legal challenge over Trump\u2019s halt of a ~$5B offshore wind project (CNBC, 2026-01-02)."
+      ],
+      "monitoring_signals": [
+        "PACER filings: motion for TRO/preliminary injunction; hearing dates set",
+        "DOJ/agency filings opposing emergency relief",
+        "Public statements from BOEM/Interior on compliance timelines",
+        "Reuters/Bloomberg court-coverage alerts on Revolution Wind case"
+      ],
+      "rationale": "Emergency injunctive relief is a common first step in high-stakes permitting disputes, but courts often defer to agencies early on; timing is plausible within weeks.",
+      "id": "7ebea36b-57c6-44d2-bf8f-8d21e8233e6d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of the Interior (including BOEM) will issue a formal directive/memo or Federal Register notice imposing a new pause or suspension of offshore-wind leasing/permitting actions lasting at least 60 days, by 2026-04-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 117,
+      "deadline": "2026-04-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Interior/BOEM publishes an official directive, order, or Federal Register notice stating a pause/suspension affecting offshore-wind lease sales, permitting, or approvals, with a stated duration of >=60 days (or an indefinite pause that explicitly covers at least the next 60 days).",
+      "evidence": [
+        "Regulatory risk for U.S. offshore wind has increased, highlighted by the Revolution Wind halt and legal challenge (CNBC, 2026-01-02)."
+      ],
+      "monitoring_signals": [
+        "Interior/BOEM press releases and Federal Register notices",
+        "Agency guidance to developers (leaked memos reported by Reuters)",
+        "White House or Interior public statements on offshore wind policy"
+      ],
+      "rationale": "With active political focus and ongoing litigation, an across-the-board administrative pause is a likely next step, though not certain.",
+      "id": "4b8f4875-ca5f-401b-b4ba-1ed4dbacf528",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Treasury (OFAC) will announce an Iran-related sanctions package designating at least 10 individuals and/or entities in a single action, explicitly tied to protest suppression/human-rights abuses, by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 87,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "verification_criteria": "OFAC press release and SDN updates on the same date show >=10 Iran-related designations and the release explicitly references protest repression, human-rights abuses, or violent suppression of demonstrations as justification.",
+      "evidence": [
+        "U.S. signaled possible intervention if Iran violently suppresses protests, raising escalation risk (CNBC, 2026-01-02)."
+      ],
+      "monitoring_signals": [
+        "OFAC \u2018Recent Actions\u2019 page and SDN change logs",
+        "State Department statements on Iran protests",
+        "Major media reporting of new U.S. sanctions tied to crackdown"
+      ],
+      "rationale": "Human-rights sanctions are a common, scalable response to escalating protest crackdowns and can be executed quickly without Congress.",
+      "id": "db93f4cf-f187-47fa-9325-e36276a7c073",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Department of Justice will publicly announce a civil forfeiture/seizure action involving a named oil tanker (by name/IMO) for sanctions evasion or related violations, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 178,
+      "deadline": "2026-06-30",
+      "confidence_pct": 32,
+      "verification_criteria": "DOJ press release (or a federal court filing reported by Reuters/Bloomberg/WSJ) confirms a forfeiture complaint, seizure, or restraint of a specific oil tanker (identified by name/IMO) citing sanctions evasion, IEEPA, or related enforcement statutes.",
+      "evidence": [
+        "An oil tanker evading U.S. Coast Guard scrutiny underscores maritime enforcement tensions tied to sanctions and shipping routes (NYT, 2026-01-02)."
+      ],
+      "monitoring_signals": [
+        "DOJ forfeiture announcements; U.S. Attorney office press releases (SDNY, DDC, etc.)",
+        "AIS/shipping analytics reports flagged by Reuters",
+        "New court dockets referencing vessel seizures and IEEPA"
+      ],
+      "rationale": "Enforcement intensity is rising, but vessel seizures are operationally and diplomatically complex, lowering probability despite a supportive narrative.",
+      "id": "af955c92-11fd-468b-b7db-2e5b8f652350",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Tesla will announce a company-wide workforce reduction of at least 7% (or at least 10,000 roles) by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 178,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Tesla press release, SEC filing, or a Reuters/Bloomberg report citing Tesla confirms a layoff plan meeting >=7% of workforce (or >=10,000 roles).",
+      "evidence": [
+        "Tesla reported Q4 deliveries of 418,227, down 16%, reinforcing demand concerns (CNBC, 2026-01-02).",
+        "BYD is set to overtake Tesla as top global EV seller, intensifying competitive pressure (CNBC, 2026-01-02)."
+      ],
+      "monitoring_signals": [
+        "Tesla internal emails reported by major outlets",
+        "WARN notices and LinkedIn layoff tracking",
+        "Earnings-call commentary on cost cuts and margin pressure"
+      ],
+      "rationale": "Sustained delivery pressure and intensifying competition often lead to cost actions; however, Tesla may prioritize price/product moves over layoffs.",
+      "id": "eaf6addf-5da0-4e23-b275-5f38f327daa7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Tesla will implement MSRP reductions of at least 5% on at least two distinct models in the U.S. in a single coordinated announcement (same day), by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 178,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Tesla\u2019s official U.S. website pricing and/or a Tesla press communication, corroborated by Reuters/Bloomberg/major auto press, shows same-day MSRP cuts >=5% for >=2 models (e.g., Model 3, Y, S, X, Cybertruck variants) versus immediately prior listed MSRP.",
+      "evidence": [
+        "Tesla delivery decline and competitive pressure from BYD increase the likelihood of renewed price actions (CNBC, 2026-01-02)."
+      ],
+      "monitoring_signals": [
+        "Daily MSRP tracking (Tesla configurator archives, auto press)",
+        "Inventory/rebate changes and financing promos",
+        "Quarter-end delivery push messaging"
+      ],
+      "rationale": "Price is Tesla\u2019s fastest lever to stabilize demand; still, it may rely more on incentives/financing than headline MSRP cuts.",
+      "id": "b1a4383f-d1bd-451a-8ca1-e5827c2d8017",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Saks Global (or a primary operating affiliate) will file for Chapter 11 bankruptcy protection in the U.S., by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 178,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "verification_criteria": "A Chapter 11 petition is filed (court docket) by Saks Global or a main operating subsidiary, confirmed by company statement or Reuters/Bloomberg/WSJ/FT reporting.",
+      "evidence": [
+        "Saks leadership shake-up and bankruptcy reports signal stress in leveraged retail amid refinancing pressure (CNBC, 2026-01-02)."
+      ],
+      "monitoring_signals": [
+        "Debt trading levels and covenant amendments",
+        "Vendor payment term changes and credit insurance tightening",
+        "Store closure announcements and liquidity disclosures"
+      ],
+      "rationale": "High rates and weak discretionary demand raise restructuring odds, but firms often attempt out-of-court exchanges first.",
+      "id": "8bfcd7f6-59c8-4c3b-8e6c-22b10fd08b17",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "India\u2019s MeitY (or another Indian central authority) will issue a formal written compliance order/notice to xAI referencing Grok and requiring specific safeguards or takedowns related to child sexual content, by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 87,
+      "deadline": "2026-03-31",
+      "confidence_pct": 60,
+      "verification_criteria": "A publicly reported (Reuters/Bloomberg/major Indian outlets) written government notice/order to xAI is confirmed or reproduced, explicitly referencing Grok and specifying required safeguards/takedown actions regarding child sexual content (or sexualized child images).",
+      "evidence": [
+        "Grok faced regulatory backlash over sexualized child images; India ordered fixes, highlighting rising compliance costs (CNBC, 2026-01-02)."
+      ],
+      "monitoring_signals": [
+        "Indian ministry statements and notices",
+        "xAI policy updates or feature restrictions in India",
+        "App store content advisories and platform enforcement notes"
+      ],
+      "rationale": "Given the existing public controversy and India\u2019s history of issuing formal IT Act notices, a documented compliance action is likely.",
+      "id": "baebda51-ad10-4552-a761-d687be61d1ec",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "A bipartisan bill will be introduced in the U.S. Senate to reform the National Emergencies Act by requiring congressional approval to extend a declared national emergency beyond 60 days, by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 87,
+      "deadline": "2026-03-31",
+      "confidence_pct": 50,
+      "verification_criteria": "Congress.gov shows introduction of a Senate bill with at least one sponsor from each party, and bill text includes a requirement for affirmative congressional approval to continue a national emergency beyond 60 days (or a shorter window).",
+      "evidence": [
+        "Reporting highlights erosion of post-Watergate constraints and rising congressional concern about expanding executive tools under Trump\u2019s second term (NYT, 2026-01-02)."
+      ],
+      "monitoring_signals": [
+        "Congress.gov new bill introductions and press releases from key senators",
+        "Hearings or statements from Senate Homeland Security / Judiciary",
+        "Advocacy by civil-liberties and business groups about emergency powers"
+      ],
+      "rationale": "Institutional pushback often manifests first as reform bills; passage is uncertain, but introduction with bipartisan sponsorship is plausible.",
+      "id": "512737b4-fb55-4429-a0c2-1091471eee4c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
