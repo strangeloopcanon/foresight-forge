@@ -1,0 +1,228 @@
+{
+  "date": "2026-01-04",
+  "predictions": [
+    {
+      "text": "The U.S. House or Senate will hold a floor vote on a War Powers Resolution or an explicit Authorization for Use of Military Force (AUMF) resolution that specifically references Venezuela or the operation that captured Nicol\u00e1s Maduro, by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 86,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Passes if Congress.gov shows a roll-call floor vote (House or Senate) on a War Powers/AUMF measure whose text/title explicitly references Venezuela or the Maduro-capture operation, on or before 2026-03-31 UTC.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/03/maduro-indictment-drugs-venezuela.html",
+        "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/"
+      ],
+      "monitoring_signals": [
+        "War Powers/AUMF bills introduced mentioning Venezuela",
+        "House/Senate leadership scheduling notices",
+        "Committee hearings (HFAC/SFAC/HASC/SASC) on Venezuela operation",
+        "White House letters to Congress under War Powers reporting"
+      ],
+      "rationale": "Public controversy over authority/oversight makes a War Powers/AUMF vote more likely than in routine operations, though passage is uncertain.",
+      "id": "91145b4e-a9cb-468d-8b5d-374f85415e71",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will issue a revised or new Venezuela-related General License (or equivalent written guidance) that materially changes authorization for U.S. persons\u2019 oil/gas transactions with PDVSA or named Venezuela state entities, by 2026-04-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 116,
+      "deadline": "2026-04-30",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Passes if OFAC posts a new/revised Venezuela GL (or FAQ/guidance explicitly tied to a GL) that expands, narrows, suspends, or conditions oil/gas transaction authorization involving PDVSA or named Venezuela state entities, by 2026-04-30 UTC.",
+      "evidence": [
+        "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+        "https://www.cnbc.com/2026/01/03/trump-venezuela-attack-oil-markets.html"
+      ],
+      "monitoring_signals": [
+        "OFAC Venezuela page updates (GLs/FAQs)",
+        "Treasury press releases on Venezuela policy",
+        "Chevron/ENI/Repsol public statements about licenses",
+        "Reported changes in compliance guidance from major banks/traders"
+      ],
+      "rationale": "A regime-change shock typically triggers sanctions-licensing recalibration to manage oil flows, leverage, and legal risk.",
+      "id": "180c15ed-d313-4300-8f27-8a111de203d2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "A regional multilateral body (OAS, CELAC, or UNASUR successor framework) will publish a joint communique/resolution on Venezuela that is signed or supported by at least 10 Latin American/Caribbean sovereign governments and explicitly references the U.S. strike/capture of Maduro, by 2026-02-28 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 55,
+      "deadline": "2026-02-28",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Passes if an official OAS/CELAC (or comparable regional) document is published listing at least 10 sovereign government signatories/supporters and explicitly mentions the U.S. operation (strike/capture/arrest of Maduro) by 2026-02-28 UTC.",
+      "evidence": [
+        "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/"
+      ],
+      "monitoring_signals": [
+        "OAS Permanent Council special session announcements",
+        "CELAC foreign-minister meetings",
+        "Joint statements by Brazil/Colombia/Mexico/Caricom members",
+        "UN regional diplomacy reporting (Reuters/AP/AFP)"
+      ],
+      "rationale": "Neighboring states face domestic and sovereignty pressures to react collectively, but coordination and wording can delay or dilute statements.",
+      "id": "c4368576-7062-487e-8994-974811c10fb0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Commercial flight restrictions or major carrier reroutings tied to Venezuelan airspace/safety disruptions will persist for at least 14 consecutive days (measured by continuous advisory status or sustained cancellations/reroutes by major carriers), by 2026-02-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 42,
+      "deadline": "2026-02-15",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "Passes if, for any 14-day consecutive period ending by 2026-02-15 UTC, (a) official aviation advisories/NOTAMs or (b) documented major-carrier schedules show sustained Venezuela-related cancellations/reroutes affecting Caribbean routes (reported by a major outlet or airline statement).",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/03/venezuela-airspace-flight-disruptions.html"
+      ],
+      "monitoring_signals": [
+        "NOTAMs and FAA/EASA safety notices",
+        "Carrier travel waivers and schedule change bulletins",
+        "Airport/airline operational updates in the Caribbean",
+        "Daily cancellation totals reported by major media"
+      ],
+      "rationale": "Military/security uncertainty often causes prolonged operational disruptions, but airlines can adapt routes quickly if risk stabilizes.",
+      "id": "0c5ab845-03f2-4202-adae-dde6ba933306",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Venezuela\u2019s seaborne crude and condensate exports will be at least 25% lower in any full calendar month in 2026 Q1 than the average of Nov\u2013Dec 2025, as reported by at least one of Kpler, Vortexa, or TankerTrackers, by 2026-04-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 116,
+      "deadline": "2026-04-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Passes if Kpler/Vortexa/TankerTrackers (or Reuters citing them) reports that any full month in 2026 Q1 has Venezuela seaborne crude+condensate exports \u226525% below the Nov\u2013Dec 2025 average, published by 2026-04-30 UTC.",
+      "evidence": [
+        "https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/",
+        "https://www.cnbc.com/2026/01/03/trump-venezuela-attack-oil-markets.html"
+      ],
+      "monitoring_signals": [
+        "Kpler/Vortexa monthly Venezuela export estimates",
+        "PDVSA operational/disruption reports",
+        "Port closures, insurance rate spikes, or force majeure notices",
+        "OFAC licensing/sanctions changes affecting liftings"
+      ],
+      "rationale": "Operational disruption and compliance uncertainty commonly reduce liftings quickly even if global oil prices do not spike.",
+      "id": "7be44ba0-5282-4578-85b6-656064ddbc79",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. President will issue at least one additional public divestment/unwind order (via CFIUS-related authority) targeting a China-linked investment in a U.S. semiconductor or semiconductor-equipment company, by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 269,
+      "deadline": "2026-09-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Passes if the White House or Treasury publicly releases an order requiring divestment/unwinding of a China-linked investment specifically involving a U.S. semiconductor or semiconductor-equipment firm (named), by 2026-09-30 UTC.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/03/trump-orders-unwind-chinese-chip-acquisition-emcore-hiefo-emcore-velocity-one-navgiation-gyro.html"
+      ],
+      "monitoring_signals": [
+        "White House statements on CFIUS actions",
+        "Treasury CFIUS annual/interim updates",
+        "Reported CFIUS mitigation failures in semiconductors",
+        "New executive actions on sensitive tech supply chains"
+      ],
+      "rationale": "A high-profile unwind raises the base rate for follow-on actions, but qualifying cases may be limited and often confidential.",
+      "id": "fc3de833-b397-4833-88c0-254a4c41ae1e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "China\u2019s DRAM maker CXMT will file publicly viewable IPO documents (prospectus/filing notice) for a listing (STAR Market, Shenzhen, Hong Kong, or comparable venue) that targets gross proceeds of at least $3.0 billion (USD-equivalent) or explicitly cites a $3.0B+ fundraising goal, by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 361,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Passes if CXMT (or its listing vehicle) files IPO documents accessible via exchange/regulator systems or reported by Reuters/Bloomberg/FT/WSJ that state targeted proceeds \u2265$3.0B USD-equivalent, by 2026-12-31 UTC.",
+      "evidence": [
+        "https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html"
+      ],
+      "monitoring_signals": [
+        "CSRC/STAR Market/HKEX filing trackers",
+        "Reuters/Bloomberg reporting on CXMT underwriting",
+        "Chinese semiconductor fund allocations to CXMT",
+        "Capex announcements and capacity ramp disclosures"
+      ],
+      "rationale": "A stated large IPO ambition is plausible amid industrial policy support, but market windows and regulatory timing are key constraints.",
+      "id": "75d90ef6-daf8-4d8f-a0ab-ddcde5e0cdd4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A major outlet (Reuters, Bloomberg, FT, WSJ, or CNBC) will report that tech founders/executives (at least 5 individuals) collectively sold at least $7.5 billion of public-company stock in 2026 H1, based on Form 4 or equivalent disclosures, by 2026-07-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 208,
+      "deadline": "2026-07-31",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Passes if a qualifying outlet publishes a data-backed article stating that at least 5 tech founders/executives\u2019 aggregate 2026 H1 sales total \u2265$7.5B (USD), citing SEC filings/data providers, by 2026-07-31 UTC.",
+      "evidence": [
+        "https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/"
+      ],
+      "monitoring_signals": [
+        "Form 4 clusters for mega-cap tech insiders",
+        "10b5-1 plan adoption/updates disclosed in filings",
+        "Data-provider summaries (Washington Service, Verity, InsiderScore)",
+        "Media trend pieces on insider selling"
+      ],
+      "rationale": "Heavy 2025 selling increases the chance of another headline-sized H1 tally, but it depends on equity performance and lockup/plan timing.",
+      "id": "e6c75cb3-705c-4894-9819-ec70fd3f6aab",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "BLS will report that U.S. core goods CPI (commodities less food and energy, seasonally adjusted) is positive year-over-year (>0.0%) in at least one monthly CPI release, by 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 269,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Passes if any BLS CPI release through 2026-09-30 UTC shows the 'Commodities less food and energy commodities' index with YoY percent change >0.0% (not seasonally adjusted YoY comparison as reported by BLS tables).",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/03/business/economy/trump-tariffs-prices-impact.html"
+      ],
+      "monitoring_signals": [
+        "Monthly CPI core goods trend",
+        "Import price indices and USD trade-weighted moves",
+        "Retailer margin commentary (earnings calls)",
+        "Tariff implementation/expansion announcements"
+      ],
+      "rationale": "Tariff absorption and FX have muted prices so far, but lags and inventory turnover can push core goods inflation positive in 2026.",
+      "id": "bc444914-f7f6-481a-98f8-5463df8675f1",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "CDC (or a CDC-supported U.S. guideline body) will publish updated U.S. gonorrhea treatment guidance that includes a newly approved oral antibiotic (e.g., gepotidacin or zoliflodacin) as a recommended regimen or listed alternative, by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 361,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "log_odds": -0.847,
+      "verification_criteria": "Passes if CDC posts updated treatment guidance (STI guidelines update, MMWR, or official CDC webpage update) explicitly naming a newly approved oral antibiotic as recommended/alternative gonorrhea therapy, by 2026-12-31 UTC.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"
+      ],
+      "monitoring_signals": [
+        "FDA approval actions for new gonorrhea antibiotics",
+        "CDC MMWR notices and STI guideline update schedules",
+        "IDSA/ASTMH/STD conference presentations",
+        "Post-marketing access and supply announcements"
+      ],
+      "rationale": "Promising trial results increase update likelihood, but FDA approval timing and CDC guideline cadence create meaningful schedule risk.",
+      "id": "8a6406e4-4e86-4b83-b613-0ec0e40dbc3c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

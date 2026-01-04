@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-03",
+  "assessments": [
+    {
+      "id": "7ebea36b-57c6-44d2-bf8f-8d21e8233e6d",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items focus on Venezuela operations/politics and other domestic topics; there is no reporting about \u00d8rsted\u2019s Revolution Wind litigation or a federal judge granting a TRO/preliminary injunction."
+    },
+    {
+      "id": "4b8f4875-ca5f-401b-b4ba-1ed4dbacf528",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Interior/BOEM issued a new formal pause/suspension directive or Federal Register notice for offshore-wind leasing/permitting lasting 60+ days."
+    },
+    {
+      "id": "db93f4cf-f187-47fa-9325-e36276a7c073",
+      "status": "pending",
+      "status_rationale": "There is no mention of an OFAC Iran-related human-rights/protest-suppression sanctions package or any designations count meeting the threshold."
+    },
+    {
+      "id": "af955c92-11fd-468b-b7db-2e5b8f652350",
+      "status": "pending",
+      "status_rationale": "Although there is Venezuela-related enforcement news (e.g., indictment unsealed), nothing in the bullets indicates DOJ announced a civil forfeiture/seizure involving a named oil tanker for sanctions evasion."
+    },
+    {
+      "id": "eaf6addf-5da0-4e23-b275-5f38f327daa7",
+      "status": "pending",
+      "status_rationale": "No items reference Tesla announcing a company-wide workforce reduction meeting the stated thresholds."
+    },
+    {
+      "id": "b1a4383f-d1bd-451a-8ca1-e5827c2d8017",
+      "status": "pending",
+      "status_rationale": "No items report a coordinated same-day Tesla U.S. MSRP cut of at least 5% on at least two distinct models."
+    },
+    {
+      "id": "8bfcd7f6-59c8-4c3b-8e6c-22b10fd08b17",
+      "status": "pending",
+      "status_rationale": "There is no reporting here about Saks Global (or a primary operating affiliate) filing for Chapter 11 bankruptcy protection."
+    },
+    {
+      "id": "baebda51-ad10-4552-a761-d687be61d1ec",
+      "status": "pending",
+      "status_rationale": "No bullet mentions India\u2019s MeitY (or another central authority) issuing a written compliance order to xAI referencing Grok and child sexual content safeguards/takedowns."
+    },
+    {
+      "id": "512737b4-fb55-4429-a0c2-1091471eee4c",
+      "status": "pending",
+      "status_rationale": "No item indicates introduction of a bipartisan U.S. Senate bill to reform the National Emergencies Act with a 60-day congressional-approval extension requirement."
+    }
+  ]
+}

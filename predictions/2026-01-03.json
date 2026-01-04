@@ -19,7 +19,7 @@
       ],
       "rationale": "Emergency injunctive relief is a common first step in high-stakes permitting disputes, but courts often defer to agencies early on; timing is plausible within weeks.",
       "id": "7ebea36b-57c6-44d2-bf8f-8d21e8233e6d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "With active political focus and ongoing litigation, an across-the-board administrative pause is a likely next step, though not certain.",
       "id": "4b8f4875-ca5f-401b-b4ba-1ed4dbacf528",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Human-rights sanctions are a common, scalable response to escalating protest crackdowns and can be executed quickly without Congress.",
       "id": "db93f4cf-f187-47fa-9325-e36276a7c073",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "Enforcement intensity is rising, but vessel seizures are operationally and diplomatically complex, lowering probability despite a supportive narrative.",
       "id": "af955c92-11fd-468b-b7db-2e5b8f652350",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -100,7 +100,7 @@
       ],
       "rationale": "Sustained delivery pressure and intensifying competition often lead to cost actions; however, Tesla may prioritize price/product moves over layoffs.",
       "id": "eaf6addf-5da0-4e23-b275-5f38f327daa7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "rationale": "Price is Tesla\u2019s fastest lever to stabilize demand; still, it may rely more on incentives/financing than headline MSRP cuts.",
       "id": "b1a4383f-d1bd-451a-8ca1-e5827c2d8017",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "High rates and weak discretionary demand raise restructuring odds, but firms often attempt out-of-court exchanges first.",
       "id": "8bfcd7f6-59c8-4c3b-8e6c-22b10fd08b17",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "Given the existing public controversy and India\u2019s history of issuing formal IT Act notices, a documented compliance action is likely.",
       "id": "baebda51-ad10-4552-a761-d687be61d1ec",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -180,7 +180,7 @@
       ],
       "rationale": "Institutional pushback often manifests first as reform bills; passage is uncertain, but introduction with bipartisan sponsorship is plausible.",
       "id": "512737b4-fb55-4429-a0c2-1091471eee4c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
