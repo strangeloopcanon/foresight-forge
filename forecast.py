@@ -8,6 +8,7 @@ import sys
 import datetime
 import uuid
 import hashlib
+from urllib.parse import urljoin
 
 import click
 import yaml
@@ -187,6 +188,111 @@ def _filter_feed_urls(urls):
         if _looks_like_feed_url(u) or _probe_is_feed(u):
             out.append(u)
     return out
+
+
+def _normalize_source_url(url: str) -> str:
+    """Normalize special-case sources into ingestible endpoints."""
+    if not isinstance(url, str):
+        return ""
+    u = url.strip()
+    if not u:
+        return ""
+    # Polymarket Watch homepage exposes a public JSON feed at ./alerts.json
+    if u.rstrip('/') == 'https://strangeloopcanon.github.io/polymarket_prediction':
+        base = u if u.endswith('/') else u + '/'
+        return urljoin(base, 'alerts.json')
+    return u
+
+
+def _polymarket_alerts_to_items(alerts, source_url: str):
+    """Convert Polymarket Watch alert objects to ingest items."""
+    out = []
+    for alert in alerts or []:
+        if not isinstance(alert, dict):
+            continue
+        trade = alert.get('trade') or {}
+        market = alert.get('market') or {}
+        trade_id = trade.get('trade_id')
+        if trade_id is None:
+            continue
+
+        eid = f"polymarket_alert:{trade_id}"
+
+        question = (
+            market.get('question')
+            or trade.get('title')
+            or trade.get('name')
+            or 'Polymarket alert'
+        )
+
+        outcomes = market.get('outcomes') or []
+        prices = market.get('outcome_prices') or []
+        prob_parts = []
+        if isinstance(outcomes, list) and isinstance(prices, list) and len(outcomes) == len(prices):
+            for o, p in zip(outcomes, prices):
+                try:
+                    prob_parts.append(f"{o} {float(p) * 100:.1f}%")
+                except Exception:
+                    prob_parts.append(f"{o} {p}")
+        probs = ", ".join(prob_parts)
+
+        side = trade.get('side')
+        outcome = trade.get('outcome')
+        size = trade.get('size')
+        trade_price = trade.get('price')
+        notional = alert.get('notional')
+        score = alert.get('score')
+
+        extra = []
+        if probs:
+            extra.append(f"prices {probs}")
+        if side and outcome is not None and trade_price is not None:
+            extra.append(f"trade {side} {outcome} @ {trade_price}")
+        if size is not None:
+            extra.append(f"size {size}")
+        if notional is not None:
+            extra.append(f"notional {notional}")
+        if score is not None:
+            extra.append(f"score {score}")
+
+        title = f"Polymarket Watch alert: {question}"
+        if extra:
+            title += " — " + "; ".join(extra)
+
+        link = alert.get('url') or trade.get('url')
+        if not link:
+            slug = market.get('slug') or trade.get('slug')
+            if slug:
+                link = f"https://polymarket.com/market/{slug}"
+
+        published = ""
+        ts = trade.get('timestamp')
+        if ts:
+            try:
+                published = datetime.datetime.fromtimestamp(int(ts), tz=datetime.timezone.utc).isoformat()
+            except Exception:
+                published = ""
+
+        out.append({
+            "id": eid,
+            "title": title,
+            "link": link,
+            "published": published,
+            "source": source_url,
+            "type": "polymarket_alert",
+        })
+    return out
+
+
+def _items_from_json_source(source_url: str, data):
+    """Parse supported JSON sources into standard ingest items."""
+    if isinstance(data, dict) and isinstance(data.get('alerts'), list):
+        return _polymarket_alerts_to_items(data.get('alerts'), source_url)
+    if isinstance(data, list):
+        # alerts.jsonl parsed into a list of dicts
+        if data and isinstance(data[0], dict) and ('market' in data[0] and 'trade' in data[0]):
+            return _polymarket_alerts_to_items(data, source_url)
+    return []
 
 
 def _estimate_tokens(text: str) -> int:
@@ -732,25 +838,58 @@ def ingest():
         state = {"seen": []}
     seen = set(state.get("seen", []))
     new_items = []
+    from io import BytesIO
+
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (compatible; ForesightForgeBot/1.0; +https://example.com)'
+    }
+
     for url in load_sources():
+        url = _normalize_source_url(url)
+        if not url:
+            continue
         try:
-            # Use requests with timeout to prevent hanging on slow feeds
-            import requests
-            from io import BytesIO
-            
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (compatible; ForesightForgeBot/1.0; +https://example.com)'
-            }
-            
             response = requests.get(url, headers=headers, timeout=30)
             response.raise_for_status()
-            
-            # Parse the RSS content
-            feed = feedparser.parse(BytesIO(response.content))
         except Exception as e:
             # Log and continue so a single failing feed does not abort the entire pipeline.
             click.echo(f"⚠️  Failed to fetch {url}: {e}")
             continue
+
+        ct = (response.headers.get('content-type') or '').lower()
+
+        # JSON sources (e.g., Polymarket Watch alerts.json / alerts.jsonl)
+        if 'application/json' in ct or url.lower().endswith('.json') or url.lower().endswith('.jsonl'):
+            try:
+                if url.lower().endswith('.jsonl'):
+                    data = []
+                    for line in response.text.splitlines():
+                        line = line.strip()
+                        if not line:
+                            continue
+                        data.append(json.loads(line))
+                else:
+                    data = response.json()
+                items = _items_from_json_source(url, data)
+                if not items:
+                    click.echo(f"⚠️  Unrecognized JSON source {url}; skipping.")
+                    continue
+                for item in items:
+                    eid = item.get("id", item.get("link"))
+                    if eid and eid not in seen:
+                        seen.add(eid)
+                        new_items.append(item)
+            except Exception as e:
+                click.echo(f"⚠️  Failed to parse JSON from {url}: {e}")
+            continue
+
+        # RSS/Atom sources
+        try:
+            feed = feedparser.parse(BytesIO(response.content))
+        except Exception as e:
+            click.echo(f"⚠️  Failed to parse feed {url}: {e}")
+            continue
+
         for entry in feed.entries:
             eid = entry.get("id", entry.get("link"))
             if eid and eid not in seen:
