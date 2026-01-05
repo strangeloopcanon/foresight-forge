@@ -1,0 +1,187 @@
+{
+  "date": "2026-01-05",
+  "predictions": [
+    {
+      "text": "Denmark will publicly confirm it has formally summoned (or demanded an urgent meeting with) the U.S. ambassador in Copenhagen in response to U.S. statements about seizing/controlling Greenland, by 2026-02-28 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 54,
+      "deadline": "2026-02-28",
+      "confidence_pct": 48,
+      "verification_criteria": "Confirmation via an official Danish government/MFA press release, parliamentary statement, or on-record MFA spokesperson quote reported by Reuters/AP/FT/WSJ/Bloomberg stating the U.S. ambassador was summoned or an urgent formal meeting was demanded about Greenland seizure/annexation threats.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/04/trump-denmark-greenland-frederiksen-venezuela.html"
+      ],
+      "monitoring_signals": [
+        "Danish MFA press releases and spokesperson briefings",
+        "Reuters/AP headlines mentioning 'summoned the ambassador' + Greenland",
+        "Danish parliament (Folketing) foreign affairs committee statements"
+      ],
+      "rationale": "Public threats involving sovereignty often trigger rapid diplomatic demarches; Denmark has strong incentives to signal resolve while avoiding escalation.",
+      "id": "8737124b-1539-4d6e-9578-76474368c3da",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Denmark will announce an additional Arctic/Greenland defense and surveillance funding package totaling at least DKK 10 billion (newly allocated, not previously budgeted), by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 176,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Danish government budget document, defense ministry announcement, or parliamentary agreement explicitly allocating \u2265DKK 10B in incremental funding for Greenland/Arctic capabilities (e.g., patrol ships, drones, radar, basing, satellites), with amounts stated.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/04/trump-denmark-greenland-frederiksen-venezuela.html"
+      ],
+      "monitoring_signals": [
+        "Danish defense ministry procurement announcements tied to Arctic/Greenland",
+        "Budget negotiations and coalition agreements mentioning Greenland/Arctic",
+        "NATO/Arctic Council-related Danish policy speeches"
+      ],
+      "rationale": "Heightened sovereignty pressure tends to accelerate visible deterrence and domain-awareness spending; Denmark can act domestically without needing treaty changes.",
+      "id": "5da18668-297a-4c8e-8974-fde24fc35843",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "France\u2019s CNIL (or another French national authority) will publicly open a formal investigation or procedure (e.g., 'mise en demeure' or equivalent) into xAI/Grok specifically referencing AI-generated sexualized deepfakes, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 176,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Public CNIL (or relevant French authority) notice naming xAI and referencing deepfakes/sexualized synthetic imagery in the stated grounds, or Reuters/AFP reporting citing the authority and explicitly linking the action to Grok deepfake outputs.",
+      "evidence": [
+        "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/"
+      ],
+      "monitoring_signals": [
+        "CNIL announcements mentioning xAI, Grok, deepfakes",
+        "French government/ministerial statements on deepfake enforcement",
+        "Major media follow-ups confirming escalation beyond 'review' to formal procedure"
+      ],
+      "rationale": "If harmful outputs persist and complaints accumulate, EU privacy/online safety regulators often escalate from preliminary inquiries to formal procedures within months.",
+      "id": "d4ac5c9d-b041-4c9a-ab75-e52cee7377b4",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Malaysia\u2019s communications regulator (MCMC) will issue a written compliance directive or formal notice to xAI referencing Grok and requiring specific mitigations for sexualized deepfakes (e.g., blocking prompts, reporting tools, or age-gating), by 2026-04-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 115,
+      "deadline": "2026-04-30",
+      "confidence_pct": 40,
+      "verification_criteria": "MCMC (or another Malaysian central authority) publishes or is credibly reported (Reuters/Bloomberg/FT/WSJ) to have issued a formal written notice/direction to xAI/Grok requiring concrete safeguards specifically tied to sexualized deepfakes.",
+      "evidence": [
+        "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/"
+      ],
+      "monitoring_signals": [
+        "MCMC press releases mentioning AI platforms or Grok",
+        "Parliamentary Q&A or minister statements on AI deepfakes",
+        "xAI transparency reports or public statements acknowledging Malaysia requirements"
+      ],
+      "rationale": "Malaysia has shown willingness to issue platform-specific directives; a live investigation increases odds of a concrete compliance order.",
+      "id": "e3f64a2c-3d6f-4d7b-b452-0f14dd11fc9d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one major container carrier (Maersk, MSC, CMA CGM, Hapag-Lloyd, or ONE) will publicly announce a suspension/avoidance of Bab el-Mandeb/Red Sea transits for at least 7 consecutive days due to security incidents, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 176,
+      "deadline": "2026-06-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Carrier statement, customer advisory, or Reuters/Bloomberg report citing the carrier confirming it will suspend or reroute away from Red Sea/Bab el-Mandeb for \u22657 consecutive days explicitly due to security incidents/attacks.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/04/world/middleeast/yemeni-forces-backed-by-saudi-arabia-reclaim-territory-from-separatists.html"
+      ],
+      "monitoring_signals": [
+        "UKMTO/MSC advisories on incidents near Bab el-Mandeb",
+        "Carrier customer advisories and schedule disruption notices",
+        "War-risk premium updates for Red Sea transits"
+      ],
+      "rationale": "Red Sea route decisions are highly sensitive to incident frequency; even short clusters of attacks can trigger week-long diversions.",
+      "id": "5c121714-25b4-471d-95d9-709e4b804ab4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Department of Energy will announce an SPR crude oil release/sale totaling at least 10 million barrels explicitly citing supply disruption or price spikes linked to Venezuela instability, by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 85,
+      "deadline": "2026-03-31",
+      "confidence_pct": 32,
+      "verification_criteria": "DOE press release or Federal Register/DOE notice announcing SPR release/sale \u226510M barrels with a stated rationale referencing Venezuela-related disruption or stabilization of gasoline/crude prices after Venezuela events.",
+      "evidence": [
+        "https://www.marketwatch.com/story/trump-takedown-of-venezuelas-dictator-could-inject-price-premium-into-oil-market-strategist-projects-33f066c3",
+        "https://www.marketwatch.com/story/how-trumps-venezuela-raid-could-worsen-americas-affordability-crisis-45353c62"
+      ],
+      "monitoring_signals": [
+        "White House/DOE statements on fuel prices and supply",
+        "DOE SPR tender announcements",
+        "Brent/WTI spikes and U.S. gasoline price acceleration"
+      ],
+      "rationale": "An SPR action is politically attractive if retail fuel prices jump; however, operational and policy constraints make it far from certain.",
+      "id": "0934ea20-cc1b-41ca-bfb6-6698b07c7e1d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "AAA\u2019s U.S. national average retail price for regular gasoline will exceed $4.00/gal on at least one day, by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 176,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "verification_criteria": "AAA Daily Fuel Gauge Report shows U.S. national average regular gasoline price > $4.00/gal for any date on or before 2026-06-30 (UTC).",
+      "evidence": [
+        "https://www.marketwatch.com/story/trump-takedown-of-venezuelas-dictator-could-inject-price-premium-into-oil-market-strategist-projects-33f066c3",
+        "https://www.marketwatch.com/story/how-trumps-venezuela-raid-could-worsen-americas-affordability-crisis-45353c62"
+      ],
+      "monitoring_signals": [
+        "AAA daily national average price trend",
+        "Refinery outages and crack spread widening",
+        "Brent/WTI level and volatility"
+      ],
+      "rationale": "Geopolitical supply risk plus seasonal demand can push retail prices above salient thresholds, but requires sustained crude/product tightness.",
+      "id": "b1ac82cc-0dbb-44ce-bc59-9451b6b7f3f1",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "China\u2019s EAST (or another named Chinese fusion device) will be reported by a credible outlet (e.g., Xinhua, CCTV, Nature/Science/PRL press coverage) to have achieved a new sustained high-confinement plasma duration of at least 1,000 seconds, by 2026-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 360,
+      "deadline": "2026-12-31",
+      "confidence_pct": 28,
+      "verification_criteria": "A primary Chinese state media report (Xinhua/CCTV) or peer-reviewed/major-science-outlet coverage states a Chinese fusion device achieved \u22651,000 seconds of sustained plasma operation (with the device named and duration stated).",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/01/260101160855.htm"
+      ],
+      "monitoring_signals": [
+        "Chinese Academy/Institute of Plasma Physics announcements",
+        "Peer-reviewed publications or conference presentations on EAST milestones",
+        "International science press reporting on new duration records"
+      ],
+      "rationale": "China is pushing for headline fusion milestones; however, duration records are technically challenging and reporting may lag or be ambiguous.",
+      "id": "f9b47d4c-82a3-49fd-aadb-b822255a34cd",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "A U.S. federal agency will announce a competitive grant/funding program totaling at least $250 million specifically targeting advanced plastics recycling or 'design for degradability' materials (beyond routine formula funding), by 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 268,
+      "deadline": "2026-09-30",
+      "confidence_pct": 34,
+      "verification_criteria": "EPA/DOE/NSF (or comparable U.S. agency) posts a NOFO/FOA or press release launching a program with total available funding \u2265$250M explicitly aimed at advanced recycling, polymer upcycling, or degradable plastics design, with amount stated.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/01/260103155038.htm"
+      ],
+      "monitoring_signals": [
+        "Grants.gov searches for plastics recycling/upcycling FOAs",
+        "EPA/DOE circular economy and materials management announcements",
+        "Congressional appropriations language referencing plastics/recycling innovation"
+      ],
+      "rationale": "Public pressure and technology progress can trigger large targeted grant rounds, but scale depends on budget priorities and appropriations.",
+      "id": "03c560f3-c64c-4cf3-ba40-3a68b8ef21be",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

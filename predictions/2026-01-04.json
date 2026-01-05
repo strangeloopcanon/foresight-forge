@@ -21,7 +21,7 @@
       ],
       "rationale": "Public controversy over authority/oversight makes a War Powers/AUMF vote more likely than in routine operations, though passage is uncertain.",
       "id": "91145b4e-a9cb-468d-8b5d-374f85415e71",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "A regime-change shock typically triggers sanctions-licensing recalibration to manage oil flows, leverage, and legal risk.",
       "id": "180c15ed-d313-4300-8f27-8a111de203d2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -66,7 +66,7 @@
       ],
       "rationale": "Neighboring states face domestic and sovereignty pressures to react collectively, but coordination and wording can delay or dilute statements.",
       "id": "c4368576-7062-487e-8994-974811c10fb0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -88,7 +88,7 @@
       ],
       "rationale": "Military/security uncertainty often causes prolonged operational disruptions, but airlines can adapt routes quickly if risk stabilizes.",
       "id": "0c5ab845-03f2-4202-adae-dde6ba933306",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -111,7 +111,7 @@
       ],
       "rationale": "Operational disruption and compliance uncertainty commonly reduce liftings quickly even if global oil prices do not spike.",
       "id": "7be44ba0-5282-4578-85b6-656064ddbc79",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -133,7 +133,7 @@
       ],
       "rationale": "A high-profile unwind raises the base rate for follow-on actions, but qualifying cases may be limited and often confidential.",
       "id": "fc3de833-b397-4833-88c0-254a4c41ae1e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -155,7 +155,7 @@
       ],
       "rationale": "A stated large IPO ambition is plausible amid industrial policy support, but market windows and regulatory timing are key constraints.",
       "id": "75d90ef6-daf8-4d8f-a0ab-ddcde5e0cdd4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -177,7 +177,7 @@
       ],
       "rationale": "Heavy 2025 selling increases the chance of another headline-sized H1 tally, but it depends on equity performance and lockup/plan timing.",
       "id": "e6c75cb3-705c-4894-9819-ec70fd3f6aab",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "Tariff absorption and FX have muted prices so far, but lags and inventory turnover can push core goods inflation positive in 2026.",
       "id": "bc444914-f7f6-481a-98f8-5463df8675f1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -221,7 +221,7 @@
       ],
       "rationale": "Promising trial results increase update likelihood, but FDA approval timing and CDC guideline cadence create meaningful schedule risk.",
       "id": "8a6406e4-4e86-4b83-b613-0ec0e40dbc3c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

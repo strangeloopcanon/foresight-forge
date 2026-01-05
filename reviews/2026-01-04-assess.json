@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-04",
+  "assessments": [
+    {
+      "id": "91145b4e-a9cb-468d-8b5d-374f85415e71",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage discusses the U.S. capture of Maduro and administration messaging (e.g., Rubio comments), but there is no clear evidence that either chamber has held a floor vote on a War Powers Resolution or an AUMF specifically referencing Venezuela/this operation."
+    },
+    {
+      "id": "180c15ed-d313-4300-8f27-8a111de203d2",
+      "status": "pending",
+      "status_rationale": "No bullet indicates OFAC issued a revised/new Venezuela-related General License or guidance materially changing U.S. persons\u2019 oil/gas transaction authorization with PDVSA or other named state entities."
+    },
+    {
+      "id": "c4368576-7062-487e-8994-974811c10fb0",
+      "status": "pending",
+      "status_rationale": "There is no cited joint communique/resolution from OAS, CELAC, UNASUR-successor, or a similar regional multilateral body signed/supported by 10+ LAC governments explicitly referencing the U.S. strike/capture of Maduro."
+    },
+    {
+      "id": "0c5ab845-03f2-4202-adae-dde6ba933306",
+      "status": "pending",
+      "status_rationale": "News notes Venezuelan/Caribbean-related airspace restrictions disrupting travel and airlines scrambling to adjust, but the prediction requires persistence for at least 14 consecutive days; today\u2019s items do not establish the duration threshold has been met."
+    },
+    {
+      "id": "7be44ba0-5282-4578-85b6-656064ddbc79",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets mention potential oil-market impacts, but provide no Kpler/Vortexa/TankerTrackers reporting showing a 25%+ drop in Venezuela seaborne crude/condensate exports in any full month of 2026 Q1 versus the Nov\u2013Dec 2025 average."
+    },
+    {
+      "id": "fc3de833-b397-4833-88c0-254a4c41ae1e",
+      "status": "pending",
+      "status_rationale": "No evidence in the provided news that the U.S. President issued an additional public CFIUS-related divestment/unwind order targeting a China-linked investment in a U.S. semiconductor or semiconductor-equipment company."
+    },
+    {
+      "id": "75d90ef6-daf8-4d8f-a0ab-ddcde5e0cdd4",
+      "status": "pending",
+      "status_rationale": "No bullet indicates CXMT has filed publicly viewable IPO documents targeting $3.0B+ gross proceeds or explicitly citing a $3.0B+ fundraising goal."
+    },
+    {
+      "id": "e6c75cb3-705c-4894-9819-ec70fd3f6aab",
+      "status": "pending",
+      "status_rationale": "No Reuters/Bloomberg/FT/WSJ/CNBC item in the bullets reports that at least 5 tech founders/executives collectively sold $7.5B+ of public-company stock in 2026 H1 based on Form 4/equivalent disclosures."
+    },
+    {
+      "id": "bc444914-f7f6-481a-98f8-5463df8675f1",
+      "status": "pending",
+      "status_rationale": "No CPI release result is provided here, and nothing indicates BLS has reported core goods CPI (commodities less food and energy, SA) as positive year-over-year in a monthly CPI release."
+    },
+    {
+      "id": "8a6406e4-4e86-4b83-b613-0ec0e40dbc3c",
+      "status": "pending",
+      "status_rationale": "No bullet indicates CDC (or a CDC-supported guideline body) has published updated U.S. gonorrhea treatment guidance adding a newly approved oral antibiotic (e.g., gepotidacin or zoliflodacin) as a recommended or alternative regimen."
+    }
+  ]
+}
