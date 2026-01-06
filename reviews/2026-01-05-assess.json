@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-05",
+  "assessments": [
+    {
+      "id": "8737124b-1539-4d6e-9578-76474368c3da",
+      "status": "pending",
+      "status_rationale": "No items in today\u2019s bullets indicate Denmark has publicly confirmed summoning or seeking an urgent meeting with the U.S. ambassador over U.S. statements about Greenland."
+    },
+    {
+      "id": "5da18668-297a-4c8e-8974-fde24fc35843",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not report Denmark announcing a new (not previously budgeted) Arctic/Greenland defense/surveillance package of at least DKK 10 billion."
+    },
+    {
+      "id": "d4ac5c9d-b041-4c9a-ab75-e52cee7377b4",
+      "status": "pending",
+      "status_rationale": "A CNBC item says Musk\u2019s X faces probes in Europe after Grok generated explicit images, but it does not specifically name France\u2019s CNIL or confirm a French formal procedure explicitly focused on xAI/Grok and sexualized deepfakes."
+    },
+    {
+      "id": "e3f64a2c-3d6f-4d7b-b452-0f14dd11fc9d",
+      "status": "pending",
+      "status_rationale": "CNBC reports probes in Malaysia after Grok-generated explicit imagery, but this does not clearly constitute an MCMC written compliance directive/notice requiring specific mitigations for sexualized deepfakes."
+    },
+    {
+      "id": "5c121714-25b4-471d-95d9-709e4b804ab4",
+      "status": "pending",
+      "status_rationale": "No bullets mention any major container carrier announcing a 7+ day suspension/avoidance of Bab el-Mandeb/Red Sea transits due to security incidents."
+    },
+    {
+      "id": "0934ea20-cc1b-41ca-bfb6-6698b07c7e1d",
+      "status": "pending",
+      "status_rationale": "While multiple bullets discuss Venezuela tensions and oil-market implications, none report a U.S. DOE announcement of an SPR release/sale totaling at least 10 million barrels explicitly citing Venezuela-linked supply disruption or price spikes."
+    },
+    {
+      "id": "b1ac82cc-0dbb-44ce-bc59-9451b6b7f3f1",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not provide evidence that AAA\u2019s national average regular gasoline price exceeded $4.00/gal on any day."
+    },
+    {
+      "id": "f9b47d4c-82a3-49fd-aadb-b822255a34cd",
+      "status": "pending",
+      "status_rationale": "No bullets mention EAST or any Chinese fusion device achieving or being reported to have achieved a new sustained high-confinement plasma duration of at least 1,000 seconds."
+    },
+    {
+      "id": "03c560f3-c64c-4cf3-ba40-3a68b8ef21be",
+      "status": "pending",
+      "status_rationale": "No bullets report a U.S. federal agency announcing a new competitive grant/funding program totaling at least $250 million aimed at advanced plastics recycling or design-for-degradability materials."
+    }
+  ]
+}

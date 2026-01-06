@@ -1,0 +1,109 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. action in Venezuela raises great-power escalation risk, potentially emboldening Russia/China and reframing Taiwan/Ukraine deterrence calculations.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/01/05/world/europe/trump-venezuela-china-russia.html"
+    },
+    {
+      "text": "Maduro pleads not guilty, calling himself a \u201cprisoner of war,\u201d signaling intent to contest legitimacy and complicate diplomatic/legal resolution.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/05/venezuela-maduro-court-trump.html"
+    },
+    {
+      "text": "Venezuela upheaval lifts oil risk premium; investors expect U.S.-aligned rebuilding, but majors face long timelines and political uncertainty before cash flows.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/05/market-sees-chevron-the-big-venezuela-winner-but-oil-majors-face-a-long-road.html"
+    },
+    {
+      "text": "Markets may be overtrading Venezuela headlines; near-term \u201cwinners\u201d risk reversal as operational constraints, sanctions, and security conditions set pace.",
+      "tags": [
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/01/05/cramer-venezuela-oil-energy-investing-trading-mistake.html"
+    },
+    {
+      "text": "Fed debate diverges: some forecast deep 2026 cuts and weaker dollar, while Kashkari suggests limited further cuts and notes AI-driven hiring slowdown.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/05/minneapolis-feds-kashkari-indicates-interest-rates-dont-need-to-be-cut-much-more.html"
+    },
+    {
+      "text": "Nvidia accelerates AI compute and autonomy push: new Rubin architecture, expanded AI chip roadmap, and Mercedes autonomous platform signal continued datacenter/auto demand.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/"
+    },
+    {
+      "text": "Robotaxi competition intensifies: Nvidia targets 2027 testing; Uber unveils Lucid+Nuro robotaxi; Waymo expands use cases, raising regulatory and safety scrutiny.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/05/nvidia-plans-to-test-a-robotaxi-service-in-2027-in-self-driving-push.html"
+    },
+    {
+      "text": "Elon Musk\u2019s X faces multi-jurisdiction probes after Grok generated explicit deepfakes, increasing compliance, platform liability, and potential monetization risks.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/05/india-eu-investigate-musks-x-after-grok-created-deepfake-child-porn.html"
+    },
+    {
+      "text": "Novo Nordisk launches first U.S. GLP-1 obesity pill, pressuring rivals\u2019 stocks and shifting competitive dynamics toward oral therapies and broader access.",
+      "tags": [
+        "markets",
+        "science"
+      ],
+      "link": "https://www.cnbc.com/2026/01/05/first-glp-1-pill-for-obesity-from-novo-nordisk-launches-in-the-us.html"
+    },
+    {
+      "text": "Developers sue after U.S. halts $25B offshore wind pipeline, heightening policy risk for clean-energy investment and potentially slowing project finance and supply chains.",
+      "tags": [
+        "macro",
+        "markets",
+        "energy"
+      ],
+      "link": "https://techcrunch.com/2026/01/05/offshore-wind-developers-sue-trump-administration-for-halting-25b-in-projects/"
+    },
+    {
+      "text": "Climate research suggests plants absorb less CO2 than models assumed, implying higher atmospheric CO2 for a given emissions path and greater mitigation pressure.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260104202809.htm"
+    },
+    {
+      "text": "CRISPR advance enables turning genes on without cutting DNA, potentially reducing off-target damage and expanding therapeutic and industrial gene-control applications.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260104202813.htm"
+    },
+    {
+      "text": "Network data shows BGP anomalies during Venezuela blackout, highlighting how geopolitical crises can manifest as internet-routing instability and complicate incident attribution.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://loworbitsecurity.com/radar/radar16/"
+    }
+  ]
+}

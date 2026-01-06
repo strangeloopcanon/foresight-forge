@@ -1,0 +1,186 @@
+{
+  "date": "2026-01-06",
+  "predictions": [
+    {
+      "text": "The UN Security Council will hold (and publish an official meeting record for) an emergency meeting specifically focused on the U.S. operation in Venezuela and the capture/detention of Nicol\u00e1s Maduro, by 2026-02-15 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 40,
+      "deadline": "2026-02-15",
+      "confidence_pct": 62,
+      "verification_criteria": "UN Security Council meeting listed on the official UN meetings calendar and/or an official UN document page (e.g., S/PV.####) showing the meeting occurred by the deadline, with agenda/topic explicitly referencing Venezuela and the U.S. operation/capture of Maduro.",
+      "evidence": [
+        "Maduro pleads not guilty and frames himself as a \u201cprisoner of war,\u201d increasing international diplomatic/legal salience: https://www.cnbc.com/2026/01/05/venezuela-maduro-court-trump.html",
+        "Great-power escalation framing raises likelihood of UN-level discussion: https://www.nytimes.com/2026/01/05/world/europe/trump-venezuela-china-russia.html"
+      ],
+      "monitoring_signals": [
+        "UNSC program of work updates mentioning Venezuela",
+        "Requests for UNSC emergency sessions by Russia/China or Latin American members",
+        "UN press stakeouts by UNSC president or permanent members referencing Venezuela"
+      ],
+      "rationale": "High-profile capture/detention of a sitting head of state commonly triggers UNSC discussion even absent binding action; procedural meeting is easier than passing a resolution.",
+      "id": "c8591693-5e4b-47ab-b184-4e8036d133a0",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The European Commission will open a formal Digital Services Act (DSA) proceeding/investigation against X (Twitter) that explicitly references AI-generated child sexual abuse material (CSAM) or sexualized deepfakes produced via Grok/xAI, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 175,
+      "deadline": "2026-06-30",
+      "confidence_pct": 47,
+      "verification_criteria": "A Commission (or designated DSA Digital Services Coordinator acting within the DSA framework) press release/notice announces formal proceedings under the DSA against X, and the notice explicitly cites Grok/xAI-generated CSAM and/or sexualized deepfakes as part of the alleged noncompliance.",
+      "evidence": [
+        "Multi-jurisdiction probes into X after Grok generated explicit deepfakes increase EU scrutiny likelihood: https://www.cnbc.com/2026/01/05/india-eu-investigate-musks-x-after-grok-created-deepfake-child-porn.html"
+      ],
+      "monitoring_signals": [
+        "EU Commission DSA press releases naming X",
+        "Statements by Thierry Breton\u2019s successor team / DG CONNECT about generative AI harms",
+        "EU DSAs Coordinator referrals or coordinated actions mentioning CSAM/deepfakes"
+      ],
+      "rationale": "EU has both political pressure and a clear regulatory pathway; opening proceedings is a lower bar than final penalties.",
+      "id": "3b535a05-787f-4b0e-8b76-7f53e1c05767",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NetBlocks (or an equivalent widely cited monitoring group such as Cloudflare Radar) will report a Venezuela-wide internet connectivity disruption of at least 50% lasting 12+ consecutive hours, by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 84,
+      "deadline": "2026-03-31",
+      "confidence_pct": 41,
+      "verification_criteria": "A public report/graph from NetBlocks or Cloudflare Radar (or similarly cited global monitoring organization) indicates nationwide Venezuela connectivity down \u226550% versus baseline for \u226512 consecutive hours within the horizon, and major media attribute it to crisis/unrest/security measures or grid failure.",
+      "evidence": [
+        "Venezuela crisis has already manifested as routing instability/BGP anomalies during blackout periods: https://loworbitsecurity.com/radar/radar16/"
+      ],
+      "monitoring_signals": [
+        "Cloudflare Radar country-level traffic anomalies for VE",
+        "NetBlocks alerts referencing Venezuela",
+        "Reports of grid instability or fuel shortages affecting telecom backhaul"
+      ],
+      "rationale": "Political instability plus grid fragility makes additional nationwide disruptions plausible; the threshold is moderate (12h, 50%).",
+      "id": "5322132b-6dcc-46bb-a473-eecd36f31500",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent front-month will settle at or above $95.00/bbl on at least one trading day, by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 175,
+      "deadline": "2026-06-30",
+      "confidence_pct": 36,
+      "verification_criteria": "ICE published settlement price for Brent front-month is \u2265 $95.00 per barrel for at least one trading day on or before the deadline.",
+      "evidence": [
+        "Venezuela upheaval is adding an oil risk premium and uncertainty around export continuity: https://www.cnbc.com/2026/01/05/market-sees-chevron-the-big-venezuela-winner-but-oil-majors-face-a-long-road.html"
+      ],
+      "monitoring_signals": [
+        "Monthly Kpler/Vortexa export estimates for Venezuela and disruptions",
+        "OPEC+ policy statements and compliance",
+        "Red Sea security incidents and shipping insurance rates"
+      ],
+      "rationale": "Given elevated geopolitical risk premia and supply uncertainty, a brief spike to $95 is plausible even if sustained prices are not.",
+      "id": "4a7681b7-af4a-4361-aa8d-c92d6d083ce9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one major container carrier (Maersk, MSC, CMA CGM, Hapag-Lloyd, or ONE) will publicly announce a resumption of routine Bab el-Mandeb/Red Sea transits after previously avoiding/suspending the route for 30+ consecutive days due to security risk, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 175,
+      "deadline": "2026-06-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Carrier press release/official advisory (or Reuters/Bloomberg/FT/WSJ report citing the carrier) states the company is resuming routine Red Sea/Bab el-Mandeb transits; prior avoidance/suspension for \u226530 consecutive days is documented in their advisories or credible reporting.",
+      "evidence": [
+        "Ongoing security-driven transit decisions in the region remain central to shipping operations (context for resumption/avoidance dynamics)."
+      ],
+      "monitoring_signals": [
+        "Carrier routing advisories and security updates",
+        "UKMTO incident bulletins and maritime insurance war-risk premiums",
+        "AIS-based route share changes for major carriers"
+      ],
+      "rationale": "Firms often attempt partial resumptions when risk premiums stabilize; resumption announcements are common even if later reversed.",
+      "id": "453816cd-e4f9-4834-ac69-3829eaa52f59",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "BOEM (or the U.S. Department of the Interior) will publish new or revised financial assurance/bonding guidance for offshore wind that materially increases required bonding/guarantees (e.g., explicit higher per-MW or per-project security requirements) for at least one permitting stage, by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 175,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "A BOEM/Interior memo, guidance document, or Federal Register notice is published by the deadline and explicitly raises offshore-wind financial assurance/bonding requirements (or introduces a new required security instrument) relative to prior guidance for at least one stage (lease, COP approval, construction/operations).",
+      "evidence": [
+        "Developers are suing after the U.S. halted a large offshore wind pipeline, increasing the chance of additional administrative tightening: https://techcrunch.com/2026/01/05/offshore-wind-developers-sue-trump-administration-for-halting-25b-in-projects/"
+      ],
+      "monitoring_signals": [
+        "BOEM guidance page updates and Federal Register offshore wind notices",
+        "Interior/BOEM stakeholder calls referencing \u201cfinancial assurance\u201d",
+        "Developer disclosures on increased bonding demands in filings"
+      ],
+      "rationale": "If permitting is politically constrained, regulators may shift toward financial-risk controls; guidance changes are an accessible lever versus wholesale rulemaking.",
+      "id": "7c410c9c-0c73-42a6-a1f7-6708220e01f0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NHTSA will open a formal safety defect investigation (ODI) into a commercial driverless/robotaxi service operated in the U.S. (e.g., Waymo, Zoox, or similar) that cites a crash or near-miss incident occurring in 2026, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 359,
+      "deadline": "2026-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "NHTSA ODI posts a publicly viewable investigation entry (PE/EA) naming a company/vehicle system tied to a commercial driverless service, opened in 2026, and the ODI summary references a 2026 crash/incident as part of the investigative basis.",
+      "evidence": [
+        "Robotaxi competition and deployments are expanding, raising regulatory and safety scrutiny: https://www.cnbc.com/2026/01/05/nvidia-plans-to-test-a-robotaxi-service-in-2027-in-self-driving-push.html"
+      ],
+      "monitoring_signals": [
+        "NHTSA ODI investigation database updates",
+        "Local incident reports involving driverless vehicles",
+        "Company safety reports and recalls/voluntary software updates"
+      ],
+      "rationale": "As miles and service areas expand, incident probability rises; ODI openings are a common response even without severe injuries.",
+      "id": "d5dc9156-37e2-4da1-8e06-535af15b96b6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "A top-3 U.S. pharmacy benefit manager (CVS Caremark, Express Scripts, or Optum Rx) will announce national formulary coverage (not just case-by-case exceptions) for Novo Nordisk\u2019s oral GLP-1 obesity pill for chronic weight management, effective for at least one 2027 plan year offering, by 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 267,
+      "deadline": "2026-09-30",
+      "confidence_pct": 43,
+      "verification_criteria": "PBM press release/formulary update or major outlet report (Reuters/Bloomberg/WSJ/FT) confirms the oral obesity GLP-1 is included as a covered formulary option for chronic weight management for at least one broad national plan offering, with effective date or plan year stated.",
+      "evidence": [
+        "Novo Nordisk launched the first U.S. GLP-1 obesity pill, shifting competitive and payer dynamics: https://www.cnbc.com/2026/01/05/first-glp-1-pill-for-obesity-from-novo-nordisk-launches-in-the-us.html"
+      ],
+      "monitoring_signals": [
+        "PBM 2027 formulary previews and exclusions lists",
+        "Employer benefits announcements referencing oral GLP-1 coverage",
+        "Net price/rebate commentary in Novo earnings calls"
+      ],
+      "rationale": "Oral administration can broaden uptake; PBMs are likely to formalize coverage with strict utilization management as competition and rebate leverage rise.",
+      "id": "4f9587f3-f995-4702-865e-2e016bd14968",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NSIDC (or an equivalent authoritative source such as NOAA/NASA) will report that the 2026 Arctic sea-ice annual minimum extent ranks among the 5 lowest observed in the satellite record, by 2026-10-31 (UTC).",
+      "category": "other",
+      "horizon_days": 298,
+      "deadline": "2026-10-31",
+      "confidence_pct": 46,
+      "verification_criteria": "NSIDC/NOAA/NASA seasonal summary or dataset update published by the deadline states the 2026 minimum extent rank is 1st\u20135th lowest since the start of the satellite record (commonly 1979).",
+      "evidence": [
+        "New climate research suggests weaker CO2 uptake by plants than assumed, increasing climate pressure and likelihood of extreme indicators (context for heightened monitoring): https://www.sciencedaily.com/releases/2026/01/260104202809.htm"
+      ],
+      "monitoring_signals": [
+        "NSIDC daily extent graphs and anomaly trajectories through summer 2026",
+        "Arctic surface temperature anomalies and ocean heat content reports",
+        "Summer circulation pattern outlooks (AO/NAO) affecting melt"
+      ],
+      "rationale": "Recent years cluster near record lows; top-5 ranking is a moderate threshold that remains plausible given ongoing warming and variability.",
+      "id": "fff9b840-ac74-47dc-80b5-a7fb173459e4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

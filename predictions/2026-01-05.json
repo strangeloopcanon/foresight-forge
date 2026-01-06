@@ -18,7 +18,7 @@
       ],
       "rationale": "Public threats involving sovereignty often trigger rapid diplomatic demarches; Denmark has strong incentives to signal resolve while avoiding escalation.",
       "id": "8737124b-1539-4d6e-9578-76474368c3da",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "Heightened sovereignty pressure tends to accelerate visible deterrence and domain-awareness spending; Denmark can act domestically without needing treaty changes.",
       "id": "5da18668-297a-4c8e-8974-fde24fc35843",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "rationale": "If harmful outputs persist and complaints accumulate, EU privacy/online safety regulators often escalate from preliminary inquiries to formal procedures within months.",
       "id": "d4ac5c9d-b041-4c9a-ab75-e52cee7377b4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "rationale": "Malaysia has shown willingness to issue platform-specific directives; a live investigation increases odds of a concrete compliance order.",
       "id": "e3f64a2c-3d6f-4d7b-b452-0f14dd11fc9d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "Red Sea route decisions are highly sensitive to incident frequency; even short clusters of attacks can trigger week-long diversions.",
       "id": "5c121714-25b4-471d-95d9-709e4b804ab4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "An SPR action is politically attractive if retail fuel prices jump; however, operational and policy constraints make it far from certain.",
       "id": "0934ea20-cc1b-41ca-bfb6-6698b07c7e1d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "Geopolitical supply risk plus seasonal demand can push retail prices above salient thresholds, but requires sustained crude/product tightness.",
       "id": "b1ac82cc-0dbb-44ce-bc59-9451b6b7f3f1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "China is pushing for headline fusion milestones; however, duration records are technically challenging and reporting may lag or be ambiguous.",
       "id": "f9b47d4c-82a3-49fd-aadb-b822255a34cd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -180,7 +180,7 @@
       ],
       "rationale": "Public pressure and technology progress can trigger large targeted grant rounds, but scale depends on budget priorities and appropriations.",
       "id": "03c560f3-c64c-4cf3-ba40-3a68b8ef21be",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
