@@ -1,0 +1,186 @@
+{
+  "date": "2026-01-07",
+  "predictions": [
+    {
+      "text": "U.S. Commerce (BIS) will publish a new or revised export-control rule that adds explicit license requirements or tighter performance thresholds for exporting Nvidia H200-class (or newer) AI accelerators to China (including via Hong Kong), by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 266,
+      "deadline": "2026-09-30",
+      "confidence_pct": 42,
+      "verification_criteria": "A BIS Final Rule or Interim Final Rule in the Federal Register (or BIS press release) explicitly tightening controls that newly restricts/conditions export to China/Hong Kong of H200-class or successor advanced AI accelerators (by name or by clearly applicable technical thresholds).",
+      "evidence": [
+        "Nvidia reports very high China demand for H200 chips, increasing export-control sensitivity: https://www.cnbc.com/2026/01/06/huang-nvidia-seeing-very-high-demand-for-h200-ai-chips-from-china.html",
+        "Existing diversion/smuggling concerns are salient in current policy context (advanced computing controls)."
+      ],
+      "monitoring_signals": [
+        "BIS Federal Register notices on 'advanced computing' / semiconductor export controls",
+        "White House/Commerce statements about closing loopholes to China",
+        "Major media reports (Reuters/Bloomberg) about impending H200/Hopper/Ada restrictions"
+      ],
+      "rationale": "Surging reported demand for controlled accelerators in China and ongoing U.S. focus on tightening 'advanced computing' rules makes an incremental BIS revision plausible within 2026.",
+      "id": "3e6311e6-316c-43fa-b294-4394a0f48347",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. FTC will publicly confirm opening an investigation or compulsory process (CID) into Amazon\u2019s AI shopping tool practices (e.g., scraping, steering, unfair competition), by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 174,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "FTC press release, court filing to enforce a CID, or credible reporting by Reuters/Bloomberg/WSJ/FT stating the FTC opened an investigation or issued CIDs specifically tied to Amazon\u2019s AI shopping tool (or its AI-driven cross-site shopping/scraping behavior).",
+      "evidence": [
+        "Amazon\u2019s AI shopping tool sparks retailer backlash over scraping, pointing to regulatory risk: https://www.cnbc.com/2026/01/06/amazons-ai-shopping-tool-sparks-backlash-from-some-online-retailers.html"
+      ],
+      "monitoring_signals": [
+        "Retail trade groups submitting complaints to FTC",
+        "Reports of Amazon receiving CIDs/subpoenas",
+        "FTC agenda items referencing AI shopping agents, scraping, or platform self-preferencing"
+      ],
+      "rationale": "Retailer backlash creates a plausible trigger, but FTC action timelines are uncertain; probability remains modest within a six-month window.",
+      "id": "1dc80c7d-0f0c-419c-81a9-2dd3e9c5b65c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A top-20 U.S. e-commerce retailer (by U.S. online sales) will file a lawsuit in U.S. federal court against Amazon alleging unlawful scraping, unfair competition, or tortious interference linked to Amazon\u2019s AI shopping tool, by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 266,
+      "deadline": "2026-09-30",
+      "confidence_pct": 37,
+      "verification_criteria": "A publicly accessible federal court complaint (PACER) naming Amazon as defendant and explicitly referencing Amazon\u2019s AI shopping tool/agent and alleged scraping, interference, or unfair competition as a core factual basis.",
+      "evidence": [
+        "Retailer backlash indicates escalation risk from commercial dispute to litigation: https://www.cnbc.com/2026/01/06/amazons-ai-shopping-tool-sparks-backlash-from-some-online-retailers.html"
+      ],
+      "monitoring_signals": [
+        "Retailers updating robots.txt / access policies and issuing cease-and-desist letters",
+        "Public statements by major retailers about pursuing legal remedies",
+        "Pre-litigation demand letters or arbitration notices reported by major outlets"
+      ],
+      "rationale": "If scraping affects traffic/conversion, one large retailer may litigate; however, many may prefer technical blocks or negotiations first.",
+      "id": "d0afcc16-4d09-41bb-bf12-6374ed10cb52",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Meta will officially resume and announce a broad international retail rollout (outside the U.S.) of Ray-Ban Display glasses (or a directly successor SKU) in at least two new countries, by 2026-05-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 144,
+      "deadline": "2026-05-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Meta (or EssilorLuxottica/Ray-Ban) press release, official product page availability update, or major outlet report confirming consumer retail availability in at least two additional countries relative to the paused rollout, with start date on or before the deadline.",
+      "evidence": [
+        "Meta pauses international rollout due to inventory constraints, implying later catch-up expansion: https://www.cnbc.com/2026/01/06/meta-ray-ban-display-ai-glasses-pause.html"
+      ],
+      "monitoring_signals": [
+        "Restocking/lead-time improvements and supplier commentary",
+        "New regulatory filings/certifications in target countries",
+        "Meta earnings calls mentioning supply normalization and expansion dates"
+      ],
+      "rationale": "A pause due to inventory typically implies planned resumption once supply catches up; rollout timing is the main uncertainty.",
+      "id": "8acec4a0-3758-4baf-b7cd-43ab3bde5372",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "xAI will publicly commit to (or be credibly reported to have placed) a single order or multi-year agreement for at least 50,000 Nvidia H200/H300-class GPUs (or equivalent top-tier AI accelerators), by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 357,
+      "deadline": "2026-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Company statement (xAI/Nvidia) or Reuters/Bloomberg/FT/WSJ report specifying xAI has contracted/ordered \u226550,000 H200/H300-class (or clearly equivalent) GPUs in a single program/deal, or a disclosed total of that magnitude tied to one agreement.",
+      "evidence": [
+        "xAI raises $20B, supporting a major compute scale-up: https://www.cnbc.com/2026/01/06/elon-musk-xai-raises-20-billion-from-nvidia-cisco-investors.html"
+      ],
+      "monitoring_signals": [
+        "xAI data-center announcements and leasing/power purchase deals",
+        "Nvidia partner disclosures referencing xAI cluster deployments",
+        "Import/shipping leaks, supplier/channel checks reported by major media"
+      ],
+      "rationale": "Large fundraising increases likelihood of hyperscale GPU commitments, but the threshold is high and disclosures may be opaque.",
+      "id": "f580c2f8-23ff-425d-b8ed-1cb294805305",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A major brokerage (CBRE, JLL, Cushman & Wakefield, Savills, or Colliers) will report Manhattan office leasing volume in 2026 Q2 at least 10% higher than 2025 Q2, by 2026-07-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 205,
+      "deadline": "2026-07-31",
+      "confidence_pct": 44,
+      "verification_criteria": "A published 2026 Q2 Manhattan office market report from one of the named brokerages stating leasing volume (sq ft) for 2026 Q2 and 2025 Q2, with 2026 Q2 \u2265 1.10 \u00d7 2025 Q2.",
+      "evidence": [
+        "Manhattan office leasing posts strongest Q4 in six years, suggesting momentum into 2026: https://www.cnbc.com/2026/01/06/manhattan-q4-office-leasing-rebound.html"
+      ],
+      "monitoring_signals": [
+        "Brokerage preview notes indicating strong tour activity and large renewals",
+        "Corporate RTO policy changes affecting space demand",
+        "Large lease announcements (10-year+ terms) reported in NYC real estate media"
+      ],
+      "rationale": "A strong Q4 can carry into mid-year, but leasing is lumpy and sensitive to macro conditions and large single deals.",
+      "id": "5190d4d3-e04f-449e-933a-22a67da74991",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "TrendForce (or another widely cited pricing tracker such as DRAMeXchange) will report that the contract price for mainstream server DRAM (e.g., DDR5 RDIMM) is at least 20% higher in 2026 Q2 than in 2026 Q1, by 2026-07-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 205,
+      "deadline": "2026-07-31",
+      "confidence_pct": 53,
+      "verification_criteria": "A TrendForce/DRAMeXchange (or equivalent widely cited tracker) publication reporting quarterly contract-price changes showing 2026 Q2 server DRAM contract price level \u2265 1.20 \u00d7 2026 Q1 level for a mainstream category (explicitly stated or directly computable from the report).",
+      "evidence": [
+        "Semiconductor rally fueled by memory shortages and price hikes implies tightening DRAM pricing: https://www.cnbc.com/2026/01/06/semiconductor-stocks-rally-led-by-asml-tsmc-samsung.html"
+      ],
+      "monitoring_signals": [
+        "Quarterly DRAM contract pricing updates from TrendForce/DRAMeXchange",
+        "Supplier guidance (Samsung/SK hynix/Micron) about allocation and ASPs",
+        "Hyperscaler capex and server build forecasts affecting memory demand"
+      ],
+      "rationale": "Recent shortage narrative supports higher prices; 20% QoQ is ambitious but plausible in a tight cycle.",
+      "id": "8cb040a7-5b69-444f-a10e-bf2cae0a85d2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Department of Energy Loan Programs Office (LPO) will issue a conditional commitment of at least $1.0B for a small modular reactor (SMR) project in the U.S., by 2026-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 357,
+      "deadline": "2026-12-31",
+      "confidence_pct": 29,
+      "verification_criteria": "DOE/LPO press release or official project page documenting an LPO conditional commitment (or equivalent formal financing commitment) with total loan/guarantee amount \u2265 $1.0B for a U.S.-sited SMR project.",
+      "evidence": [
+        "Rising nuclear/SMR optimism amid grid reliability needs: https://techcrunch.com/2026/01/06/commonwealth-fusion-systems-installs-reactor-magnet-lands-deal-with-nvidia/"
+      ],
+      "monitoring_signals": [
+        "LPO pipeline updates listing nuclear/SMR applicants",
+        "SMR developer announcements on offtake, EPC partners, and site permits",
+        "Congress/DOE statements prioritizing firm clean power for data centers"
+      ],
+      "rationale": "Policy and demand tailwinds exist, but LPO timelines and permitting complexity keep near-term odds low.",
+      "id": "7bbbe337-b17d-4cd4-9abb-04f02e30dcde",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Commonwealth Fusion Systems (CFS) will announce (or be credibly reported to have scheduled) a first-plasma target date for SPARC within 12 months, by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 174,
+      "deadline": "2026-06-30",
+      "confidence_pct": 41,
+      "verification_criteria": "CFS press release, investor update, or major-media report (Reuters/Bloomberg/FT/WSJ/TechCrunch) stating a specific month/quarter for SPARC first plasma that lies within 12 months of the announcement date, published on or before the deadline.",
+      "evidence": [
+        "CFS installs a key magnet and signs Nvidia deal, indicating program momentum: https://techcrunch.com/2026/01/06/commonwealth-fusion-systems-installs-reactor-magnet-lands-deal-with-nvidia/"
+      ],
+      "monitoring_signals": [
+        "CFS construction milestones (cryostat, tokamak hall, power systems)",
+        "Regulatory and site-permitting updates for SPARC/ARC",
+        "Procurement announcements for remaining major components"
+      ],
+      "rationale": "Major milestone progress often precedes timeline commitments, but fusion schedules frequently slip and companies may avoid hard dates.",
+      "id": "a11dfdaf-3d70-4d4b-b3f5-79012f4bd109",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

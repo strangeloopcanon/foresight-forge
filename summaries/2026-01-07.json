@@ -1,0 +1,126 @@
+{
+  "bullets": [
+    {
+      "text": "Fed discount-rate minutes highlight ongoing focus on inflation risks and liquidity backstops, shaping expectations for the policy path and bank funding conditions.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm"
+    },
+    {
+      "text": "Fed enforcement action involving a former Regions Bank employee underscores tighter supervision and personal-accountability trends that can raise compliance costs for banks.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260106a.htm"
+    },
+    {
+      "text": "Post-Maduro Venezuela becomes a major U.S. geopolitical and energy lever; Washington seeks to push out Cuban, Chinese, Russian, and Iranian advisers.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/01/06/world/americas/us-venezuela-cuba-russia-china-iran.html"
+    },
+    {
+      "text": "Trump proposes Venezuela send up to 50M barrels to the U.S. with U.S.-controlled proceeds\u2014potentially altering sanctions, refining margins, and Russia\u2019s leverage.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/06/trump-venezuela-oil.html"
+    },
+    {
+      "text": "Rubio says Trump wants to buy Greenland; markets and Congress react, highlighting strategic competition over Arctic resources, shipping routes, and U.S. basing.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/01/06/us/politics/rubio-trump-greenland.html"
+    },
+    {
+      "text": "xAI raises $20B (backed by major tech/finance names), intensifying the compute-and-model arms race and boosting demand for advanced AI chips and infrastructure.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/06/elon-musk-xai-raises-20-billion-from-nvidia-cisco-investors.html"
+    },
+    {
+      "text": "Semiconductor rally fueled by memory shortages and price hikes signals a tightening supply cycle with broad spillovers to hardware margins and inflation-sensitive electronics.",
+      "tags": [
+        "markets",
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/06/semiconductor-stocks-rally-led-by-asml-tsmc-samsung.html"
+    },
+    {
+      "text": "Nvidia reports very high China demand for H200 chips, underscoring persistent cross-border AI demand and the geopolitical sensitivity of export controls.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/06/huang-nvidia-seeing-very-high-demand-for-h200-ai-chips-from-china.html"
+    },
+    {
+      "text": "Meta pauses international rollout of Ray-Ban Display glasses due to inventory constraints, showing consumer AI-device demand but supply limits slowing global scaling.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/06/meta-ray-ban-display-ai-glasses-pause.html"
+    },
+    {
+      "text": "Amazon\u2019s AI shopping tool sparks retailer backlash over web scraping, signaling looming legal/regulatory fights over data access and platform power in AI commerce.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/06/amazons-ai-shopping-tool-sparks-backlash-from-some-online-retailers.html"
+    },
+    {
+      "text": "Fusion and nuclear momentum rises: Commonwealth Fusion installs key magnet and signs Nvidia deal, while SMR optimism grows amid decarbonization and grid reliability needs.",
+      "tags": [
+        "energy",
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/01/06/commonwealth-fusion-systems-installs-reactor-magnet-lands-deal-with-nvidia/"
+    },
+    {
+      "text": "Manhattan office leasing posts strongest Q4 in six years, suggesting a potential urban CRE stabilization that could affect bank exposures and property valuations.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/06/manhattan-q4-office-leasing-rebound.html"
+    },
+    {
+      "text": "New research: a two-drug combination shows promise against liver fibrosis, a major unmet need with large potential impact on chronic-disease costs and pharma pipelines.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260106001906.htm"
+    },
+    {
+      "text": "Scientists report a safer opioid pain-relief approach, potentially shifting addiction-risk economics and prescribing practices if results translate clinically.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260105165817.htm"
+    },
+    {
+      "text": "Robots smaller than a grain of salt that can \u2018think\u2019 hint at future micro-automation for medicine and manufacturing, but raise safety and governance questions.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm"
+    }
+  ]
+}

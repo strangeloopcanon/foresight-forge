@@ -19,7 +19,7 @@
       ],
       "rationale": "High-profile capture/detention of a sitting head of state commonly triggers UNSC discussion even absent binding action; procedural meeting is easier than passing a resolution.",
       "id": "c8591693-5e4b-47ab-b184-4e8036d133a0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "EU has both political pressure and a clear regulatory pathway; opening proceedings is a lower bar than final penalties.",
       "id": "3b535a05-787f-4b0e-8b76-7f53e1c05767",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Political instability plus grid fragility makes additional nationwide disruptions plausible; the threshold is moderate (12h, 50%).",
       "id": "5322132b-6dcc-46bb-a473-eecd36f31500",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "Given elevated geopolitical risk premia and supply uncertainty, a brief spike to $95 is plausible even if sustained prices are not.",
       "id": "4a7681b7-af4a-4361-aa8d-c92d6d083ce9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "Firms often attempt partial resumptions when risk premiums stabilize; resumption announcements are common even if later reversed.",
       "id": "453816cd-e4f9-4834-ac69-3829eaa52f59",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "If permitting is politically constrained, regulators may shift toward financial-risk controls; guidance changes are an accessible lever versus wholesale rulemaking.",
       "id": "7c410c9c-0c73-42a6-a1f7-6708220e01f0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "As miles and service areas expand, incident probability rises; ODI openings are a common response even without severe injuries.",
       "id": "d5dc9156-37e2-4da1-8e06-535af15b96b6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Oral administration can broaden uptake; PBMs are likely to formalize coverage with strict utilization management as competition and rebate leverage rise.",
       "id": "4f9587f3-f995-4702-865e-2e016bd14968",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Recent years cluster near record lows; top-5 ranking is a moderate threshold that remains plausible given ongoing warming and variability.",
       "id": "fff9b840-ac74-47dc-80b5-a7fb173459e4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
