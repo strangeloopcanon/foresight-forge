@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-07",
+  "assessments": [
+    {
+      "id": "3e6311e6-316c-43fa-b294-4394a0f48347",
+      "status": "pending",
+      "status_rationale": "Today\u2019s headlines do not mention BIS/Commerce issuing a new or revised export-control rule targeting Nvidia H200-class (or newer) accelerators to China/Hong Kong, nor any Federal Register-style rulemaking update."
+    },
+    {
+      "id": "1dc80c7d-0f0c-419c-81a9-2dd3e9c5b65c",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates the FTC publicly confirmed an investigation/CID concerning Amazon\u2019s AI shopping tool practices."
+    },
+    {
+      "id": "d0afcc16-4d09-41bb-bf12-6374ed10cb52",
+      "status": "pending",
+      "status_rationale": "There is no reported federal-court lawsuit by a top-20 U.S. e-commerce retailer against Amazon related to AI shopping tools, scraping, or tortious interference in today\u2019s bullets."
+    },
+    {
+      "id": "8acec4a0-3758-4baf-b7cd-43ab3bde5372",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news does not reference Meta announcing an international retail rollout of Ray-Ban Display glasses (or successor) into at least two new countries."
+    },
+    {
+      "id": "f580c2f8-23ff-425d-b8ed-1cb294805305",
+      "status": "pending",
+      "status_rationale": "No credible report or public commitment is cited today about xAI placing an order/agreement for \u226550,000 Nvidia H200/H300-class GPUs (or equivalent accelerators)."
+    },
+    {
+      "id": "5190d4d3-e04f-449e-933a-22a67da74991",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not include a CBRE/JLL/Cushman & Wakefield/Savills/Colliers report on Manhattan office leasing volume for 2026 Q2 versus 2025 Q2."
+    },
+    {
+      "id": "8cb040a7-5b69-444f-a10e-bf2cae0a85d2",
+      "status": "pending",
+      "status_rationale": "No pricing-tracker update (TrendForce/DRAMeXchange, etc.) appears today indicating server DRAM contract prices in 2026 Q2 are \u226520% higher than 2026 Q1."
+    },
+    {
+      "id": "7bbbe337-b17d-4cd4-9abb-04f02e30dcde",
+      "status": "pending",
+      "status_rationale": "There is no mention today of the DOE Loan Programs Office issuing a \u2265$1.0B conditional commitment for a U.S. SMR project."
+    },
+    {
+      "id": "a11dfdaf-3d70-4d4b-b3f5-79012f4bd109",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage does not mention Commonwealth Fusion Systems announcing (or being credibly reported to have scheduled) a SPARC first-plasma target date within 12 months."
+    }
+  ]
+}

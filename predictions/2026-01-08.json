@@ -1,0 +1,194 @@
+{
+  "date": "2026-01-08",
+  "predictions": [
+    {
+      "text": "Alphabet (GOOGL) will close with a larger market capitalization than Apple (AAPL) for at least 10 consecutive U.S. trading sessions, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 173,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081081643,
+      "verification_criteria": "Using daily closing market capitalization computed from official closing prices and shares outstanding (as reported by major market-data providers such as Bloomberg/Refinitiv/FactSet), Alphabet's market cap must exceed Apple's on 10 consecutive trading-day closes on or before 2026-06-30 UTC.",
+      "evidence": [
+        "CNBC: Alphabet\u2019s market cap surpassed Apple\u2019s for the first time since 2019 (2026-01-07): https://www.cnbc.com/2026/01/07/alphabets-market-cap-surpasses-apples-for-first-time-since-2019.html"
+      ],
+      "monitoring_signals": [
+        "Daily AAPL vs GOOGL/GOOG closing market cap from Bloomberg/Refinitiv",
+        "Quarterly filings affecting share counts (10-Q/10-K) and major buyback announcements",
+        "Large AI product announcements impacting revenue expectations (Search/ads, AI models, hardware)"
+      ],
+      "rationale": "A single crossover has occurred; persistence depends on relative earnings revisions and AI-related sentiment/positioning through mid-2026.",
+      "id": "395f0325-c716-4051-88d9-ace659c8363b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Anthropic will be credibly reported (e.g., Reuters/Bloomberg/FT/WSJ/CNBC) to have closed a new funding round raising at least $7.5B (USD) at a post-money valuation of at least $250B, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 173,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.20067069546215124,
+      "verification_criteria": "At least one of Reuters, Bloomberg, FT, WSJ, or CNBC reports round closure (not just talks/term sheet) with both: (1) proceeds raised >= $7.5B and (2) post-money valuation >= $250B, on or before 2026-06-30 UTC.",
+      "evidence": [
+        "CNBC: Anthropic reportedly raising $10B at a $350B valuation (2026-01-07): https://www.cnbc.com/2026/01/07/anthropic-funding-term-sheet-valuation.html"
+      ],
+      "monitoring_signals": [
+        "Follow-on reporting confirming round close vs term sheet",
+        "Investor/LP disclosures and SEC Form D (if filed) for Anthropic-related vehicles",
+        "Compute supply announcements (large GPU/TPU commitments) signaling capital deployment"
+      ],
+      "rationale": "Mega-round momentum exists, but valuation and close risk remain high given scale and potential regulatory/strategic investor constraints.",
+      "id": "58faa64c-0ab3-4a42-8316-30ea71291c4a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Apple will publish an Apple Card customer notice and/or updated Apple Card terms that explicitly name JPMorgan Chase (or an affiliated JPMorgan issuer bank) as the new issuer/servicer replacing Goldman Sachs, by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 265,
+      "deadline": "2026-09-30",
+      "confidence_pct": 55,
+      "log_odds": 0.20067069546215124,
+      "verification_criteria": "Apple (or Apple Card program websites/email notices) must publish updated terms, a transition FAQ, or a customer notice that explicitly identifies JPMorgan Chase (or a named JPMorgan affiliate) as issuer/servicer for Apple Card, dated on or before 2026-09-30 UTC.",
+      "evidence": [
+        "CNBC: JPMorgan will become Apple Card issuer, ending Goldman\u2019s consumer push (2026-01-07): https://www.cnbc.com/2026/01/07/jpmorgan-apple-credit-card.html"
+      ],
+      "monitoring_signals": [
+        "Apple Card 'Terms and Conditions' and issuer disclosures",
+        "Regulatory approval indicators (OCC/FDIC/Fed disclosures if applicable)",
+        "Goldman Sachs earnings commentary on platform exits and timeline"
+      ],
+      "rationale": "If issuer transition is real, customer-facing legal notices typically follow within months; timing risk comes from regulatory and operational migration complexity.",
+      "id": "5aabf3d3-4318-45b8-9ac1-9d575e1d3c28",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. HHS Office for Civil Rights (OCR) will publicly open an investigation, issue a notice of inquiry, or announce a compliance action that explicitly references OpenAI\u2019s ChatGPT Health (or OpenAI\u2019s consumer health-record integration) and privacy/security obligations, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 357,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "log_odds": -0.8472978603872037,
+      "verification_criteria": "OCR (HHS) must publish (press release, bulletin, enforcement page update, or other official communication) indicating an opened investigation/inquiry or compliance action that names OpenAI/ChatGPT Health and references privacy/security obligations, on or before 2026-12-31 UTC.",
+      "evidence": [
+        "OpenAI: Launch of ChatGPT Health connecting medical records and wellness apps (2026-01-07): https://openai.com/index/introducing-chatgpt-health/"
+      ],
+      "monitoring_signals": [
+        "OCR enforcement updates and press releases",
+        "High-profile data incident reports involving health-record integrations",
+        "State AG inquiries into consumer health privacy (WA MHMD, CA CPRA health data angles)"
+      ],
+      "rationale": "Consumer health-data integrations raise scrutiny risk, but OCR actions naming a specific product are relatively infrequent without a major incident.",
+      "id": "097a4e98-e4ac-49ee-97b5-b033a3730ef8",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Character.AI will roll out a U.S.-facing, product-default age-assurance control that includes either ID verification or selfie/biometric age estimation for users who declare they are under 18 (or for all users), by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 173,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084062235,
+      "verification_criteria": "Character.AI must publicly document (release notes, safety policy, help center, or press statement) and implement in-product in the U.S. an age-assurance mechanism that includes ID verification or selfie/biometric age estimation, effective on or before 2026-06-30 UTC.",
+      "evidence": [
+        "CNBC: Google and Character.AI settlements in teen chatbot death cases (2026-01-07): https://www.cnbc.com/2026/01/07/google-characterai-to-settle-suits-involving-suicides-ai-chatbots.html"
+      ],
+      "monitoring_signals": [
+        "Character.AI policy/help-center updates on age gating",
+        "App store release notes and UI changes indicating verification flows",
+        "Additional litigation filings demanding specific safety/age controls"
+      ],
+      "rationale": "Settlement and litigation pressure can drive stronger age controls, but ID/selfie-based verification is costly and may face user-retention and privacy pushback.",
+      "id": "a8a2761b-c67f-4b46-8260-5b436e97dfb5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A bill will be introduced in either chamber of the U.S. Congress that restricts single-family home purchases by large institutional investors, defining eligibility using an ownership threshold of 50+ single-family homes (or an equivalent numeric threshold), by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 82,
+      "deadline": "2026-03-31",
+      "confidence_pct": 60,
+      "log_odds": 0.4054651081081642,
+      "verification_criteria": "Congress.gov must show a bill introduced on or before 2026-03-31 UTC whose text (or official summary) restricts single-family home purchases by institutional investors and includes a numeric ownership threshold of at least 50 homes (or equivalent numeric definition).",
+      "evidence": [
+        "Reuters: Trump proposes banning large institutional investors from buying single-family homes (2026-01-07): https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/"
+      ],
+      "monitoring_signals": [
+        "Congress.gov keyword alerts: 'institutional investor', 'single-family', 'hedge fund landlord', 'REIT purchase'",
+        "White House fact sheets translating proposal into legislative language",
+        "Housing committee hearings or draft discussion texts"
+      ],
+      "rationale": "Public presidential proposal often prompts a legislative vehicle quickly, even if passage odds are lower.",
+      "id": "5047ff92-0a54-4d37-b16f-202294194716",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. Department of Defense will issue a formal written policy (memo, DFARS proposed rule, or contract clause guidance) that conditions at least one category of defense contracting eligibility or evaluation on limits to dividends and/or share buybacks, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 173,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084062235,
+      "verification_criteria": "A DoD-issued document (official memo/guidance) or Federal Register notice (DFARS action) must explicitly tie contract eligibility/evaluation to restrictions or reporting requirements on dividends/buybacks for contractors, published on or before 2026-06-30 UTC.",
+      "evidence": [
+        "CNBC: Trump says he will bar defense contractors from dividends and buybacks (2026-01-07): https://www.cnbc.com/2026/01/07/trump-dividends-stock-buybacks-defense-companies.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register: DFARS proposed rules mentioning dividends, buybacks, capital returns",
+        "DoD acquisition policy memos and procurement guidance updates",
+        "Earnings-call commentary from top defense primes about new contracting conditions"
+      ],
+      "rationale": "Political signaling is strong, but translating it into enforceable procurement policy is procedurally complex and may face legal/industry resistance.",
+      "id": "600e0216-c4b2-4383-be3c-40dcb33cc5b3",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "BLS will report U.S. JOLTS job openings (seasonally adjusted) below 7.5 million in at least one monthly release, by 2026-07-07 (UTC).",
+      "category": "macro",
+      "horizon_days": 180,
+      "deadline": "2026-07-07",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "In any JOLTS release published on or before 2026-07-07 UTC, the 'Job Openings' level (seasonally adjusted, total nonfarm) must be < 7.5 million for the referenced month.",
+      "evidence": [
+        "BLS JOLTS: openings and hires little changed in November; separations steady (2026-01-07): https://www.bls.gov/news.release/archives/jolts_01072026.htm"
+      ],
+      "monitoring_signals": [
+        "Monthly JOLTS releases (openings, quits, hires)",
+        "Conference Board labor differential and Indeed job postings indices",
+        "Fed communications emphasizing labor-market rebalancing"
+      ],
+      "rationale": "A cooling-but-stable labor market makes a dip below 7.5M plausible within two quarters, but re-acceleration risk remains if growth surprises.",
+      "id": "986ae5bf-ac4e-48f3-8714-e04495c4a141",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. federal government (EPA, FEMA, HHS/CDC, or HUD) will announce a competitive grant program totaling at least $500 million aimed at wildfire-smoke exposure mitigation (e.g., indoor air filtration, clean air shelters, smoke forecasting/monitoring), by 2026-09-30 (UTC).",
+      "category": "other",
+      "horizon_days": 265,
+      "deadline": "2026-09-30",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081081643,
+      "verification_criteria": "A U.S. federal agency must publish a NOFO/FOA or official announcement on or before 2026-09-30 UTC for a competitively awarded grant program (not formula funding) with total program funding >= $500 million, with primary purpose described as wildfire smoke/air-quality exposure mitigation.",
+      "evidence": [
+        "ScienceDaily: Research suggests wildfire pollution may be far higher than estimated (2026-01-07): https://www.sciencedaily.com/releases/2026/01/260107012114.htm"
+      ],
+      "monitoring_signals": [
+        "Grants.gov searches: 'wildfire smoke', 'air filtration', 'clean air shelter'",
+        "EPA and FEMA resilience funding announcements; state/federal smoke preparedness initiatives",
+        "Severe wildfire season indicators (drought indices, early large-fire activity)"
+      ],
+      "rationale": "If wildfire smoke health costs are revised upward, agencies may respond with sizable mitigation funding; budget constraints and program design could delay awards.",
+      "id": "919dd5b4-a221-41f9-9ffa-e4580bad7b43",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

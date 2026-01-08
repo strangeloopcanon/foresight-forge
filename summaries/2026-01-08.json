@@ -1,0 +1,119 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. JOLTS: job openings and hires little changed in November; total separations steady, signaling a cooling-but-stable labor market.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/jolts_01072026.htm"
+    },
+    {
+      "text": "U.S. seized two oil tankers tied to Venezuela sanctions, escalating enforcement and raising shipping/insurance risks around sanctioned crude flows.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/01/07/briefing/us-oil-tankers-venezuela.html"
+    },
+    {
+      "text": "White House says Trump reserves right to use military force to secure U.S. oil interests in Venezuela, heightening geopolitical tail risk for oil markets.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/07/trump-reserves-right-to-use-military-to-secure-oil-interests-in-venezuela.html"
+    },
+    {
+      "text": "Sources: Venezuela will ship sanctioned oil to the U.S. indefinitely with reduced sanctions, potentially increasing supply and pressuring global crude prices.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/07/oil-sales-from-venezuela-to-continue-indefinitely-sanctions-will-be-reduced-source-says.html"
+    },
+    {
+      "text": "Oil majors say Venezuela owes billions for past investments; recovery hinges on shifting U.S. policy and Caracas stability, affecting project valuations and litigation strategies.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/01/07/business/energy-environment/trump-venezuela-oil-exxon-mobil-conocophillips.html"
+    },
+    {
+      "text": "Trump proposes banning large institutional investors from buying single-family homes; experts doubt it materially lowers housing costs without more supply.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/"
+    },
+    {
+      "text": "Trump says he will bar defense contractors from dividends and buybacks; shares fell, highlighting rising political risk around capital returns and procurement leverage.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/07/trump-dividends-stock-buybacks-defense-companies.html"
+    },
+    {
+      "text": "Greenland becomes a U.S.-China strategic flashpoint over Arctic security and critical minerals; Rubio to meet Denmark, while lawmakers downplay military threats.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/07/why-trump-wants-greenland-and-what-makes-it-so-important-for-security.html"
+    },
+    {
+      "text": "JPMorgan will become Apple Card issuer, ending Goldman\u2019s consumer push; underscores retrenchment from low-margin consumer finance and stronger bank-platform tie-ups.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/07/jpmorgan-apple-credit-card.html"
+    },
+    {
+      "text": "Alphabet\u2019s market cap surpassed Apple\u2019s for the first time since 2019, signaling investor rotation toward AI-driven growth and ad resilience.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/07/alphabets-market-cap-surpasses-apples-for-first-time-since-2019.html"
+    },
+    {
+      "text": "Anthropic reportedly raising $10B at a $350B valuation, illustrating continued mega-round funding despite higher rates and intensifying AI compute competition.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/07/anthropic-funding-term-sheet-valuation.html"
+    },
+    {
+      "text": "OpenAI launched ChatGPT Health to connect medical records and wellness apps, accelerating consumer health AI while raising privacy, compliance, and liability stakes.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://openai.com/index/introducing-chatgpt-health/"
+    },
+    {
+      "text": "Google and Character.AI settlements in teen chatbot death cases may set precedents for AI safety duties, product design constraints, and litigation risk across consumer AI.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/07/google-characterai-to-settle-suits-involving-suicides-ai-chatbots.html"
+    },
+    {
+      "text": "Research: wildfire pollution may be far higher than estimated, implying bigger public-health costs and strengthening the economic case for fire mitigation and air-quality policy.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260107012114.htm"
+    },
+    {
+      "text": "Scientists built human brain circuits in the lab, a step toward better neuroscience models and drug testing\u2014alongside significant ethical and regulatory questions.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260106224630.htm"
+    }
+  ]
+}

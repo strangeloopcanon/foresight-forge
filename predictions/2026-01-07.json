@@ -19,7 +19,7 @@
       ],
       "rationale": "Surging reported demand for controlled accelerators in China and ongoing U.S. focus on tightening 'advanced computing' rules makes an incremental BIS revision plausible within 2026.",
       "id": "3e6311e6-316c-43fa-b294-4394a0f48347",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Retailer backlash creates a plausible trigger, but FTC action timelines are uncertain; probability remains modest within a six-month window.",
       "id": "1dc80c7d-0f0c-419c-81a9-2dd3e9c5b65c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "If scraping affects traffic/conversion, one large retailer may litigate; however, many may prefer technical blocks or negotiations first.",
       "id": "d0afcc16-4d09-41bb-bf12-6374ed10cb52",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "A pause due to inventory typically implies planned resumption once supply catches up; rollout timing is the main uncertainty.",
       "id": "8acec4a0-3758-4baf-b7cd-43ab3bde5372",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "Large fundraising increases likelihood of hyperscale GPU commitments, but the threshold is high and disclosures may be opaque.",
       "id": "f580c2f8-23ff-425d-b8ed-1cb294805305",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "A strong Q4 can carry into mid-year, but leasing is lumpy and sensitive to macro conditions and large single deals.",
       "id": "5190d4d3-e04f-449e-933a-22a67da74991",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Recent shortage narrative supports higher prices; 20% QoQ is ambitious but plausible in a tight cycle.",
       "id": "8cb040a7-5b69-444f-a10e-bf2cae0a85d2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Policy and demand tailwinds exist, but LPO timelines and permitting complexity keep near-term odds low.",
       "id": "7bbbe337-b17d-4cd4-9abb-04f02e30dcde",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Major milestone progress often precedes timeline commitments, but fusion schedules frequently slip and companies may avoid hard dates.",
       "id": "a11dfdaf-3d70-4d4b-b3f5-79012f4bd109",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
