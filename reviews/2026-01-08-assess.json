@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-08",
+  "assessments": [
+    {
+      "id": "395f0325-c716-4051-88d9-ace659c8363b",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items include general market/rotation coverage but no clear evidence that Alphabet has exceeded Apple\u2019s market cap for 10 consecutive U.S. trading sessions, nor any definitive market-cap comparison over a 10-session window."
+    },
+    {
+      "id": "58faa64c-0ab3-4a42-8316-30ea71291c4a",
+      "status": "pending",
+      "status_rationale": "No bullet cites Reuters/Bloomberg/FT/WSJ/CNBC reporting that Anthropic closed a funding round of at least $7.5B at a $250B+ post-money valuation."
+    },
+    {
+      "id": "5aabf3d3-4318-45b8-9ac1-9d575e1d3c28",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s bullets indicates Apple issued an Apple Card customer notice or updated terms explicitly naming JPMorgan Chase as issuer/servicer replacing Goldman Sachs."
+    },
+    {
+      "id": "097a4e98-e4ac-49ee-97b5-b033a3730ef8",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s bullets that HHS OCR has opened an investigation, issued a notice, or announced a compliance action explicitly referencing OpenAI\u2019s ChatGPT Health or a consumer health-record integration."
+    },
+    {
+      "id": "a8a2761b-c67f-4b46-8260-5b436e97dfb5",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention Character.AI or any rollout of ID verification or selfie/biometric age estimation as a product-default age-assurance control."
+    },
+    {
+      "id": "5047ff92-0a54-4d37-b16f-202294194716",
+      "status": "pending",
+      "status_rationale": "No bullet indicates a new bill introduced in either chamber restricting single-family home purchases by large institutional investors with a 50+ homes (or similar) threshold."
+    },
+    {
+      "id": "600e0216-c4b2-4383-be3c-40dcb33cc5b3",
+      "status": "pending",
+      "status_rationale": "While there is coverage of proposed large military spending and defense-stock moves, nothing indicates DoD issued a formal written policy (memo/DFARS proposed rule/contract clause guidance) tying contracting eligibility or evaluation to limits on dividends or buybacks."
+    },
+    {
+      "id": "986ae5bf-ac4e-48f3-8714-e04495c4a141",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items note an upcoming jobs report but do not provide a BLS JOLTS release showing job openings below 7.5 million."
+    },
+    {
+      "id": "919dd5b4-a221-41f9-9ffa-e4580bad7b43",
+      "status": "pending",
+      "status_rationale": "No bullet reports a federal announcement (EPA/FEMA/HHS-CDC/HUD) of a competitive grant program totaling $500M+ focused on wildfire-smoke exposure mitigation."
+    }
+  ]
+}

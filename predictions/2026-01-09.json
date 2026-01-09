@@ -1,0 +1,206 @@
+{
+  "date": "2026-01-09",
+  "predictions": [
+    {
+      "text": "BLS will report U.S. Dec 2025 nonfarm payroll employment growth between +100,000 and +225,000 (inclusive) AND an unemployment rate between 3.7% and 4.0% (inclusive).",
+      "category": "macro",
+      "horizon_days": 1,
+      "deadline": "2026-01-10",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if the BLS Employment Situation release for December 2025 shows (1) total nonfarm payrolls change within [100k, 225k] and (2) U-3 unemployment rate within [3.7%, 4.0%]. Otherwise NO.",
+      "evidence": [
+        "Near-term focus on the upcoming U.S. jobs report as a key rate/market catalyst (CNBC, 2026-01-08): https://www.cnbc.com/2026/01/08/the-december-jobs-report-is-due-out-friday-what-its-expected-to-show.html",
+        "Recent productivity and unit labor cost dynamics influence labor-market expectations (BLS, 2026-01-08): https://www.bls.gov/news.release/archives/prod2_01082026.htm"
+      ],
+      "monitoring_signals": [
+        "Consensus estimates (Bloomberg/Reuters) for Dec payrolls and unemployment rate",
+        "ADP private payrolls and weekly initial claims trend leading into the release",
+        "CME FedWatch and front-end rates reaction expectations"
+      ],
+      "rationale": "A moderate payroll print and stable jobless rate best matches late-2025 disinflationary labor-cost data while avoiding an abrupt labor-market break.",
+      "id": "2880363b-fa0a-4f17-a8f3-447c0b2b30c8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "China\u2019s PBoC will announce at least one reserve-requirement ratio (RRR) cut of at least 25 bps for banks by 2026-06-30.",
+      "category": "macro",
+      "horizon_days": 172,
+      "deadline": "2026-06-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Resolves YES if the PBoC (or State Council/PBoC joint notice) publicly announces an RRR reduction (broad-based or targeted) where the stated cut size is \u22650.25 percentage points, anytime from 2026-01-09 through 2026-06-30. Otherwise NO.",
+      "evidence": [
+        "China inflation acceleration complicates stimulus but uneven demand persists (CNBC, 2026-01-09): https://www.cnbc.com/2026/01/09/china-december-inflation-cpi-ppi-prices-demand-weakness.html"
+      ],
+      "monitoring_signals": [
+        "PBoC press conferences and policy statements",
+        "China credit impulse, TSF growth, and property indicators",
+        "Onshore interbank rates (DR007) and CGB yields"
+      ],
+      "rationale": "Even with firmer CPI, policymakers may favor quantity tools (RRR) over aggressive rate cuts to support credit creation.",
+      "id": "6f05fe03-7b19-42fb-9795-47cb9b49c882",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The White House/DOD FY2027 budget request will propose total U.S. national defense budget authority of at least $1.05 trillion (USD).",
+      "category": "geopolitics",
+      "horizon_days": 142,
+      "deadline": "2026-05-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Resolves YES if the administration\u2019s FY2027 budget documents (OMB/DOD) or an official budget fact sheet state total national defense budget authority (including DOD and defense-related spending as defined in the request) \u2265 $1.05T. Otherwise NO.",
+      "evidence": [
+        "Market chatter around a potential $1.5T military budget and investor uncertainty over Congressional approval (CNBC, 2026-01-08): https://www.cnbc.com/2026/01/08/defense-stocks-trump-military-spending-europe-us.html"
+      ],
+      "monitoring_signals": [
+        "OMB budget release timing and topline figures",
+        "DOD comptroller briefings and budget tables",
+        "NDAA/appropriations hearings signaling attainable toplines"
+      ],
+      "rationale": "Political signaling is pushing higher spending, but process constraints make a $1.05T+ request plausible rather than likely.",
+      "id": "cacc782b-941e-44b0-a09e-4df07daf0561",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A senior U.S. administration economic official (President, Treasury Secretary, NEC Director, or FHFA Director) will publicly endorse a plan to purchase at least $100 billion of agency MBS (mortgage-backed securities) to lower mortgage rates, by 2026-06-30.",
+      "category": "rates",
+      "horizon_days": 172,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves YES if an on-the-record public statement (speech, press conference, official interview, or official release) from one of the named officials explicitly supports a plan/initiative to buy \u2265$100B of agency MBS with the stated intent of reducing mortgage rates. Otherwise NO.",
+      "evidence": [
+        "Trump-backed idea discussed to buy ~$200B of mortgage bonds; execution unclear (CNBC, 2026-01-08): https://www.cnbc.com/2026/01/08/trump-mortgage-bonds-rates-fannie-freddie.html"
+      ],
+      "monitoring_signals": [
+        "Treasury/FHFA public remarks and policy papers",
+        "White House economic speeches on housing affordability",
+        "Agency MBS market commentary and policy leaks (Reuters/Bloomberg)"
+      ],
+      "rationale": "If housing affordability becomes a priority narrative, explicit endorsement could emerge even if implementation faces institutional barriers.",
+      "id": "42e0edba-9b19-4116-a562-84e905c7cfb6",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "GM will lower (cut) its previously stated 2026 capital expenditure guidance by at least $2.0B in a quarterly earnings release/call or an SEC filing, by 2026-07-31.",
+      "category": "markets",
+      "horizon_days": 203,
+      "deadline": "2026-07-31",
+      "confidence_pct": 47,
+      "verification_criteria": "Resolves YES if GM, in an earnings release/call transcript or SEC filing, updates 2026 capex guidance such that the midpoint is \u2265$2.0B lower than the last guidance midpoint stated before 2026-01-09. Otherwise NO.",
+      "evidence": [
+        "GM is taking $7.1B in Q4 charges tied to EV pullback and China restructuring (CNBC, 2026-01-08): https://www.cnbc.com/2026/01/08/gm-q4-charges-ev-china.html"
+      ],
+      "monitoring_signals": [
+        "GM earnings dates and guidance updates",
+        "Supplier/capacity announcements and battery JV capex plans",
+        "EV inventory and pricing trends in the U.S."
+      ],
+      "rationale": "A strategic EV recalibration and restructuring charges increase the odds of formal capex reprioritization in 2026 guidance.",
+      "id": "fd19b80e-7415-4b9e-bc33-3a07adcfe7e2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NetBlocks (or Cloudflare Radar) will report an Iran-wide internet connectivity disruption of at least 50% lasting 12+ consecutive hours, by 2026-03-31.",
+      "category": "geopolitics",
+      "horizon_days": 81,
+      "deadline": "2026-03-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Resolves YES if NetBlocks or Cloudflare Radar publishes analysis indicating Iran\u2019s national connectivity dropped by \u226550% versus baseline and remained at or below that level for \u226512 consecutive hours within the period. Otherwise NO.",
+      "evidence": [
+        "Iran experienced an internet shutdown amid escalating protests (NYT, 2026-01-08): https://www.nytimes.com/2026/01/08/world/middleeast/iran-protests-internet-shutdown.html"
+      ],
+      "monitoring_signals": [
+        "NetBlocks alerts and Cloudflare Radar country dashboards",
+        "Social media reports of throttling/shutdowns corroborated by monitoring groups",
+        "Protest intensity indicators and security-force escalation"
+      ],
+      "rationale": "Recent use of shutdowns during unrest raises recurrence risk in the near term if protests persist or intensify.",
+      "id": "4f21d8fd-2a84-43de-a0c4-f9feb0c2f1ef",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Ukraine\u2019s NABU (National Anti-Corruption Bureau) or SAPO will publicly confirm opening a formal proceeding/investigation referencing the major Ukrainian lithium project award reported as linked to Trump-associated investors, by 2026-06-30.",
+      "category": "geopolitics",
+      "horizon_days": 172,
+      "deadline": "2026-06-30",
+      "confidence_pct": 28,
+      "verification_criteria": "Resolves YES if NABU or SAPO publicly announces (press release, official statement, or public registry confirmation) a proceeding that explicitly references the named lithium project award/contract described in major reporting. Otherwise NO.",
+      "evidence": [
+        "Reporting highlighted political sensitivity and conflict-of-interest risk around a major lithium project award (NYT, 2026-01-08): https://www.nytimes.com/2026/01/08/world/europe/trump-lauder-ukraine-lithium.html"
+      ],
+      "monitoring_signals": [
+        "NABU/SAPO press releases and public case registries",
+        "Ukrainian parliamentary oversight activity and media follow-ups",
+        "International donor conditionality statements on governance"
+      ],
+      "rationale": "High-profile strategic-minerals deals attract scrutiny, but formal confirmation thresholds make this a lower-probability call.",
+      "id": "90fb4dca-47ba-4adf-92ab-604c169f16a4",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "A U.S. government entity (DFC, EXIM, DOE, or State Department) will announce financing/insurance/grant support totaling at least $100 million (USD) for a Greenland-based critical minerals or rare-earths project, by 2026-09-30.",
+      "category": "energy",
+      "horizon_days": 264,
+      "deadline": "2026-09-30",
+      "confidence_pct": 26,
+      "verification_criteria": "Resolves YES if DFC/EXIM/DOE/State announces a package (loan, guarantee, insurance, grant, or combined) with total stated value \u2265$100M for a project physically located in Greenland and explicitly described as critical minerals/rare earths. Otherwise NO.",
+      "evidence": [
+        "U.S. interest in Greenland critical minerals underscores strategic supply-chain competition (CNBC, 2026-01-08): https://www.cnbc.com/2026/01/08/-greenland-critical-minerals-mining-amaroq-us-government.html"
+      ],
+      "monitoring_signals": [
+        "DFC/EXIM board approvals and press releases",
+        "State Department critical minerals diplomacy announcements",
+        "Greenland mining permitting milestones and offtake MOUs"
+      ],
+      "rationale": "Geopolitical interest is rising, but project readiness and local politics make large near-term U.S. financing uncertain.",
+      "id": "a28fba69-17e7-4aec-a096-efc1cf66220f",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "A U.S. federal science agency (NSF, NOAA, or DOE) will award or announce competitive funding totaling at least $20 million for ocean alkalinity enhancement / \u201cantacids for the sea\u201d style ocean carbon removal research, by 2026-12-31.",
+      "category": "other",
+      "horizon_days": 356,
+      "deadline": "2026-12-31",
+      "confidence_pct": 36,
+      "verification_criteria": "Resolves YES if NSF/NOAA/DOE publicly announces new awards/solicitations with awarded (or committed) total funding \u2265$20M explicitly for ocean alkalinity enhancement or ocean alkalinization carbon-removal R&D/pilots. Otherwise NO.",
+      "evidence": [
+        "Growing attention to ocean alkalinity/geoengineering approaches and governance challenges (NYT, 2026-01-08): https://www.nytimes.com/2026/01/08/magazine/ocean-acidification-carbon-geoengineering.html"
+      ],
+      "monitoring_signals": [
+        "Grants.gov and agency solicitations (NSF/NOAA/DOE)",
+        "ARPA-E/DOE OCED carbon removal program updates",
+        "Congressional appropriations language mentioning ocean CDR"
+      ],
+      "rationale": "Interest is increasing, but consolidated funding at the $20M+ scale depends on program structure and appropriations timing.",
+      "id": "c3ad1d80-fafc-4071-bf52-15c4ae17e952",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "NASA\u2019s Aerospace Safety Advisory Panel (ASAP) will explicitly reference the expedited Crew-11 return due to a medical issue in a publicly posted meeting transcript, minutes, or presentation, by 2026-03-31.",
+      "category": "other",
+      "horizon_days": 81,
+      "deadline": "2026-03-31",
+      "confidence_pct": 44,
+      "verification_criteria": "Resolves YES if ASAP public materials (PDF slides, minutes, transcript, or webcast documentation) contain an explicit mention of the Crew-11 early return/medical situation described by NASA reporting, within the period. Otherwise NO.",
+      "evidence": [
+        "NASA planned to return ISS astronauts weeks early due to a medical issue (CNBC, 2026-01-08): https://www.cnbc.com/2026/01/08/nasa-iss-crew-11-astronauts-earth-medical-situation.html"
+      ],
+      "monitoring_signals": [
+        "ASAP meeting agendas and posted slide decks",
+        "NASA ISS program status briefings",
+        "NASA OIG or mishap reporting references (if any)"
+      ],
+      "rationale": "ASAP routinely discusses notable operational risk events; a medical-driven schedule change is likely to be acknowledged in oversight materials.",
+      "id": "d23d440b-c86d-4275-832c-dfbe615051ac",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

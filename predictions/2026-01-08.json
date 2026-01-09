@@ -19,7 +19,7 @@
       ],
       "rationale": "A single crossover has occurred; persistence depends on relative earnings revisions and AI-related sentiment/positioning through mid-2026.",
       "id": "395f0325-c716-4051-88d9-ace659c8363b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Mega-round momentum exists, but valuation and close risk remain high given scale and potential regulatory/strategic investor constraints.",
       "id": "58faa64c-0ab3-4a42-8316-30ea71291c4a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "If issuer transition is real, customer-facing legal notices typically follow within months; timing risk comes from regulatory and operational migration complexity.",
       "id": "5aabf3d3-4318-45b8-9ac1-9d575e1d3c28",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Consumer health-data integrations raise scrutiny risk, but OCR actions naming a specific product are relatively infrequent without a major incident.",
       "id": "097a4e98-e4ac-49ee-97b5-b033a3730ef8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Settlement and litigation pressure can drive stronger age controls, but ID/selfie-based verification is costly and may face user-retention and privacy pushback.",
       "id": "a8a2761b-c67f-4b46-8260-5b436e97dfb5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Public presidential proposal often prompts a legislative vehicle quickly, even if passage odds are lower.",
       "id": "5047ff92-0a54-4d37-b16f-202294194716",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Political signaling is strong, but translating it into enforceable procurement policy is procedurally complex and may face legal/industry resistance.",
       "id": "600e0216-c4b2-4383-be3c-40dcb33cc5b3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "A cooling-but-stable labor market makes a dip below 7.5M plausible within two quarters, but re-acceleration risk remains if growth surprises.",
       "id": "986ae5bf-ac4e-48f3-8714-e04495c4a141",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "If wildfire smoke health costs are revised upward, agencies may respond with sizable mitigation funding; budget constraints and program design could delay awards.",
       "id": "919dd5b4-a221-41f9-9ffa-e4580bad7b43",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
