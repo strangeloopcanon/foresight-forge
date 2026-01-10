@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-09",
+  "assessments": [
+    {
+      "id": "2880363b-fa0a-4f17-a8f3-447c0b2b30c8",
+      "status": "incorrect",
+      "status_rationale": "Reported Dec 2025 payroll gain was about +50,000 and the unemployment rate was about 4.4% (CNBC, NYT coverage), which falls outside the forecast ranges (+100k to +225k; 3.7% to 4.0%)."
+    },
+    {
+      "id": "6f05fe03-7b19-42fb-9795-47cb9b49c882",
+      "status": "pending",
+      "status_rationale": "No bullet indicates a PBoC reserve-requirement ratio (RRR) cut; the deadline is 2026-06-30."
+    },
+    {
+      "id": "cacc782b-941e-44b0-a09e-4df07daf0561",
+      "status": "pending",
+      "status_rationale": "No bullet references the FY2027 U.S. national defense budget request level; the deadline is 2026-05-31."
+    },
+    {
+      "id": "42e0edba-9b19-4116-a562-84e905c7cfb6",
+      "status": "needs-clarification",
+      "status_rationale": "Multiple bullets claim the administration is starting/ordering purchases of ~$200B in \u201cmortgage bonds,\u201d including a CNBC headline stating Trump ordered buying $200B. This appears directionally consistent with endorsing $100B+ of mortgage-backed purchases to lower rates, but the prediction specifically requires \"agency MBS\"; the provided bullets don\u2019t explicitly confirm the assets are agency MBS rather than a broader set of mortgage bonds."
+    },
+    {
+      "id": "fd19b80e-7415-4b9e-bc33-3a07adcfe7e2",
+      "status": "pending",
+      "status_rationale": "No bullet reports GM changing 2026 capex guidance; the deadline is 2026-07-31."
+    },
+    {
+      "id": "4f21d8fd-2a84-43de-a0c4-f9feb0c2f1ef",
+      "status": "pending",
+      "status_rationale": "Iran is reported to be experiencing nationwide protests, but there is no cited NetBlocks/Cloudflare Radar evidence of an Iran-wide 50%+ connectivity disruption lasting 12+ hours; deadline is 2026-03-31."
+    },
+    {
+      "id": "90fb4dca-47ba-4adf-92ab-604c169f16a4",
+      "status": "pending",
+      "status_rationale": "No bullet indicates NABU or SAPO has confirmed opening a formal proceeding tied to the referenced lithium project award; deadline is 2026-06-30."
+    },
+    {
+      "id": "a28fba69-17e7-4aec-a096-efc1cf66220f",
+      "status": "pending",
+      "status_rationale": "News mentions Greenland geopolitics but not any U.S. government financing/insurance/grant support for Greenland-based critical minerals/rare earths at the $100M+ level; deadline is 2026-09-30."
+    },
+    {
+      "id": "c3ad1d80-fafc-4071-bf52-15c4ae17e952",
+      "status": "pending",
+      "status_rationale": "No bullet references NSF/NOAA/DOE funding announcements for ocean alkalinity enhancement totaling $20M+; deadline is 2026-12-31."
+    },
+    {
+      "id": "d23d440b-c86d-4275-832c-dfbe615051ac",
+      "status": "pending",
+      "status_rationale": "No bullet indicates NASA\u2019s ASAP has published minutes/transcripts explicitly referencing an expedited Crew-11 return due to a medical issue; deadline is 2026-03-31."
+    }
+  ]
+}

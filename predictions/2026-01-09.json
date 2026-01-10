@@ -19,7 +19,7 @@
       ],
       "rationale": "A moderate payroll print and stable jobless rate best matches late-2025 disinflationary labor-cost data while avoiding an abrupt labor-market break.",
       "id": "2880363b-fa0a-4f17-a8f3-447c0b2b30c8",
-      "outcome": null,
+      "outcome": "incorrect",
       "confidence_bin": "40-50"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Even with firmer CPI, policymakers may favor quantity tools (RRR) over aggressive rate cuts to support credit creation.",
       "id": "6f05fe03-7b19-42fb-9795-47cb9b49c882",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Political signaling is pushing higher spending, but process constraints make a $1.05T+ request plausible rather than likely.",
       "id": "cacc782b-941e-44b0-a09e-4df07daf0561",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "If housing affordability becomes a priority narrative, explicit endorsement could emerge even if implementation faces institutional barriers.",
       "id": "42e0edba-9b19-4116-a562-84e905c7cfb6",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "30-40"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "A strategic EV recalibration and restructuring charges increase the odds of formal capex reprioritization in 2026 guidance.",
       "id": "fd19b80e-7415-4b9e-bc33-3a07adcfe7e2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Recent use of shutdowns during unrest raises recurrence risk in the near term if protests persist or intensify.",
       "id": "4f21d8fd-2a84-43de-a0c4-f9feb0c2f1ef",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "High-profile strategic-minerals deals attract scrutiny, but formal confirmation thresholds make this a lower-probability call.",
       "id": "90fb4dca-47ba-4adf-92ab-604c169f16a4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Geopolitical interest is rising, but project readiness and local politics make large near-term U.S. financing uncertain.",
       "id": "a28fba69-17e7-4aec-a096-efc1cf66220f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Interest is increasing, but consolidated funding at the $20M+ scale depends on program structure and appropriations timing.",
       "id": "c3ad1d80-fafc-4071-bf52-15c4ae17e952",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "ASAP routinely discusses notable operational risk events; a medical-driven schedule change is likely to be acknowledged in oversight materials.",
       "id": "d23d440b-c86d-4275-832c-dfbe615051ac",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

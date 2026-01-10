@@ -1,0 +1,97 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. payrolls rose 50,000 in December; unemployment 4.4%. Hiring momentum slowed, pointing to a cooler labor market entering 2026.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/empsit_01092026.htm"
+    },
+    {
+      "text": "U.S. begins buying ~$200B in mortgage bonds; mortgage rates fall below 6% for first time in ~3 years, potentially stimulating housing and refinancing.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/09/heres-whats-happening-now-with-mortgage-rates-.html"
+    },
+    {
+      "text": "Fed\u2019s Z.1 Financial Accounts updated through 2025 Q3, offering fresh read on household net worth, debt, and sectoral leverage.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "http://www.federalreserve.gov/feeds/Z1.html#3826"
+    },
+    {
+      "text": "E.U. and Mercosur move toward a 700M-person free-trade zone, likely boosting cross-Atlantic investment while sparking disputes over agriculture and environmental standards.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/01/09/business/economy/european-union-mercosur-trade.html"
+    },
+    {
+      "text": "Trump says oil majors may invest $100B in Venezuela under U.S. protection, potentially increasing supply but entangling sanctions policy with Caracas politics.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html"
+    },
+    {
+      "text": "Trump threatens to take Greenland \u201cwhether they like it or not,\u201d raising NATO frictions and spotlighting Arctic security, minerals, and shipping lanes.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/09/trump-greenland-military-denmark-nato.html"
+    },
+    {
+      "text": "Iran faces a second night of nationwide protests amid inflation and currency stress, increasing domestic instability and adding to regional geopolitical and energy risks.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests.html"
+    },
+    {
+      "text": "Putin\u2019s missile strike on Ukraine is cast as a warning to Europe, intensifying escalation concerns and supporting higher European defense spending.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/01/09/world/europe/putin-russia-ukraine-oreshnik-europe.html"
+    },
+    {
+      "text": "Meta signs nuclear deals exceeding 6 GW to power AI compute, highlighting electricity as a binding constraint and accelerating nuclear\u2019s role in tech infrastructure.",
+      "tags": [
+        "tech",
+        "energy"
+      ],
+      "link": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/"
+    },
+    {
+      "text": "OpenAI and SoftBank commit $1B to SB Energy, underscoring how AI expansion is driving large-scale investment in power generation and grids.",
+      "tags": [
+        "tech",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/01/09/openai-and-softbank-group-announce-1-billion-investment-in-sb-energy-.html"
+    },
+    {
+      "text": "Andreessen Horowitz raises $15B with emphasis on infrastructure and defense, signaling renewed investor appetite for capital-intensive, strategically aligned technologies.",
+      "tags": [
+        "markets",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/09/andreessen-horowitz-raises-15-billion-big-in-infrastructure-defense.html"
+    },
+    {
+      "text": "Study links common food preservatives to higher type 2 diabetes risk, potentially affecting regulation, product reformulation, and long-run healthcare costs.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260109080211.htm"
+    }
+  ]
+}

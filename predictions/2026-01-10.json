@@ -1,0 +1,226 @@
+{
+  "date": "2026-01-10",
+  "predictions": [
+    {
+      "text": "Freddie Mac will report the U.S. 30-year fixed mortgage rate at or below 5.50% in at least one weekly Primary Mortgage Market Survey (PMMS) release.",
+      "category": "rates",
+      "horizon_days": 171,
+      "deadline": "2026-06-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Resolves YES if any Freddie Mac PMMS weekly release dated on/before 2026-06-30 shows the 30-year fixed-rate mortgage average <= 5.50%. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/09/heres-whats-happening-now-with-mortgage-rates-.html"
+      ],
+      "monitoring_signals": [
+        "Freddie Mac PMMS weekly prints",
+        "MBS purchase pace and spreads (current-coupon vs Treasuries)",
+        "CPI/PCE inflation surprises and Fed communications"
+      ],
+      "rationale": "Large-scale MBS buying has already pushed mortgage rates below 6%; reaching 5.50% is plausible if purchases persist and inflation doesn\u2019t re-accelerate.",
+      "id": "f4931eda-344d-46c8-8b45-2450f38e30fd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Federal Reserve will increase its reported Agency MBS holdings by at least $250B versus the level in the H.4.1 release dated 2026-01-08 (nearest prior release), by 2026-06-30.",
+      "category": "rates",
+      "horizon_days": 171,
+      "deadline": "2026-06-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Compare Fed H.4.1 'Securities held outright: Mortgage-backed securities' (Agency MBS) on the 2026-01-08 release to any H.4.1 release dated on/before 2026-06-30. YES if increase >= $250B. NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/09/heres-whats-happening-now-with-mortgage-rates-.html"
+      ],
+      "monitoring_signals": [
+        "Weekly Fed H.4.1 balance sheet releases",
+        "NY Fed SOMA/operations calendar and settlement data",
+        "Treasury term premium and volatility (MOVE index)"
+      ],
+      "supersedes_id": "42e0edba-9b19-4116-a562-84e905c7cfb6",
+      "rationale": "The policy discussion has moved from endorsement to execution; a holdings-based threshold cleanly verifies continuation/scale of the program.",
+      "id": "1e7a3f96-8868-4963-bd4d-3130640bf682",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "BLS will report at least one month in 2026 H1 (Jan\u2013Jun reference months) with negative seasonally adjusted change in total nonfarm payroll employment (< 0).",
+      "category": "macro",
+      "horizon_days": 181,
+      "deadline": "2026-07-10",
+      "confidence_pct": 34,
+      "verification_criteria": "Using BLS Employment Situation releases for months Jan\u2013Jun 2026, resolve YES if any reported seasonally adjusted change in total nonfarm payroll employment is negative (<0). Otherwise NO.",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/empsit_01092026.htm"
+      ],
+      "monitoring_signals": [
+        "Weekly initial and continuing claims",
+        "ISM employment sub-indices",
+        "BLS CES diffusion indexes and revisions"
+      ],
+      "rationale": "December showed sharp hiring slowdown and higher unemployment; a single negative print becomes plausible if the cooling trend continues or revisions worsen.",
+      "id": "9b7d69f5-7d6a-45b1-8753-3d235a73bb2b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The European Commission and Mercosur will publicly announce that negotiations are concluded AND will publish (or jointly release) the finalized agreement legal text (or equivalent consolidated text) on an official EU or Mercosur website.",
+      "category": "geopolitics",
+      "horizon_days": 355,
+      "deadline": "2026-12-31",
+      "confidence_pct": 39,
+      "verification_criteria": "YES if by 2026-12-31 the European Commission (or Council) and Mercosur governments announce conclusion of negotiations and publish/release the consolidated legal text (not just a political declaration). Otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/09/business/economy/european-union-mercosur-trade.html"
+      ],
+      "monitoring_signals": [
+        "EU Commission trade press releases and DG TRADE page updates",
+        "Statements after EU\u2013Mercosur ministerials/summits",
+        "Agriculture/environment carve-out negotiations and member-state objections"
+      ],
+      "rationale": "Momentum is positive, but ratification politics are hard; requiring published text focuses on a concrete, checkable milestone short of final ratification.",
+      "id": "9de6a9ed-53c0-4fdc-8fe3-f8f216378eb9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The UK or the EU will impose a new Iran human-rights sanctions package designating at least 10 individuals and/or entities in a single action explicitly linked to protest suppression.",
+      "category": "geopolitics",
+      "horizon_days": 110,
+      "deadline": "2026-04-30",
+      "confidence_pct": 51,
+      "verification_criteria": "YES if the UK (OFSI/FCDO) or EU (Official Journal/Council Decision) publishes a sanctions update in one action adding >=10 Iran-linked persons/entities with stated rationale tied to protest suppression/human-rights abuses. Otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/09/world/middleeast/iran-protests.html"
+      ],
+      "monitoring_signals": [
+        "EU Council sanctions agenda and Official Journal postings",
+        "UK OFSI consolidated list updates and FCDO announcements",
+        "Escalation in protest intensity and reported casualty/arrest spikes"
+      ],
+      "rationale": "Sustained nationwide protests often trigger coordinated Western human-rights designations; the 10+ threshold avoids counting token updates.",
+      "id": "2dc54822-a276-4110-baf0-d06556a5cdab",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Meta will publicly disclose at least one binding long-term nuclear power offtake (PPA/tolling/offtake contract) totaling at least 1.0 GW nameplate capacity-equivalent across one or more projects.",
+      "category": "energy",
+      "horizon_days": 263,
+      "deadline": "2026-09-30",
+      "confidence_pct": 46,
+      "verification_criteria": "YES if Meta (or a counterparty) issues a press release, SEC filing, or investor presentation by 2026-09-30 describing a signed/binding nuclear offtake agreement with total contracted capacity >=1.0 GW (aggregated if explicitly stated). Otherwise NO.",
+      "evidence": [
+        "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/"
+      ],
+      "monitoring_signals": [
+        "Meta sustainability/energy procurement disclosures",
+        "Utility/nuclear developer investor updates and contract announcements",
+        "Interconnection queue milestones and PUC filings"
+      ],
+      "rationale": "Reports of multi-GW nuclear deals suggest commercialization is advancing; a binding 1 GW disclosure is a realistic near-term subset that is externally verifiable.",
+      "id": "859c2f8e-f17f-441a-871e-3561e0616172",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "SB Energy will announce it has reached financial close and begun construction on at least 2.0 GW (AC) of new U.S. solar and/or solar+storage projects in 2026, explicitly referencing the OpenAI/SoftBank-backed capital raise or strategic partnership.",
+      "category": "energy",
+      "horizon_days": 355,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "YES if SB Energy press releases (or credible reporting citing SB Energy) state that in 2026 it started construction and reached financial close on >=2.0 GW (AC) of U.S. projects and ties this to the OpenAI/SoftBank investment/partnership. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/09/openai-and-softbank-group-announce-1-billion-investment-in-sb-energy-.html"
+      ],
+      "monitoring_signals": [
+        "SB Energy project announcements and EPC notices to proceed",
+        "Tax equity/debt financing closings",
+        "Interconnection and permitting milestones in key states/ISOs"
+      ],
+      "rationale": "A $1B strategic investment is typically deployed into near-term buildable projects; 2 GW is ambitious but within scale for large developers if capital is earmarked for deployment.",
+      "id": "7528af8e-178b-4273-b44e-2ec7dc2099b1",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one major international oil company (ExxonMobil, Chevron, Shell, BP, TotalEnergies, or Eni) will publicly announce signing an MoU/term sheet/framework agreement to invest at least $5B in Venezuela oil and/or gas projects, contingent on U.S. authorization/sanctions relief.",
+      "category": "energy",
+      "horizon_days": 171,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "verification_criteria": "YES if any named company issues a press release/SEC filing (or is credibly reported by Reuters/Bloomberg/FT/WSJ) describing a signed agreement with Venezuela/PDVSA or Venezuelan authorities specifying intended investment >=$5B and conditioning execution on U.S. authorization or sanctions relief. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html"
+      ],
+      "monitoring_signals": [
+        "OFAC licensing changes and company legal-risk disclosures",
+        "PDVSA/energy ministry announcements and contract headlines",
+        "Shipping/export data and JV operational updates (Kpler/Vortexa-type reporting)"
+      ],
+      "rationale": "Political signaling is strong but legal/sanctions risk is high; requiring a $5B+ signed framework keeps the event concrete while acknowledging low base rates.",
+      "id": "549731e2-7611-4287-9ffa-ea1fb0c41d78",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Denmark will announce a specific new Greenland surveillance/deployment measure: either (a) a new long-endurance UAV procurement/lease for Arctic surveillance OR (b) a new regular rotation of additional maritime patrol aircraft/ships to Greenland beyond 2025 baselines.",
+      "category": "geopolitics",
+      "horizon_days": 141,
+      "deadline": "2026-05-31",
+      "confidence_pct": 49,
+      "verification_criteria": "YES if Denmark\u2019s Ministry of Defence (or Armed Forces) issues an official announcement by 2026-05-31 committing to either UAV procurement/lease for Greenland surveillance or a new recurring additional platform rotation (aircraft/ship) specifically for Greenland. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/09/trump-greenland-military-denmark-nato.html"
+      ],
+      "monitoring_signals": [
+        "Danish MoD press releases and defence agreements (forlig) updates",
+        "NATO Arctic posture statements involving Denmark/Greenland",
+        "Greenland airport/base infrastructure or ISR contract awards"
+      ],
+      "rationale": "Escalating rhetoric raises near-term incentives for visible deterrence/sovereignty signaling; deployments/procurements are more verifiable than general budget pledges.",
+      "id": "fa236e12-c7c5-491c-9360-36b1c74c87eb",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Andreessen Horowitz (a16z) will lead (as lead investor) at least one disclosed funding round of $300M+ into a U.S.-headquartered defense or dual-use technology company.",
+      "category": "markets",
+      "horizon_days": 355,
+      "deadline": "2026-12-31",
+      "confidence_pct": 36,
+      "verification_criteria": "YES if by 2026-12-31 a company press release or credible outlet (Reuters/Bloomberg/FT/WSJ/CNBC/TechCrunch) reports a $300M+ round led by a16z for a U.S.-HQ defense/dual-use company. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/09/andreessen-horowitz-raises-15-billion-big-in-infrastructure-defense.html"
+      ],
+      "monitoring_signals": [
+        "a16z portfolio announcements and Form D filings",
+        "Defense/dual-use megaround frequency (Crunchbase/PitchBook)",
+        "DoD contract wins and procurement tailwinds for venture-backed firms"
+      ],
+      "rationale": "A16z\u2019s stated emphasis on defense plus a large new fund increases odds of at least one megadeal, but $300M+ rounds remain relatively rare and timing uncertain.",
+      "id": "f75d2c88-aad8-4634-a508-3e5dc3fc5f07",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. FDA will open a formal public process (docket/RFI/ANPRM/proposed rule) to review or restrict at least one widely used food preservative (e.g., sodium nitrite/nitrate, BHA, BHT, potassium sorbate), explicitly referencing metabolic outcomes such as diabetes risk.",
+      "category": "other",
+      "horizon_days": 355,
+      "deadline": "2026-12-31",
+      "confidence_pct": 24,
+      "verification_criteria": "YES if by 2026-12-31 FDA (Federal Register or FDA docket) initiates a public rulemaking or formal request-for-information explicitly naming a preservative and citing metabolic/diabetes-related concerns as part of the rationale. Otherwise NO.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/01/260109080211.htm"
+      ],
+      "monitoring_signals": [
+        "FDA Federal Register notices and new docket openings",
+        "Large epidemiology/meta-analysis publications and media attention",
+        "State-level actions that precede federal review (e.g., CA) and NGO petitions"
+      ],
+      "rationale": "Single studies rarely trigger rapid federal action; however, mounting evidence plus consumer pressure can catalyze an FDA docket or RFI within a year.",
+      "id": "407336e2-f656-486f-8ca8-d376aac4e6ed",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

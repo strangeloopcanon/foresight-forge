@@ -1577,3 +1577,12 @@ A few bullets are directionally adjacent—market commentary could relate to the
 
 ---
 
+
+## 2026-01-09
+
+The clearest resolution is the labor-market call: the reported December 2025 payroll gain (~+50k) and unemployment rate (~4.4%) miss both bounds of the forecast range, making that prediction decisively incorrect by its deadline. Most other items remain untestable from today’s bullets and therefore stay pending.
+
+The main potential “hit” is the mortgage-bond purchase prediction: headlines state that purchases are starting and that Trump ordered buying $200B in mortgage bonds, which—if confirmed to be agency MBS—would satisfy the threshold and the senior-official endorsement condition. However, because the provided bullets don’t explicitly specify “agency MBS” (as opposed to a broader mortgage-credit program), the appropriate status is needs-clarification pending verification of the instrument and program details.
+
+---
+
