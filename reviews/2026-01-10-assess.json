@@ -1,0 +1,60 @@
+{
+  "date": "2026-01-10",
+  "assessments": [
+    {
+      "id": "f4931eda-344d-46c8-8b45-2450f38e30fd",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets include personal-finance mortgage-related commentary but no Freddie Mac PMMS data point indicating the 30-year fixed rate hit \u22645.50%. No confirming or disconfirming evidence."
+    },
+    {
+      "id": "1e7a3f96-8868-4963-bd4d-3130640bf682",
+      "status": "pending",
+      "status_rationale": "No H.4.1 / Federal Reserve balance sheet update is referenced in today\u2019s news bullets, so there\u2019s no evidence about changes in reported Agency MBS holdings relative to 2026-01-08."
+    },
+    {
+      "id": "9b7d69f5-7d6a-45b1-8753-3d235a73bb2b",
+      "status": "pending",
+      "status_rationale": "A CNBC item mentions a 'hiring recession' but provides no BLS seasonally adjusted total nonfarm payrolls monthly change (<0) for a 2026 H1 reference month. No outcome evidence."
+    },
+    {
+      "id": "9de6a9ed-53c0-4fdc-8fe3-f8f216378eb9",
+      "status": "pending",
+      "status_rationale": "No reporting here indicates EU\u2013Mercosur negotiations are concluded or that finalized legal/consolidated text has been published on an official site."
+    },
+    {
+      "id": "2dc54822-a276-4110-baf0-d06556a5cdab",
+      "status": "pending",
+      "status_rationale": "The news focuses on protests in Iran and U.S. policy deliberations, but does not describe a new UK/EU Iran human-rights sanctions package designating \u226510 individuals/entities in a single action linked to protest suppression."
+    },
+    {
+      "id": "859c2f8e-f17f-441a-871e-3561e0616172",
+      "status": "pending",
+      "status_rationale": "No mention in today\u2019s bullets of Meta disclosing any binding long-term nuclear power offtake agreement totaling \u22651.0 GW."
+    },
+    {
+      "id": "7528af8e-178b-4273-b44e-2ec7dc2099b1",
+      "status": "pending",
+      "status_rationale": "There is no item about SB Energy reaching financial close and beginning construction on \u22652.0 GW (AC) of U.S. solar/solar+storage projects in 2026 tied to an OpenAI/SoftBank-backed raise/partnership."
+    },
+    {
+      "id": "549731e2-7611-4287-9ffa-ea1fb0c41d78",
+      "status": "pending",
+      "status_rationale": "CNBC notes what Big Oil executives told Trump about investing in Venezuela, but does not report a public announcement of a signed MoU/term sheet/framework agreement by a named major IOC for \u2265$5B contingent on U.S. authorization/sanctions relief."
+    },
+    {
+      "id": "fa236e12-c7c5-491c-9360-36b1c74c87eb",
+      "status": "pending",
+      "status_rationale": "A NYT piece discusses Trump and Greenland geopolitics, but nothing indicates Denmark announced a specific new Greenland surveillance/deployment measure (UAV procurement/lease or additional regular rotations beyond 2025 baselines)."
+    },
+    {
+      "id": "f75d2c88-aad8-4634-a508-3e5dc3fc5f07",
+      "status": "pending",
+      "status_rationale": "No funding-round announcement is included indicating a16z led a disclosed $300M+ round into a U.S.-headquartered defense or dual-use technology company."
+    },
+    {
+      "id": "407336e2-f656-486f-8ca8-d376aac4e6ed",
+      "status": "pending",
+      "status_rationale": "No FDA docket/RFI/ANPRM/proposed rule is referenced regarding reviewing/restricting a widely used preservative with explicit mention of metabolic outcomes such as diabetes risk."
+    }
+  ]
+}

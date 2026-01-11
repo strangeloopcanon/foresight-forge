@@ -1586,3 +1586,12 @@ The main potential “hit” is the mortgage-bond purchase prediction: headlines
 
 ---
 
+
+## 2026-01-10
+
+None of the listed predictions can be conclusively resolved based on today’s bullets. The news set is dominated by geopolitical developments (Iran protests and U.S. strike deliberations; Greenland diplomacy) and Venezuela-related political/economic maneuvering, plus general labor-market commentary. These items may be directionally relevant to a couple of forecasts (Iran-linked sanctions; Big Oil–Venezuela investment contingent on U.S. relief; Greenland-related defense posture), but they do not meet the specific, verifiable criteria in the prediction texts.
+
+The clearest “near-miss” is the Venezuela IOC investment forecast: CNBC’s headline suggests engagement between oil executives and Trump, but it stops short of the required public announcement of a signed MoU/term sheet/framework agreement meeting the ≥$5B threshold and explicit contingency language. Similarly, Greenland is in the news, but there is no Denmark procurement/rotation announcement. For the macro/finance forecasts (mortgage rates, Fed MBS holdings, payrolls), the bullets provide no primary-source metric releases, so all remain pending.
+
+---
+

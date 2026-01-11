@@ -1,0 +1,195 @@
+{
+  "date": "2026-01-11",
+  "predictions": [
+    {
+      "text": "Ofcom will publish a public consultation, call for evidence, or formal report that explicitly discusses requiring or enabling access to end-to-end encrypted communications (e.g., \u201cbackdoors,\u201d \u201cexceptional access,\u201d \u201ctechnical capability notices,\u201d or equivalent language) for at least one major messaging platform, by 2026-06-30.",
+      "category": "tech",
+      "horizon_days": 170,
+      "deadline": "2026-06-30",
+      "confidence_pct": 56,
+      "log_odds": 0.24,
+      "verification_criteria": "Verified if an Ofcom document posted on ofcom.org.uk (consultation, call for evidence, discussion paper, report, or statement) within the deadline explicitly addresses compelled/mandated access to E2EE or \u201ctechnical capability\u201d measures for encrypted services.",
+      "evidence": [
+        "UK ordered Ofcom to explore encryption backdoors, escalating the security-vs-privacy fight and increasing compliance uncertainty for messaging platforms and cloud providers. (reclaimthenet.org, 2026-01-10)"
+      ],
+      "monitoring_signals": [
+        "Ofcom consultations page updates mentioning encryption, E2EE, online safety, technical capability notices",
+        "UK Home Office statements on encrypted messaging access",
+        "Coverage by BBC/Reuters/FT on Ofcom encryption proposals"
+      ],
+      "rationale": "A directive to explore backdoors typically produces a public Ofcom paper or consultation within months as part of process legitimacy and stakeholder input.",
+      "id": "a7b06f4c-eafe-4bdb-a749-c3019ee30172",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "FinCEN (U.S. Treasury) will issue a public advisory, alert, or guidance document specifically addressing fraud/scams involving cryptocurrency ATMs (bitcoin ATMs), by 2026-06-30.",
+      "category": "markets",
+      "horizon_days": 170,
+      "deadline": "2026-06-30",
+      "confidence_pct": 49,
+      "log_odds": -0.04,
+      "verification_criteria": "Verified if FinCEN.gov posts an advisory/alert/guidance referencing \u201cvirtual currency kiosks,\u201d \u201ccryptocurrency ATMs,\u201d \u201cbitcoin ATMs,\u201d or equivalent, focused on consumer fraud/scams, within the deadline.",
+      "evidence": [
+        "Crypto ATMs face tightening U.S. scrutiny over fraud, threatening a niche on-ramp and signaling broader consumer-protection regulation of retail crypto infrastructure. (cnbc.com, 2026-01-10)"
+      ],
+      "monitoring_signals": [
+        "FinCEN advisories feed and press releases",
+        "State AG/regulator actions against crypto ATM operators",
+        "FTC Consumer Sentinel spikes in crypto ATM scam reports"
+      ],
+      "rationale": "When a scam vector becomes prominent, FinCEN often responds with an advisory to guide bank/MSB compliance and SAR filing.",
+      "id": "6e322b4f-c2d4-4c57-8232-8b0deb1aac6a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Either the U.S. House Financial Services Committee or the U.S. Senate Banking Committee will hold a hearing where the official title or witness testimony explicitly focuses on cryptocurrency ATMs (bitcoin ATMs) and fraud/scams, by 2026-09-30.",
+      "category": "macro",
+      "horizon_days": 262,
+      "deadline": "2026-09-30",
+      "confidence_pct": 44,
+      "log_odds": -0.24,
+      "verification_criteria": "Verified if a hearing occurs by the deadline and the committee\u2019s official hearing page (or the published transcript/opening statements) explicitly references \u201ccryptocurrency ATMs/bitcoin ATMs/virtual currency kiosks\u201d as a focus area.",
+      "evidence": [
+        "Crypto ATMs face tightening U.S. scrutiny over fraud, threatening a niche on-ramp and signaling broader consumer-protection regulation of retail crypto infrastructure. (cnbc.com, 2026-01-10)"
+      ],
+      "monitoring_signals": [
+        "House Financial Services and Senate Banking hearing schedules",
+        "Introduced bills targeting crypto kiosks / MSB kiosk requirements",
+        "GAO reports or CFPB/FTC testimony referencing crypto ATM scams"
+      ],
+      "rationale": "Rising consumer fraud narratives frequently trigger committee hearings, especially if state actions and press coverage continue.",
+      "id": "74f97698-30b2-4658-bbb4-c344ab5bd11b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. FDA will accept for review (i.e., \u201cfiling accepted\u201d) at least one New Drug Application (NDA) for an oral GLP-1 (or GLP-1/GIP) drug for chronic weight management (obesity indication), with a publicly stated PDUFA/target action date, by 2026-12-31.",
+      "category": "macro",
+      "horizon_days": 354,
+      "deadline": "2026-12-31",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Verified if FDA acceptance is publicly confirmed via a company press release/SEC filing and includes a PDUFA/target action date for an oral GLP-1(-class) obesity indication, or appears on an official FDA filing/communications reference by the deadline.",
+      "evidence": [
+        "2026 could be a breakout year for oral obesity drugs, intensifying GLP-1 competition and reshaping pharma revenues, payer costs, and long-term healthcare utilization. (cnbc.com, 2026-01-10)"
+      ],
+      "monitoring_signals": [
+        "Novo Nordisk/Eli Lilly trial readouts and regulatory-submission statements",
+        "FDA drug application acceptance announcements",
+        "Payer/formulary commentary referencing anticipated oral obesity launches"
+      ],
+      "rationale": "The competitive push into oral obesity therapies makes at least one NDA acceptance plausible within a year, even if approval may come later.",
+      "id": "81b2b001-6834-474f-afc7-f19895a5d6ca",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "TrendForce (or DRAMeXchange) will report that contract prices for HBM (HBM3/HBM3E or equivalent) increased by at least 10% in 2026 Q2 versus 2026 Q1, in a report published by 2026-07-31.",
+      "category": "markets",
+      "horizon_days": 201,
+      "deadline": "2026-07-31",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "Verified if TrendForce/DRAMeXchange publishes a Q2-vs-Q1 contract price change figure (or index) for HBM showing +10% or more, by the deadline.",
+      "evidence": [
+        "AI memory (HBM) is effectively sold out, driving price spikes and reinforcing hardware bottlenecks that can constrain AI deployment timelines and margins. (cnbc.com, 2026-01-10)"
+      ],
+      "monitoring_signals": [
+        "TrendForce HBM pricing notes and quarterly DRAM/HBM outlooks",
+        "SK hynix/Samsung/Micron commentary on tight HBM supply and pricing",
+        "GPU/accelerator shipment constraints attributed to HBM availability"
+      ],
+      "rationale": "Sold-out conditions and capacity constraints typically translate into measurable contract-price step-ups in the next quarter.",
+      "id": "3f1d4308-c79c-4b74-87d7-4b601e4ff19c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one of Micron, Samsung Electronics, or SK hynix will increase (raise) its previously issued FY2026 (or 2026 calendar-year) capital expenditure guidance by at least $2.0B (USD-equivalent), explicitly citing HBM/AI-memory capacity expansion, by 2026-09-30.",
+      "category": "tech",
+      "horizon_days": 262,
+      "deadline": "2026-09-30",
+      "confidence_pct": 43,
+      "log_odds": -0.28,
+      "verification_criteria": "Verified if a company raises capex guidance by \u2265$2.0B vs prior guidance in an earnings release/call transcript/SEC filing and explicitly links the increase to HBM/AI-memory expansion, by the deadline.",
+      "evidence": [
+        "AI memory (HBM) is effectively sold out, driving price spikes and reinforcing hardware bottlenecks that can constrain AI deployment timelines and margins. (cnbc.com, 2026-01-10)"
+      ],
+      "monitoring_signals": [
+        "Earnings calls mentioning incremental HBM capex or accelerated tool installs",
+        "Supplier commentary (ASML/Applied/Lam) on memory-related demand",
+        "Government subsidy announcements tied to advanced memory capacity"
+      ],
+      "rationale": "Sustained HBM tightness often forces suppliers to accelerate spending; guidance step-ups are a common mechanism once visibility improves.",
+      "id": "deceb087-fd83-4af3-ab8d-672e5ba3fe7b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. State Department will authorize ordered departure (or otherwise direct non-emergency U.S. government personnel to depart) from at least one U.S. diplomatic post in the Middle East, explicitly citing heightened regional tensions involving Iran, by 2026-03-31.",
+      "category": "geopolitics",
+      "horizon_days": 79,
+      "deadline": "2026-03-31",
+      "confidence_pct": 37,
+      "log_odds": -0.53,
+      "verification_criteria": "Verified if travel.state.gov (or an official embassy notice/State press statement) announces ordered departure/non-emergency departure authorization referencing Iran-related threats or heightened tensions, by the deadline.",
+      "evidence": [
+        "Trump was briefed on options to strike Iran, raising odds of U.S.-Iran escalation amid internal Iranian turmoil and uncertain Western contingency planning. (nytimes.com, 2026-01-10)",
+        "Iran unrest is being fueled by currency collapse and inflation, turning an economic crisis into nationwide political instability with regional spillover risks. (nytimes.com, 2026-01-10)"
+      ],
+      "monitoring_signals": [
+        "U.S. embassy security alerts mentioning Iran-backed threats",
+        "CENTCOM force-protection posture changes",
+        "Commercial airline advisories about Gulf-region risk levels"
+      ],
+      "rationale": "Ordered departures are a common early, verifiable signal when Washington assesses near-term escalation or threat to facilities.",
+      "id": "7b260f22-4a10-43f5-bb58-2d90381be774",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Iran will implement a nationwide fuel-price or rationing-policy change (e.g., raising the official gasoline price tier(s) or tightening quotas) that is publicly confirmed by an official Iranian government source or a major wire service (Reuters/AP/AFP), by 2026-06-30.",
+      "category": "macro",
+      "horizon_days": 170,
+      "deadline": "2026-06-30",
+      "confidence_pct": 34,
+      "log_odds": -0.66,
+      "verification_criteria": "Verified if an official Iranian government announcement (or Reuters/AP/AFP citing official confirmation) reports a nationwide gasoline price increase or rationing/quota tightening by the deadline.",
+      "evidence": [
+        "Iran unrest is being fueled by currency collapse and inflation, turning an economic crisis into nationwide political instability with regional spillover risks. (nytimes.com, 2026-01-10)"
+      ],
+      "monitoring_signals": [
+        "Iran budget statements and subsidy reforms",
+        "Reports of fuel shortages/lines and provincial unrest triggers",
+        "Parliament or cabinet discussions of energy-subsidy adjustments"
+      ],
+      "rationale": "Fiscal stress and inflation often push subsidy reforms; fuel policy is a high-impact lever that frequently triggers (and responds to) social instability.",
+      "id": "25d9da64-aca0-4a32-904b-2d18e8498428",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The European Commission (or the European Investment Bank/EIF under an EU mandate) will announce financing/guarantees/grants totaling at least \u20ac200 million for a Greenland-based critical-minerals project (mining, processing, or enabling infrastructure), by 2026-12-31.",
+      "category": "energy",
+      "horizon_days": 354,
+      "deadline": "2026-12-31",
+      "confidence_pct": 23,
+      "log_odds": -1.21,
+      "verification_criteria": "Verified if an EU or EIB/EIF press release states \u2265\u20ac200M total support for a Greenland critical-minerals project, with Greenland explicitly named as the project location, by the deadline.",
+      "evidence": [
+        "Trump\u2019s renewed Greenland interest is pushing Europe toward negotiation strategies, highlighting Arctic security and critical-minerals competition. (nytimes.com, 2026-01-10)"
+      ],
+      "monitoring_signals": [
+        "EU Global Gateway / raw materials partnership announcements mentioning Greenland",
+        "EIB project database entries tagged Greenland/mining/critical minerals",
+        "Danish/EU joint statements on Arctic strategic minerals supply chains"
+      ],
+      "rationale": "European strategic-minerals policy is intensifying, but Greenland projects face permitting/politics; large EU-ticket support is possible but not base-case.",
+      "id": "0d9daf61-f8c7-4a91-abf9-8343ae435b26",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}
