@@ -19,7 +19,7 @@
       ],
       "rationale": "A directive to explore backdoors typically produces a public Ofcom paper or consultation within months as part of process legitimacy and stakeholder input.",
       "id": "a7b06f4c-eafe-4bdb-a749-c3019ee30172",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "When a scam vector becomes prominent, FinCEN often responds with an advisory to guide bank/MSB compliance and SAR filing.",
       "id": "6e322b4f-c2d4-4c57-8232-8b0deb1aac6a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Rising consumer fraud narratives frequently trigger committee hearings, especially if state actions and press coverage continue.",
       "id": "74f97698-30b2-4658-bbb4-c344ab5bd11b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "The competitive push into oral obesity therapies makes at least one NDA acceptance plausible within a year, even if approval may come later.",
       "id": "81b2b001-6834-474f-afc7-f19895a5d6ca",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Sold-out conditions and capacity constraints typically translate into measurable contract-price step-ups in the next quarter.",
       "id": "3f1d4308-c79c-4b74-87d7-4b601e4ff19c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Sustained HBM tightness often forces suppliers to accelerate spending; guidance step-ups are a common mechanism once visibility improves.",
       "id": "deceb087-fd83-4af3-ab8d-672e5ba3fe7b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Ordered departures are a common early, verifiable signal when Washington assesses near-term escalation or threat to facilities.",
       "id": "7b260f22-4a10-43f5-bb58-2d90381be774",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "Fiscal stress and inflation often push subsidy reforms; fuel policy is a high-impact lever that frequently triggers (and responds to) social instability.",
       "id": "25d9da64-aca0-4a32-904b-2d18e8498428",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "European strategic-minerals policy is intensifying, but Greenland projects face permitting/politics; large EU-ticket support is possible but not base-case.",
       "id": "0d9daf61-f8c7-4a91-abf9-8343ae435b26",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

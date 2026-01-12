@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-11",
+  "assessments": [
+    {
+      "id": "a7b06f4c-eafe-4bdb-a749-c3019ee30172",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention Ofcom, UK online safety regulation, consultations/calls for evidence, or any explicit discussion of exceptional access/backdoors/technical capability notices for end-to-end encrypted messaging platforms."
+    },
+    {
+      "id": "6e322b4f-c2d4-4c57-8232-8b0deb1aac6a",
+      "status": "pending",
+      "status_rationale": "No item indicates FinCEN issued an advisory/alert/guidance about cryptocurrency ATMs or ATM-related fraud/scams. The crypto-related bullet is about lawmakers preparing to try again on a major crypto bill, not FinCEN guidance."
+    },
+    {
+      "id": "74f97698-30b2-4658-bbb4-c344ab5bd11b",
+      "status": "pending",
+      "status_rationale": "There is no evidence in today\u2019s bullets of a House Financial Services or Senate Banking Committee hearing explicitly focused on cryptocurrency ATMs and fraud/scams (either in title or witness testimony)."
+    },
+    {
+      "id": "81b2b001-6834-474f-afc7-f19895a5d6ca",
+      "status": "pending",
+      "status_rationale": "No bullet references FDA acceptance/filing of an NDA for an oral GLP-1 (or GLP-1/GIP) weight-management drug or a publicly stated PDUFA/target action date."
+    },
+    {
+      "id": "3f1d4308-c79c-4b74-87d7-4b601e4ff19c",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s bullets references TrendForce/DRAMeXchange reporting HBM contract-price changes, nor any Q2 vs Q1 2026 comparison."
+    },
+    {
+      "id": "deceb087-fd83-4af3-ab8d-672e5ba3fe7b",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Micron, Samsung, or SK hynix raised FY2026/2026 capex guidance by $2B+ with explicit citation to HBM/AI-memory capacity expansion."
+    },
+    {
+      "id": "7b260f22-4a10-43f5-bb58-2d90381be774",
+      "status": "pending",
+      "status_rationale": "While there are bullets about Iran-related tensions (e.g., reports that Trump is weighing options against Iran), none report a U.S. State Department ordered departure (or directed departure of non-emergency personnel) from a Middle East diplomatic post citing Iran-related heightened tensions."
+    },
+    {
+      "id": "25d9da64-aca0-4a32-904b-2d18e8498428",
+      "status": "pending",
+      "status_rationale": "The Iran-related coverage concerns protests and leadership response; it does not clearly report a nationwide Iranian fuel-price increase or rationing/quota policy change confirmed by officials or Reuters/AP/AFP."
+    },
+    {
+      "id": "0d9daf61-f8c7-4a91-abf9-8343ae435b26",
+      "status": "pending",
+      "status_rationale": "Although one bullet discusses geopolitical interest in Greenland/the Arctic, there is no mention of the European Commission/EIB/EIF announcing \u20ac200M+ in financing/guarantees/grants for a Greenland-based critical-minerals project."
+    }
+  ]
+}

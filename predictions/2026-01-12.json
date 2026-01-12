@@ -1,0 +1,218 @@
+{
+  "date": "2026-01-12",
+  "predictions": [
+    {
+      "text": "Either the U.S. House Financial Services Committee or the U.S. Senate Banking Committee will hold a public hearing explicitly focused on the DOJ/prosecutor inquiry into Fed Chair Jerome Powell and implications for Federal Reserve independence, by 2026-04-15 (UTC).",
+      "category": "rates",
+      "horizon_days": 93,
+      "deadline": "2026-04-15",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "A hearing occurs and the official hearing title OR opening statement by the chair/ranking member OR at least one invited witness\u2019s written testimony explicitly references a DOJ/prosecutor 'investigation/inquiry' into Powell (or equivalent) and 'Fed independence'. Committee website must post the hearing record/notice.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/11/us/politics/jerome-powell-fed-inquiry-trump.html",
+        "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm"
+      ],
+      "monitoring_signals": [
+        "House Financial Services and Senate Banking hearing calendars/notices",
+        "Requests for Fed witnesses/testimony announced by committee leadership",
+        "Major outlets reporting committee plans to examine Powell inquiry/Fed independence"
+      ],
+      "rationale": "A public DOJ inquiry touching the Fed chair creates bipartisan incentives for oversight hearings framed around institutional independence and market stability.",
+      "id": "48d3bf5f-b914-466f-ae05-9531f398f710",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Jerome Powell will publicly testify (live or prepared written testimony) before Congress and explicitly reference the DOJ/prosecutor inquiry into him (or 'criminal investigation/probe') AND the term 'independence' in the same testimony, by 2026-06-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 169,
+      "deadline": "2026-06-30",
+      "confidence_pct": 44,
+      "log_odds": -0.241,
+      "verification_criteria": "A transcript/video or published written testimony from an official congressional hearing shows Powell explicitly referencing a DOJ/prosecutor investigation/inquiry/probe into him and also uses the word 'independence' (Fed independence) within the same testimony document.",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
+        "https://www.nytimes.com/2026/01/11/us/politics/jerome-powell-fed-inquiry-trump.html"
+      ],
+      "monitoring_signals": [
+        "Congressional testimony scheduling for Fed Chair (semiannual testimony, special hearings)",
+        "Fed Board/Chair public calendar and speech schedule",
+        "Press reporting on whether Powell will appear before Congress on the inquiry"
+      ],
+      "rationale": "If Congress convenes hearings, Powell is likely to address the issue directly, but legal constraints may limit explicit wording.",
+      "id": "6da36cf5-73f4-40cd-86df-39fbf9bfe104",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Cboe Volatility Index (VIX) will close at or above 30.0 on at least one U.S. trading day, by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 78,
+      "deadline": "2026-03-31",
+      "confidence_pct": 41,
+      "log_odds": -0.363,
+      "verification_criteria": "Cboe\u2019s published closing value for VIX (ticker VIX) is >= 30.0 on at least one session dated on/before 2026-03-31.",
+      "evidence": [
+        "https://www.marketwatch.com/story/u-s-stock-futures-dip-ahead-of-a-busy-week-on-wall-street-6558f5f1",
+        "https://www.nytimes.com/2026/01/11/us/politics/jerome-powell-fed-inquiry-trump.html"
+      ],
+      "monitoring_signals": [
+        "Daily VIX closes and intraday spikes",
+        "Headlines on Fed politicization / investigation escalation",
+        "Equity index drawdowns and rate-volatility measures (MOVE index)"
+      ],
+      "rationale": "Rates/central-bank credibility shocks often spill into equity volatility; the threshold is high but reachable during acute policy uncertainty.",
+      "id": "95df6bdd-5c6d-42d1-a9c4-54874444b507",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Refinitiv/CoreCommodity CRB Index (TRCCRB) will close at least 15.0% higher than its close on 2026-01-12, on any trading day by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 169,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "log_odds": -0.49,
+      "verification_criteria": "Using the TRCCRB daily close series, identify the close on 2026-01-12 as baseline. This resolves YES if any daily close on/before 2026-06-30 is >= baseline * 1.15.",
+      "evidence": [
+        "https://www.marketwatch.com/story/stocks-are-signaling-that-another-commodities-supercycle-is-afoot-in-2026-5e697dc6"
+      ],
+      "monitoring_signals": [
+        "Broad commodity index performance (CRB, BCOM)",
+        "Oil and industrial metals price trends",
+        "China credit/industrial activity data and supply disruption headlines"
+      ],
+      "rationale": "\u2018Supercycle\u2019 narratives reflect momentum; a +15% half-year move is plausible but requires sustained strength across energy/metals rather than a single spike.",
+      "id": "8f087864-ba7b-4e2c-abb4-829212f6eaab",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "U.S. Treasury (OFAC) will designate at least 5 Venezuela-linked individuals and/or entities in a single action explicitly tied to controlling/diverting Venezuelan oil revenues or restricting support to Cuba, by 2026-05-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 139,
+      "deadline": "2026-05-31",
+      "confidence_pct": 36,
+      "log_odds": -0.575,
+      "verification_criteria": "A single OFAC action (press release + SDN list update) on/before 2026-05-31 adds >=5 Venezuela-linked names and the official Treasury/OFAC description explicitly references Venezuelan oil revenue control/diversion and/or curbing Venezuela\u2019s support to Cuba.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/11/us/politics/trump-venezuela-oil-cuba.html"
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN list updates",
+        "U.S. administration statements on Venezuela oil revenues/Cuba",
+        "Reporting on enforcement actions targeting intermediaries/shipping/finance"
+      ],
+      "rationale": "If policy centers on oil-revenue leverage, sanctions expansion is a standard tool; the numeric threshold ensures the action is meaningful.",
+      "id": "1dd52c10-d524-44ed-99e2-bdbd5fbdbe65",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. State Department will publish a Federal Register notice designating at least one Mexico-based cartel as a Foreign Terrorist Organization (FTO), by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 169,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "log_odds": -0.708,
+      "verification_criteria": "A Federal Register notice (or State Department formal designation notice) on/before 2026-06-30 adds at least one Mexico-based cartel (e.g., Sinaloa, CJNG, etc.) to the FTO list under INA 219.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/11/world/americas/mexico-trump-cartels.html"
+      ],
+      "monitoring_signals": [
+        "State Department announcements and Federal Register notices",
+        "Congressional briefings on cartel terrorism tools",
+        "Treasury/DOJ rhetoric shifting toward terrorism authorities"
+      ],
+      "rationale": "Escalating security rhetoric increases the odds of terrorism-label tools, but legal/diplomatic blowback makes this far from certain.",
+      "id": "59855afe-5ea5-4422-92bd-aaa4c753f2c5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The Allegiant\u2013Sun Country acquisition will receive U.S. antitrust clearance without a DOJ lawsuit (i.e., HSR early termination or expiration without a Second Request, OR parties publicly state they received all required U.S. antitrust approvals), by 2026-07-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 200,
+      "deadline": "2026-07-31",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Company press release/SEC filing states HSR waiting period terminated/expired without a Second Request or that all U.S. antitrust approvals were received; and there is no DOJ complaint filed to block the transaction through 2026-07-31.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/11/business/allegiant-sun-country-airlines.html"
+      ],
+      "monitoring_signals": [
+        "HSR timing disclosures in 8-K/10-Q filings",
+        "DOJ Antitrust Division public statements on airline consolidation",
+        "Route overlap analyses and competitor complaints"
+      ],
+      "rationale": "ULCC overlap is limited in many city pairs, supporting clearance, but airline deals can attract scrutiny over pricing and slot/airport constraints.",
+      "id": "a6c4adaa-9d2d-4725-a8f7-2bafb6104094",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Google will publish a public developer specification for 'commerce agents' (agent-to-agent shopping/checkout protocol) AND at least one additional top-20 U.S. e-commerce retailer (by online sales) besides Walmart will publicly announce adoption/pilot integration, by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 261,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Google-hosted documentation/spec is publicly accessible and explicitly describes a commerce-agent protocol. Separately, a top-20 U.S. e-commerce retailer issues a press release/blog post confirming adoption or a live pilot integration referencing the protocol.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/11/walmart-partners-with-google-gemini-on-shopping-tool.html"
+      ],
+      "monitoring_signals": [
+        "Google developer blogs, GitHub repos, or standards submissions",
+        "Retailer partnership announcements involving Gemini/Google Cloud shopping agents",
+        "SDK/API releases and merchant platform integrations"
+      ],
+      "rationale": "If Google/Walmart are pushing agentic commerce, network effects require at least one more major retailer; the technical standard may still fragment across ecosystems.",
+      "id": "a68c8f81-bba2-4218-a3eb-a111b5ab5f89",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Boeing will report at least 60 commercial airplane deliveries in a single calendar month during 2026, in its official monthly 'Orders & Deliveries' update, by 2026-10-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 292,
+      "deadline": "2026-10-31",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Boeing\u2019s published monthly 'Orders & Deliveries' table shows deliveries >= 60 for any month dated Jan\u2013Oct 2026 (inclusive), posted on Boeing\u2019s website/media materials.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/11/boeing-plane-deliveries-production-pace.html"
+      ],
+      "monitoring_signals": [
+        "Monthly Boeing orders/deliveries releases",
+        "737 MAX and 787 production-rate guidance updates",
+        "Supply-chain and FAA quality/safety developments"
+      ],
+      "rationale": "With a stated ramp plan and improving deliveries, a 60+ month is achievable if quality gates and supplier constraints don\u2019t re-tighten.",
+      "id": "3271e31d-9462-4e49-afda-ea9a8b6eaeeb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Norway\u2019s government will announce a dedicated Svalbard/High North security and critical-infrastructure package totaling at least NOK 2.0 billion in new funding (not previously budgeted), by 2026-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 353,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "log_odds": -0.663,
+      "verification_criteria": "An official Norwegian government press release/budget document on/before 2026-12-31 announces new allocations totaling >= NOK 2.0B explicitly tied to Svalbard/High North security, surveillance, communications, ports, or other critical infrastructure; must be described as new funding beyond existing baselines.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/11/world/europe/svalbard-norway-arctic-control.html"
+      ],
+      "monitoring_signals": [
+        "Norwegian budget updates and Ministry of Defence announcements",
+        "High North/Svalbard policy statements and parliamentary debates",
+        "NATO/Arctic security incidents and infrastructure vulnerability reporting"
+      ],
+      "rationale": "Rising Arctic competition can trigger discrete spending packages, but Norway may prefer incremental budget lines rather than a single large, labeled package.",
+      "id": "a64e7d7c-6e9f-4f07-b4b6-917f96a43b4a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

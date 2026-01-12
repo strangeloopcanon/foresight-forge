@@ -1595,3 +1595,14 @@ The clearest “near-miss” is the Venezuela IOC investment forecast: CNBC’s 
 
 ---
 
+
+## 2026-01-11
+
+None of the listed predictions can be marked resolved based on today’s headlines. The news cycle here is dominated by U.S. domestic politics (including reported DOJ/prosecutorial scrutiny involving Fed Chair Powell) and foreign-policy developments (Iran protests and related regional tensions, plus Venezuela/Cuba/Mexico issues), which do not provide the specific documentary or institutional triggers required by the forecast questions.
+
+There are, however, weak directional signals relevant to a couple of items: heightened Iran-related tensions could raise the base rate for a future State Department ordered departure, and intense domestic pressure in Iran could increase the odds of economically salient policy moves like fuel pricing/rationing changes. Separately, the presence of renewed legislative attention to crypto policy suggests an active environment, but it is not evidence of FinCEN action or congressional hearings specifically about crypto ATMs and scam/fraud.
+
+Overall, the forecasts remain open, with no clear confirmations or disconfirmations in today’s bullets. To update any status from pending would require concrete primary-source announcements (e.g., Ofcom publication; FinCEN advisory; committee hearing notice/transcript; FDA filing acceptance with PDUFA date; TrendForce pricing report; company capex guidance revision; State Department ordered departure notice; or official/wire-confirmed Iranian fuel policy change; EU/EIB/EIF financing announcement with amount and Greenland project details).
+
+---
+
