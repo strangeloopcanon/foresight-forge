@@ -1,0 +1,216 @@
+{
+  "date": "2026-01-13",
+  "predictions": [
+    {
+      "text": "A bill will be introduced in either chamber of the U.S. Congress that caps consumer credit-card APRs at 10% or less nationwide (explicit numeric cap in statutory text), by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 77,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Verified if Congress.gov shows introduction of a bill whose text sets a maximum APR for credit cards at <=10% (or a formula that cannot exceed 10%) applicable nationally (not limited to servicemembers/SDR).",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/12/trump-credit-card-interest-rate-cap.html"
+      ],
+      "monitoring_signals": [
+        "Congress.gov search alerts for \"credit card\" AND \"10%\" AND \"APR\"",
+        "House Financial Services / Senate Banking press releases on credit-card rate caps",
+        "White House/UST remarks endorsing a numeric cap"
+      ],
+      "rationale": "The topic is already in the political discourse; introduction is easier than passage and likely used as messaging around consumer costs.",
+      "id": "dd53ef16-274d-4887-9691-3aa2a240ce7d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one U.S. GSIB (JPM, BAC, C, WFC, GS, MS) will explicitly reference the 2025 Shared National Credit (SNC) review in its 2026 Q1 earnings call transcript or 10-Q risk discussion, by 2026-05-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 122,
+      "deadline": "2026-05-15",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Verified if a 2026 Q1 earnings call transcript or 10-Q filing for any listed bank contains an explicit reference to \"Shared National Credit\" or \"SNC\" in the context of syndicated/leveraged-loan risk, underwriting, or monitoring.",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260112a.htm"
+      ],
+      "monitoring_signals": [
+        "10-Q filings for JPM/BAC/C/WFC/GS/MS (SEC EDGAR) keyword alerts: \"Shared National Credit\", \"SNC\"",
+        "Earnings call transcript keyword alerts via Refinitiv/FactSet",
+        "Bank investor presentations discussing leveraged lending/syndicated loan monitoring"
+      ],
+      "rationale": "SNC findings often flow into large-bank risk language when regulators publicly flag underwriting/monitoring weaknesses.",
+      "id": "22fce5ea-91cb-4993-a046-2f305065249c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The ICE U.S. Dollar Index (DXY) will close below 95.0 on at least one U.S. trading day, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 168,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Verified if ICE (or widely cited market data vendors such as Bloomberg/Refinitiv) show a daily close for DXY < 95.0 on any date on/before 2026-06-30.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/12/sell-america-trade-trump-powell-investigation.html"
+      ],
+      "monitoring_signals": [
+        "Daily DXY closes",
+        "UST term premium / real yield moves",
+        "Newsflow on Fed independence/political interference and foreign capital flows"
+      ],
+      "rationale": "If the 'Sell America' theme persists, USD weakness can extend, but 95 is a relatively deep move and requires sustained risk-off or policy credibility concerns.",
+      "id": "6e599958-5c08-4fcc-9355-2701bad39e8a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "LBMA Gold Price (PM) in USD will print at least 10% above its 2026-01-12 LBMA PM level on at least one fixing date, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 168,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Verified if LBMA publishes a Gold Price PM (USD) on any date <=2026-06-30 that is >= 1.10 * (LBMA Gold Price PM USD on 2026-01-12).",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/12/sell-america-trade-trump-powell-investigation.html"
+      ],
+      "monitoring_signals": [
+        "LBMA PM fixings",
+        "Real yields (UST TIPS) and inflation breakevens",
+        "Central bank gold purchase headlines and ETF flows"
+      ],
+      "rationale": "Heightened institutional-risk pricing and USD softness can drive a non-linear bid for gold; 10% in ~6 months is plausible but not base-case.",
+      "id": "60725585-bb25-4fca-bef9-bf35b3d9a1ee",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OFAC will designate at least 3 non-Iranian individuals and/or entities in a single sanctions action explicitly tied to Iranian petroleum/petrochemical sales, shipping, or sanctions evasion, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 168,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Verified if an OFAC press release/designation notice lists >=3 designees that are not Iranian persons/entities and states the action is for Iran oil/petrochemical trade, shipping, or evasion (e.g., E.O. 13846/13902 or related authorities).",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/12/trump-tariffs-iran-business.html"
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN list updates mentioning Iran oil/petrochemicals",
+        "Treasury briefings on secondary sanctions enforcement",
+        "Reuters reporting on Iran oil flows and crackdowns on shippers/traders"
+      ],
+      "rationale": "Secondary-sanctions rhetoric often precedes enforcement packages targeting facilitators outside Iran, especially shipping/trading nodes.",
+      "id": "4a1b7118-26c0-4d87-9a36-fe4c2f8f1b40",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Apple will release a developer beta of iOS 19 (or iOS 19.x) that includes an Apple-documented Siri feature using Google Gemini for at least one category of requests (e.g., \"Ask Gemini\" handoff), by 2026-06-15 (UTC).",
+      "category": "tech",
+      "horizon_days": 153,
+      "deadline": "2026-06-15",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Verified if Apple\u2019s official developer release notes, WWDC session materials, or Apple Developer documentation for an iOS 19 developer beta describe Siri invoking/handing off to Google Gemini (explicitly named) for any user-facing capability.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html"
+      ],
+      "monitoring_signals": [
+        "WWDC 2026 agenda/session titles and Apple Developer docs",
+        "iOS 19 beta release notes mentioning Gemini",
+        "Statements from Apple/Google PR confirming integration scope"
+      ],
+      "rationale": "Once a partner is selected, the first visible milestone is typically WWDC-era beta exposure, even if rollout is staged.",
+      "id": "1825bba1-0ec8-4d3f-9e42-ea2659faf0ec",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Alphabet will disclose (in a 10-Q/10-K, earnings call, or other SEC-filed material) a quantified Apple-related consideration for Gemini/Siri distribution or licensing with an annualized value of at least $20B (USD), by 2026-10-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 291,
+      "deadline": "2026-10-31",
+      "confidence_pct": 25,
+      "log_odds": -1.099,
+      "verification_criteria": "Verified if Alphabet (or Apple) discloses a numeric payment/consideration amount tied specifically to Gemini/Siri distribution/licensing with annualized value >=$20B, in an SEC filing or earnings call transcript.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+        "https://www.cnbc.com/2026/01/12/alphabet-4-trillion-market-cap.html"
+      ],
+      "monitoring_signals": [
+        "GOOGL and AAPL 10-Q/10-K keyword scans: \"Gemini\", \"Siri\", \"licensing\", \"consideration\"",
+        "Antitrust/regulatory filings that may force payment disclosure",
+        "Analyst Q&A focusing on economics of the partnership"
+      ],
+      "rationale": "Economics may be material but companies often avoid explicit quantification unless compelled by accounting or regulatory factors.",
+      "id": "bd1a7060-eec0-4f45-bcf9-72de2b6e5d8f",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Meta will report Reality Labs operating loss at least 15% lower (less negative) year-over-year in its 2026 Q2 earnings release (quarter ended 2026-06-30), by 2026-08-05 (UTC).",
+      "category": "markets",
+      "horizon_days": 204,
+      "deadline": "2026-08-05",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Verified if Meta\u2019s 2026 Q2 earnings release/10-Q shows Reality Labs operating loss (segment operating income) improved by >=15% versus 2025 Q2 (i.e., loss magnitude reduced by >=15%).",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html"
+      ],
+      "monitoring_signals": [
+        "Meta headcount updates and additional cost-reduction announcements",
+        "Reality Labs capex guidance changes",
+        "Segment revenue trends (Quest hardware/VR content)"
+      ],
+      "rationale": "Announced cuts should flow into segment costs with lag; a 15% YoY improvement is meaningful but achievable if spending discipline holds.",
+      "id": "058e7800-9a36-44b2-aab5-f9364d0523e5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A top-20 U.S. health system (by revenue) will publicly announce production deployment (not just pilot) of an OpenAI/Torch-branded healthcare data workflow product integrated with its EHR or clinical data platform, by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 260,
+      "deadline": "2026-09-30",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "Verified if a health system press release, case study, or conference presentation states an OpenAI/Torch product is deployed in production and integrated with its EHR/clinical data stack (Epic/Cerner/Meditech/etc.), naming the health system and describing live use.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/12/open-ai-torch-health-care-technology.html"
+      ],
+      "monitoring_signals": [
+        "Health system press releases and HIMSS/HLTH conference agendas",
+        "OpenAI enterprise customer announcements in healthcare",
+        "EHR vendor partner marketplaces and integration listings"
+      ],
+      "rationale": "Acquisitions in healthcare are usually aimed at accelerating enterprise deployments; the key uncertainty is compliance/security timelines in large systems.",
+      "id": "2d6a1b84-4533-4ae8-b95f-cdec07409200",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Office of the National Coordinator for Health IT (ONC) will publish a formal RFI/draft guidance/proposed rule that explicitly addresses AI model transparency, auditability, or safety requirements for certified EHR technology, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 352,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Verified if ONC posts (Federal Register or ONC website) an RFI, proposed rule, or official guidance that explicitly references AI/ML models and sets or requests comment on transparency/audit/safety requirements tied to the Health IT Certification Program.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/12/open-ai-torch-health-care-technology.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register notices from ONC mentioning AI/ML",
+        "ONC interoperability/certification rulemaking calendar",
+        "Congressional hearings/GAO reports prompting ONC action on EHR-AI integration"
+      ],
+      "rationale": "As clinical AI tools integrate into EHR workflows, ONC is a natural locus for baseline transparency and safety expectations, though timing depends on administrative priorities.",
+      "id": "43ae337b-9fd5-40b7-9cca-e712d69943b3",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

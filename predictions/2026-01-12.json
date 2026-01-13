@@ -20,7 +20,7 @@
       ],
       "rationale": "A public DOJ inquiry touching the Fed chair creates bipartisan incentives for oversight hearings framed around institutional independence and market stability.",
       "id": "48d3bf5f-b914-466f-ae05-9531f398f710",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "If Congress convenes hearings, Powell is likely to address the issue directly, but legal constraints may limit explicit wording.",
       "id": "6da36cf5-73f4-40cd-86df-39fbf9bfe104",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Rates/central-bank credibility shocks often spill into equity volatility; the threshold is high but reachable during acute policy uncertainty.",
       "id": "95df6bdd-5c6d-42d1-a9c4-54874444b507",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "\u2018Supercycle\u2019 narratives reflect momentum; a +15% half-year move is plausible but requires sustained strength across energy/metals rather than a single spike.",
       "id": "8f087864-ba7b-4e2c-abb4-829212f6eaab",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "rationale": "If policy centers on oil-revenue leverage, sanctions expansion is a standard tool; the numeric threshold ensures the action is meaningful.",
       "id": "1dd52c10-d524-44ed-99e2-bdbd5fbdbe65",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rationale": "Escalating security rhetoric increases the odds of terrorism-label tools, but legal/diplomatic blowback makes this far from certain.",
       "id": "59855afe-5ea5-4422-92bd-aaa4c753f2c5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -148,7 +148,7 @@
       ],
       "rationale": "ULCC overlap is limited in many city pairs, supporting clearance, but airline deals can attract scrutiny over pricing and slot/airport constraints.",
       "id": "a6c4adaa-9d2d-4725-a8f7-2bafb6104094",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "rationale": "If Google/Walmart are pushing agentic commerce, network effects require at least one more major retailer; the technical standard may still fragment across ecosystems.",
       "id": "a68c8f81-bba2-4218-a3eb-a111b5ab5f89",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -190,7 +190,7 @@
       ],
       "rationale": "With a stated ramp plan and improving deliveries, a 60+ month is achievable if quality gates and supplier constraints don\u2019t re-tighten.",
       "id": "3271e31d-9462-4e49-afda-ea9a8b6eaeeb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -211,7 +211,7 @@
       ],
       "rationale": "Rising Arctic competition can trigger discrete spending packages, but Norway may prefer incremental budget lines rather than a single large, labeled package.",
       "id": "a64e7d7c-6e9f-4f07-b4b6-917f96a43b4a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

@@ -1606,3 +1606,12 @@ Overall, the forecasts remain open, with no clear confirmations or disconfirmati
 
 ---
 
+
+## 2026-01-12
+
+Today’s news meaningfully develops the Powell/DOJ-prosecutor inquiry storyline: multiple items describe the investigation and political reactions, including reported opposition on Capitol Hill and discussion of Federal Reserve independence. This increases the plausibility of near-term congressional activity (e.g., hearings or pointed testimony), but none of the bullets confirm that a qualifying committee hearing has already occurred or that Powell has delivered the specific form of testimony required by the forecasts.
+
+Most other predictions remain unaddressed by the provided bullets. Venezuela/oil coverage is thematic but does not document an OFAC designation action meeting the forecast’s precise criteria; similarly, there is no evidence relating to cartel FTO designation, the CRB/VIX quantitative thresholds, the Allegiant–Sun Country antitrust process, Google “commerce agents,” Boeing delivery totals, or Norway Svalbard/High North funding. Overall, the news set chiefly strengthens the relevance of the Powell-related forecasts while leaving all outcomes unresolved.
+
+---
+
