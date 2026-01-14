@@ -1,0 +1,227 @@
+{
+  "date": "2026-01-14",
+  "predictions": [
+    {
+      "text": "The FOMC will cut the federal funds target range by at least 25 bps (upper bound decrease \u22650.25 percentage points vs the level in effect on 2026-01-14), by 2026-06-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 167,
+      "deadline": "2026-06-30",
+      "confidence_pct": 48,
+      "log_odds": -0.0800427076735365,
+      "verification_criteria": "A Federal Reserve FOMC statement (or Federal Reserve official policy announcement) shows the target range upper bound has been reduced by \u22650.25 percentage points compared with the target range upper bound in effect on 2026-01-14.",
+      "evidence": [
+        "CPI showed continued price pressure in December (shelter/food), implying the Fed may stay cautious but cuts remain possible if growth weakens: https://www.bls.gov/news.release/archives/cpi_01132026.htm",
+        "Perceived risk to Fed independence has risen amid Trump\u2013Powell conflict, increasing policy uncertainty: https://www.cnbc.com/2026/01/13/a-major-development-in-trumps-fed-feud-is-set-to-happen-next-week-in-the-supreme-court.html"
+      ],
+      "monitoring_signals": [
+        "FOMC meeting statements, SEP/dot plot updates, and press conferences",
+        "CME FedWatch implied probabilities for 2026 meetings",
+        "Monthly CPI/PCE prints and labor-market cooling signals (payrolls, JOLTS, claims)",
+        "Public commentary linking policy decisions to institutional independence risk"
+      ],
+      "rationale": "Sticky inflation argues for patience, but flat real earnings and any labor-market softening could force at least one cut by mid-2026; political pressure adds uncertainty rather than a clear directional bias.",
+      "id": "574bbb1b-3ed4-4e76-8960-c69b282d64be",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "BLS will report Core CPI-U (CPI less food and energy) year-over-year inflation at or below 2.8% in the CPI release for the September 2026 reference month, by 2026-10-15 (UTC).",
+      "category": "macro",
+      "horizon_days": 274,
+      "deadline": "2026-10-15",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081081643,
+      "verification_criteria": "In the BLS CPI news release for September 2026 (typically published in October 2026), the 'CPI for All Urban Consumers (CPI-U): All items less food and energy' 12-month percent change is \u2264 2.8%.",
+      "evidence": [
+        "December CPI rose 0.3%, with shelter/food driving gains, suggesting core services stickiness: https://www.bls.gov/news.release/archives/cpi_01132026.htm",
+        "Real average hourly earnings unchanged in December, consistent with moderating demand over time: https://www.bls.gov/news.release/archives/realer_01132026.htm"
+      ],
+      "monitoring_signals": [
+        "Monthly core CPI prints (m/m annualized)",
+        "Shelter inflation trend (OER/rent) and services ex-shelter",
+        "Core PCE trend and market-based inflation expectations (5y5y, breakevens)",
+        "Labor-market cooling (job openings, unemployment, wage growth)"
+      ],
+      "rationale": "Progress toward sub-3% core CPI is plausible if shelter disinflation accelerates, but services stickiness makes this a coin-flip over the next ~9 months.",
+      "id": "7726e61f-1fb0-4cf5-9efd-3065420d0105",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OFAC will announce an Iran-related human-rights sanctions action designating at least 10 individuals and/or entities in a single package explicitly tied to repression of protests, by 2026-04-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 106,
+      "deadline": "2026-04-30",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "A U.S. Treasury/OFAC press release (or Treasury sanctions update) explicitly framed as Iran human-rights (or protest repression) sanctions includes \u226510 newly designated individuals/entities in one dated action and ties the action to protest suppression/crackdown language.",
+      "evidence": [
+        "Reports of brutal crackdown amid Iran protests increase likelihood of human-rights-linked sanctions: https://www.nytimes.com/2026/01/13/world/middleeast/iran-protester-deaths.html"
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN list updates tagged Iran/human rights",
+        "State Department statements on Iran protest repression",
+        "Reuters/AP reporting on coordinated U.S./allied sanctions",
+        "Congressional letters urging sanctions on specific Iranian security organs/personnel"
+      ],
+      "rationale": "Escalating protest repression often triggers U.S. human-rights designations; threshold of 10 in one package is common for coordinated actions but timing is uncertain.",
+      "id": "7f1ddf31-10bc-4d05-a1f8-18db793d3a9b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. government will publicly name (or jointly announce with Palestinian authorities) a Palestinian committee intended to administer Gaza, with at least 5 named members, by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 76,
+      "deadline": "2026-03-31",
+      "confidence_pct": 45,
+      "log_odds": -0.20067069546215124,
+      "verification_criteria": "An official White House/State Department statement, or an official Palestinian Authority (or PLO) announcement, identifies a Gaza-administration committee and lists \u22655 individual members by name, explicitly describing it as intended to run/administer/govern Gaza (interim or transitional).",
+      "evidence": [
+        "U.S. plans were reported to name a Palestinian committee to run Gaza, signaling an active governance-transition effort: https://www.nytimes.com/2026/01/13/world/middleeast/gaza-palestinian-committee.html"
+      ],
+      "monitoring_signals": [
+        "State Department briefings and special envoy travel",
+        "PA/PLO official communiques and cabinet decrees",
+        "Regional diplomatic statements (Egypt, Jordan, Qatar, UAE, Saudi)",
+        "UN briefings on governance/aid management arrangements"
+      ],
+      "rationale": "Public planning suggests movement, but naming members requires political buy-in and security conditions that could delay formal announcement.",
+      "id": "5c6ea115-3d76-4dac-9bb9-795f2bb4769a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "South Korea\u2019s prosecutors will formally indict former president Yoon Suk Yeol on charges connected to the alleged martial-law bid, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 167,
+      "deadline": "2026-06-30",
+      "confidence_pct": 65,
+      "log_odds": 0.6190392084062235,
+      "verification_criteria": "A South Korean prosecution authority (including the special prosecutor) publicly confirms a formal indictment (\uae30\uc18c) of Yoon Suk Yeol, and official reporting specifies the indictment relates to the alleged martial-law attempt/bid.",
+      "evidence": [
+        "A special prosecutor is reported to be seeking the death penalty over a martial-law bid, indicating advanced legal escalation: https://www.cnbc.com/2026/01/14/south-korea-special-prosecutor-seek-death-penalty-former-president-yoon-martial-law.html"
+      ],
+      "monitoring_signals": [
+        "Special prosecutor filings, press briefings, and court docket updates",
+        "South Korean National Assembly actions affecting prosecutorial scope",
+        "Arrest warrants, detention hearings, or charge-sheet leaks reported by major Korean outlets",
+        "Reuters/AP updates on formal charging decisions"
+      ],
+      "rationale": "Seeking the maximum penalty usually implies prosecutors believe evidentiary thresholds are met; indictment is more likely than not within six months barring political/legal intervention.",
+      "id": "7d8879a8-0ab0-442c-8054-85dbb53224b7",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Japan\u2019s Prime Minister will announce dissolution of the House of Representatives and set a date for a snap general election, by 2026-05-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 137,
+      "deadline": "2026-05-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081081643,
+      "verification_criteria": "An official Japanese government announcement (PM statement, Cabinet decision, or official election notice) states that the House of Representatives is dissolved and provides a specific election date (polling day).",
+      "evidence": [
+        "Reports note snap-election expectations and market sensitivity to political timing: https://www.cnbc.com/2026/01/14/asia-pacific-nikkei-225-japan-takaichi-election-record.html"
+      ],
+      "monitoring_signals": [
+        "Japanese press (Nikkei, NHK) on dissolution timing",
+        "PM approval ratings and coalition stability indicators",
+        "Diet calendar signals (budget passage timing, confidence votes)",
+        "LDP leadership signals and coalition partner statements"
+      ],
+      "rationale": "Snap-election chatter is meaningful, but tactical considerations (budget, approval, opposition readiness) make timing uncertain; May is plausible but far from assured.",
+      "id": "d5685be5-b021-4495-978d-4bfb3e546554",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Meta will raise the midpoint of its FY2026 capital expenditure guidance by at least $5.0B (USD) between its 2026 Q1 earnings release and its 2026 Q2 earnings release, explicitly citing AI infrastructure/capacity, by 2026-08-05 (UTC).",
+      "category": "tech",
+      "horizon_days": 203,
+      "deadline": "2026-08-05",
+      "confidence_pct": 55,
+      "log_odds": 0.20067069546215124,
+      "verification_criteria": "Meta\u2019s published capex guidance in the 2026 Q2 earnings release (or accompanying call/SEC filing) has a midpoint at least $5.0B higher than the midpoint in the 2026 Q1 earnings release guidance, and the increase is explicitly attributed to AI/data-center/compute infrastructure needs.",
+      "evidence": [
+        "Meta VR layoffs and studio closures reinforce a pivot toward AI investment: https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html"
+      ],
+      "monitoring_signals": [
+        "Meta quarterly earnings releases and call transcripts (capex ranges and explanations)",
+        "Data-center build announcements, GPU procurement chatter, supplier capex",
+        "Hiring trends in AI infra vs Reality Labs",
+        "Power procurement announcements related to data centers"
+      ],
+      "rationale": "The reallocation away from VR toward AI makes upward capex revisions plausible if demand for compute keeps surprising to the upside.",
+      "id": "6548ce5c-13e9-4506-b423-685a9eda4da4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least two U.S. GSIBs (JPM, BAC, C, WFC, GS, MS) will report Q1 2026 FICC trading revenue up at least 10% year-over-year in their Q1 2026 earnings releases, by 2026-05-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 121,
+      "deadline": "2026-05-15",
+      "confidence_pct": 45,
+      "log_odds": -0.20067069546215124,
+      "verification_criteria": "In Q1 2026 earnings materials (press release/10-Q presentation) for at least two of the named banks, the reported FICC (or Fixed Income, Currencies and Commodities) trading revenue for Q1 2026 is \u226510% higher than Q1 2025 on a year-over-year basis (as stated or calculable from disclosed figures).",
+      "evidence": [
+        "JPMorgan\u2019s strong trading revenue suggests volatility is supporting bank earnings: https://www.cnbc.com/2026/01/13/jpmorgan-chase-jpm-earnings-q4-2025.html"
+      ],
+      "monitoring_signals": [
+        "Rates/FX volatility measures and market volumes (UST, swaps, FX)",
+        "Bank management commentary on client activity and spreads",
+        "Macro event calendar (Fed independence headlines, geopolitical shocks)",
+        "Early bank earnings results and segment disclosure consistency"
+      ],
+      "rationale": "A volatility-rich backdrop can lift FICC, but year-ago comps and client risk appetite can swing results; requiring two banks reduces idiosyncratic noise.",
+      "id": "f9d168a8-f330-4252-82de-f27bfa6f677e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent crude oil front-month futures will settle at or above $95.00 per barrel on at least one trading day, by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 167,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084062235,
+      "verification_criteria": "ICE official settlement price for the Brent front-month futures contract is \u2265 $95.00/bbl on at least one trading day on or before 2026-06-30 (UTC).",
+      "evidence": [
+        "Oil jumped on U.S.\u2013Iran tension signals, highlighting geopolitics\u2019 role in the risk premium: https://www.cnbc.com/2026/01/13/oil-prices-today-trump-iran-protests.html"
+      ],
+      "monitoring_signals": [
+        "Iran-related escalation (sanctions, shipping disruptions, attacks)",
+        "OPEC+ compliance and surprise supply changes",
+        "Inventory trends (EIA weekly, OECD stocks) and demand revisions",
+        "Risk sentiment and USD moves affecting commodity pricing"
+      ],
+      "rationale": "Geopolitical risk can spike prices quickly, but $95 requires a meaningful risk-premium build or supply tightness; probability is material but below 50% over ~6 months.",
+      "id": "28d1be73-7fc5-4d54-a6ed-ed82cfd1840e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. FDA will grant at least one clearance/authorization (510(k) clearance or De Novo grant) for an AI/ML-enabled device intended to assist peripheral blood smear or hematology morphology interpretation (e.g., detection/classification of abnormal blood cells), by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 351,
+      "deadline": "2026-12-31",
+      "confidence_pct": 25,
+      "log_odds": -1.0986122886681098,
+      "verification_criteria": "An entry in FDA\u2019s public device databases (510(k) or De Novo) dated on/before 2026-12-31 shows a cleared/granted device whose indicated use includes AI/ML assistance for peripheral blood smear review and/or hematology cell morphology interpretation.",
+      "evidence": [
+        "Recent research highlights AI detecting dangerous blood cells doctors miss, pointing to translational momentum: https://www.sciencedaily.com/releases/2026/01/260112214317.htm"
+      ],
+      "monitoring_signals": [
+        "FDA device clearance announcements and database updates",
+        "Company press releases from digital pathology/hematology vendors",
+        "Peer-reviewed clinical validation studies and multicenter trials",
+        "CMS coding/reimbursement moves for AI-assisted hematology workflows"
+      ],
+      "rationale": "Clinical traction is rising, but regulatory timelines and dataset/validation hurdles make a 2026 clearance plausible yet relatively low probability.",
+      "id": "58671801-e5dc-4313-9769-309bec303871",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

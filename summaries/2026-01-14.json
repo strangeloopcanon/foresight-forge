@@ -1,0 +1,113 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. CPI rose 0.3% in December, with shelter and food driving gains\u2014suggesting core services inflation remains sticky.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/cpi_01132026.htm"
+    },
+    {
+      "text": "Real average hourly earnings were unchanged in December, implying wage gains are not outpacing inflation and household purchasing power is flat.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/realer_01132026.htm"
+    },
+    {
+      "text": "Fed approved Fifth Third Bancorp\u2019s application, signaling routine regulatory clearance for bank actions amid heightened scrutiny of financial stability.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260113a.htm"
+    },
+    {
+      "text": "Escalating Trump\u2013Powell conflict and a looming Supreme Court milestone raise perceived risk to Fed independence, a key anchor for rates and inflation expectations.",
+      "tags": [
+        "rates",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/13/a-major-development-in-trumps-fed-feud-is-set-to-happen-next-week-in-the-supreme-court.html"
+    },
+    {
+      "text": "Oil jumped over 2% after U.S. signals on Iran (canceled meetings, support for protesters), highlighting geopolitics\u2019 outsized role in energy risk premia.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/13/oil-prices-today-trump-iran-protests.html"
+    },
+    {
+      "text": "Iran protests face reported brutal crackdown; reports of Starlink-linked free access underscore how connectivity can sustain unrest and complicate regime control.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protester-deaths.html"
+    },
+    {
+      "text": "U.S. plans to name a Palestinian committee to run Gaza, signaling a governance transition attempt amid continued conflict and regional diplomatic strain.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/01/13/world/middleeast/gaza-palestinian-committee.html"
+    },
+    {
+      "text": "South Korea\u2019s special prosecutor seeking the death penalty for ex-president Yoon over a martial-law bid raises political instability risk in a key U.S. ally.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/14/south-korea-special-prosecutor-seek-death-penalty-former-president-yoon-martial-law.html"
+    },
+    {
+      "text": "Japanese equities opened at record highs amid snap-election expectations, reflecting investor sensitivity to fiscal/monetary policy shifts and political timing.",
+      "tags": [
+        "markets",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/14/asia-pacific-nikkei-225-japan-takaichi-election-record.html"
+    },
+    {
+      "text": "JPMorgan beat estimates on stronger trading revenue, suggesting market volatility is supporting bank earnings even as consumer credit risks remain a watchpoint.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/13/jpmorgan-chase-jpm-earnings-q4-2025.html"
+    },
+    {
+      "text": "Boeing outsold Airbus for the first time since 2018, with ~600 deliveries\u2014improving aerospace cycle momentum and supply-chain execution credibility.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/13/boeing-orders-deliveries.html"
+    },
+    {
+      "text": "Meta VR layoffs and studio closures underscore a capital and talent reallocation toward AI, reinforcing industry-wide reprioritization away from metaverse bets.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/13/meta-lays-off-vr-employees-underscoring-zuckerbergs-pivot-to-ai.html"
+    },
+    {
+      "text": "AI research advances: models detect dangerous blood cells doctors miss, pointing to near-term clinical decision support rather than patient-facing chatbots.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260112214317.htm"
+    },
+    {
+      "text": "Climate and environment updates: Thwaites Glacier fieldwork underscores measurement challenges, while studies find substantial plastic in city air, elevating health/climate risks.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260112211457.htm"
+    }
+  ]
+}

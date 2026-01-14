@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-13",
+  "assessments": [
+    {
+      "id": "dd53ef16-274d-4887-9691-3aa2a240ce7d",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news includes reporting that JPMorgan says banks could fight a Trump credit-card rate cap proposal, which signals political momentum around an APR cap. However, the bullet does not provide clear evidence that a bill has been formally introduced in either chamber with explicit statutory text capping APRs at 10% or less, so the prediction cannot be marked correct yet."
+    },
+    {
+      "id": "22fce5ea-91cb-4993-a046-2f305065249c",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets references the 2025 Shared National Credit (SNC) review or any 2026 Q1 GSIB earnings-call/10\u2011Q language, and the relevant reporting period is still ahead."
+    },
+    {
+      "id": "6e599958-5c08-4fcc-9355-2701bad39e8a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not provide market-close data indicating DXY closed below 95.0, nor do they report a move of that magnitude; the deadline remains months away."
+    },
+    {
+      "id": "60725585-bb25-4fca-bef9-bf35b3d9a1ee",
+      "status": "pending",
+      "status_rationale": "No LBMA Gold Price (PM) fixing levels are provided in today\u2019s bullets, and there is no clear evidence that gold has printed \u226510% above the 2026-01-12 LBMA PM baseline."
+    },
+    {
+      "id": "4a1b7118-26c0-4d87-9a36-fe4c2f8f1b40",
+      "status": "pending",
+      "status_rationale": "Although several items relate to Iran (protests, geopolitics, oil), none indicate an OFAC sanctions action designating 3+ non-Iranian parties tied to Iranian petroleum/petrochemical sales, shipping, or evasion."
+    },
+    {
+      "id": "1825bba1-0ec8-4d3f-9e42-ea2659faf0ec",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no information about an iOS 19 developer beta or Apple-documented Siri integration using Google Gemini."
+    },
+    {
+      "id": "bd1a7060-eec0-4f45-bcf9-72de2b6e5d8f",
+      "status": "pending",
+      "status_rationale": "No Alphabet SEC filing, earnings-call excerpt, or other disclosure is cited today that quantifies an Apple-related Gemini/Siri consideration at an annualized value \u2265$20B."
+    },
+    {
+      "id": "058e7800-9a36-44b2-aab5-f9364d0523e5",
+      "status": "pending",
+      "status_rationale": "CNBC reports Meta VR layoffs and studio closures, but this does not establish the year-over-year change in Reality Labs operating loss for Meta\u2019s 2026 Q2 earnings release (which will occur later)."
+    },
+    {
+      "id": "2d6a1b84-4533-4ae8-b95f-cdec07409200",
+      "status": "pending",
+      "status_rationale": "No bulletin reports a top-20 U.S. health system announcing production deployment of an OpenAI/Torch-branded healthcare data workflow product integrated with its EHR/clinical data platform."
+    },
+    {
+      "id": "43ae337b-9fd5-40b7-9cca-e712d69943b3",
+      "status": "pending",
+      "status_rationale": "There is no mention in today\u2019s bullets of ONC publishing an RFI/draft guidance/proposed rule addressing AI transparency/auditability/safety requirements for certified EHR technology."
+    }
+  ]
+}

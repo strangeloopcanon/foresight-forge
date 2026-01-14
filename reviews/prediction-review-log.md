@@ -1615,3 +1615,12 @@ Most other predictions remain unaddressed by the provided bullets. Venezuela/oil
 
 ---
 
+
+## 2026-01-13
+
+Most predictions remain unresolved because today’s news does not directly provide the decisive evidence required by the forecast criteria, and nearly all deadlines are well into 2026. The one notable near-term signal is the CNBC item about JPMorgan anticipating a fight over a Trump credit-card rate cap; this increases salience for the “bill introduced with a 10% APR cap” prediction, but it still falls short of confirming formal introduction and the required explicit statutory numeric cap.
+
+Other relevant thematic developments (Iran protests and related geopolitical tension affecting oil prices; Meta’s VR layoffs and pivot narrative) provide context but do not satisfy the precise verification conditions (e.g., an OFAC designation action with specific structure/count, or a quantified Reality Labs operating-loss comparison in the specified quarter’s earnings release). Overall, the news flow is more “directional” than “confirmatory,” so statuses appropriately remain pending absent clear, attributable documentary/market evidence.
+
+---
+
