@@ -21,7 +21,7 @@
       ],
       "rationale": "Sticky inflation argues for patience, but flat real earnings and any labor-market softening could force at least one cut by mid-2026; political pressure adds uncertainty rather than a clear directional bias.",
       "id": "574bbb1b-3ed4-4e76-8960-c69b282d64be",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Progress toward sub-3% core CPI is plausible if shelter disinflation accelerates, but services stickiness makes this a coin-flip over the next ~9 months.",
       "id": "7726e61f-1fb0-4cf5-9efd-3065420d0105",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -66,7 +66,7 @@
       ],
       "rationale": "Escalating protest repression often triggers U.S. human-rights designations; threshold of 10 in one package is common for coordinated actions but timing is uncertain.",
       "id": "7f1ddf31-10bc-4d05-a1f8-18db793d3a9b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -88,7 +88,7 @@
       ],
       "rationale": "Public planning suggests movement, but naming members requires political buy-in and security conditions that could delay formal announcement.",
       "id": "5c6ea115-3d76-4dac-9bb9-795f2bb4769a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "Seeking the maximum penalty usually implies prosecutors believe evidentiary thresholds are met; indictment is more likely than not within six months barring political/legal intervention.",
       "id": "7d8879a8-0ab0-442c-8054-85dbb53224b7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "Snap-election chatter is meaningful, but tactical considerations (budget, approval, opposition readiness) make timing uncertain; May is plausible but far from assured.",
       "id": "d5685be5-b021-4495-978d-4bfb3e546554",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "rationale": "The reallocation away from VR toward AI makes upward capex revisions plausible if demand for compute keeps surprising to the upside.",
       "id": "6548ce5c-13e9-4506-b423-685a9eda4da4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -176,7 +176,7 @@
       ],
       "rationale": "A volatility-rich backdrop can lift FICC, but year-ago comps and client risk appetite can swing results; requiring two banks reduces idiosyncratic noise.",
       "id": "f9d168a8-f330-4252-82de-f27bfa6f677e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -198,7 +198,7 @@
       ],
       "rationale": "Geopolitical risk can spike prices quickly, but $95 requires a meaningful risk-premium build or supply tightness; probability is material but below 50% over ~6 months.",
       "id": "28d1be73-7fc5-4d54-a6ed-ed82cfd1840e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -220,7 +220,7 @@
       ],
       "rationale": "Clinical traction is rising, but regulatory timelines and dataset/validation hurdles make a 2026 clearance plausible yet relatively low probability.",
       "id": "58671801-e5dc-4313-9769-309bec303871",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

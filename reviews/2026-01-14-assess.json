@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-14",
+  "assessments": [
+    {
+      "id": "574bbb1b-3ed4-4e76-8960-c69b282d64be",
+      "status": "pending",
+      "status_rationale": "No FOMC decision reported in today\u2019s bullets that would confirm a \u226525 bps cut vs the level in effect on 2026-01-14; deadline is 2026-06-30."
+    },
+    {
+      "id": "7726e61f-1fb0-4cf5-9efd-3065420d0105",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news does not include the September 2026 Core CPI-U y/y print; the referenced release is not due until 2026-10-15."
+    },
+    {
+      "id": "7f1ddf31-10bc-4d05-a1f8-18db793d3a9b",
+      "status": "pending",
+      "status_rationale": "No bulletin reports an OFAC Iran-related human-rights sanctions package designating \u226510 parties tied explicitly to protest repression; deadline is 2026-04-30."
+    },
+    {
+      "id": "5c6ea115-3d76-4dac-9bb9-795f2bb4769a",
+      "status": "pending",
+      "status_rationale": "No item indicates the U.S. government publicly named (or jointly announced) a Gaza-administering Palestinian committee with \u22655 named members; deadline is 2026-03-31."
+    },
+    {
+      "id": "7d8879a8-0ab0-442c-8054-85dbb53224b7",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no report that South Korean prosecutors have formally indicted former president Yoon Suk Yeol for the alleged martial-law bid; deadline is 2026-06-30."
+    },
+    {
+      "id": "d5685be5-b021-4495-978d-4bfb3e546554",
+      "status": "pending",
+      "status_rationale": "No news bullet indicates Japan\u2019s Prime Minister announced dissolution of the House of Representatives and set a snap-election date; deadline is 2026-05-31."
+    },
+    {
+      "id": "6548ce5c-13e9-4506-b423-685a9eda4da4",
+      "status": "pending",
+      "status_rationale": "No earnings-guidance change is reported here, and the comparison window (between Meta\u2019s 2026 Q1 and 2026 Q2 earnings releases) has not been evidenced in today\u2019s bullets; deadline is 2026-08-05."
+    },
+    {
+      "id": "f9d168a8-f330-4252-82de-f27bfa6f677e",
+      "status": "pending",
+      "status_rationale": "The relevant Q1 2026 bank earnings releases and their FICC trading revenue figures are not provided in today\u2019s news bullets; deadline is 2026-05-15."
+    },
+    {
+      "id": "28d1be73-7fc5-4d54-a6ed-ed82cfd1840e",
+      "status": "pending",
+      "status_rationale": "Today\u2019s market coverage notes oil prices falling amid Iran-related tensions, but provides no evidence of ICE Brent front-month settling \u2265$95 on any day; deadline is 2026-06-30."
+    },
+    {
+      "id": "58671801-e5dc-4313-9769-309bec303871",
+      "status": "pending",
+      "status_rationale": "No FDA 510(k) clearance or De Novo grant for an AI/ML hematology/peripheral blood smear morphology interpretation device is mentioned in today\u2019s bullets; deadline is 2026-12-31."
+    }
+  ]
+}

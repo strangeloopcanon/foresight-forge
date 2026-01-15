@@ -1624,3 +1624,12 @@ Other relevant thematic developments (Iran protests and related geopolitical ten
 
 ---
 
+
+## 2026-01-14
+
+None of the listed forecasts can be marked resolved based on today’s headlines; all remain time-dependent with deadlines ranging from March to December 2026. The news set is dominated by geopolitics (U.S.–Iran escalation management; shifts in U.S. posture toward Venezuelan oil) and domestic economic policy (tariffs and prices; debate around Fed independence), but without discrete, verifiable events that directly satisfy any forecast’s conditions.
+
+That said, several bullets are directionally relevant. Iran-related risk is a key driver for the Brent ≥$95 call, but today’s reporting emphasizes oil falling as Trump signals he may hold off—suggesting near-term downside/volatility rather than a breakout. Separately, reports of climbing food prices and tariff pass-through (Beige Book coverage) are relevant to the inflation and monetary-policy forecasts: persistent price pressures could delay/diminish the likelihood of a mid-2026 Fed cut and make a ≤2.8% core CPI print by Sept 2026 harder, while any perceived threat to Fed independence could add uncertainty to both rates and market outcomes.
+
+---
+

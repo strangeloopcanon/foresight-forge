@@ -1,0 +1,217 @@
+{
+  "date": "2026-01-15",
+  "predictions": [
+    {
+      "text": "The published FOMC minutes for the March 2026 meeting will contain the word \u201ctariff\u201d at least 5 times (case-insensitive), by 2026-04-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 105,
+      "deadline": "2026-04-30",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Retrieve the official Federal Reserve PDF/HTML of the March 2026 FOMC minutes and count occurrences of the substring \u201ctariff\u201d (case-insensitive). Prediction resolves YES if count \u2265 5.",
+      "evidence": [
+        "Fed Beige Book: businesses increasingly pass tariff-related costs to consumers, raising near-term inflation risks and complicating disinflation. https://www.marketwatch.com/story/businesses-across-the-country-are-starting-to-pass-along-higher-costs-from-tariffs-feds-beige-book-finds-f5bfd0df"
+      ],
+      "monitoring_signals": [
+        "Fed speakers explicitly citing tariffs as an inflation driver",
+        "FOMC statement language referencing trade policy/tariffs",
+        "Inflation breakevens rising on tariff headlines"
+      ],
+      "rationale": "Tariffs are becoming a commonly cited input-cost driver; minutes tend to mirror prominent risks discussed across districts.",
+      "id": "65934bb3-46cc-4636-88db-0d7ec1c9b45a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "In at least one BLS PPI release covering reference months Jan\u2013Jun 2026, the seasonally adjusted Final Demand Goods index will rise by at least +0.7% month-over-month, by 2026-07-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 197,
+      "deadline": "2026-07-31",
+      "confidence_pct": 42,
+      "log_odds": -0.323,
+      "verification_criteria": "Using BLS PPI tables for each monthly release (reference months Jan\u2013Jun 2026), identify the SA m/m percent change for Final Demand Goods. YES if any month is \u2265 +0.7%.",
+      "evidence": [
+        "U.S. PPI rose 0.2% in November; goods +0.9% while services were flat, suggesting goods-led pipeline inflation pressure. https://www.bls.gov/news.release/archives/ppi_01142026.htm",
+        "Fed Beige Book: businesses increasingly pass tariff-related costs to consumers, raising near-term inflation risks and complicating disinflation. https://www.marketwatch.com/story/businesses-across-the-country-are-starting-to-pass-along-higher-costs-from-tariffs-feds-beige-book-finds-f5bfd0df"
+      ],
+      "monitoring_signals": [
+        "PPI goods subcomponents (energy, core goods) accelerating",
+        "Import price index and freight/shipping costs",
+        "Corporate earnings commentary on input-cost increases"
+      ],
+      "rationale": "Recent PPI data show goods can spike; tariff pass-through increases odds of another outsized monthly goods print.",
+      "id": "b336eca4-30ec-4135-9a83-788de43d0629",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 10-year Treasury yield (FRED series DGS10) will close below 3.50% on at least one U.S. trading day, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 166,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "Check daily DGS10 values (or an equivalent official close series). YES if any date through 2026-06-30 has a value < 3.50.",
+      "evidence": [
+        "Wholesale inflation was softer than expected while retail sales moved higher, signaling resilient demand with easing price pressures. https://www.cnbc.com/2026/01/14/wholesale-inflation-was-softer-than-expected-retail-sales-moved-higher-in-november.html",
+        "BEA\u2019s Q3 2025 international transactions data spotlight the current-account balance and cross-border capital flows, key to dollar funding conditions. https://www.bea.gov/news/2026/us-international-transactions-3rd-quarter-2025"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE downside surprises and falling inflation swaps",
+        "Deterioration in labor-market indicators (claims, payrolls)",
+        "Risk-off episodes driving duration demand"
+      ],
+      "rationale": "A modest growth scare or disinflation continuation could pull 10Y yields below mid-3s even if policy cuts are uncertain.",
+      "id": "f1a58ce9-49c9-4922-a1a4-2cbf4f733c09",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NAR Existing Home Sales (seasonally adjusted annual rate) will print at or above 4.50 million in at least one monthly release for reference months through 2026-05, by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 166,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Using National Association of Realtors monthly Existing Home Sales releases, resolve YES if any SAAR value reported for releases with reference months up to May 2026 is \u2265 4.50 million.",
+      "evidence": [
+        "Existing home sales beat expectations to end 2025; prices eased further, pointing to improving transaction volumes despite still-high borrowing costs. https://www.cnbc.com/2026/01/14/existing-home-sales-end-2025-stronger-than-expected.html"
+      ],
+      "monitoring_signals": [
+        "Mortgage rate declines and purchase application trends",
+        "Inventory levels and months\u2019 supply",
+        "Homebuilder sentiment and housing starts"
+      ],
+      "rationale": "Transaction volumes appear to be recovering from depressed levels; modest rate relief and easing prices can lift SAAR above 4.5M.",
+      "id": "d40b4e9d-eac5-4b6a-acd4-5166a537b1a5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "BLS will report the U.S. unemployment rate (U-3, seasonally adjusted) at or above 4.3% in at least one Employment Situation report released by 2026-07-10 (UTC).",
+      "category": "macro",
+      "horizon_days": 176,
+      "deadline": "2026-07-10",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Check each monthly BLS Employment Situation release through the one published by 2026-07-10. YES if any reported U-3 unemployment rate is \u2265 4.3%.",
+      "evidence": [
+        "U.S. retail sales strengthened in November while wholesale inflation was softer than expected, signaling resilient demand with easing price pressures. https://www.cnbc.com/2026/01/14/wholesale-inflation-was-softer-than-expected-retail-sales-moved-higher-in-november.html"
+      ],
+      "monitoring_signals": [
+        "Initial and continuing jobless claims trend",
+        "JOLTS openings and quits rate",
+        "Temporary help employment and hours worked"
+      ],
+      "rationale": "A mild cooling in hiring could lift unemployment modestly; 4.3% is a moderate threshold relative to late-cycle dynamics.",
+      "id": "ce608cd1-cb95-4651-bb5c-58d2b7e4ec09",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. Commerce (BIS) will publish a Federal Register notice that proposes or implements an explicit licensing surcharge/fee mechanism (percentage or dollar fee) for exports of advanced AI chips to China, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 166,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Resolve YES if a Federal Register document from BIS/Commerce explicitly establishes or proposes a fee/surcharge tied to licensing/export authorization for advanced AI chips to China (must include a numeric fee or formula).",
+      "evidence": [
+        "Trump administration cleared Nvidia H200 chip sales to China with a 25% surcharge, signaling a more transactional approach to AI export controls. https://www.cnbc.com/2026/01/14/trump-nvidia-h200-china-ai-chips.html"
+      ],
+      "monitoring_signals": [
+        "Commerce/BIS press briefings about \u2018fees\u2019 or \u2018surcharges\u2019",
+        "Congressional letters/hearings on monetizing export licenses",
+        "Major chipmakers disclosing new China export terms"
+      ],
+      "rationale": "If the policy direction is toward transactional export controls, formalizing a surcharge mechanism is a plausible next step, but legal/process hurdles keep probability moderate.",
+      "id": "1c6ac04d-7f62-48a5-b846-6034cd8cf2a9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "OpenAI (or Microsoft on OpenAI\u2019s behalf) will publicly announce a new compute procurement agreement with a non-Nvidia accelerator provider (e.g., Cerebras, AMD, Intel, Groq) with stated total contract value of at least $5.0B (USD), by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 258,
+      "deadline": "2026-09-30",
+      "confidence_pct": 30,
+      "log_odds": -0.847,
+      "verification_criteria": "Resolve YES if OpenAI or Microsoft publicly announces a compute/chip supply or capacity deal naming a non-Nvidia accelerator provider and explicitly states total value \u2265 $5.0B (or clearly equivalent multi-year committed spend).",
+      "evidence": [
+        "OpenAI reportedly signed a ~$10B compute deal with Cerebras, underscoring escalating AI infrastructure spending and competition for specialized chips. https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/"
+      ],
+      "monitoring_signals": [
+        "Announcements of large-scale inference partnerships beyond Nvidia",
+        "Foundry capacity reservations and long-term wafer agreements",
+        "OpenAI/Microsoft disclosures about diversifying accelerator stack"
+      ],
+      "rationale": "Spending is escalating and diversification incentives are strong, but public disclosure with explicit \u2265$5B value is less common.",
+      "id": "d7bccb37-e2e5-4035-bbb8-6137d3ef9711",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "California\u2019s Department of Justice / Attorney General will publicly confirm issuance of a subpoena, civil investigative demand, or equivalent compulsory process to xAI related to Grok image generation (sexualized real-person or similar), by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 166,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Resolve YES if CA DOJ/AG or xAI publicly states that a subpoena/CID/compulsory legal demand was issued/served in the investigation, or if such a document is published by the AG/DOJ.",
+      "evidence": [
+        "xAI disabled Grok\u2019s sexualized real-person image generation amid backlash; California DOJ probe highlights rising regulatory and liability risk for generative AI. https://www.cnbc.com/2026/01/14/elon-musk-xai-california-grok-investigation.html"
+      ],
+      "monitoring_signals": [
+        "Public statements by CA AG about the status/escalation of the probe",
+        "xAI legal filings or transparency reports referencing government demands",
+        "New complaints from victims/advocacy groups prompting enforcement"
+      ],
+      "rationale": "A probe often escalates to compulsory process if voluntary cooperation is insufficient; timing uncertainty keeps confidence below 50%.",
+      "id": "4802b94c-557f-4bd7-ba60-ccc1bd2727f9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OFAC will issue a new or amended Venezuela-related General License that explicitly authorizes U.S. persons to engage in expanded transactions involving Venezuelan crude oil production and/or exports (beyond prior baseline authorizations), by 2026-05-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 136,
+      "deadline": "2026-05-31",
+      "confidence_pct": 33,
+      "log_odds": -0.708,
+      "verification_criteria": "Resolve YES if OFAC publishes a Venezuela-related General License (new or amended) that explicitly authorizes broader crude production/export transactions than previously authorized (must reference crude oil and production/export activity).",
+      "evidence": [
+        "U.S. seeks expanded Venezuelan oil dealings, reshaping ties; Senate vote blocked a Venezuela war-powers check, preserving executive flexibility. https://www.nytimes.com/2026/01/14/world/americas/venezuela-oil-us-deal.html"
+      ],
+      "monitoring_signals": [
+        "OFAC FAQ updates and GL amendments referencing PDVSA/crude exports",
+        "U.S. diplomatic statements on energy supply and Venezuela",
+        "IOC/refiner statements about seeking/receiving U.S. authorization"
+      ],
+      "rationale": "Reported policy direction points toward more Venezuelan oil engagement, but domestic politics and sanctions leverage make near-term license expansion uncertain.",
+      "id": "5f31178f-dba5-49f6-acbb-6e11e0fd123c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The IAEA Board of Governors will adopt a resolution that formally censures Iran (or finds Iran in non-compliance) regarding safeguards/enrichment cooperation, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 166,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Resolve YES if the IAEA Board of Governors adopts a resolution (reported by IAEA release or major wire services) that includes censure/non-compliance language regarding Iran\u2019s safeguards or cooperation obligations.",
+      "evidence": [
+        "U.S.-Iran tensions: personnel moved from Qatar base; Gulf allies oppose strikes; oil fell on hints of delay\u2014risk premium remains headline-driven. https://www.cnbc.com/2026/01/14/oil-falls-nearly-2percent-after-trump-signals-he-could-hold-off-on-attacking-iran.html"
+      ],
+      "monitoring_signals": [
+        "IAEA Director General reports on Iran cooperation levels",
+        "European (E3) diplomatic positioning before Board meetings",
+        "Public references to referral/escalation steps"
+      ],
+      "rationale": "Heightened tensions increase the chance of diplomatic escalation via the IAEA, but member-state bargaining and timing make this less than even odds.",
+      "id": "bd31efab-9740-426e-9cda-0134bff1e48d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
