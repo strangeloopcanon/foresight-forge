@@ -1,0 +1,120 @@
+{
+  "bullets": [
+    {
+      "text": "Taiwan commits $250B to U.S. semiconductor manufacturing, deepening supply-chain decoupling from China and tying Taiwan security more closely to U.S. industrial policy.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/15/us-taiwan-chips-deal-china.html"
+    },
+    {
+      "text": "TSMC posts another record quarter; profit up 35% on AI chip demand, reinforcing AI-led capex cycle and tight leading-edge capacity competition.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html"
+    },
+    {
+      "text": "U.S. imposes 25% tariff on Nvidia H200 chips headed to China, escalating AI compute export controls and raising costs for China-facing cloud and model training.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/"
+    },
+    {
+      "text": "NATO nations deploy to Greenland after tense U.S. talks, signaling heightened Arctic militarization and alliance friction over territory, basing, and shipping routes.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/01/15/greenland-nato-troops-denmark-germany-arctic-trump.html"
+    },
+    {
+      "text": "Iran\u2019s prolonged internet shutdown boosts reliance on Starlink and offline-mesh tools, complicating state censorship and adding geopolitical risk around satellite connectivity.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/"
+    },
+    {
+      "text": "Oil drops over 4% as traders price reduced near-term Iran strike risk; underscores how Middle East escalation expectations quickly reprice energy risk premia.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/15/oil-prices-sink-more-than-2percent-as-trump-remarks-calm-concern-about-iran.html"
+    },
+    {
+      "text": "Fed\u2019s Goolsbee warns inflation could return if central-bank independence erodes, highlighting governance risk as a macro driver of inflation expectations and term premia.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/01/15/feds-goolsbee-says-inflation-could-come-roaring-back-if-central-bank-independence-goes-away.html"
+    },
+    {
+      "text": "Fannie/Freddie IPO plan remains uncertain as housing affordability priorities clash with privatization aims, affecting mortgage spreads and long-run U.S. housing finance structure.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/01/15/business/fannie-and-freddie-ipo.html"
+    },
+    {
+      "text": "Morgan Stanley beats earnings expectations on wealth management strength, reinforcing fee-based business resilience even as investment banking remains cyclical.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/15/morgan-stanley-ms-q4-2025-earnings.html"
+    },
+    {
+      "text": "Goldman explores prediction markets as retail participation surges; potential new trading/market-making revenue but with elevated regulatory, integrity, and reputational risk.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/15/goldman-sachs-ceo-looks-at-how-to-get-involved-in-prediction-markets.html"
+    },
+    {
+      "text": "Amazon says its $475M Saks stake is now worthless after bankruptcy, spotlighting rising distress risk in luxury retail and strategic partnership fragility.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/15/amazon-says-saks-investment-is-worthless-after-bankruptcy.html"
+    },
+    {
+      "text": "Wikimedia partners with major AI firms for access/licensing, accelerating paid data pipelines for model training and shifting economics of open knowledge and content provenance.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/15/wikipedia-amazon-meta-perplexity-ai.html"
+    },
+    {
+      "text": "Large observational study suggests statins may extend lifespan for most people with type 2 diabetes, strengthening the case for broader lipid management in this population.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260115022812.htm"
+    },
+    {
+      "text": "Scientists question safety of some BPA-free packaging alternatives, implying potential regulatory shifts and reformulation costs across food, beverage, and consumer packaging supply chains.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260114084134.htm"
+    },
+    {
+      "text": "Alaska Arctic enters a new, extreme wildfire era, raising long-term climate-risk costs for infrastructure, insurance, and energy systems across northern latitudes.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260114084119.htm"
+    }
+  ]
+}

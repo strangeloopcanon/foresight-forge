@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-15",
+  "assessments": [
+    {
+      "id": "65934bb3-46cc-4636-88db-0d7ec1c9b45a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news does not include (or provide excerpts from) the published FOMC minutes for the March 2026 meeting, so word-count verification for \u201ctariff\u201d cannot yet be made."
+    },
+    {
+      "id": "b336eca4-30ec-4135-9a83-788de43d0629",
+      "status": "pending",
+      "status_rationale": "No BLS PPI release data for reference months Jan\u2013Jun 2026 (including the seasonally adjusted Final Demand Goods index m/m change) is provided in today\u2019s bullets."
+    },
+    {
+      "id": "f1a58ce9-49c9-4922-a1a4-2cbf4f733c09",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items do not report a U.S. 10-year Treasury yield close (FRED DGS10) below 3.50% or any specific yield close that would settle the claim."
+    },
+    {
+      "id": "d40b4e9d-eac5-4b6a-acd4-5166a537b1a5",
+      "status": "pending",
+      "status_rationale": "No NAR Existing Home Sales (SAAR) monthly release value is cited in the news bullets, so the 4.50 million threshold cannot be assessed."
+    },
+    {
+      "id": "ce608cd1-cb95-4651-bb5c-58d2b7e4ec09",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news does not include a BLS Employment Situation report or an unemployment rate (U-3) print that would confirm or refute reaching 4.3%."
+    },
+    {
+      "id": "1c6ac04d-7f62-48a5-b846-6034cd8cf2a9",
+      "status": "pending",
+      "status_rationale": "No Federal Register notice from Commerce/BIS is referenced that proposes or implements an explicit licensing surcharge/fee mechanism for advanced AI chip exports to China."
+    },
+    {
+      "id": "d7bccb37-e2e5-4035-bbb8-6137d3ef9711",
+      "status": "pending",
+      "status_rationale": "The OpenAI-related headline concerns investor communications about Musk ahead of trial, not a disclosed compute procurement agreement with a non-Nvidia accelerator provider valued at $5B+."
+    },
+    {
+      "id": "4802b94c-557f-4bd7-ba60-ccc1bd2727f9",
+      "status": "pending",
+      "status_rationale": "No item reports a public confirmation by California\u2019s DOJ/AG of issuing a subpoena/CID (or similar compulsory process) to xAI related to Grok image generation."
+    },
+    {
+      "id": "5f31178f-dba5-49f6-acbb-6e11e0fd123c",
+      "status": "pending",
+      "status_rationale": "While Venezuela is in the news (including U.S. seizure of an oil tanker linked to Venezuela), there is no mention of OFAC issuing a new/amended Venezuela-related General License expanding authorized crude production/export transactions."
+    },
+    {
+      "id": "bd31efab-9740-426e-9cda-0134bff1e48d",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets discuss Iran-related connectivity/protests and regional geopolitics, but provide no evidence that the IAEA Board of Governors adopted a censure or non-compliance resolution regarding safeguards/enrichment cooperation."
+    }
+  ]
+}

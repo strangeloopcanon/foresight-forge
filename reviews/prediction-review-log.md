@@ -1633,3 +1633,12 @@ That said, several bullets are directionally relevant. Iran-related risk is a ke
 
 ---
 
+
+## 2026-01-15
+
+None of the listed stories provide the kind of official, checkable artifacts needed to resolve these forecasts (e.g., FOMC minutes text, BLS PPI tables, BLS unemployment rate print, NAR release figures, FRED close data, BIS Federal Register notices, OFAC General License language, IAEA Board resolutions, or a specific OpenAI/Microsoft procurement announcement with a stated $5B+ value). As a result, every prediction remains pending.
+
+There are, however, topical signals relevant to future resolution. Venezuela-related enforcement actions (oil tanker seizure) and Venezuela political coverage could increase the probability of policy moves (including—but not implying—an expanded OFAC General License). Similarly, the Taiwan–U.S. chipmaking investment/trade-deal headline is adjacent to the broader export-controls/semiconductor geopolitics space, but it is not evidence of a BIS licensing surcharge regime. The OpenAI headline is noteworthy for corporate/legal context but does not touch the specific condition of a non-Nvidia accelerator compute contract with a disclosed $5B+ value.
+
+---
+

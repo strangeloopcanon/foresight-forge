@@ -19,7 +19,7 @@
       ],
       "rationale": "Tariffs are becoming a commonly cited input-cost driver; minutes tend to mirror prominent risks discussed across districts.",
       "id": "65934bb3-46cc-4636-88db-0d7ec1c9b45a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Recent PPI data show goods can spike; tariff pass-through increases odds of another outsized monthly goods print.",
       "id": "b336eca4-30ec-4135-9a83-788de43d0629",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "A modest growth scare or disinflation continuation could pull 10Y yields below mid-3s even if policy cuts are uncertain.",
       "id": "f1a58ce9-49c9-4922-a1a4-2cbf4f733c09",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Transaction volumes appear to be recovering from depressed levels; modest rate relief and easing prices can lift SAAR above 4.5M.",
       "id": "d40b4e9d-eac5-4b6a-acd4-5166a537b1a5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "A mild cooling in hiring could lift unemployment modestly; 4.3% is a moderate threshold relative to late-cycle dynamics.",
       "id": "ce608cd1-cb95-4651-bb5c-58d2b7e4ec09",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "If the policy direction is toward transactional export controls, formalizing a surcharge mechanism is a plausible next step, but legal/process hurdles keep probability moderate.",
       "id": "1c6ac04d-7f62-48a5-b846-6034cd8cf2a9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -147,7 +147,7 @@
       ],
       "rationale": "Spending is escalating and diversification incentives are strong, but public disclosure with explicit \u2265$5B value is less common.",
       "id": "d7bccb37-e2e5-4035-bbb8-6137d3ef9711",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -168,7 +168,7 @@
       ],
       "rationale": "A probe often escalates to compulsory process if voluntary cooperation is insufficient; timing uncertainty keeps confidence below 50%.",
       "id": "4802b94c-557f-4bd7-ba60-ccc1bd2727f9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "rationale": "Reported policy direction points toward more Venezuelan oil engagement, but domestic politics and sanctions leverage make near-term license expansion uncertain.",
       "id": "5f31178f-dba5-49f6-acbb-6e11e0fd123c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -210,7 +210,7 @@
       ],
       "rationale": "Heightened tensions increase the chance of diplomatic escalation via the IAEA, but member-state bargaining and timing make this less than even odds.",
       "id": "bd31efab-9740-426e-9cda-0134bff1e48d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

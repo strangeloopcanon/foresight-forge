@@ -1,0 +1,205 @@
+{
+  "date": "2026-01-16",
+  "predictions": [
+    {
+      "text": "The U.S. will impose a new tariff (duty rate increase of at least +10 percentage points) specifically targeting exports to China of at least one additional named AI accelerator model beyond Nvidia H200 (e.g., H100/H20/B200 or a competitor\u2019s accelerator), via a Federal Register notice or USTR/CBP guidance, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 165,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Resolves YES if an official U.S. government publication (Federal Register, USTR release, CBP CSMS, or Commerce/BIS notice) explicitly states a new or increased tariff/duty rate (>=+10pp) applied to exports to China covering at least one AI accelerator model other than Nvidia H200. Resolves NO otherwise by the deadline.",
+      "evidence": [
+        "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/"
+      ],
+      "monitoring_signals": [
+        "Federal Register notices from USTR/Commerce mentioning GPUs/accelerators and China",
+        "CBP CSMS messages on new HTS classifications for AI chips",
+        "Major wire reports (Reuters/AP) on expanded AI-chip tariffs"
+      ],
+      "rationale": "With a tariff already applied to H200 shipments to China, policy escalation could broaden to other accelerators as enforcement tightens and substitution paths emerge.",
+      "id": "341a45a9-71e3-4136-84ce-13d66d1f9a9c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Taiwan\u2019s government (or a Taiwan state-linked vehicle) will publish a binding U.S. semiconductor investment commitment (contract/MoU/term sheet) for at least one project with stated value >=$25B (USD) and a named U.S. state/site, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 349,
+      "deadline": "2026-12-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Resolves YES if an official release from Taiwan\u2019s government (e.g., MOEA, Executive Yuan) or a Taiwan state-linked investment entity publishes a signed commitment (not a vague intent) for a U.S. semiconductor manufacturing project valued >=$25B and naming the U.S. location/state. Resolves NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/15/us-taiwan-chips-deal-china.html"
+      ],
+      "monitoring_signals": [
+        "MOEA/Executive Yuan press releases on U.S. chip investments",
+        "U.S. state economic development announcements citing Taiwan-backed funding",
+        "SEC filings from involved firms referencing Taiwan government-backed commitments"
+      ],
+      "rationale": "A headline commitment increases odds of at least one concretized, site-specific binding deal within 2026.",
+      "id": "2088ef7b-08cf-4a9c-b696-8f65b5583d82",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NATO will publicly announce and conduct a Greenland-based military exercise in which at least 3 NATO member states participate (as listed in NATO/host announcements), by 2026-09-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 257,
+      "deadline": "2026-09-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Resolves YES if NATO, Denmark, Greenland authorities, or participating militaries publicly announce an exercise conducted in Greenland (on-island or within Greenland territorial waters/airspace) and list at least 3 NATO member participants. Resolves NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/15/greenland-nato-troops-denmark-germany-arctic-trump.html"
+      ],
+      "monitoring_signals": [
+        "NATO press releases and exercise calendars",
+        "Danish Defence announcements referencing Greenland training",
+        "NOTAMs/naval advisories indicating exercise areas near Greenland"
+      ],
+      "rationale": "Rising Arctic tension and prior deployments make a multi-country NATO exercise a plausible near-term signaling move.",
+      "id": "1025f2d7-6984-4bed-8aa8-47cd5884944d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Iran will publicly announce a new nationwide policy explicitly criminalizing unauthorized satellite internet access that mentions \u201cStarlink\u201d by name (in law, regulation, or official judiciary/communications ministry directive), by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 165,
+      "deadline": "2026-06-30",
+      "confidence_pct": 34,
+      "verification_criteria": "Resolves YES if an official Iranian source (parliament text, judiciary notice, communications ministry statement, or published regulation) introduces a new nationwide rule with penalties for unauthorized satellite internet and explicitly references \u201cStarlink\u201d by name. Resolves NO otherwise.",
+      "evidence": [
+        "https://techcrunch.com/2026/01/15/irans-internet-shutdown-is-now-one-of-its-longest-ever-as-protests-continue/"
+      ],
+      "monitoring_signals": [
+        "Iran Majles legislative tracker for satellite internet provisions",
+        "Iran Ministry of ICT statements on satellite terminals",
+        "Reuters/AP reporting on Starlink seizures and legal changes"
+      ],
+      "rationale": "Extended shutdowns increase reliance on satellite connectivity, raising incentives for Tehran to formalize deterrence with explicit Starlink-focused penalties.",
+      "id": "9876c1b2-7a05-454c-962f-547ca299cca5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Goldman Sachs will publicly announce a direct involvement in prediction markets\u2014either (a) a partnership enabling client access, (b) an investment/acquisition of a prediction-market operator, or (c) becoming a market maker/liquidity provider on a regulated platform\u2014by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 257,
+      "deadline": "2026-09-30",
+      "confidence_pct": 41,
+      "verification_criteria": "Resolves YES if Goldman Sachs (or a named subsidiary) issues a press release, SEC filing, or on-the-record executive statement confirming (a), (b), or (c) with a named platform/product. Mere exploratory comments do not count. Resolves NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/15/goldman-sachs-ceo-looks-at-how-to-get-involved-in-prediction-markets.html"
+      ],
+      "monitoring_signals": [
+        "Goldman SEC filings for strategic investments/partnerships",
+        "CFTC-regulated platform announcements naming GS involvement",
+        "Goldman earnings-call remarks shifting from exploration to execution"
+      ],
+      "rationale": "Public exploration plus rising retail participation raises the likelihood of a concrete partnership or liquidity role, though regulatory friction remains high.",
+      "id": "c4d2b23c-4226-437a-a124-9ee2c8ec9902",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Wikimedia Foundation will publish a budget/annual plan document showing expected revenue from AI/data licensing or \u201ccontent licensing\u201d of at least $25M (USD) for the coming fiscal year, by 2026-08-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 227,
+      "deadline": "2026-08-31",
+      "confidence_pct": 49,
+      "verification_criteria": "Resolves YES if an official Wikimedia Foundation budget/annual plan (posted on wikimediafoundation.org or linked from official channels) includes a line item for AI/data/content licensing revenue with an explicit dollar figure >=$25M for a future fiscal year. Resolves NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/15/wikipedia-amazon-meta-perplexity-ai.html"
+      ],
+      "monitoring_signals": [
+        "Wikimedia Foundation annual plan and budget releases",
+        "Announcements of additional paid data-access agreements with AI firms",
+        "Foundation financial statements referencing licensing revenue growth"
+      ],
+      "rationale": "If licensing expands, Wikimedia is likely to formalize it as a material budget line item within its next planning cycle.",
+      "id": "43e1ed88-9eb1-4759-89b0-6086025fb7a7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. FDA will open a formal public process (docket/RFI/ANPRM/guidance draft) addressing safety assessment of at least one BPA-replacement chemical used in food-contact materials (e.g., BPS, BPF) by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 349,
+      "deadline": "2026-12-31",
+      "confidence_pct": 29,
+      "verification_criteria": "Resolves YES if FDA posts a docket or RFI/ANPRM/draft guidance explicitly focused on at least one BPA alternative (naming the chemical) in food-contact packaging/materials. General endocrine-disruptor discussion without named BPA alternative does not count. Resolves NO otherwise.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/01/260114084134.htm"
+      ],
+      "monitoring_signals": [
+        "Regulations.gov searches for FDA dockets mentioning BPS/BPF and food contact",
+        "FDA CFSAN announcements on packaging chemicals",
+        "Congressional letters/hearings prompting FDA review of BPA alternatives"
+      ],
+      "rationale": "Scientific concerns may pressure FDA toward a formal information-gathering step, but timelines are uncertain and FDA often moves slowly absent acute incidents.",
+      "id": "c81444c1-1733-4e98-89f2-8996f93b9ecc",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Total acres burned by wildfires in Alaska during calendar year 2026 will exceed 1.5 million acres, according to the Alaska Interagency Coordination Center (AICC) final season statistics or NIFC year-end summary, by 2026-10-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 288,
+      "deadline": "2026-10-31",
+      "confidence_pct": 36,
+      "verification_criteria": "Resolves YES if AICC or NIFC publishes a 2026 Alaska total acres-burned figure >1,500,000 acres. If multiple official sources differ, use AICC final season statistics; otherwise NIFC year-end. Resolves NO if <=1,500,000 or not exceeded by deadline.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/01/260114084119.htm"
+      ],
+      "monitoring_signals": [
+        "AICC weekly situation reports and cumulative acreage",
+        "NOAA/Alaska drought and lightning outlooks",
+        "Early-season fire starts and fuel-moisture indices"
+      ],
+      "rationale": "Research and recent patterns suggest elevated tail risk for extreme burn seasons, though large-year outcomes remain highly weather-dependent.",
+      "id": "ac80ef7c-9dd1-4e46-8736-6918055579fd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "TSMC will raise the midpoint of its stated 2026 capital expenditure guidance by at least 10% versus the midpoint provided in its Q4 2025 earnings release/call, in a subsequent 2026 earnings release/call by 2026-07-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 196,
+      "deadline": "2026-07-31",
+      "confidence_pct": 47,
+      "verification_criteria": "Resolves YES if TSMC\u2019s 2026 capex guidance midpoint (as stated in an earnings release/call transcript) is increased by >=10% relative to the midpoint guidance stated in its Q4 2025 results communication. Resolves NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html"
+      ],
+      "monitoring_signals": [
+        "TSMC quarterly earnings transcripts for capex guidance revisions",
+        "Foundry capacity tightness indicators and lead-time commentary",
+        "AI accelerator order-book/CoWoS capacity expansion updates"
+      ],
+      "rationale": "AI demand and leading-edge capacity constraints raise the probability of upward capex revisions, but management may stick to ranges if macro uncertainty rises.",
+      "id": "c05d34aa-50be-4844-8e8e-5f28169f02cf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "FHFA will publish an official document initiating a structured public consultation on \u201cending conservatorship\u201d or privatization/IPO pathways for Fannie Mae and Freddie Mac (e.g., RFI, proposed framework, or equivalent), by 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 257,
+      "deadline": "2026-09-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Resolves YES if FHFA posts on its website or in the Federal Register a document explicitly soliciting public input or laying out a proposed framework for ending conservatorship or IPO/recap-privatization steps for Fannie/Freddie. General speeches without a consultation document do not count.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/15/business/fannie-and-freddie-ipo.html"
+      ],
+      "monitoring_signals": [
+        "FHFA Federal Register publications and press releases",
+        "Treasury/FHFA joint statements on GSE capital and exit plans",
+        "Legislative proposals affecting GSE privatization authority"
+      ],
+      "rationale": "IPO discussions increase the chance FHFA formalizes next steps, but housing affordability politics could delay a public consultation.",
+      "id": "6f44b798-0619-4bac-95c5-b99cf8cb7675",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
