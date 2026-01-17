@@ -1,0 +1,110 @@
+{
+  "bullets": [
+    {
+      "text": "Fed approves Banco Inter, S.A. application, signaling regulatory clearance for cross-border banking expansion and potential competitive shifts in U.S. financial services.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm"
+    },
+    {
+      "text": "Fed releases December 2025 G.17 industrial production/capacity data and updates Enhanced Financial Accounts, refreshing signals on output momentum, utilization, and sector balance sheets.",
+      "tags": [
+        "macro"
+      ],
+      "link": "http://www.federalreserve.gov/feeds/G17.html#3835"
+    },
+    {
+      "text": "BEA Q3 2025 U.S. international investment position update reframes external financing needs, cross-border income flows, and dollar vulnerability via changes in net foreign assets/liabilities.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bea.gov/news/2026/us-international-investment-position-3rd-quarter-2025"
+    },
+    {
+      "text": "Trump\u2019s renewed pressure on Powell and Fed-chair jockeying (e.g., Warsh vs. Hassett) increases perceived political risk to monetary independence, potentially lifting term premia.",
+      "tags": [
+        "rates",
+        "geopolitics"
+      ]
+    },
+    {
+      "text": "U.S. tariffs floated alongside Greenland takeover rhetoric, plus congressional outreach to Denmark, elevate Arctic geopolitics and raise trade-war tail risks with Europe.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/16/trump-greenland-tariffs.html"
+    },
+    {
+      "text": "Canada-China tariff deal, including moves affecting Chinese EVs, shifts North American trade dynamics and could accelerate Chinese EV market access via Canada.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/01/16/world/canada/canada-slash-tariffs-chinese-evs.html"
+    },
+    {
+      "text": "Venezuela oil reportedly fetching ~30% higher after an initial $500M sale underscores sanctions-driven scarcity premia and could reshape Caribbean supply, including Cuba\u2019s outlook.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/16/venezuela-oil-takeover-us-shipment-trump-.html"
+    },
+    {
+      "text": "Mitsubishi\u2019s $7.5B acquisition of U.S. shale gas assets highlights durable global demand for U.S. LNG feedgas and energy-security-driven upstream M&A.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/16/mitsubishi-shale-gas-assets-texas-louisiana-deal.html"
+    },
+    {
+      "text": "Largest U.S. offshore wind project resumes after a judge lifts suspension, reducing near-term policy uncertainty for renewables developers and supply-chain contractors.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/16/biggest-offshore-wind-project-in-us-to-resume-construction-after-judge-lifts-trump-suspension.html"
+    },
+    {
+      "text": "OpenAI testing ads in ChatGPT and committing billions to chip deals signals a pivot toward ad-based AI monetization and intensifies competition for scarce compute.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html"
+    },
+    {
+      "text": "Google appeals the U.S. search monopoly case, extending antitrust uncertainty over search distribution and ad pricing, with long-dated implications for Big Tech valuation.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/16/google-files-to-appeal-search-monopoly-case.html"
+    },
+    {
+      "text": "Education Department pauses/delays defaulted student-loan collections, easing household cash-flow pressure short term but increasing uncertainty around fiscal and credit policy enforcement.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/16/student-loan-collections-paused.html"
+    },
+    {
+      "text": "New study finds no link between prenatal acetaminophen use and autism, reducing a major public-health concern and potentially lowering litigation and prescribing uncertainty.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/01/16/health/tylenol-autism-acetaminophen-study.html"
+    },
+    {
+      "text": "NASA brings Crew-11 home early via rare medical evacuation, highlighting operational risk management for long-duration missions and dependence on reliable crew-return capability.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260116045344.htm"
+    }
+  ]
+}

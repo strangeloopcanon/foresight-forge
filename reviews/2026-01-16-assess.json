@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-16",
+  "assessments": [
+    {
+      "id": "341a45a9-71e3-4136-84ce-13d66d1f9a9c",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items include reporting that Trump floated \u201cnew tariffs\u201d related to Greenland, but nothing indicates a formal U.S. tariff duty-rate increase (>= +10pp) specifically targeting exports to China of a named AI accelerator model via Federal Register/USTR/CBP guidance. No qualifying action is evidenced."
+    },
+    {
+      "id": "2088ef7b-08cf-4a9c-b696-8f65b5583d82",
+      "status": "pending",
+      "status_rationale": "No news bullet references Taiwan or a Taiwan state-linked entity publishing a binding U.S. semiconductor investment commitment >=$25B with a named U.S. site/state."
+    },
+    {
+      "id": "1025f2d7-6984-4bed-8aa8-47cd5884944d",
+      "status": "pending",
+      "status_rationale": "A news item notes U.S. lawmakers meeting with Denmark\u2019s prime minister on Greenland, but there is no public announcement or conduct of a Greenland-based NATO military exercise involving at least three NATO member states."
+    },
+    {
+      "id": "9876c1b2-7a05-454c-962f-547ca299cca5",
+      "status": "pending",
+      "status_rationale": "While there is reporting on Iran protests and crackdowns, nothing cited indicates a new nationwide policy explicitly criminalizing unauthorized satellite internet access that names \u201cStarlink\u201d in an official law/regulation/directive."
+    },
+    {
+      "id": "c4d2b23c-4226-437a-a124-9ee2c8ec9902",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Goldman Sachs publicly announced direct involvement in prediction markets (partnership enabling client access, investment/acquisition, or market-making on a regulated platform)."
+    },
+    {
+      "id": "43e1ed88-9eb1-4759-89b0-6086025fb7a7",
+      "status": "pending",
+      "status_rationale": "No news bullet references Wikimedia Foundation budget/annual plan documents or projected revenue from AI/data/content licensing at or above $25M."
+    },
+    {
+      "id": "c81444c1-1733-4e98-89f2-8996f93b9ecc",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s bullets indicates the FDA opened a formal public process (docket/RFI/ANPRM/draft guidance) addressing safety assessment of a BPA-replacement chemical (e.g., BPS/BPF) in food-contact materials."
+    },
+    {
+      "id": "ac80ef7c-9dd1-4e46-8736-6918055579fd",
+      "status": "pending",
+      "status_rationale": "This is a calendar-year 2026 wildfire acreage outcome; today\u2019s news provides no Alaska Interagency Coordination Center (AICC) final season statistics or NIFC year-end summary establishing whether 2026 acres burned exceed 1.5 million."
+    },
+    {
+      "id": "c05d34aa-50be-4844-8e8e-5f28169f02cf",
+      "status": "pending",
+      "status_rationale": "No bullet mentions TSMC revising 2026 capex guidance, nor a comparison against the midpoint provided in its Q4 2025 earnings release/call."
+    },
+    {
+      "id": "6f44b798-0619-4bac-95c5-b99cf8cb7675",
+      "status": "pending",
+      "status_rationale": "No item indicates FHFA initiated a structured public consultation on ending conservatorship or privatization/IPO pathways for Fannie Mae and Freddie Mac via an RFI, proposed framework, or equivalent official document."
+    }
+  ]
+}

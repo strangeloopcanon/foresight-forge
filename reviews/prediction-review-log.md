@@ -1642,3 +1642,12 @@ There are, however, topical signals relevant to future resolution. Venezuela-rel
 
 ---
 
+
+## 2026-01-16
+
+None of the listed predictions are clearly resolved by today’s headlines; all remain pending with deadlines ranging through 2026. The only partial thematic touches are Greenland-related geopolitical reporting (U.S. lawmakers meeting Denmark’s prime minister; a separate item about Trump floating tariffs connected to Greenland), but these do not satisfy the specific exercise/tariff evidentiary requirements embedded in the forecasts.
+
+The day’s coverage leans heavily toward U.S. domestic politics and institutions (Powell vs. Trump, pardons, immigration/ICE-related reporting) and a few business/tech items (OpenAI chip deals, ChatGPT ads, Micron). Those stories do not constitute the formal, document-based triggers required by several predictions (e.g., Federal Register/USTR/CBP guidance, FDA docket actions, FHFA consultation documents, Wikimedia budget disclosures). Continued monitoring should prioritize primary-source artifacts (official notices, dockets, budget plans, corporate earnings guidance) rather than general political rhetoric or early-stage reporting.
+
+---
+

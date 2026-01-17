@@ -1,0 +1,203 @@
+{
+  "date": "2026-01-17",
+  "predictions": [
+    {
+      "text": "OpenAI will publicly launch paid advertising in ChatGPT for U.S. users (not just testing), with OpenAI explicitly describing it as \u201cads/advertising\u201d in a public announcement or help-center/policy update, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 164,
+      "deadline": "2026-06-30",
+      "confidence_pct": 62,
+      "log_odds": 0.489548,
+      "verification_criteria": "Resolves YES if OpenAI publishes an official statement (blog/newsroom), product help page, or policy update confirming ads are live for U.S. ChatGPT users; must be clearly beyond limited internal testing language.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON bullet: OpenAI testing ads in ChatGPT and pivot toward ad-based monetization (CNBC, 2026-01-16)."
+      ],
+      "monitoring_signals": [
+        "OpenAI blog/newsroom posts referencing ads/advertising",
+        "ChatGPT help center and policy page diffs mentioning ads",
+        "App release notes describing ad units or sponsored content",
+        "Creator/advertiser onboarding pages from OpenAI"
+      ],
+      "rationale": "Testing suggests near-term productization; revenue diversification incentives are strong amid compute costs.",
+      "id": "39bd92c6-64c5-4d73-8bb9-f9511eb34a09",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. Department of Education will publicly announce resumption of involuntary collections (e.g., wage garnishment, Treasury offset) on defaulted federal student loans, with a stated effective date, by 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 256,
+      "deadline": "2026-09-30",
+      "confidence_pct": 58,
+      "log_odds": 0.322773,
+      "verification_criteria": "Resolves YES if ED (or FSA) issues an official press release, Federal Register notice, or formal guidance stating involuntary collections on defaulted federal student loans will resume, including an effective date or implementation window.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON bullet: Education Department pauses/delays defaulted student-loan collections (CNBC, 2026-01-16)."
+      ],
+      "monitoring_signals": [
+        "FSA/ED press releases about collections and defaults",
+        "Federal Register notices from ED related to debt collection",
+        "Treasury Offset Program/ED coordination updates",
+        "Servicer guidance updates referencing wage garnishment/offset"
+      ],
+      "rationale": "Pauses are typically temporary; fiscal and compliance pressures often drive reinstatement within a year.",
+      "id": "43cb6fb3-4973-4490-8e1f-113b4437ca4c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "A U.S. federal court will issue a publicly available remedies/order decision in the DOJ Google search monopolization case (United States v. Google, search) by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 348,
+      "deadline": "2026-12-31",
+      "confidence_pct": 52,
+      "log_odds": 0.080043,
+      "verification_criteria": "Resolves YES if the district court (or appeals court if it directly issues remedies) publishes an order/judgment specifying remedies (injunction, conduct remedies, divestiture consideration, or compliance requirements) in the search monopolization case docket.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON bullet: Google appeals the U.S. search monopoly case (CNBC, 2026-01-16)."
+      ],
+      "monitoring_signals": [
+        "PACER docket updates for U.S. v. Google (search)",
+        "DOJ Antitrust Division press releases on remedies filings",
+        "Court scheduling orders for remedies phase",
+        "Major outlets (Reuters/AP) reporting a remedies decision"
+      ],
+      "rationale": "Appeal extends timeline, but remedies proceedings often culminate within 12\u201318 months.",
+      "id": "9f15ddc4-094f-455c-b904-f0d5ee6c4130",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The White House will publicly announce a nominee for Chair of the Federal Reserve Board to succeed Jerome Powell (i.e., a named intended next Chair), by 2026-10-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 287,
+      "deadline": "2026-10-31",
+      "confidence_pct": 65,
+      "log_odds": 0.619039,
+      "verification_criteria": "Resolves YES if the White House issues an official statement (or sends a nomination to the Senate) naming an intended next Fed Chair (not just Vice Chair), to succeed Powell at the end of his term.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON bullet: Trump\u2019s renewed pressure on Powell and Fed-chair jockeying increases perceived political risk."
+      ],
+      "monitoring_signals": [
+        "White House announcements and Senate nominations feed",
+        "Press reporting on shortlist (e.g., Warsh, Hassett) becoming formal",
+        "Senate Banking Committee scheduling for Fed Chair nominee",
+        "OMB/White House personnel briefings mentioning Fed chair selection"
+      ],
+      "rationale": "Heightened political focus increases odds of earlier signaling of the next Chair choice.",
+      "id": "23c2169a-95a6-4365-93cd-152bf5b994df",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "USTR or the U.S. Department of Commerce will open a formal anti-circumvention or origin-enforcement action explicitly focused on Chinese-made electric vehicles routed via Canada (or assembled in Canada from Chinese components), by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 164,
+      "deadline": "2026-06-30",
+      "confidence_pct": 37,
+      "log_odds": -0.532217,
+      "verification_criteria": "Resolves YES if USTR/Commerce/CBP publishes an official notice (Federal Register, CBP guidance, Commerce initiation notice) explicitly citing EV circumvention involving Canada and China, or launches a named investigation/action targeting that pathway.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON bullet: Canada-China tariff deal affecting Chinese EVs shifts North American trade dynamics (NYT, 2026-01-16)."
+      ],
+      "monitoring_signals": [
+        "Federal Register notices from Commerce (Enforcement & Compliance) on anti-circumvention",
+        "USTR press releases on EV trade enforcement",
+        "CBP Cargo Systems Messaging Service (CSMS) guidance on EV origin",
+        "Congressional letters/hearings on Chinese EVs via Canada"
+      ],
+      "rationale": "Canada policy shifts could increase U.S. scrutiny of transshipment/assembly pathways, but legal thresholds are non-trivial.",
+      "id": "563ca022-6121-4437-af17-8f5752cd258c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The developer of the \u201clargest U.S. offshore wind project\u201d referenced in the Jan 2026 court decision will publicly confirm installation of at least 10 turbines (or foundations) at sea by 2026-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 348,
+      "deadline": "2026-12-31",
+      "confidence_pct": 44,
+      "log_odds": -0.241162,
+      "verification_criteria": "Resolves YES if the project owner/developer issues a press release, construction update, or regulatory filing confirming \u226510 turbines installed (or \u226510 foundations installed) offshore after the lifted suspension; must be attributable to the specific project described as the largest U.S. offshore wind project in the referenced reporting.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON bullet: Largest U.S. offshore wind project resumes after a judge lifts suspension (CNBC, 2026-01-16)."
+      ],
+      "monitoring_signals": [
+        "Developer construction updates and investor presentations",
+        "BOEM/BSEE filings and notices to lessees",
+        "Marine traffic and installation vessel activity near the lease area",
+        "State utility/offtake counterparty updates on milestones"
+      ],
+      "rationale": "Restart reduces legal overhang, but offshore installation is weather-, supply-chain-, and litigation-sensitive.",
+      "id": "565be543-1f54-41f4-b33b-f8788cc7d30c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one Japanese energy/trading company (other than Mitsubishi) will announce an acquisition of U.S. natural gas upstream assets with disclosed consideration of at least $3.0B (USD), by 2026-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 348,
+      "deadline": "2026-12-31",
+      "confidence_pct": 33,
+      "log_odds": -0.708185,
+      "verification_criteria": "Resolves YES if a Japan-headquartered energy/trading firm (e.g., INPEX, JERA, Itochu, Marubeni, Mitsui, Sumitomo) announces a signed deal to buy U.S. upstream natural gas assets with stated deal value \u2265$3.0B, confirmed by company release and/or major wire service.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON bullet: Mitsubishi\u2019s $7.5B acquisition of U.S. shale gas assets highlights durable LNG feedgas demand (CNBC, 2026-01-16)."
+      ],
+      "monitoring_signals": [
+        "Press releases from Japanese trading houses and energy firms",
+        "SEC filings of U.S. sellers and deal announcements",
+        "LNG project FIDs tied to upstream integration",
+        "Reuters/FT/Nikkei reporting on Japanese upstream M&A"
+      ],
+      "rationale": "Energy-security and LNG demand trends support follow-on deals, but $3B+ transactions are lumpy.",
+      "id": "7033143f-f49d-42c3-ae40-fb5457608c23",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. FDA will publish a Drug Safety Communication (or equivalent official FDA statement) explicitly concluding that available evidence does not establish a causal link between prenatal acetaminophen exposure and autism, by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 348,
+      "deadline": "2026-12-31",
+      "confidence_pct": 29,
+      "log_odds": -0.895384,
+      "verification_criteria": "Resolves YES if FDA posts a Drug Safety Communication, safety alert, or formal Q&A page stating that current evidence does not support/establish a causal relationship between prenatal acetaminophen use and autism (or ASD), using clear causal-language.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON bullet: New study finds no link between prenatal acetaminophen use and autism (NYT, 2026-01-16)."
+      ],
+      "monitoring_signals": [
+        "FDA Drug Safety Communications feed",
+        "FDA labeling or pregnancy medication guidance updates mentioning acetaminophen",
+        "ACOG/CDC statements prompting FDA response",
+        "High-profile litigation milestones increasing pressure for clarification"
+      ],
+      "rationale": "Large studies can prompt regulator clarification, but FDA communications are conservative and often slow.",
+      "id": "b89f68e4-824d-4540-b6b7-479d50503b06",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The Federal Reserve will publish (in H.4.1 or another official release) a net increase in \u201cBank Term Funding Program\u201d (or successor emergency lending facility) outstanding balance from the 2026-01-08 baseline, by at least $25B, by 2026-06-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 164,
+      "deadline": "2026-06-30",
+      "confidence_pct": 21,
+      "log_odds": -1.324925,
+      "verification_criteria": "Resolves YES if Fed balance sheet reporting shows an emergency liquidity facility line item (explicitly named BTFP or clearly identified successor facility) with outstanding credit at least $25B higher than the level reported in the H.4.1 release dated 2026-01-08.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON bullets: heightened Fed political risk and macro uncertainty signals potential stress scenarios (Fed independence pressure; updated Fed financial accounts/industrial production)."
+      ],
+      "monitoring_signals": [
+        "Weekly H.4.1 balance sheet line items for lending facilities",
+        "Bank funding stress indicators (SOFR-Fed funds spreads, FRA-OIS, CP spreads)",
+        "FDIC problem bank commentary and bank earnings liquidity notes",
+        "Fed announcements of new/expanded liquidity facilities"
+      ],
+      "rationale": "Low base-rate scenario; requires renewed funding stress, but political and macro uncertainty raises tail risk.",
+      "id": "99dfdf24-ad87-43dc-a57f-93298da11a3f",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}
