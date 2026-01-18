@@ -1,0 +1,115 @@
+{
+  "bullets": [
+    {
+      "text": "Trump escalates Greenland dispute with threatened 10%\u201325% tariffs on multiple European nations, raising NATO and trade-retaliation risks for transatlantic markets.",
+      "tags": [
+        "geopolitics",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/17/trump-greenland-tariffs-nato.html"
+    },
+    {
+      "text": "Greenlanders protest U.S. takeover rhetoric, underscoring sovereignty tensions that could complicate Arctic security, resource access, and Denmark-U.S. relations.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/01/17/world/europe/greenland-denmark-protest-trump-takeover.html"
+    },
+    {
+      "text": "White House legal threat toward CBS over airing an interview \u201cin full\u201d spotlights rising political pressure on media, potentially chilling coverage and increasing legal costs.",
+      "tags": [
+        "geopolitics",
+        "other"
+      ],
+      "link": "https://www.nytimes.com/2026/01/17/business/media/cbs-news-trump-interview.html"
+    },
+    {
+      "text": "Prediction markets shift on Fed-chair contenders after Trump comments; leadership uncertainty can reprice rate-cut expectations and curve volatility.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/16/warsh-sprints-ahead-in-fed-chair-race-following-trump-comments-on-hassett-prediction-markets-show.html"
+    },
+    {
+      "text": "Inflation relief depends on supply normalization, softer demand, and easing shelter/energy pressures; convergence would support real income growth and rate cuts.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.marketwatch.com/story/inflation-relief-is-on-the-way-if-these-3-market-forces-can-come-together-this-year-13be218f"
+    },
+    {
+      "text": "Some U.S. states race to add bitcoin to public balance sheets, introducing novel fiscal/volatility risk and setting precedent for public-sector crypto exposure.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html"
+    },
+    {
+      "text": "Tech firms push ubiquitous retail A.I., shifting competition toward data, automation, and personalization; near-term capex rises with unclear ROI and labor implications.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html"
+    },
+    {
+      "text": "OpenAI reportedly faces cash pressure by mid-2027, highlighting the capital intensity of frontier models and the importance of revenue, pricing power, and compute costs.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances"
+    },
+    {
+      "text": "EPA rule updates could slow xAI data-center expansion, signaling rising environmental permitting constraints for AI infrastructure and power/water-intensive compute hubs.",
+      "tags": [
+        "tech",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/01/16/musks-xai-faces-tougher-road-expanding-memphis-area-after-epa-update.html"
+    },
+    {
+      "text": "Office rent increases push doctors into creative leasing models, reflecting tight commercial real estate conditions that can raise healthcare overhead and affect care access.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.nytimes.com/2026/01/17/business/doctors-office-leasing-rent.html"
+    },
+    {
+      "text": "New investment accounts for millions of disabled Americans aim to build savings without jeopardizing SSI/Medicaid, improving household resilience and long-term financial security.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d"
+    },
+    {
+      "text": "NASA completes major Artemis II rocket rollout step, de-risking schedule toward crewed lunar missions and supporting aerospace supply chains tied to U.S. space strategy.",
+      "tags": [
+        "science",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/01/17/science/nasa-artemis-ii-rocket-moon.html"
+    },
+    {
+      "text": "Tiny earthquakes reveal hidden fault dynamics beneath California, potentially improving hazard forecasts and informing infrastructure, insurance, and public policy decisions.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260117053529.htm"
+    },
+    {
+      "text": "AI mapping of global cancer survival highlights regional treatment and socioeconomic gaps, enabling targeted policy and clinical interventions where outcomes lag most.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260117053526.htm"
+    }
+  ]
+}

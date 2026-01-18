@@ -20,7 +20,7 @@
       ],
       "rationale": "Testing suggests near-term productization; revenue diversification incentives are strong amid compute costs.",
       "id": "39bd92c6-64c5-4d73-8bb9-f9511eb34a09",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Pauses are typically temporary; fiscal and compliance pressures often drive reinstatement within a year.",
       "id": "43cb6fb3-4973-4490-8e1f-113b4437ca4c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Appeal extends timeline, but remedies proceedings often culminate within 12\u201318 months.",
       "id": "9f15ddc4-094f-455c-b904-f0d5ee6c4130",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Heightened political focus increases odds of earlier signaling of the next Chair choice.",
       "id": "23c2169a-95a6-4365-93cd-152bf5b994df",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Canada policy shifts could increase U.S. scrutiny of transshipment/assembly pathways, but legal thresholds are non-trivial.",
       "id": "563ca022-6121-4437-af17-8f5752cd258c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Restart reduces legal overhang, but offshore installation is weather-, supply-chain-, and litigation-sensitive.",
       "id": "565be543-1f54-41f4-b33b-f8788cc7d30c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Energy-security and LNG demand trends support follow-on deals, but $3B+ transactions are lumpy.",
       "id": "7033143f-f49d-42c3-ae40-fb5457608c23",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Large studies can prompt regulator clarification, but FDA communications are conservative and often slow.",
       "id": "b89f68e4-824d-4540-b6b7-479d50503b06",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "Low base-rate scenario; requires renewed funding stress, but political and macro uncertainty raises tail risk.",
       "id": "99dfdf24-ad87-43dc-a57f-93298da11a3f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

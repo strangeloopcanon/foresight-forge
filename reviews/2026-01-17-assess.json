@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-17",
+  "assessments": [
+    {
+      "id": "39bd92c6-64c5-4d73-8bb9-f9511eb34a09",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage includes general AI/business items but nothing indicating OpenAI has publicly launched paid advertising in ChatGPT for U.S. users or updated help/policy materials explicitly describing \u201cads/advertising.\u201d Deadline remains in the future (2026-06-30)."
+    },
+    {
+      "id": "43cb6fb3-4973-4490-8e1f-113b4437ca4c",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news bullets reports a U.S. Department of Education announcement resuming involuntary collections on defaulted federal student loans with an effective date. Deadline remains in the future (2026-09-30)."
+    },
+    {
+      "id": "9f15ddc4-094f-455c-b904-f0d5ee6c4130",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s bullets mention a remedies/order decision being issued in the DOJ Google search monopolization case. Deadline remains in the future (2026-12-31)."
+    },
+    {
+      "id": "23c2169a-95a6-4365-93cd-152bf5b994df",
+      "status": "pending",
+      "status_rationale": "A CNBC item discusses Fed chair \u201codds\u201d/speculation (Hassett, Warsh), but this is not a White House public announcement naming an intended next Fed Chair. Deadline remains in the future (2026-10-31)."
+    },
+    {
+      "id": "563ca022-6121-4437-af17-8f5752cd258c",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news includes tariffs related to a Greenland/EU standoff, but no indication that USTR or Commerce opened a formal anti-circumvention/origin-enforcement action specifically focused on Chinese-made EVs routed/assembled via Canada. Deadline remains in the future (2026-06-30)."
+    },
+    {
+      "id": "565be543-1f54-41f4-b33b-f8788cc7d30c",
+      "status": "pending",
+      "status_rationale": "No offshore wind construction/installation update appears in today\u2019s bullets, and there is no confirmation of at least 10 turbines or foundations installed at sea by the referenced developer. Deadline remains in the future (2026-12-31)."
+    },
+    {
+      "id": "7033143f-f49d-42c3-ae40-fb5457608c23",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s items report a Japanese energy/trading company (other than Mitsubishi) acquiring U.S. upstream natural gas assets for at least $3.0B disclosed consideration. Deadline remains in the future (2026-12-31)."
+    },
+    {
+      "id": "b89f68e4-824d-4540-b6b7-479d50503b06",
+      "status": "pending",
+      "status_rationale": "No FDA Drug Safety Communication (or equivalent FDA statement) is referenced today regarding prenatal acetaminophen exposure and autism causality. Deadline remains in the future (2026-12-31)."
+    },
+    {
+      "id": "99dfdf24-ad87-43dc-a57f-93298da11a3f",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not cite any Federal Reserve H.4.1 (or other official) release showing a net increase of at least $25B in BTFP (or successor facility) outstanding balance versus the 2026-01-08 baseline. Deadline remains in the future (2026-06-30)."
+    }
+  ]
+}

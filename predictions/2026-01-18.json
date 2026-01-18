@@ -1,0 +1,195 @@
+{
+  "date": "2026-01-18",
+  "predictions": [
+    {
+      "text": "At least one U.S. state will enact (bill signed into law) a statute creating a state-level \u201cstrategic bitcoin reserve\u201d (or equivalent) that explicitly authorizes the state treasury/comptroller to hold Bitcoin as a balance-sheet asset AND appropriates or transfers at least $5 million (USD) for initial purchases, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 163,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Governor signature + enacted session law text that (1) explicitly mentions Bitcoin/BTC, (2) authorizes a state entity (treasury/comptroller/investment board) to acquire/hold it, and (3) includes an appropriation/transfer/authorization of \u2265$5,000,000 for purchases (or a clearly earmarked funding line).",
+      "evidence": [
+        "CNBC (2026-01-17) reporting multiple U.S. states exploring adding bitcoin to public balance sheets: https://www.cnbc.com/2026/01/17/texas-us-states-budgets-bitcoin-crypto-strategic-reserve.html"
+      ],
+      "monitoring_signals": [
+        "State legislature bill trackers (TX, FL, WY, AZ, CO, OH) for \u201cbitcoin reserve\u201d / \u201cdigital asset reserve\u201d",
+        "Governor press releases announcing bill signings related to digital assets",
+        "State treasury/comptroller policy statements on digital-asset holdings",
+        "Fiscal notes or appropriations tables referencing BTC purchases"
+      ],
+      "rationale": "Several states are already signaling intent; the key hurdle is converting exploratory proposals into enacted law with real funding attached.",
+      "id": "f61d05e4-31b0-4ccd-b21f-614f1bb78bc2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Denmark\u2019s government will announce a Greenland/Arctic security and critical-infrastructure package totaling at least DKK 5.0 billion in new funding (not previously budgeted), by 2026-09-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 255,
+      "deadline": "2026-09-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Official Danish government release (PMO, Ministry of Defence, Ministry of Finance, or parliamentary agreement text) stating new incremental funding \u2265DKK 5.0B earmarked for Greenland/Arctic/High North security or critical infrastructure, explicitly described as additional/new (not merely re-labeled existing funds).",
+      "evidence": [
+        "NYT (2026-01-17) on Greenland sovereignty tensions and protests: https://www.nytimes.com/2026/01/17/world/europe/greenland-denmark-protest-trump-takeover.html",
+        "CNBC (2026-01-17) on heightened Greenland dispute and tariff threats impacting NATO/trade: https://www.cnbc.com/2026/01/17/trump-greenland-tariffs-nato.html"
+      ],
+      "monitoring_signals": [
+        "Danish MoD announcements on Arctic surveillance, bases, or patrol assets",
+        "Parliamentary defense agreements (\u201cforsvarsforlig\u201d) and supplemental budgets",
+        "Greenland/Denmark joint statements on infrastructure (airports, ports, comms)",
+        "NATO/Arctic security meetings referencing Denmark/Greenland investments"
+      ],
+      "rationale": "Rising Greenland-related tensions increase pressure for visible Danish commitments; timing depends on budget cycles and coalition negotiations.",
+      "id": "2563c299-2b61-4a5a-830b-2d599ee75c9e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The European Commission will publish a formal document (press release + annex/list) proposing retaliatory trade countermeasures against the United States explicitly tied to U.S. threatened/imposed Greenland-related tariffs, by 2026-04-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 102,
+      "deadline": "2026-04-30",
+      "confidence_pct": 30,
+      "verification_criteria": "European Commission publication (DG Trade/Commission press release, Implementing Act proposal, or official consultation notice) that (1) explicitly references U.S. tariffs connected to Greenland dispute, and (2) includes a list of targeted U.S. products or sectors for countermeasures.",
+      "evidence": [
+        "CNBC (2026-01-17) describing threatened 10%\u201325% tariffs on multiple European nations linked to Greenland/NATO tensions: https://www.cnbc.com/2026/01/17/trump-greenland-tariffs-nato.html"
+      ],
+      "monitoring_signals": [
+        "DG Trade statements referencing countermeasures, rebalancing, or anti-coercion tools",
+        "EU member-state trade minister meetings and Council conclusions",
+        "EU Official Journal publications on U.S.-linked countermeasures",
+        "Early leaks/consultations of product lists in European press"
+      ],
+      "rationale": "If tariff threats advance toward implementation, the EU often signals deterrence via published product lists; this hinges on escalation pace.",
+      "id": "5454aa47-e450-4023-8a21-85c9d0895f5d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. EPA will issue a formal enforcement action (Notice of Violation, Administrative Order, or equivalent) naming xAI (or the named operator of its Memphis-area compute site) for alleged Clean Air Act or Clean Water Act noncompliance tied to data-center/onsite-power operations, by 2026-07-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 194,
+      "deadline": "2026-07-31",
+      "confidence_pct": 35,
+      "verification_criteria": "EPA Region-level or EPA headquarters public document (press release, enforcement docket entry, or posted NOV/order) that explicitly names xAI or the site operator and cites alleged violations related to permits/emissions/discharges for the Memphis-area facility supporting xAI computing operations.",
+      "evidence": [
+        "CNBC (2026-01-16) on EPA rule updates potentially slowing xAI data-center expansion: https://www.cnbc.com/2026/01/16/musks-xai-faces-tougher-road-expanding-memphis-area-after-epa-update.html"
+      ],
+      "monitoring_signals": [
+        "EPA enforcement database updates (ECHO) for xAI/site entities",
+        "EPA Region 4/Region 6 press releases (as applicable) mentioning the facility",
+        "Local/state environmental agency permit disputes or public hearings",
+        "Community/NGO filings or complaints escalating to EPA involvement"
+      ],
+      "rationale": "Regulatory scrutiny is rising for power- and water-intensive compute sites; enforcement risk increases if expansion outpaces permitting compliance.",
+      "id": "8c41e60f-98f7-4af0-b1ef-b91dd221aa7e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "NASA will publicly update Artemis II to a launch date \u201cno earlier than 2027\u201d (NET 2027 or later) in an official schedule/budget testimony/press release, by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 347,
+      "deadline": "2026-12-31",
+      "confidence_pct": 60,
+      "verification_criteria": "NASA publication or senior-official statement (NASA.gov update, budget documents, congressional testimony, or Artemis program briefing) explicitly moving Artemis II to NET 2027 or later.",
+      "evidence": [
+        "NYT (2026-01-17) describing progress milestone for Artemis II hardware rollout: https://www.nytimes.com/2026/01/17/science/nasa-artemis-ii-rocket-moon.html"
+      ],
+      "monitoring_signals": [
+        "NASA Artemis blog/schedule pages and program status briefings",
+        "GAO/NASA OIG reports on SLS/Orion integration and readiness",
+        "Congressional hearings where NASA leadership discusses Artemis timelines",
+        "Contractor schedule updates (Orion, EGS, SLS core stage/boosters)"
+      ],
+      "rationale": "Large integrated programs often slip despite milestones; formal schedule resets tend to appear in budget/testimony cycles.",
+      "id": "af8741fa-fa13-4f4f-be7f-da6920038e14",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "At least two top-20 U.S. retailers by revenue (excluding Amazon and Walmart) will publicly announce general-availability deployment (not just pilot) of a customer-facing generative-AI \u201cshopping assistant\u201d that can recommend products AND create a cart/list, by 2026-10-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 286,
+      "deadline": "2026-10-31",
+      "confidence_pct": 45,
+      "verification_criteria": "For at least two qualifying retailers, a press release or official product announcement states the feature is broadly available to U.S. customers (web/app) and includes cart/list creation plus recommendations using generative AI/LLMs.",
+      "evidence": [
+        "NYT (2026-01-17) on tech firms pushing ubiquitous retail AI and shifting competition: https://www.nytimes.com/2026/01/17/business/tech-firms-ai-retailers.html"
+      ],
+      "monitoring_signals": [
+        "Retailer app release notes and product blog announcements",
+        "Earnings calls mentioning rollout beyond pilot to full customer base",
+        "Partnership announcements with OpenAI/Anthropic/Google/AWS for shopping assistants",
+        "Store-support tooling expansions into customer-facing assistants"
+      ],
+      "rationale": "Retailers face strong incentives to deploy AI assistants for conversion/retention, but many efforts stall at pilots; GA rollouts are the meaningful threshold.",
+      "id": "f73a1a9c-9fc4-4466-95d5-25ba31f9c22c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OpenAI will publicly announce a new financing round or capital raise (equity, convertible, or debt) with disclosed gross proceeds of at least $10.0 billion (USD), by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 347,
+      "deadline": "2026-12-31",
+      "confidence_pct": 55,
+      "verification_criteria": "OpenAI (or an SEC filing/credible wire report confirmed by OpenAI) states a completed or signed financing with disclosed proceeds \u2265$10B.",
+      "evidence": [
+        "Tom\u2019s Hardware (citing analysis of OpenAI cash pressure) noting runway concerns by mid-2027: https://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances"
+      ],
+      "monitoring_signals": [
+        "OpenAI blog posts or press statements about new funding",
+        "Large investor reports (Microsoft/sovereign funds) hinting at participation",
+        "Credit facility/converter rumors in major wires (Reuters/Bloomberg/WSJ)",
+        "Capex/compute contract expansions implying fresh capital needs"
+      ],
+      "rationale": "Frontier-model costs remain high and cash runway narratives increase fundraising likelihood; the main uncertainty is size disclosure and timing.",
+      "id": "73ec5708-84d0-4d95-a28e-eb878d91b563",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Donald Trump (personally or via an affiliated entity/campaign) will file a civil lawsuit in U.S. federal court against CBS and/or Paramount Global explicitly related to airing an interview \u201cin full\u201d or alleged editing/misrepresentation of that interview, by 2026-03-31 (UTC).",
+      "category": "other",
+      "horizon_days": 72,
+      "deadline": "2026-03-31",
+      "confidence_pct": 25,
+      "verification_criteria": "A federal court docket (PACER) shows a newly filed complaint naming CBS/Paramount as defendant(s) and the factual allegations center on the referenced interview broadcast/editing; complaint date on or before 2026-03-31 UTC.",
+      "evidence": [
+        "NYT (2026-01-17) on White House legal threat toward CBS over airing an interview \u201cin full\u201d: https://www.nytimes.com/2026/01/17/business/media/cbs-news-trump-interview.html"
+      ],
+      "monitoring_signals": [
+        "PACER alerts for filings by Trump or named affiliates against CBS/Paramount",
+        "Public statements from Trump lawyers escalating from threats to litigation",
+        "Paramount legal disclosures (8-K/10-Q risk factors) referencing threatened suit",
+        "Cease-and-desist letters reported by major outlets"
+      ],
+      "rationale": "Escalatory rhetoric often stops short of filing; however, public legal threats sometimes progress quickly to a complaint for leverage or signaling.",
+      "id": "b05a1d85-aae9-4e47-951c-5c0182cbb3fe",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "U.S. Treasury and/or the IRS will publish official guidance implementing or clarifying the ABLE (529A) eligibility expansion to disability onset before age 46 (effective in 2026), by 2026-12-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 347,
+      "deadline": "2026-12-31",
+      "confidence_pct": 50,
+      "verification_criteria": "IRS/Treasury issues a Notice, Revenue Procedure, final regulations, or an official IRS.gov guidance page update explicitly stating the age-46 onset eligibility rule and operational details for ABLE programs.",
+      "evidence": [
+        "MarketWatch (2026-01-17) on expanded access to investment accounts for disabled Americans without jeopardizing SSI/Medicaid: https://www.marketwatch.com/story/14-million-americans-are-getting-access-to-these-game-changing-investment-accounts-without-risking-their-supplemental-security-income-and-medicaid-benefits-afeb569d"
+      ],
+      "monitoring_signals": [
+        "IRS releases (Notices/Rev. Procs) mentioning 529A/ABLE",
+        "Treasury Priority Guidance Plan items related to ABLE accounts",
+        "ABLE program administrators requesting clarification on eligibility verification",
+        "SSA/Medicaid coordination guidance updates referencing ABLE changes"
+      ],
+      "rationale": "A statutory eligibility shift typically prompts operational guidance; timing uncertainty comes from agency bandwidth and prioritization.",
+      "id": "87062267-6824-419e-bd78-358f333f7a44",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
