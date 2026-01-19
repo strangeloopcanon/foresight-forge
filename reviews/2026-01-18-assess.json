@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-18",
+  "assessments": [
+    {
+      "id": "f61d05e4-31b0-4ccd-b21f-614f1bb78bc2",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not report any U.S. state enacting (bill signed) a strategic bitcoin reserve law with an explicit authorization to hold Bitcoin plus a \u2265$5M appropriation/transfer."
+    },
+    {
+      "id": "2563c299-2b61-4a5a-830b-2d599ee75c9e",
+      "status": "pending",
+      "status_rationale": "News coverage references Denmark/Greenland tensions and threats, but no announcement of a \u2265DKK 5.0B new security/critical-infrastructure package is indicated in the provided bullets."
+    },
+    {
+      "id": "5454aa47-e450-4023-8a21-85c9d0895f5d",
+      "status": "pending",
+      "status_rationale": "While Greenland-related tariff politics are discussed (e.g., Trump tariffs), there is no clear evidence here of a European Commission formal publication proposing retaliatory countermeasures explicitly tied to Greenland-related U.S. tariffs."
+    },
+    {
+      "id": "8c41e60f-98f7-4af0-b1ef-b91dd221aa7e",
+      "status": "pending",
+      "status_rationale": "No bulletin reports a U.S. EPA formal enforcement action naming xAI (or its Memphis-area operator) for alleged Clean Air Act/Clean Water Act noncompliance tied to data-center/onsite-power operations."
+    },
+    {
+      "id": "af8741fa-fa13-4f4f-be7f-da6920038e14",
+      "status": "pending",
+      "status_rationale": "No NASA schedule/budget/testimony update in the bullets indicates Artemis II has been publicly moved to NET 2027 or later."
+    },
+    {
+      "id": "f73a1a9c-9fc4-4466-95d5-25ba31f9c22c",
+      "status": "pending",
+      "status_rationale": "The provided items include general business/AI coverage (e.g., FedEx tech), but no clear announcements from two top-20 U.S. retailers (excluding Amazon/Walmart) of general-availability customer-facing gen-AI shopping assistants that recommend products and build carts/lists."
+    },
+    {
+      "id": "73ec5708-84d0-4d95-a28e-eb878d91b563",
+      "status": "pending",
+      "status_rationale": "No bullet indicates OpenAI announced a new financing round/capital raise with disclosed gross proceeds \u2265$10B."
+    },
+    {
+      "id": "b05a1d85-aae9-4e47-951c-5c0182cbb3fe",
+      "status": "pending",
+      "status_rationale": "The bullets mention a separate defamation suit involving Trump\u2019s campaign manager, but do not show Donald Trump (or an affiliate) filing a federal civil lawsuit against CBS/Paramount related to an interview being aired 'in full' or alleged editing/misrepresentation."
+    },
+    {
+      "id": "87062267-6824-419e-bd78-358f333f7a44",
+      "status": "pending",
+      "status_rationale": "No Treasury/IRS guidance is referenced regarding implementing or clarifying the ABLE (529A) eligibility expansion to disability onset before age 46."
+    }
+  ]
+}

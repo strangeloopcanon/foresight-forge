@@ -1,0 +1,165 @@
+{
+  "date": "2026-01-19",
+  "predictions": [
+    {
+      "text": "Either the U.S. House Judiciary Committee or the U.S. Senate Judiciary Committee will hold a public hearing in which FBI Director Kash Patel is explicitly named in the title or witness questioning as part of alleged FBI political retaliation/misuse of records, by 2026-04-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 101,
+      "deadline": "2026-04-30",
+      "confidence_pct": 57,
+      "verification_criteria": "A committee website posting (or official press release) shows a hearing held (not merely announced) by the House or Senate Judiciary Committee, and the published hearing title/summary or official transcript contains \"Kash Patel\" (case-insensitive) in relation to alleged FBI politicization/retaliation/misuse of records.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/18/us/politics/kash-patel-grassley-payback.html"
+      ],
+      "monitoring_signals": [
+        "House/Senate Judiciary hearing calendars and press releases",
+        "Witness lists including DOJ IG, FBI officials, or whistleblowers",
+        "Requests for documents/subpoenas related to FBI records searches"
+      ],
+      "rationale": "Recent reporting raises salience; judiciary committees routinely respond with oversight hearings when allegations involve politicization of federal law enforcement.",
+      "id": "69f9f453-6f0a-40a6-98e7-bfe0abfe9fda",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Anthropic will publicly announce a new financing round (equity/convertible/debt) with disclosed gross proceeds of at least $5.0B (USD), by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 162,
+      "deadline": "2026-06-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Anthropic (or a lead investor) issues a press release/blog post, or a major business outlet reports with sourced figures, stating a completed financing round with total proceeds >= $5.0B.",
+      "evidence": [
+        "https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/"
+      ],
+      "monitoring_signals": [
+        "Anthropic investor announcements and SEC-related filings where applicable",
+        "Term-sheet leaks/FT/WSJ/Reuters fundraising reports",
+        "Cloud/compute procurement expansions implying capital needs"
+      ],
+      "rationale": "AI funding intensity remains high and recent reporting suggests major VC participation, increasing odds of a large round within 6 months.",
+      "id": "3e89fd17-c690-417d-b690-1c41ce9d48ba",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "From 2026-01-19 close to 2026-06-30 close, the S&P 500 Equal Weight Index ETF (RSP) total return will exceed the SPDR S&P 500 ETF (SPY) total return by at least 5.0 percentage points.",
+      "category": "markets",
+      "horizon_days": 162,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Using official ETF total-return calculations (price change plus distributions) from 2026-01-19 close through 2026-06-30 close, compute (RSP TR - SPY TR) >= +5.0pp.",
+      "evidence": [
+        "https://www.marketwatch.com/story/big-tech-stocks-are-quickly-falling-out-of-favor-heres-the-markets-new-momentum-trade-bcf261ac"
+      ],
+      "monitoring_signals": [
+        "Relative performance of mega-cap tech vs broader market breadth",
+        "Equal-weight vs cap-weight index breadth indicators",
+        "Earnings revisions dispersion and factor rotation (value/size)"
+      ],
+      "rationale": "If leadership continues to broaden away from megacaps, equal-weight outperformance of this magnitude becomes plausible but remains uncertain.",
+      "id": "4cb5d18c-ab32-4eb2-9303-40d78bcd4b75",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Defense will announce (press release) or award contracts totaling at least $100M (USD) in new obligations for infrastructure upgrades located in Greenland (including Pituffik Space Base), by 2026-09-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 254,
+      "deadline": "2026-09-30",
+      "confidence_pct": 36,
+      "verification_criteria": "DoD press release(s) and/or USAspending/contract award notices show new obligations with performance location in Greenland, and the summed obligated amount across the relevant awards announced/issued by the deadline is >= $100,000,000.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/18/world/europe/denmark-greenland-trump.html"
+      ],
+      "monitoring_signals": [
+        "DoD/USSF announcements referencing Greenland, Pituffik, radar, runways, ports, or communications",
+        "Congressional defense authorization/appropriations line items for Greenland",
+        "Danish/Greenlandic government statements on base access and upgrades"
+      ],
+      "rationale": "Heightened Arctic security salience could accelerate concrete U.S. basing/infrastructure spend, but contracting timelines introduce meaningful uncertainty.",
+      "id": "9d64db3a-7e0d-4ec4-bdf2-d6682323eb0d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Commerce will announce a CHIPS/semiconductor incentive award (grant/loan/guarantee) of at least $3.0B (USD) to a Taiwan-headquartered semiconductor company for a U.S.-located project (fab, advanced packaging, or related), by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 346,
+      "deadline": "2026-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "A Commerce/CHIPS program press release (or equivalent official announcement) names a Taiwan-headquartered firm and states an award amount >= $3.0B for a project in a named U.S. state/site.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/19/us-taiwan-chip-deal-silicon-shield-tsmc-trump-tapei-ai-semiconductor-supply-chain.html"
+      ],
+      "monitoring_signals": [
+        "CHIPS program award announcements and term-sheet updates",
+        "State-level incentive packages tied to Taiwanese semiconductor projects",
+        "Company capex/site permitting milestones in the U.S."
+      ],
+      "rationale": "If the U.S.-Taiwan semiconductor push continues, another large, formalized incentive package is plausible within a year.",
+      "id": "1415ddc8-785d-403f-a6eb-503ed36a8881",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A U.S. federal appellate court will issue a merits decision (published opinion) that substantively addresses the legality of at least one major Trump-era tariff program (e.g., Section 232/301/IEEPA-linked tariff authority) by 2026-12-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 346,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "A publicly available opinion from a U.S. Court of Appeals (or the Federal Circuit on appeal from the Court of International Trade) explicitly rules on or remands substantial questions about the legality/authority for a Trump-era tariff program (not merely procedural scheduling).",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/18/trump-tariffs-supreme-court-bessent-trade-greenland.html"
+      ],
+      "monitoring_signals": [
+        "Court of International Trade and Federal Circuit dockets",
+        "Emergency motions/appeals tied to tariff implementation",
+        "Government briefs asserting statutory/constitutional authority"
+      ],
+      "rationale": "Trade-policy uncertainty is high; litigation pipelines make an appellate merits opinion by year-end plausible though not assured.",
+      "id": "0e44ddeb-c136-41d2-8896-6304b7ec0ccf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "UN member states will adopt (at a diplomatic conference or UN process) a final text of an international legally binding instrument on plastic pollution that includes at least one binding control measure on plastic production and/or product design (not only reporting), by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 346,
+      "deadline": "2026-12-31",
+      "confidence_pct": 49,
+      "verification_criteria": "Official UN documentation announces adoption of a plastics treaty/instrument, and the adopted text contains at least one mandatory (\"shall\") control obligation on production limits, phase-outs, or binding design/chemical restrictions beyond transparency/reporting-only commitments.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/01/260116035322.htm"
+      ],
+      "monitoring_signals": [
+        "INC negotiating session outcomes and draft treaty bracket reductions",
+        "Major-state coalition positions (EU, U.S., China) on production caps",
+        "UNEP announcements of a diplomatic conference or final adoption"
+      ],
+      "rationale": "Growing evidence of systemic harms increases momentum; however, binding production controls remain politically contested, keeping confidence below 50%.",
+      "id": "dad454df-402c-4dff-a657-dbac2649e248",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "FedEx will publicly announce an acquisition of an automation/robotics or drone-delivery company with disclosed purchase price (or enterprise value) of at least $500M (USD), by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 346,
+      "deadline": "2026-12-31",
+      "confidence_pct": 26,
+      "verification_criteria": "FedEx press release/8-K states an acquisition in robotics/automation/drones with disclosed consideration or stated enterprise value >= $500,000,000.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/18/business/fedex-raj-subramaniam.html"
+      ],
+      "monitoring_signals": [
+        "FedEx earnings-call discussion of automation M&A pipeline",
+        "Robotics/drone startup sale rumors involving logistics incumbents",
+        "Capex-to-opex shifts and restructuring tied to automation strategy"
+      ],
+      "rationale": "Strategic narrative supports M&A, but large-ticket deals are episodic and valuation/antitrust/franchise constraints lower probability.",
+      "id": "6748995b-6692-4ab4-9fe8-ccb426675fa8",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

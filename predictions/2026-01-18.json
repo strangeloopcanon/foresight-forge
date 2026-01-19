@@ -19,7 +19,7 @@
       ],
       "rationale": "Several states are already signaling intent; the key hurdle is converting exploratory proposals into enacted law with real funding attached.",
       "id": "f61d05e4-31b0-4ccd-b21f-614f1bb78bc2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Rising Greenland-related tensions increase pressure for visible Danish commitments; timing depends on budget cycles and coalition negotiations.",
       "id": "2563c299-2b61-4a5a-830b-2d599ee75c9e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "If tariff threats advance toward implementation, the EU often signals deterrence via published product lists; this hinges on escalation pace.",
       "id": "5454aa47-e450-4023-8a21-85c9d0895f5d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Regulatory scrutiny is rising for power- and water-intensive compute sites; enforcement risk increases if expansion outpaces permitting compliance.",
       "id": "8c41e60f-98f7-4af0-b1ef-b91dd221aa7e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "Large integrated programs often slip despite milestones; formal schedule resets tend to appear in budget/testimony cycles.",
       "id": "af8741fa-fa13-4f4f-be7f-da6920038e14",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Retailers face strong incentives to deploy AI assistants for conversion/retention, but many efforts stall at pilots; GA rollouts are the meaningful threshold.",
       "id": "f73a1a9c-9fc4-4466-95d5-25ba31f9c22c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Frontier-model costs remain high and cash runway narratives increase fundraising likelihood; the main uncertainty is size disclosure and timing.",
       "id": "73ec5708-84d0-4d95-a28e-eb878d91b563",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "Escalatory rhetoric often stops short of filing; however, public legal threats sometimes progress quickly to a complaint for leverage or signaling.",
       "id": "b05a1d85-aae9-4e47-951c-5c0182cbb3fe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "A statutory eligibility shift typically prompts operational guidance; timing uncertainty comes from agency bandwidth and prioritization.",
       "id": "87062267-6824-419e-bd78-358f333f7a44",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
