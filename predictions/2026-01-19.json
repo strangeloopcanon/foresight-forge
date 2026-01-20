@@ -18,7 +18,7 @@
       ],
       "rationale": "Recent reporting raises salience; judiciary committees routinely respond with oversight hearings when allegations involve politicization of federal law enforcement.",
       "id": "69f9f453-6f0a-40a6-98e7-bfe0abfe9fda",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "AI funding intensity remains high and recent reporting suggests major VC participation, increasing odds of a large round within 6 months.",
       "id": "3e89fd17-c690-417d-b690-1c41ce9d48ba",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "rationale": "If leadership continues to broaden away from megacaps, equal-weight outperformance of this magnitude becomes plausible but remains uncertain.",
       "id": "4cb5d18c-ab32-4eb2-9303-40d78bcd4b75",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "rationale": "Heightened Arctic security salience could accelerate concrete U.S. basing/infrastructure spend, but contracting timelines introduce meaningful uncertainty.",
       "id": "9d64db3a-7e0d-4ec4-bdf2-d6682323eb0d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "If the U.S.-Taiwan semiconductor push continues, another large, formalized incentive package is plausible within a year.",
       "id": "1415ddc8-785d-403f-a6eb-503ed36a8881",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Trade-policy uncertainty is high; litigation pipelines make an appellate merits opinion by year-end plausible though not assured.",
       "id": "0e44ddeb-c136-41d2-8896-6304b7ec0ccf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "Growing evidence of systemic harms increases momentum; however, binding production controls remain politically contested, keeping confidence below 50%.",
       "id": "dad454df-402c-4dff-a657-dbac2649e248",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "Strategic narrative supports M&A, but large-ticket deals are episodic and valuation/antitrust/franchise constraints lower probability.",
       "id": "6748995b-6692-4ab4-9fe8-ccb426675fa8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

@@ -1,0 +1,206 @@
+{
+  "date": "2026-01-20",
+  "predictions": [
+    {
+      "text": "The U.S. Supreme Court will issue a merits decision (opinion or signed order resolving the case, not merely a scheduling order) in the case concerning President Trump\u2019s effort to remove Fed Governor Lisa Cook, by 2026-06-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 161,
+      "deadline": "2026-06-30",
+      "confidence_pct": 65,
+      "verification_criteria": "Resolves as TRUE if SCOTUS publishes an opinion or dispositive order on its docket that decides the merits of the Cook-removal dispute by 2026-06-30 UTC. FALSE if no merits disposition is issued by then.",
+      "evidence": [
+        "NYT (2026-01-19) notes the Supreme Court is hearing arguments involving Trump\u2019s attempt to remove Fed Governor Lisa Cook, highlighting institutional stakes."
+      ],
+      "monitoring_signals": [
+        "SCOTUS docket updates: grants, argument calendar, orders list, opinions release days",
+        "Major outlets reporting on timing expectations for the decision (end-of-term rulings)",
+        "Any stay/expedited briefing order suggesting an accelerated decision timeline"
+      ],
+      "rationale": "High salience separation-of-powers case; merits decisions in argued cases commonly land by late June.",
+      "id": "6f0776c6-f22c-43b9-9f18-f60df0fd22f2",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The European Commission will formally open an Anti-Coercion Instrument (ACI) case/proceeding explicitly naming the United States as the coercing third country, by 2026-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 345,
+      "deadline": "2026-12-31",
+      "confidence_pct": 25,
+      "verification_criteria": "TRUE if the European Commission publishes (press release + formal notice/decision) initiating an ACI procedure/case that explicitly names the United States. FALSE otherwise by deadline.",
+      "evidence": [
+        "CNBC (2026-01-19) describes Europe weighing its trade \u201cbazooka\u201d amid Greenland-related tariff threats."
+      ],
+      "monitoring_signals": [
+        "EC Trade press releases referencing ACI, coercion, or the Anti-Coercion Instrument",
+        "EU Council/Commission statements linking Greenland tariff threats to EU countermeasures",
+        "Politico/FT reporting on internal EU deliberations about activating ACI"
+      ],
+      "rationale": "ACI use is politically heavy and procedurally involved; plausible if tariff threats escalate, but still a low-probability escalation within 2026.",
+      "id": "94dd0306-5096-4cea-bb7a-a9685559c5b0",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The United States will announce and implement (via Federal Register notice, USTR/CBP guidance, or presidential proclamation) an additional import tariff increase of at least +10 percentage points on passenger vehicles and/or auto parts originating in the European Union, explicitly framed as retaliation connected to the Greenland dispute, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 161,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "verification_criteria": "TRUE if an official U.S. action increases tariff rates by \u226510pp on EU autos/parts and the accompanying rationale statement ties it to Greenland-related retaliation/dispute. FALSE if no such action by deadline.",
+      "evidence": [
+        "CNBC (2026-01-19) highlights EU discussion of retaliation and flags autos as exposed to potential Greenland-linked tariffs.",
+        "NYT (2026-01-19) reports heightened tariff-policy volatility and readiness to respond to court setbacks."
+      ],
+      "monitoring_signals": [
+        "USTR announcements and Federal Register notices on tariffs targeting EU sectors",
+        "CBP Cargo Systems Messaging Service (CSMS) guidance on new duties",
+        "White House statements explicitly linking trade measures to Greenland"
+      ],
+      "rationale": "Autos are politically potent and already flagged as exposed; explicit Greenland linkage is the main uncertainty.",
+      "id": "08e78313-fc0d-4d43-9e4c-c04c8e98a944",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The Bank of Japan will announce a reduction in its planned/targeted JGB purchase amount (or purchase operations envelope) by at least 20% versus the level stated in its January 2026 Monetary Policy Meeting materials, by 2026-07-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 192,
+      "deadline": "2026-07-31",
+      "confidence_pct": 45,
+      "verification_criteria": "TRUE if BOJ policy statement or supporting documents show JGB purchase plan reduced by \u226520% relative to the Jan 2026 stated amount. Use BOJ published purchase schedule/MPM materials for comparison. FALSE otherwise.",
+      "evidence": [
+        "CNBC (2026-01-20) notes Japan\u2019s 40-year yields at fresh highs, signaling tightening long-end conditions."
+      ],
+      "monitoring_signals": [
+        "BOJ MPM statements and \u2018Outlook for Economic Activity and Prices\u2019 updates",
+        "BOJ purchase operation schedules and any explicit tapering guidance",
+        "JGB curve stress indicators (super-long yields, auction tail metrics)"
+      ],
+      "rationale": "Rising super-long yields increase pressure for policy recalibration, but BOJ could choose communication tools instead of a large cut.",
+      "id": "dfd0a1c6-543a-474a-a059-7c5f61ba9bf1",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "China will raise its equity transaction tax/stamp duty (or reintroduce an increased rate) by at least 0.05 percentage points for mainland A-share trading, by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 253,
+      "deadline": "2026-09-30",
+      "confidence_pct": 22,
+      "verification_criteria": "TRUE if China\u2019s Ministry of Finance/State Taxation Administration announces an increase (or reinstatement) of the stock transaction stamp duty rate by \u22650.05pp affecting A-shares. FALSE if no such rate increase by deadline.",
+      "evidence": [
+        "CNBC (2026-01-20) reports overheating signs in China\u2019s equities with record turnover and rising regulatory wariness."
+      ],
+      "monitoring_signals": [
+        "MOF/STA announcements on stamp duty adjustments",
+        "CSRC measures targeting turnover, margin, or speculative trading",
+        "State-media editorials signaling intent to cool equity-market speculation"
+      ],
+      "rationale": "Authorities sometimes use transaction taxes to dampen speculation, but it conflicts with market-support goals, making it a low-probability but clear trigger.",
+      "id": "ef344b35-5704-4cfb-aa4b-ac2541f788b6",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "At least one private-credit fund will publicly announce a final close of a single flagship private-credit strategy with committed capital of at least $20 billion (USD), by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 161,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "TRUE if a manager press release (or reputable coverage citing firm confirmation) states a final close for one private-credit fund/vehicle at \u2265$20B commitments by deadline. Excludes multi-fund platform totals unless explicitly one fund.",
+      "evidence": [
+        "CNBC (2026-01-20) notes private credit continues raising billions despite warnings, indicating strong fundraising momentum."
+      ],
+      "monitoring_signals": [
+        "Fund manager press releases (Apollo/Ares/Blackstone/KKR/Blue Owl/etc.)",
+        "Institutional Investor/WSJ/FT reporting on large final closes",
+        "SEC Form D filings and fundraising updates on earnings calls"
+      ],
+      "rationale": "Given recent fundraising scale and momentum, a $20B+ close by mid-2026 is moderately likely.",
+      "id": "5aaf7bde-2b7d-4a78-91ad-42516b23d720",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. House of Representatives will pass (simple majority) a standalone bill establishing a federal framework for payment stablecoins (issuer licensing/supervision + reserve requirements), by 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 253,
+      "deadline": "2026-09-30",
+      "confidence_pct": 40,
+      "verification_criteria": "TRUE if House roll-call or recorded vote shows passage of a stablecoin framework bill that includes (a) issuer licensing/supervision and (b) reserve/backing requirements. FALSE otherwise by deadline.",
+      "evidence": [
+        "CNBC (2026-01-19) highlights real-economy \u2018dollarization via stablecoins\u2019 dynamics (USDT usage) underscoring policy attention to stablecoins."
+      ],
+      "monitoring_signals": [
+        "House Financial Services Committee markups and bill text publication",
+        "Floor scheduling announcements and whip counts",
+        "Statements from Treasury/Fed/FDIC/OCC supporting or opposing a framework"
+      ],
+      "rationale": "Stablecoin policy salience is rising; House passage is plausible even if Senate convergence remains uncertain.",
+      "id": "dac61379-9c70-4c8b-a557-ed5f2a606484",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NOAA\u2019s Space Weather Prediction Center will issue at least one G4 (Severe) or G5 (Extreme) geomagnetic storm alert (Kp=8 or 9) during 2026-01-20 through 2026-03-31 (UTC), by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 70,
+      "deadline": "2026-03-31",
+      "confidence_pct": 35,
+      "verification_criteria": "TRUE if SWPC posts an alert/notice confirming G4 or G5 levels reached (or observed) at least once in the window, with timestamped public notice. FALSE otherwise.",
+      "evidence": [
+        "NOAA SWPC (2026-01-19) reported G4 severe geomagnetic-storm conditions reached, indicating elevated activity."
+      ],
+      "monitoring_signals": [
+        "SWPC alerts/watches/warnings for geomagnetic storms",
+        "Solar flare and CME event reports (X-class flare incidence, halo CMEs)",
+        "Kp forecasts and real-time magnetometer readings referenced by SWPC"
+      ],
+      "rationale": "Recent G4 event plus active solar conditions makes another severe storm within ~10 weeks plausible but far from certain.",
+      "id": "cd868657-5212-4921-9ebc-422541e8131d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "SpaceX (Starlink) will publicly acknowledge a geomagnetic-storm-related service disruption affecting Starlink users for at least 2 continuous hours (broad regional impact, not a single-site outage), by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 70,
+      "deadline": "2026-03-31",
+      "confidence_pct": 25,
+      "verification_criteria": "TRUE if SpaceX/Starlink posts a public statement (X/status page/blog) attributing a Starlink outage/degradation lasting \u22652 hours to geomagnetic storm/space weather. FALSE otherwise.",
+      "evidence": [
+        "NOAA SWPC (2026-01-19) reported severe geomagnetic-storm conditions, which can disrupt satellite operations and communications."
+      ],
+      "monitoring_signals": [
+        "Starlink status page incident logs and SpaceX/Starlink X posts",
+        "SWPC storm alerts coinciding with reported connectivity issues",
+        "NetBlocks/DownDetector spikes contemporaneous with SWPC G-scale events"
+      ],
+      "rationale": "Space weather can degrade LEO comms; explicit public attribution by SpaceX is the key uncertainty.",
+      "id": "5f775b25-416a-4924-b3e5-1c1c68b5174a",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "QuantumScape will publicly confirm shipment of \u201cB-sample\u201d (or explicitly B-sample-equivalent) solid-state battery cells to at least one automotive OEM, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 161,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "TRUE if QuantumScape press release, shareholder letter, or earnings call transcript explicitly states B-sample (or B-sample-equivalent) cells were shipped/delivered to an automotive OEM. FALSE otherwise by deadline.",
+      "evidence": [
+        "Recent attention to battery/materials advances (e.g., silver-enabled solid-state improvements) suggests accelerating development and commercialization focus."
+      ],
+      "monitoring_signals": [
+        "QuantumScape quarterly shareholder letters and earnings call transcripts",
+        "OEM partner announcements referencing solid-state sample stages",
+        "SEC filings (10-Q/8-K) noting milestone completions or customer deliveries"
+      ],
+      "rationale": "Solid-state timelines are volatile; shipment confirmation is plausible within 2026H1 but remains uncertain.",
+      "id": "e495e077-a0c9-43ad-9df9-4878b76f60c5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

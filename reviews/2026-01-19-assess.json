@@ -1,0 +1,45 @@
+{
+  "date": "2026-01-19",
+  "assessments": [
+    {
+      "id": "69f9f453-6f0a-40a6-98e7-bfe0abfe9fda",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no indication that either the House or Senate Judiciary Committee held a public hearing naming FBI Director Kash Patel in the title or in questioning re: alleged FBI political retaliation/misuse of records. Deadline is 2026-04-30, so this remains unresolved."
+    },
+    {
+      "id": "3e89fd17-c690-417d-b690-1c41ce9d48ba",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Anthropic announced a financing round of \u2265$5.0B. The OpenAI adoption-focused item is not about Anthropic financing. Deadline is 2026-06-30, so still open."
+    },
+    {
+      "id": "4cb5d18c-ab32-4eb2-9303-40d78bcd4b75",
+      "status": "pending",
+      "status_rationale": "The evaluation window begins at the 2026-01-19 close and runs to 2026-06-30 close; today\u2019s bullets provide no total-return figures for RSP vs SPY and the period is only just starting. Remains unresolved."
+    },
+    {
+      "id": "9d64db3a-7e0d-4ec4-bdf2-d6682323eb0d",
+      "status": "pending",
+      "status_rationale": "While multiple stories discuss a Greenland geopolitical dispute, none report DoD press releases or contract awards totaling \u2265$100M for Greenland infrastructure upgrades. Deadline is 2026-09-30, so still open."
+    },
+    {
+      "id": "1415ddc8-785d-403f-a6eb-503ed36a8881",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the Commerce Department announced a CHIPS/semiconductor incentive award of \u2265$3.0B to a Taiwan-headquartered semiconductor company for a U.S. project. Deadline is 2026-12-31, so unresolved."
+    },
+    {
+      "id": "0e44ddeb-c136-41d2-8896-6304b7ec0ccf",
+      "status": "pending",
+      "status_rationale": "Coverage references tariff threats and a \u2018court loss\u2019 context, but does not report a U.S. federal appellate court published merits decision substantively addressing legality of a major Trump-era tariff program. Deadline is 2026-12-31, so still open."
+    },
+    {
+      "id": "dad454df-402c-4dff-a657-dbac2649e248",
+      "status": "pending",
+      "status_rationale": "No bullet indicates UN member states adopted a final legally binding plastic pollution instrument with binding controls on production and/or product design. Deadline is 2026-12-31, so unresolved."
+    },
+    {
+      "id": "6748995b-6692-4ab4-9fe8-ccb426675fa8",
+      "status": "pending",
+      "status_rationale": "No bullet reports FedEx announcing an acquisition of an automation/robotics or drone-delivery company with purchase price/EV \u2265$500M. Deadline is 2026-12-31, so still open."
+    }
+  ]
+}
