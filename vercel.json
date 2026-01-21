@@ -1,7 +1,8 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "version": 2,
   "name": "foresight-forge",
-  "routes": [
-    { "src": "/(.*)", "dest": "/docs/$1" }
-  ]
+  "installCommand": "",
+  "buildCommand": "true",
+  "outputDirectory": "docs"
 }
