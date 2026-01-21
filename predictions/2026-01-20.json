@@ -18,7 +18,7 @@
       ],
       "rationale": "High salience separation-of-powers case; merits decisions in argued cases commonly land by late June.",
       "id": "6f0776c6-f22c-43b9-9f18-f60df0fd22f2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "ACI use is politically heavy and procedurally involved; plausible if tariff threats escalate, but still a low-probability escalation within 2026.",
       "id": "94dd0306-5096-4cea-bb7a-a9685559c5b0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Autos are politically potent and already flagged as exposed; explicit Greenland linkage is the main uncertainty.",
       "id": "08e78313-fc0d-4d43-9e4c-c04c8e98a944",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "Rising super-long yields increase pressure for policy recalibration, but BOJ could choose communication tools instead of a large cut.",
       "id": "dfd0a1c6-543a-474a-a059-7c5f61ba9bf1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "Authorities sometimes use transaction taxes to dampen speculation, but it conflicts with market-support goals, making it a low-probability but clear trigger.",
       "id": "ef344b35-5704-4cfb-aa4b-ac2541f788b6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Given recent fundraising scale and momentum, a $20B+ close by mid-2026 is moderately likely.",
       "id": "5aaf7bde-2b7d-4a78-91ad-42516b23d720",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Stablecoin policy salience is rising; House passage is plausible even if Senate convergence remains uncertain.",
       "id": "dac61379-9c70-4c8b-a557-ed5f2a606484",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Recent G4 event plus active solar conditions makes another severe storm within ~10 weeks plausible but far from certain.",
       "id": "cd868657-5212-4921-9ebc-422541e8131d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Space weather can degrade LEO comms; explicit public attribution by SpaceX is the key uncertainty.",
       "id": "5f775b25-416a-4924-b3e5-1c1c68b5174a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "Solid-state timelines are volatile; shipment confirmation is plausible within 2026H1 but remains uncertain.",
       "id": "e495e077-a0c9-43ad-9df9-4878b76f60c5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

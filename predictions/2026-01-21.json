@@ -1,0 +1,205 @@
+{
+  "date": "2026-01-21",
+  "predictions": [
+    {
+      "text": "The White House will publicly announce (press release or official statement) a named nominee to be the next Chair of the Federal Reserve Board, by 2026-02-15 (UTC).",
+      "category": "rates",
+      "horizon_days": 25,
+      "deadline": "2026-02-15",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Resolves YES if whitehouse.gov (or an official White House press secretary statement) names a person as the intended/nominated next Fed Chair on or before the deadline; NO otherwise.",
+      "evidence": [
+        "Treasury Secretary Bessent indicated the next Fed chair pick could come next week, raising near-term probability of a formal announcement. https://www.cnbc.com/2026/01/20/bessent-says-trumps-pick-for-the-next-fed-chair-could-happen-next-week.html"
+      ],
+      "monitoring_signals": [
+        "White House announcements/briefings",
+        "WSJ/Reuters reports on Fed chair shortlist",
+        "Senate Banking Committee scheduling signals",
+        "Fed Board/Chair succession commentary in interviews"
+      ],
+      "supersedes_id": "23c2169a-95a6-4365-93cd-152bf5b994df",
+      "rationale": "A specific \u201cnext week\u201d hint materially increases odds of an earlier-than-October naming, but timing can slip due to political vetting and market sensitivity.",
+      "id": "96d2a82f-f732-43ed-aac8-03782e927d57",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Denmark will formally request NATO Article 4 consultations explicitly citing Greenland-related security concerns, by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 69,
+      "deadline": "2026-03-31",
+      "confidence_pct": 32,
+      "log_odds": -0.7538,
+      "verification_criteria": "Resolves YES if NATO, Denmark\u2019s government/foreign ministry, or Denmark\u2019s NATO delegation publicly confirms an Article 4 request/consultation tied to Greenland; NO otherwise.",
+      "evidence": [
+        "Greenland acquisition rhetoric is straining NATO ties and includes discussion of possible U.S. military action, increasing likelihood Denmark seeks formal consultations. https://www.cnbc.com/2026/01/21/greenland-us-trump-military-takeover-nato.html"
+      ],
+      "monitoring_signals": [
+        "NATO press briefings and North Atlantic Council readouts",
+        "Danish MFA/PMO statements",
+        "Parliament (Folketing) foreign/defense committee agendas",
+        "Reuters reporting on NATO consultation mechanisms"
+      ],
+      "rationale": "Escalatory rhetoric raises demand for alliance signaling, but Denmark may avoid Article 4 to reduce escalation and keep negotiations bilateral/EU-centered.",
+      "id": "fd446568-20a9-472e-ab38-5e7db02b0a18",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The SPDR S&P 500 ETF (SPY) will close at least 8.0% below its 2026-01-21 close on at least one U.S. trading day, by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 69,
+      "deadline": "2026-03-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Let C0 be SPY\u2019s official close on 2026-01-21. Resolves YES if SPY closes at or below 0.92*C0 on any trading day on/before 2026-03-31; otherwise NO.",
+      "evidence": [
+        "Greenland-related tariff threats and geopolitical shock triggered one of the biggest U.S. stock drops in months and revived a risk-off \u2018Sell America\u2019 narrative. https://www.nytimes.com/2026/01/20/business/stocks-trump-greenland-tariffs.html"
+      ],
+      "monitoring_signals": [
+        "SPY price/volatility (VIX) trend",
+        "Headlines on Greenland/tariff implementation steps",
+        "Credit spreads (IG/HY) widening",
+        "Treasury auction tail metrics and USD moves"
+      ],
+      "rationale": "Elevated geopolitical/tariff uncertainty can extend risk-off, but fast policy de-escalation and buy-the-dip behavior could limit drawdowns.",
+      "id": "d4da7fe7-d6a2-42d8-a50f-ce0e3671bc26",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent crude front-month futures will settle at or above $105.00 per barrel on at least one trading day, by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 160,
+      "deadline": "2026-06-30",
+      "confidence_pct": 27,
+      "log_odds": -0.9943,
+      "verification_criteria": "Resolves YES if the ICE Brent front-month contract official settlement price is \u2265 105.00 USD/bbl on any trading day on/before the deadline; otherwise NO.",
+      "evidence": [
+        "Recent market risk repricing shows sensitivity to geopolitical shocks; energy is a typical transmission channel during escalating geopolitical disputes. https://www.cnbc.com/2026/01/20/sell-america-trade-dollar-treasury-gold-us-trump-greenland.html"
+      ],
+      "monitoring_signals": [
+        "Brent term structure/backwardation",
+        "OPEC+ policy statements and compliance",
+        "Shipping disruption indicators and insurance premia",
+        "U.S. inventory surprises (EIA weekly)"
+      ],
+      "rationale": "A $105 print requires either supply disruption or stronger demand; present risk-off tone lowers baseline probability, but geopolitics can drive spikes.",
+      "id": "a92eb698-f018-4ec1-aae6-947c00e3598d",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "At least one additional large non-U.S. institutional investor (pension fund, sovereign wealth fund, or insurance company) will publicly announce a plan to sell and/or not reinvest at least $1.0B (USD) in U.S. Treasury securities, by 2026-04-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 99,
+      "deadline": "2026-04-30",
+      "confidence_pct": 30,
+      "log_odds": -0.8473,
+      "verification_criteria": "Resolves YES if a non-U.S. institution publicly states (press release, interview, annual report, or regulatory filing) an intention to reduce U.S. Treasury holdings by \u2265$1.0B (or equivalent FX) via sales and/or non-reinvestment by the deadline; otherwise NO.",
+      "evidence": [
+        "A Danish pension fund announced plans to sell $100M of U.S. Treasurys, signaling growing willingness to cite fiscal/political risk when adjusting U.S. rates exposure. https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/"
+      ],
+      "monitoring_signals": [
+        "Public statements from major Nordic/EU/Asian pension funds and insurers",
+        "Quarterly/annual reports showing Treasury allocation changes",
+        "Reuters/Bloomberg stories about \u2018Sell America\u2019 positioning",
+        "Treasury TIC data for foreign official/private flows"
+      ],
+      "rationale": "One public divestment can catalyze copycat announcements, but most institutions avoid headline risk and may adjust quietly without explicit dollar targets.",
+      "id": "01edbf34-7f0d-4929-9cc2-e6f97107539c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Amazon will disclose (in a quarterly shareholder letter, earnings call transcript, or 10-Q) a quantified tariff-related impact of at least $250 million (USD) to cost of sales and/or operating income for a single quarter, by 2026-05-15 (UTC).",
+      "category": "macro",
+      "horizon_days": 114,
+      "deadline": "2026-05-15",
+      "confidence_pct": 33,
+      "log_odds": -0.708,
+      "verification_criteria": "Resolves YES if Amazon explicitly attributes \u2265$250M impact (cost increase, margin hit, or operating income reduction) to tariffs in an official quarterly disclosure or call by the deadline; otherwise NO.",
+      "evidence": [
+        "Amazon stated tariffs are starting to \u2018creep\u2019 into consumer prices, implying measurable financial impact may soon be disclosed. https://www.cnbc.com/2026/01/20/amazon-jassy-trump-tariffs-prices-shoppers.html"
+      ],
+      "monitoring_signals": [
+        "Amazon quarterly earnings materials and Q&A",
+        "Retail price-index trackers and marketplace fee changes",
+        "USTR/CBP tariff implementation timelines",
+        "Competitor commentary (WMT/TGT/COST) on tariff pass-through"
+      ],
+      "rationale": "Tariff effects are increasingly salient, but Amazon may avoid a single headline number and instead discuss impacts qualitatively or embedded in broader cost commentary.",
+      "id": "44376151-f3c0-464a-b445-cd2135cfce17",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A U.S. 10-year Treasury note auction will record a bid-to-cover ratio below 2.20, by 2026-09-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 252,
+      "deadline": "2026-09-30",
+      "confidence_pct": 44,
+      "log_odds": -0.2412,
+      "verification_criteria": "Resolves YES if any U.S. Treasury 10-year note auction (new issue or reopen) has an official bid-to-cover ratio < 2.20 as reported by TreasuryDirect on/before the deadline; otherwise NO.",
+      "evidence": [
+        "Recent headlines show foreign-demand sensitivity and \u2018Sell America\u2019 dynamics affecting Treasurys and the dollar, elevating auction-tail risk. https://www.cnbc.com/2026/01/20/sell-america-trade-dollar-treasury-gold-us-trump-greenland.html",
+        "A Danish pension fund\u2019s decision to sell Treasurys highlights perception risk around U.S. fiscal outlook. https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/"
+      ],
+      "monitoring_signals": [
+        "Auction results: bid-to-cover, tails, indirect bidder share",
+        "MOVE index and rate-volatility spikes",
+        "Foreign reserve/hedging-cost indicators (FX basis)",
+        "Primary dealer balance sheet constraints"
+      ],
+      "rationale": "A single weak auction is plausible under volatility/fiscal-supply pressure, though dealer/indirect participation can remain resilient if yields reprice higher.",
+      "id": "135f2574-db25-4961-b285-1cbd4c0b0643",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. National Security Agency (NSA) will publish a \u201cCNSA 2.0\u201d (or equivalently titled) suite update specifying post-quantum cryptographic algorithms and a transition timeline for National Security Systems, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 344,
+      "deadline": "2026-12-31",
+      "confidence_pct": 62,
+      "log_odds": 0.4895,
+      "verification_criteria": "Resolves YES if NSA/CSS publicly releases an official CNSA suite update (or equivalent) that names PQC algorithms and includes dated migration/transition guidance by the deadline; otherwise NO.",
+      "evidence": [
+        "New research highlighting realistic quantum-era risks increases pressure for concrete post-quantum migration planning and standards. https://www.sciencedaily.com/releases/2026/01/260120000330.htm"
+      ],
+      "monitoring_signals": [
+        "NSA/CSS cybersecurity advisories and suite publications",
+        "NIST PQC standard releases and federal guidance updates",
+        "OMB/M-22-09-style zero trust/policy memos referencing PQC",
+        "Major vendor PQC roadmap announcements (Microsoft, Google, Apple)"
+      ],
+      "rationale": "PQC transition planning is already underway; formal NSA suite refresh with named algorithms is a likely coordination step, though interagency alignment can delay publication.",
+      "id": "791f957a-907e-47f4-9221-9531fac786aa",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "OpenAI will update ChatGPT consumer account creation for U.S. users to require an explicit date-of-birth entry and will describe this as an age-gating or age-verification step in a public Help Center/policy update, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 160,
+      "deadline": "2026-06-30",
+      "confidence_pct": 46,
+      "log_odds": -0.1603,
+      "verification_criteria": "Resolves YES if OpenAI publicly documents (Help Center, policy page, or product announcement) that U.S. ChatGPT signup requires DOB entry and frames it as age gating/verification by the deadline; otherwise NO.",
+      "evidence": [
+        "OpenAI has rolled out an age prediction approach, indicating a move toward stronger youth safety controls that can expand into explicit age gating in product flows. https://openai.com/index/our-approach-to-age-prediction/"
+      ],
+      "monitoring_signals": [
+        "OpenAI Help Center and policy diffs",
+        "App/website signup flow changes observed by users",
+        "Regulatory pressure signals (state AG inquiries, FTC commentary)",
+        "Competitor youth-safety changes (Google/Meta) influencing norms"
+      ],
+      "rationale": "Safety tooling exists, but converting it into mandatory, explicit consumer signup gates can face usability and privacy tradeoffs, slowing rollout.",
+      "id": "8a5ec3c7-4b80-42b9-9382-3d8d070fc100",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

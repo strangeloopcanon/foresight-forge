@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-20",
+  "assessments": [
+    {
+      "id": "6f0776c6-f22c-43b9-9f18-f60df0fd22f2",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news mentions Supreme Court activity related to tariffs, but contains no indication of a Supreme Court merits decision in any case about removing Fed Governor Lisa Cook."
+    },
+    {
+      "id": "94dd0306-5096-4cea-bb7a-a9685559c5b0",
+      "status": "pending",
+      "status_rationale": "News coverage centers on escalating U.S.-Europe tensions over Greenland, but does not report the European Commission formally opening an Anti-Coercion Instrument proceeding naming the U.S."
+    },
+    {
+      "id": "08e78313-fc0d-4d43-9e4c-c04c8e98a944",
+      "status": "pending",
+      "status_rationale": "Articles discuss tariff threats and market reactions tied to Greenland, but do not show an announced and implemented (formal notice/guidance/proclamation) +10pp tariff increase on EU passenger vehicles/auto parts framed as Greenland retaliation."
+    },
+    {
+      "id": "dfd0a1c6-543a-474a-a059-7c5f61ba9bf1",
+      "status": "pending",
+      "status_rationale": "No reporting in today\u2019s bullets on Bank of Japan JGB purchase plans or any reduction versus January 2026 meeting materials."
+    },
+    {
+      "id": "ef344b35-5704-4cfb-aa4b-ac2541f788b6",
+      "status": "pending",
+      "status_rationale": "No mention in today\u2019s bullets of China changing A-share transaction taxes/stamp duty."
+    },
+    {
+      "id": "5aaf7bde-2b7d-4a78-91ad-42516b23d720",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news does not report any private-credit fund announcing a $20B+ final close for a single flagship private-credit strategy."
+    },
+    {
+      "id": "dac61379-9c70-4c8b-a557-ed5f2a606484",
+      "status": "pending",
+      "status_rationale": "No evidence in the provided news that the U.S. House has passed a standalone stablecoin framework bill."
+    },
+    {
+      "id": "cd868657-5212-4921-9ebc-422541e8131d",
+      "status": "pending",
+      "status_rationale": "The relevant time window (2026-01-20 to 2026-03-31) has just begun; today\u2019s bullets do not report any NOAA SWPC G4/G5 geomagnetic storm alert issuance."
+    },
+    {
+      "id": "5f775b25-416a-4924-b3e5-1c1c68b5174a",
+      "status": "pending",
+      "status_rationale": "No mention in today\u2019s news of Starlink publicly acknowledging a multi-hour geomagnetic-storm-related service disruption; the monitoring window has just started."
+    },
+    {
+      "id": "e495e077-a0c9-43ad-9df9-4878b76f60c5",
+      "status": "pending",
+      "status_rationale": "No reporting in today\u2019s bullets about QuantumScape shipping or confirming shipment of B-sample (or equivalent) solid-state cells to an automotive OEM."
+    }
+  ]
+}

@@ -1678,3 +1678,12 @@ The closest “signal” relevance is the cluster of stories around tariff threa
 
 ---
 
+
+## 2026-01-20
+
+Today’s news is dominated by escalation around Greenland and broader strain between the U.S. and European allies, with explicit discussion of tariff threats and market turmoil. That backdrop is directionally relevant to the Greenland-linked tariff-retaliation prediction and to the possibility of EU trade-defense tools (including ACI) being considered, but the articles cited stop at rhetoric, investor reaction, and geopolitical signaling rather than documenting formal trade actions or legal filings that would satisfy those forecast criteria.
+
+A notable cross-current is the Supreme Court’s appearance in the tariff storyline (CNBC notes a Supreme Court tariff decision and related timing issues), which underscores ongoing legal constraints and litigation risk around tariff measures. However, none of the bullets provide clear evidence resolving any of the forecasted events (e.g., the specific Lisa Cook/Fed-governor removal case, stablecoin legislation, BoJ policy changes, China stamp duty changes, private-credit fund closes, NOAA geomagnetic alerts, Starlink disruptions, or QuantumScape B-sample shipments). Accordingly, all items remain pending based on the provided information.
+
+---
+
