@@ -3,6 +3,6 @@
   "private": true,
   "description": "Vercel build wrapper to run the Python forecasting pipeline and emit docs/",
   "scripts": {
-    "vercel-build": "python3 -m pip install -r requirements.txt && python3 forecast.py run-daily"
+    "vercel-build": "uv venv .venv --python python3 && uv pip install -r requirements.txt -p .venv/bin/python && .venv/bin/python forecast.py run-daily"
   }
 }
