@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-21",
+  "assessments": [
+    {
+      "id": "96d2a82f-f732-43ed-aac8-03782e927d57",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items focus on Fed independence and litigation around a Fed governor (Lisa Cook), but do not report a White House press release/official statement naming a nominee for the next Fed Chair. Deadline (2026-02-15) has not yet passed."
+    },
+    {
+      "id": "fd446568-20a9-472e-ab38-5e7db02b0a18",
+      "status": "pending",
+      "status_rationale": "News highlights Trump\u2019s Davos remarks and a reported Greenland-related \u2018framework\u2019 with NATO, but there is no clear report that Denmark formally requested NATO Article 4 consultations explicitly citing Greenland-related security concerns. Deadline (2026-03-31) has not yet passed."
+    },
+    {
+      "id": "d4da7fe7-d6a2-42d8-a50f-ce0e3671bc26",
+      "status": "pending",
+      "status_rationale": "The coverage references market swings and rallies, but provides no definitive closing-price data establishing that SPY closed \u22658% below its 2026-01-21 close on any day. Deadline (2026-03-31) has not yet passed."
+    },
+    {
+      "id": "a92eb698-f018-4ec1-aae6-947c00e3598d",
+      "status": "pending",
+      "status_rationale": "No cited report indicates ICE Brent front-month futures settled at or above $105/bbl. Deadline (2026-06-30) has not yet passed."
+    },
+    {
+      "id": "01edbf34-7f0d-4929-9cc2-e6f97107539c",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not contain an announcement by a large non-U.S. institutional investor about selling and/or not reinvesting \u2265$1.0B in U.S. Treasuries. Deadline (2026-04-30) has not yet passed."
+    },
+    {
+      "id": "44376151-f3c0-464a-b445-cd2135cfce17",
+      "status": "pending",
+      "status_rationale": "No Amazon filing/earnings material is referenced indicating a quantified tariff-related impact \u2265$250M to cost of sales and/or operating income for a quarter. Deadline (2026-05-15) has not yet passed."
+    },
+    {
+      "id": "135f2574-db25-4961-b285-1cbd4c0b0643",
+      "status": "pending",
+      "status_rationale": "No information is provided about a U.S. 10-year Treasury auction bid-to-cover ratio. Deadline (2026-09-30) has not yet passed."
+    },
+    {
+      "id": "791f957a-907e-47f4-9221-9531fac786aa",
+      "status": "pending",
+      "status_rationale": "No NSA publication or announcement regarding a \u2018CNSA 2.0\u2019 (or equivalent) suite update is referenced. Deadline (2026-12-31) has not yet passed."
+    },
+    {
+      "id": "8a5ec3c7-4b80-42b9-9382-3d8d070fc100",
+      "status": "pending",
+      "status_rationale": "No public OpenAI/ChatGPT Help Center or policy update is cited indicating U.S. consumer sign-up now requires explicit date-of-birth entry framed as age-gating/age-verification. Deadline (2026-06-30) has not yet passed."
+    }
+  ]
+}

@@ -1687,3 +1687,12 @@ A notable cross-current is the Supreme Court’s appearance in the tariff storyl
 
 ---
 
+
+## 2026-01-21
+
+Today’s news most directly intersects with the Fed-related prediction environment (reports on Supreme Court arguments signaling discomfort with threats to Fed independence, and coverage that Fed Governor Lisa Cook appears safe from an attempted firing). However, none of these items constitute the specific trigger required for the Fed Chair nomination forecast (a White House public announcement naming a nominee), so that prediction remains unresolved.
+
+Geopolitically, Greenland and NATO featured prominently in Davos-related coverage, including a report that Trump said he reached a Greenland deal ‘framework’ with NATO. This elevates the salience of Greenland-related security concerns and could affect the plausibility of Denmark pursuing formal NATO mechanisms, but the specific condition—Denmark formally requesting Article 4 consultations explicitly citing Greenland—has not been evidenced in the provided bullets. The remaining market/commodities/corporate-disclosure and crypto-policy predictions are not directly addressed by today’s headlines, leaving them pending awaiting concrete datapoints (price closes/settlements, auction stats, formal filings, or policy publications).
+
+---
+

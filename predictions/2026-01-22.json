@@ -1,0 +1,215 @@
+{
+  "date": "2026-01-22",
+  "predictions": [
+    {
+      "text": "A bill proposing a federal credit-card APR cap of 10% (or lower) will be introduced in the U.S. House and referred to House Financial Services (or a relevant House committee), by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 68,
+      "deadline": "2026-03-31",
+      "confidence_pct": 60,
+      "log_odds": 0.4055,
+      "verification_criteria": "Congress.gov shows a House bill introduced by the deadline whose text/summary sets a nationwide credit-card interest rate cap <=10% APR, and the bill is referred to a House committee (e.g., Financial Services).",
+      "evidence": [
+        "Trump floated a 10% credit-card APR cap; policy risk shifts to bank margins and credit availability (CNBC, 2026-01-21)."
+      ],
+      "monitoring_signals": [
+        "Congress.gov keyword alerts: \"APR cap\", \"credit card rate cap\", \"usury\"",
+        "House Financial Services press releases and hearing notices",
+        "Statements from House/Senate leadership and relevant committee chairs"
+      ],
+      "rationale": "Populist consumer-finance proposals often get a prompt messaging bill even if passage is uncertain; introduction threshold is low.",
+      "id": "ac27d285-df1c-4725-96fb-20cd939061d8",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. House Financial Services Committee (or a subcommittee) will hold at least one hearing where the published title explicitly includes \"credit card\" and \"interest rate\" or \"APR cap\", by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 159,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Committee schedule/announcement archives show a hearing by the deadline whose official title contains both (a) \"credit card\" and (b) \"APR\" or \"interest rate\" or \"rate cap\".",
+      "evidence": [
+        "Trump floated a 10% credit-card APR cap; policy risk shifts to bank margins and credit availability (CNBC, 2026-01-21)."
+      ],
+      "monitoring_signals": [
+        "House Financial Services hearing calendar",
+        "Witness lists and hearing memos",
+        "Related Senate Banking committee scheduling as a leading indicator"
+      ],
+      "rationale": "A hearing is a higher bar than bill introduction; still plausible given public attention and industry pushback.",
+      "id": "c66ce60e-164b-4321-b39d-fe94c4630286",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The CBOE Volatility Index (VIX) will close at or above 25.00 on at least one U.S. trading day, by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 68,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "CBOE daily close for VIX is >= 25.00 on any trading day on or before the deadline.",
+      "evidence": [
+        "Large, policy-driven equity swings after tariff reversals highlight elevated regime uncertainty for investors (MarketWatch, 2026-01-21)."
+      ],
+      "monitoring_signals": [
+        "VIX term structure steepening/inversion",
+        "1-month SPX implied volatility moves",
+        "Major tariff/immigration/financial-regulation headlines causing gap moves"
+      ],
+      "rationale": "Policy-driven regime uncertainty typically produces at least one volatility spike over a 2-month window.",
+      "id": "8b31e89d-91f2-47e4-98d5-ee889cae438a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NYMEX Henry Hub natural gas front-month futures will settle at or above $5.50 per MMBtu on at least one trading day, by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 68,
+      "deadline": "2026-03-31",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "CME/NYMEX official settlement price for the Henry Hub NG front-month contract is >= $5.50/MMBtu on any trading day on or before the deadline.",
+      "evidence": [
+        "Arctic storm risk pushed U.S. natural-gas prices sharply higher, underscoring winter weather sensitivity (CNBC, 2026-01-21)."
+      ],
+      "monitoring_signals": [
+        "NOAA temperature anomalies and HDD forecasts",
+        "EIA weekly storage withdrawals vs 5-year average",
+        "LNG feedgas demand and pipeline constraints"
+      ],
+      "rationale": "Late-winter weather shocks can still produce sharp, brief price spikes; threshold is high but achievable in a cold scenario.",
+      "id": "55770c92-299e-461a-853b-bc4998c14d4a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The Bank of Korea will cut its Base Rate by at least 25 basis points (one move or cumulative), by 2026-06-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 159,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Bank of Korea Monetary Policy Board announcements show a Base Rate level at least 0.25 percentage points below the level in effect on 2026-01-22, at any time on or before the deadline.",
+      "evidence": [
+        "South Korea\u2019s Q4 growth slowed to 1.5% as construction and exports fell (CNBC, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "Korea CPI and core CPI trend",
+        "KRW exchange-rate stress and capital flows",
+        "BoK meeting statements and voting splits"
+      ],
+      "rationale": "Growth softness and export headwinds increase the likelihood of easing, though currency and inflation constraints remain.",
+      "id": "6fdac85b-6018-4b08-a1d5-411e46d070da",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Japan\u2019s monthly trade statistics will show exports to the United States down at least 10.0% year-over-year in at least one release, by 2026-04-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 98,
+      "deadline": "2026-04-30",
+      "confidence_pct": 50,
+      "log_odds": 0.0,
+      "verification_criteria": "Japan Ministry of Finance (customs/trade) release tables show YoY % change for exports to the U.S. <= -10.0% for any month reported in a release published on or before the deadline.",
+      "evidence": [
+        "Japan export growth missed estimates as shipments to the U.S. plunged (CNBC, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "Monthly Japan trade releases (MOF)",
+        "U.S. import data by origin for key Japan categories (autos, machinery)",
+        "JPY moves affecting nominal trade values"
+      ],
+      "rationale": "Recent weakness plus policy uncertainty raises odds of at least one sharp negative print, but base effects and FX can offset.",
+      "id": "40b9163b-bcfb-4a5d-adbf-255413008f24",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Meta will disclose a distinct Threads advertising metric in an earnings communication (earnings release, prepared remarks, or call transcript)\u2014specifically either (a) Threads ad revenue, (b) Threads ad impressions, or (c) Threads ad load\u2014by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 343,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "log_odds": -0.8473,
+      "verification_criteria": "Meta quarterly earnings materials or call transcript by the deadline explicitly report a Threads-specific advertising metric: revenue, impressions, or ad load (not merely stating ads exist).",
+      "evidence": [
+        "Meta rolling out Threads ads globally expands monetization inventory (CNBC, 2026-01-21)."
+      ],
+      "monitoring_signals": [
+        "Meta earnings calls (Q1\u2013Q4 2026) and 10-Q disclosures",
+        "Investor presentations mentioning Threads monetization",
+        "Ad buyer guidance or measurement documentation referencing Threads"
+      ],
+      "rationale": "Platforms often monetize without breaking out metrics; disclosure tends to occur if monetization becomes strategically material or scrutinized by investors.",
+      "id": "4ba5a3f3-df49-46cf-b263-8a4f9f9f10bd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Blue Origin will file at least one application with the U.S. FCC explicitly seeking authorization for a non-geostationary satellite broadband system or associated earth stations under its newly announced satellite-internet service branding, by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 251,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "FCC ECFS/IBFS records show a Blue Origin filing by the deadline that explicitly references satellite broadband/internet service and seeks authorization (constellation and/or earth stations), with the service name/brand mentioned in the filing.",
+      "evidence": [
+        "Blue Origin launched a satellite-internet service, escalating LEO broadband competition (CNBC, 2026-01-21)."
+      ],
+      "monitoring_signals": [
+        "FCC ECFS/IBFS docket searches for Blue Origin and brand terms",
+        "ITU filings or U.S. administration spectrum coordination notices",
+        "Hiring/contracting for ground segment and user terminals"
+      ],
+      "rationale": "A genuine broadband offering typically requires visible regulatory filings; timing depends on readiness and spectrum strategy.",
+      "id": "529bd083-61cc-4c6d-9243-3904ab5434d5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one U.S. state will enact a law explicitly prohibiting internet voting for public elections (excluding internal party processes), by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 159,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "log_odds": -0.8473,
+      "verification_criteria": "A state governor signs (or a legislature enacts over veto) a bill by the deadline whose operative text explicitly bans casting ballots via the internet/online systems for public elections (statewide or local).",
+      "evidence": [
+        "Princeton security researchers argue internet voting remains fundamentally insecure (Princeton CITP, 2026-01-16)."
+      ],
+      "monitoring_signals": [
+        "State bill trackers (NCSL, LegiScan) for 'internet voting'/'online voting' bans",
+        "Secretaries of State and election-security coalition statements",
+        "Cyber incident disclosures affecting election systems"
+      ],
+      "rationale": "Election-security research can spur state action, but many states already restrict internet voting; incremental enactment risk remains moderate.",
+      "id": "6fe805d1-d343-4792-8943-e6023cb406ad",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A Phase 1 (or Phase 1/2) human clinical trial for a cartilage-regeneration or osteoarthritis therapy directly based on the Stanford-reported cartilage regrowth approach will be newly registered on ClinicalTrials.gov, by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 343,
+      "deadline": "2026-12-31",
+      "confidence_pct": 25,
+      "log_odds": -1.0986,
+      "verification_criteria": "ClinicalTrials.gov shows a new trial record posted by the deadline that (a) is Phase 1 or Phase 1/2, (b) targets cartilage regeneration/osteoarthritis, and (c) explicitly references the Stanford group\u2019s compound/technique or the specific named approach described in their publication/press materials (via investigators, sponsor, or protocol description).",
+      "evidence": [
+        "Stanford researchers report cartilage regrowth and arthritis prevention in early work (ScienceDaily, 2026-01-20)."
+      ],
+      "monitoring_signals": [
+        "ClinicalTrials.gov new postings with 'cartilage regeneration'/'osteoarthritis' keywords",
+        "Stanford tech transfer/licensing announcements and spinout formation",
+        "FDA IND-related press releases or conference abstracts"
+      ],
+      "rationale": "Translation from early results to registered human trials can occur within a year but often slips due to toxicology/manufacturing and financing.",
+      "id": "7f05fdb5-5adf-49d2-b2a1-6ff38449b66e",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

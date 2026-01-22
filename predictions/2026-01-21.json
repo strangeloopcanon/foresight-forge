@@ -21,7 +21,7 @@
       "supersedes_id": "23c2169a-95a6-4365-93cd-152bf5b994df",
       "rationale": "A specific \u201cnext week\u201d hint materially increases odds of an earlier-than-October naming, but timing can slip due to political vetting and market sensitivity.",
       "id": "96d2a82f-f732-43ed-aac8-03782e927d57",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Escalatory rhetoric raises demand for alliance signaling, but Denmark may avoid Article 4 to reduce escalation and keep negotiations bilateral/EU-centered.",
       "id": "fd446568-20a9-472e-ab38-5e7db02b0a18",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Elevated geopolitical/tariff uncertainty can extend risk-off, but fast policy de-escalation and buy-the-dip behavior could limit drawdowns.",
       "id": "d4da7fe7-d6a2-42d8-a50f-ce0e3671bc26",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "A $105 print requires either supply disruption or stronger demand; present risk-off tone lowers baseline probability, but geopolitics can drive spikes.",
       "id": "a92eb698-f018-4ec1-aae6-947c00e3598d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "One public divestment can catalyze copycat announcements, but most institutions avoid headline risk and may adjust quietly without explicit dollar targets.",
       "id": "01edbf34-7f0d-4929-9cc2-e6f97107539c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -131,7 +131,7 @@
       ],
       "rationale": "Tariff effects are increasingly salient, but Amazon may avoid a single headline number and instead discuss impacts qualitatively or embedded in broader cost commentary.",
       "id": "44376151-f3c0-464a-b445-cd2135cfce17",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "rationale": "A single weak auction is plausible under volatility/fiscal-supply pressure, though dealer/indirect participation can remain resilient if yields reprice higher.",
       "id": "135f2574-db25-4961-b285-1cbd4c0b0643",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -176,7 +176,7 @@
       ],
       "rationale": "PQC transition planning is already underway; formal NSA suite refresh with named algorithms is a likely coordination step, though interagency alignment can delay publication.",
       "id": "791f957a-907e-47f4-9221-9531fac786aa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -198,7 +198,7 @@
       ],
       "rationale": "Safety tooling exists, but converting it into mandatory, explicit consumer signup gates can face usability and privacy tradeoffs, slowing rollout.",
       "id": "8a5ec3c7-4b80-42b9-9382-3d8d070fc100",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
