@@ -1,0 +1,215 @@
+{
+  "date": "2026-01-23",
+  "predictions": [
+    {
+      "text": "A U.S. federal funding law (appropriations act or continuing resolution) will be signed by the President that prevents any lapse in federal appropriations through at least 2026-03-31 (UTC), by 2026-02-15 (UTC).",
+      "category": "macro",
+      "horizon_days": 23,
+      "deadline": "2026-02-15",
+      "confidence_pct": 78,
+      "verification_criteria": "Resolved YES if Congress passes and the President signs a public law (appropriations/CR) that explicitly funds the federal government with coverage through >=2026-03-31 and there is no lapse in appropriations before that date. Otherwise NO.",
+      "evidence": [
+        "Recent history: House passed final funding bills days before shutdown; Senate consideration underway (CNBC, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "Senate floor schedule and cloture filings on appropriations/CR",
+        "OMB/White House Statement of Administration Policy",
+        "Congress.gov status: passed both chambers + signed (public law number)",
+        "News of any shutdown or funding lapse warnings from OMB"
+      ],
+      "rationale": "With House passage already complete, the base rate for last-minute Senate approval/signature is high when shutdown risk is imminent.",
+      "id": "684d2f0c-ceed-4693-87c3-f80c090d379e",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "The U.S. Treasury will publicly announce (press release or official statement) a CFIUS mitigation agreement / national security agreement explicitly naming TikTok (or ByteDance) related to the new U.S. entity/joint venture, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 158,
+      "deadline": "2026-06-30",
+      "confidence_pct": 43,
+      "verification_criteria": "Resolved YES if U.S. Treasury (or CFIUS via Treasury) issues a public document explicitly stating a mitigation or national security agreement involving TikTok/ByteDance and the new U.S. structure. Otherwise NO.",
+      "evidence": [
+        "TikTok plans a new U.S. entity/joint venture to address national-security concerns (CNBC, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "Treasury/CFIUS press releases and speeches",
+        "Court filings referencing a signed CFIUS agreement",
+        "TikTok/ByteDance corporate announcements naming U.S. governance/data controls",
+        "Congressional letters/hearings referencing finalized mitigation terms"
+      ],
+      "rationale": "A restructured U.S. entity increases the chance of a formal CFIUS mitigation package, but public confirmation is not guaranteed.",
+      "id": "e39ccc83-bb08-422d-95f4-5112c3f9fd2f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Capital One will announce that it has closed (completed) its acquisition of Brex, by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 342,
+      "deadline": "2026-12-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Resolved YES if Capital One (press release, 10-K/10-Q, or 8-K) states the Brex acquisition has closed/been consummated on or before 2026-12-31. If the deal is terminated or not closed by then, NO.",
+      "evidence": [
+        "Capital One agreed to buy Brex for $5.15B (Reuters, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "Regulatory approval milestones (DOJ/antitrust, banking regulators)",
+        "Capital One SEC filings (8-K, 10-Q) on deal progress",
+        "Brex communications to customers about ownership change",
+        "Any DOJ lawsuit or extended review reports"
+      ],
+      "rationale": "Large bank-fintech acquisitions often clear within ~12 months, but regulatory scrutiny can delay or derail closing.",
+      "id": "56837daf-09fb-4125-82a4-5650f8f2fbd4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Waymo will launch a paid robotaxi service open to the general public (not employee-only and not closed beta) in at least one additional U.S. metro area not among {Phoenix metro, San Francisco Bay Area, Los Angeles, Miami}, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 342,
+      "deadline": "2026-12-31",
+      "confidence_pct": 62,
+      "verification_criteria": "Resolved YES if Waymo publicly announces general-public paid service availability in a new U.S. metro area outside the listed set and riders can book trips. Otherwise NO.",
+      "evidence": [
+        "Waymo opened Miami service to the public, indicating expansion cadence (TechCrunch, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "Waymo blog posts and local launch announcements",
+        "City/state regulatory approvals and AV permit updates",
+        "App availability changes (service area expansions)",
+        "Partnership announcements with local transit/airports"
+      ],
+      "rationale": "Waymo expansion has accelerated; adding one additional city within a year is plausible given current momentum.",
+      "id": "18cb4871-9547-42de-95b0-5ca8394ebe21",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Tesla will expand its driverless robotaxi service (no human safety driver in the vehicle) to at least one additional U.S. city beyond Austin, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 342,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Resolved YES if Tesla publicly confirms operations of a driverless robotaxi service (no safety driver) in a second U.S. city, with rides offered to non-employees (paid or free). Otherwise NO.",
+      "evidence": [
+        "Tesla began Austin rides without a human safety driver (TechCrunch, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "Tesla official posts/releases and earnings-call statements on robotaxi rollout",
+        "Local permitting/regulatory statements in target cities",
+        "Independent reporting with corroborated rider evidence",
+        "NHTSA/DMV communications related to driverless operations"
+      ],
+      "rationale": "Initial deployment suggests ambition to scale, but regulatory and operational constraints make a second-city rollout uncertain within a year.",
+      "id": "621a0e71-210f-4c8d-aa67-37f5aa0bd228",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. EPA will publish a formal implementation roadmap/strategy document for phasing down animal testing (including dated interim milestones) aiming toward the stated 2035 endpoint, by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 342,
+      "deadline": "2026-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "Resolved YES if EPA posts an official plan/roadmap document (or Federal Register notice with attached plan) that includes at least one dated interim milestone between 2026 and 2035 for reducing animal testing. Otherwise NO.",
+      "evidence": [
+        "EPA revived plan to end animal testing by 2035 (NYT, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "EPA announcements and TSCA/FIFRA guidance updates",
+        "Federal Register notices and docket openings on NAMs/animal test reduction",
+        "Budget justifications referencing implementation milestones",
+        "Interagency coordination statements (NIH/FDA/ICCVAAM)"
+      ],
+      "rationale": "Reinstated long-horizon plans typically require a publishable roadmap; follow-through depends on administrative bandwidth and litigation risk.",
+      "id": "c5d596e1-46b1-4ec5-8a11-28da0b62dda3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The Bank of Japan will not raise its policy rate at any Monetary Policy Meeting held from 2026-01-23 through 2026-06-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 158,
+      "deadline": "2026-06-30",
+      "confidence_pct": 56,
+      "verification_criteria": "Resolved YES if all BOJ policy decisions over this period leave the policy rate unchanged versus the 2026-01-23 level; resolved NO if any hike occurs (any size).",
+      "evidence": [
+        "Japan inflation cooled to ~2.1%, increasing uncertainty around BOJ tightening timing (CNBC, 2026-01-23)."
+      ],
+      "monitoring_signals": [
+        "BOJ meeting statements and press conferences",
+        "Japan CPI prints and wage negotiations outcomes",
+        "JPY moves and JGB yield pressures",
+        "BOJ communication about election/food-price sensitivity"
+      ],
+      "rationale": "Cooling inflation reduces urgency to hike, but policy uncertainty remains elevated; probability of at least one hike by mid-year is moderate.",
+      "id": "8cd6f2a1-7cd8-4daa-b546-5d7d051f8060",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The European Union will adopt (European Council decision and/or European Parliament vote as required) an additional Ukraine-support package with a stated total value of at least \u20ac20 billion (grants/loans/military support combined), by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 158,
+      "deadline": "2026-06-30",
+      "confidence_pct": 48,
+      "verification_criteria": "Resolved YES if EU institutions formally adopt and publicly announce a new Ukraine package (distinct from ongoing baseline support) with stated value >=\u20ac20B by the deadline. Otherwise NO.",
+      "evidence": [
+        "Zelenskyy signaled strain in Ukraine support coordination, increasing pressure for visible EU commitments (CNBC, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "European Council conclusions and Commission proposals",
+        "European Parliament voting calendar and adopted texts",
+        "Announcements on macro-financial assistance (MFA) or defense facility tranches",
+        "Member-state summit communiqu\u00e9s on Ukraine funding"
+      ],
+      "rationale": "Geopolitical pressure and coordination strain can catalyze a headline package, but internal EU bargaining can delay size/timing.",
+      "id": "00486b9d-d434-4f93-875c-0baada48a599",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A U.S.-listed software company with market capitalization of at least $100 billion (at announcement date) will announce an acquisition of an AI model/training-data company (foundation model developer or data provider) for at least $2.0 billion (USD) in disclosed deal value, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 342,
+      "deadline": "2026-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Resolved YES if an eligible acquirer announces a definitive agreement with disclosed value >=$2.0B to acquire a qualifying AI model/data company by the deadline. Otherwise NO.",
+      "evidence": [
+        "OpenAI chair suggested an AI bubble with likely correction; valuation resets may catalyze major M&A (CNBC, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "Earnings-call commentary on AI acquisition strategy by mega-cap software firms",
+        "Deal databases (SEC filings, press releases) showing consideration/EV",
+        "Investment bank rumor flow on AI consolidation",
+        "Venture down-round headlines creating acquisition targets"
+      ],
+      "rationale": "If valuations compress, strategic buyers may pursue sizable AI/data acquisitions; however, antitrust and scarcity of suitable targets limit probability.",
+      "id": "d393ad75-9e78-4deb-8abe-9dcb56867407",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. headline PCE inflation (year-over-year, BEA) will register at or above 3.0% in at least one monthly release, by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 158,
+      "deadline": "2026-06-30",
+      "confidence_pct": 37,
+      "verification_criteria": "Resolved YES if any BEA Personal Income and Outlays release through the 2026-06 release shows PCE price index YoY >=3.0% (headline). Otherwise NO.",
+      "evidence": [
+        "Recent history: PCE inflation rose to 2.8% YoY in the latest cited release, moving away from 2% (CNBC, 2026-01-22)."
+      ],
+      "monitoring_signals": [
+        "Monthly CPI/PPI and energy/food price trends",
+        "BEA PCE releases and revisions",
+        "Shelter and services inflation indicators",
+        "Commodity price spikes and tariff-related price pass-through commentary"
+      ],
+      "rationale": "Starting near 2.8% raises the chance of a temporary overshoot to 3.0%, but disinflation forces could cap the peak.",
+      "id": "cfdf3610-27bf-4443-a895-e837458d5b7a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

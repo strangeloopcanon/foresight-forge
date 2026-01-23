@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-22",
+  "assessments": [
+    {
+      "id": "ac27d285-df1c-4725-96fb-20cd939061d8",
+      "status": "pending",
+      "status_rationale": "Today\u2019s headlines include multiple House actions and hearings, but nothing indicates introduction of a federal credit-card APR-cap bill (10% or lower) or its referral to House Financial Services (or another relevant committee)."
+    },
+    {
+      "id": "c66ce60e-164b-4321-b39d-fe94c4630286",
+      "status": "pending",
+      "status_rationale": "A House hearing occurred (Jack Smith testimony), but it is not a House Financial Services (sub)committee hearing with a published title explicitly containing both \"credit card\" and \"interest rate\" (or \"APR cap\")."
+    },
+    {
+      "id": "8b31e89d-91f2-47e4-98d5-ee889cae438a",
+      "status": "pending",
+      "status_rationale": "No market data in the provided bullets confirms whether the VIX closed at or above 25.00 on any trading day."
+    },
+    {
+      "id": "55770c92-299e-461a-853b-bc4998c14d4a",
+      "status": "pending",
+      "status_rationale": "No commodity-price reporting in today\u2019s bullets confirms Henry Hub front-month natural gas futures settling at or above $5.50/MMBtu."
+    },
+    {
+      "id": "6fdac85b-6018-4b08-a1d5-411e46d070da",
+      "status": "pending",
+      "status_rationale": "No Bank of Korea policy decision (or change in the Base Rate) is referenced in today\u2019s news bullets."
+    },
+    {
+      "id": "40b9163b-bcfb-4a5d-adbf-255413008f24",
+      "status": "pending",
+      "status_rationale": "No Japan trade-statistics release is referenced, and no data is provided about Japan exports to the U.S. being down 10%+ year-over-year."
+    },
+    {
+      "id": "4ba5a3f3-df49-46cf-b263-8a4f9f9f10bd",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s bullets indicates Meta disclosed a distinct Threads advertising metric (ad revenue, ad impressions, or ad load) in an earnings communication."
+    },
+    {
+      "id": "529bd083-61cc-4c6d-9243-3904ab5434d5",
+      "status": "pending",
+      "status_rationale": "Although TikTok-related corporate structuring is in the news, there is no mention of Blue Origin filing an FCC application for a non-GEO satellite broadband system or related earth stations under new satellite-internet branding."
+    },
+    {
+      "id": "6fe805d1-d343-4792-8943-e6023cb406ad",
+      "status": "pending",
+      "status_rationale": "No state legislative enactment is mentioned concerning an explicit prohibition on internet voting for public elections."
+    },
+    {
+      "id": "7f05fdb5-5adf-49d2-b2a1-6ff38449b66e",
+      "status": "pending",
+      "status_rationale": "No ClinicalTrials.gov registration or announcement is cited regarding a Phase 1 (or Phase 1/2) trial based on the Stanford-reported cartilage regrowth approach."
+    }
+  ]
+}

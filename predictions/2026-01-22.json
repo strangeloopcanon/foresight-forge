@@ -19,7 +19,7 @@
       ],
       "rationale": "Populist consumer-finance proposals often get a prompt messaging bill even if passage is uncertain; introduction threshold is low.",
       "id": "ac27d285-df1c-4725-96fb-20cd939061d8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "A hearing is a higher bar than bill introduction; still plausible given public attention and industry pushback.",
       "id": "c66ce60e-164b-4321-b39d-fe94c4630286",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Policy-driven regime uncertainty typically produces at least one volatility spike over a 2-month window.",
       "id": "8b31e89d-91f2-47e4-98d5-ee889cae438a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Late-winter weather shocks can still produce sharp, brief price spikes; threshold is high but achievable in a cold scenario.",
       "id": "55770c92-299e-461a-853b-bc4998c14d4a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Growth softness and export headwinds increase the likelihood of easing, though currency and inflation constraints remain.",
       "id": "6fdac85b-6018-4b08-a1d5-411e46d070da",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Recent weakness plus policy uncertainty raises odds of at least one sharp negative print, but base effects and FX can offset.",
       "id": "40b9163b-bcfb-4a5d-adbf-255413008f24",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Platforms often monetize without breaking out metrics; disclosure tends to occur if monetization becomes strategically material or scrutinized by investors.",
       "id": "4ba5a3f3-df49-46cf-b263-8a4f9f9f10bd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "A genuine broadband offering typically requires visible regulatory filings; timing depends on readiness and spectrum strategy.",
       "id": "529bd083-61cc-4c6d-9243-3904ab5434d5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Election-security research can spur state action, but many states already restrict internet voting; incremental enactment risk remains moderate.",
       "id": "6fe805d1-d343-4792-8943-e6023cb406ad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Translation from early results to registered human trials can occur within a year but often slips due to toxicology/manufacturing and financing.",
       "id": "7f05fdb5-5adf-49d2-b2a1-6ff38449b66e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

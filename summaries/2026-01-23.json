@@ -1,0 +1,106 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. PCE inflation rose to 2.8% in November, moving further from the Fed\u2019s 2% target and complicating rate-cut timing.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/01/22/pce-inflation-november-2026.html"
+    },
+    {
+      "text": "Japan inflation cooled to 2.1%, lowest since 2022; Bank of Japan decision and election-sensitive food prices keep policy uncertainty elevated.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/01/23/japan-december-inflation-rice-prices-snap-election-sanae-takaichi-boj.html"
+    },
+    {
+      "text": "House passed final funding bills days before shutdown; Senate consideration reduces near-term fiscal-disruption risk but highlights deep ICE policy splits.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/22/government-funding-shutdown-house.html"
+    },
+    {
+      "text": "Trump tariff reversal sparked global risk-on rally and renewed \u201cTACO trade\u201d positioning, underscoring policy volatility as a market driver.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/22/trump-tariffs-greenland-europe-deal-taco-trade-sell-america.html"
+    },
+    {
+      "text": "TikTok to form a new U.S. entity/joint venture and loosen China ties, aiming to address national-security concerns while preserving U.S. operations.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/22/tiktok-forms-us-joint-venture-names-a-ceo.html"
+    },
+    {
+      "text": "Greenland talks reportedly include U.S. basing and limits tied to Russia; Greenland PM says sovereignty is a red line, keeping NATO/Arctic tensions high.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/22/greenland-trump-nato-deal-nielsen.html"
+    },
+    {
+      "text": "Zelenskyy criticized Europe for focusing on managing Trump rather than confronting global threats, signaling growing strain in Ukraine support coordination.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/22/zelenskyy-davos-speech-trump-europe-ukraine-russia.html"
+    },
+    {
+      "text": "Intel shares fell on soft guidance and manufacturing concerns, highlighting execution risk in advanced-node ramp and competitive pressure in chips.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/22/intel-intc-earnings-report-q4-2025-.html"
+    },
+    {
+      "text": "Capital One agreed to buy Brex for $5.15B, signaling consolidation in fintech credit cards and banks\u2019 push to capture startup and SMB spend.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/"
+    },
+    {
+      "text": "Robotaxi competition accelerates: Tesla began Austin rides without human safety driver; Waymo opened Miami service, widening U.S. lead in autonomous mobility.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/01/22/waymo-continues-robotaxi-ramp-up-with-miami-service-now-open-to-public/"
+    },
+    {
+      "text": "OpenAI chair called AI \u201cprobably\u201d a bubble with likely correction; software sell-off may catalyze major M&A as valuations reset.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/22/openai-chair-bret-taylor-ai-bubble-correction.html"
+    },
+    {
+      "text": "Europe\u2019s wind and solar generation surpassed fossil fuels, reinforcing structural power-sector decarbonization and shifting energy-security and investment priorities.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels"
+    },
+    {
+      "text": "EPA revived plan to end animal testing by 2035, potentially expanding alternative methods and reshaping compliance costs for chemicals and pharmaceuticals.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/01/22/climate/epa-animal-testing-ban.html"
+    }
+  ]
+}
