@@ -1,0 +1,187 @@
+{
+  "date": "2026-01-24",
+  "predictions": [
+    {
+      "text": "At least one U.S. grid operator in {PJM, MISO, SPP, ERCOT} will declare a NERC Energy Emergency Alert (EEA) level 2 or level 3 due to winter-storm-related generation/fuel constraints, by 2026-01-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 7,
+      "deadline": "2026-01-31",
+      "confidence_pct": 42,
+      "verification_criteria": "An official grid-operator notice/press release (or NERC event log) explicitly stating EEA level 2 or 3 declared by PJM, MISO, SPP, or ERCOT within the deadline.",
+      "evidence": [
+        "NYT reports a major U.S. winter storm threatening power grids and causing widespread disruption.",
+        "MarketWatch notes natural-gas prices surging ahead of the storm, increasing risk of fuel-delivery and price-driven generation constraints."
+      ],
+      "monitoring_signals": [
+        "PJM/MISO/SPP/ ERCOT emergency communications pages and X feeds",
+        "NERC EEA event reporting / DOE OE-417 or situational awareness updates",
+        "Regional spot power and gas basis blowouts; pipeline OFOs/critical notices"
+      ],
+      "rationale": "Large multi-region winter storms often trigger reliability alerts; fuel constraints and high gas prices raise the chance of an EEA declaration.",
+      "id": "3f77846a-e356-4814-9388-f39ea7691c48",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "FlightAware will record at least 20,000 canceled U.S. flights in a single rolling 7-day window between 2026-01-24 and 2026-02-15 (UTC).",
+      "category": "macro",
+      "horizon_days": 22,
+      "deadline": "2026-02-15",
+      "confidence_pct": 55,
+      "verification_criteria": "FlightAware (or an equivalent widely cited aviation-tracking source) publishes/ is cited for total U.S. flight cancellations >=20,000 over any consecutive 7 days fully within 2026-01-24..2026-02-15.",
+      "evidence": [
+        "NYT describes mass flight cancellations tied to the winter storm and large-scale travel disruption risk."
+      ],
+      "monitoring_signals": [
+        "FlightAware daily cancellation totals and weekly rollups",
+        "Major airline operational updates and DOT incident summaries",
+        "Airport ground-stop programs and FAA ATCSCC advisories"
+      ],
+      "rationale": "Severe winter storms frequently create multi-day cascading cancellations; the threshold is high but plausible given nationwide impacts.",
+      "id": "bb796feb-1736-4c47-b1d1-bada9a671c99",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY will experience at least one day with an intraday high-low range of 3.0 yen or more, by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 67,
+      "deadline": "2026-03-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Any trading day before the deadline where widely used market data (e.g., Refinitiv/Bloomberg quotes as reported by major financial media) show USD/JPY daily high minus daily low >= 3.0.",
+      "evidence": [
+        "MarketWatch highlights a sudden yen spike and elevated FX volatility tied to shifting rate expectations and positioning."
+      ],
+      "monitoring_signals": [
+        "Daily USD/JPY high-low ranges; implied FX volatility (1W/1M)",
+        "BOJ/Fed communications and surprise data (CPI/jobs) days",
+        "Japanese MoF/BoJ intervention rhetoric and positioning indicators"
+      ],
+      "rationale": "Positioning-driven yen moves plus sensitive rate expectations make a 3-yen daily range plausible within a volatile quarter.",
+      "id": "8652384c-a023-4271-baa5-16cbfd645dd2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Bureau of Labor Statistics will report CPI (seasonally adjusted) 'Energy' index month-over-month change >= +1.0% in at least one release, by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 67,
+      "deadline": "2026-03-31",
+      "confidence_pct": 48,
+      "verification_criteria": "A BLS CPI release (Feb or Mar 2026 data release dates within the window) shows the SA Energy index m/m change >= +1.0%.",
+      "evidence": [
+        "MarketWatch reports U.S. natural-gas prices surging ahead of the storm, increasing heating-cost pressure.",
+        "NYT notes storm-driven disruptions that can feed into near-term energy prices."
+      ],
+      "monitoring_signals": [
+        "EIA weekly natural gas and gasoline price indicators",
+        "Heating degree days vs normal; regional utility rate adjustments",
+        "WTI/RBOB and Henry Hub price moves feeding into CPI components"
+      ],
+      "rationale": "Weather-driven gas spikes and potential knock-on effects to electricity/heating can show up as a sharp monthly move in CPI energy.",
+      "id": "3d07d821-2f22-44be-8996-4208329b3656",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Senate Banking Committee will hold a markup and vote to report out a standalone stablecoin-issuer federal framework bill (licensing/supervision + reserve requirements), by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 158,
+      "deadline": "2026-06-30",
+      "confidence_pct": 34,
+      "verification_criteria": "Official Senate Banking Committee schedule/results show a markup and recorded vote (voice or roll call) to report a stablecoin framework bill to the full Senate before the deadline.",
+      "evidence": [
+        "NYT notes Senate momentum on a crypto bill and shifting enforcement/regulatory posture."
+      ],
+      "monitoring_signals": [
+        "Senate Banking Committee hearing/markup calendars and press releases",
+        "Bill text releases and bipartisan sponsor announcements",
+        "Statements from Treasury/FDIC/OCC/Fed on stablecoin policy"
+      ],
+      "rationale": "Momentum exists, but committee scheduling and cross-jurisdiction conflicts make passage from committee uncertain by mid-2026.",
+      "id": "e3bec13a-8db2-4729-b3e8-b466460e4ae2",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Commerce (BIS) will publish a new or revised export-controls rule that tightens restrictions on shipments of advanced AI chips to China, explicitly referencing Nvidia by name or explicitly creating new performance thresholds that would cover an Nvidia China-market accelerator, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 158,
+      "deadline": "2026-06-30",
+      "confidence_pct": 51,
+      "verification_criteria": "A Federal Register notice (or BIS press release) before the deadline that (a) modifies the relevant ECCNs/controls and (b) explicitly names Nvidia in scope or introduces thresholds that BIS/official guidance states cover a specific Nvidia China-focused accelerator.",
+      "evidence": [
+        "CNBC reports Nvidia CEO\u2019s China visit amid stalled AI chip sales under restrictions, highlighting policy pressure points."
+      ],
+      "monitoring_signals": [
+        "Federal Register BIS rulemaking and interim final rules",
+        "Commerce/NSC statements on China tech controls",
+        "Nvidia 10-Q risk factor updates and China-revenue commentary"
+      ],
+      "rationale": "If policy makers judge existing curbs insufficient or circumvention rising, BIS often tightens thresholds or clarifies scope within months.",
+      "id": "e5634373-5122-4acf-b3fa-1a4d273ad208",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Databricks will publicly file an S-1 registration statement for a U.S. IPO (not just media speculation), by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 250,
+      "deadline": "2026-09-30",
+      "confidence_pct": 58,
+      "verification_criteria": "An S-1 appears on the SEC EDGAR system for Databricks, Inc. (or clearly identified Databricks IPO entity) on or before the deadline.",
+      "evidence": [
+        "CNBC reports Databricks raised $1.8B additional debt ahead of IPO, indicating preparation for public markets."
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR new filings; IPO calendar updates from major banks",
+        "Databricks hiring for SOX/SEC reporting roles; auditor/underwriter disclosures",
+        "Credit agreement amendments referencing IPO or liquidity events"
+      ],
+      "rationale": "The reported pre-IPO debt raise suggests active IPO prep; timing depends on market windows and internal readiness.",
+      "id": "368b9dfd-0052-47c5-9f73-78f8e8497fa2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one publicly traded U.S. business development company (BDC) with market cap >= $5B will report non-accrual investments of at least 3.0% of portfolio at fair value in a quarterly filing, by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 158,
+      "deadline": "2026-06-30",
+      "confidence_pct": 39,
+      "verification_criteria": "A 10-Q/10-K (or investor presentation) for an eligible BDC discloses non-accruals >=3.0% of portfolio at fair value, dated and filed by the deadline.",
+      "evidence": [
+        "CNBC reports rising private credit stress risk, suggesting higher defaults and spillovers to leveraged borrowers."
+      ],
+      "monitoring_signals": [
+        "BDC quarterly earnings releases and portfolio credit tables",
+        "Spreads and default rates in leveraged loans/high yield",
+        "CRE delinquency metrics and refinancing stress indicators"
+      ],
+      "rationale": "If private-credit stress increases, some large BDCs may show a visible rise in non-accruals, but dispersion and workout timing add uncertainty.",
+      "id": "4e35cd1f-7d54-4ff3-b5e3-f882cb99dedb",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Treasury (OFAC) will announce new sanctions targeting Iran-linked oil export facilitation (entities and/or vessels), totaling at least 10 newly designated targets in a single action, by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 67,
+      "deadline": "2026-03-31",
+      "confidence_pct": 47,
+      "verification_criteria": "OFAC press release and SDN list update shows >=10 new designations in one sanctions action explicitly tied to Iran\u2019s petroleum/petrochemical export network or shipping facilitation, dated by the deadline.",
+      "evidence": [
+        "CNBC notes rising U.S.-Iran tensions and market sensitivity to Strait-of-Hormuz disruption risk."
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN update bulletins",
+        "U.S. Navy/CENTCOM announcements and escalation events",
+        "Insurance/shipping advisories and tanker-tracking anomaly reports"
+      ],
+      "rationale": "Escalation periods often bring sanctions bursts aimed at maritime networks; the 10-target threshold matches typical multi-entity packages.",
+      "id": "02b9a58b-a13d-4c4f-958d-91988989089a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

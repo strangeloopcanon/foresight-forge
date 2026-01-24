@@ -19,7 +19,7 @@
       ],
       "rationale": "With House passage already complete, the base rate for last-minute Senate approval/signature is high when shutdown risk is imminent.",
       "id": "684d2f0c-ceed-4693-87c3-f80c090d379e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "A restructured U.S. entity increases the chance of a formal CFIUS mitigation package, but public confirmation is not guaranteed.",
       "id": "e39ccc83-bb08-422d-95f4-5112c3f9fd2f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Large bank-fintech acquisitions often clear within ~12 months, but regulatory scrutiny can delay or derail closing.",
       "id": "56837daf-09fb-4125-82a4-5650f8f2fbd4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Waymo expansion has accelerated; adding one additional city within a year is plausible given current momentum.",
       "id": "18cb4871-9547-42de-95b0-5ca8394ebe21",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Initial deployment suggests ambition to scale, but regulatory and operational constraints make a second-city rollout uncertain within a year.",
       "id": "621a0e71-210f-4c8d-aa67-37f5aa0bd228",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Reinstated long-horizon plans typically require a publishable roadmap; follow-through depends on administrative bandwidth and litigation risk.",
       "id": "c5d596e1-46b1-4ec5-8a11-28da0b62dda3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Cooling inflation reduces urgency to hike, but policy uncertainty remains elevated; probability of at least one hike by mid-year is moderate.",
       "id": "8cd6f2a1-7cd8-4daa-b546-5d7d051f8060",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Geopolitical pressure and coordination strain can catalyze a headline package, but internal EU bargaining can delay size/timing.",
       "id": "00486b9d-d434-4f93-875c-0baada48a599",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "If valuations compress, strategic buyers may pursue sizable AI/data acquisitions; however, antitrust and scarcity of suitable targets limit probability.",
       "id": "d393ad75-9e78-4deb-8abe-9dcb56867407",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Starting near 2.8% raises the chance of a temporary overshoot to 3.0%, but disinflation forces could cap the peak.",
       "id": "cfdf3610-27bf-4443-a895-e837458d5b7a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

@@ -1,0 +1,119 @@
+{
+  "bullets": [
+    {
+      "text": "Major U.S. winter storm threatens power grids, drives mass flight cancellations, and raises near-term economic losses across energy, travel, and retail sectors.",
+      "tags": [
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/01/23/business/energy-environment/storm-power-outage.html"
+    },
+    {
+      "text": "U.S. natural-gas prices surge to historic levels ahead of the storm, signaling higher heating bills and inflation sensitivity to weather-driven supply-demand shocks.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2"
+    },
+    {
+      "text": "Yen spike highlights heightened FX volatility tied to shifting rate expectations and positioning; moves can tighten financial conditions for Japan and global carry trades.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.marketwatch.com/story/this-is-what-caused-fridays-sudden-spike-in-the-japanese-yen-4b4089bc"
+    },
+    {
+      "text": "Dollar posts worst week in 8 months despite tariff pivot, implying markets are repricing U.S. policy mix, growth outlook, and interest-rate differentials.",
+      "tags": [
+        "markets",
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.marketwatch.com/story/why-the-dollar-just-had-its-worst-week-in-8-months-despite-trumps-pivot-on-tariffs-d3b3d2a7"
+    },
+    {
+      "text": "Private credit stress risk is rising, suggesting tighter lending, higher defaults, and spillovers to commercial real estate and leveraged borrowers if rates stay restrictive.",
+      "tags": [
+        "macro",
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html"
+    },
+    {
+      "text": "Intel shares plunge on manufacturing troubles despite earnings beat, underscoring execution risk in U.S. chip reshoring; AMD strength reflects competitive share gains.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/23/intel-stock-earnings-q4-2025-supply.html"
+    },
+    {
+      "text": "Nvidia CEO\u2019s China visit signals urgency as AI chip sales stall under restrictions, highlighting geopolitical constraints on semiconductor growth and supply-chain strategy.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/23/nvidia-ceo-jensen-huang-china-visit-chip-sales-restrictions.html"
+    },
+    {
+      "text": "Databricks raises $1.8B additional debt ahead of IPO, indicating strong late-stage financing demand but higher leverage risk if public-market conditions tighten.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/23/databricks-obtains-1point8-billion-in-additional-debt-ahead-of-ipo.html"
+    },
+    {
+      "text": "TikTok finalizes new U.S. entity to avoid a ban while expanding data collection/terms\u2014raising privacy, regulatory, and U.S.-China tech decoupling stakes.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2026/01/23/tiktok-finalizes-deal-to-create-new-us-entity-and-avoid-ban/"
+    },
+    {
+      "text": "Crypto regulation shifts: SEC drops case against Winklevoss-founded firm; Senate momentum on a crypto bill; scrutiny persists around political ties and enforcement credibility.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2026/01/23/us/politics/sec-crypto-winklevoss.html"
+    },
+    {
+      "text": "Greenland becomes strategic nexus: U.S. push for bases and mineral rights could limit China\u2019s rare-earth access; Denmark asserts sovereignty; Russia weighs risks and opportunities.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/23/trump-greenland-china-rare-earth-mineral.html"
+    },
+    {
+      "text": "U.S.-Iran tensions rise with announced naval pressure; though Iran isn\u2019t a top producer, markets price disruption risk via Strait-of-Hormuz flows and broader regional escalation.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/23/iran-protests-why-oil-markets-care-so-much-about-the-country.html"
+    },
+    {
+      "text": "Science: findings point to a single gene explaining most Alzheimer\u2019s cases, potentially concentrating drug targets and diagnostics while reshaping future healthcare R&D priorities.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260122073623.htm"
+    },
+    {
+      "text": "Science: Europa evidence suggests ice may feed a subsurface ocean, strengthening astrobiology prospects and prioritizing missions targeting ocean-world habitability.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260122073620.htm"
+    }
+  ]
+}

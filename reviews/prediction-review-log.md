@@ -1705,3 +1705,12 @@ As a result, all forecasts remain pending, not because they are unlikely, but be
 
 ---
 
+
+## 2026-01-23
+
+None of the listed predictions are clearly resolved by today’s headlines. Most of the news set is concentrated on U.S. domestic politics (ICE-related protests and scrutiny), geopolitics (Greenland, Iran), and weather/energy disruptions, which do not directly bear on the specified forecasted events (appropriations enactment, EPA roadmap publication, EU Ukraine package adoption, major M&A, or robotaxi expansions).
+
+The only partial touchpoint is Japan: a reported sharp yen move could reflect market repricing around Bank of Japan policy, but the bullet list does not provide an explicit policy-rate decision. As a result, the BoJ prediction is best treated as needing clarification (confirm the actual meeting outcome), while the rest remain pending awaiting concrete, on-the-record developments that meet each prediction’s verification criteria.
+
+---
+

@@ -1,0 +1,55 @@
+{
+  "date": "2026-01-23",
+  "assessments": [
+    {
+      "id": "684d2f0c-ceed-4693-87c3-f80c090d379e",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets contain no indication that a new appropriations act or continuing resolution has been signed that would prevent a lapse through at least 2026-03-31."
+    },
+    {
+      "id": "e39ccc83-bb08-422d-95f4-5112c3f9fd2f",
+      "status": "pending",
+      "status_rationale": "The TikTok-related items referenced are about U.S. terms and conditions and general history/timeline coverage; there is no cited U.S. Treasury press release or official statement announcing a CFIUS mitigation/national security agreement explicitly naming TikTok/ByteDance."
+    },
+    {
+      "id": "56837daf-09fb-4125-82a4-5650f8f2fbd4",
+      "status": "pending",
+      "status_rationale": "No news bullet indicates Capital One has announced completion (closing) of an acquisition of Brex."
+    },
+    {
+      "id": "18cb4871-9547-42de-95b0-5ca8394ebe21",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Waymo has launched a paid robotaxi service open to the general public in a new U.S. metro area beyond the listed set."
+    },
+    {
+      "id": "621a0e71-210f-4c8d-aa67-37f5aa0bd228",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Tesla has expanded a driverless (no human safety driver) robotaxi service to an additional U.S. city beyond Austin."
+    },
+    {
+      "id": "c5d596e1-46b1-4ec5-8a11-28da0b62dda3",
+      "status": "pending",
+      "status_rationale": "There is no referenced EPA publication of a formal animal-testing phase-down implementation roadmap/strategy with dated interim milestones toward a 2035 endpoint."
+    },
+    {
+      "id": "8cd6f2a1-7cd8-4daa-b546-5d7d051f8060",
+      "status": "needs-clarification",
+      "status_rationale": "A MarketWatch item references a sudden spike in the Japanese yen, which could be related to Bank of Japan policy expectations or actions, but the bullets do not state whether the BoJ actually raised its policy rate at any meeting starting 2026-01-23. Confirm the BoJ decision(s) for meetings in the specified window before marking correct/incorrect."
+    },
+    {
+      "id": "00486b9d-d434-4f93-875c-0baada48a599",
+      "status": "pending",
+      "status_rationale": "No bullet indicates EU adoption (Council/Parliament as required) of an additional Ukraine-support package totaling at least \u20ac20 billion."
+    },
+    {
+      "id": "d393ad75-9e78-4deb-8abe-9dcb56867407",
+      "status": "pending",
+      "status_rationale": "No bullet indicates a U.S.-listed software company (\u2265$100B market cap) announced a \u2265$2.0B acquisition of an AI model/training-data company."
+    },
+    {
+      "id": "cfdf3610-27bf-4443-a895-e837458d5b7a",
+      "status": "pending",
+      "status_rationale": "No bullet reports a BEA release showing U.S. headline PCE inflation at or above 3.0% year-over-year."
+    }
+  ]
+}
