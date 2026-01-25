@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-24",
+  "assessments": [
+    {
+      "id": "3f77846a-e356-4814-9388-f39ea7691c48",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items reference a major winter storm (photos/forecast) but do not report any PJM/MISO/SPP/ERCOT NERC Energy Emergency Alert (EEA) level 2 or 3 declaration or winter-storm-related fuel/generation constraints triggering an EEA."
+    },
+    {
+      "id": "bb796feb-1736-4c47-b1d1-bada9a671c99",
+      "status": "pending",
+      "status_rationale": "No FlightAware data or reporting in the provided bullets indicates a 7-day rolling window with 20,000+ U.S. flight cancellations."
+    },
+    {
+      "id": "8652384c-a023-4271-baa5-16cbfd645dd2",
+      "status": "pending",
+      "status_rationale": "No market data in today\u2019s bullets indicates USD/JPY had an intraday range of 3.0 yen or more."
+    },
+    {
+      "id": "3d07d821-2f22-44be-8996-4208329b3656",
+      "status": "pending",
+      "status_rationale": "No BLS CPI release information (specifically the seasonally adjusted Energy index MoM change) is included in the provided news bullets."
+    },
+    {
+      "id": "e3bec13a-8db2-4729-b3e8-b466460e4ae2",
+      "status": "pending",
+      "status_rationale": "No reporting in today\u2019s bullets indicates the Senate Banking Committee held a markup/vote to report out a standalone stablecoin federal framework bill."
+    },
+    {
+      "id": "e5634373-5122-4acf-b3fa-1a4d273ad208",
+      "status": "pending",
+      "status_rationale": "No BIS export-controls rulemaking update is referenced in today\u2019s bullets, and nothing indicates new/revised restrictions explicitly naming Nvidia or creating new thresholds covering Nvidia\u2019s China-market accelerators."
+    },
+    {
+      "id": "368b9dfd-0052-47c5-9f73-78f8e8497fa2",
+      "status": "pending",
+      "status_rationale": "No announcement or evidence in today\u2019s bullets that Databricks publicly filed an S-1 for a U.S. IPO."
+    },
+    {
+      "id": "4e35cd1f-7d54-4ff3-b5e3-f882cb99dedb",
+      "status": "pending",
+      "status_rationale": "No quarterly filing data in today\u2019s bullets indicates any $5B+ market-cap publicly traded BDC reported non-accruals at or above 3.0% of portfolio at fair value."
+    },
+    {
+      "id": "02b9a58b-a13d-4c4f-958d-91988989089a",
+      "status": "pending",
+      "status_rationale": "No OFAC announcement is included in today\u2019s bullets showing a new Iran-linked oil export facilitation sanctions action with 10+ newly designated targets."
+    }
+  ]
+}

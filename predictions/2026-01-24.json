@@ -19,7 +19,7 @@
       ],
       "rationale": "Large multi-region winter storms often trigger reliability alerts; fuel constraints and high gas prices raise the chance of an EEA declaration.",
       "id": "3f77846a-e356-4814-9388-f39ea7691c48",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Severe winter storms frequently create multi-day cascading cancellations; the threshold is high but plausible given nationwide impacts.",
       "id": "bb796feb-1736-4c47-b1d1-bada9a671c99",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Positioning-driven yen moves plus sensitive rate expectations make a 3-yen daily range plausible within a volatile quarter.",
       "id": "8652384c-a023-4271-baa5-16cbfd645dd2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -80,7 +80,7 @@
       ],
       "rationale": "Weather-driven gas spikes and potential knock-on effects to electricity/heating can show up as a sharp monthly move in CPI energy.",
       "id": "3d07d821-2f22-44be-8996-4208329b3656",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -100,7 +100,7 @@
       ],
       "rationale": "Momentum exists, but committee scheduling and cross-jurisdiction conflicts make passage from committee uncertain by mid-2026.",
       "id": "e3bec13a-8db2-4729-b3e8-b466460e4ae2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "rationale": "If policy makers judge existing curbs insufficient or circumvention rising, BIS often tightens thresholds or clarifies scope within months.",
       "id": "e5634373-5122-4acf-b3fa-1a4d273ad208",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "The reported pre-IPO debt raise suggests active IPO prep; timing depends on market windows and internal readiness.",
       "id": "368b9dfd-0052-47c5-9f73-78f8e8497fa2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "If private-credit stress increases, some large BDCs may show a visible rise in non-accruals, but dispersion and workout timing add uncertainty.",
       "id": "4e35cd1f-7d54-4ff3-b5e3-f882cb99dedb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -180,7 +180,7 @@
       ],
       "rationale": "Escalation periods often bring sanctions bursts aimed at maritime networks; the 10-target threshold matches typical multi-entity packages.",
       "id": "02b9a58b-a13d-4c4f-958d-91988989089a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

@@ -1,0 +1,173 @@
+{
+  "date": "2026-01-25",
+  "predictions": [
+    {
+      "text": "The U.S. will enact (bill signed into law) a federal extension of current Medicare telehealth flexibilities (including coverage for telehealth provided to patients in their homes and continuation of key COVID-era waivers) that prevents a lapse and extends these flexibilities through at least 2026-12-31, by 2026-03-15 (UTC).",
+      "category": "macro",
+      "horizon_days": 49,
+      "deadline": "2026-03-15",
+      "confidence_pct": 65,
+      "log_odds": 0.619,
+      "verification_criteria": "A bill becomes public law (Congress.gov status 'Became Law' and/or White House statement) explicitly extending Medicare telehealth flexibilities through a date on/after 2026-12-31.",
+      "evidence": [
+        "MarketWatch reports imminent risk that up to 67 million Americans could lose telehealth coverage without congressional funding: https://www.marketwatch.com/story/67-million-americans-could-lose-telehealth-coverage-in-the-coming-days-unless-congress-approves-funding-5693cf1d"
+      ],
+      "monitoring_signals": [
+        "House Ways & Means / Senate Finance markup or unanimous-consent requests on telehealth extenders",
+        "CMS statements on telehealth waiver end-dates",
+        "Congressional leadership announcements tying telehealth to must-pass vehicles (funding/tax/health packages)"
+      ],
+      "rationale": "Telehealth extenders have repeatedly been renewed in bipartisan packages; the near-term disruption risk increases the odds of a short-fuse legislative fix.",
+      "id": "515d2c0f-b020-4027-b00f-60208d7efa6c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. will announce and implement (via presidential proclamation, USTR notice, Federal Register, and/or CBP guidance) new or increased import tariffs on goods of Canadian origin with an incremental increase of at least +25 percentage points for at least one clearly defined product category (HS chapter or narrower), by 2026-05-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 126,
+      "deadline": "2026-05-31",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "Official U.S. action documents show an implemented tariff-rate increase of \u226525 percentage points applied to at least one Canadian-origin product category, with effective date on/before 2026-05-31.",
+      "evidence": [
+        "CNBC notes Trump threatening Canada with sweeping tariffs, including 100% if it deepens China ties: https://www.cnbc.com/2026/01/24/trump-tariff-canada-china.html"
+      ],
+      "monitoring_signals": [
+        "USTR/White House statements on Canada trade actions",
+        "Federal Register notices referencing Canada tariff changes",
+        "CBP CSMS messages updating duty rates for Canadian-origin goods"
+      ],
+      "rationale": "Public tariff threats increase tail risk, but translating threats into implemented, category-specific tariff schedules is less certain.",
+      "id": "2bdb3bc3-27f2-4c10-8282-6f416903fba0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Government of Canada will publish and begin applying retaliatory trade measures against the United States (e.g., surtaxes/retaliatory tariffs) covering U.S.-origin goods with a stated annual import coverage of at least CAD 5 billion (or equivalent stated coverage), by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 156,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "log_odds": -0.847,
+      "verification_criteria": "A Government of Canada order/notice (e.g., Canada Gazette, Department of Finance or Global Affairs Canada release) announces and makes effective retaliatory tariffs/surtaxes on U.S.-origin goods with stated coverage \u2265 CAD 5B annually (or equivalent).",
+      "evidence": [
+        "CNBC highlights increased U.S.-Canada tariff threats and trade uncertainty: https://www.cnbc.com/2026/01/24/trump-tariff-canada-china.html"
+      ],
+      "monitoring_signals": [
+        "Finance Canada and Global Affairs Canada trade remedy announcements",
+        "Canada Gazette publications mentioning surtaxes on U.S. goods",
+        "Canadian industry consultations on retaliation lists"
+      ],
+      "rationale": "Retaliation is plausible if U.S. tariffs materialize, but magnitude and timing depend on whether and how U.S. measures are implemented.",
+      "id": "30b72109-83df-4750-b665-7d3dc8083dd6",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ENISA or CERT-EU will publish a public technical advisory/report that explicitly references the 'wiper' malware campaign targeting Poland\u2019s energy sector (or a clearly linked IOC set) and provides mitigation guidance for European critical infrastructure, by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 65,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "A publicly accessible ENISA or CERT-EU publication (alert/advisory/report) names the Poland energy-grid wiper incident (or unambiguously links via malware family/IOCs) and includes recommended mitigations.",
+      "evidence": [
+        "Ars Technica reports never-before-seen wiper malware targeted Poland\u2019s energy grid: https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/"
+      ],
+      "monitoring_signals": [
+        "CERT-EU threat-intel advisories mentioning wipers/Poland/energy",
+        "ENISA incident reports on OT/ICS threats",
+        "EU-level statements about critical-infrastructure cyber incidents"
+      ],
+      "rationale": "A novel critical-infrastructure wiper attempt typically triggers EU-level technical sharing; publication timing is uncertain but often follows within weeks to months.",
+      "id": "134d2a0f-dd55-40af-9666-60dad33a47f1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. SEC will formally end (dismissal, settlement, or final consent judgment) at least one high-profile enforcement action against a major U.S.-facing crypto exchange other than Gemini\u2014specifically Coinbase, Kraken, or Binance.US\u2014by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 156,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "SEC litigation docket shows a filed stipulation/order of dismissal or settlement fully resolving an SEC enforcement case vs Coinbase, Kraken, or Binance.US; or SEC issues a press release announcing case resolution, on/before 2026-06-30.",
+      "evidence": [
+        "TechCrunch reports the SEC dropped its lawsuit against Gemini, suggesting a softer enforcement posture: https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/"
+      ],
+      "monitoring_signals": [
+        "PACER/SEC litigation releases for Coinbase/Kraken/Binance.US cases",
+        "SEC enforcement press releases signaling policy shifts",
+        "Statements by exchanges about case status changes"
+      ],
+      "rationale": "If enforcement posture is shifting, additional case wind-downs are plausible, but complex litigation/settlement dynamics keep confidence moderate.",
+      "id": "264fd6b1-c36f-4410-86ba-f765751434e2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Meta will report a Reality Labs operating loss of at least $4.5 billion (USD) for a single quarter in an earnings release covering Q1 2026 or Q2 2026, by 2026-08-15 (UTC).",
+      "category": "tech",
+      "horizon_days": 202,
+      "deadline": "2026-08-15",
+      "confidence_pct": 75,
+      "log_odds": 1.099,
+      "verification_criteria": "Meta quarterly earnings release (or 10-Q) reports Reality Labs 'operating loss' (or equivalent segment operating income) of \u2264 -$4.5B for a single quarter, with the filing/release date on/before 2026-08-15.",
+      "evidence": [
+        "CNBC notes intensified cuts in Meta Reality Labs and 'VR winter' fears: https://www.cnbc.com/2026/01/24/metas-reality-labs-cuts-sparked-fears-of-a-vr-winter.html"
+      ],
+      "monitoring_signals": [
+        "Meta earnings segment reporting for Reality Labs",
+        "Disclosures of additional Reality Labs restructuring charges",
+        "VR headset shipment and pricing trends affecting RL revenue/losses"
+      ],
+      "rationale": "Reality Labs has a history of multi-billion quarterly losses; continued restructuring does not necessarily prevent large operating losses.",
+      "id": "a1d790d7-d0d2-4435-91b9-038773091b85",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "Berkshire Hathaway will reduce its Kraft Heinz (KHC) position by at least 50% (by number of shares) versus the position reported for the quarter ended 2025-12-31, as shown in a Berkshire Form 13F filed by 2026-11-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 295,
+      "deadline": "2026-11-15",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Compare Berkshire\u2019s 13F for 2025-12-31 holdings (baseline) to any later 13F filed on/before 2026-11-15; prediction resolves true if reported KHC share count is at least 50% lower than baseline.",
+      "evidence": [
+        "CNBC reports Berkshire\u2019s new CEO Greg Abel signaled Kraft Heinz stake may be written down or exited: https://www.cnbc.com/2026/01/24/new-berkshire-ceo-abel-quickly-signals-troubled-kraft-heinz-stake-could-be-toast.html"
+      ],
+      "monitoring_signals": [
+        "Berkshire quarterly 13F filings and any KHC-related commentary",
+        "KHC impairment/write-down disclosures",
+        "Berkshire annual meeting Q&A regarding legacy consumer holdings"
+      ],
+      "rationale": "Management signaling increases odds of a meaningful trim, but Berkshire often moves slowly and may choose partial reduction or continued holding.",
+      "id": "76e50353-5668-4dec-8a52-64337c80ea54",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. FDA will grant a Breakthrough Device Designation to an implanted brain-computer interface (BCI) intended to restore communication and/or upper-limb motor function for people with paralysis, and the designation will be publicly disclosed by the developer, by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 341,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "A company/university developing an implanted BCI publicly announces receiving FDA Breakthrough Device Designation for a paralysis-related indication (communication and/or upper-limb motor restoration), with announcement date on/before 2026-12-31.",
+      "evidence": [
+        "ScienceDaily highlights accelerating progress in brain-wave interfaces toward restoring movement in paralysis: https://www.sciencedaily.com/releases/2026/01/260124073926.htm"
+      ],
+      "monitoring_signals": [
+        "Company press releases from leading implanted-BCI developers",
+        "ClinicalTrials.gov postings indicating pivotal/IDE progress",
+        "FDA Breakthrough Device-related disclosures in investor updates"
+      ],
+      "rationale": "Momentum in neuroprosthetics makes a designation plausible, but FDA decisions and public disclosure timing are uncertain; multiple teams compete and may not disclose promptly.",
+      "id": "61d8cfd4-c64a-4cd7-a0a1-a950b8f2bd70",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
