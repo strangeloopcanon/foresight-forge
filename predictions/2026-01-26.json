@@ -1,0 +1,180 @@
+{
+  "date": "2026-01-26",
+  "predictions": [
+    {
+      "text": "A U.S. federal government shutdown (lapse in appropriations) will occur and last at least 24 continuous hours, between 2026-02-01 and 2026-03-15 (UTC).",
+      "category": "macro",
+      "horizon_days": 48,
+      "deadline": "2026-03-15",
+      "confidence_pct": 20,
+      "log_odds": -1.3863,
+      "verification_criteria": "Verified if OMB (or another official U.S. government source) and at least one major newswire (e.g., Reuters/AP) report a lapse in federal appropriations that results in a shutdown lasting >=24 continuous hours (measured from the start of the funding gap to enactment/signing of a funding law).",
+      "evidence": [
+        "Recent reporting indicates shutdown odds have risen due to a DHS funding dispute following the Minneapolis federal-agent killing. https://www.cnbc.com/2026/01/25/minneapolis-shooting-government-shutdown.html",
+        "Heightened governance scrutiny and political conflict can increase appropriations brinkmanship risk. https://www.cnbc.com/2026/01/25/alex-pretti-minneapolis-shooting-videos-trump.html"
+      ],
+      "monitoring_signals": [
+        "Congress.gov: status of CR/appropriations bills covering DHS and full-year omnibus prospects",
+        "OMB shutdown contingency planning updates; agency notices about furloughs",
+        "Speaker/majority leader statements indicating inability to pass a CR",
+        "CBO or CRS updates on funding expiration dates and anomalies"
+      ],
+      "rationale": "Political shock and DHS funding standoff raise the chance of a short funding gap, but Congress historically tends to avert or quickly end shutdowns\u2014hence low probability.",
+      "id": "986a06fb-e6b5-43e9-bc14-94b4baeb26c7",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "LBMA spot gold (XAU/USD) will close at or above $5,200 per troy ounce on at least one trading day, by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 64,
+      "deadline": "2026-03-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Verified if an LBMA-referenced spot close (or widely accepted benchmark close as reported by Bloomberg/Refinitiv/WSJ/FT) shows XAU/USD closing price >= 5200.00 on any day on or before 2026-03-31 (UTC).",
+      "evidence": [
+        "Gold has already surged past $5,000/oz amid safe-haven demand. https://www.cnbc.com/2026/01/26/gold-record-surges-past-new-5000-record.html",
+        "Market focus on higher-for-longer rates and uncertainty can sustain safe-haven flows. https://www.marketwatch.com/story/u-s-stock-futures-fall-gold-hits-record-ahead-of-fed-meeting-big-tech-earnings-c4646ae5"
+      ],
+      "monitoring_signals": [
+        "Daily XAU/USD spot close; GLD flows and COMEX open interest",
+        "Real yields (TIPS) and DXY trend",
+        "Geopolitical risk headlines and U.S. fiscal/shutdown developments"
+      ],
+      "rationale": "With spot already above $5,000, another ~4% move is plausible if risk-off persists; however, rates strength could cap upside.",
+      "id": "1780df1f-e446-4ffe-bf5b-aa6cd9d2f6b7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Apple will publicly announce a Gemini (Google) integration for Siri (or 'Gemini-powered Siri') via an official Apple keynote, press release, or Apple Newsroom post, by 2026-02-28 (UTC).",
+      "category": "tech",
+      "horizon_days": 33,
+      "deadline": "2026-02-28",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Verified if Apple (apple.com/newsroom, Apple event video, or official press materials) explicitly states Siri will use/integrate 'Gemini' (by name) or describes Siri as 'Gemini-powered', on or before 2026-02-28 (UTC).",
+      "evidence": [
+        "Reporting claims Apple is preparing to unveil Gemini-powered Siri in February. https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/"
+      ],
+      "monitoring_signals": [
+        "Apple event invitations and agenda leaks for February",
+        "Apple Newsroom announcements related to Siri/AI",
+        "iOS beta strings referencing 'Gemini' or Google model endpoints",
+        "Google/Alphabet statements about Apple distribution partnerships"
+      ],
+      "rationale": "The claim is specific on timing and partner; Apple often formalizes such integrations at events, but deal finalization or branding choices could delay/obscure explicit naming.",
+      "id": "28656a88-04a9-41b1-9ef4-6c45af0363cc",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 10-year Treasury yield (market close) will be at or above 5.25% on at least one trading day, by 2026-04-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 94,
+      "deadline": "2026-04-30",
+      "confidence_pct": 30,
+      "log_odds": -0.8473,
+      "verification_criteria": "Verified if the 10-year Treasury constant maturity yield (or an equivalent widely cited 10-year U.S. Treasury benchmark close from Bloomberg/Refinitiv) records a closing yield >= 5.25% on any trading day on or before 2026-04-30 (UTC).",
+      "evidence": [
+        "Markets are focused on duration of higher-for-longer policy, which can pressure long-end yields. https://www.marketwatch.com/story/u-s-stock-futures-fall-gold-hits-record-ahead-of-fed-meeting-big-tech-earnings-c4646ae5",
+        "Governance uncertainty (shutdown risk) can raise term premia and volatility in rates. https://www.cnbc.com/2026/01/25/minneapolis-shooting-government-shutdown.html"
+      ],
+      "monitoring_signals": [
+        "FOMC statements/dots and inflation surprises (CPI/PCE)",
+        "Treasury auction tails and bid-to-cover ratios",
+        "MOVE index and term premium estimates",
+        "Fiscal headlines (funding, debt issuance, deficit projections)"
+      ],
+      "rationale": "A spike to 5.25% requires either inflation re-acceleration or term-premium shock; possible but not base case over ~3 months.",
+      "id": "174c57c3-d064-4615-82a0-fcdad08e6b2b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The EU will adopt a new Iran-related human-rights sanctions action adding at least 5 newly listed persons and/or entities (combined) to an EU sanctions list, by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 64,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "Verified if the Council of the EU (via Official Journal publication) issues a decision/regulation updating an Iran-related human-rights sanctions regime (or EU Global Human Rights regime citing Iran) that adds >=5 new listings (persons/entities) in a single action on or before 2026-03-31 (UTC).",
+      "evidence": [
+        "Reports describe escalating repression in Iran, increasing sanctions risk. https://www.nytimes.com/2026/01/25/world/middleeast/iran-how-crackdown-was-done.html"
+      ],
+      "monitoring_signals": [
+        "EU Council press releases and Official Journal sanctions publications",
+        "Statements from EEAS and major EU member states (France/Germany/Netherlands)",
+        "UN human-rights reporting and NGO documentation triggering EU action"
+      ],
+      "rationale": "EU frequently responds to documented crackdowns with incremental listings; threshold of five is moderate and time window is short-to-medium.",
+      "id": "3505a122-c4c1-467f-852e-5fb8ae1c5d0a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "China will publicly announce the removal, suspension, or investigation of at least one additional senior PLA official at the level of (a) Central Military Commission member, (b) Theater Command commander, or (c) equivalent service chief, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 155,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "log_odds": -0.3228,
+      "verification_criteria": "Verified if Xinhua/People\u2019s Daily/China\u2019s Ministry of National Defense (or another authoritative state outlet) reports that a PLA official meeting the specified seniority criteria is removed, suspended, placed under investigation, or otherwise officially purged, on or before 2026-06-30 (UTC).",
+      "evidence": [
+        "Reporting indicates Xi\u2019s military purge reached China\u2019s top general, suggesting continued churn is plausible. https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html"
+      ],
+      "monitoring_signals": [
+        "Xinhua announcements and NPC/CPPCC personnel updates",
+        "Unexplained absences from public events and command reshuffles",
+        "Hong Kong and Taiwan security reporting on PLA personnel moves"
+      ],
+      "rationale": "A purge wave often comes in clusters, but predicting another top-level removal within 5 months remains uncertain.",
+      "id": "37149d67-096a-493b-ab9e-20c9fd03e420",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one of {American Airlines, Delta Air Lines, United Airlines, Southwest Airlines} will disclose a quantified Q1 2026 weather-related operational impact of at least $200 million (USD) (cost and/or lost revenue), by 2026-05-15 (UTC).",
+      "category": "macro",
+      "horizon_days": 109,
+      "deadline": "2026-05-15",
+      "confidence_pct": 33,
+      "log_odds": -0.708,
+      "verification_criteria": "Verified if in an earnings release, prepared remarks, transcript, 10-Q, or investor presentation covering Q1 2026 results, one named airline explicitly attributes >=$200M in quantified impact to weather (winter storms/icing/extreme cold) on or before 2026-05-15 (UTC).",
+      "evidence": [
+        "Winter storms have driven U.S. flight cancellations to pandemic-era levels, implying material financial impacts are possible. https://www.nytimes.com/2026/01/25/weather/winter-storm-flight-delays-cancellations.html"
+      ],
+      "monitoring_signals": [
+        "FlightAware cancellation totals and airline irregular-operations disclosures",
+        "Airline Q1 earnings dates and 8-K/press releases",
+        "DOT on-time performance reports and compensation/refund policy updates"
+      ],
+      "rationale": "Disruption is evident, but firms may avoid large single-number attribution or impacts may be dispersed across categories below the threshold.",
+      "id": "2c32f0c4-09fb-4e70-ad64-bcda726079a0",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Justice (Civil Rights Division or another DOJ component) will publicly confirm the opening of a federal investigation related to the Minneapolis federal-agent killing incident, by 2026-02-28 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 33,
+      "deadline": "2026-02-28",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Verified if DOJ issues a press release/official statement (doj.gov) explicitly stating it has opened an investigation into the Minneapolis incident (or closely related law-enforcement use-of-force/civil-rights issues tied to the incident), on or before 2026-02-28 (UTC).",
+      "evidence": [
+        "The incident has intensified scrutiny and political controversy, increasing probability of federal investigative steps. https://www.cnbc.com/2026/01/25/alex-pretti-minneapolis-shooting-videos-trump.html",
+        "Associated funding/political conflict indicates elevated national attention and oversight pressure. https://www.cnbc.com/2026/01/25/minneapolis-shooting-government-shutdown.html"
+      ],
+      "monitoring_signals": [
+        "DOJ press releases; U.S. Attorney statements for the District of Minnesota",
+        "Congressional letters requesting DOJ review",
+        "Public release of additional video/bodycam evidence or forensic findings"
+      ],
+      "rationale": "High-profile incidents often trigger DOJ action, but jurisdictional ambiguity and parallel investigations may delay any public confirmation.",
+      "id": "636554fc-69a8-404d-877d-8c0a522795e9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

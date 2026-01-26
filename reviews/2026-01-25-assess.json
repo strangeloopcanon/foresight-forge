@@ -1,0 +1,45 @@
+{
+  "date": "2026-01-25",
+  "assessments": [
+    {
+      "id": "515d2c0f-b020-4027-b00f-60208d7efa6c",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets do not reference Congressional passage/signature of any federal Medicare telehealth extension through at least 2026-12-31. Deadline (2026-03-15) has not yet arrived, so the prediction remains unresolved."
+    },
+    {
+      "id": "2bdb3bc3-27f2-4c10-8282-6f416903fba0",
+      "status": "pending",
+      "status_rationale": "A CNBC item notes Trump 'threatens 100% tariffs,' but the prediction requires an announced and implemented new/increased tariff on Canadian-origin goods with an incremental +25pp for a defined product category (e.g., via proclamation/USTR/Federal Register/CBP guidance). The provided bullets do not establish implementation, product scope, or a formal tariff action, so it remains pending."
+    },
+    {
+      "id": "30b72109-83df-4750-b665-7d3dc8083dd6",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Canada has published and begun applying retaliatory trade measures against the U.S. with stated annual import coverage \u2265 CAD 5B. Deadline (2026-06-30) is in the future."
+    },
+    {
+      "id": "134d2a0f-dd55-40af-9666-60dad33a47f1",
+      "status": "pending",
+      "status_rationale": "None of the listed items reference ENISA or CERT-EU issuing a public advisory about a 'wiper' malware campaign targeting Poland\u2019s energy sector with mitigations/IOCs. Deadline (2026-03-31) not yet reached."
+    },
+    {
+      "id": "264fd6b1-c36f-4410-86ba-f765751434e2",
+      "status": "pending",
+      "status_rationale": "There is no bullet-level evidence that the SEC has ended (dismissal/settlement/final judgment) a high-profile enforcement action against Coinbase, Kraken, or Binance.US. Deadline (2026-06-30) is still ahead."
+    },
+    {
+      "id": "a1d790d7-d0d2-4435-91b9-038773091b85",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets mention upcoming Big Tech earnings generally, but do not report a Meta Reality Labs quarterly operating loss figure for Q1/Q2 2026. The prediction concerns a future earnings release window (by 2026-08-15)."
+    },
+    {
+      "id": "76e50353-5668-4dec-8a52-64337c80ea54",
+      "status": "pending",
+      "status_rationale": "No news bullet or filing information is provided about Berkshire Hathaway\u2019s Kraft Heinz stake or any Form 13F changes. The relevant comparison quarter (ended 2025-12-31) and filing deadline (2026-11-15) indicate this is not yet decidable."
+    },
+    {
+      "id": "61d8cfd4-c64a-4cd7-a0a1-a950b8f2bd70",
+      "status": "pending",
+      "status_rationale": "None of the bullets indicate the FDA has granted and a developer has publicly disclosed a Breakthrough Device Designation for an implanted BCI intended to restore communication and/or upper-limb motor function. Deadline (2026-12-31) is far in the future."
+    }
+  ]
+}

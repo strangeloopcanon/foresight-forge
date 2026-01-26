@@ -19,7 +19,7 @@
       ],
       "rationale": "Telehealth extenders have repeatedly been renewed in bipartisan packages; the near-term disruption risk increases the odds of a short-fuse legislative fix.",
       "id": "515d2c0f-b020-4027-b00f-60208d7efa6c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Public tariff threats increase tail risk, but translating threats into implemented, category-specific tariff schedules is less certain.",
       "id": "2bdb3bc3-27f2-4c10-8282-6f416903fba0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Retaliation is plausible if U.S. tariffs materialize, but magnitude and timing depend on whether and how U.S. measures are implemented.",
       "id": "30b72109-83df-4750-b665-7d3dc8083dd6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "A novel critical-infrastructure wiper attempt typically triggers EU-level technical sharing; publication timing is uncertain but often follows within weeks to months.",
       "id": "134d2a0f-dd55-40af-9666-60dad33a47f1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "If enforcement posture is shifting, additional case wind-downs are plausible, but complex litigation/settlement dynamics keep confidence moderate.",
       "id": "264fd6b1-c36f-4410-86ba-f765751434e2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Reality Labs has a history of multi-billion quarterly losses; continued restructuring does not necessarily prevent large operating losses.",
       "id": "a1d790d7-d0d2-4435-91b9-038773091b85",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Management signaling increases odds of a meaningful trim, but Berkshire often moves slowly and may choose partial reduction or continued holding.",
       "id": "76e50353-5668-4dec-8a52-64337c80ea54",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Momentum in neuroprosthetics makes a designation plausible, but FDA decisions and public disclosure timing are uncertain; multiple teams compete and may not disclose promptly.",
       "id": "61d8cfd4-c64a-4cd7-a0a1-a950b8f2bd70",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

@@ -1725,3 +1725,12 @@ The remaining forecasts (stablecoin markup, BIS AI-chip controls, IPO filing, BD
 
 ---
 
+
+## 2026-01-25
+
+None of the eight predictions can be scored as correct or incorrect based on the provided news bullets. Most items are medium-term policy/regulatory/earnings events with deadlines later in 2026, and today’s headlines are dominated by U.S. domestic politics (Minneapolis shooting response and shutdown dynamics), weather disruptions, and macro/markets (gold above $5,000/oz, Fed preview) rather than the specific policy/agency actions forecast.
+
+The only partial intersection is U.S.–Canada trade: a CNBC headline mentions Trump threatening 100% tariffs, which is directionally relevant to the tariff and retaliation forecasts. However, the predictions require concrete implementation details (formal instrument, defined product category, incremental tariff magnitude) and, for Canada, published retaliatory measures with stated coverage ≥ CAD 5B—none of which are evidenced in the bullets. Net: all remain pending, with trade-related predictions worth monitoring closely given the elevated rhetoric.
+
+---
+
