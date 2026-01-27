@@ -1,0 +1,45 @@
+{
+  "date": "2026-01-26",
+  "assessments": [
+    {
+      "id": "986a06fb-e6b5-43e9-bc14-94b4baeb26c7",
+      "status": "pending",
+      "status_rationale": "The shutdown window (2026-02-01 to 2026-03-15) has not started yet. Today\u2019s news notes Democrats are considering a shutdown fight, but there is no confirmed lapse in appropriations or 24+ hour shutdown reported."
+    },
+    {
+      "id": "1780df1f-e446-4ffe-bf5b-aa6cd9d2f6b7",
+      "status": "pending",
+      "status_rationale": "No information in today\u2019s bullets about LBMA spot gold closing at/above $5,200, and the deadline (2026-03-31) is still in the future."
+    },
+    {
+      "id": "28656a88-04a9-41b1-9ef4-6c45af0363cc",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention any Apple announcement or Apple Newsroom/keynote confirmation of Siri integrating Google Gemini. Deadline (2026-02-28) remains ahead."
+    },
+    {
+      "id": "174c57c3-d064-4615-82a0-fcdad08e6b2b",
+      "status": "pending",
+      "status_rationale": "No market-close 10-year Treasury yield level is provided in today\u2019s bullets, and the deadline (2026-04-30) is still ahead."
+    },
+    {
+      "id": "3505a122-c4c1-467f-852e-5fb8ae1c5d0a",
+      "status": "pending",
+      "status_rationale": "While there is reporting on Iran and U.S./regional tensions, there is no evidence in today\u2019s bullets of the EU adopting a new Iran human-rights sanctions action adding 5+ new listings. Deadline (2026-03-31) is in the future."
+    },
+    {
+      "id": "37149d67-096a-493b-ab9e-20c9fd03e420",
+      "status": "pending",
+      "status_rationale": "No reporting in today\u2019s bullets indicates China has announced removal/suspension/investigation of an additional senior PLA official at the specified seniority levels. Deadline (2026-06-30) is in the future."
+    },
+    {
+      "id": "2c32f0c4-09fb-4e70-ad64-bcda726079a0",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets describe a major winter storm and disruptions, but do not show any of the named airlines disclosing a quantified Q1 2026 weather-related impact of at least $200M. Deadline (2026-05-15) is in the future."
+    },
+    {
+      "id": "636554fc-69a8-404d-877d-8c0a522795e9",
+      "status": "pending",
+      "status_rationale": "There is extensive coverage of the Minneapolis killing incident and political response, but no bullet indicates DOJ has publicly confirmed opening a federal investigation related to the incident. Deadline (2026-02-28) remains ahead."
+    }
+  ]
+}

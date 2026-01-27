@@ -1,0 +1,105 @@
+{
+  "bullets": [
+    {
+      "text": "Trump says tariffs on South Korea to rise to 25%, pressuring Korean auto/pharma shares and risking escalation in global trade tensions and supply chains.",
+      "tags": [
+        "macro",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/01/26/business/economy/trump-tariffs-south-korea.html"
+    },
+    {
+      "text": "Commerce Department takes an equity stake in USA Rare Earth, signaling deeper U.S. industrial policy to secure critical minerals and reduce China dependence.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/26/usa-rare-earth-shares-jump-20percent-as-commerce-department-takes-equity-stake.html"
+    },
+    {
+      "text": "Iran assessed as politically weaker as U.S. warships move closer; Tehran threatens retaliation, raising regional conflict risk and potential energy-market volatility.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html"
+    },
+    {
+      "text": "Fed likely to hold rates steady despite White House pressure, keeping borrowing costs elevated and reinforcing expectations for gradual, data-driven policy shifts.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/26/fed-rates-may-hold-steady.html"
+    },
+    {
+      "text": "Health insurers fall after proposal to keep Medicare Advantage rates flat next year, implying margin pressure and renewed political scrutiny of privatized Medicare.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/26/health-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html"
+    },
+    {
+      "text": "Nvidia invests $2B in CoreWeave; markets interpret it as strategic capacity control for AI compute, while competition from custom silicon and TPUs intensifies.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html"
+    },
+    {
+      "text": "Microsoft unveils second-gen Maia AI chip and wins approval for 15 Wisconsin data centers, underscoring hyperscaler push to vertically integrate AI infrastructure.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/26/microsoft-reveals-maia-200-ai-chip-will-use-it-in-house.html"
+    },
+    {
+      "text": "TikTok uninstalls jump after U.S. joint-venture deal; alternatives surge, highlighting platform-fragmentation risk and the sensitivity of consumer apps to geopolitics.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/26/tiktok-uninstalls-are-up-150percent-following-us-joint-venture.html"
+    },
+    {
+      "text": "Severe winter storm linked to at least 22 deaths; combined with high utility bills, it spotlights grid resilience, affordability, and climate-linked extreme-weather risks.",
+      "tags": [
+        "energy",
+        "macro",
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2026/01/26/weather/winter-storm-death-toll-snow.html"
+    },
+    {
+      "text": "FAA launches modernization and safety overhaul amid ongoing concerns at Reagan National; aviation safety upgrades can drive near-term compliance costs and operational changes.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.nytimes.com/2026/01/26/us/politics/faa-overhaul-safety-modernization.html"
+    },
+    {
+      "text": "New quantum work shows entangled atoms functioning as a single sensor, enabling much higher precision measurement\u2014potentially transformative for navigation, timing, and defense sensing.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260126075842.htm"
+    },
+    {
+      "text": "Cancer-evolution research identifies hidden rules shaping tumor development, supporting more predictive treatment strategies and accelerating precision-oncology drug design.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260125083344.htm"
+    }
+  ]
+}

@@ -21,7 +21,7 @@
       ],
       "rationale": "Political shock and DHS funding standoff raise the chance of a short funding gap, but Congress historically tends to avert or quickly end shutdowns\u2014hence low probability.",
       "id": "986a06fb-e6b5-43e9-bc14-94b4baeb26c7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "With spot already above $5,000, another ~4% move is plausible if risk-off persists; however, rates strength could cap upside.",
       "id": "1780df1f-e446-4ffe-bf5b-aa6cd9d2f6b7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "The claim is specific on timing and partner; Apple often formalizes such integrations at events, but deal finalization or branding choices could delay/obscure explicit naming.",
       "id": "28656a88-04a9-41b1-9ef4-6c45af0363cc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -88,7 +88,7 @@
       ],
       "rationale": "A spike to 5.25% requires either inflation re-acceleration or term-premium shock; possible but not base case over ~3 months.",
       "id": "174c57c3-d064-4615-82a0-fcdad08e6b2b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "EU frequently responds to documented crackdowns with incremental listings; threshold of five is moderate and time window is short-to-medium.",
       "id": "3505a122-c4c1-467f-852e-5fb8ae1c5d0a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "A purge wave often comes in clusters, but predicting another top-level removal within 5 months remains uncertain.",
       "id": "37149d67-096a-493b-ab9e-20c9fd03e420",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "rationale": "Disruption is evident, but firms may avoid large single-number attribution or impacts may be dispersed across categories below the threshold.",
       "id": "2c32f0c4-09fb-4e70-ad64-bcda726079a0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -173,7 +173,7 @@
       ],
       "rationale": "High-profile incidents often trigger DOJ action, but jurisdictional ambiguity and parallel investigations may delay any public confirmation.",
       "id": "636554fc-69a8-404d-877d-8c0a522795e9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

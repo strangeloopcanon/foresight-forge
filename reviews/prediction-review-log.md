@@ -1734,3 +1734,12 @@ The only partial intersection is U.S.–Canada trade: a CNBC headline mentions T
 
 ---
 
+
+## 2026-01-26
+
+Today’s news meaningfully increases the salience of two forecast topics—(1) U.S. budget brinkmanship and shutdown dynamics and (2) fallout around the Minneapolis killing incident—but it does not provide the kind of decisive, criteria-matching evidence needed to resolve any forecast. In particular, coverage of Democrats embracing a shutdown fight is a signal of elevated risk, yet the shutdown prediction requires an actual lapse in appropriations lasting 24+ continuous hours within a future window that has not yet begun.
+
+Similarly, the Minneapolis incident is heavily covered, but the DOJ forecast is specifically about a public confirmation of a federal investigation; the bullets provided do not show that confirmation. The remaining market/commodity, Apple/Gemini, EU sanctions, PLA personnel action, and airline quantified-impact forecasts are not directly addressed by today’s headlines, leaving all of them pending.
+
+---
+

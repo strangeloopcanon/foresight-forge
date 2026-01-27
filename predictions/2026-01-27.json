@@ -1,0 +1,185 @@
+{
+  "date": "2026-01-27",
+  "predictions": [
+    {
+      "text": "The United States will formally implement a new 25% import tariff (or additional tariff bringing the total incremental increase to at least +25 percentage points) on passenger vehicles of South Korean origin (HS 8703), via a presidential proclamation and/or USTR/Federal Register notice with an effective date, by 2026-04-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 93,
+      "deadline": "2026-04-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if a U.S. government proclamation/USTR action/Federal Register notice explicitly imposes a 25% (or +25pp incremental) tariff on South Korea-origin passenger vehicles (HS 8703) with an effective date on or before 2026-04-30. Otherwise NO.",
+      "evidence": [
+        "NYT reports Trump says tariffs on South Korea to rise to 25%, raising escalation risk: https://www.nytimes.com/2026/01/26/business/economy/trump-tariffs-south-korea.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register and White House proclamations mentioning Korea/automobiles/Section 301/232",
+        "USTR press releases and CBP Cargo Systems Messaging Service (CSMS) notices",
+        "Statements from KITA/Korea government and U.S. auto import associations"
+      ],
+      "rationale": "Rhetoric suggests intent, but implementation may be delayed, narrowed, or negotiated away; formal tariff actions require procedural steps and often face pushback from industry and allies.",
+      "id": "bfb5619b-dad0-4763-bab2-f7e5632a50bc",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "South Korea will announce retaliatory trade measures (tariffs/surcharges/import restrictions) explicitly targeting U.S.-origin goods with stated annual import coverage of at least USD 2.0 billion (or KRW-equivalent), by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 154,
+      "deadline": "2026-06-30",
+      "confidence_pct": 28,
+      "verification_criteria": "YES if the Government of South Korea publicly announces retaliatory trade measures aimed at the U.S. and states coverage/affected imports totaling >= USD 2.0B annually (or provides itemized list that independent trade totals plausibly exceed USD 2.0B). Otherwise NO.",
+      "evidence": [
+        "NYT notes proposed 25% tariff on South Korea increases escalation risk: https://www.nytimes.com/2026/01/26/business/economy/trump-tariffs-south-korea.html"
+      ],
+      "monitoring_signals": [
+        "MOTIE/Korean Customs announcements and press briefings",
+        "WTO notifications or consultations requests",
+        "Korean media reporting of retaliation package size and targeted HS codes"
+      ],
+      "rationale": "Retaliation is plausible if U.S. tariffs are implemented, but Korea may prefer negotiation or targeted non-tariff responses to limit broader economic fallout.",
+      "id": "378a4509-9628-4f1c-9041-0961d1679349",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "USA Rare Earth will disclose an additional U.S. federal financing commitment (grant, loan, loan guarantee, equity, or offtake-linked support) of at least $200 million (USD) in aggregate incremental amount beyond the already-disclosed Commerce equity stake, by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 246,
+      "deadline": "2026-09-30",
+      "confidence_pct": 32,
+      "verification_criteria": "YES if USA Rare Earth (or the relevant federal agency) publicly discloses a new federal funding/financing commitment with stated value >= $200M incremental (not merely the earlier equity stake) by the deadline. Otherwise NO.",
+      "evidence": [
+        "CNBC reports Commerce Department takes an equity stake in USA Rare Earth, signaling deeper industrial policy: https://www.cnbc.com/2026/01/26/usa-rare-earth-shares-jump-20percent-as-commerce-department-takes-equity-stake.html"
+      ],
+      "monitoring_signals": [
+        "DOE/DoD/Commerce press releases on critical minerals funding",
+        "Company 8-Ks/press releases describing grants/loans/offtake deals",
+        "USGS/DoD supply-chain policy updates naming USA Rare Earth"
+      ],
+      "rationale": "An equity stake suggests strong policy support, but large incremental commitments depend on project readiness, permitting, and budget prioritization.",
+      "id": "529f3050-d98f-43b6-b6cf-859051178860",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "CMS will finalize the Medicare Advantage (MA) Rate Announcement for contract year 2027 with an estimated average revenue change (growth percentage) of +0.5% or less, in the published final Rate Announcement, by 2026-04-07 (UTC).",
+      "category": "macro",
+      "horizon_days": 70,
+      "deadline": "2026-04-07",
+      "confidence_pct": 57,
+      "verification_criteria": "YES if the final CMS Medicare Advantage Rate Announcement document for CY 2027 reports an estimated average revenue change <= +0.5%. NO if > +0.5% or if not published by the deadline.",
+      "evidence": [
+        "CNBC reports proposal to keep Medicare Advantage rates flat next year, pressuring insurers: https://www.cnbc.com/2026/01/26/health-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html"
+      ],
+      "monitoring_signals": [
+        "CMS Advance Notice and final Rate Announcement publications",
+        "AHIP/insurance industry responses and lobbying intensity",
+        "White House/CMS statements about MA coding intensity and risk adjustment"
+      ],
+      "rationale": "The policy signal points to a low final update; historically CMS sometimes adjusts upward, but political scrutiny and budget constraints raise odds of a near-flat outcome.",
+      "id": "823fe93a-c76e-4371-b882-4a2c3e8a9ac2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CoreWeave will publicly file an S-1 registration statement for a U.S. IPO (not confidential-only) by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 154,
+      "deadline": "2026-06-30",
+      "confidence_pct": 44,
+      "verification_criteria": "YES if an S-1 for CoreWeave becomes publicly available on SEC EDGAR by the deadline. Otherwise NO.",
+      "evidence": [
+        "CNBC reports Nvidia invests $2B in CoreWeave, highlighting strategic AI compute capacity: https://www.cnbc.com/2026/01/26/3coreweave-nvidia-stock-ai-data-centers.html"
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR new S-1 filings; underwriter rumors becoming formal",
+        "CoreWeave hiring for IPO readiness/finance roles",
+        "Debt refinancings and ratings actions that often precede an IPO"
+      ],
+      "rationale": "Large strategic investment and strong AI infrastructure demand support IPO readiness, but timing depends on market conditions and CoreWeave\u2019s capital needs versus private funding alternatives.",
+      "id": "a05f503d-c9dd-4da8-947a-cb2fa48830ff",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Microsoft will announce that Maia 200 (or 'Maia' second-generation) accelerators will be available to external Azure customers as a named VM/instance offering (public preview or GA), by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 246,
+      "deadline": "2026-09-30",
+      "confidence_pct": 40,
+      "verification_criteria": "YES if Microsoft (Azure blog, Build/Ignite keynote, press release, or official docs) announces a customer-accessible Azure VM/instance powered by Maia 200 (or explicitly the second-gen Maia chip) by the deadline. Otherwise NO.",
+      "evidence": [
+        "CNBC reports Microsoft unveils second-gen Maia AI chip, emphasizing vertical integration: https://www.cnbc.com/2026/01/26/microsoft-reveals-maia-200-ai-chip-will-use-it-in-house.html"
+      ],
+      "monitoring_signals": [
+        "Azure product pages and VM SKU announcements mentioning Maia",
+        "Microsoft Build/Ignite conference keynotes and session catalog",
+        "Supply-chain capacity signals (packaging/HBM availability) for Maia deployments"
+      ],
+      "rationale": "Hyperscalers typically move from in-house deployment to selective customer availability; however, yield/supply constraints and internal demand could delay external exposure.",
+      "id": "e2218ee9-66a9-4702-a484-a4ff7cd1e702",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The FAA will publish a public modernization/safety implementation plan document that includes at least three dated milestones (with month+year) for air traffic control and/or aviation safety upgrades, by 2026-04-30 (UTC).",
+      "category": "other",
+      "horizon_days": 93,
+      "deadline": "2026-04-30",
+      "confidence_pct": 62,
+      "verification_criteria": "YES if the FAA (or DOT) publishes a publicly accessible plan/roadmap (PDF/web report) describing the modernization/safety overhaul and containing >=3 distinct dated milestones (month+year). Otherwise NO.",
+      "evidence": [
+        "NYT reports FAA launches modernization and safety overhaul amid concerns at Reagan National: https://www.nytimes.com/2026/01/26/us/politics/faa-overhaul-safety-modernization.html"
+      ],
+      "monitoring_signals": [
+        "FAA/DOT press releases and dedicated program webpages",
+        "Congressional hearing materials and written testimony referencing milestone dates",
+        "RFPs/RFIs that align to a published modernization schedule"
+      ],
+      "rationale": "Launching an overhaul usually requires a public roadmap for congressional and stakeholder buy-in; timelines can slip, but near-term publication is politically and operationally useful.",
+      "id": "232e4a74-49a5-4e08-a830-6d5a61be08bf",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. Department of Defense (DoD) or DARPA will issue a new public solicitation (BAA, RFI, or funding opportunity) explicitly seeking quantum sensing for navigation/timing (e.g., quantum inertial navigation or quantum clocks) with total program funding stated at $50 million (USD) or more, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 154,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "YES if a DoD/DARPA solicitation published on SAM.gov, grants.gov, or an official DARPA/DoD site explicitly targets quantum sensing for navigation/timing and states total program value/budget ceiling >= $50M. Otherwise NO.",
+      "evidence": [
+        "ScienceDaily reports entangled-atom sensor advances could transform navigation and defense sensing: https://www.sciencedaily.com/releases/2026/01/260126075842.htm"
+      ],
+      "monitoring_signals": [
+        "SAM.gov and DARPA BAA postings containing 'quantum inertial'/'quantum navigation'/'quantum sensing'",
+        "DoD RDT&E budget line items referencing PNT-denied environments",
+        "Defense primes announcing teaming for quantum navigation prototypes"
+      ],
+      "rationale": "PNT resilience is a recurring defense priority, and notable research advances can accelerate program formation; however, solicitations may be smaller, classified, or folded into broader sensing initiatives.",
+      "id": "36bdf5f0-f968-49dc-97b1-df661c90edb2",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one major U.S. health insurer in {UnitedHealth, Humana, CVS/Aetna, Elevance, Cigna} will publicly quantify a Medicare Advantage policy-driven headwind (rate update and/or risk-adjustment/coding changes) of at least $500 million (USD) to annualized revenue and/or operating profit for 2027, in an earnings release/call or investor presentation, by 2026-08-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 200,
+      "deadline": "2026-08-15",
+      "confidence_pct": 38,
+      "verification_criteria": "YES if one of the named insurers provides a numeric estimate >= $500M annualized impact attributed to MA policy changes for 2027 in a public investor communication by the deadline. Otherwise NO.",
+      "evidence": [
+        "CNBC reports insurers fall after proposal to keep Medicare Advantage rates flat, implying margin pressure: https://www.cnbc.com/2026/01/26/health-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html"
+      ],
+      "monitoring_signals": [
+        "Q2/Q3 2026 earnings call transcripts and guidance decks",
+        "CMS final rate notice details and insurer updated bid strategy commentary",
+        "Sell-side notes prompting companies to quantify MA headwinds"
+      ],
+      "rationale": "If final rates/risk adjustment are adverse, insurers often quantify impacts during guidance cycles; uncertainty and competitive dynamics can lead to vaguer disclosures, lowering odds of a large explicit number.",
+      "id": "1e577d63-16e9-479e-b56e-82b07291221d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
