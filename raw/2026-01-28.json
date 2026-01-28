@@ -1,0 +1,844 @@
+[
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/ice-liam-ramos-minneapolis-deportation.html",
+    "title": "Judge Temporarily Blocks Deportation of 5-Year-Old Detained by ICE in Minnesota",
+    "link": "https://www.nytimes.com/2026/01/27/us/ice-liam-ramos-minneapolis-deportation.html",
+    "published": "Tue, 27 Jan 2026 23:40:19 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/minneapolis-nicollet-avenue-alex-pretti.html",
+    "title": "Photo Shows ICE Agents Deploying at Minneapolis Protest After Alex Pretti Shooting",
+    "link": "https://www.nytimes.com/2026/01/27/us/minneapolis-nicollet-avenue-alex-pretti.html",
+    "published": "Tue, 27 Jan 2026 20:11:28 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/kristi-noem-dhs-impeach-minneapolis.html",
+    "title": "Democrats Push to Impeach DHS Secretary Kristi Noem After Minneapolis Shooting",
+    "link": "https://www.nytimes.com/2026/01/27/us/kristi-noem-dhs-impeach-minneapolis.html",
+    "published": "Tue, 27 Jan 2026 23:38:25 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/politics/census-2025-estimates-population-immigration.html",
+    "title": "U.S. Population Growth Slows Sharply as Immigration Numbers Plunge",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/census-2025-estimates-population-immigration.html",
+    "published": "Tue, 27 Jan 2026 23:38:48 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/ileana-garcia-trump-immigration-crackdown.html",
+    "title": "Florida State Senator Ileana Garcia Warns Immigration Will Cost G.O.P. the Midterms",
+    "link": "https://www.nytimes.com/2026/01/27/us/ileana-garcia-trump-immigration-crackdown.html",
+    "published": "Tue, 27 Jan 2026 18:03:03 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/politics/minnesota-politics-immigration-trump.html",
+    "title": "On Immigration, the G.O.P. Finds Itself in a Shocking Place: On Defense",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/minnesota-politics-immigration-trump.html",
+    "published": "Tue, 27 Jan 2026 18:29:32 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/texas-immigrants-h1b-visas.html",
+    "title": "Texas Moves to Curtail H-1B Visas",
+    "link": "https://www.nytimes.com/2026/01/27/us/texas-immigrants-h1b-visas.html",
+    "published": "Tue, 27 Jan 2026 20:47:32 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/climate/judge-offshore-wind-vineyard-massachusetts.html",
+    "title": "Judge Revives Wind Farm That Trump Halted Off Martha\u2019s Vineyard",
+    "link": "https://www.nytimes.com/2026/01/27/climate/judge-offshore-wind-vineyard-massachusetts.html",
+    "published": "Tue, 27 Jan 2026 23:24:57 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/politics/eocc-dei-employment-discrimination.html",
+    "title": "Andrea Lucas, EEOC Chair, Recasts Workplace Discrimination in Trump\u2019s Image",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/eocc-dei-employment-discrimination.html",
+    "published": "Tue, 27 Jan 2026 19:49:15 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/arts/music/kennedy-center-national-symphony-orchestra-gianandrea-noseda.html",
+    "title": "Philip Glass Withdraws From Kennedy Center, as Its Symphony Vows to Play On",
+    "link": "https://www.nytimes.com/2026/01/27/arts/music/kennedy-center-national-symphony-orchestra-gianandrea-noseda.html",
+    "published": "Tue, 27 Jan 2026 19:10:08 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/politics/dca-plane-collision-faa.html",
+    "title": "Safety Board Blames F.A.A. For Multiple Failures in D.C. Crash",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/dca-plane-collision-faa.html",
+    "published": "Wed, 28 Jan 2026 01:46:31 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/politics/jennifer-homendy-trump-transportation-safety-board.html",
+    "title": "She\u2019s the Face of Trump\u2019s Aviation Safety Board, and She\u2019s a Democrat",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/jennifer-homendy-trump-transportation-safety-board.html",
+    "published": "Tue, 27 Jan 2026 14:35:53 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/dining/yewande-komolafe-losing-limbs-different-kind-of-cook.html",
+    "title": "How Losing Her Limbs Turned Cooking Columnist Yewande Komolafe Into a Different Kind of Cook",
+    "link": "https://www.nytimes.com/2026/01/27/dining/yewande-komolafe-losing-limbs-different-kind-of-cook.html",
+    "published": "Wed, 28 Jan 2026 00:53:06 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
+    "title": "Troop Casualties in Ukraine War Near 2 Million, Study Finds",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
+    "published": "Tue, 27 Jan 2026 17:54:11 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/weather/next-winter-storm-forecast-snow-ice.html",
+    "title": "Another Weekend Winter Storm? Forecast Details and Updates.",
+    "link": "https://www.nytimes.com/2026/01/27/weather/next-winter-storm-forecast-snow-ice.html",
+    "published": "Tue, 27 Jan 2026 23:13:36 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/nyregion/mamdani-storm-deaths-homeless.html",
+    "title": "Storm Tests Mamdani as Dangerous Cold Grips New York",
+    "link": "https://www.nytimes.com/2026/01/27/nyregion/mamdani-storm-deaths-homeless.html",
+    "published": "Wed, 28 Jan 2026 01:50:55 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/world/europe/spain-undocumented-migrants-residency.html",
+    "title": "Spain Offers Undocumented Migrants a Legal Way to Stay",
+    "link": "https://www.nytimes.com/2026/01/27/world/europe/spain-undocumented-migrants-residency.html",
+    "published": "Tue, 27 Jan 2026 21:03:10 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/business/media/bari-weiss-cbs-news-town-hall.html",
+    "title": "Bari Weiss Urges CBS News to Think Like a \u2018Start-Up\u2019",
+    "link": "https://www.nytimes.com/2026/01/27/business/media/bari-weiss-cbs-news-town-hall.html",
+    "published": "Tue, 27 Jan 2026 22:59:24 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/world/europe/mette-frederiksen-greenland-us-ally.html",
+    "title": "As Trump Eyes Greenland, Denmark\u2019s Leader Is Unsure How Long U.S. Will Be an Ally",
+    "link": "https://www.nytimes.com/2026/01/27/world/europe/mette-frederiksen-greenland-us-ally.html",
+    "published": "Tue, 27 Jan 2026 15:58:22 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/arts/music/nanook-greenland-band.html",
+    "title": "Greenland\u2019s Biggest Band Is Thrust Into an Uneasy Spotlight",
+    "link": "https://www.nytimes.com/2026/01/27/arts/music/nanook-greenland-band.html",
+    "published": "Tue, 27 Jan 2026 19:15:36 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/well/food-diet-nutrition-cancer-risk.html",
+    "title": "These Foods Might Lower Cancer Risk",
+    "link": "https://www.nytimes.com/2026/01/27/well/food-diet-nutrition-cancer-risk.html",
+    "published": "Tue, 27 Jan 2026 17:32:09 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/travel/southwest-airlines-assigned-seating.html",
+    "title": "Southwest Begins Assigned Seating, Scrapping a Signature Quirk",
+    "link": "https://www.nytimes.com/2026/01/27/travel/southwest-airlines-assigned-seating.html",
+    "published": "Tue, 27 Jan 2026 23:32:45 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/science/gladys-west-dead.html",
+    "title": "Gladys West, Unsung Figure in Development of GPS, Dies at 95",
+    "link": "https://www.nytimes.com/2026/01/27/science/gladys-west-dead.html",
+    "published": "Tue, 27 Jan 2026 23:13:16 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/opinion/iran-regime-killing-protesters.html",
+    "title": "Should Iran\u2019s Executioners Go Unpunished?",
+    "link": "https://www.nytimes.com/2026/01/27/opinion/iran-regime-killing-protesters.html",
+    "published": "Wed, 28 Jan 2026 00:51:59 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/opinion/ice-minneapolis-immigration-republicans.html",
+    "title": "Immigration Enforcement Is Unavoidably Upsetting. But This Is Something Else.",
+    "link": "https://www.nytimes.com/2026/01/27/opinion/ice-minneapolis-immigration-republicans.html",
+    "published": "Wed, 28 Jan 2026 00:21:24 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/briefing/us-population-growth-fema-delays.html",
+    "title": "U.S. Population Growth Slows Sharply",
+    "link": "https://www.nytimes.com/2026/01/27/briefing/us-population-growth-fema-delays.html",
+    "published": "Wed, 28 Jan 2026 00:20:00 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/realestate/california-wildfires-damage-insurance.html",
+    "title": "Who Decides When a Home Is Safe? A California Bill Says Science, Not Insurers.",
+    "link": "https://www.nytimes.com/2026/01/27/realestate/california-wildfires-damage-insurance.html",
+    "published": "Wed, 28 Jan 2026 00:45:42 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/dining/typhoon-displaces-alaskan-natives-food-homeland.html",
+    "title": "Alaskan Natives Uprooted by Typhoon Struggle to Adapt Far From Home",
+    "link": "https://www.nytimes.com/2026/01/27/dining/typhoon-displaces-alaskan-natives-food-homeland.html",
+    "published": "Tue, 27 Jan 2026 10:01:07 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html",
+    "title": "Former French Senator Convicted of Drugging a Colleague, Intending to Assault Her",
+    "link": "https://www.nytimes.com/2026/01/27/world/europe/french-senator-drug-assault.html",
+    "published": "Tue, 27 Jan 2026 22:05:14 +0000"
+  },
+  {
+    "id": "WP-MKTW-0004731267",
+    "title": "Dollar tumbles to a four-year low as Trump claims it\u2019s \u2018doing great\u2019",
+    "link": "https://www.marketwatch.com/story/dollar-tumbles-to-a-four-year-low-as-trump-claims-its-doing-great-2a2e9384?mod=mw_rss_topstories",
+    "published": "Tue, 27 Jan 2026 22:54:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004731117",
+    "title": "These home buyers are suing one of the biggest mortgage lenders in America. Why you should pay attention.",
+    "link": "https://www.marketwatch.com/story/these-home-buyers-are-suing-one-of-the-biggest-mortgage-lenders-in-america-why-you-should-pay-attention-6729bb1a?mod=mw_rss_topstories",
+    "published": "Tue, 27 Jan 2026 22:31:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004728116",
+    "title": "UnitedHealth\u2019s stock falls 20% after saying it expects revenue to decline in 2026",
+    "link": "https://www.marketwatch.com/story/unitedhealths-stock-falls-further-after-saying-it-expects-revenue-to-decline-in-2026-5046edb6?mod=mw_rss_topstories",
+    "published": "Tue, 27 Jan 2026 22:28:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004729675",
+    "title": "Cloudflare\u2019s stock pops on viral Moltbot. Here\u2019s how a cybersecurity company became the newest AI winner.",
+    "link": "https://www.marketwatch.com/story/cloudflares-stock-pops-on-viral-moltbot-heres-how-a-cybersecurity-company-became-the-newest-ai-winner-22e66a6a?mod=mw_rss_topstories",
+    "published": "Tue, 27 Jan 2026 22:24:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004729034",
+    "title": "Micron\u2019s stock is surging as the company looks to cash in on a \u2018desperate\u2019 market",
+    "link": "https://www.marketwatch.com/story/microns-stock-is-surging-as-the-company-looks-to-cash-in-on-a-desperate-market-3500e34a?mod=mw_rss_topstories",
+    "published": "Tue, 27 Jan 2026 22:20:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004729262",
+    "title": "Pinterest is slashing jobs and office space as it switches focus to AI roles",
+    "link": "https://www.marketwatch.com/story/pinterest-is-slashing-jobs-and-office-space-as-it-switches-focus-to-ai-roles-a2906654?mod=mw_rss_topstories",
+    "published": "Tue, 27 Jan 2026 22:18:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004729786",
+    "title": "Here\u2019s how Amazon is looking to take on Walmart at its own game",
+    "link": "https://www.marketwatch.com/story/heres-how-amazon-is-looking-to-take-on-walmart-at-its-own-game-3db54d28?mod=mw_rss_topstories",
+    "published": "Tue, 27 Jan 2026 22:13:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004728623",
+    "title": "Why shares of UnitedHealth, Humana and other insurers tanked \u2014 and took the Dow with them",
+    "link": "https://www.marketwatch.com/story/why-shares-of-unitedhealth-humana-and-others-are-tanking-and-taking-the-dow-with-it-0e4e5c7f?mod=mw_rss_topstories",
+    "published": "Tue, 27 Jan 2026 22:12:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004729155",
+    "title": "GM\u2019s stock pushes to a new record, as carmaker calls for higher profit ahead",
+    "link": "https://www.marketwatch.com/story/general-motors-takes-7-2-billion-charge-on-ev-shift-as-it-boosts-dividend-and-sets-new-buyback-159f1e6d?mod=mw_rss_topstories",
+    "published": "Tue, 27 Jan 2026 21:58:00 GMT"
+  },
+  {
+    "id": "108257101",
+    "title": "The Fed releases its latest interest rate decision Wednesday. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/01/27/fed-preview-january-2026.html",
+    "published": "Tue, 27 Jan 2026 19:43:34 GMT"
+  },
+  {
+    "id": "108257989",
+    "title": "Amazon inadvertently announces cloud unit layoffs in email to employees",
+    "link": "https://www.cnbc.com/2026/01/27/amazon-inadvertently-sends-email-to-employees-confirming-wednesday-layoffs.html",
+    "published": "Wed, 28 Jan 2026 01:52:15 GMT"
+  },
+  {
+    "id": "108257682",
+    "title": "Homebuyers are backing out of deals at the fastest pace in nearly a decade",
+    "link": "https://www.cnbc.com/2026/01/27/homebuyers-backing-out-of-deals.html",
+    "published": "Tue, 27 Jan 2026 20:28:11 GMT"
+  },
+  {
+    "id": "108257903",
+    "title": "Dollar suffers worst one-day slide since last April after Trump says currency hasn't fallen too low",
+    "link": "https://www.cnbc.com/2026/01/27/dollar-worst-one-day-rout-since-april-trump-says-hasnt-fallen-too-low.html",
+    "published": "Wed, 28 Jan 2026 00:18:42 GMT"
+  },
+  {
+    "id": "108257539",
+    "title": "The government is barreling toward a partial shutdown over DHS funding. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/01/27/us-government-shutdown-over-dhs-funding.html",
+    "published": "Tue, 27 Jan 2026 22:42:21 GMT"
+  },
+  {
+    "id": "108257711",
+    "title": "Trump says 'we're going to de-escalate a little bit' in Minnesota after Alex Pretti killing",
+    "link": "https://www.cnbc.com/2026/01/27/alex-pretti-trump-investigation-greg-bovino-homan-minnesota.html",
+    "published": "Tue, 27 Jan 2026 22:01:00 GMT"
+  },
+  {
+    "id": "108257929",
+    "title": "Intel says it will match government's 'Trump Accounts' contribution to kids of employees",
+    "link": "https://www.cnbc.com/2026/01/27/intel-says-it-will-match-governments-trump-accounts-contribution.html",
+    "published": "Tue, 27 Jan 2026 22:55:24 GMT"
+  },
+  {
+    "id": "108257955",
+    "title": "Asia markets open mostly higher after S&P 500 hits record, South Korea pushes fresh highs",
+    "link": "https://www.cnbc.com/2026/01/28/asia-markets-today-wednesday-hang-seng-index-nikkei-225-kospi-inflation-yen-australia-cpi.html",
+    "published": "Wed, 28 Jan 2026 01:34:25 GMT"
+  },
+  {
+    "id": "108257738",
+    "title": "House Democrats to Trump: Fire DHS chief Noem or they'll start impeachment proceedings against her",
+    "link": "https://www.cnbc.com/2026/01/27/house-democrats-kristi-noem-impeachment-trump.html",
+    "published": "Tue, 27 Jan 2026 21:04:17 GMT"
+  },
+  {
+    "id": "108256966",
+    "title": "Five years after the GameStop mania, retail investors have become a force Wall Street can\u2019t ignore",
+    "link": "https://www.cnbc.com/2026/01/27/gamestop-meme-stocks-retail-investors-wall-street.html",
+    "published": "Tue, 27 Jan 2026 23:01:05 GMT"
+  },
+  {
+    "id": "108257777",
+    "title": "Jim Cramer names 3 stocks bearing the brunt of Trump\u2019s agenda \u2013 and 2 others benefiting",
+    "link": "https://www.cnbc.com/2026/01/27/jim-cramer-trumps-stock-market-impact-winning-stocks.html",
+    "published": "Tue, 27 Jan 2026 23:24:39 GMT"
+  },
+  {
+    "id": "108257476",
+    "title": "Australia inflation meets expectations at 3.6%, reaching a six-quarter high",
+    "link": "https://www.cnbc.com/2026/01/28/australia-inflation-q4-december-2025-rba-rate-cuts-cpi-michelle-bullock-andrew-hauser.html",
+    "published": "Wed, 28 Jan 2026 01:15:38 GMT"
+  },
+  {
+    "id": "108257635",
+    "title": "The market thinks BlackRock's Rick Rieder will be the next Fed chair. Here's what's at stake",
+    "link": "https://www.cnbc.com/2026/01/27/market-thinks-blackrocks-rieder-will-next-chair-the-fed-whats-at-stake.html",
+    "published": "Tue, 27 Jan 2026 21:23:21 GMT"
+  },
+  {
+    "id": "108257837",
+    "title": "Canada's Carney to Trump: 'I meant what I said in Davos'",
+    "link": "https://www.cnbc.com/2026/01/27/carney-trump-bessent-davos.html",
+    "published": "Tue, 27 Jan 2026 22:37:58 GMT"
+  },
+  {
+    "id": "108257643",
+    "title": "AppLovin demands short-seller CapitalWatch retract 'conspiratorial' report",
+    "link": "https://www.cnbc.com/2026/01/27/applovin-short-seller-capitalwatch-report.html",
+    "published": "Tue, 27 Jan 2026 21:44:15 GMT"
+  },
+  {
+    "id": "108256166",
+    "title": "Meta inks deal to pay Corning up to $6 billion for fiber-optic cables in AI data centers",
+    "link": "https://www.cnbc.com/2026/01/27/apple-supplier-corning-wins-6-billion-from-meta-for-ai-optical-fiber.html",
+    "published": "Tue, 27 Jan 2026 21:17:18 GMT"
+  },
+  {
+    "id": "108257737",
+    "title": "Boeing shares swing wildly on mixed results, but the turnaround is progressing",
+    "link": "https://www.cnbc.com/2026/01/27/boeing-shares-swing-on-mixed-results-but-turnaround-is-progressing.html",
+    "published": "Tue, 27 Jan 2026 21:03:59 GMT"
+  },
+  {
+    "id": "108257804",
+    "title": "Anthropic closes latest funding round above $10 billion and could go higher, sources say",
+    "link": "https://www.cnbc.com/2026/01/27/anthropic-fundraising-microsoft-nvidia.html",
+    "published": "Tue, 27 Jan 2026 20:35:43 GMT"
+  },
+  {
+    "id": "108257620",
+    "title": "Space firm Redwire stock rockets 29% after joining $151 billion contract for Trump's 'Golden Dome'",
+    "link": "https://www.cnbc.com/2026/01/27/redwire-stock-trump-golden-dome-defense.html",
+    "published": "Tue, 27 Jan 2026 21:24:37 GMT"
+  },
+  {
+    "id": "108256933",
+    "title": "Mozilla is building an AI \u2018rebel alliance\u2019 to take on industry heavyweights OpenAI, Anthropic",
+    "link": "https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html",
+    "published": "Tue, 27 Jan 2026 22:53:05 GMT"
+  },
+  {
+    "id": "108257789",
+    "title": "Read the memo: Amazon's grocery boss details restructuring, says more 'deliberate' strategy needed",
+    "link": "https://www.cnbc.com/2026/01/27/amazons-grocery-boss-details-fresh-go-restructuring-read-the-memo.html",
+    "published": "Tue, 27 Jan 2026 20:56:54 GMT"
+  },
+  {
+    "id": "108257609",
+    "title": "Silver is retail traders' new obsession as record numbers bet on rally \u2014 and on a crash",
+    "link": "https://www.cnbc.com/2026/01/27/retail-traders-silver-fund-precious-metals.html",
+    "published": "Tue, 27 Jan 2026 19:36:24 GMT"
+  },
+  {
+    "id": "108256438",
+    "title": "Tech's massive AI spend is under scrutiny ahead of earnings. Here's what to watch",
+    "link": "https://www.cnbc.com/2026/01/27/big-tech-earnings-2026-ai-spend.html",
+    "published": "Tue, 27 Jan 2026 15:07:52 GMT"
+  },
+  {
+    "id": "108257591",
+    "title": "Amazon converting some Fresh supermarkets, Go stores to Whole Foods locations",
+    "link": "https://www.cnbc.com/2026/01/27/amazon-fresh-go-supermarkets-whole-foods-convert.html",
+    "published": "Tue, 27 Jan 2026 18:22:02 GMT"
+  },
+  {
+    "id": "108257670",
+    "title": "TikTok to settle as social media addiction trial involving Meta, YouTube moves forward",
+    "link": "https://www.cnbc.com/2026/01/27/tiktok-settlement-social-media-addiction-meta-youtube.html",
+    "published": "Tue, 27 Jan 2026 17:54:28 GMT"
+  },
+  {
+    "id": "108257534",
+    "title": "ICE chief ordered to appear in Minnesota federal court, judge threatens contempt ruling",
+    "link": "https://www.cnbc.com/2026/01/27/ice-chief-todd-lyons-minnesota-court-contempt.html",
+    "published": "Tue, 27 Jan 2026 22:31:45 GMT"
+  },
+  {
+    "id": "108252027",
+    "title": "No need to wait for Trump accounts\u2014you can open a 529 college savings plan now",
+    "link": "https://www.cnbc.com/2026/01/27/trump-accounts-versus-529-college-savings-plans.html",
+    "published": "Tue, 27 Jan 2026 19:46:33 GMT"
+  },
+  {
+    "id": "108257541",
+    "title": "GM expects to top Ford in U.S. vehicle production as it faces up to $4 billion in tariff costs",
+    "link": "https://www.cnbc.com/2026/01/27/gm-plans-to-top-ford-in-us-production-amid-trumps-tariff.html",
+    "published": "Tue, 27 Jan 2026 18:44:42 GMT"
+  },
+  {
+    "id": "108257206",
+    "title": "Tesla lost $15 billion in brand value in 2025 as Musk stepped deeper into politics, research shows",
+    "link": "https://www.cnbc.com/2026/01/27/tesla-brand-value-2025-musk-politics.html",
+    "published": "Tue, 27 Jan 2026 15:47:04 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260127010208.htm",
+    "title": "A century-old Stonehenge mystery may finally be solved",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260127010208.htm",
+    "published": "Tue, 27 Jan 2026 03:32:55 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260127010151.htm",
+    "title": "Scientists finally explain Earth\u2019s strangest fossils",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260127010151.htm",
+    "published": "Tue, 27 Jan 2026 03:46:28 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260127010149.htm",
+    "title": "This discovery could let bones benefit from exercise without moving",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260127010149.htm",
+    "published": "Tue, 27 Jan 2026 09:48:33 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260127010142.htm",
+    "title": "Strange white rocks on Mars hint at millions of years of rain",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260127010142.htm",
+    "published": "Tue, 27 Jan 2026 04:34:56 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260126231849.htm",
+    "title": "A hidden magnetic order could unlock superconductivity",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260126231849.htm",
+    "published": "Mon, 26 Jan 2026 23:39:16 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260126231847.htm",
+    "title": "Obesity and high blood pressure may directly cause dementia",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260126231847.htm",
+    "published": "Mon, 26 Jan 2026 23:18:47 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260125083427.htm",
+    "title": "The magnetic secret inside steel finally explained",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260125083427.htm",
+    "published": "Mon, 26 Jan 2026 11:57:18 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260125083418.htm",
+    "title": "A hidden genetic war is unfolding inside your DNA",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260125083418.htm",
+    "published": "Mon, 26 Jan 2026 10:35:30 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260125083404.htm",
+    "title": "A strange in-between state of matter is finally observed",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260125083404.htm",
+    "published": "Mon, 26 Jan 2026 10:11:17 EST"
+  },
+  {
+    "id": "https://openai.com/index/introducing-prism",
+    "title": "Prism",
+    "link": "https://openai.com/index/introducing-prism",
+    "published": "Tue, 27 Jan 2026 18:03:10 +0000"
+  },
+  {
+    "id": "https://www.vectorware.com/blog/rust-std-on-gpu/",
+    "title": "Rust\u2019s Standard Library on the GPU",
+    "link": "https://www.vectorware.com/blog/rust-std-on-gpu/",
+    "published": "Sat, 24 Jan 2026 04:49:02 +0000"
+  },
+  {
+    "id": "https://twitter.com/karpathy/status/2015883857489522876",
+    "title": "A few random notes from Claude coding quite a bit last few weeks",
+    "link": "https://twitter.com/karpathy/status/2015883857489522876",
+    "published": "Mon, 26 Jan 2026 21:09:19 +0000"
+  },
+  {
+    "id": "https://github.com/kangtastic/timestation",
+    "title": "Time Station Emulator",
+    "link": "https://github.com/kangtastic/timestation",
+    "published": "Tue, 27 Jan 2026 20:35:34 +0000"
+  },
+  {
+    "id": "https://amutable.com/about",
+    "title": "Lennart Poettering, Christian Brauner founded a new company",
+    "link": "https://amutable.com/about",
+    "published": "Tue, 27 Jan 2026 18:57:15 +0000"
+  },
+  {
+    "id": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
+    "title": "Try text scaling support in Chrome Canary",
+    "link": "https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/",
+    "published": "Tue, 27 Jan 2026 19:20:24 +0000"
+  },
+  {
+    "id": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
+    "title": "Doing the thing is doing the thing",
+    "link": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
+    "published": "Tue, 27 Jan 2026 06:17:46 +0000"
+  },
+  {
+    "id": "https://haveibeenpwned.com/Breach/SoundCloud",
+    "title": "SoundCloud Data Breach Now on HaveIBeenPwned",
+    "link": "https://haveibeenpwned.com/Breach/SoundCloud",
+    "published": "Tue, 27 Jan 2026 17:11:39 +0000"
+  },
+  {
+    "id": "https://alexxcons.github.io/blogpost_15.html",
+    "title": "Xfwl4 \u2013 The Roadmap for a Xfce Wayland Compositor",
+    "link": "https://alexxcons.github.io/blogpost_15.html",
+    "published": "Tue, 27 Jan 2026 13:25:53 +0000"
+  },
+  {
+    "id": "https://allenai.org/blog/open-coding-agents",
+    "title": "AI2: Open Coding Agents",
+    "link": "https://allenai.org/blog/open-coding-agents",
+    "published": "Tue, 27 Jan 2026 17:17:54 +0000"
+  },
+  {
+    "id": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
+    "title": "FBI is investigating Minnesota Signal chats tracking ICE",
+    "link": "https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041",
+    "published": "Tue, 27 Jan 2026 17:32:05 +0000"
+  },
+  {
+    "id": "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html",
+    "title": "Amazon closing its Fresh and Go stores",
+    "link": "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html",
+    "published": "Tue, 27 Jan 2026 15:41:14 +0000"
+  },
+  {
+    "id": "https://emsh.cat/one-human-one-agent-one-browser/",
+    "title": "Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC",
+    "link": "https://emsh.cat/one-human-one-agent-one-browser/",
+    "published": "Tue, 27 Jan 2026 13:13:56 +0000"
+  },
+  {
+    "id": "https://fuzzy.ulyssepence.com/",
+    "title": "Show HN: Fuzzy Studio \u2013 Apply live effects to videos/camera",
+    "link": "https://fuzzy.ulyssepence.com/",
+    "published": "Tue, 27 Jan 2026 15:16:34 +0000"
+  },
+  {
+    "id": "https://www.web3isgoinggreat.com/single/lick-theft",
+    "title": "Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son",
+    "link": "https://www.web3isgoinggreat.com/single/lick-theft",
+    "published": "Tue, 27 Jan 2026 21:54:29 +0000"
+  },
+  {
+    "id": "https://tonystr.net/blog/git_immitation",
+    "title": "I made my own Git",
+    "link": "https://tonystr.net/blog/git_immitation",
+    "published": "Tue, 27 Jan 2026 10:55:37 +0000"
+  },
+  {
+    "id": "https://www.reuters.com/world/us/us-population-growth-slows-immigration-declines-census-data-shows-2026-01-27/",
+    "title": "US population growth slows as immigration declines",
+    "link": "https://www.reuters.com/world/us/us-population-growth-slows-immigration-declines-census-data-shows-2026-01-27/",
+    "published": "Wed, 28 Jan 2026 01:03:07 +0000"
+  },
+  {
+    "id": "https://www.ycombinator.com/companies/hypercubic/jobs",
+    "title": "Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer",
+    "link": "https://www.ycombinator.com/companies/hypercubic/jobs",
+    "published": "Tue, 27 Jan 2026 18:50:50 +0000"
+  },
+  {
+    "id": "https://www.bbc.com/news/articles/c24g8v6qr1mo",
+    "title": "TikTok settles just before social media addiction trial to begin",
+    "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo",
+    "published": "Tue, 27 Jan 2026 20:38:22 +0000"
+  },
+  {
+    "id": "https://yalereview.org/article/hecht-eliot-waste-land",
+    "title": "The First Eighteen Lines of the Waste Land (1989)",
+    "link": "https://yalereview.org/article/hecht-eliot-waste-land",
+    "published": "Fri, 23 Jan 2026 22:02:52 +0000"
+  },
+  {
+    "id": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+    "title": "Arrows to Arrows, Categories to Queries",
+    "link": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+    "published": "Fri, 23 Jan 2026 20:07:51 +0000"
+  },
+  {
+    "id": "https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/",
+    "title": "How many chess games are possible?",
+    "link": "https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/",
+    "published": "Tue, 27 Jan 2026 19:59:47 +0000"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=46783600",
+    "title": "Show HN: LemonSlice \u2013 Upgrade your voice agents to real-time video",
+    "link": "https://news.ycombinator.com/item?id=46783600",
+    "published": "Tue, 27 Jan 2026 17:55:15 +0000"
+  },
+  {
+    "id": "https://infocom.tambo.co/",
+    "title": "Show HN: I wrapped the Zorks with an LLM",
+    "link": "https://infocom.tambo.co/",
+    "published": "Tue, 27 Jan 2026 20:59:49 +0000"
+  },
+  {
+    "id": "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/",
+    "title": "Extremophile molds are invading art museums",
+    "link": "https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/",
+    "published": "Fri, 23 Jan 2026 12:05:11 +0000"
+  },
+  {
+    "id": "https://falconer.com/notes/llm-as-a-courtroom/",
+    "title": "LLM-as-a-Courtroom",
+    "link": "https://falconer.com/notes/llm-as-a-courtroom/",
+    "published": "Tue, 27 Jan 2026 18:32:36 +0000"
+  },
+  {
+    "id": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467",
+    "title": "OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing",
+    "link": "https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467",
+    "published": "Tue, 27 Jan 2026 16:56:23 +0000"
+  },
+  {
+    "id": "https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6",
+    "title": "Clawdbot Renames to Moltbot",
+    "link": "https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6",
+    "published": "Tue, 27 Jan 2026 18:08:36 +0000"
+  },
+  {
+    "id": "https://www.historytoday.com/archive/historians-cookbook/history-haggis",
+    "title": "A History of Haggis (2019)",
+    "link": "https://www.historytoday.com/archive/historians-cookbook/history-haggis",
+    "published": "Tue, 27 Jan 2026 05:28:22 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/norway-ev-policy-electric-vehicles",
+    "title": "How Norway Accomplished a Near-Total EV Transition",
+    "link": "https://spectrum.ieee.org/norway-ev-policy-electric-vehicles",
+    "published": "Tue, 27 Jan 2026 14:00:03 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086417",
+    "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
+    "link": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
+    "published": "Wed, 28 Jan 2026 00:12:43 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086578",
+    "title": "Fashion rental app By Rotation and Uber partner to help deliver ski clothing",
+    "link": "https://techcrunch.com/2026/01/27/fashion-rental-app-by-rotation-and-uber-partner-to-help-deliver-ski-rentals/",
+    "published": "Wed, 28 Jan 2026 00:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086813",
+    "title": "Anduril has invented a wild new\u00a0drone-flying contest where jobs are the prize",
+    "link": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
+    "published": "Tue, 27 Jan 2026 21:54:38 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086636",
+    "title": "Bluesky teases 2026 roadmap: A better Discover feed, real-time features, and more",
+    "link": "https://techcrunch.com/2026/01/27/bluesky-teases-2026-roadmap-a-better-discover-feed-real-time-features-and-more/",
+    "published": "Tue, 27 Jan 2026 21:32:18 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086766",
+    "title": "Anthropic reportedly upped its latest raise to $20B",
+    "link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+    "published": "Tue, 27 Jan 2026 21:16:10 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086721",
+    "title": "Amazon agrees to pay consumers $309M in returns policy settlement",
+    "link": "https://techcrunch.com/2026/01/27/amazon-agrees-to-pay-consumers-309m-in-returns-policy-settlement/",
+    "published": "Tue, 27 Jan 2026 20:38:03 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086707",
+    "title": "TikTok joins Snap to settle social media addiction lawsuit",
+    "link": "https://techcrunch.com/2026/01/27/tiktok-joins-snap-to-settle-social-media-addiction-lawsuit/",
+    "published": "Tue, 27 Jan 2026 19:40:46 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086660",
+    "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+    "link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+    "published": "Tue, 27 Jan 2026 18:19:19 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086571",
+    "title": "Google\u2019s more affordable AI Plus plan rolls out to all markets, including the US",
+    "link": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
+    "published": "Tue, 27 Jan 2026 18:00:39 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086665",
+    "title": "OpenAI launches Prism, a new AI workspace for scientists",
+    "link": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
+    "published": "Tue, 27 Jan 2026 18:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086633",
+    "title": "Amid Trump attacks and weaponized sanctions, Europeans look to rely less on US tech",
+    "link": "https://techcrunch.com/2026/01/27/amid-trump-attacks-and-weaponized-sanctions-europeans-look-to-rely-less-on-us-tech/",
+    "published": "Tue, 27 Jan 2026 17:56:47 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086568",
+    "title": "The price gap between Waymo and Uber is narrowing",
+    "link": "https://techcrunch.com/2026/01/27/the-price-gap-between-waymo-and-uber-is-narrowing/",
+    "published": "Tue, 27 Jan 2026 17:43:19 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086598",
+    "title": "If you live in the UK, you probably won\u2019t be able to visit Pornhub anymore",
+    "link": "https://techcrunch.com/2026/01/27/if-you-live-in-the-uk-you-probably-wont-be-able-to-visit-pornhub-anymore/",
+    "published": "Tue, 27 Jan 2026 17:31:05 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086628",
+    "title": "TikTok says it\u2019s still working to recover its US infrastructure",
+    "link": "https://techcrunch.com/2026/01/27/tiktok-says-its-still-working-to-recover-its-u-s-infrastructure/",
+    "published": "Tue, 27 Jan 2026 17:29:34 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086615",
+    "title": "WhatsApp is rolling out a new stricter security setting to protect users from cyberattacks",
+    "link": "https://techcrunch.com/2026/01/27/whatsapp-is-rolling-out-a-new-stricter-security-setting-to-protect-users-from-cyber-attacts/",
+    "published": "Tue, 27 Jan 2026 17:24:22 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086581",
+    "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
+    "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
+    "published": "Tue, 27 Jan 2026 17:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086593",
+    "title": "Android phones are getting more anti-theft features",
+    "link": "https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/",
+    "published": "Tue, 27 Jan 2026 17:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086579",
+    "title": "Indian states weigh Australia-style ban on social media for children",
+    "link": "https://techcrunch.com/2026/01/27/indian-states-weigh-australia-style-ban-on-social-media-for-children/",
+    "published": "Tue, 27 Jan 2026 16:58:01 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086577",
+    "title": "Amazon is closing its physical Amazon Go and Amazon Fresh stores",
+    "link": "https://techcrunch.com/2026/01/27/amazon-is-closing-its-physical-amazon-go-and-amazon-fresh-stores/",
+    "published": "Tue, 27 Jan 2026 16:21:32 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3086554",
+    "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
+    "link": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
+    "published": "Tue, 27 Jan 2026 15:25:22 +0000"
+  },
+  {
+    "id": "6978b769ce48f69b7cea12bf",
+    "title": "Kedrosky Daily: Lowest US credit risk; native unemployment rises",
+    "link": "https://paulkedrosky.com/kedrosky-daily-lowest-us-credit-risk-native-unemployment-rises/",
+    "published": "Tue, 27 Jan 2026 13:02:34 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92319",
+    "title": "Tuesday assorted links",
+    "link": "https://feeds.feedblitz.com/~/942778463/0/marginalrevolution~Tuesday-assorted-links.html",
+    "published": "Tue, 27 Jan 2026 17:10:12 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92323",
+    "title": "Understanding Latin America\u2019s Fertility Decline",
+    "link": "https://feeds.feedblitz.com/~/942761186/0/marginalrevolution~Understanding-Latin-America%e2%80%99s-Fertility-Decline.html",
+    "published": "Tue, 27 Jan 2026 16:02:52 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92315",
+    "title": "Who is good at soccer?",
+    "link": "https://feeds.feedblitz.com/~/942750287/0/marginalrevolution~Who-is-good-at-soccer.html",
+    "published": "Tue, 27 Jan 2026 12:54:25 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92320",
+    "title": "*You Have No Right to Your Culture: Essays on the Human Condition*",
+    "link": "https://feeds.feedblitz.com/~/942710372/0/marginalrevolution~You-Have-No-Right-to-Your-Culture-Essays-on-the-Human-Condition.html",
+    "published": "Tue, 27 Jan 2026 05:31:45 +0000"
+  },
+  {
+    "id": "polymarket_alert:92d51c92df5a9dc6f4840945b9448037e26497e404b44071537db4616cbb18a9",
+    "title": "Polymarket Watch alert: Magic vs. Cavaliers \u2014 prices Magic 1.2%, Cavaliers 98.8%; trade BUY Cavaliers @ 0.9989880404984242; size 123467.52; notional 134830.07584499998; score 11",
+    "link": "https://polymarket.com/market/nba-orl-cle-2026-01-26",
+    "published": "2026-01-27T02:29:35+00:00",
+    "source": "https://strangeloopcanon.github.io/polymarket_prediction/alerts.json",
+    "type": "polymarket_alert"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260127010156.htm",
+    "title": "The type of carbs you eat may affect dementia risk",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260127010156.htm",
+    "published": "Tue, 27 Jan 2026 01:41:18 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260127010154.htm",
+    "title": "These common food preservatives may be linked to cancer",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260127010154.htm",
+    "published": "Tue, 27 Jan 2026 01:58:24 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260127010147.htm",
+    "title": "Scientists may have been wrong about what causes asthma",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260127010147.htm",
+    "published": "Tue, 27 Jan 2026 09:11:58 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260127010144.htm",
+    "title": "Keto diet weight loss may come with a hidden cost",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260127010144.htm",
+    "published": "Tue, 27 Jan 2026 08:24:34 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260127010138.htm",
+    "title": "Scientists found a survival switch inside brain cells",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260127010138.htm",
+    "published": "Tue, 27 Jan 2026 08:09:25 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/01/260127010136.htm",
+    "title": "Scientists say quantum tech has reached its transistor moment",
+    "link": "https://www.sciencedaily.com/releases/2026/01/260127010136.htm",
+    "published": "Tue, 27 Jan 2026 06:17:54 EST"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3166283",
+    "title": "The brain\u2019s response to a heart attack may worsen recovery",
+    "link": "https://www.sciencenews.org/article/heart-attack-brain-damage",
+    "published": "Tue, 27 Jan 2026 16:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3166221",
+    "title": "Spider silk-making organs evolved due to a 400-million-year-old genetic oops",
+    "link": "https://www.sciencenews.org/article/spider-silk-making-organ-evolve-genetic",
+    "published": "Tue, 27 Jan 2026 14:00:00 +0000"
+  }
+]

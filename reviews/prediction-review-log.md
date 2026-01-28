@@ -1743,3 +1743,12 @@ Similarly, the Minneapolis incident is heavily covered, but the DOJ forecast is 
 
 ---
 
+
+## 2026-01-27
+
+None of the listed predictions are directly resolved by today’s headlines. The dominant news themes are U.S. immigration enforcement/politics (Minnesota ICE-related developments, DHS funding and impeachment threats), macro/markets (sharp dollar move, Fed preview), and assorted corporate and sector stories (notably insurer stock moves and UnitedHealth guidance), but these do not meet the specific evidentiary triggers in the forecasts (formal tariff notices, explicit retaliation coverage amounts, specific filings/announcements, or named program solicitations with stated funding).
+
+The closest topical proximity is aviation safety: the reported safety-board criticism of FAA failures could be a precursor environment for the FAA to publish a modernization/safety implementation plan with dated milestones, but no such document is cited, so the forecast remains pending. Likewise, the insurer headlines indicate stress in the managed-care sector, yet the prediction requires a quantified 2027 MA policy-driven headwind of at least $500M disclosed in investor communications; today’s bullets do not provide that level of specificity.
+
+---
+

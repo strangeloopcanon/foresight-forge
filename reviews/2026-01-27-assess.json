@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-27",
+  "assessments": [
+    {
+      "id": "bfb5619b-dad0-4763-bab2-f7e5632a50bc",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no indication of a U.S. proclamation/USTR/Federal Register action imposing a new (or additional) 25% tariff on South Korean-origin passenger vehicles (HS 8703), nor any related effective date."
+    },
+    {
+      "id": "378a4509-9628-4f1c-9041-0961d1679349",
+      "status": "pending",
+      "status_rationale": "No item reports South Korea announcing retaliatory trade measures targeting U.S.-origin goods with stated coverage \u2265 $2.0B."
+    },
+    {
+      "id": "529f3050-d98f-43b6-b6cf-859051178860",
+      "status": "pending",
+      "status_rationale": "No news bullet mentions USA Rare Earth or any additional U.S. federal financing commitment \u2265 $200M beyond the already-disclosed Commerce equity stake."
+    },
+    {
+      "id": "823fe93a-c76e-4371-b882-4a2c3e8a9ac2",
+      "status": "pending",
+      "status_rationale": "There is no reference to CMS finalizing the Medicare Advantage Rate Announcement for contract year 2027, nor any published estimated average revenue change figure."
+    },
+    {
+      "id": "a05f503d-c9dd-4da8-947a-cb2fa48830ff",
+      "status": "pending",
+      "status_rationale": "No bullet indicates CoreWeave has publicly filed a non-confidential S-1 registration statement for a U.S. IPO."
+    },
+    {
+      "id": "e2218ee9-66a9-4702-a484-a4ff7cd1e702",
+      "status": "pending",
+      "status_rationale": "No item reports Microsoft announcing Maia 200 (second-generation Maia) availability to external Azure customers as a named VM/instance offering (preview or GA)."
+    },
+    {
+      "id": "232e4a74-49a5-4e08-a830-6d5a61be08bf",
+      "status": "pending",
+      "status_rationale": "While multiple items discuss FAA failures and aviation safety oversight, none mentions the FAA publishing a specific modernization/safety implementation plan document containing at least three dated (month+year) milestones."
+    },
+    {
+      "id": "36bdf5f0-f968-49dc-97b1-df661c90edb2",
+      "status": "pending",
+      "status_rationale": "No bullet reports a new DoD/DARPA public solicitation (BAA/RFI/funding opportunity) explicitly seeking quantum sensing for navigation/timing with stated total program funding \u2265 $50M."
+    },
+    {
+      "id": "1e577d63-16e9-479e-b56e-82b07291221d",
+      "status": "pending",
+      "status_rationale": "Although UnitedHealth and other insurers are discussed (e.g., revenue decline expectations and sector selloff), the bullets do not show any major insurer publicly quantifying a 2027 Medicare Advantage policy-driven headwind \u2265 $500M to annualized revenue and/or operating profit."
+    }
+  ]
+}

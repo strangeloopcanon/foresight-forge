@@ -1,0 +1,185 @@
+{
+  "date": "2026-01-28",
+  "predictions": [
+    {
+      "text": "The FOMC will leave the federal funds target range unchanged at its January 2026 meeting (decision announced by 2026-01-29).",
+      "category": "rates",
+      "horizon_days": 1,
+      "deadline": "2026-01-29",
+      "confidence_pct": 86,
+      "verification_criteria": "Federal Reserve press release for the January 2026 FOMC meeting shows the target range is unchanged versus the prior meeting.",
+      "evidence": [
+        "Market focus on the imminent Fed decision and guidance amid a weakening dollar (CNBC, 2026-01-27)."
+      ],
+      "monitoring_signals": [
+        "CME FedWatch implied probabilities for the January meeting",
+        "Fed communications/blackout-period leaks (if any)",
+        "Overnight index swaps pricing into 2026-01-29"
+      ],
+      "rationale": "With inflation uncertainty and a sudden USD move, the committee is more likely to wait for additional data than to surprise with a near-term hike/cut.",
+      "id": "bf6fcfc8-6576-4f32-995d-75c19a3c6daa",
+      "outcome": null,
+      "confidence_bin": "80-90"
+    },
+    {
+      "text": "ICE U.S. Dollar Index (DXY) will close below 95.00 on at least one trading day by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 62,
+      "deadline": "2026-03-31",
+      "confidence_pct": 34,
+      "verification_criteria": "Historical market data for ICE DXY shows at least one daily close < 95.00 between 2026-01-28 and 2026-03-31 inclusive (UTC).",
+      "evidence": [
+        "USD hit a four-year low and suffered its worst one-day slide since April (CNBC, 2026-01-27)."
+      ],
+      "monitoring_signals": [
+        "Fed statement/dot-plot and press conference tone",
+        "U.S. CPI/PCE surprises and real-rate moves",
+        "G10 risk sentiment and positioning (CFTC, bank flow notes)"
+      ],
+      "rationale": "Recent downside momentum raises tail risk of another leg lower, but the 95 handle is a meaningful threshold and may attract policy/market stabilization.",
+      "id": "a9ff2817-fdac-49a8-8675-f43c78d1503a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A partial-year high in U.S. home-purchase contract cancellations will be recorded: Redfin will report a national pending-sales cancellation rate of at least 17.0% for any 4-week period ending by 2026-04-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 92,
+      "deadline": "2026-04-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Redfin\u2019s publicly released weekly housing report shows cancellation rate >= 17.0% for any reported 4-week period with end date on or before 2026-04-30.",
+      "evidence": [
+        "Homebuyers are backing out at the fastest pace in nearly a decade, indicating affordability strain (CNBC, 2026-01-27)."
+      ],
+      "monitoring_signals": [
+        "Mortgage-rate levels (Freddie Mac PMMS)",
+        "Pending home sales and mortgage purchase applications",
+        "Redfin weekly cancellation and price-cut metrics"
+      ],
+      "rationale": "Affordability stress and rate volatility often show up quickly in cancellations; 17% is high but plausible if financing costs remain elevated.",
+      "id": "c12fa7f1-f60a-4fd9-9daf-993ed9154d8d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A standalone DHS funding stopgap will be enacted: a DHS-only continuing resolution or appropriations law will be signed by the U.S. President by 2026-02-07 (UTC), explicitly funding DHS past its then-current expiration date.",
+      "category": "macro",
+      "horizon_days": 10,
+      "deadline": "2026-02-07",
+      "confidence_pct": 52,
+      "verification_criteria": "Congress.gov and/or White House signing statement confirms enactment of a law (CR/appropriations) that explicitly provides budget authority for DHS beyond the prior DHS funding deadline.",
+      "evidence": [
+        "U.S. government nears partial shutdown risk over DHS funding (CNBC, 2026-01-27)."
+      ],
+      "monitoring_signals": [
+        "House/Senate floor scheduling for DHS funding vehicles",
+        "Statements from leadership and appropriations chairs",
+        "OMB/Speaker letters signaling shutdown timelines"
+      ],
+      "rationale": "When shutdown risk is localized to one department, Congress often passes a narrow stopgap to buy time even amid broader fiscal conflict.",
+      "id": "db8cc4eb-9233-440d-b109-95b3009c1d91",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one set of articles of impeachment targeting U.S. DHS Secretary Kristi Noem will be formally introduced in the U.S. House by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 62,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Congress.gov (or official House Clerk records) shows a resolution introducing articles of impeachment against Kristi Noem submitted by a House member on or before 2026-03-31.",
+      "evidence": [
+        "Immigration enforcement backlash includes Democratic impeachment threats against DHS Secretary Noem (CNBC, 2026-01-27)."
+      ],
+      "monitoring_signals": [
+        "Public statements from House Democratic leadership and key committees",
+        "Filing activity by members already signaling impeachment",
+        "Escalations in immigration enforcement court actions/protests"
+      ],
+      "rationale": "Public threats increase the chance of an introduction even if passage is unlikely; introductions can be driven by caucus signaling rather than majority support.",
+      "id": "877aed01-2dfd-41e8-af32-3f658668ddbb",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Vineyard Wind (or its owner/operator) will publicly confirm resumption of offshore turbine installation or offshore construction activities at the Martha\u2019s Vineyard-area project by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 154,
+      "deadline": "2026-06-30",
+      "confidence_pct": 48,
+      "verification_criteria": "Company press release, BOEM notice, or credible trade press quoting the developer confirms offshore construction restart (e.g., turbine installation, foundation installation, cable-lay) by 2026-06-30.",
+      "evidence": [
+        "Judge revived an offshore wind project previously halted, suggesting legal resilience for the project (NYT, 2026-01-27)."
+      ],
+      "monitoring_signals": [
+        "BOEM/USACE permitting updates and court docket entries",
+        "AIS vessel tracking for installation/cable vessels in the lease area",
+        "Developer procurement/port activity announcements"
+      ],
+      "rationale": "Legal revival is a necessary step, but weather windows, vessel availability, and financing/permitting constraints make timing uncertain.",
+      "id": "f225329d-a830-408e-9cd2-ed828bab7af1",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Anthropic will publicly announce a new equity financing round totaling at least $3.0 billion (USD) in disclosed proceeds (single round), by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 154,
+      "deadline": "2026-06-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Anthropic (or lead investors) publicly announces a funding round with disclosed raised amount >= $3.0B, or SEC Form D filings and major outlets corroborate amount >= $3.0B by 2026-06-30.",
+      "evidence": [
+        "AI infrastructure/investment accelerating; Anthropic fundraising reportedly pushed toward ~$20B valuation (CNBC, 2026-01-27)."
+      ],
+      "monitoring_signals": [
+        "Form D filings and investor announcements",
+        "Large-cloud partnership updates and compute/offtake deals",
+        "Secondary-market pricing and credible funding leaks"
+      ],
+      "rationale": "Compute-intensive scaling and competition for frontier models support large rounds, but terms and timing depend on market risk appetite and strategic investor participation.",
+      "id": "1f448cd9-ee26-4519-8477-868c4d041d40",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least two of the following Linux distributions will publish advisories confirming patched packages for OpenSSL addressing CVE-2025-15467 by 2026-02-29 (UTC): {Ubuntu, Debian, Red Hat, SUSE, Amazon Linux}.",
+      "category": "tech",
+      "horizon_days": 32,
+      "deadline": "2026-02-29",
+      "confidence_pct": 78,
+      "verification_criteria": "Security advisory pages for at least two listed distributions explicitly reference CVE-2025-15467 and indicate a fixed/updated OpenSSL package released by 2026-02-29.",
+      "evidence": [
+        "OpenSSL disclosed a CMS parsing stack buffer overflow (CVE-2025-15467), highlighting widespread exposure (OpenSSL advisory, referenced 2026-01-27 summary)."
+      ],
+      "monitoring_signals": [
+        "Distro security mailing lists (USN, DSA, RHSA, etc.)",
+        "NVD enrichment and vendor statement updates",
+        "Downstream package repository updates (apt/yum/zypper)"
+      ],
+      "rationale": "OpenSSL issues typically receive rapid downstream patching by major distros, especially for memory-corruption bugs with broad dependency footprints.",
+      "id": "734cf6d1-5719-4b5c-a8e3-8d8193a39e71",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "Humana will publicly revise (downward) its full-year 2026 revenue guidance by at least 2.0% versus its most recently issued 2026 revenue guidance, in an earnings release/call or filed investor presentation, by 2026-05-15 (UTC).",
+      "category": "markets",
+      "horizon_days": 107,
+      "deadline": "2026-05-15",
+      "confidence_pct": 33,
+      "verification_criteria": "Compare Humana\u2019s latest stated 2026 revenue guidance prior to 2026-01-28 with a later guidance figure; verification requires a downward change of >=2.0% disclosed by 2026-05-15 in official investor materials.",
+      "evidence": [
+        "Health insurers sold off after UnitedHealth guided to 2026 revenue decline, pressuring peers and suggesting sector headwinds (MarketWatch, 2026-01-27)."
+      ],
+      "monitoring_signals": [
+        "Humana earnings dates and guidance language changes",
+        "CMS payment/risk-adjustment updates and peer read-throughs",
+        "Medical cost trend disclosures and utilization metrics"
+      ],
+      "rationale": "UnitedHealth\u2019s warning can foreshadow broader MA/managed-care pressure, but Humana\u2019s membership mix and pricing actions could offset, keeping probability modest.",
+      "id": "5b24c9c0-85ef-448b-97fd-d9abda1e858d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
