@@ -1,0 +1,115 @@
+{
+  "bullets": [
+    {
+      "text": "Fed holds policy rate steady, citing improving economy; signals patience on cuts while monitoring inflation and labor-market risks.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm"
+    },
+    {
+      "text": "FOMC reaffirms longer-run framework: 2% inflation goal and employment shortfalls focus, anchoring reaction function despite near-term political noise.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128b.htm"
+    },
+    {
+      "text": "S&P 500 reaches 7,000, extending risk-on rally; leadership rotation suggests broader participation beyond megacaps.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/s-p-500-hits-7-000-for-the-first-time-led-by-a-surprising-group-of-stocks-183fe7c4"
+    },
+    {
+      "text": "Gold jumps to fresh highs after Fed hold, reflecting hedging demand and shifting rate expectations amid mixed global equities.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/01/29/asia-pacific-markets-us-fed-rates-gold-nikkei-225-hsi.html"
+    },
+    {
+      "text": "Microsoft shares fall on slowing cloud growth and cautious margin outlook, highlighting AI-capex pressure versus revenue growth.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/28/microsoft-msft-q2-earnings-report-2026.html"
+    },
+    {
+      "text": "Meta rallies on upbeat revenue forecast while Reality Labs losses persist, indicating investors prioritize AI-driven advertising growth over metaverse spending.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/28/meta-q4-earnings-report-2025.html"
+    },
+    {
+      "text": "Tesla reports weakening profitability and first annual revenue decline; strategic shifts include scaling back legacy models and investing in xAI.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/28/tesla-tsla-2025-q4-earnings.html"
+    },
+    {
+      "text": "Amazon cuts about 16,000 roles, signaling continued cost discipline and organizational simplification as AI investment rises.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/"
+    },
+    {
+      "text": "AI-chip supply tightness boosts memory/test equipment outlook: Samsung profit triples; Advantest and Micron rise on AI-driven demand signals.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/29/samsung-record-q4-2025-profit-ai-hbm-ai-memory-chip-shortage.html"
+    },
+    {
+      "text": "Southwest ends open seating and adds monetization levers (assigned seats, bag fees), forecasting materially higher 2026 profits; investors approve.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/28/southwest-airlines-luv-4q-2025-earnings.html"
+    },
+    {
+      "text": "U.S. escalatory rhetoric toward Iran and related security cases raise regional conflict risk premiums, with potential implications for shipping and energy markets.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/01/28/us/politics/trump-iran-armada.html"
+    },
+    {
+      "text": "Venezuela oversight proposal and renewed output ambitions highlight oil-supply geopolitics; returning to 3M bpd would require sustained capital and stability.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/01/28/venezuela-crude-oil-production-investment.html"
+    },
+    {
+      "text": "Research warns low-Earth-orbit congestion could trigger cascading collision risk within days, underscoring urgency for debris mitigation and space-traffic governance.",
+      "tags": [
+        "science",
+        "geopolitics"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260128075341.htm"
+    },
+    {
+      "text": "New AI biology tools and immunotherapy insights: AlphaGenome predicts variant effects; studies identify mechanisms behind immunotherapy failure, guiding more precise treatments.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencenews.org/article/ai-tool-alphagenome-predicts-genetics"
+    }
+  ]
+}

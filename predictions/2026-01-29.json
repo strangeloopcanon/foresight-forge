@@ -1,0 +1,195 @@
+{
+  "date": "2026-01-29",
+  "predictions": [
+    {
+      "text": "The S&P 500 index will close at or above 7,200 on at least one U.S. trading day by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 61,
+      "deadline": "2026-03-31",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Verified if official S&P Dow Jones Indices data (or widely cited market data sources) show an S&P 500 daily close >= 7200.00 on or before 2026-03-31 (UTC).",
+      "evidence": [
+        "S&P 500 reached 7,000, indicating strong momentum and broader participation (MarketWatch, 2026-01-29)."
+      ],
+      "monitoring_signals": [
+        "Daily S&P 500 close levels and breadth (advance/decline, equal-weight performance).",
+        "Changes in Fed rate-cut pricing (SOFR futures) and real yields.",
+        "Earnings revisions and margin commentary from megacaps vs. cyclicals"
+      ],
+      "rationale": "A fresh breakout to 7,000 suggests trend-following flows and improving breadth; a further ~3% move to 7,200 within two months is plausible but sensitive to rates and earnings.",
+      "id": "d1cca386-f8c4-4362-b22a-287db667a6c0",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "In Microsoft\u2019s FY2026 Q3 earnings release/call (quarter ending 2026-03-31), Microsoft will report 'Azure and other cloud services' revenue growth (constant currency) of 25% or lower.",
+      "category": "tech",
+      "horizon_days": 92,
+      "deadline": "2026-05-01",
+      "confidence_pct": 60,
+      "log_odds": 0.4055,
+      "verification_criteria": "Verified if Microsoft\u2019s FY2026 Q3 earnings materials explicitly state Azure and other cloud services growth (constant currency) <= 25%. If only reported in nominal terms, this prediction is unresolvable.",
+      "evidence": [
+        "Microsoft signaled slowing cloud growth and cautious margin outlook amid AI capex (CNBC, 2026-01-28)."
+      ],
+      "monitoring_signals": [
+        "Microsoft quarterly disclosures of Azure growth (reported and constant currency).",
+        "Enterprise IT spending surveys and cloud optimization commentary.",
+        "AI infrastructure supply constraints and related capex guidance"
+      ],
+      "rationale": "Recent reporting emphasizes decelerating cloud growth and AI-capex pressure; that backdrop makes a <=25% constant-currency Azure growth print more likely than a re-acceleration.",
+      "id": "b7a3b81d-e414-4df8-bd17-505c3359385a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Amazon will publicly announce an additional round of layoffs totaling at least 5,000 roles (incremental to the ~16,000 cut reported on 2026-01-28) by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 152,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "log_odds": -0.4895,
+      "verification_criteria": "Verified if Amazon (or credible wire services citing Amazon) states a new headcount reduction of >=5,000 employees after 2026-01-28 and on/before 2026-06-30 (UTC).",
+      "evidence": [
+        "Amazon cut about 16,000 roles, signaling ongoing restructuring and cost discipline (Reuters, 2026-01-28)."
+      ],
+      "monitoring_signals": [
+        "Amazon HR notices, WARN filings, and internal memo reporting by major outlets.",
+        "Quarterly opex guidance and segment margin commentary.",
+        "Broader big-tech layoff trackers and hiring trends"
+      ],
+      "rationale": "Large, multi-wave restructurings often continue for several quarters, but Amazon may pause if retail/ads/cloud trends improve; hence below-50% confidence.",
+      "id": "e0123d91-0a53-4bf7-8db6-64d6f987be69",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ICE Brent crude front-month futures will settle at or above $95.00 per barrel on at least one trading day by 2026-04-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 91,
+      "deadline": "2026-04-30",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "Verified if ICE settlement data show Brent front-month futures daily settle price >= 95.00 USD/bbl at least once on/before 2026-04-30 (UTC).",
+      "evidence": [
+        "Regional conflict risk premiums and shipping/security concerns are rising (NYT, 2026-01-28).",
+        "Venezuela output ambitions remain uncertain and capital-intensive (CNBC, 2026-01-28)."
+      ],
+      "monitoring_signals": [
+        "Brent time spreads, implied vol, and tanker/shipping disruption headlines.",
+        "OPEC+ policy signals and compliance.",
+        "U.S. inventory data and refinery runs"
+      ],
+      "rationale": "Geopolitical risk can rapidly reprice crude; $95 is reachable if disruption risk or demand surprises skew upward, but supply responses could cap rallies.",
+      "id": "ab37f5d0-5307-4745-af9e-25d4acca768d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. FCC will publish a Notice of Proposed Rulemaking (NPRM) or Report & Order that explicitly strengthens or adds orbital-debris mitigation requirements for satellite operators, by 2026-09-30 (UTC).",
+      "category": "other",
+      "horizon_days": 244,
+      "deadline": "2026-09-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Verified if an FCC docketed NPRM or Order (released on FCC.gov) includes explicit new/strengthened orbital debris mitigation requirements (e.g., post-mission disposal timelines, collision-risk analysis, deorbit reliability reporting) by 2026-09-30 (UTC).",
+      "evidence": [
+        "Research highlights rapid cascading collision risk in congested LEO, increasing governance urgency (ScienceDaily, 2026-01-28)."
+      ],
+      "monitoring_signals": [
+        "FCC agenda items, Commissioner statements, and draft item leaks.",
+        "Major conjunction/collision incidents or high-profile near-misses.",
+        "Industry/NGO filings in FCC space-safety proceedings"
+      ],
+      "rationale": "LEO congestion concerns are intensifying, but FCC timing is uncertain due to legal and inter-agency boundaries; action is plausible but not assured within 2026 Q3.",
+      "id": "a0cb06e7-ce12-4cb7-b019-0a9e377efef5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "OPEC\u2019s Monthly Oil Market Report (secondary sources) will show Venezuela crude oil production at or above 1.10 million barrels per day for at least one reported month by 2026-09-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 244,
+      "deadline": "2026-09-30",
+      "confidence_pct": 30,
+      "log_odds": -0.8473,
+      "verification_criteria": "Verified if any OPEC MOMR (published on/before 2026-09-30) reports Venezuela crude production (secondary sources) >= 1.10 mb/d for a month.",
+      "evidence": [
+        "Venezuela\u2019s stated output ambitions require sustained capital and stability; near-term gains are uncertain (CNBC, 2026-01-28)."
+      ],
+      "monitoring_signals": [
+        "OPEC MOMR Venezuela secondary-source production series.",
+        "U.S. sanctions/licensing changes affecting investment and offtake.",
+        "PDVSA field/project restart announcements and export data"
+      ],
+      "rationale": "Reaching 1.10 mb/d is feasible if operational improvements persist and constraints ease, but chronic infrastructure and financing limits keep probability modest.",
+      "id": "9a4dbce0-9baa-4545-a17c-672c3abb7624",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Tesla will disclose an equity investment in xAI totaling at least $1.0 billion (USD) in aggregate in a filed SEC report (10-Q, 10-K, or 8-K) by 2026-08-15 (UTC).",
+      "category": "tech",
+      "horizon_days": 198,
+      "deadline": "2026-08-15",
+      "confidence_pct": 25,
+      "log_odds": -1.0986,
+      "verification_criteria": "Verified if Tesla\u2019s SEC filings explicitly disclose an equity investment in xAI with total consideration >= $1.0B (cash or non-cash) on/before 2026-08-15 (UTC).",
+      "evidence": [
+        "Tesla reported strategic shifts including investing in xAI (CNBC, 2026-01-28)."
+      ],
+      "monitoring_signals": [
+        "Tesla 10-Q/10-K notes on related-party transactions and equity method investments.",
+        "xAI financing announcements and cap table updates reported by major outlets.",
+        "Tesla board approvals or shareholder disclosures"
+      ],
+      "rationale": "Strategic alignment is suggestive but transaction size/timing are uncertain; disclosures may lag or investment may be smaller/structured indirectly.",
+      "id": "fc92219c-629d-48d8-b507-d4fa61fb8fdc",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Micron will report High Bandwidth Memory (HBM) revenue of at least $1.0 billion (USD) in a single fiscal quarter (explicitly labeled as HBM revenue) in an earnings release, prepared remarks, or investor presentation by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 244,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Verified if Micron\u2019s public earnings materials explicitly quantify quarterly HBM revenue >= $1.0B on/before 2026-09-30 (UTC). If Micron does not separately disclose HBM revenue, this prediction is unresolvable.",
+      "evidence": [
+        "AI-chip supply tightness is boosting memory outlook and highlighting HBM demand (CNBC, 2026-01-29)."
+      ],
+      "monitoring_signals": [
+        "Micron earnings transcripts for HBM revenue disclosure language.",
+        "HBM pricing/availability commentary from hyperscalers and GPU vendors.",
+        "Memory industry supply additions and yield updates"
+      ],
+      "rationale": "HBM demand is strong, but Micron\u2019s willingness to separately disclose the figure and the ramp\u2019s speed create meaningful uncertainty.",
+      "id": "b117231c-3908-484c-a300-256f87dd2e85",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Google DeepMind (or Google Research) will publicly release AlphaGenome for external use via either (a) a public API with documentation or (b) downloadable model/weights/code enabling inference, by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 336,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "Verified if an official Google/DeepMind channel publishes a public AlphaGenome API endpoint with docs, or releases code/weights enabling external inference (e.g., GitHub + model card) by 2026-12-31 (UTC). A purely descriptive paper without access does not qualify.",
+      "evidence": [
+        "AlphaGenome is presented as a new AI biology tool predicting variant effects, suggesting potential broader research rollout (ScienceNews, 2026-01-29)."
+      ],
+      "monitoring_signals": [
+        "DeepMind/Google Research blog posts and GitHub repositories.",
+        "Google Cloud product announcements related to genomics/foundation models.",
+        "Academic collaborations and benchmark releases citing AlphaGenome access"
+      ],
+      "rationale": "Google often commercializes or selectively releases high-impact models, but biosecurity/IP considerations could delay or limit access, keeping confidence below 50%.",
+      "id": "105b20ab-402f-40c9-ab45-c8745da05c7a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

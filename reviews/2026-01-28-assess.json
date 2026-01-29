@@ -1,0 +1,50 @@
+{
+  "date": "2026-01-28",
+  "assessments": [
+    {
+      "id": "bf6fcfc8-6576-4f32-995d-75c19a3c6daa",
+      "status": "correct",
+      "status_rationale": "Multiple outlets report the Fed held rates steady at its January 2026 meeting (e.g., NYT: \"Fed Holds Rates Steady\" on 2026-01-28; CNBC takeaways on the decision). This matches the prediction that the federal funds target range would be left unchanged by the 2026-01-29 announcement deadline."
+    },
+    {
+      "id": "a9ff2817-fdac-49a8-8675-f43c78d1503a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no market-close data for DXY and no statement that DXY closed below 95.00 on any day. The deadline is 2026-03-31, so the claim remains open."
+    },
+    {
+      "id": "c12fa7f1-f60a-4fd9-9daf-993ed9154d8d",
+      "status": "pending",
+      "status_rationale": "No Redfin reporting or cited cancellation-rate figures appear in today\u2019s news bullets. The deadline is 2026-04-30, so there is insufficient evidence to resolve the forecast."
+    },
+    {
+      "id": "db8cc4eb-9233-440d-b109-95b3009c1d91",
+      "status": "pending",
+      "status_rationale": "While one CNBC item references avoiding a shutdown, none of the bullets confirm a DHS-only continuing resolution or appropriations law being signed into law. With the deadline of 2026-02-07, this remains unresolved."
+    },
+    {
+      "id": "877aed01-2dfd-41e8-af32-3f658668ddbb",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage includes ICE-related protests and an attack on Rep. Ilhan Omar, but does not report articles of impeachment being introduced against DHS Secretary Kristi Noem. Deadline is 2026-03-31."
+    },
+    {
+      "id": "f225329d-a830-408e-9cd2-ed828bab7af1",
+      "status": "pending",
+      "status_rationale": "No bullet mentions Vineyard Wind or a public confirmation of resuming offshore turbine installation/construction. Deadline is 2026-06-30."
+    },
+    {
+      "id": "1f448cd9-ee26-4519-8477-868c4d041d40",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Anthropic announced a new equity round totaling at least $3.0B. Deadline is 2026-06-30."
+    },
+    {
+      "id": "734cf6d1-5719-4b5c-a8e3-8d8193a39e71",
+      "status": "pending",
+      "status_rationale": "None of the items mention OpenSSL CVE-2025-15467 or distribution advisories from Ubuntu/Debian/Red Hat/SUSE/Amazon Linux. Deadline is 2026-02-29."
+    },
+    {
+      "id": "5b24c9c0-85ef-448b-97fd-d9abda1e858d",
+      "status": "pending",
+      "status_rationale": "There is no Humana earnings/guidance update cited in today\u2019s bullets, and no evidence of a \u22652% downward revision to 2026 revenue guidance. Deadline is 2026-05-15."
+    }
+  ]
+}

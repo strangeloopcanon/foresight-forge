@@ -1752,3 +1752,14 @@ The closest topical proximity is aviation safety: the reported safety-board crit
 
 ---
 
+
+## 2026-01-28
+
+One forecast can be cleanly resolved from today’s headlines: the January 2026 FOMC decision came in with rates held steady, matching the predicted unchanged target range. This is strong, direct corroboration from multiple sources and falls within the stated decision/announcement window.
+
+The remaining items are largely unaddressed by the provided news set. Several are time-series or specialized-data questions (DXY closes, Redfin cancellation rates, distro security advisories) that require specific numerical or advisory evidence not present here. The political and legislative forecasts (DHS-only stopgap funding; impeachment articles against the DHS secretary) also lack the definitive “signed into law” / “formally introduced” markers needed to update status.
+
+Overall, the news flow was dominated by the Fed decision, U.S. politics (including ICE-related stories and the Omar attack), and corporate earnings. Those themes intersect only weakly with the still-open predictions, leaving most forecasts pending rather than contradicted.
+
+---
+
