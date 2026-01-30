@@ -19,7 +19,7 @@
       ],
       "rationale": "A fresh breakout to 7,000 suggests trend-following flows and improving breadth; a further ~3% move to 7,200 within two months is plausible but sensitive to rates and earnings.",
       "id": "d1cca386-f8c4-4362-b22a-287db667a6c0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Recent reporting emphasizes decelerating cloud growth and AI-capex pressure; that backdrop makes a <=25% constant-currency Azure growth print more likely than a re-acceleration.",
       "id": "b7a3b81d-e414-4df8-bd17-505c3359385a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Large, multi-wave restructurings often continue for several quarters, but Amazon may pause if retail/ads/cloud trends improve; hence below-50% confidence.",
       "id": "e0123d91-0a53-4bf7-8db6-64d6f987be69",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Geopolitical risk can rapidly reprice crude; $95 is reachable if disruption risk or demand surprises skew upward, but supply responses could cap rallies.",
       "id": "ab37f5d0-5307-4745-af9e-25d4acca768d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "LEO congestion concerns are intensifying, but FCC timing is uncertain due to legal and inter-agency boundaries; action is plausible but not assured within 2026 Q3.",
       "id": "a0cb06e7-ce12-4cb7-b019-0a9e377efef5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Reaching 1.10 mb/d is feasible if operational improvements persist and constraints ease, but chronic infrastructure and financing limits keep probability modest.",
       "id": "9a4dbce0-9baa-4545-a17c-672c3abb7624",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Strategic alignment is suggestive but transaction size/timing are uncertain; disclosures may lag or investment may be smaller/structured indirectly.",
       "id": "fc92219c-629d-48d8-b507-d4fa61fb8fdc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "HBM demand is strong, but Micron\u2019s willingness to separately disclose the figure and the ramp\u2019s speed create meaningful uncertainty.",
       "id": "b117231c-3908-484c-a300-256f87dd2e85",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Google often commercializes or selectively releases high-impact models, but biosecurity/IP considerations could delay or limit access, keeping confidence below 50%.",
       "id": "105b20ab-402f-40c9-ab45-c8745da05c7a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

@@ -1,0 +1,95 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. productivity rose 4.9% (Q3 2025) while unit labor costs fell 1.9%, improving inflation backdrop and corporate margin potential.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/prod2_01292026.htm"
+    },
+    {
+      "text": "U.S. trade deficit surged in November 2025 despite tariffs, signaling persistent import demand and limited near-term rebalancing from trade policy.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-november-2025"
+    },
+    {
+      "text": "Apartment rents fell to the lowest level in four years, adding disinflation pressure to shelter components that heavily influence CPI.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/29/apartment-rents-just-dropped-to-the-lowest-level-in-4-years.html"
+    },
+    {
+      "text": "Markets focused on imminent Fed chair pick; prediction markets also price near-certainty of no January 2026 rate change.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/29/trump-says-he-will-announce-a-replacement-for-powell-as-fed-chair-friday-morning.html"
+    },
+    {
+      "text": "U.S. weighs expanded military options and force buildup near Iran, raising regional escalation risk and potential energy-market volatility.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/01/29/us/trump-military-options-against-iran.html"
+    },
+    {
+      "text": "Trump claims Putin agreed to a weeklong pause in attacks during extreme cold; durability of any de-escalation remains uncertain.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-putin-ceasefire-cold.html"
+    },
+    {
+      "text": "Venezuela approved sweeping oil-sector overhaul aimed at restructuring participation and investment terms; U.S. airline service also resumes, hinting at tentative normalization.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html"
+    },
+    {
+      "text": "AI-driven hardware demand is tightening memory supply; PC and smartphone component costs may rise, reinforcing semiconductor outperformance versus software.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html"
+    },
+    {
+      "text": "Big Tech diverged: Apple reported surging iPhone demand, while Microsoft suffered its largest drop since 2020, underscoring earnings sensitivity to AI spending narratives.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/29/apple-aapl-earnings-report-q1-2026.html"
+    },
+    {
+      "text": "Amazon reportedly explores up to $50B investment in OpenAI; broader IPO chatter (OpenAI, SpaceX) signals accelerating capital markets cycle for frontier AI/space firms.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/29/amazon-openai-investment-jassy-altman.html"
+    },
+    {
+      "text": "Autonomous-vehicle safety scrutiny intensifies as NHTSA investigates a Waymo robotaxi hitting a child, potentially slowing regulatory approvals and commercial rollout pace.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/29/waymo-nhtsa-crash-child-school.html"
+    },
+    {
+      "text": "Science highlights: blood test may detect Parkinson\u2019s years early; new process converts exhaust CO2 into useful materials, supporting lower-cost screening and carbon utilization.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260129080424.htm"
+    }
+  ]
+}
