@@ -1772,3 +1772,12 @@ The one item that is directionally relevant to a listed forecast is the Venezuel
 
 ---
 
+
+## 2026-01-30
+
+One forecast resolved decisively: the prediction that the U.S. President would publicly name a nominee to succeed Jerome Powell as Federal Reserve Chair by 2026-02-07 was met early, with widely reported coverage that Trump selected Kevin Warsh on 2026-01-30. This is a clear, on-deadline event with unambiguous public confirmation.
+
+All other forecasts remain pending because today’s provided news does not contain the specific evidentiary hooks required to validate them (e.g., actual CPI shelter MoM figures for the relevant reference months; a BEA-reported trade deficit value meeting the threshold; a disclosed Amazon-to-OpenAI equity investment size; a formal NHTSA Engineering Analysis or recall announcement; a named Venezuelan JV/operating agreement with the specified counterparties; DoD confirmation of an additional CSG deployment to CENTCOM; or a publicly disclosed FDA Breakthrough Device Designation for a Parkinson’s early-detection blood test). Continued monitoring should focus on official releases (BLS, BEA, DoD, NHTSA, FDA) and company filings/press releases for the corporate and health-tech items.
+
+---
+

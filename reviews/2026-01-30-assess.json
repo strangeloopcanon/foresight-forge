@@ -1,0 +1,45 @@
+{
+  "date": "2026-01-30",
+  "assessments": [
+    {
+      "id": "60aef2a6-a5ee-427b-b76c-af9089539437",
+      "status": "correct",
+      "status_rationale": "Multiple outlets report that President Trump publicly picked Kevin Warsh as the next Federal Reserve Chair on 2026-01-30, which satisfies the requirement to publicly name a nominee by 2026-02-07 (UTC)."
+    },
+    {
+      "id": "f7192af3-add8-4066-9dc8-08caf4b8e8d7",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets do not include any BLS CPI release details for shelter month-over-month seasonally adjusted inflation for reference months 2026-02 through 2026-05."
+    },
+    {
+      "id": "0c79b9d9-b062-4a3b-ad46-669cecd42cbc",
+      "status": "pending",
+      "status_rationale": "No BEA trade balance release or cited monthly trade deficit figure appears in today\u2019s news bullets."
+    },
+    {
+      "id": "01b432d5-384a-4448-949e-425504980c78",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets mention Amazon generally, but provide no evidence of an announced strategic equity (or equity-linked) investment in OpenAI totaling at least $5.0B."
+    },
+    {
+      "id": "813b9359-9659-4a52-bf8f-6493a87f33a9",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates NHTSA opened an Engineering Analysis into Waymo or announced/triggered a Waymo-related safety recall."
+    },
+    {
+      "id": "6f5252e6-b55d-47eb-b39a-07de1524337f",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets contain no announcement of a new or amended Venezuelan oil-sector joint venture/operating agreement with any of the specified foreign companies."
+    },
+    {
+      "id": "cd67d5d0-50a9-474c-9f7a-97fdc7166921",
+      "status": "pending",
+      "status_rationale": "The provided headlines include Iran-related geopolitical coverage, but no U.S. DoD confirmation of deploying an additional aircraft carrier strike group to CENTCOM AOR."
+    },
+    {
+      "id": "dd3d9ddc-2457-4f9f-9029-942236fe6df6",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s news bullets indicates an FDA Breakthrough Device Designation (publicly disclosed) for an early-detection Parkinson\u2019s disease blood test."
+    }
+  ]
+}

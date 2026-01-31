@@ -1,0 +1,99 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. PPI for final demand rose 0.5% in December; services +0.7% while goods were flat, signaling sticky pipeline inflation pressures.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/ppi_01302026.htm"
+    },
+    {
+      "text": "Trump nominates Kevin Warsh for Fed chair, injecting uncertainty about the future rate path and perceived Fed independence; markets and bonds stayed unsettled.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/30/trump-nominates-kevin-warsh-for-federal-reserve-chair-to-succeed-jerome-powell.html"
+    },
+    {
+      "text": "Senate passed a funding deal, but a partial U.S. government shutdown still looms, risking disruption to federal services, payments, and some data releases.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.cnbc.com/2026/01/30/government-shutdown-senate-vote-dhs.html"
+    },
+    {
+      "text": "Silver plunged about 30% in its worst day since 1980 and gold fell, highlighting extreme commodity volatility tied to shifting rate expectations and dollar strength.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html"
+    },
+    {
+      "text": "Oil prices notched the first monthly gain in six months, putting OPEC+ strategy and supply discipline back in focus for near-term price direction.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/oil-prices-unexpectedly-score-first-monthly-gain-in-half-a-year-so-whats-the-next-move-for-opec-eac5bd6f"
+    },
+    {
+      "text": "U.N. warns it is nearing financial collapse due to unpaid member dues, threatening peacekeeping capacity and humanitarian operations.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html"
+    },
+    {
+      "text": "Iran rules out talks with the U.S. until Trump\u2019s threats stop, raising escalation risks that could spill into regional stability and energy markets.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/01/30/world/europe/iran-trump-us-threats-turkey.html"
+    },
+    {
+      "text": "A Panama Canal-related ruling strengthens U.S. leverage in the U.S.-China strategic infrastructure contest, with potential knock-on effects for shipping and investment flows.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/30/panama-canal-trump-china-hong-kong-ck-hutchison.html"
+    },
+    {
+      "text": "Eli Lilly plans a $3.5B Pennsylvania manufacturing plant for next-generation obesity injections, expanding U.S. capacity and reinforcing expectations of sustained GLP-1 demand.",
+      "tags": [
+        "markets",
+        "science"
+      ],
+      "link": "https://www.cnbc.com/2026/01/30/eli-lilly-3point5-billion-pennsylvania-plant-obesity-drugs.html"
+    },
+    {
+      "text": "Lilly CEO says Medicare coverage for obesity drugs could be a major catalyst, expanding the addressable market while intensifying debates over federal health spending.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/30/eli-lilly-ceo-david-ricks-medicare-coverage-obesity-pills.html"
+    },
+    {
+      "text": "A former Google engineer was found guilty of AI-tech espionage and theft, underscoring tighter U.S. enforcement and rising geopolitical risk around advanced semiconductors and models.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html"
+    },
+    {
+      "text": "Google disrupted a large residential proxy network; separately, 175k+ publicly exposed Ollama AI instances were reported\u2014highlighting growing cyber risk in AI infrastructure.",
+      "tags": [
+        "tech",
+        "other"
+      ],
+      "link": "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network"
+    }
+  ]
+}

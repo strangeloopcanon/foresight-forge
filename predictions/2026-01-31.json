@@ -1,0 +1,195 @@
+{
+  "date": "2026-01-31",
+  "predictions": [
+    {
+      "text": "The U.S. Senate will confirm Kevin Warsh to serve as Federal Reserve Chair (Powell\u2019s successor) by 2026-10-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 273,
+      "deadline": "2026-10-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Resolves YES if the U.S. Senate votes to confirm Kevin Warsh as Federal Reserve Chair (roll-call or voice vote recorded), and the confirmation is publicly reported by Congress.gov and/or the Senate press office by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/30/trump-nominates-kevin-warsh-for-federal-reserve-chair-to-succeed-jerome-powell.html"
+      ],
+      "monitoring_signals": [
+        "White House transmittal of nomination to the Senate; Senate receipt date",
+        "Senate Banking Committee hearing scheduling/held",
+        "Senate Banking Committee vote to report nomination",
+        "Senate floor scheduling and confirmation vote timing",
+        "Public statements by key Senators about support/opposition"
+      ],
+      "rationale": "Nomination is already public; confirmation odds depend mainly on committee throughput and whether the majority chooses to prioritize the Fed chair vote amid fiscal and geopolitical disputes.",
+      "id": "770c306f-9366-47ce-b5de-213d4bf56296",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "BLS will report U.S. PPI Final Demand (seasonally adjusted) month-over-month at +0.6% or higher in at least one release with a reference month between 2026-01 and 2026-03, by 2026-04-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 89,
+      "deadline": "2026-04-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if any BLS PPI news release published by the deadline shows 'Final demand' (seasonally adjusted) 1-month percent change >= +0.6% for a reference month Jan 2026, Feb 2026, or Mar 2026.",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/ppi_01302026.htm"
+      ],
+      "monitoring_signals": [
+        "Monthly PPI releases (Feb, Mar, Apr 2026) and revisions",
+        "Energy and services sub-index momentum",
+        "ISM prices-paid components",
+        "Freight rates and fuel price trends"
+      ],
+      "rationale": "December PPI printed +0.5% with hot services; a single +0.6% print over the next three months is plausible if services momentum persists or energy re-accelerates.",
+      "id": "d119a818-efe1-4b16-b118-41005238c373",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "LBMA spot silver (XAG/USD) will have at least one trading day with a close-to-close move of 15.0% or more (absolute value) by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 59,
+      "deadline": "2026-03-31",
+      "confidence_pct": 30,
+      "verification_criteria": "Resolves YES if XAG/USD (LBMA spot or a widely cited spot benchmark) shows an absolute percentage change between two consecutive daily closes of >= 15.0% on any date on or before the deadline, as reported by at least one major market-data provider (e.g., Reuters, Bloomberg, ICE/LMBA references).",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html"
+      ],
+      "monitoring_signals": [
+        "Implied volatility and options skew in silver",
+        "Margin requirement changes at major exchanges/clearinghouses",
+        "CFTC COT positioning extremes",
+        "Large moves in real yields and DXY"
+      ],
+      "rationale": "After an extreme one-day collapse, tail risk of further high-volatility sessions remains elevated, but a 15% close-to-close move is still uncommon.",
+      "id": "d2f23dd7-daf5-4f70-8330-be1cf8f7b2f6",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Justice will announce criminal charges (complaint, indictment, or information) against operators of a major residential proxy network disrupted by Google, by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 150,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if DOJ (including any U.S. Attorney\u2019s Office) publicly releases charging documents or a press release naming defendants alleged to have operated a residential proxy network that is explicitly linked (by name, domain, or description) to the network Google reported disrupting, by the deadline.",
+      "evidence": [
+        "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network"
+      ],
+      "monitoring_signals": [
+        "DOJ press releases mentioning residential proxy/botnet monetization",
+        "Domain seizures (FBI/DOJ banners) tied to proxy services",
+        "Court docket activity in SDNY/CDCA/EDVA and other cyber-heavy districts",
+        "Additional technical reports naming operators/beneficiaries"
+      ],
+      "rationale": "Major disruptions sometimes precede law-enforcement actions, but attribution and cross-border issues often slow prosecution timelines.",
+      "id": "23763cbe-5b5d-4729-b8ee-433ac3d20ac0",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "CISA will publish a public advisory/alert (AA, MAR, or similar) that explicitly references exposed or misconfigured Ollama instances (or 'Ollama') and provides mitigation guidance, by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 59,
+      "deadline": "2026-03-31",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if CISA posts an official webpage (AA/MAR/Alert) on cisa.gov by the deadline that contains the term 'Ollama' and includes mitigation steps for exposed/misconfigured instances or related compromise risk.",
+      "evidence": [
+        "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network"
+      ],
+      "monitoring_signals": [
+        "CISA advisories referencing LLM inference servers, RCEs, or data exposure events",
+        "Reporting from major security firms on active exploitation of exposed Ollama endpoints",
+        "Inclusion of related CVEs in the KEV catalog"
+      ],
+      "rationale": "Given reported large-scale exposure of instances and rising AI infra incidents, a CISA advisory is a coin-flip within two months.",
+      "id": "dd34b585-8dd2-4c86-918e-e777f81155f1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The United Nations will publicly announce a system-wide hiring freeze and/or a formal cash-conservation measure (e.g., delayed reimbursements to troop-contributing countries or postponed program spending) explicitly attributed to liquidity shortfalls, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 150,
+      "deadline": "2026-06-30",
+      "confidence_pct": 60,
+      "verification_criteria": "Resolves YES if the UN Secretariat (e.g., the Secretary-General spokesperson, official UN press release, or publicly posted memo) announces a hiring freeze or other explicit cash-conservation action and cites unpaid dues/liquidity constraints as the reason, by the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html"
+      ],
+      "monitoring_signals": [
+        "UN Controller/Secretariat budget memos leaked or posted",
+        "Announcements about delayed peacekeeping reimbursements",
+        "UN press briefings referencing 'liquidity crisis' or 'cash shortfall'",
+        "Member-state arrears reports and emergency assessments"
+      ],
+      "rationale": "Public warnings of near-collapse typically lead to immediate austerity steps; the main uncertainty is whether measures are announced publicly versus handled internally.",
+      "id": "41c0f08f-7464-4388-8d92-d00e3ef40758",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "OPEC+ will announce an extension of current production quotas/cuts such that at least 1.0 million barrels/day of cuts (collectively) remain in effect through 2026-12-31, by 2026-07-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 181,
+      "deadline": "2026-07-31",
+      "confidence_pct": 65,
+      "verification_criteria": "Resolves YES if an official OPEC/OPEC+ communique, press release, or ministerial statement by the deadline specifies that aggregate cuts/quotas totaling >=1.0 mb/d remain scheduled/in-force through 2026-12-31 (or later).",
+      "evidence": [
+        "https://www.marketwatch.com/story/oil-prices-unexpectedly-score-first-monthly-gain-in-half-a-year-so-whats-the-next-move-for-opec-eac5bd6f"
+      ],
+      "monitoring_signals": [
+        "OPEC+ meeting schedule and communiques",
+        "Monthly compliance data and secondary-source estimates",
+        "Brent curve structure (backwardation/contango) and inventories",
+        "Saudi/Russia public messaging on price stability"
+      ],
+      "rationale": "With oil recently firming and OPEC+ focused on discipline, extending meaningful cuts through year-end is more likely than a rapid unwind.",
+      "id": "178695ea-648d-4da0-a582-e6335bbc5f35",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "CMS will publish a proposed National Coverage Determination (NCD) or a proposed rule explicitly enabling broader Medicare coverage for anti-obesity medications (AOMs)/GLP-1s for obesity treatment (not diabetes-only), by 2026-12-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 334,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if CMS publishes (Federal Register or CMS.gov) a proposed NCD or proposed rule by the deadline that explicitly addresses Medicare coverage eligibility for obesity-treatment medications (AOMs/GLP-1s) beyond diabetes indications.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/30/eli-lilly-ceo-david-ricks-medicare-coverage-obesity-pills.html",
+        "https://www.cnbc.com/2026/01/30/eli-lilly-3point5-billion-pennsylvania-plant-obesity-drugs.html"
+      ],
+      "monitoring_signals": [
+        "CMS statements on Part D coverage and obesity drugs",
+        "White House/OMB regulatory agenda entries tied to obesity/AOMs",
+        "Congressional movement on legislation modifying Medicare\u2019s obesity-drug restriction",
+        "MA plan benefit designs and CMS guidance changes"
+      ],
+      "rationale": "Industry pressure and capacity buildouts raise the odds of a formal CMS proposal, but statutory constraints and budget scoring may delay action.",
+      "id": "c90daed2-7ddb-4d7c-a990-9ce142be7d47",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Government of Panama will publicly announce initiation of legal/administrative steps to terminate, revoke, or renegotiate the CK Hutchison port concession(s) at Balboa and/or Crist\u00f3bal (Panama Canal terminals), by 2026-09-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 242,
+      "deadline": "2026-09-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if Panama\u2019s executive branch, relevant regulator, or courts publicly announce a filing, decree, administrative proceeding, or formal negotiation mandate explicitly aimed at terminating/revoking/renegotiating CK Hutchison\u2019s Balboa/Crist\u00f3bal port concessions by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/30/panama-canal-trump-china-hong-kong-ck-hutchison.html"
+      ],
+      "monitoring_signals": [
+        "Panama government statements on port concessions and national security",
+        "Court rulings or prosecutor actions referencing the concession contracts",
+        "U.S. diplomatic statements or sanctions/CFIUS-style pressure signals",
+        "Company disclosures by CK Hutchison about Panama legal risk"
+      ],
+      "rationale": "Heightened U.S.-China infrastructure contest increases odds of a Panama move, but legal complexity and economic risk make outright termination less than even.",
+      "id": "6d148886-010e-4825-a761-4b459027e3fd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
