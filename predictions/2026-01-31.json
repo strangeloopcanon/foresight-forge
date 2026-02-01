@@ -20,7 +20,7 @@
       ],
       "rationale": "Nomination is already public; confirmation odds depend mainly on committee throughput and whether the majority chooses to prioritize the Fed chair vote amid fiscal and geopolitical disputes.",
       "id": "770c306f-9366-47ce-b5de-213d4bf56296",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "December PPI printed +0.5% with hot services; a single +0.6% print over the next three months is plausible if services momentum persists or energy re-accelerates.",
       "id": "d119a818-efe1-4b16-b118-41005238c373",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "After an extreme one-day collapse, tail risk of further high-volatility sessions remains elevated, but a 15% close-to-close move is still uncommon.",
       "id": "d2f23dd7-daf5-4f70-8330-be1cf8f7b2f6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Major disruptions sometimes precede law-enforcement actions, but attribution and cross-border issues often slow prosecution timelines.",
       "id": "23763cbe-5b5d-4729-b8ee-433ac3d20ac0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Given reported large-scale exposure of instances and rising AI infra incidents, a CISA advisory is a coin-flip within two months.",
       "id": "dd34b585-8dd2-4c86-918e-e777f81155f1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Public warnings of near-collapse typically lead to immediate austerity steps; the main uncertainty is whether measures are announced publicly versus handled internally.",
       "id": "41c0f08f-7464-4388-8d92-d00e3ef40758",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "With oil recently firming and OPEC+ focused on discipline, extending meaningful cuts through year-end is more likely than a rapid unwind.",
       "id": "178695ea-648d-4da0-a582-e6335bbc5f35",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "Industry pressure and capacity buildouts raise the odds of a formal CMS proposal, but statutory constraints and budget scoring may delay action.",
       "id": "c90daed2-7ddb-4d7c-a990-9ce142be7d47",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Heightened U.S.-China infrastructure contest increases odds of a Panama move, but legal complexity and economic risk make outright termination less than even.",
       "id": "6d148886-010e-4825-a761-4b459027e3fd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

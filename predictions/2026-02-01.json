@@ -1,0 +1,195 @@
+{
+  "date": "2026-02-01",
+  "predictions": [
+    {
+      "text": "Waymo will publicly confirm closing a single equity financing round of at least $12.0 billion in disclosed proceeds by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 149,
+      "deadline": "2026-06-30",
+      "confidence_pct": 60,
+      "log_odds": 0.4055,
+      "verification_criteria": "Resolves YES if Waymo/Alphabet (or lead investors) issue a press release, blog post, or SEC filing stating the round is closed/raised and discloses aggregate proceeds >= $12.0B (or multiple tranches explicitly described as one round totaling >= $12.0B).",
+      "evidence": [
+        "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/"
+      ],
+      "monitoring_signals": [
+        "Waymo/Alphabet investor relations filings and press releases",
+        "Term sheet leaks naming lead investor(s) and round size",
+        "PitchBook/CB Insights round-close entries",
+        "Regulatory notices for large private placements (where applicable)"
+      ],
+      "rationale": "Reported late-stage fundraising size is very large but plausible given capex needs and strong AI/AV capital demand; closure timing is uncertain but a 5-month window is reasonable.",
+      "id": "e8aedb6a-3b43-4bd2-a866-cdd7b463b443",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The FCC will issue a public notice accepting for filing (or otherwise docketing for public comment) SpaceX\u2019s application(s) for its proposed 'satellite data center' / orbital data-center units, by 2026-05-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 119,
+      "deadline": "2026-05-31",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Resolves YES if an FCC ECFS/IBFS docket and/or FCC public notice explicitly references SpaceX (or a wholly owned subsidiary) and an application to deploy orbital 'data center' satellites/units consistent with the reported concept, and indicates acceptance for filing, pleading cycle, or public comment schedule.",
+      "evidence": [
+        "https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/"
+      ],
+      "monitoring_signals": [
+        "FCC ECFS searches for SpaceX filings mentioning data centers/orbital compute",
+        "FCC International Bureau public notices and satellite application lists",
+        "Industry analyst notes on SpaceX non-Starlink satellite proposals"
+      ],
+      "rationale": "If SpaceX is serious, a formal FCC process step (acceptance/docketing) is a likely near-term milestone; timeline depends on application completeness and FCC workload.",
+      "id": "895bd1b5-a5d1-43e7-a3aa-503ba12686b4",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CoStar Group will announce either (a) a settlement with Third Point/Dan Loeb that includes appointing at least one new independent director, or (b) a unilateral appointment of at least one new independent director, by 2026-08-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 211,
+      "deadline": "2026-08-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Resolves YES if CoStar issues a press release, 8-K, proxy filing, or board update naming at least one newly appointed director described as independent, with announcement date on/before the deadline; may be tied explicitly to Third Point or not.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/31/activist-dan-loeb-dusts-off-his-poison-pen-as-he-seeks-a-board-refresh-at-costar-group.html"
+      ],
+      "monitoring_signals": [
+        "CoStar 8-K filings and board/governance webpage updates",
+        "Third Point letters/13D amendments indicating negotiations",
+        "Proxy advisor commentary (ISS/Glass Lewis) and annual meeting materials"
+      ],
+      "rationale": "Activist campaigns often culminate in board refreshes; however, management resistance and timing around the proxy calendar create meaningful uncertainty.",
+      "id": "48ed7484-bc3f-4d9d-bcb7-99de5c21e6d0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Kraft Heinz will publicly announce a strategic review that includes evaluating a breakup/spin or sale of a major business segment or brand portfolio representing at least $2.0 billion in annual net sales (as cited in the announcement), by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 333,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "Resolves YES if Kraft Heinz press releases, investor presentation, or SEC filings explicitly state it is reviewing options including spin/breakup or sale for a segment/portfolio and provides (or clearly implies via segment reporting) annual net sales >= $2.0B for the assets under review.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/31/kraft-heinz-kellogg-breakups-show-big-food-is-getting-smaller.html"
+      ],
+      "monitoring_signals": [
+        "KHC earnings calls language on portfolio actions and bankers retained",
+        "Rumors of divestiture processes for specific brand groups",
+        "Activist/analyst notes pushing sum-of-the-parts restructurings"
+      ],
+      "rationale": "Packaged-food restructuring pressure is rising; still, an explicit strategic review with size disclosure is a high bar and may be delayed by execution risk and valuation.",
+      "id": "46a98242-e7b6-4aa1-8582-c3bf686a98a9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A U.S. congressional committee (House or Senate) will hold a public hearing that explicitly references allegations that WhatsApp chats \u201caren\u2019t private\u201d (or equivalent language) and discusses end-to-end encryption/privacy assurances, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 149,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Resolves YES if an official committee hearing notice, transcript, or video title/agenda includes WhatsApp and explicitly addresses the cited privacy allegation (or the specific investigation claim) and E2EE/privacy assurances.",
+      "evidence": [
+        "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private"
+      ],
+      "monitoring_signals": [
+        "House Energy & Commerce / Judiciary and Senate Judiciary / Commerce hearing calendars",
+        "Witness lists including Meta, Signal, Apple, Google, or DOJ/FBI",
+        "New letters from members of Congress requesting WhatsApp disclosures"
+      ],
+      "rationale": "Congress often uses high-profile privacy allegations to anchor hearings, but calendar competition and classified sensitivities reduce likelihood within 5 months.",
+      "id": "8c400122-8a9e-40f8-8efc-67a97a8bd614",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Bitcoin (BTC-USD) will have at least one daily close below $70,000 on a major reference price index (e.g., Coin Metrics or Coinbase spot close) by 2026-04-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 88,
+      "deadline": "2026-04-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Resolves YES if BTC-USD posts at least one daily close < 70,000 (UTC-based day) on Coin Metrics reference rate, or if unavailable, Coinbase BTC-USD daily close < 70,000 (documented).",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/31/bitcoin-dips-below-78000-after-silver-selloff.html"
+      ],
+      "monitoring_signals": [
+        "Crypto volatility (DVOL/BVOL) and perp funding rates",
+        "ETF flow data and stablecoin issuance/redemptions",
+        "Macro risk-off moves linked to Fed policy and yields"
+      ],
+      "rationale": "Given recent cross-asset volatility and crypto\u2019s drawdown behavior, a ~10% additional drop from recent levels is plausible within a 3-month window.",
+      "id": "0a6ac0dd-bec7-41c5-a3af-934c11c43070",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Senate Banking Committee will hold a public hearing for the President\u2019s nominee to be the next Federal Reserve Chair (Powell\u2019s successor), by 2026-03-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 58,
+      "deadline": "2026-03-31",
+      "confidence_pct": 65,
+      "log_odds": 0.619,
+      "verification_criteria": "Resolves YES if the Senate Banking Committee publishes an official hearing notice and/or webcast page for the Fed Chair nominee confirmation hearing on or before the deadline.",
+      "evidence": [
+        "https://www.marketwatch.com/story/warsh-pick-doesnt-end-talk-that-powell-may-stay-on-to-protect-feds-independence-26e9175b"
+      ],
+      "monitoring_signals": [
+        "White House nomination announcement and transmitted paperwork to Senate",
+        "Senate Banking Committee calendar updates",
+        "Press reports on vetting completion and hearing scheduling"
+      ],
+      "rationale": "Once a nominee is named, committees typically schedule hearings quickly; delays are possible if paperwork/vetting issues arise or if Senate time is constrained.",
+      "id": "f2d915b4-7ef5-4c93-a235-1c882c0cc235",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NHTSA (or USDOT) will publish a public research note, safety advisory, or formal guidance explicitly addressing adversarial/prompt-injection-style attacks on road signs or visual cues that could mislead ADAS/autonomous driving perception systems, by 2026-11-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 302,
+      "deadline": "2026-11-30",
+      "confidence_pct": 30,
+      "log_odds": -0.8473,
+      "verification_criteria": "Resolves YES if NHTSA or USDOT posts an official document (PDF/webpage) explicitly describing adversarial manipulation of road signs/visual prompts to mislead vehicle AI/perception, and frames it as a safety/security risk with recommendations or research findings.",
+      "evidence": [
+        "https://www.theregister.com/2026/01/30/road_sign_hijack_ai/"
+      ],
+      "monitoring_signals": [
+        "NHTSA ODI publications and USDOT ITS/JPO releases",
+        "AV safety framework updates and workshop agendas",
+        "Academic/industry disclosures that spur regulator response"
+      ],
+      "rationale": "The vulnerability is salient and regulator-relevant, but NHTSA may treat it as research rather than issuing explicit guidance, making publication within the year uncertain.",
+      "id": "f2420db7-aaec-4692-be3d-88a14ccb8383",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The UK Prime Minister will make an official visit to China and meet with Xi Jinping in Beijing (or at another official venue in China), by 2026-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 333,
+      "deadline": "2026-12-31",
+      "confidence_pct": 25,
+      "log_odds": -1.0986,
+      "verification_criteria": "Resolves YES if the UK government, China\u2019s MFA/Xinhua, or reputable major media report an official UK PM visit to China with a bilateral meeting with Xi Jinping occurring on/before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/01/30/china-beijing-trade-tariffs-trump-starmer-carney.html"
+      ],
+      "monitoring_signals": [
+        "Downing Street travel schedules and readouts",
+        "Chinese MFA announcements of high-level UK delegation visits",
+        "Trade/investment dialogues restarted or upgraded"
+      ],
+      "rationale": "Allies exploring hedges raises odds of a high-level reset, but domestic politics and security frictions can easily postpone a PM-Xi meeting beyond 2026.",
+      "id": "91a604aa-0160-44dd-abbd-8feaaf2eaa96",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

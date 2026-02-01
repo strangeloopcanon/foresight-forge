@@ -1781,3 +1781,12 @@ All other forecasts remain pending because today’s provided news does not cont
 
 ---
 
+
+## 2026-01-31
+
+The main forecast-relevant development in today’s news is reporting that Kevin Warsh has been picked/considered as the Fed chair choice, which moves the first prediction closer to plausibility. However, the prediction’s condition is Senate confirmation by a later deadline; today’s items do not establish that confirmation has occurred (and one headline explicitly notes ongoing talk about Powell potentially staying), so the correct status remains pending.
+
+Separately, market news references a “silver sell-off,” which is directionally related to the silver-volatility prediction, but it does not provide the precise, checkable criterion (a ≥15% close-to-close XAG/USD move on at least one day). The remainder of the predictions (PPI print threshold; DOJ charges for a proxy network; CISA Ollama advisory; UN liquidity-driven measures; OPEC+ cuts extension; CMS obesity-drug coverage proposal; Panama port concession actions) are not addressed by today’s headlines and therefore remain pending.
+
+---
+

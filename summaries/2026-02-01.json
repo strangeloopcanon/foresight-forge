@@ -1,0 +1,115 @@
+{
+  "bullets": [
+    {
+      "text": "Fed chair succession uncertainty persists; Warsh pick doesn\u2019t end speculation Powell could stay to protect perceived Fed independence, affecting rate-path expectations and risk assets.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/warsh-pick-doesnt-end-talk-that-powell-may-stay-on-to-protect-feds-independence-26e9175b"
+    },
+    {
+      "text": "Bitcoin falls below ~$79k as markets digest cross-asset volatility and Fed-chair news, underscoring crypto sensitivity to liquidity expectations and sentiment.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/01/31/bitcoin-dips-below-78000-after-silver-selloff.html"
+    },
+    {
+      "text": "Berkshire portfolio shifts: American Express challenges Apple for top weighting, signaling evolving conviction in payments/consumer finance relative to mega-cap tech.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/01/31/american-express-challenges-apple-for-no-1-slot-in-berkshires-portfolio.html"
+    },
+    {
+      "text": "Big Food restructures via divestitures/breakups as consumers shift away from packaged snacks; highlights margin pressure and portfolio rationalization across staples.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/31/kraft-heinz-kellogg-breakups-show-big-food-is-getting-smaller.html"
+    },
+    {
+      "text": "Activist pressure rises: Dan Loeb seeks CoStar board refresh, reinforcing governance scrutiny and potential strategic shifts in property-tech and data businesses.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/01/31/activist-dan-loeb-dusts-off-his-poison-pen-as-he-seeks-a-board-refresh-at-costar-group.html"
+    },
+    {
+      "text": "Allies hedge against U.S. disruptions: leaders flock to Beijing and pursue parallel trade ties, potentially accelerating bloc fragmentation and weakening U.S. leverage.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/01/30/china-beijing-trade-tariffs-trump-starmer-carney.html"
+    },
+    {
+      "text": "Israel launches strikes in Gaza; renewed escalation risks regional spillovers, humanitarian strain, and heightened geopolitical risk premium across energy and shipping corridors.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/01/31/world/middleeast/israel-strikes-gaza-rafah-reopening.html"
+    },
+    {
+      "text": "U.S. immigration enforcement intensifies: judge denies bid to block ICE surge in Minnesota while separate ruling orders release of detained 5-year-old; raises legal and political risk.",
+      "tags": [
+        "geopolitics",
+        "other"
+      ],
+      "link": "https://www.cnbc.com/2026/01/31/federal-judge-denies-bid-to-end-ice-operation-metro-surge-in-minnesota.html"
+    },
+    {
+      "text": "Waymo reportedly raising ~$16B, signaling continued investor appetite for autonomous driving despite heavy capex and regulatory uncertainty.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/"
+    },
+    {
+      "text": "SpaceX seeks approval for 1M solar-powered satellite data-center units, implying ambitious orbital compute infrastructure that could disrupt cloud, connectivity, and space-traffic governance.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/"
+    },
+    {
+      "text": "U.S. investigated claims WhatsApp chats aren\u2019t private, increasing scrutiny of end-to-end encryption assurances and raising compliance and platform-risk for Meta and messaging ecosystems.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private"
+    },
+    {
+      "text": "Autonomous systems vulnerable to prompt-injection via road signs; highlights safety and security gaps in AI perception stacks with implications for autonomous vehicles, drones, and regulation.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://www.theregister.com/2026/01/30/road_sign_hijack_ai/"
+    },
+    {
+      "text": "Science advances: researchers explain statin muscle pain mechanism, potentially enabling safer lipid therapies and improving adherence\u2014important for cardiovascular outcomes and drug development.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260131084610.htm"
+    },
+    {
+      "text": "Public-health lever: gradual reformulation reducing sodium in everyday foods could avert thousands of deaths, signaling large payoff from low-cost nutrition policy and industry standards.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/01/260131082433.htm"
+    }
+  ]
+}
