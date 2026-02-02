@@ -20,7 +20,7 @@
       ],
       "rationale": "Reported late-stage fundraising size is very large but plausible given capex needs and strong AI/AV capital demand; closure timing is uncertain but a 5-month window is reasonable.",
       "id": "e8aedb6a-3b43-4bd2-a866-cdd7b463b443",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "If SpaceX is serious, a formal FCC process step (acceptance/docketing) is a likely near-term milestone; timeline depends on application completeness and FCC workload.",
       "id": "895bd1b5-a5d1-43e7-a3aa-503ba12686b4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Activist campaigns often culminate in board refreshes; however, management resistance and timing around the proxy calendar create meaningful uncertainty.",
       "id": "48ed7484-bc3f-4d9d-bcb7-99de5c21e6d0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Packaged-food restructuring pressure is rising; still, an explicit strategic review with size disclosure is a high bar and may be delayed by execution risk and valuation.",
       "id": "46a98242-e7b6-4aa1-8582-c3bf686a98a9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "Congress often uses high-profile privacy allegations to anchor hearings, but calendar competition and classified sensitivities reduce likelihood within 5 months.",
       "id": "8c400122-8a9e-40f8-8efc-67a97a8bd614",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Given recent cross-asset volatility and crypto\u2019s drawdown behavior, a ~10% additional drop from recent levels is plausible within a 3-month window.",
       "id": "0a6ac0dd-bec7-41c5-a3af-934c11c43070",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "40-50"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Once a nominee is named, committees typically schedule hearings quickly; delays are possible if paperwork/vetting issues arise or if Senate time is constrained.",
       "id": "f2d915b4-7ef5-4c93-a235-1c882c0cc235",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "The vulnerability is salient and regulator-relevant, but NHTSA may treat it as research rather than issuing explicit guidance, making publication within the year uncertain.",
       "id": "f2420db7-aaec-4692-be3d-88a14ccb8383",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Allies exploring hedges raises odds of a high-level reset, but domestic politics and security frictions can easily postpone a PM-Xi meeting beyond 2026.",
       "id": "91a604aa-0160-44dd-abbd-8feaaf2eaa96",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

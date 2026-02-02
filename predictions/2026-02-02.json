@@ -1,0 +1,225 @@
+{
+  "date": "2026-02-02",
+  "predictions": [
+    {
+      "text": "The current U.S. federal government shutdown that began in early February 2026 will end (a funding law is enacted and OMB/OPM announce reopening) by 2026-02-04 (UTC).",
+      "category": "macro",
+      "horizon_days": 2,
+      "deadline": "2026-02-04",
+      "confidence_pct": 65,
+      "log_odds": 0.6190392084062235,
+      "verification_criteria": "Resolves YES if by the deadline Congress passes and the President signs a CR/appropriations law restoring funding and major agencies publicly confirm reopening/normal operations; otherwise NO.",
+      "evidence": [
+        "Speaker Johnson said he\u2019s confident the shutdown will end by Tuesday (CNBC, 2026-02-01): https://www.cnbc.com/2026/02/01/government-shutdown-mike-johnson.html"
+      ],
+      "monitoring_signals": [
+        "House/Senate vote schedule for CR/omnibus",
+        "White House signing statement / bill enactment notice",
+        "OPM/OMB and major agency reopening notices",
+        "CBO/appropriations trackers and congressional leadership statements"
+      ],
+      "rationale": "Leadership signaling and political pressure typically accelerate short shutdown resolutions; Tuesday-specific guidance makes a near-term end more likely than not.",
+      "id": "8f292ec9-c867-4f79-a296-c036305e6606",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Oracle will publicly price and close new debt financing in 2026 totaling at least $20.0 billion (USD) gross proceeds (aggregate across one or more offerings) to fund AI/data-center expansion by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 332,
+      "deadline": "2026-12-31",
+      "confidence_pct": 55,
+      "log_odds": 0.20067069546215124,
+      "verification_criteria": "Resolves YES if Oracle (or underwriters) announce priced bond(s)/notes/convertibles in 2026 and disclosed gross proceeds sum to >=$20.0B by the deadline; otherwise NO.",
+      "evidence": [
+        "Oracle plans to raise up to $50B this year to fund AI expansion (MarketWatch, 2026-02-01): https://www.marketwatch.com/story/oracle-amps-up-its-ai-bet-with-a-plan-to-raise-as-much-as-50-billion-this-year-872a2dba"
+      ],
+      "monitoring_signals": [
+        "Oracle 8-Ks, press releases, and earnings call commentary on financing",
+        "Investment bank syndicate/pricing press releases and term sheets",
+        "Credit rating agency actions (Moody\u2019s/S&P/Fitch) tied to new issuance",
+        "Bond market calendars (Bloomberg/Refinitiv new issue feeds)"
+      ],
+      "rationale": "Management\u2019s stated fundraising ambition and capex needs make sizable issuance plausible, but scale/timing depend on market conditions and alternative funding routes.",
+      "id": "42f2ebaf-dc6d-481d-897a-23b9c9708146",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CISA will publish an alert/advisory (AA/MAR/ICS/other) explicitly referencing the Notepad++ distribution/update-channel hijack (or 'Notepad++' compromise) with mitigation guidance by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 57,
+      "deadline": "2026-03-31",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Resolves YES if cisa.gov publishes an official alert/advisory that names Notepad++ and describes the hijack/compromise plus recommended mitigations by the deadline; otherwise NO.",
+      "evidence": [
+        "Notepad++ reported its distribution was hijacked by state-sponsored actors (Notepad++ incident update): https://notepad-plus-plus.org/news/hijacked-incident-info-update/"
+      ],
+      "monitoring_signals": [
+        "CISA news/alerts RSS and GitHub advisories referencing Notepad++",
+        "US-CERT/CISA social posts about supply-chain compromises",
+        "Vendor follow-up incident reports and IoCs",
+        "Downstream EDR/AV detections and threat-intel writeups"
+      ],
+      "rationale": "High-profile supply-chain compromises often trigger CISA dissemination of mitigations/IoCs, but CISA may defer to vendor and private-sector reporting.",
+      "id": "279e0b2f-93aa-4c33-932e-d1b61543e1ba",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CME Group will increase initial margin requirements by at least 10% for at least one of its gold or silver futures contracts (COMEX) due to volatility, effective by 2026-02-28 (UTC).",
+      "category": "markets",
+      "horizon_days": 26,
+      "deadline": "2026-02-28",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081081643,
+      "verification_criteria": "Resolves YES if CME publishes a margin advisory showing an initial margin hike of >=10% versus the immediately prior level for GC/SI (or related main contract) effective by the deadline; otherwise NO.",
+      "evidence": [
+        "Gold and silver experienced a historic plunge with elevated volatility (CNBC, 2026-02-02): https://www.cnbc.com/2026/02/02/gold-silver-sell-off-historic-plunge-.html"
+      ],
+      "monitoring_signals": [
+        "CME margin circulars/advisories for GC and SI",
+        "Implied volatility and intraday range spikes in metals",
+        "Clearing member communications on risk add-ons",
+        "Open interest/liquidity stress indicators"
+      ],
+      "rationale": "Large spot moves frequently lead to margin adjustments, but CME may wait for volatility to persist and clearinghouse risk metrics to breach thresholds.",
+      "id": "76ae534d-4935-4100-bbc9-2f66e615aa85",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one automaker or battery manufacturer will announce a cancellation, indefinite pause, or delay of at least 6 months for a previously announced EV/battery manufacturing project located in the U.S. South (AL, GA, KY, MS, NC, SC, TN, TX) by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 148,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.20067069546215124,
+      "verification_criteria": "Resolves YES if a company press release/SEC filing/government statement confirms cancellation/pause or schedule slip >=6 months for a named EV/battery plant in the listed states by the deadline; otherwise NO.",
+      "evidence": [
+        "EV demand pullback is hitting Southern U.S. factories and jobs (CNBC, 2026-02-01): https://www.cnbc.com/2026/02/01/ev-pullback-factories-jobs-south.html"
+      ],
+      "monitoring_signals": [
+        "Company capex revisions and earnings call remarks on EV capacity",
+        "State/local incentive renegotiations or clawback notices",
+        "Construction permitting/workforce hiring slowdowns",
+        "Battery supply contract deferrals and equipment order cancellations"
+      ],
+      "rationale": "Demand uncertainty and cost pressures often force schedule resets; however, political incentives and sunk costs can keep projects moving despite softer demand.",
+      "id": "1b4b6583-54d7-4181-83cf-e21f658a54d4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "AstraZeneca will begin trading on the NYSE as a primary listing (not only OTC/ADR continuation) following a public company announcement and exchange confirmation, by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 332,
+      "deadline": "2026-12-31",
+      "confidence_pct": 60,
+      "log_odds": 0.4054651081081642,
+      "verification_criteria": "Resolves YES if NYSE and AstraZeneca publicly confirm listing and AZN begins NYSE trading as a primary listing by the deadline; otherwise NO.",
+      "evidence": [
+        "AstraZeneca will list in New York while investing heavily in China (CNBC, 2026-02-01): https://www.cnbc.com/2026/02/01/astrazeneca-nyse-listing-china-pharma-pours-15-billion-into-china.html"
+      ],
+      "monitoring_signals": [
+        "AstraZeneca press releases on listing process/timeline",
+        "NYSE listing notices and ticker status updates",
+        "Regulatory filings related to listing structure",
+        "Investor relations presentations confirming listing mechanics"
+      ],
+      "rationale": "Company-stated intent suggests follow-through is likely, but legal/structural decisions and market timing can slip.",
+      "id": "f09bde1a-7559-422f-b2d9-abb6af415e7d",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The Government of India will publish an official Gazette notification or equivalent statutory instrument implementing a zero-tax (or tax-holiday) regime specifically targeting AI compute/data-center workloads, by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 148,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084062235,
+      "verification_criteria": "Resolves YES if an official Indian government publication (Gazette/Ministry notification) establishes a tax exemption/holiday explicitly tied to AI workloads/data centers as described by the deadline; otherwise NO.",
+      "evidence": [
+        "India offered zero taxes through 2047 to attract global AI workloads (TechCrunch, 2026-02-01): https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/"
+      ],
+      "monitoring_signals": [
+        "Indian Ministry of Finance/MeitY notifications and budget follow-ons",
+        "Gazette of India publications referencing AI/data centers/compute incentives",
+        "Industry association commentary (NASSCOM) on implementing rules",
+        "Major hyperscaler statements contingent on policy details"
+      ],
+      "rationale": "Announced incentives often require detailed implementing rules; timeline risk is high due to inter-ministry coordination and fiscal tradeoffs.",
+      "id": "3d3071f9-727c-4239-908a-085bc4a9ccdd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A U.S. House committee (any standing committee) will publicly request documents or open an inquiry explicitly referencing foreign (e.g., UAE-linked) investment in the Trump family crypto venture 'World Liberty' (or equivalent named entity), by 2026-09-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 240,
+      "deadline": "2026-09-30",
+      "confidence_pct": 33,
+      "log_odds": -0.7081850579244852,
+      "verification_criteria": "Resolves YES if a House committee publishes a letter, press release, or hearing notice explicitly citing UAE-linked/foreign investment in World Liberty (or the named venture) as an inquiry subject by the deadline; otherwise NO.",
+      "evidence": [
+        "UAE-linked investor quietly took a stake in Trump family crypto venture (NYT, 2026-02-01): https://www.nytimes.com/2026/02/01/us/politics/trump-crypto-uae-world-liberty.html"
+      ],
+      "monitoring_signals": [
+        "House committee press releases and member letters",
+        "FEC/ethics-related public filings and watchdog reports",
+        "Media follow-ups naming investors and transaction details",
+        "DOJ/FinCEN/OFAC public actions that could spur congressional interest"
+      ],
+      "rationale": "Politically connected foreign-investment narratives often trigger oversight activity, but committee agendas and partisan control determine whether it formalizes.",
+      "id": "4a2c5d2e-6e2d-49bd-84a7-518325c32201",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The European Union will adopt a new Russia-related sanctions package (Council decision/regulation) that adds at least 50 new listings (persons and/or entities combined) by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 148,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.20067069546215124,
+      "verification_criteria": "Resolves YES if the EU Official Journal publishes a Russia sanctions update/package by the deadline with >=50 newly listed persons/entities versus the prior consolidated list; otherwise NO.",
+      "evidence": [
+        "Russia struck Ukraine\u2019s energy sector; continued infrastructure attacks keep escalation risks elevated (NYT, 2026-02-01): https://www.nytimes.com/2026/02/01/world/europe/russia-strikes-ukraine-energy-sector-killing-12-miners.html"
+      ],
+      "monitoring_signals": [
+        "EU Council agenda items and press briefings on Russia sanctions",
+        "EU Official Journal sanctions publications",
+        "Member-state statements (e.g., Germany/France/Poland) pushing new measures",
+        "G7 coordination communiqu\u00e9s"
+      ],
+      "rationale": "EU sanctions updates have been frequent; the threshold is mostly about package size and political cohesion rather than whether any action occurs.",
+      "id": "96780726-dafc-4fb9-9e00-e8d93a571ad9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "WHO will publish a public Disease Outbreak News (DON) item, technical brief, or press briefing note explicitly referencing the newly reported bat virus infecting humans (as described in January 2026 reporting), by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 332,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "log_odds": -0.8472978603872036,
+      "verification_criteria": "Resolves YES if a WHO web publication/briefing explicitly mentions the specific newly reported bat virus infecting humans (by name or unambiguous description tied to the report) by the deadline; otherwise NO.",
+      "evidence": [
+        "Researchers report a hidden bat virus infecting humans (ScienceDaily, 2026-01-31): https://www.sciencedaily.com/releases/2026/01/260131084131.htm"
+      ],
+      "monitoring_signals": [
+        "WHO DON RSS feed and Emergencies updates",
+        "ProMED/HealthMap alerts and national public health advisories",
+        "Follow-on peer-reviewed publications clarifying transmissibility/severity",
+        "Genomic surveillance releases (GISAID/NCBI) and case clusters"
+      ],
+      "rationale": "WHO coverage depends on evidence of spread/severity and member-state reporting; many spillover reports do not trigger WHO DON unless broader risk emerges.",
+      "id": "652d6855-143a-4705-bf42-f41c725790bd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

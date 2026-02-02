@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-01",
+  "assessments": [
+    {
+      "id": "e8aedb6a-3b43-4bd2-a866-cdd7b463b443",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no mention of Waymo announcing or confirming an equity financing round, let alone a single disclosed round of \u2265$12B."
+    },
+    {
+      "id": "895bd1b5-a5d1-43e7-a3aa-503ba12686b4",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates the FCC issued a public notice accepting/docketing any SpaceX 'satellite data center' / orbital data-center application for comment."
+    },
+    {
+      "id": "48ed7484-bc3f-4d9d-bcb7-99de5c21e6d0",
+      "status": "pending",
+      "status_rationale": "No coverage here references CoStar, Third Point/Dan Loeb, a settlement, or any independent director appointment tied to that dispute."
+    },
+    {
+      "id": "46a98242-e7b6-4aa1-8582-c3bf686a98a9",
+      "status": "pending",
+      "status_rationale": "Nothing in the provided bullets reports Kraft Heinz announcing a strategic review involving a breakup/spin or sale of a major \u2265$2B net-sales segment/portfolio."
+    },
+    {
+      "id": "8c400122-8a9e-40f8-8efc-67a97a8bd614",
+      "status": "pending",
+      "status_rationale": "No bullet indicates a House/Senate committee held a hearing explicitly referencing claims that WhatsApp chats \u201caren\u2019t private\u201d (or equivalent) and discussing end-to-end encryption/privacy assurances."
+    },
+    {
+      "id": "0a6ac0dd-bec7-41c5-a3af-934c11c43070",
+      "status": "needs-clarification",
+      "status_rationale": "One bullet notes bitcoin had a 'weekend drop' affecting stock futures, but it does not state whether BTC had a daily close below $70,000 on a major reference index. The threshold/close requirement is not evidenced in the bullets."
+    },
+    {
+      "id": "f2d915b4-7ef5-4c93-a235-1c882c0cc235",
+      "status": "pending",
+      "status_rationale": "No item indicates the Senate Banking Committee held a public hearing for a nominee to be the next Fed Chair (Powell\u2019s successor)."
+    },
+    {
+      "id": "f2420db7-aaec-4692-be3d-88a14ccb8383",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s bullets suggests NHTSA/USDOT issued a research note, advisory, or guidance explicitly addressing adversarial/prompt-injection-style attacks on road signs/visual cues for ADAS/AV systems."
+    },
+    {
+      "id": "91a604aa-0160-44dd-abbd-8feaaf2eaa96",
+      "status": "pending",
+      "status_rationale": "No bullet references a UK Prime Minister visit to China or a meeting with Xi Jinping in China."
+    }
+  ]
+}

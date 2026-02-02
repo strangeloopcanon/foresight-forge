@@ -1790,3 +1790,12 @@ Separately, market news references a “silver sell-off,” which is directional
 
 ---
 
+
+## 2026-02-01
+
+Today’s news is heavily weighted toward U.S. politics/legal developments, climate/weather impacts, and markets/commodities, with little overlap with the specific regulatory/corporate-governance/transportation-policy triggers in the prediction set. As a result, most items remain pending due to lack of relevant evidence rather than disconfirmation.
+
+The only partial intersection is the bitcoin-related market coverage noting a weekend drop; however, the forecast’s criterion is precise (a daily close below $70,000 on a major reference index) and the provided bullet does not confirm that threshold or an official closing value. To resolve that prediction’s status, a contemporaneous price-index close (Coin Metrics/Coinbase close) would be needed. All other forecasts show no confirming signals in today’s bullets and remain open ahead of their 2026 deadlines.
+
+---
+
