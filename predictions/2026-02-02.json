@@ -20,7 +20,7 @@
       ],
       "rationale": "Leadership signaling and political pressure typically accelerate short shutdown resolutions; Tuesday-specific guidance makes a near-term end more likely than not.",
       "id": "8f292ec9-c867-4f79-a296-c036305e6606",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Management\u2019s stated fundraising ambition and capex needs make sizable issuance plausible, but scale/timing depend on market conditions and alternative funding routes.",
       "id": "42f2ebaf-dc6d-481d-897a-23b9c9708146",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "High-profile supply-chain compromises often trigger CISA dissemination of mitigations/IoCs, but CISA may defer to vendor and private-sector reporting.",
       "id": "279e0b2f-93aa-4c33-932e-d1b61543e1ba",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Large spot moves frequently lead to margin adjustments, but CME may wait for volatility to persist and clearinghouse risk metrics to breach thresholds.",
       "id": "76ae534d-4935-4100-bbc9-2f66e615aa85",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Demand uncertainty and cost pressures often force schedule resets; however, political incentives and sunk costs can keep projects moving despite softer demand.",
       "id": "1b4b6583-54d7-4181-83cf-e21f658a54d4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Company-stated intent suggests follow-through is likely, but legal/structural decisions and market timing can slip.",
       "id": "f09bde1a-7559-422f-b2d9-abb6af415e7d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Announced incentives often require detailed implementing rules; timeline risk is high due to inter-ministry coordination and fiscal tradeoffs.",
       "id": "3d3071f9-727c-4239-908a-085bc4a9ccdd",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "30-40"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Politically connected foreign-investment narratives often trigger oversight activity, but committee agendas and partisan control determine whether it formalizes.",
       "id": "4a2c5d2e-6e2d-49bd-84a7-518325c32201",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "EU sanctions updates have been frequent; the threshold is mostly about package size and political cohesion rather than whether any action occurs.",
       "id": "96780726-dafc-4fb9-9e00-e8d93a571ad9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -218,7 +218,7 @@
       ],
       "rationale": "WHO coverage depends on evidence of spread/severity and member-state reporting; many spillover reports do not trigger WHO DON unless broader risk emerges.",
       "id": "652d6855-143a-4705-bf42-f41c725790bd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

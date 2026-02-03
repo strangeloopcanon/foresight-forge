@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-02",
+  "assessments": [
+    {
+      "id": "8f292ec9-c867-4f79-a296-c036305e6606",
+      "status": "pending",
+      "status_rationale": "As of 2026-02-02, reporting indicates a partial government shutdown is still ongoing (e.g., delayed jobs report; House hardliners complicating an end). The prediction\u2019s deadline (2026-02-04 UTC) has not yet passed, and there is no evidence of enacted funding and an OMB/OPM reopening announcement."
+    },
+    {
+      "id": "42f2ebaf-dc6d-481d-897a-23b9c9708146",
+      "status": "pending",
+      "status_rationale": "No items in today\u2019s news bullets report Oracle pricing/closing \u2265$20B of new debt financing in 2026 for AI/data-center expansion; the deadline is 2026-12-31."
+    },
+    {
+      "id": "279e0b2f-93aa-4c33-932e-d1b61543e1ba",
+      "status": "pending",
+      "status_rationale": "No bullet indicates CISA has issued an alert/advisory explicitly referencing a Notepad++ distribution/update-channel hijack/compromise; deadline is 2026-03-31."
+    },
+    {
+      "id": "76ae534d-4935-4100-bbc9-2f66e615aa85",
+      "status": "pending",
+      "status_rationale": "While there is mention of unusual trading dynamics/volatility in silver markets, there is no cited CME notice increasing initial margins by \u226510% for COMEX gold or silver futures. Deadline is 2026-02-28."
+    },
+    {
+      "id": "1b4b6583-54d7-4181-83cf-e21f658a54d4",
+      "status": "pending",
+      "status_rationale": "No news bullet reports an automaker/battery maker canceling/pausing/delaying by \u22656 months an EV/battery project in the specified U.S. South states; deadline is 2026-06-30."
+    },
+    {
+      "id": "f09bde1a-7559-422f-b2d9-abb6af415e7d",
+      "status": "pending",
+      "status_rationale": "No bullet indicates AstraZeneca announced and confirmed a NYSE primary listing (beyond ADR/OTC). Deadline is 2026-12-31."
+    },
+    {
+      "id": "3d3071f9-727c-4239-908a-085bc4a9ccdd",
+      "status": "needs-clarification",
+      "status_rationale": "Today\u2019s news references India offering long-term tax breaks to attract AI/data-center investment, but it does not establish that an official Gazette notification (or equivalent statutory instrument) has implemented a zero-tax/tax-holiday regime specifically targeting AI compute/data-center workloads as defined in the prediction. Confirmation would require the actual statutory instrument and its terms."
+    },
+    {
+      "id": "4a2c5d2e-6e2d-49bd-84a7-518325c32201",
+      "status": "pending",
+      "status_rationale": "No bullet describes a U.S. House standing committee requesting documents or opening an inquiry explicitly about foreign investment (e.g., UAE-linked) in the Trump family crypto venture 'World Liberty' (or equivalent). Deadline is 2026-09-30."
+    },
+    {
+      "id": "96780726-dafc-4fb9-9e00-e8d93a571ad9",
+      "status": "pending",
+      "status_rationale": "No bullet reports the EU adopting a new Russia-related sanctions package adding \u226550 new listings; deadline is 2026-06-30."
+    },
+    {
+      "id": "652d6855-143a-4705-bf42-f41c725790bd",
+      "status": "pending",
+      "status_rationale": "No bullet indicates WHO published a DON/technical brief/press note explicitly referencing the newly reported bat virus infecting humans; deadline is 2026-12-31."
+    }
+  ]
+}

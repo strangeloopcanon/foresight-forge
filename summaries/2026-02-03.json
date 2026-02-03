@@ -1,0 +1,123 @@
+{
+  "bullets": [
+    {
+      "text": "Partial U.S. government shutdown will delay the monthly jobs report, raising near-term data uncertainty for markets and Fed expectations.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/02/02/fridays-jobs-report-will-be-delayed-because-of-the-partial-government-shutdown.html"
+    },
+    {
+      "text": "Trump says U.S.-India trade deal will cut tariffs immediately; risk-on sentiment lifted Asian equities, highlighting trade policy as a key macro catalyst.",
+      "tags": [
+        "macro",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/02/trump-india-trade-deal-tariffs.html"
+    },
+    {
+      "text": "Trump urges DOJ to pursue a Powell probe; perceived political pressure on the Fed could increase policy uncertainty and risk premia.",
+      "tags": [
+        "rates",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/02/trump-powell-pirro-warsh-fed-tillis.html"
+    },
+    {
+      "text": "SpaceX acquires xAI, consolidating Musk\u2019s space and AI efforts; integration could accelerate AI-in-space ambitions but complicates governance ahead of any IPO.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/02/elon-musk-spacex-xai-ipo.html"
+    },
+    {
+      "text": "Waymo raises $16B to expand robotaxis internationally, signaling deep capital needs and intensifying the autonomous-mobility race.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/02/waymo-announced-16-billion-fundraising-round.html"
+    },
+    {
+      "text": "Palantir posts another strong quarter on AI and defense demand, reinforcing government-linked AI spending as a durable revenue driver.",
+      "tags": [
+        "tech",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/02/palantir-pltr-q4-2025-earnings.html"
+    },
+    {
+      "text": "Tesla shares fall on weak new sales data, underscoring EV demand softness and margin pressure amid intensifying price competition.",
+      "tags": [
+        "markets",
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-bleak-new-sales-figures-signal-more-pain-for-beleaguered-ev-business-ca1a7c50"
+    },
+    {
+      "text": "Housing affordability strain is pushing mortgage delinquencies higher, creating downside risk for consumer credit and housing-related sectors.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/02/mortgage-delinquencies-housing-affordability.html"
+    },
+    {
+      "text": "Court orders restart of U.S. offshore wind construction, reducing regulatory overhang and potentially unlocking delayed capex and supply-chain activity.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/"
+    },
+    {
+      "text": "Trump announces a critical-mineral reserve; rare-earth miners rally as policy shifts toward strategic stockpiling and supply-chain security.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/02/rare-earth-miners-jump-as-trump-is-reportedly-eyeing-mineral-stockpile-.html"
+    },
+    {
+      "text": "U.S. and Iranian officials plan talks amid Trump threats, raising geopolitical tail risks for Middle East security and oil-market volatility.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/02/world/middleeast/us-iran-meeting-trump-threats.html"
+    },
+    {
+      "text": "ICE crackdown is hurting Minnesota\u2019s local economy; DHS adds body cameras, highlighting policy-driven labor shocks and rising compliance/oversight costs.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/02/business/economy/minnesota-ice-economy-damage.html"
+    },
+    {
+      "text": "Moltbook breach reportedly exposed millions of API keys, illustrating escalating cybersecurity and supply-chain risk around new AI-agent platforms.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys"
+    },
+    {
+      "text": "New research argues AI misalignment can worsen with greater model intelligence and task complexity, implying rising safety costs as frontier models scale.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/"
+    }
+  ]
+}
