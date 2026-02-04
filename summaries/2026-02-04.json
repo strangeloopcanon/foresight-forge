@@ -1,0 +1,108 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. government shutdown ends, but ICE funding fight persists, keeping fiscal and political uncertainty elevated.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/03/briefing/shutdown-ice-funding-iran-drone.html"
+    },
+    {
+      "text": "U.S. fighter jet shoots down Iranian drone near aircraft carrier, signaling heightened Gulf tensions and potential shipping/energy risk premia.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/02/03/us-military-shoots-down-iranian-drone-that-aggressively-approached-aircraft-carrier.html"
+    },
+    {
+      "text": "Report flags possible fractures in China\u2019s leadership tied to paranoia and power plays, raising policy unpredictability for markets and regional security.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/03/us/politics/china-xi-military-purge.html"
+    },
+    {
+      "text": "Walmart hits $1 trillion market value, underscoring scale advantages and investor preference for cash-generative incumbents amid tech volatility.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/02/03/business/walmart-trillion-market-value.html"
+    },
+    {
+      "text": "Tech-led selloff drags the S&P 500; investors reassess AI winners versus disruption risk across software and adjacent credit exposures.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/stocks-fall-as-s-p-500-dragged-down-by-tech-is-the-selling-over-ef6fff84"
+    },
+    {
+      "text": "Oracle\u2019s $25B debt financing highlights rising capital intensity and funding anxiety for AI infrastructure builds as rates and leverage matter again.",
+      "tags": [
+        "markets",
+        "rates",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b"
+    },
+    {
+      "text": "AMD drops on weaker-than-hoped forecast, reinforcing uneven chip demand expectations beyond top AI GPU beneficiaries.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/03/amd-earnings-report-q4-2025.html"
+    },
+    {
+      "text": "Nvidia\u2013OpenAI mega-deal appears stalled; both still rely on each other, signaling negotiation friction without reducing near-term compute dependence.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/03/nvidia-openai-stalled-on-their-mega-deal-ai-giants-need-each-other.html"
+    },
+    {
+      "text": "Gold breaks above $5,000 while bitcoin dips below $73,000, showing a risk-off tilt and renewed demand for perceived hard-asset hedges.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/04/asia-markets-today-wednesday-wall-street-tech-selloff-futures-lower-ai-software-hang-seng-nikkei-kospi.html"
+    },
+    {
+      "text": "YC will allow founders to receive funding in stablecoins, nudging startup finance toward faster cross-border settlement and broader crypto rails adoption.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/"
+    },
+    {
+      "text": "Europe pushes digital sovereignty: France dumps Zoom/Teams; French authorities raid X offices as scrutiny of U.S. platforms and AI tools intensifies.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060"
+    },
+    {
+      "text": "Health officials warn neglected tropical diseases could resurge in Africa amid funding gaps, posing economic productivity and regional stability risks.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/03/health/neglected-tropical-diseases-usaid-ntds-river-blindness.html"
+    },
+    {
+      "text": "New catalyst converts CO2 into cleaner fuels, a potential step-change for decarbonization economics if scalable and energy-efficient in real-world systems.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260203030548.htm"
+    }
+  ]
+}

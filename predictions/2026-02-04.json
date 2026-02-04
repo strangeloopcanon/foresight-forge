@@ -1,0 +1,225 @@
+{
+  "date": "2026-02-04",
+  "predictions": [
+    {
+      "text": "The U.S. President will sign a full-year FY2026 DHS appropriations law (not a continuing resolution/stopgap) by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 55,
+      "deadline": "2026-03-31",
+      "confidence_pct": 38,
+      "log_odds": -0.49,
+      "verification_criteria": "Resolved YES if an enrolled bill becomes law (Public Law) explicitly appropriating DHS for FY2026 through 2026-09-30 (or equivalent full-year duration). Resolved NO if no such law is signed by the deadline.",
+      "evidence": [
+        "Shutdown/ICE funding uncertainty noted in NYT briefing (2026-02-03): https://www.nytimes.com/2026/02/03/briefing/shutdown-ice-funding-iran-drone.html"
+      ],
+      "monitoring_signals": [
+        "House/Senate Appropriations committee markups or released DHS bill text",
+        "CR extensions that exclude/include DHS",
+        "White House SAPs and signing statements",
+        "Congressional leadership deal announcements"
+      ],
+      "rationale": "Recent shutdown dynamics suggest near-term reliance on stopgaps; moving to a full-year DHS bill by end of March is plausible but politically difficult given ICE-related disputes.",
+      "id": "5b5b62ef-1dfd-4401-9a64-da4c0ba27006",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The European Commission will open formal Digital Services Act (DSA) proceedings against X (Twitter) via a published Commission press release/statement by 2026-04-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 85,
+      "deadline": "2026-04-30",
+      "confidence_pct": 44,
+      "log_odds": -0.241,
+      "verification_criteria": "YES if the European Commission publicly announces 'formal proceedings' (or equivalent DSA Article 66 language) against X by name. NO otherwise by deadline.",
+      "evidence": [
+        "Europe digital sovereignty and scrutiny of X reported by AP (2026-02-03): https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060"
+      ],
+      "monitoring_signals": [
+        "Commission DG CONNECT statements on VLOPs",
+        "DSA transparency database updates",
+        "French/EU regulator coordination announcements",
+        "X compliance/appeals filings and public responses"
+      ],
+      "rationale": "With heightened enforcement posture and cross-border pressure on U.S. platforms, a Commission step to formal proceedings is moderately likely within the next three months.",
+      "id": "f002f532-0f7a-4427-b50a-ed5a184a46b6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Neither OpenAI nor Nvidia will announce a completed equity investment by Nvidia into OpenAI by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 146,
+      "deadline": "2026-06-30",
+      "confidence_pct": 62,
+      "log_odds": 0.489,
+      "verification_criteria": "YES if, by the deadline, there is no OpenAI or Nvidia press release, SEC filing, or earnings-call confirmation stating Nvidia made an equity investment in OpenAI (completed/closed). NO if such a completed investment is publicly confirmed.",
+      "evidence": [
+        "Report that Nvidia\u2013OpenAI mega-deal appears stalled (CNBC, 2026-02-03): https://www.cnbc.com/2026/02/03/nvidia-openai-stalled-on-their-mega-deal-ai-giants-need-each-other.html"
+      ],
+      "monitoring_signals": [
+        "Nvidia 10-Q/10-K notes on investments and related parties",
+        "OpenAI partner announcements and board/financing updates",
+        "Major compute contracting announcements that include equity components",
+        "Media reporting on term sheets converting to closed rounds"
+      ],
+      "rationale": "Recent reporting emphasizes negotiation friction; closing an equity deal would require governance and disclosure steps that often leak. Absence by end of June is somewhat more likely than closure.",
+      "id": "da137d13-9d72-44ad-bdff-eb0355545b42",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The S&P 500 index will record at least one single-day close-to-close decline of 4.0% or more by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 55,
+      "deadline": "2026-03-31",
+      "confidence_pct": 33,
+      "log_odds": -0.708,
+      "verification_criteria": "YES if any trading day shows (Close_today / Close_prior_close - 1) <= -0.040 on the S&P 500 (SPX). NO if no such day occurs by deadline.",
+      "evidence": [
+        "Tech-led selloff dragging broader market noted by MarketWatch (2026-02-03): https://www.marketwatch.com/story/stocks-fall-as-s-p-500-dragged-down-by-tech-is-the-selling-over-ef6fff84"
+      ],
+      "monitoring_signals": [
+        "VIX level and term structure (backwardation)",
+        "Large-cap tech earnings surprises and guidance cuts",
+        "Credit spreads (IG/HY) widening and liquidity stress",
+        "Major geopolitical escalations affecting risk assets"
+      ],
+      "rationale": "Recent volatility is elevated, but a -4% day is still relatively rare over a ~2-month window; hence sub-50% despite risk-off tone.",
+      "id": "8f62f372-2dc4-4c9d-9404-f1dddf125727",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "LBMA gold spot (XAU/USD) will have at least one daily close at or above $5,250 by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 55,
+      "deadline": "2026-03-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "YES if LBMA/benchmark spot gold close (or widely used reference close such as ICE/Reuters spot) is >= 5250.00 USD/oz on any date by deadline. NO otherwise.",
+      "evidence": [
+        "Gold reported breaking above $5,000 amid risk-off tilt (CNBC, 2026-02-04): https://www.cnbc.com/2026/02/04/asia-markets-today-wednesday-wall-street-tech-selloff-futures-lower-ai-software-hang-seng-nikkei-kospi.html"
+      ],
+      "monitoring_signals": [
+        "Real yields (10y TIPS) and USD moves",
+        "Central bank gold purchase disclosures",
+        "Geopolitical shipping/energy shocks",
+        "COMEX positioning and margin changes"
+      ],
+      "rationale": "A move from just above $5,000 to $5,250 in ~2 months is plausible in a risk-off regime, but not the base case given potential mean reversion and policy uncertainty.",
+      "id": "e3357a24-0adc-4511-ada8-16c9cd741b55",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Y Combinator will publish updated standard funding documentation (or an official policy page) that explicitly allows founder funding disbursements in a named stablecoin (e.g., USDC/USDT) by 2026-04-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 85,
+      "deadline": "2026-04-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "YES if YC posts (on ycombinator.com or an official YC repository) documentation/policy explicitly allowing disbursement in a named stablecoin. NO if no such official publication appears by deadline.",
+      "evidence": [
+        "YC allowing founders to receive funding in stablecoins (Fortune, 2026-02-03): https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/"
+      ],
+      "monitoring_signals": [
+        "YC SAFE template updates and public legal docs",
+        "YC blog posts about payments/treasury operations",
+        "Partner banks/payment processors supporting stablecoins",
+        "Regulatory developments affecting stablecoin transfers"
+      ],
+      "rationale": "After announcing operational support for stablecoin payouts, formalizing it in standard docs/policies is a common next step, though legal and compliance reviews could delay.",
+      "id": "7c6633bb-d480-42b8-a183-1dca503028e6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one of Moody\u2019s, S&P Global Ratings, or Fitch will revise Oracle\u2019s credit outlook to Negative (or place Oracle on Negative Watch) by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 146,
+      "deadline": "2026-06-30",
+      "confidence_pct": 28,
+      "log_odds": -0.944,
+      "verification_criteria": "YES if any of the three agencies publishes an action changing Oracle\u2019s outlook to Negative or placing it on Rating Watch Negative by deadline. NO otherwise.",
+      "evidence": [
+        "Oracle\u2019s large debt financing raising AI funding/leverage concerns (MarketWatch, 2026-02-03): https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b"
+      ],
+      "monitoring_signals": [
+        "Agency commentaries on leverage/FCF post-financing",
+        "Oracle quarterly net leverage and capex trajectory",
+        "Any announced additional large debt issuance",
+        "Data-center demand signals and pricing pressure"
+      ],
+      "rationale": "Even with a large financing, rating agencies often wait for sustained leverage deterioration; an outlook shift is possible but less likely without clear downside in cash flow or additional borrowing.",
+      "id": "905dde6c-4f92-4b5e-9976-fab1c845ca22",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "China will publicly announce the removal, suspension, or 'under investigation' status of at least one Central Military Commission (CMC) member or PLA service chief by 2026-04-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 85,
+      "deadline": "2026-04-30",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "YES if Xinhua/State Council/CCP announcements or widely recognized official readouts state a named CMC member or PLA service chief is removed from post, suspended, or under investigation/disciplinary review. NO otherwise.",
+      "evidence": [
+        "Reporting on leadership fractures/purges raising unpredictability (NYT, 2026-02-03): https://www.nytimes.com/2026/02/03/us/politics/china-xi-military-purge.html"
+      ],
+      "monitoring_signals": [
+        "Unexplained absences from major meetings and ceremonies",
+        "State media personnel announcements and NPC/CPPCC coverage",
+        "CCDI investigation notices",
+        "Reassignments in PLA senior command"
+      ],
+      "rationale": "Recent reporting suggests continued internal security/purge dynamics, but timing is uncertain and official confirmation may lag rumors, keeping probability below 50%.",
+      "id": "f97169b1-8b49-491f-a206-bf8dce0cba30",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "USCENTCOM (or the U.S. Navy) will publicly confirm at least one additional kinetic engagement (shootdown/intercept) involving an Iranian drone near a U.S. naval vessel in the Middle East by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 55,
+      "deadline": "2026-03-31",
+      "confidence_pct": 37,
+      "log_odds": -0.532,
+      "verification_criteria": "YES if an official CENTCOM/Navy statement confirms a drone (identified as Iranian or Iran-backed) was shot down/intercepted in proximity to a U.S. naval vessel in CENTCOM AOR by deadline. NO otherwise.",
+      "evidence": [
+        "U.S. fighter jet shoots down Iranian drone near aircraft carrier (CNBC, 2026-02-03): https://www.cnbc.com/2026/02/03/us-military-shoots-down-iranian-drone-that-aggressively-approached-aircraft-carrier.html"
+      ],
+      "monitoring_signals": [
+        "CENTCOM daily ops releases and press briefings",
+        "UKMTO/MSC incident reports in Gulf/Arabian Sea",
+        "Carrier strike group movements and public photos",
+        "Iranian IRGC statements about drone operations"
+      ],
+      "rationale": "A recent intercept indicates elevated operational tempo; repeat incidents are plausible but not certain due to potential de-escalation measures and changes in rules of engagement.",
+      "id": "9b24704d-3c36-479e-bab5-5710365f184e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "WHO will publish a public funding appeal/statement explicitly warning of neglected tropical disease (NTD) resurgence in Africa and requesting at least $100 million in additional funding by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 330,
+      "deadline": "2026-12-31",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "YES if WHO issues a press release, donor appeal, or official statement explicitly linking Africa NTD resurgence risk to funding gaps and stating a requested additional amount >= USD 100,000,000. NO otherwise by deadline.",
+      "evidence": [
+        "Warnings about NTD resurgence amid funding gaps (NYT, 2026-02-03): https://www.nytimes.com/2026/02/03/health/neglected-tropical-diseases-usaid-ntds-river-blindness.html"
+      ],
+      "monitoring_signals": [
+        "WHO donor roundtables and emergency appeal pages",
+        "Major NGO/UN partner announcements (e.g., UNICEF, Gates-affiliated initiatives)",
+        "Reported program suspensions or stockouts for NTD treatments",
+        "Outbreak reports that cite NTD control lapses"
+      ],
+      "rationale": "The issue is salient and funding-driven, making an explicit appeal plausible over a year; however, WHO may route requests through partners or broader health financing vehicles, reducing certainty.",
+      "id": "cde57917-7a67-40b2-a116-1529a49b5599",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

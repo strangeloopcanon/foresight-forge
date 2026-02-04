@@ -19,7 +19,7 @@
       ],
       "rationale": "Historically, delayed macro releases are typically published shortly after operations resume; a multi-week delay is possible if shutdown persists, but a release by late February is still more likely than not.",
       "id": "e08215b5-3bde-421a-aae8-a2f25161c0df",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Headline claims often precede detailed instruments; converting into explicit tariff schedules within ~2 months is plausible but far from assured.",
       "id": "50b5401c-4b40-4060-939d-75d011567059",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Political pressure does not reliably translate into DOJ action or public confirmation; base rate for rapid, explicit confirmation is low.",
       "id": "70b8a275-6d70-435c-960d-fc3b7d06ebbb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Post-acquisition integrations often surface within 3\u20136 months, but customer-facing deployments can lag due to security and reliability requirements.",
       "id": "1e430365-72e0-4712-8770-84e15d2da644",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Reported intent plus market response suggests policy momentum; however, specifics and legal structuring can delay formal issuance.",
       "id": "e1ebd247-9b9b-4b58-a817-78c9d640dff5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Planned talks are credible, but cancellation risk from escalatory actions remains significant; coin-flip likelihood within two months is reasonable.",
       "id": "0b3b45d5-0032-49ec-8662-f5eaac074128",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "A court-ordered restart reduces near-term overhang, but leasing cadence depends on administration priorities and stakeholder litigation risk.",
       "id": "0582fc44-d8c2-4a4c-9d49-411df4e35dac",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Policy announcements often require procurement follow-through, but contract timing and scope can slip or be split into smaller awards.",
       "id": "bcc1fae2-7568-4086-b0c0-03f3b969d4c1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Large credential exposures frequently trigger vendor guidance, but explicit naming and cross-vendor public advisories are less consistent than quiet revocations.",
       "id": "66a04d3d-f328-4e9b-8305-73c69652f759",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

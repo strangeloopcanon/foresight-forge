@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-03",
+  "assessments": [
+    {
+      "id": "e08215b5-3bde-421a-aae8-a2f25161c0df",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention BLS publishing (or scheduling) the delayed January 2026 Employment Situation report. Deadline is 2026-02-20, so it remains unresolved."
+    },
+    {
+      "id": "50b5401c-4b40-4060-939d-75d011567059",
+      "status": "pending",
+      "status_rationale": "No item indicates a White House/USTR joint statement or fact sheet on a U.S.-India trade framework with explicit tariff-rate changes. Deadline is 2026-03-31."
+    },
+    {
+      "id": "70b8a275-6d70-435c-960d-fc3b7d06ebbb",
+      "status": "pending",
+      "status_rationale": "A CNBC item references 'Powell and Cook investigations' in the context of Senate Banking Democrats, but there is no clear public confirmation by DOJ or DOJ OIG of a review/inquiry/investigation explicitly naming Jerome Powell and the Federal Reserve. Deadline is 2026-03-31."
+    },
+    {
+      "id": "1e430365-72e0-4712-8770-84e15d2da644",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s bullets that SpaceX announced a named Starlink product/feature using xAI models (e.g., Grok) with a public product page or press release. Deadline is 2026-06-30."
+    },
+    {
+      "id": "e1ebd247-9b9b-4b58-a817-78c9d640dff5",
+      "status": "pending",
+      "status_rationale": "No news bullet indicates an executive order/presidential memorandum establishing or directing creation of a U.S. critical-mineral reserve/stockpile program. Deadline is 2026-04-30."
+    },
+    {
+      "id": "0b3b45d5-0032-49ec-8662-f5eaac074128",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items mention heightened U.S.-Iran tensions (e.g., a drone being shot down) but do not report a publicly acknowledged direct meeting between U.S. and Iranian officials confirmed by either government. Deadline is 2026-03-31."
+    },
+    {
+      "id": "0582fc44-d8c2-4a4c-9d49-411df4e35dac",
+      "status": "pending",
+      "status_rationale": "No Federal Register notice about initiating a new offshore wind lease sale process (Call for Information/Nominations or Proposed Sale Notice) appears in today\u2019s bullets. Deadline is 2026-09-30."
+    },
+    {
+      "id": "bcc1fae2-7568-4086-b0c0-03f3b969d4c1",
+      "status": "pending",
+      "status_rationale": "No announcement is listed regarding DHS awarding (or announcing) a \u2265$50M contract for ICE/HSI/ERO body-worn cameras or evidence-management services. Deadline is 2026-05-31."
+    },
+    {
+      "id": "66a04d3d-f328-4e9b-8305-73c69652f759",
+      "status": "pending",
+      "status_rationale": "None of the bullets show two or more major API-key platforms publishing guidance explicitly referencing the 'Moltbook' breach/exposure and advising key rotation. Deadline is 2026-03-15."
+    }
+  ]
+}
