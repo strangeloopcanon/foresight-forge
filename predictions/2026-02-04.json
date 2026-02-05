@@ -20,7 +20,7 @@
       ],
       "rationale": "Recent shutdown dynamics suggest near-term reliance on stopgaps; moving to a full-year DHS bill by end of March is plausible but politically difficult given ICE-related disputes.",
       "id": "5b5b62ef-1dfd-4401-9a64-da4c0ba27006",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "With heightened enforcement posture and cross-border pressure on U.S. platforms, a Commission step to formal proceedings is moderately likely within the next three months.",
       "id": "f002f532-0f7a-4427-b50a-ed5a184a46b6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Recent reporting emphasizes negotiation friction; closing an equity deal would require governance and disclosure steps that often leak. Absence by end of June is somewhat more likely than closure.",
       "id": "da137d13-9d72-44ad-bdff-eb0355545b42",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Recent volatility is elevated, but a -4% day is still relatively rare over a ~2-month window; hence sub-50% despite risk-off tone.",
       "id": "8f62f372-2dc4-4c9d-9404-f1dddf125727",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "A move from just above $5,000 to $5,250 in ~2 months is plausible in a risk-off regime, but not the base case given potential mean reversion and policy uncertainty.",
       "id": "e3357a24-0adc-4511-ada8-16c9cd741b55",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "After announcing operational support for stablecoin payouts, formalizing it in standard docs/policies is a common next step, though legal and compliance reviews could delay.",
       "id": "7c6633bb-d480-42b8-a183-1dca503028e6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Even with a large financing, rating agencies often wait for sustained leverage deterioration; an outlook shift is possible but less likely without clear downside in cash flow or additional borrowing.",
       "id": "905dde6c-4f92-4b5e-9976-fab1c845ca22",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Recent reporting suggests continued internal security/purge dynamics, but timing is uncertain and official confirmation may lag rumors, keeping probability below 50%.",
       "id": "f97169b1-8b49-491f-a206-bf8dce0cba30",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "A recent intercept indicates elevated operational tempo; repeat incidents are plausible but not certain due to potential de-escalation measures and changes in rules of engagement.",
       "id": "9b24704d-3c36-479e-bab5-5710365f184e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -218,7 +218,7 @@
       ],
       "rationale": "The issue is salient and funding-driven, making an explicit appeal plausible over a year; however, WHO may route requests through partners or broader health financing vehicles, reducing certainty.",
       "id": "cde57917-7a67-40b2-a116-1529a49b5599",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

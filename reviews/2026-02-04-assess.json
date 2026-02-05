@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-04",
+  "assessments": [
+    {
+      "id": "5b5b62ef-1dfd-4401-9a64-da4c0ba27006",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items discuss Trump administration actions and politics but provide no evidence that a full-year FY2026 DHS appropriations bill has been enacted and signed (as opposed to a continuing resolution). Deadline is 2026-03-31, so this remains unresolved."
+    },
+    {
+      "id": "f002f532-0f7a-4427-b50a-ed5a184a46b6",
+      "status": "pending",
+      "status_rationale": "No news bullet indicates the European Commission has opened formal DSA proceedings against X via a published Commission press release/statement. Deadline is 2026-04-30."
+    },
+    {
+      "id": "da137d13-9d72-44ad-bdff-eb0355545b42",
+      "status": "pending",
+      "status_rationale": "The provided business/tech coverage mentions Nvidia stock and broader AI spending but contains no announcement of a completed Nvidia equity investment into OpenAI (nor a denial that would resolve it). Deadline is 2026-06-30."
+    },
+    {
+      "id": "8f62f372-2dc4-4c9d-9404-f1dddf125727",
+      "status": "pending",
+      "status_rationale": "While there are references to a tech sell-off and large single-stock declines (e.g., AMD), the bullets do not document an S&P 500 close-to-close drop of 4.0% or more, which is required to resolve the prediction. Deadline is 2026-03-31."
+    },
+    {
+      "id": "e3357a24-0adc-4511-ada8-16c9cd741b55",
+      "status": "pending",
+      "status_rationale": "No bullet provides gold (XAU/USD) closing levels, and nothing indicates a daily close at or above $5,250. Deadline is 2026-03-31."
+    },
+    {
+      "id": "7c6633bb-d480-42b8-a183-1dca503028e6",
+      "status": "pending",
+      "status_rationale": "There is no mention of Y Combinator publishing updated standard funding documentation or policy language explicitly allowing founder disbursements in a named stablecoin. Deadline is 2026-04-30."
+    },
+    {
+      "id": "905dde6c-4f92-4b5e-9976-fab1c845ca22",
+      "status": "pending",
+      "status_rationale": "None of the bullets reference Moody\u2019s/S&P/Fitch actions on Oracle\u2019s credit outlook (Negative/Negative Watch). Deadline is 2026-06-30."
+    },
+    {
+      "id": "f97169b1-8b49-491f-a206-bf8dce0cba30",
+      "status": "pending",
+      "status_rationale": "The China-related headline concerns Xi pressing Trump on Taiwan in a phone call, not a public announcement of removal/suspension/'under investigation' of a CMC member or PLA service chief. Deadline is 2026-04-30."
+    },
+    {
+      "id": "9b24704d-3c36-479e-bab5-5710365f184e",
+      "status": "pending",
+      "status_rationale": "One item notes upcoming U.S.-Iran talks and de-escalation hopes in oil markets, but there is no public confirmation by USCENTCOM/U.S. Navy of an additional kinetic engagement involving an Iranian drone near a U.S. naval vessel. Deadline is 2026-03-31."
+    },
+    {
+      "id": "cde57917-7a67-40b2-a116-1529a49b5599",
+      "status": "pending",
+      "status_rationale": "The bullets include a NYC-WHO partnership story, but nothing indicates WHO has published a funding appeal warning of NTD resurgence in Africa requesting at least $100 million in additional funding. Deadline is 2026-12-31."
+    }
+  ]
+}

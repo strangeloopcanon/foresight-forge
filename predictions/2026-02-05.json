@@ -1,0 +1,190 @@
+{
+  "date": "2026-02-05",
+  "predictions": [
+    {
+      "text": "BLS will publish the delayed U.S. Employment Situation report for January 2026 (full release PDF and tables) by 2026-02-11 (UTC).",
+      "category": "macro",
+      "horizon_days": 6,
+      "deadline": "2026-02-11",
+      "confidence_pct": 68,
+      "verification_criteria": "Resolves YES if the Bureau of Labor Statistics posts the January 2026 Employment Situation release (news release PDF and accompanying tables) on bls.gov on or before 2026-02-11 UTC; otherwise NO.",
+      "evidence": [
+        "News reports state the January jobs report was delayed due to the U.S. government shutdown and rescheduled for Feb. 11.",
+        "BLS has historically released Employment Situation reports on announced reschedule dates absent further operational disruptions."
+      ],
+      "monitoring_signals": [
+        "BLS announcement updates on release timing",
+        "Status of government shutdown / BLS operational capacity",
+        "BLS release calendar changes and pre-release lockup notifications"
+      ],
+      "supersedes_id": "e08215b5-3bde-421a-aae8-a2f25161c0df",
+      "rationale": "This tightens the prior deadline to the publicly reported rescheduled date, while acknowledging residual risk of further shutdown-related slippage.",
+      "id": "a4fd44d6-c635-43c0-b6ce-c52ee5a82a22",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The CBOE Volatility Index (VIX) will close at or above 30.0 on at least one U.S. trading day by 2026-03-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 54,
+      "deadline": "2026-03-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if VIX official close (Cboe / major market data feeds) is \u2265 30.0 for any session with trade date on or before 2026-03-31; otherwise NO.",
+      "evidence": [
+        "Macro uncertainty elevated due to shutdown-delayed data and recession-risk chatter (weak ADP).",
+        "Tech/AI-adjacent valuation fragility suggests higher tail-risk for equity volatility spikes."
+      ],
+      "monitoring_signals": [
+        "VIX level and term structure (contango/backwardation)",
+        "Major macro releases once shutdown effects clear (CPI, payrolls, ISM)",
+        "Equity index drawdowns and intraday realized volatility"
+      ],
+      "rationale": "VIX \u226530 is plausible in a risk-off episode but remains a tail outcome over ~2 months.",
+      "id": "5e587a49-8a2d-4033-834d-6348d15b2980",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Nasdaq-100 index (NDX) will close at least 10.0% below its highest close of calendar year 2026 (to date) on at least one day by 2026-04-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 84,
+      "deadline": "2026-04-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Resolves YES if, by 2026-04-30, NDX has a closing level that is \u2264 0.900 \u00d7 (highest NDX close observed during 2026 up to that date). Data from Nasdaq official history or a major index data provider.",
+      "evidence": [
+        "Recent broad tech selloff and high expectations in AI-related names increase correction risk.",
+        "Macro uncertainty (delayed labor data; private credit stress narratives) can amplify growth-stock downside."
+      ],
+      "monitoring_signals": [
+        "NDX peak-to-trough drawdown tracking",
+        "Earnings revisions for mega-cap tech and semis",
+        "Real yields and financial-conditions indices"
+      ],
+      "rationale": "A 10% correction is common historically, but timing is uncertain; elevated dispersion in tech raises odds versus a calm regime.",
+      "id": "3912ee6f-854b-43f3-94aa-f2ec80d4c086",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Alphabet will publicly indicate (guidance or stated expectation) that its 2026 capital expenditures will be at least $65 billion (USD) during an earnings release/call or SEC filing by 2026-04-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 84,
+      "deadline": "2026-04-30",
+      "confidence_pct": 60,
+      "verification_criteria": "Resolves YES if Alphabet (Google) states 2026 capex (or 2026 capex guidance/expectation) \u2265 $65B in an earnings press release, prepared remarks, earnings call transcript, investor presentation, or 10-Q/8-K on or before 2026-04-30 UTC; otherwise NO.",
+      "evidence": [
+        "Reporting indicates Alphabet plans to sharply increase AI infrastructure spending, resetting capex expectations upward."
+      ],
+      "monitoring_signals": [
+        "Alphabet earnings date and capex commentary",
+        "Data-center/AI infrastructure procurement news (servers, GPUs, networking)",
+        "Supplier capex and capacity indications tied to Google demand"
+      ],
+      "rationale": "Public narratives point to a step-up in AI capex; $65B is a concrete threshold that should be confirmable in official communications.",
+      "id": "c2d2419a-19b3-4810-ad4f-5ffb8781341c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. Department of Commerce (BIS) will add at least 5 new China-based entities to the Entity List with a stated rationale substantially related to AI, advanced computing, or semiconductor development/production, by 2026-05-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 115,
+      "deadline": "2026-05-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if BIS publishes (Federal Register notice and/or BIS press release) one or more Entity List updates by 2026-05-31 that newly lists \u22655 entities headquartered in China, where the stated basis references AI, advanced computing, semiconductor design/manufacturing, or related supercomputing enablement; otherwise NO.",
+      "evidence": [
+        "U.S.-China strategic tensions remain elevated, with AI compute a persistent focus of U.S. controls policy."
+      ],
+      "monitoring_signals": [
+        "BIS Federal Register notices and press releases",
+        "Leaks/briefings on new U.S. export-control packages",
+        "Allied coordination signals (EU/Japan/Netherlands statements)"
+      ],
+      "rationale": "Entity List additions are a frequently used tool; the question is cadence and scale over ~4 months.",
+      "id": "e5e638e5-a684-49b1-9a69-39cb656f2eae",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The FOMC will lower the Federal Funds target range by at least 25 basis points (relative to the range in effect on 2026-02-05) by 2026-06-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 145,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if the Federal Reserve announces at any scheduled or unscheduled meeting on or before 2026-06-30 that the target range for the federal funds rate is reduced by \u226525 bps versus the target range effective on 2026-02-05; otherwise NO.",
+      "evidence": [
+        "Weak ADP print and recession-risk chatter increase the probability of an easing pivot within coming meetings.",
+        "Policy uncertainty from shutdown-driven data disruptions can raise the chance of a risk-management cut if conditions deteriorate."
+      ],
+      "monitoring_signals": [
+        "Inflation prints (CPI/PCE) and labor-market releases after shutdown",
+        "Fed speakers signaling concern about growth/financial stability",
+        "Fed funds futures implied probability of cuts"
+      ],
+      "rationale": "A cut by end-June is plausible but not the base case without clearer disinflation or labor-market weakening.",
+      "id": "7c80728a-8c97-4c7f-ac34-217efd36a528",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NOAA will report the Mauna Loa atmospheric CO2 monthly average at or above 430.0 ppm for at least one month by 2026-06-30 (UTC).",
+      "category": "other",
+      "horizon_days": 145,
+      "deadline": "2026-06-30",
+      "confidence_pct": 70,
+      "verification_criteria": "Resolves YES if NOAA\u2019s Global Monitoring Laboratory (Mauna Loa) monthly mean CO2 (ppm) is published as \u2265 430.0 for any month with data released on or before 2026-06-30; otherwise NO.",
+      "evidence": [
+        "Long-run upward CO2 trend plus typical seasonal spring peak increases likelihood of crossing a new round-number threshold."
+      ],
+      "monitoring_signals": [
+        "NOAA Mauna Loa preliminary and final monthly CO2 postings",
+        "Weekly/daily CO2 readings during spring peak season"
+      ],
+      "rationale": "Given trend and seasonality, 430 ppm is more likely than not by late June, but exact monthly averaging can miss narrowly.",
+      "id": "669ca80a-6519-4127-926d-0a00df801feb",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "At least one of the following publicly traded U.S. business development companies (BDCs)\u2014ARCC, OBDC, FSK, MAIN\u2014will announce a cut (decrease) to its regular dividend per share (not a special dividend) in a dividend declaration made by 2026-08-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 207,
+      "deadline": "2026-08-31",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves YES if any listed BDC publicly declares a regular dividend per share that is lower than its immediately preceding regular dividend per share, with the declaration date on or before 2026-08-31; otherwise NO.",
+      "evidence": [
+        "Coverage highlights private-credit stress and refinancing risk, which can pressure BDC earnings and distribution coverage."
+      ],
+      "monitoring_signals": [
+        "Quarterly earnings: net investment income, non-accrual rates, NAV changes",
+        "Credit-spread widening and default-rate indicators",
+        "Company press releases on dividend declarations"
+      ],
+      "rationale": "Large BDCs tend to smooth dividends; a cut is a meaningful stress signal but not the modal outcome.",
+      "id": "36b3b799-f121-4335-95fa-f351db2c7a59",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one of \u00d8rsted, Equinor, BP, Avangrid, or RWE will disclose an impairment charge of at least $1.0 billion (USD) related primarily to U.S. offshore wind assets/projects in a quarterly or annual financial report filed/published by 2026-08-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 207,
+      "deadline": "2026-08-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if any named company publishes or files financial statements by 2026-08-31 that explicitly disclose an impairment (or write-down) \u2265 $1.0B attributable primarily to U.S. offshore wind projects/assets (can be reported in USD or converted at reporting-period FX); otherwise NO.",
+      "evidence": [
+        "Policy and permitting delays for wind/solar projects raise the risk of project economics deterioration and write-downs.",
+        "U.S. offshore wind has a recent history of large impairments amid cost inflation and contract resets."
+      ],
+      "monitoring_signals": [
+        "Company earnings releases and annual/interim reports",
+        "State PPA renegotiations/cancellations and permitting timelines",
+        "Project financing updates and turbine-supply cost changes"
+      ],
+      "rationale": "Large impairments are plausible if delays persist, but timing and accounting triggers are uncertain within two reporting cycles.",
+      "id": "5fe5d001-2d7b-4ae0-99c7-31043db79034",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

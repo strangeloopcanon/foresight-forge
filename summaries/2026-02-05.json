@@ -1,0 +1,101 @@
+{
+  "bullets": [
+    {
+      "text": "Fed finalized 2026 bank stress-test scenarios and kept current stress-test capital requirements unchanged pending public feedback.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm"
+    },
+    {
+      "text": "ADP shows private payrolls rose only 22,000 in January, signaling labor-market cooling and raising recession-risk chatter.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/04/adp-jobs-report-january-2026.html"
+    },
+    {
+      "text": "January jobs report delayed to Feb. 11 due to government shutdown, increasing near-term macro uncertainty and market volatility.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/04/january-jobs-report-government-shutdown.html"
+    },
+    {
+      "text": "Oil prices whipsawed as U.S.-Iran talks alternately raised de-escalation hopes and collapse fears, highlighting geopolitical risk premia in crude.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/05/oil-prices-upcoming-us-iran-talks-revive-de-escalation-hopes.html"
+    },
+    {
+      "text": "China\u2019s Xi pressed Trump on Taiwan in a call, underscoring persistent flashpoint risk for U.S.-China relations and supply chains.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/04/us/politics/xi-phone-call-taiwan.html"
+    },
+    {
+      "text": "China escalated threats tied to a Panama Canal-related ruling seen as a Trump win, signaling broader strategic pressure on trade chokepoints.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/04/china-us-trump-panama-canal-court-ruling-ck-hutchison.html"
+    },
+    {
+      "text": "Trump administration delayed hundreds of wind and solar projects, increasing policy risk for U.S. clean-energy buildout and associated capital deployment.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/04/climate/wind-solar-projects.html"
+    },
+    {
+      "text": "Private credit, once a Wall Street darling, is \u201cstarting to crack,\u201d raising concerns about hidden leverage, refinancing risk, and spillovers to banks and markets.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/04/business/private-credit-blue-owl-ai.html"
+    },
+    {
+      "text": "Alphabet/Google plans to sharply increase AI infrastructure spending, resetting capex expectations and intensifying the compute arms race across big tech.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/04/alphabet-resets-the-bar-for-ai-infrastructure-spending.html"
+    },
+    {
+      "text": "Tech selloff broadened: AMD plunged on guidance concerns; Qualcomm and Arm fell post-earnings, showing elevated expectations and fragility in AI-adjacent valuations.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/04/amd-lisa-su-ai-demand-guidance-earnings.html"
+    },
+    {
+      "text": "Hedge funds profited $24B shorting software in 2026 and are increasing bets, reflecting skepticism about SaaS pricing power amid AI-driven disruption.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/04/hedge-funds-made-24-billion-shorting-software-stocks-so-far-in-2026-and-they-are-increasing-the-bet.html"
+    },
+    {
+      "text": "Science warns melting Antarctic ice could weaken a major carbon sink, implying faster atmospheric CO2 accumulation and higher long-run climate-economic damages.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260204042457.htm"
+    }
+  ]
+}
