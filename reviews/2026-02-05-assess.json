@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-05",
+  "assessments": [
+    {
+      "id": "a4fd44d6-c635-43c0-b6ce-c52ee5a82a22",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets do not mention the BLS publishing (or not publishing) the delayed January 2026 Employment Situation report. Deadline (2026-02-11) has not yet passed."
+    },
+    {
+      "id": "5e587a49-8a2d-4033-834d-6348d15b2980",
+      "status": "pending",
+      "status_rationale": "No bullet provides VIX closing levels. While the news describes a tech rout/crypto slump that could raise volatility, there is no explicit evidence that VIX closed \u226530 on any day, and the deadline (2026-03-31) is in the future."
+    },
+    {
+      "id": "3912ee6f-854b-43f3-94aa-f2ec80d4c086",
+      "status": "pending",
+      "status_rationale": "The bullets reference market declines (e.g., software/tech selling) but do not provide Nasdaq-100 (NDX) close data or year-to-date peak/decline calculations. Deadline (2026-04-30) has not yet passed."
+    },
+    {
+      "id": "c2d2419a-19b3-4810-ad4f-5ffb8781341c",
+      "status": "pending",
+      "status_rationale": "The news includes Amazon\u2019s spending plan but contains no mention of Alphabet/Google guidance or filings indicating 2026 capex \u2265$65B. Deadline (2026-04-30) has not yet passed."
+    },
+    {
+      "id": "e5e638e5-a684-49b1-9a69-39cb656f2eae",
+      "status": "pending",
+      "status_rationale": "No bullet reports BIS adding China-based entities to the Entity List (or the rationale tied to AI/advanced computing/semiconductors). Deadline (2026-05-31) has not yet passed."
+    },
+    {
+      "id": "7c80728a-8c97-4c7f-ac34-217efd36a528",
+      "status": "pending",
+      "status_rationale": "There is no mention of an FOMC rate cut relative to the 2026-02-05 target range. Deadline (2026-06-30) has not yet passed."
+    },
+    {
+      "id": "669ca80a-6519-4127-926d-0a00df801feb",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention NOAA\u2019s Mauna Loa CO2 monthly average readings or any month at/above 430.0 ppm. Deadline (2026-06-30) has not yet passed."
+    },
+    {
+      "id": "36b3b799-f121-4335-95fa-f351db2c7a59",
+      "status": "pending",
+      "status_rationale": "No bullet references dividend declarations for ARCC, OBDC, FSK, or MAIN, nor any regular dividend cut. Deadline (2026-08-31) has not yet passed."
+    },
+    {
+      "id": "5fe5d001-2d7b-4ae0-99c7-31043db79034",
+      "status": "pending",
+      "status_rationale": "No bullet reports a \u2265$1.0B impairment charge tied primarily to U.S. offshore wind assets/projects for \u00d8rsted, Equinor, BP, Avangrid, or RWE. Deadline (2026-08-31) has not yet passed."
+    }
+  ]
+}

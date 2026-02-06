@@ -20,7 +20,7 @@
       "supersedes_id": "e08215b5-3bde-421a-aae8-a2f25161c0df",
       "rationale": "This tightens the prior deadline to the publicly reported rescheduled date, while acknowledging residual risk of further shutdown-related slippage.",
       "id": "a4fd44d6-c635-43c0-b6ce-c52ee5a82a22",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "VIX \u226530 is plausible in a risk-off episode but remains a tail outcome over ~2 months.",
       "id": "5e587a49-8a2d-4033-834d-6348d15b2980",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "A 10% correction is common historically, but timing is uncertain; elevated dispersion in tech raises odds versus a calm regime.",
       "id": "3912ee6f-854b-43f3-94aa-f2ec80d4c086",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Public narratives point to a step-up in AI capex; $65B is a concrete threshold that should be confirmable in official communications.",
       "id": "c2d2419a-19b3-4810-ad4f-5ffb8781341c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -102,7 +102,7 @@
       ],
       "rationale": "Entity List additions are a frequently used tool; the question is cadence and scale over ~4 months.",
       "id": "e5e638e5-a684-49b1-9a69-39cb656f2eae",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "rationale": "A cut by end-June is plausible but not the base case without clearer disinflation or labor-market weakening.",
       "id": "7c80728a-8c97-4c7f-ac34-217efd36a528",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -142,7 +142,7 @@
       ],
       "rationale": "Given trend and seasonality, 430 ppm is more likely than not by late June, but exact monthly averaging can miss narrowly.",
       "id": "669ca80a-6519-4127-926d-0a00df801feb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -162,7 +162,7 @@
       ],
       "rationale": "Large BDCs tend to smooth dividends; a cut is a meaningful stress signal but not the modal outcome.",
       "id": "36b3b799-f121-4335-95fa-f351db2c7a59",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -183,7 +183,7 @@
       ],
       "rationale": "Large impairments are plausible if delays persist, but timing and accounting triggers are uncertain within two reporting cycles.",
       "id": "5fe5d001-2d7b-4ae0-99c7-31043db79034",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

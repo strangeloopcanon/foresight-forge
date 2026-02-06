@@ -1826,3 +1826,12 @@ Market coverage does indicate heightened volatility and sharp moves in individua
 
 ---
 
+
+## 2026-02-05
+
+None of the listed predictions can be resolved from today’s headlines alone; all remain pending because the required confirming/negating evidence (official releases, filings, or specific market closes/levels) is not present in the provided news bullets, and none of the deadlines have passed.
+
+The day’s news does, however, add context that could affect future probabilities for the market- and capex-related forecasts: a sharp crypto selloff and broader tech weakness could increase the likelihood of elevated volatility (VIX) or a meaningful Nasdaq-100 drawdown, but no definitive level/close is reported here. Separately, Amazon’s very large AI spending plan is thematically relevant to the “AI capex arms race,” yet it provides no direct evidence about Alphabet’s 2026 capex guidance threshold.
+
+---
+

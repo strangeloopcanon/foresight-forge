@@ -1,0 +1,183 @@
+{
+  "date": "2026-02-06",
+  "predictions": [
+    {
+      "text": "U.S. initial jobless claims (seasonally adjusted) will have a 4-week moving average at or above 250,000 in at least one weekly release by 2026-05-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 114,
+      "deadline": "2026-05-31",
+      "confidence_pct": 46,
+      "log_odds": -0.1603,
+      "verification_criteria": "Verified if any U.S. Department of Labor weekly Unemployment Insurance Claims release shows the 4-week moving average of initial claims >= 250,000 (seasonally adjusted) on or before 2026-05-31 (UTC).",
+      "evidence": [
+        "Challenger reported the worst January layoff announcement level since 2009, indicating sharper cost-cutting risk.",
+        "BLS JOLTS showed cooling labor demand (downward trend in openings), consistent with easing conditions."
+      ],
+      "monitoring_signals": [
+        "Weekly initial claims level and 4-week moving average trend",
+        "Continuing claims trend and insured unemployment rate",
+        "Challenger layoffs and WARN notices",
+        "Large-cap/tech earnings guidance referencing headcount reductions"
+      ],
+      "rationale": "Layoff announcements and softening labor-demand indicators raise the probability that claims drift higher into late spring, though a sharp spike is not the base case.",
+      "id": "368992d8-0815-4287-a2d6-8a0bb6d98c68",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "BLS will report the U.S. unemployment rate (U-3, seasonally adjusted) at or above 4.5% in at least one Employment Situation release with reference month between 2026-02 and 2026-05, published by 2026-06-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 144,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "log_odds": -0.4895,
+      "verification_criteria": "Verified if any BLS Employment Situation release published on or before 2026-06-30 (UTC) reports the headline U-3 unemployment rate (seasonally adjusted) >= 4.5% for a reference month from 2026-02 through 2026-05.",
+      "evidence": [
+        "Layoff announcements have deteriorated sharply versus typical seasonal patterns.",
+        "JOLTS cooling is consistent with a slower labor market that can translate into higher unemployment with lag."
+      ],
+      "monitoring_signals": [
+        "Monthly unemployment rate and labor force participation changes",
+        "Payroll growth and diffusion indices",
+        "Initial/continuing claims trajectory",
+        "Survey-based hiring intentions (NFIB, regional Fed surveys)"
+      ],
+      "rationale": "A move to 4.5% requires moderate additional weakening; plausible if announced cuts broaden beyond tech into cyclicals.",
+      "id": "71473dad-f451-4308-bbfb-e9c487335982",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Senate will pass (final passage roll-call vote) at least one standalone crypto market-structure bill that explicitly assigns the CFTC primary oversight for spot markets in at least one class of digital commodities (e.g., Bitcoin/ETH) by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 144,
+      "deadline": "2026-06-30",
+      "confidence_pct": 32,
+      "log_odds": -0.7538,
+      "verification_criteria": "Verified if Senate.gov (or Congressional Record) shows final passage of a standalone bill by roll-call vote on or before 2026-06-30 (UTC) whose text assigns the CFTC primary authority over spot trading of at least one category of digital commodities.",
+      "evidence": [
+        "Reporting indicates Senate crypto legislation talks accelerated after a key vote, suggesting a near-term legislative window."
+      ],
+      "monitoring_signals": [
+        "Senate committee markups and bill text releases",
+        "Leadership floor scheduling signals",
+        "Public whip counts / bipartisan co-sponsor growth",
+        "White House SAP statements and agency testimony positioning (SEC/CFTC/Treasury)"
+      ],
+      "rationale": "Momentum has improved, but floor time, inter-agency turf issues, and election-year dynamics keep passage uncertain.",
+      "id": "f8ce3749-5a95-47de-b361-94095a2b7d41",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Conduent will publicly disclose (in an SEC filing, press release, or official breach notice update) that the number of individuals affected by its 2026 data breach is at least 10,000,000 by 2026-04-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 83,
+      "deadline": "2026-04-30",
+      "confidence_pct": 54,
+      "log_odds": 0.1603,
+      "verification_criteria": "Verified if Conduent (or a named Conduent client citing Conduent as the breach source) publishes an official disclosure on or before 2026-04-30 (UTC) stating affected individuals >= 10,000,000.",
+      "evidence": [
+        "Recent reporting says the Conduent exposure expanded to millions more Americans, implying ongoing scoping and upward revisions are possible."
+      ],
+      "monitoring_signals": [
+        "Conduent 8-K/10-Q updates and client notifications",
+        "State AG breach portals and HHS OCR listings (if HIPAA covered)",
+        "Class action filings citing affected-count estimates",
+        "Credit monitoring enrollment volumes mentioned in disclosures"
+      ],
+      "rationale": "Large processor breaches often revise impact counts upward as downstream clients complete notification audits.",
+      "id": "69db7724-3ee6-4a97-9196-45799aed7548",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Substack will publicly roll out mandatory two-factor authentication (2FA) for all creator accounts (i.e., creators must enable 2FA to continue publishing/receiving payouts) by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 144,
+      "deadline": "2026-06-30",
+      "confidence_pct": 41,
+      "log_odds": -0.363,
+      "verification_criteria": "Verified if Substack publishes an official help-center post, product update, or policy change by 2026-06-30 (UTC) stating 2FA is required/mandatory for all creator accounts (not merely available/optional).",
+      "evidence": [
+        "Recent reporting confirmed Substack user contact-data leakage, increasing pressure for stronger account security controls."
+      ],
+      "monitoring_signals": [
+        "Substack security/help-center updates",
+        "Creator communications about login/payout security changes",
+        "Public incident postmortems and promised remediation timelines",
+        "Increase in account-takeover reports from creators"
+      ],
+      "rationale": "A confirmed leak raises reputational risk; mandatory 2FA is a common, concrete remediation step, but it can increase friction and support load.",
+      "id": "4fa48506-9793-4c48-b639-f557d200923f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one EU or UK government body will publicly announce a procurement/financing package totaling at least \u20ac100 million (or \u00a385 million) to provide satellite-communications terminals/services to Ukraine that explicitly names Starlink or Starshield by 2026-09-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 236,
+      "deadline": "2026-09-30",
+      "confidence_pct": 36,
+      "log_odds": -0.5754,
+      "verification_criteria": "Verified if an EU member-state government, the European Commission, or the UK government publishes an official announcement by 2026-09-30 (UTC) of a package >= \u20ac100m (or >= \u00a385m) for Ukraine satcom that explicitly mentions Starlink or Starshield.",
+      "evidence": [
+        "Starlink\u2019s blocking of Russian troop access at Ukraine\u2019s request underscores its strategic role, increasing likelihood of formalized government funding arrangements."
+      ],
+      "monitoring_signals": [
+        "EU/UK defense procurement announcements and aid packages",
+        "Ukraine Ministry of Digital Transformation and defense ministry statements",
+        "SpaceX government-contract disclosures or partner announcements",
+        "Parliamentary questions/budget line items referencing Starlink/Starshield"
+      ],
+      "rationale": "As reliance on commercial satcom grows, governments may shift from ad hoc support to larger, explicit procurement packages\u2014though naming and budget thresholds are the main uncertainties.",
+      "id": "086c10ae-d676-464b-86c6-2cba868a1701",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A Phase 1 (or Phase 1/2) human clinical trial of an intranasal H5N1 influenza vaccine will be newly listed on ClinicalTrials.gov by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 328,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "Verified if ClinicalTrials.gov shows a first-time posting date on or before 2026-12-31 (UTC) for a study whose title/summary indicates an intranasal H5N1 influenza vaccine and includes Phase 1 or Phase 1/2.",
+      "evidence": [
+        "Recent preclinical reporting described strong protection from a nasal H5N1 vaccine, supporting translation into early human testing."
+      ],
+      "monitoring_signals": [
+        "BARDA/NIH funding announcements and BAA awards",
+        "Company/university press releases about IND clearance",
+        "ClinicalTrials.gov new postings with 'intranasal' and 'H5N1'",
+        "WHO and CDC H5N1 risk updates that could accelerate development"
+      ],
+      "rationale": "Promising nasal-vaccine results often progress to Phase 1 within ~6\u201318 months if funding and manufacturing are in place.",
+      "id": "0b006cb7-eecd-4f1d-a23d-0e5414765f07",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. State Department will publicly announce the appointment/designation of a senior envoy or lead negotiator for nuclear arms control/strategic stability talks (explicitly named role) by 2026-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 328,
+      "deadline": "2026-12-31",
+      "confidence_pct": 29,
+      "log_odds": -0.8954,
+      "verification_criteria": "Verified if the U.S. State Department (or White House) issues a press statement by 2026-12-31 (UTC) naming an individual to a role explicitly focused on nuclear arms control and/or strategic stability negotiations (title may vary but must clearly reference the mission).",
+      "evidence": [
+        "Public calls for a new nuclear arms-control treaty amid lapsed frameworks increase incentives to staff a visible negotiating function."
+      ],
+      "monitoring_signals": [
+        "State Department leadership announcements and org chart updates",
+        "Congressional testimony referencing negotiation plans",
+        "Bilateral meeting readouts referencing 'strategic stability' talks",
+        "Arms control NGO/think tank reporting on staffing moves"
+      ],
+      "rationale": "High-level rhetoric can translate into staffing actions, but geopolitical constraints and prioritization may delay or avoid a formal envoy designation.",
+      "id": "3d08d657-c744-49d8-9a6a-7313a4776fde",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. labor demand cooled: December job openings trended down while hires and separations changed little, consistent with a gradually easing labor market.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/jolts_02052026.htm"
+    },
+    {
+      "text": "January layoff announcements hit the worst start-of-year level since 2009, signaling sharper corporate cost-cutting and potential labor-market weakening ahead.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/05/layoff-and-hiring-announcements-hit-their-worst-january-levels-since-2009-challenger-says.html"
+    },
+    {
+      "text": "Amazon projected roughly $200B spending, raising AI capex stakes; investors punished margins and guidance risk, sending shares sharply lower after an earnings miss.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/05/amazon-amzn-q4-earnings-report-2025.html"
+    },
+    {
+      "text": "Tech risk-off broadened: software stocks fell for an eighth straight session and Asia\u2019s Kospi led regional declines after a Wall Street tech rout.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/06/asia-markets-live-friday-today-nikkei-kospi-hang-seng-tech-sell-off.html"
+    },
+    {
+      "text": "Bitcoin sold off to post-election lows with ~15% drops and sharp volatility; the broader crypto complex reportedly shed about $2T, testing \u201cHODL\u201d strategies.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/05/bitcoin-price-today-70000-in-focus.html"
+    },
+    {
+      "text": "U.S. Senate crypto legislation talks accelerated after a key vote, potentially shifting oversight and market structure toward clearer CFTC-style regulation.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/05/boozman-crypto-cftc-regulation.html"
+    },
+    {
+      "text": "White House launched TrumpRx direct-to-consumer drug site; analysts argue limited ability to lower most U.S. prices without insurer/pharmacy-benefit leverage.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.cnbc.com/2026/02/05/trump-rx-white-house-launches-direct-to-consumer-drug-site.html"
+    },
+    {
+      "text": "Canada increased EV investments as Trump trade policy disrupts North American autos; policy uncertainty is pressuring cross-border supply chains and automaker strategy.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/05/world/canada/carney-canada-electric-vehicles-trump-trade.html"
+    },
+    {
+      "text": "At Ukraine\u2019s request, Starlink blocked Russian troop internet access, underscoring how private satellite networks have become strategic levers in modern warfare.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html"
+    },
+    {
+      "text": "Trump called for a new nuclear arms-control treaty as existing frameworks lapse, increasing near-term strategic uncertainty around U.S.-Russia nuclear limits.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/05/briefing/us-russia-nuclear-treaty-federal-workers.html"
+    },
+    {
+      "text": "Large-scale breaches expanded: Conduent exposure reportedly grew to millions more Americans; Substack also confirmed user contact-data leakage\u2014raising systemic identity-risk.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/"
+    },
+    {
+      "text": "Scientists identified hidden deep-Earth structures influencing Earth\u2019s magnetic field, improving understanding of geodynamo dynamics and long-horizon geomagnetic risk.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260205050039.htm"
+    },
+    {
+      "text": "A new nasal vaccine showed strong protection against H5N1 bird flu, a potentially important tool for pandemic preparedness and transmission reduction.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260204114343.htm"
+    }
+  ]
+}
