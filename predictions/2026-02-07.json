@@ -1,0 +1,188 @@
+{
+  "date": "2026-02-07",
+  "predictions": [
+    {
+      "text": "NYMEX WTI crude oil (front-month) will settle at or above $95.00 per barrel on at least one trading day by 2026-03-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 52,
+      "deadline": "2026-03-31",
+      "confidence_pct": 30,
+      "verification_criteria": "Verified if the official CME/NYMEX daily settlement price for the front-month WTI futures contract is >= 95.00 USD/bbl on any trading day on or before 2026-03-31 (UTC).",
+      "evidence": [
+        "https://www.marketwatch.com/story/oil-markets-are-on-edge-over-elevated-risks-of-a-u-s-military-strike-against-iran-this-weekend-ead5d7d2",
+        "https://www.nytimes.com/2026/02/06/us/politics/trump-iran-nuclear.html"
+      ],
+      "monitoring_signals": [
+        "CME/NYMEX WTI settlement prices (CL)",
+        "ICE Brent settlement prices",
+        "DoD/USCENTCOM statements and verified reporting on U.S.-Iran escalation",
+        "Shipping/insurance disruption indicators in the Gulf (Lloyd\u2019s, tanker rates)"
+      ],
+      "rationale": "Geopolitical risk premium around Iran can reprice quickly; a sharp spike is plausible but not the base case given current low price levels and OPEC+ spare capacity.",
+      "id": "5c74224c-2036-48bb-b76e-3de67788b1ab",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Treasury (OFAC) will announce a new Iran-related sanctions action that designates at least 10 entities and/or vessels tied to Iran\u2019s oil/petrochemical exports by 2026-03-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 52,
+      "deadline": "2026-03-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Verified if an OFAC press release or official SDN list update explicitly framed as Iran-related oil/petrochemical export enforcement includes >=10 new designations (entities and/or vessels) dated on or before 2026-03-31 (UTC).",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/06/us/politics/trump-iran-nuclear.html"
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN update logs",
+        "U.S. State Department Iran sanctions announcements",
+        "Treasury statements on enforcement against tanker/shipping networks"
+      ],
+      "rationale": "Sanctions are a common near-term escalation tool during negotiations and crisis signaling, often deployed in multi-designation packages against shipping and trading networks.",
+      "id": "5c360a02-b9e2-4de9-be19-67048788f126",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The European Commission will publish a press release/statement opening formal Digital Services Act (DSA) proceedings against TikTok that explicitly references addictive design or recommender-system risks by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 143,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Verified if the European Commission announces the opening of formal DSA proceedings against TikTok (by name) and the announcement text explicitly cites addictive design, infinite scroll, or recommender-system/addiction-type risks, by 2026-06-30 (UTC).",
+      "evidence": [
+        "https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/"
+      ],
+      "monitoring_signals": [
+        "European Commission DSA enforcement press releases",
+        "DSA transparency database / Commission announcements",
+        "Statements from the Irish DPC or other EU digital regulators on TikTok"
+      ],
+      "rationale": "The reported EU intervention increases the odds of escalation to formal Commission proceedings under the DSA as enforcement focus shifts from content to product design.",
+      "id": "24c49478-5e6d-4956-af0c-26460ba486fa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "TikTok will publicly confirm product changes in the EU that disable or materially limit infinite scroll and/or substantially alter its recommendation feed mechanics to address EU concerns by 2026-05-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 113,
+      "deadline": "2026-05-31",
+      "confidence_pct": 65,
+      "verification_criteria": "Verified if TikTok publishes an official EU-facing announcement (blog post, newsroom item, or official statement to a regulator) confirming rollout of EU-specific changes that (a) disable/limit infinite scroll and/or (b) materially change recommendation feed mechanics, dated by 2026-05-31 (UTC).",
+      "evidence": [
+        "https://techcrunch.com/2026/02/06/eu-tiktok-disable-addictive-features-infinite-scroll-recommendation-engine/"
+      ],
+      "monitoring_signals": [
+        "TikTok Newsroom / policy blog posts referencing EU changes",
+        "EU regulator compliance updates and enforcement notices",
+        "App version release notes and EU-specific feature flags reported by researchers"
+      ],
+      "rationale": "Once regulators order design changes, platforms typically implement and publicize compliance steps within months to reduce litigation/enforcement risk.",
+      "id": "c678da6f-78e2-4330-a0e3-f8de0ecda618",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Microsoft will report property and equipment additions (capex) of at least $25.0 billion in at least one fiscal quarter with an end date on or before 2026-06-30, as shown in its quarterly financial statements filed by 2026-08-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 205,
+      "deadline": "2026-08-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Verified if Microsoft\u2019s 10-Q/10-K for any quarter ended on/before 2026-06-30 reports \u2018Additions to property and equipment\u2019 (or equivalent capex line in cash flow) >= 25.0B USD for that quarter, filed by 2026-08-31 (UTC).",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/06/google-microsoft-meta-amazon-ai-cash.html",
+        "https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html"
+      ],
+      "monitoring_signals": [
+        "Microsoft 10-Q filings and cash-flow capex line items",
+        "Earnings call commentary on data-center buildout pace",
+        "Data-center leasing/cancellation reports and supplier order trends"
+      ],
+      "rationale": "AI infrastructure spending is elevated; hitting a very high single-quarter capex print is plausible but depends on timing of build and payments.",
+      "id": "02a0967d-3495-44e1-a607-9414213eb963",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Norway\u2019s national cyber authority (e.g., NSM/NCSC) will publish a public advisory or report that explicitly names \u201cSalt Typhoon\u201d as a threat actor/campaign by 2026-04-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 82,
+      "deadline": "2026-04-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Verified if an official Norwegian government cyber-security body publishes an advisory/report that includes the exact term \u201cSalt Typhoon\u201d and describes it as an intrusion set/campaign, dated by 2026-04-30 (UTC).",
+      "evidence": [
+        "https://techcrunch.com/2026/02/06/chinas-salt-typhoon-hackers-broke-into-norwegian-companies/"
+      ],
+      "monitoring_signals": [
+        "NSM/NCSC public advisories and annual/quarterly threat reports",
+        "CERT notices and joint advisories with allies",
+        "Statements attributing intrusions to China-linked actors"
+      ],
+      "rationale": "If the campaign affected Norwegian firms, public attribution and guidance often follow, especially when allied governments standardize actor naming.",
+      "id": "d59c9113-2048-4c39-962a-d5ae588eb967",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The UN Security Council will adopt a resolution expanding or renewing an international security mandate for Haiti that explicitly authorizes additional personnel or expanded rules of engagement by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 143,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Verified if the UNSC adopts (vote recorded) a Haiti-related resolution whose text explicitly expands or renews a security mandate and includes authorization for either (a) additional personnel levels, or (b) expanded enforcement authorities/rules of engagement, by 2026-06-30 (UTC).",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/06/world/americas/haiti-crisis-leadership-gangs.html"
+      ],
+      "monitoring_signals": [
+        "UNSC meeting calendar and draft resolution circulation",
+        "UN press releases and Security Council voting records",
+        "Public statements by U.S., Canada, and CARICOM on Haiti security"
+      ],
+      "rationale": "Deteriorating security and governance vacuum increase pressure for UN-backed escalation, but consensus and resourcing constraints keep odds below even.",
+      "id": "a360a180-a1fa-4d64-89a3-a5154ec7164c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Gateway Development Commission (or USDOT/FRA) will announce execution of a Full Funding Grant Agreement (FFGA) or equivalent federal full-funding commitment for the Hudson Tunnel Project by 2026-12-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 327,
+      "deadline": "2026-12-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Verified if an official press release or posted agreement announces that an FFGA (or explicitly named equivalent full-funding commitment) for the Hudson Tunnel Project has been executed, dated by 2026-12-31 (UTC).",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/06/nyregion/gateway-tunnel-project-funding-trump.html"
+      ],
+      "monitoring_signals": [
+        "Gateway Development Commission announcements",
+        "FRA Capital Investment Grants program notices",
+        "Federal Register / USDOT grant documentation updates"
+      ],
+      "rationale": "With near-term funding risk reduced by the court ruling, the project is positioned to move toward a formal full-funding agreement, though federal budget politics remain a risk.",
+      "id": "7bc3c8a4-46a5-4590-88cd-84a69b2c9343",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. (USTR or Department of Commerce) will announce a new trade restriction specifically targeting Chinese EVs and/or battery materials that includes at least one new or increased tariff rate stated numerically, by 2026-09-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 235,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Verified if an official USTR/Commerce announcement (press release, Federal Register notice, or fact sheet) introduces a new or increased tariff on Chinese EVs and/or battery materials and states at least one tariff rate numerically, dated by 2026-09-30 (UTC).",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/06/automakers-ev-china-ford-gm.html"
+      ],
+      "monitoring_signals": [
+        "USTR press releases and Federal Register tariff actions",
+        "Commerce investigations (AD/CVD) related to EV/battery supply chains",
+        "U.S. auto/battery industry lobbying and trade-case filings"
+      ],
+      "rationale": "EV supply-chain and China industrial-policy concerns make additional targeted restrictions plausible, but timing depends on investigations and domestic political bandwidth.",
+      "id": "87d8324f-02bd-4182-bb14-2f1184a1fc53",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

@@ -21,7 +21,7 @@
       ],
       "rationale": "Layoff announcements and softening labor-demand indicators raise the probability that claims drift higher into late spring, though a sharp spike is not the base case.",
       "id": "368992d8-0815-4287-a2d6-8a0bb6d98c68",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "A move to 4.5% requires moderate additional weakening; plausible if announced cuts broaden beyond tech into cyclicals.",
       "id": "71473dad-f451-4308-bbfb-e9c487335982",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -66,7 +66,7 @@
       ],
       "rationale": "Momentum has improved, but floor time, inter-agency turf issues, and election-year dynamics keep passage uncertain.",
       "id": "f8ce3749-5a95-47de-b361-94095a2b7d41",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -88,7 +88,7 @@
       ],
       "rationale": "Large processor breaches often revise impact counts upward as downstream clients complete notification audits.",
       "id": "69db7724-3ee6-4a97-9196-45799aed7548",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "A confirmed leak raises reputational risk; mandatory 2FA is a common, concrete remediation step, but it can increase friction and support load.",
       "id": "4fa48506-9793-4c48-b639-f557d200923f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "As reliance on commercial satcom grows, governments may shift from ad hoc support to larger, explicit procurement packages\u2014though naming and budget thresholds are the main uncertainties.",
       "id": "086c10ae-d676-464b-86c6-2cba868a1701",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "rationale": "Promising nasal-vaccine results often progress to Phase 1 within ~6\u201318 months if funding and manufacturing are in place.",
       "id": "0b006cb7-eecd-4f1d-a23d-0e5414765f07",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -176,7 +176,7 @@
       ],
       "rationale": "High-level rhetoric can translate into staffing actions, but geopolitical constraints and prioritization may delay or avoid a formal envoy designation.",
       "id": "3d08d657-c744-49d8-9a6a-7313a4776fde",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

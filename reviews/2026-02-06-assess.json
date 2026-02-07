@@ -1,0 +1,45 @@
+{
+  "date": "2026-02-06",
+  "assessments": [
+    {
+      "id": "368992d8-0815-4287-a2d6-8a0bb6d98c68",
+      "status": "pending",
+      "status_rationale": "Today\u2019s headlines do not include a weekly initial jobless claims release or any reference to the 4-week moving average reaching \u2265250,000. The deadline (2026-05-31) has not passed."
+    },
+    {
+      "id": "71473dad-f451-4308-bbfb-e9c487335982",
+      "status": "pending",
+      "status_rationale": "No BLS Employment Situation (unemployment rate) figure is reported in today\u2019s bullets; one item notes an upcoming key jobs report but provides no unemployment rate value. The relevant reference months (2026-02 to 2026-05) are only beginning and the publication deadline (2026-06-30) is in the future."
+    },
+    {
+      "id": "f8ce3749-5a95-47de-b361-94095a2b7d41",
+      "status": "pending",
+      "status_rationale": "There is no news of the U.S. Senate passing a standalone crypto market-structure bill assigning the CFTC primary oversight for spot digital commodity markets. Deadline (2026-06-30) has not passed."
+    },
+    {
+      "id": "69db7724-3ee6-4a97-9196-45799aed7548",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no Conduent SEC filing/press release/breach notice update about the number of affected individuals, so there is no evidence for or against the \u226510,000,000 threshold. Deadline (2026-04-30) has not passed."
+    },
+    {
+      "id": "4fa48506-9793-4c48-b639-f557d200923f",
+      "status": "pending",
+      "status_rationale": "No reporting here indicates Substack has rolled out mandatory 2FA for all creator accounts. Deadline (2026-06-30) has not passed."
+    },
+    {
+      "id": "086c10ae-d676-464b-86c6-2cba868a1701",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s items mention an EU/UK procurement or financing package (\u2265\u20ac100M/\u2265\u00a385M) for Ukraine satellite terminals/services that explicitly names Starlink or Starshield. Deadline (2026-09-30) has not passed."
+    },
+    {
+      "id": "0b006cb7-eecd-4f1d-a23d-0e5414765f07",
+      "status": "pending",
+      "status_rationale": "There is no indication in today\u2019s bullets of a new ClinicalTrials.gov listing for a Phase 1 (or Phase 1/2) intranasal H5N1 influenza vaccine trial. Deadline (2026-12-31) has not passed."
+    },
+    {
+      "id": "3d08d657-c744-49d8-9a6a-7313a4776fde",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news includes U.S.-Iran nuclear talks coverage but does not report a State Department appointment/designation of a senior envoy or lead negotiator for nuclear arms control/strategic stability. Deadline (2026-12-31) has not passed."
+    }
+  ]
+}
