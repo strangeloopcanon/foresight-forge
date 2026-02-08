@@ -20,7 +20,7 @@
       ],
       "rationale": "Geopolitical risk premium around Iran can reprice quickly; a sharp spike is plausible but not the base case given current low price levels and OPEC+ spare capacity.",
       "id": "5c74224c-2036-48bb-b76e-3de67788b1ab",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Sanctions are a common near-term escalation tool during negotiations and crisis signaling, often deployed in multi-designation packages against shipping and trading networks.",
       "id": "5c360a02-b9e2-4de9-be19-67048788f126",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "The reported EU intervention increases the odds of escalation to formal Commission proceedings under the DSA as enforcement focus shifts from content to product design.",
       "id": "24c49478-5e6d-4956-af0c-26460ba486fa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -80,7 +80,7 @@
       ],
       "rationale": "Once regulators order design changes, platforms typically implement and publicize compliance steps within months to reduce litigation/enforcement risk.",
       "id": "c678da6f-78e2-4330-a0e3-f8de0ecda618",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -101,7 +101,7 @@
       ],
       "rationale": "AI infrastructure spending is elevated; hitting a very high single-quarter capex print is plausible but depends on timing of build and payments.",
       "id": "02a0967d-3495-44e1-a607-9414213eb963",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -121,7 +121,7 @@
       ],
       "rationale": "If the campaign affected Norwegian firms, public attribution and guidance often follow, especially when allied governments standardize actor naming.",
       "id": "d59c9113-2048-4c39-962a-d5ae588eb967",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rationale": "Deteriorating security and governance vacuum increase pressure for UN-backed escalation, but consensus and resourcing constraints keep odds below even.",
       "id": "a360a180-a1fa-4d64-89a3-a5154ec7164c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -161,7 +161,7 @@
       ],
       "rationale": "With near-term funding risk reduced by the court ruling, the project is positioned to move toward a formal full-funding agreement, though federal budget politics remain a risk.",
       "id": "7bc3c8a4-46a5-4590-88cd-84a69b2c9343",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "rationale": "EV supply-chain and China industrial-policy concerns make additional targeted restrictions plausible, but timing depends on investigations and domestic political bandwidth.",
       "id": "87d8324f-02bd-4182-bb14-2f1184a1fc53",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

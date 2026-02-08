@@ -1,0 +1,175 @@
+{
+  "date": "2026-02-08",
+  "predictions": [
+    {
+      "text": "The New York State Legislature will pass (in either the Assembly or the Senate) a bill that imposes a statewide moratorium of at least 24 months on permitting/approval of new data centers (or new large data-center campuses) by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 142,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Confirmed if NY Assembly or NY Senate legislative records show final passage (floor vote) of a bill whose enacted text includes a statewide moratorium (>=24 months) on new data-center permitting/approvals; the bill number and text must be publicly accessible on ny.gov/legislation tracking pages.",
+      "evidence": [
+        "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+        "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/"
+      ],
+      "monitoring_signals": [
+        "Bill reported out of committee in either chamber",
+        "Governor\u2019s office statement of support/concerns",
+        "NYISO comments on large-load/data-center interconnections",
+        "Major cloud/colocation lobbying disclosures in NY"
+      ],
+      "rationale": "The proposal is already public and grid-constraint politics are salient, but statewide moratoria often face pushback over jobs/tax base and may be narrowed before passing.",
+      "id": "a13f411b-d41d-4d29-9e01-ee08d35d9287",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "FDA will issue at least 3 publicly posted enforcement actions (warning letters, untitled letters, injunction/seizure announcements, or similar FDA enforcement postings) that explicitly reference compounded or non-approved GLP-1 products (e.g., semaglutide/tirzepatide) by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 234,
+      "deadline": "2026-09-30",
+      "confidence_pct": 58,
+      "verification_criteria": "Count FDA public enforcement postings dated on or before the deadline; each must explicitly mention compounded/non-approved GLP-1 products or semaglutide/tirzepatide compounding in the body text. Threshold met when count >=3.",
+      "evidence": [
+        "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs"
+      ],
+      "monitoring_signals": [
+        "FDA CDER/OCI enforcement page updates",
+        "State pharmacy board disciplinary notices tied to GLP-1 compounding",
+        "Manufacturer complaints/litigation filings referencing copycat GLP-1 supply",
+        "FDA import alerts mentioning GLP-1 active ingredients"
+      ],
+      "rationale": "FDA has explicitly signaled enforcement intent; the main uncertainty is pacing and whether actions are consolidated into fewer, larger cases.",
+      "id": "7eae7d0b-9e50-4b12-adef-ce53675d8ae9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Federal Trade Commission (FTC) will announce at least one enforcement action (complaint + order/settlement, or lawsuit) primarily involving AI-generated impersonation/deepfake content used to scam consumers (e.g., fraudulent ads/robocalls using a public figure\u2019s likeness) by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 326,
+      "deadline": "2026-12-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Verified if an FTC press release and linked complaint/order explicitly describe AI-generated impersonation/deepfakes as a core mechanism of the alleged deception (not incidental), and the respondent is named (company/individual).",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/07/business/trump-truth-social-fake-post-obamas.html"
+      ],
+      "monitoring_signals": [
+        "FTC blog posts on impersonation fraud",
+        "Consumer sentinel reports and FTC data spotlights about AI scams",
+        "Major platforms\u2019 transparency reports on synthetic media",
+        "DOJ/State AG parallel cases referencing deepfake scams"
+      ],
+      "rationale": "Impersonation fraud is a long-running FTC focus and deepfakes raise stakes; uncertainty is whether a case is framed explicitly around AI/deepfakes in the public announcement.",
+      "id": "ffdecffc-a00b-4330-be94-f5a60424d495",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The NFL will publicly announce at least one new multi-year U.S. media-rights agreement granting a streaming-first partner exclusive rights to a recurring package of regular-season games (at least 4 games per season), starting no earlier than the 2027 season, by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 326,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "verification_criteria": "Confirmed if an NFL press release (or jointly issued partner release) states (1) exclusive streaming distribution, (2) a recurring regular-season game package, (3) the number of games per season is >=4, and (4) rights begin in 2027 season or later.",
+      "evidence": [
+        "https://www.marketwatch.com/story/nfl-heads-into-super-bowl-after-season-of-record-ratings-paving-way-for-tv-rights-bonanza-bb8f897c?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "NFL owners meeting agendas and commissioner remarks",
+        "Earnings commentary by Amazon/Apple/Netflix/Google/Disney about sports rights",
+        "Reports of formal bid rounds for specific NFL packages",
+        "Renewal/renegotiation timelines for existing NFL partner contracts"
+      ],
+      "rationale": "Record ratings strengthen pricing power, but timing depends on contract windows and negotiation cadence; exclusivity and package size are the key uncertainties.",
+      "id": "dd07974e-ffc9-4889-9eb7-2b933171ad6e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "U.S. CPI (not seasonally adjusted) for the BLS 'Electricity' index will show year-over-year inflation at or above 7.0% in at least one monthly CPI release by 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 234,
+      "deadline": "2026-09-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Verified if any BLS CPI release with publication date on/before the deadline shows Electricity index (CUSR0000SEHF01) YoY >= 7.0% (using the index level vs same month prior year).",
+      "evidence": [
+        "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/"
+      ],
+      "monitoring_signals": [
+        "Regional utility rate-case approvals and tariff updates",
+        "Wholesale power price spikes (PJM/NYISO/ERCOT) sustained over weeks",
+        "EIA retail electricity price trends",
+        "News of data-center-driven load growth and grid congestion"
+      ],
+      "rationale": "AI/data-center load growth and constrained generation/transmission can create localized price pressure, but CPI electricity reflects regulated retail rates that can adjust with lag.",
+      "id": "29da931a-fa6c-49c5-af8f-ce3e31383bb2",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "PJM Interconnection or NYISO will submit a filing to FERC proposing new or revised tariff rules explicitly aimed at integrating/queuing large-load requests from data centers/AI compute (e.g., deposits, milestones, curtailment, or fast-track requirements) by 2026-08-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 204,
+      "deadline": "2026-08-31",
+      "confidence_pct": 50,
+      "verification_criteria": "Confirmed if a FERC eLibrary docket filing by PJM or NYISO includes tariff/operating agreement revisions and explicitly references data centers, AI compute, or comparable 'large load' categories as the motivation/target; must be a formal filing (not just comments).",
+      "evidence": [
+        "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+        "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/"
+      ],
+      "monitoring_signals": [
+        "ISO stakeholder meeting slides on large-load interconnection",
+        "FERC technical conferences on resource adequacy / large loads",
+        "Utility announcements of multi-GW data-center queues",
+        "State PUC orders addressing data-center hookups"
+      ],
+      "rationale": "ISOs are under mounting pressure to manage large-load uncertainty; the main uncertainty is whether changes occur via FERC filing versus internal procedures/state actions.",
+      "id": "18a67731-b5b7-468d-a363-7304bf891129",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Freddie Mac will report the U.S. 30-year fixed-rate mortgage (PMMS weekly average) below 5.50% in at least one weekly release by 2026-06-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 142,
+      "deadline": "2026-06-30",
+      "confidence_pct": 32,
+      "verification_criteria": "Verified if any Freddie Mac PMMS weekly release dated on/before the deadline lists the 30-year fixed-rate mortgage average as <5.50%.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/07/housing-affordability-income-changes.html"
+      ],
+      "monitoring_signals": [
+        "10-year Treasury yield trend and term premium measures",
+        "MBS spreads (current coupon vs Treasuries)",
+        "Fed communications shifting toward easing",
+        "Weekly mortgage application/refinance indices"
+      ],
+      "rationale": "Affordability pressures increase political/economic incentives for lower rates, but reaching <5.5% soon requires both Treasury yields and mortgage spreads to cooperate.",
+      "id": "3ae486dc-7175-4724-81ba-25a445fdf4dd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A Phase 2 (or Phase 2/3) human clinical trial of an Epstein\u2013Barr virus (EBV) vaccine or EBV-targeting antiviral therapy with multiple sclerosis (MS) as an explicit condition/endpoint will be newly listed on ClinicalTrials.gov by 2026-12-31 (UTC).",
+      "category": "other",
+      "horizon_days": 326,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "verification_criteria": "Confirmed if ClinicalTrials.gov shows a new study first posted on/before the deadline with Phase 2 or Phase 2/3; intervention is EBV vaccine or EBV-targeting antiviral/immune therapy; and MS is explicitly stated in 'Condition' or primary outcome/endpoint description.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/02/260206232245.htm"
+      ],
+      "monitoring_signals": [
+        "Company pipeline updates referencing EBV and MS",
+        "NIH/foundation funding calls for EBV-MS translational work",
+        "Conference abstracts (AAN/ECTRIMS) describing Phase 2 plans",
+        "ClinicalTrials.gov postings for EBV vaccines moving beyond Phase 1"
+      ],
+      "rationale": "Mechanistic evidence strengthens the case for targeted trials, but Phase 2 launches depend on prior safety/immune data and sponsor prioritization.",
+      "id": "5d83d65c-3936-49ab-a752-5976eb637bba",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

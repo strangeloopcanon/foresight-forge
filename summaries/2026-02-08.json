@@ -1,0 +1,116 @@
+{
+  "bullets": [
+    {
+      "text": "Backlash to a racist-looking Trump social post shows political vulnerability persists, affecting campaign messaging and potentially market sensitivity to election shocks.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/02/07/us/politics/trump-social-post-reaction.html"
+    },
+    {
+      "text": "A convincing fake Truth Social post highlights deepfake/misinformation risks that can move politics and markets; platforms face higher compliance and verification costs.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/02/07/business/trump-truth-social-fake-post-obamas.html"
+    },
+    {
+      "text": "Binance support for a Trump-linked crypto venture underscores regulatory and conflict-of-interest scrutiny around major exchanges and politically connected digital-asset businesses.",
+      "tags": [
+        "markets",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/07/business/binance-trump-crypto.html"
+    },
+    {
+      "text": "Growing Trump administration equity holdings raise governance, antitrust, and retaliation risks for U.S. companies; markets may price in political favor or targeting.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/07/trump-equity-stakes-pose-these-risks-to-us-companies-and-markets.html"
+    },
+    {
+      "text": "Trump backing Nexstar\u2019s Tegna bid signals shifting media-merger politics; could reshape local TV advertising and retransmission fees, with implications for election-year coverage.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/07/trump-nexstar-tegna.html"
+    },
+    {
+      "text": "AI capex is creating spillover shortages (power, chips, materials, skilled labor), implying inflationary pockets and a renewed premium on energy and industrial capacity.",
+      "tags": [
+        "macro",
+        "tech",
+        "energy"
+      ],
+      "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/"
+    },
+    {
+      "text": "New York\u2019s proposed three-year pause on new data centers spotlights grid constraints; could redirect AI infrastructure investment to cheaper-power regions.",
+      "tags": [
+        "energy",
+        "tech",
+        "macro"
+      ],
+      "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/"
+    },
+    {
+      "text": "Housing affordability remains stretched: median incomes would need roughly $50,000 more to match 2019 affordability, implying continued demand pressure and policy debate.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/07/housing-affordability-income-changes.html"
+    },
+    {
+      "text": "NFL record ratings strengthen leverage for the next media-rights cycle; higher rights fees may push up streaming bundle prices and accelerate sports-driven cord-cutting dynamics.",
+      "tags": [
+        "markets",
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/nfl-heads-into-super-bowl-after-season-of-record-ratings-paving-way-for-tv-rights-bonanza-bb8f897c?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Automakers largely skipping Super Bowl ads signals industry uncertainty and marketing retrenchment, consistent with margin pressure and uneven EV demand outlook.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/07/super-bowl-ads-gm-toyota-volkswagen.html"
+    },
+    {
+      "text": "FDA plans enforcement against non-approved GLP-1 drugs, tightening a major obesity market; expected winners are approved manufacturers, while compounders and copycats face risk.",
+      "tags": [
+        "markets",
+        "science"
+      ],
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs"
+    },
+    {
+      "text": "Study finds stronger mechanistic link between Epstein\u2013Barr virus and multiple sclerosis, supporting vaccine/antiviral R&D and potentially expanding addressable neurology markets.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260206232245.htm"
+    },
+    {
+      "text": "New forecasting methods provide earlier warning of Arctic sea-ice loss, improving climate-risk pricing for shipping, insurance, and Arctic-adjacent infrastructure planning.",
+      "tags": [
+        "science",
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260206232249.htm"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-07",
+  "assessments": [
+    {
+      "id": "5c74224c-2036-48bb-b76e-3de67788b1ab",
+      "status": "pending",
+      "status_rationale": "No items in TODAY_NEWS_BULLETS report NYMEX WTI front-month settlement prices or any day settling at/above $95; the claim remains unverified from the provided news."
+    },
+    {
+      "id": "5c360a02-b9e2-4de9-be19-67048788f126",
+      "status": "pending",
+      "status_rationale": "No bullet indicates an OFAC Iran-related sanctions action designating 10+ entities/vessels tied to Iran oil/petrochemical exports; no relevant sanctions announcement is cited."
+    },
+    {
+      "id": "24c49478-5e6d-4956-af0c-26460ba486fa",
+      "status": "pending",
+      "status_rationale": "No bullet references the European Commission opening formal DSA proceedings against TikTok, nor mentions addictive design or recommender-system risks."
+    },
+    {
+      "id": "c678da6f-78e2-4330-a0e3-f8de0ecda618",
+      "status": "pending",
+      "status_rationale": "No bullet indicates TikTok publicly confirmed EU product changes limiting infinite scroll or materially altering recommendations to address EU concerns."
+    },
+    {
+      "id": "02a0967d-3495-44e1-a607-9414213eb963",
+      "status": "pending",
+      "status_rationale": "No bullet provides Microsoft quarterly financial statement data (property and equipment additions/capex) to confirm or refute the $25B+ quarter condition."
+    },
+    {
+      "id": "d59c9113-2048-4c39-962a-d5ae588eb967",
+      "status": "pending",
+      "status_rationale": "No bullet mentions Norway\u2019s NSM/NCSC (or similar) publishing an advisory/report naming 'Salt Typhoon'; the needed evidence is absent."
+    },
+    {
+      "id": "a360a180-a1fa-4d64-89a3-a5154ec7164c",
+      "status": "pending",
+      "status_rationale": "No bullet reports a UN Security Council resolution on Haiti expanding/renewing a security mandate with additional personnel or expanded rules of engagement."
+    },
+    {
+      "id": "7bc3c8a4-46a5-4590-88cd-84a69b2c9343",
+      "status": "pending",
+      "status_rationale": "No bullet references the Gateway Development Commission/USDOT/FRA executing an FFGA (or equivalent full-funding commitment) for the Hudson Tunnel Project."
+    },
+    {
+      "id": "87d8324f-02bd-4182-bb14-2f1184a1fc53",
+      "status": "pending",
+      "status_rationale": "No bullet describes a USTR/Commerce announcement of new or increased numerically specified tariffs/trade restrictions targeting Chinese EVs or battery materials."
+    }
+  ]
+}
