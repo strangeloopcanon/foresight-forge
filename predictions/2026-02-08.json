@@ -20,7 +20,7 @@
       ],
       "rationale": "The proposal is already public and grid-constraint politics are salient, but statewide moratoria often face pushback over jobs/tax base and may be narrowed before passing.",
       "id": "a13f411b-d41d-4d29-9e01-ee08d35d9287",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "FDA has explicitly signaled enforcement intent; the main uncertainty is pacing and whether actions are consolidated into fewer, larger cases.",
       "id": "7eae7d0b-9e50-4b12-adef-ce53675d8ae9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Impersonation fraud is a long-running FTC focus and deepfakes raise stakes; uncertainty is whether a case is framed explicitly around AI/deepfakes in the public announcement.",
       "id": "ffdecffc-a00b-4330-be94-f5a60424d495",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Record ratings strengthen pricing power, but timing depends on contract windows and negotiation cadence; exclusivity and package size are the key uncertainties.",
       "id": "dd07974e-ffc9-4889-9eb7-2b933171ad6e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "AI/data-center load growth and constrained generation/transmission can create localized price pressure, but CPI electricity reflects regulated retail rates that can adjust with lag.",
       "id": "29da931a-fa6c-49c5-af8f-ce3e31383bb2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "ISOs are under mounting pressure to manage large-load uncertainty; the main uncertainty is whether changes occur via FERC filing versus internal procedures/state actions.",
       "id": "18a67731-b5b7-468d-a363-7304bf891129",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -147,7 +147,7 @@
       ],
       "rationale": "Affordability pressures increase political/economic incentives for lower rates, but reaching <5.5% soon requires both Treasury yields and mortgage spreads to cooperate.",
       "id": "3ae486dc-7175-4724-81ba-25a445fdf4dd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -168,7 +168,7 @@
       ],
       "rationale": "Mechanistic evidence strengthens the case for targeted trials, but Phase 2 launches depend on prior safety/immune data and sponsor prioritization.",
       "id": "5d83d65c-3936-49ab-a752-5976eb637bba",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

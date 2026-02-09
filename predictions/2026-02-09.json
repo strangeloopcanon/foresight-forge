@@ -1,0 +1,174 @@
+{
+  "date": "2026-02-09",
+  "predictions": [
+    {
+      "text": "U.S. Treasury (OFAC) will publish a new or amended Venezuela-related General License that explicitly authorizes (expands) oil and/or gas sector transactions with Venezuelan state-linked entities (e.g., PDVSA) by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 141,
+      "deadline": "2026-06-30",
+      "confidence_pct": 47,
+      "log_odds": -0.12014431184206335,
+      "verification_criteria": "Resolves Yes if OFAC posts on its website a new or amended Venezuela GL (or GL FAQ update explicitly tied to a GL) that expands authorization for oil/gas transactions versus the then-current baseline, and the text explicitly references Venezuela and oil/gas sector activity.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/08/world/americas/venezuela-opposition-leaders-released.html"
+      ],
+      "monitoring_signals": [
+        "OFAC \u2018Recent Actions\u2019 page for Venezuela-related updates",
+        "U.S. State Department press briefings on Venezuela negotiations",
+        "Major oil-company statements (Chevron/Eni/Repsol) about license terms"
+      ],
+      "rationale": "Venezuela\u2019s political move to court U.S. support increases the likelihood of incremental sanctions relief aimed at oil flows, especially if tied to electoral or humanitarian conditions.",
+      "id": "0c3fa6cb-f777-4740-b653-f847302f174d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Nikkei 225 index will record at least one daily close at or above 45,000 by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 325,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "log_odds": -0.3639653771717238,
+      "verification_criteria": "Resolves Yes if the official Nikkei 225 closing value (as published by Nikkei/major market data providers) is \u2265 45,000 on any trading day on or before the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/08/world/asia/japan-takaichi-election-landslide.html"
+      ],
+      "monitoring_signals": [
+        "JPY/USD trend and BoJ policy communications",
+        "Japan fiscal-policy announcements consistent with pro-growth agenda",
+        "Foreign inflow data into Japanese equities (weekly/monthly flow reports)"
+      ],
+      "rationale": "A strong political mandate can reinforce risk-on positioning and earnings optimism, but the 45k threshold requires sustained momentum and supportive FX/macro conditions.",
+      "id": "cb46570b-1c44-4710-baf1-72f55d73fcb0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Thailand\u2019s government will declare a state of emergency (or equivalent emergency decree) covering Bangkok due to post-election unrest by 2026-05-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 111,
+      "deadline": "2026-05-31",
+      "confidence_pct": 27,
+      "log_odds": -0.9946225751440618,
+      "verification_criteria": "Resolves Yes if Thailand\u2019s Royal Gazette or an official government announcement confirms a state of emergency/emergency decree that explicitly includes Bangkok and cites public disorder/protests as the reason.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/08/world/asia/thailand-election-opposition-conservatives.html"
+      ],
+      "monitoring_signals": [
+        "Public protest size/frequency reported by major wire services",
+        "Statements from Thai police/military about crowd-control escalation",
+        "Royal Gazette postings of emergency decrees"
+      ],
+      "rationale": "Surprise political outcomes raise protest risk, but emergency declarations are a high bar and depend on escalation beyond routine demonstrations.",
+      "id": "42ffe59b-5ae3-4a8a-9eea-481625dcff0a",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The U.S. CFTC will issue a formal public action (order, settlement, no-action letter withdrawal, or rulemaking notice) that explicitly addresses sports-event prediction markets/contracts (not just elections) by 2026-04-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 80,
+      "deadline": "2026-04-30",
+      "confidence_pct": 52,
+      "log_odds": 0.08004270767353636,
+      "verification_criteria": "Resolves Yes if the CFTC posts on cftc.gov a document (Federal Register notice, Commission order, settlement, staff letter, or enforcement release) that explicitly references sports-event contracts/markets and sets policy, restrictions, or enforcement posture toward them.",
+      "evidence": [
+        "https://www.marketwatch.com/story/this-super-bowl-the-game-to-watch-is-prediction-markets-versus-sportsbooks-0c674968"
+      ],
+      "monitoring_signals": [
+        "CFTC \u2018Press Releases\u2019 and \u2018Federal Register Notices\u2019 pages",
+        "Major prediction-market operator announcements on sports contracts",
+        "State AG/public gaming regulator statements complaining about event contracts"
+      ],
+      "rationale": "Regulatory pressure is rising as sports-event contracts blur gambling/derivatives lines; the CFTC is a focal point for clarifying permissibility.",
+      "id": "63f5d45a-ad07-4057-83ef-376efabedc00",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The CFPB will publish a consumer advisory, circular, supervisory highlight, or enforcement action explicitly focused on generative-AI-driven financial advice (including retirement planning) by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 233,
+      "deadline": "2026-09-30",
+      "confidence_pct": 37,
+      "log_odds": -0.5322168137473081,
+      "verification_criteria": "Resolves Yes if the CFPB posts an official publication or enforcement release that explicitly mentions generative AI/LLMs/chatbots used to provide financial advice (including retirement planning) and frames it as a consumer-protection or compliance issue.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/08/business/retirement-planning-ai-chatbots.html"
+      ],
+      "monitoring_signals": [
+        "CFPB newsroom and guidance/circulars page updates",
+        "CFPB speeches mentioning AI in consumer finance",
+        "High-profile incidents of chatbot financial-advice harm or mis-selling claims"
+      ],
+      "rationale": "Growing consumer use plus liability/bias concerns make regulatory communication plausible, but CFPB prioritization versus other issues is uncertain.",
+      "id": "8895d066-7be7-4264-b640-2ac0dbd4df6d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Microsoft will publish a security advisory and ship Windows security updates that explicitly mitigate a bypass of UEFI Secure Boot involving signed bootloaders, with at least one associated CVE, by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 50,
+      "deadline": "2026-03-31",
+      "confidence_pct": 57,
+      "log_odds": 0.2818511521407611,
+      "verification_criteria": "Resolves Yes if Microsoft\u2019s MSRC posts an advisory referencing UEFI Secure Boot bypass via signed bootloaders and Patch Tuesday (or out-of-band) release notes list one or more CVEs with a fix/mitigation tied to that issue by the deadline.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/02/260208011026.htm"
+      ],
+      "monitoring_signals": [
+        "MSRC \u2018Security Update Guide\u2019 entries mentioning Secure Boot/UEFI",
+        "New CVEs referencing bootloader/DBX revocation",
+        "OEM advisories (Dell/HP/Lenovo) about Secure Boot mitigation steps"
+      ],
+      "rationale": "Secure Boot bypasses via signed components are typically addressed through advisories plus revocation/patch mechanisms once validated.",
+      "id": "dafe9dba-d8bb-4b83-91f9-1bf15628002c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. State Department will impose a new public visa restriction or sanction measure targeting at least one Hong Kong or PRC official, explicitly citing the Jimmy Lai sentencing or Hong Kong political prosecutions, by 2026-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 325,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "log_odds": -0.6632942174102642,
+      "verification_criteria": "Resolves Yes if the State Department (or Treasury) publishes a press statement or designation notice naming at least one individual and explicitly linking the action to Jimmy Lai\u2019s sentencing/prosecution or Hong Kong political prosecutions (e.g., under HK Autonomy Act/Magnitsky/visa restriction authorities).",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/09/hong-kong-media-tycoon-democracy-activist-jimmy-lai-sentenced-imprisonment.html"
+      ],
+      "monitoring_signals": [
+        "State Department press releases on Hong Kong/China actions",
+        "Congressional letters urging sanctions post-sentencing",
+        "Allied statements (UK/EU/Canada) coordinating responses"
+      ],
+      "rationale": "High-profile sentencing can trigger targeted measures, but escalation competes with broader U.S.-China priorities and may be calibrated to avoid retaliation.",
+      "id": "9ded400f-6a8e-4c51-a6ee-bf9d7c34a155",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A U.S. House standing committee will hold a public hearing that explicitly discusses conflicts-of-interest or governance concerns related to U.S. Commerce Secretary Howard Lutnick, referencing the Epstein records reporting, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 141,
+      "deadline": "2026-06-30",
+      "confidence_pct": 26,
+      "log_odds": -1.0459685551826876,
+      "verification_criteria": "Resolves Yes if a House committee publishes an official hearing notice/memo and the hearing record (title, witness statements, or opening remarks) explicitly references Lutnick and Epstein records/files/reporting as part of the hearing\u2019s subject matter.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/08/epstein-files-trump-lutnick-massie.html",
+        "https://www.nytimes.com/2026/02/07/us/politics/doj-prosecutors-recruiting-trump.html"
+      ],
+      "monitoring_signals": [
+        "House Oversight, Ways & Means, and Energy & Commerce hearing calendars",
+        "Public committee letters requesting documents from Commerce",
+        "Inspector General announcements touching Commerce leadership issues"
+      ],
+      "rationale": "Media-driven governance controversies sometimes prompt hearings, but scheduling and partisan bandwidth make this uncertain without new disclosures.",
+      "id": "3e990de6-ac77-4aa9-8fb8-1a4780522b00",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

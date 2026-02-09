@@ -1,0 +1,111 @@
+{
+  "bullets": [
+    {
+      "text": "Political loyalty tests around Trump cases hinder DOJ prosecutor recruiting, potentially slowing federal enforcement and increasing institutional strain.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/07/us/politics/doj-prosecutors-recruiting-trump.html"
+    },
+    {
+      "text": "Venezuela releases key opposition figures to court U.S. support, raising odds of sanction easing and increased oil exports.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/08/world/americas/venezuela-opposition-leaders-released.html"
+    },
+    {
+      "text": "Japan\u2019s Takaichi wins snap election; LDP supermajority boosts policy certainty and drives Nikkei to record highs as investors price pro-growth agenda.",
+      "tags": [
+        "geopolitics",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/08/world/asia/japan-takaichi-election-landslide.html"
+    },
+    {
+      "text": "Portugal elects left-leaning president, halting far-right surge and signaling near-term policy stability within EU.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/08/world/europe/portugal-president-elections-chega-seguro-ventura.html"
+    },
+    {
+      "text": "Thailand conservative party\u2019s surprise victory could shift economic priorities and foreign policy, creating near-term uncertainty for markets and protests risk.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/02/08/world/asia/thailand-election-opposition-conservatives.html"
+    },
+    {
+      "text": "Hong Kong jails Jimmy Lai for 20 years, deepening rule-of-law concerns and worsening China-West tensions for global firms.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/09/hong-kong-media-tycoon-democracy-activist-jimmy-lai-sentenced-imprisonment.html"
+    },
+    {
+      "text": "After volatile week, investors focus on U.S. jobs and inflation prints that could swing Fed rate expectations and equity valuations.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-after-a-wild-week-on-wall-street-ahead-of-key-jobs-and-inflation-reports-60e29ed8"
+    },
+    {
+      "text": "Super Bowl betting spotlights prediction markets versus sportsbooks; legal and liquidity battles may redefine U.S. gambling, hedging, and event-derivatives regulation.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/this-super-bowl-the-game-to-watch-is-prediction-markets-versus-sportsbooks-0c674968"
+    },
+    {
+      "text": "A.I. chatbots increasingly used for retirement planning, but advice quality, liability, and bias raise consumer-protection issues for fintech and regulators.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/08/business/retirement-planning-ai-chatbots.html"
+    },
+    {
+      "text": "\u2018Trump accounts\u2019 pitched for children highlight politicized retail finance; investors should scrutinize tax treatment, fees, custody, and conflicts.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/3-things-to-know-about-trump-accounts-the-new-investment-vehicle-for-kids-advertised-during-the-super-bowl-fdf64e91"
+    },
+    {
+      "text": "Epstein records expand scrutiny of Silicon Valley and prompt calls for U.S. Commerce chief Lutnick\u2019s resignation, increasing governance and reputational risk.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/08/epstein-files-trump-lutnick-massie.html"
+    },
+    {
+      "text": "Scientists say climate models may omit a key ocean component, potentially underestimating warming and extreme-weather impacts\u2014important for adaptation, infrastructure, and insurance pricing.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260208011024.htm"
+    },
+    {
+      "text": "Research advances: a new circadian drug cuts jet-lag recovery nearly in half; separate work shows signed bootloaders can bypass UEFI Secure Boot.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260208011026.htm"
+    }
+  ]
+}
