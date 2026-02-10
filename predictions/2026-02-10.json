@@ -1,0 +1,206 @@
+{
+  "date": "2026-02-10",
+  "predictions": [
+    {
+      "text": "A merchant vessel will be successfully boarded or seized by Iranian forces in (or within 50 nautical miles of) the Strait of Hormuz, with the incident publicly confirmed by UKMTO, US CENTCOM/U.S. Navy, or the vessel\u2019s flag state, by 2026-04-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 79,
+      "deadline": "2026-04-30",
+      "confidence_pct": 55,
+      "verification_criteria": "At least one official/public source (UKMTO, US CENTCOM/U.S. Navy, or a flag-state government statement) confirms an Iranian boarding or seizure (not just approach/harassment) of a merchant vessel in/near the Strait of Hormuz (<=50 nm).",
+      "evidence": [
+        "U.S. urged ships to keep maximum distance from Iran near the Strait of Hormuz after boarding attempts (CNBC, 2026-02-10)."
+      ],
+      "monitoring_signals": [
+        "UKMTO incident alerts referencing boarding/armed personnel on deck",
+        "USCENTCOM/U.S. Navy press releases citing vessel seizure/boarding",
+        "Flag-state maritime authority statements and IMO GISIS incident entries",
+        "Major shipping company security advisories rerouting away from Hormuz"
+      ],
+      "rationale": "Recent Iranian boarding attempts and heightened warnings increase the probability of at least one successful seizure/boarding event in the near term, especially if regional tensions rise.",
+      "id": "731a33f0-e50d-4b63-8b89-d36f95eab30a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Lloyd\u2019s Joint War Committee (JWC) will add the Strait of Hormuz (or explicitly expand its listed-areas wording to newly include additional adjacent waters tied to Iran boarding risk) in an official Listed Areas update by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 140,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "A JWC circular/list update (or equivalent official JWC publication) explicitly adds the Strait of Hormuz or expands listed boundaries/wording to cover additional adjacent waters due to security risk tied to Iran/IRGC activity.",
+      "evidence": [
+        "U.S. warning to ships near the Strait of Hormuz highlights escalating maritime-security risk (CNBC, 2026-02-10)."
+      ],
+      "monitoring_signals": [
+        "JWC Listed Areas update publications",
+        "War-risk premium changes noted by major marine insurers/brokers",
+        "Shipping industry security bulletins (BIMCO/ICS) citing listed-area changes"
+      ],
+      "rationale": "War-risk boundaries tend to adjust after sustained boarding/seizure risk. A formal update is plausible but not certain without a major incident.",
+      "id": "b9d4ceb7-92e6-4091-98e3-85437a4d2c0f",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least two airlines will publicly announce suspensions or schedule reductions of Cuba routes for a period of at least 14 days, explicitly citing jet-fuel shortage or refueling constraints in Cuba, by 2026-03-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 49,
+      "deadline": "2026-03-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Two separate airlines publish statements (press release, website travel advisory, or credible media report quoting the airline) announcing Cuba route suspensions/reductions lasting >=14 days and explicitly attributing the change to jet-fuel shortage/refueling limits in Cuba.",
+      "evidence": [
+        "Cuba\u2019s jet-fuel shortage forces refueling limits and flight cancellations (NYT, 2026-02-09)."
+      ],
+      "monitoring_signals": [
+        "Airline travel advisories for Cuba destinations (Havana/Varadero/etc.)",
+        "Cuba airport/aviation authority operational notices",
+        "IATA/aviation press reporting on fuel availability in Cuba"
+      ],
+      "rationale": "If jet-fuel logistics remain tight, more carriers are likely to preemptively reduce service rather than operate with unreliable fueling.",
+      "id": "4edd1778-38b4-4e79-9d17-d5f2f7341b06",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Alphabet (Google) will complete at least $15.0 billion (USD) in aggregate gross bond issuance (across one or multiple offerings) by 2026-06-30 (UTC).",
+      "category": "rates",
+      "horizon_days": 140,
+      "deadline": "2026-06-30",
+      "confidence_pct": 43,
+      "verification_criteria": "Sum of principal amounts from Alphabet bond offering documents (prospectus supplements) and/or SEC filings (8-K/10-Q references) shows total gross issuance >= $15.0B with settlement dates on/before 2026-06-30.",
+      "evidence": [
+        "Alphabet tapped bond markets to fund AI build-out (CNBC, 2026-02-09)."
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR filings: prospectus supplements for Alphabet debt",
+        "Earnings call remarks on financing/cash needs for AI capex",
+        "Credit-market commentary on large tech issuance windows"
+      ],
+      "rationale": "AI capex and data-center buildouts increase funding needs; Alphabet has already signaled willingness to use debt markets.",
+      "id": "f9a76c80-bf57-4a77-a7bd-8b6b9227d7af",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Alphabet will announce a new incremental share repurchase authorization of at least $70 billion (USD) during an earnings release/call or SEC filing by 2026-04-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 79,
+      "deadline": "2026-04-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Alphabet publicly discloses board authorization for additional repurchases with a stated dollar amount >= $70B (incremental authorization, not cumulative) in an earnings release, 10-Q, 8-K, or investor presentation by the deadline.",
+      "evidence": [
+        "Alphabet highlights AI build-out and new AI-related risks while tapping debt markets (CNBC, 2026-02-09)."
+      ],
+      "monitoring_signals": [
+        "Alphabet earnings release and 10-Q language on buyback authorizations",
+        "Board authorization announcements and capital allocation commentary",
+        "Changes in net share count and repurchase pace disclosures"
+      ],
+      "rationale": "Alphabet has historically paired strong cash generation with large buyback authorizations; continued investor focus on capital return makes another large authorization plausible.",
+      "id": "af9304b6-6a89-4560-9235-389f299e3595",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OpenAI will launch a publicly documented advertiser onboarding pathway for ChatGPT ads (e.g., a help center page + sign-up form or self-serve dashboard) by 2026-05-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 110,
+      "deadline": "2026-05-31",
+      "confidence_pct": 50,
+      "verification_criteria": "OpenAI publishes official documentation enabling advertisers to initiate ChatGPT ad buys (self-serve portal or official sign-up workflow) that is accessible on openai.com/help or an OpenAI subdomain and explicitly references ads in ChatGPT.",
+      "evidence": [
+        "OpenAI begins rolling out ads in ChatGPT, signaling monetization pressure (TechCrunch, 2026-02-09)."
+      ],
+      "monitoring_signals": [
+        "OpenAI Help Center updates referencing advertising in ChatGPT",
+        "OpenAI blog posts on ad formats/measurement/brand safety",
+        "Publisher/agency announcements of pilot programs with ChatGPT"
+      ],
+      "rationale": "Once ads are introduced, a scalable advertiser onboarding process typically follows quickly to grow revenue and standardize compliance and measurement.",
+      "id": "fd9eb948-b714-404d-906c-0e6a87c2a26b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Databricks will file (confidentially or publicly) an initial registration statement for an IPO (Form S-1 or F-1) with the U.S. SEC by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 324,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "SEC EDGAR shows an S-1/F-1 filing by Databricks, or Databricks publicly confirms a confidential submission; credible reporting must explicitly state an SEC IPO filing has been made.",
+      "evidence": [
+        "Databricks closes a $5B round at a $134B valuation (CNBC, 2026-02-09)."
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR new registrant searches and ticker/CIK discovery",
+        "Databricks hiring for SOX/SEC reporting roles",
+        "Media reports citing bankers retained and IPO timelines"
+      ],
+      "rationale": "Mega-rounds often extend private runway, but valuation and scale make IPO preparation likely within ~12 months if markets remain receptive.",
+      "id": "a6bbdfd9-1039-4f77-a9b9-9d08471f3894",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one U.S. state attorney general or state gaming regulator will issue a public cease-and-desist, order, or enforcement notice specifically targeting a sports-event prediction market (not election markets) by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 140,
+      "deadline": "2026-06-30",
+      "confidence_pct": 49,
+      "verification_criteria": "A state AG or state gaming regulator posts (website, press release, or public docket) a cease-and-desist/order/enforcement action naming a platform and explicitly referencing sports-event prediction markets/contracts.",
+      "evidence": [
+        "Super Bowl prediction markets saw nearly $1.5B traded, raising regulatory and integrity questions (MarketWatch, 2026-02-09)."
+      ],
+      "monitoring_signals": [
+        "State AG press releases and gaming commission enforcement pages",
+        "Public letters to platforms (Kalshi/others) posted by regulators",
+        "Legislative hearings on sports wagering vs prediction markets"
+      ],
+      "rationale": "Rapid growth and high visibility of sports prediction markets increases the chance of state-level jurisdictional challenges even before federal rule clarity.",
+      "id": "a5071d4e-88dd-4935-9815-b5354c39db64",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. House of Representatives will pass (final passage) a bill that expands the Low-Income Housing Tax Credit (LIHTC) by either (a) increasing 9% credit allocations by at least 10% or (b) making the 4% credit floor permanent, by 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 232,
+      "deadline": "2026-09-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Congress.gov shows House final passage of a bill whose text includes LIHTC expansion meeting threshold (>=10% 9% allocation increase OR permanent 4% floor).",
+      "evidence": [
+        "A housing-affordability package advances in Congress amid elevated home costs (CNBC, 2026-02-09)."
+      ],
+      "monitoring_signals": [
+        "Committee markups and bill text releases on Congress.gov",
+        "Statements from House leadership on housing package scheduling",
+        "Scoring releases from JCT/CBO for LIHTC provisions"
+      ],
+      "rationale": "Housing affordability is a rising bipartisan pressure point; LIHTC expansions are a common legislative vehicle, though floor time and offsets remain key uncertainties.",
+      "id": "9601b18c-f332-4eda-abbd-825c705ba0b6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A NATO summit communiqu\u00e9 or NATO Secretary General statement will explicitly endorse a new minimum defense-spending benchmark of at least 2.5% of GDP (i.e., raising the 2% floor) by 2026-07-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 171,
+      "deadline": "2026-07-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Official NATO publication (summit communiqu\u00e9) or Secretary General official transcript includes explicit language setting a new minimum benchmark >=2.5% of GDP for allies (not merely 'aim' or 'encourage' without a benchmark).",
+      "evidence": [
+        "European security experts warn U.S. policy shifts could weaken NATO cohesion, increasing European defense-spending pressure (NYT, 2026-02-09)."
+      ],
+      "monitoring_signals": [
+        "Pre-summit drafts/leaks reported by major outlets",
+        "National defense-ministry statements on new NATO spending floor",
+        "NATO press briefings and summit agenda documents"
+      ],
+      "rationale": "Perceived U.S. retrenchment risk raises pressure for a higher alliance spending floor, but formal adoption requires consensus and may face domestic budget resistance.",
+      "id": "e91a18e9-537a-40db-997b-fd9ae1fb89cf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-02-09",
+  "assessments": [
+    {
+      "id": "0c3fa6cb-f777-4740-b653-f847302f174d",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items include Cuba fuel shortages and broader U.S. pressure but do not report any new/amended OFAC Venezuela-related General License expanding authorization for oil/gas transactions with PDVSA or other state-linked Venezuelan entities."
+    },
+    {
+      "id": "cb46570b-1c44-4710-baf1-72f55d73fcb0",
+      "status": "pending",
+      "status_rationale": "Coverage notes the Nikkei 225 continuing a post-election rally, but provides no evidence of a daily close at or above 45,000; the threshold event is not documented here."
+    },
+    {
+      "id": "42ffe59b-5ae3-4a8a-9eea-481625dcff0a",
+      "status": "pending",
+      "status_rationale": "No news bullet indicates Thailand declaring a state of emergency (or equivalent) covering Bangkok due to post-election unrest."
+    },
+    {
+      "id": "63f5d45a-ad07-4057-83ef-376efabedc00",
+      "status": "pending",
+      "status_rationale": "There is reporting on large-volume sports prediction-market trading around the Super Bowl, but no indication of a CFTC formal public action (order/settlement/no-action withdrawal/rulemaking notice) explicitly addressing sports-event prediction markets."
+    },
+    {
+      "id": "8895d066-7be7-4264-b640-2ac0dbd4df6d",
+      "status": "pending",
+      "status_rationale": "No bullet references a CFPB advisory/circular/supervisory highlight/enforcement action specifically focused on generative-AI-driven financial advice or retirement planning."
+    },
+    {
+      "id": "dafe9dba-d8bb-4b83-91f9-1bf15628002c",
+      "status": "pending",
+      "status_rationale": "No report today indicates Microsoft has issued a security advisory and shipped Windows updates mitigating a UEFI Secure Boot bypass involving signed bootloaders with an associated CVE."
+    },
+    {
+      "id": "9ded400f-6a8e-4c51-a6ee-bf9d7c34a155",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets include Epstein-related reporting and other U.S. political/legal items, but nothing about a new U.S. State Department visa restriction or sanction targeting Hong Kong/PRC officials citing Jimmy Lai sentencing or Hong Kong political prosecutions."
+    },
+    {
+      "id": "3e990de6-ac77-4aa9-8fb8-1a4780522b00",
+      "status": "pending",
+      "status_rationale": "While there is fresh Epstein-related reporting, there is no evidence here of a U.S. House standing committee holding a public hearing explicitly discussing conflicts-of-interest/governance concerns related to Commerce Secretary Howard Lutnick and referencing Epstein records reporting."
+    }
+  ]
+}

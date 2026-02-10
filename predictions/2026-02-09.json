@@ -19,7 +19,7 @@
       ],
       "rationale": "Venezuela\u2019s political move to court U.S. support increases the likelihood of incremental sanctions relief aimed at oil flows, especially if tied to electoral or humanitarian conditions.",
       "id": "0c3fa6cb-f777-4740-b653-f847302f174d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "A strong political mandate can reinforce risk-on positioning and earnings optimism, but the 45k threshold requires sustained momentum and supportive FX/macro conditions.",
       "id": "cb46570b-1c44-4710-baf1-72f55d73fcb0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Surprise political outcomes raise protest risk, but emergency declarations are a high bar and depend on escalation beyond routine demonstrations.",
       "id": "42ffe59b-5ae3-4a8a-9eea-481625dcff0a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Regulatory pressure is rising as sports-event contracts blur gambling/derivatives lines; the CFTC is a focal point for clarifying permissibility.",
       "id": "63f5d45a-ad07-4057-83ef-376efabedc00",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Growing consumer use plus liability/bias concerns make regulatory communication plausible, but CFPB prioritization versus other issues is uncertain.",
       "id": "8895d066-7be7-4264-b640-2ac0dbd4df6d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Secure Boot bypasses via signed components are typically addressed through advisories plus revocation/patch mechanisms once validated.",
       "id": "dafe9dba-d8bb-4b83-91f9-1bf15628002c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "High-profile sentencing can trigger targeted measures, but escalation competes with broader U.S.-China priorities and may be calibrated to avoid retaliation.",
       "id": "9ded400f-6a8e-4c51-a6ee-bf9d7c34a155",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "Media-driven governance controversies sometimes prompt hearings, but scheduling and partisan bandwidth make this uncertain without new disclosures.",
       "id": "3e990de6-ac77-4aa9-8fb8-1a4780522b00",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]
