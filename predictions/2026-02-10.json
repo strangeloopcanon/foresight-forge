@@ -19,7 +19,7 @@
       ],
       "rationale": "Recent Iranian boarding attempts and heightened warnings increase the probability of at least one successful seizure/boarding event in the near term, especially if regional tensions rise.",
       "id": "731a33f0-e50d-4b63-8b89-d36f95eab30a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "War-risk boundaries tend to adjust after sustained boarding/seizure risk. A formal update is plausible but not certain without a major incident.",
       "id": "b9d4ceb7-92e6-4091-98e3-85437a4d2c0f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "If jet-fuel logistics remain tight, more carriers are likely to preemptively reduce service rather than operate with unreliable fueling.",
       "id": "4edd1778-38b4-4e79-9d17-d5f2f7341b06",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "AI capex and data-center buildouts increase funding needs; Alphabet has already signaled willingness to use debt markets.",
       "id": "f9a76c80-bf57-4a77-a7bd-8b6b9227d7af",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "Alphabet has historically paired strong cash generation with large buyback authorizations; continued investor focus on capital return makes another large authorization plausible.",
       "id": "af9304b6-6a89-4560-9235-389f299e3595",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Once ads are introduced, a scalable advertiser onboarding process typically follows quickly to grow revenue and standardize compliance and measurement.",
       "id": "fd9eb948-b714-404d-906c-0e6a87c2a26b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Mega-rounds often extend private runway, but valuation and scale make IPO preparation likely within ~12 months if markets remain receptive.",
       "id": "a6bbdfd9-1039-4f77-a9b9-9d08471f3894",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Rapid growth and high visibility of sports prediction markets increases the chance of state-level jurisdictional challenges even before federal rule clarity.",
       "id": "a5071d4e-88dd-4935-9815-b5354c39db64",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Housing affordability is a rising bipartisan pressure point; LIHTC expansions are a common legislative vehicle, though floor time and offsets remain key uncertainties.",
       "id": "9601b18c-f332-4eda-abbd-825c705ba0b6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "Perceived U.S. retrenchment risk raises pressure for a higher alliance spending floor, but formal adoption requires consensus and may face domestic budget resistance.",
       "id": "e91a18e9-537a-40db-997b-fd9ae1fb89cf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

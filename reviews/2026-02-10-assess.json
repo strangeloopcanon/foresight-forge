@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-10",
+  "assessments": [
+    {
+      "id": "731a33f0-e50d-4b63-8b89-d36f95eab30a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets include no report of an Iranian boarding/seizure of a merchant vessel near the Strait of Hormuz, nor any confirmation from UKMTO, U.S. Navy/CENTCOM, or a flag state."
+    },
+    {
+      "id": "b9d4ceb7-92e6-4091-98e3-85437a4d2c0f",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news mentions a Lloyd\u2019s Joint War Committee Listed Areas update or any expansion explicitly covering the Strait of Hormuz/adjacent waters."
+    },
+    {
+      "id": "4edd1778-38b4-4e79-9d17-d5f2f7341b06",
+      "status": "pending",
+      "status_rationale": "The Cuba-related headline concerns Guatemala ending use of Cuban doctors; it does not indicate airlines suspending/reducing Cuba routes due to jet-fuel/refueling constraints, and no such airline announcements appear in today\u2019s bullets."
+    },
+    {
+      "id": "f9a76c80-bf57-4a77-a7bd-8b6b9227d7af",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s bullets report Alphabet/Google bond issuance, let alone aggregate gross issuance totaling at least $15B."
+    },
+    {
+      "id": "af9304b6-6a89-4560-9235-389f299e3595",
+      "status": "pending",
+      "status_rationale": "No Alphabet earnings release/call or SEC filing is referenced in today\u2019s bullets announcing a new incremental share repurchase authorization of at least $70B."
+    },
+    {
+      "id": "fd9eb948-b714-404d-906c-0e6a87c2a26b",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention OpenAI/ChatGPT launching an advertiser onboarding pathway (help-center documentation, sign-up form, or self-serve dashboard) for ChatGPT ads."
+    },
+    {
+      "id": "a6bbdfd9-1039-4f77-a9b9-9d08471f3894",
+      "status": "pending",
+      "status_rationale": "No reporting in today\u2019s bullets indicates Databricks has filed (confidentially or publicly) an IPO registration statement (S-1/F-1) with the U.S. SEC."
+    },
+    {
+      "id": "a5071d4e-88dd-4935-9815-b5354c39db64",
+      "status": "pending",
+      "status_rationale": "A MarketWatch item references a 'prediction-market super cycle' in the context of Robinhood, but there is no clear evidence of a specific state attorney general or state gaming regulator issuing a public cease-and-desist/order/enforcement notice targeting sports-event prediction markets."
+    },
+    {
+      "id": "9601b18c-f332-4eda-abbd-825c705ba0b6",
+      "status": "pending",
+      "status_rationale": "No item indicates the U.S. House has passed a bill expanding LIHTC via a \u226510% 9% allocation increase or making the 4% floor permanent."
+    },
+    {
+      "id": "e91a18e9-537a-40db-997b-fd9ae1fb89cf",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention a NATO summit communiqu\u00e9 or Secretary General statement endorsing a new minimum defense-spending benchmark of at least 2.5% of GDP."
+    }
+  ]
+}

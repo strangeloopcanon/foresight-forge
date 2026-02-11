@@ -1,0 +1,195 @@
+{
+  "date": "2026-02-11",
+  "predictions": [
+    {
+      "text": "Alphabet (Google) will complete at least $30.0 billion (USD) in aggregate gross bond issuance (one or multiple offerings) by 2026-02-28 (UTC).",
+      "category": "rates",
+      "horizon_days": 17,
+      "deadline": "2026-02-28",
+      "confidence_pct": 75,
+      "log_odds": 1.0986,
+      "verification_criteria": "Count as YES if Alphabet/Google (or underwriter syndicate) confirms completed bond issuance totaling >=$30.0B via press release, offering documents, or SEC filings (e.g., 8-K, 10-Q, prospectus supplement) dated on/before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/10/alphabet-set-to-raise-over-30-billion-in-global-debt-sale-sources.html"
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR: Alphabet 8-K/10-Q updates; prospectus supplements for debt offerings",
+        "Dealogic/Bloomberg new issue logs for GOOG/GOOGL",
+        "Underwriter press releases confirming pricing and size"
+      ],
+      "supersedes_id": "f9a76c80-bf57-4a77-a7bd-8b6b9227d7af",
+      "rationale": "Recent reporting indicates the deal size is already >$30B; the remaining uncertainty is completion/settlement and official confirmation before month-end.",
+      "id": "ff828003-2d9d-4e71-9419-1284125bb7c8",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "The U.S. EPA will publish in the Federal Register a Notice of Proposed Rulemaking (or equivalent formal proposal) to rescind, revise, or otherwise nullify the 2009 greenhouse-gas \u201cendangerment finding\u201d by 2026-06-30 (UTC).",
+      "category": "energy",
+      "horizon_days": 139,
+      "deadline": "2026-06-30",
+      "confidence_pct": 65,
+      "log_odds": 0.619,
+      "verification_criteria": "Count as YES if a Federal Register posting (proposed rule/NPRM) explicitly proposes rescinding or revising the EPA endangerment finding and is published on/before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/10/epa-revoke-endangerment-finding-climate-regulations.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register docket for EPA air/climate rules",
+        "EPA regulatory agenda updates (Unified Agenda)",
+        "OMB/OIRA \u201creginfo.gov\u201d entries for GHG endangerment-related actions"
+      ],
+      "rationale": "Public signaling suggests intent; the key gating steps are interagency review and drafting a legally defensible NPRM.",
+      "id": "4c4b015e-a1e9-4792-96f4-d3273b5e8ec7",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "At least 15 U.S. states (state AGs and/or governors), in a single action or multiple actions collectively, will file suit challenging EPA\u2019s attempt to rescind/revise the greenhouse-gas endangerment finding by 2026-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 323,
+      "deadline": "2026-12-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Count as YES if court filings and/or state AG press releases show >=15 states as plaintiffs/petitioners in litigation challenging an EPA endangerment-finding rescission/revision effort (proposal or final action), filed on/before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/10/epa-revoke-endangerment-finding-climate-regulations.html"
+      ],
+      "monitoring_signals": [
+        "State AG press releases (CA, NY, MA, WA, etc.)",
+        "PACER / D.C. Circuit petitions for review",
+        "Environmental NGO litigation trackers (e.g., EELP, Sabin Center)"
+      ],
+      "rationale": "Endangerment is foundational to U.S. GHG regulation; multi-state litigation is a common, rapid response to major EPA reversals.",
+      "id": "e3f2ce00-0a34-433e-85d3-3df66a8f9fae",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "In at least one U.S. Census Bureau monthly retail sales release covering months between 2026-02 and 2026-08, seasonally adjusted retail sales excluding motor vehicles & parts dealers and gasoline stations will show a month-over-month decline of at least 0.6% (m/m) by 2026-09-15 (UTC).",
+      "category": "macro",
+      "horizon_days": 216,
+      "deadline": "2026-09-15",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Count as YES if any Advance Monthly Sales for Retail and Food Services release (published on/before the deadline) shows SA retail sales excluding NAICS 441 and 447 down <= -0.6% m/m for a month from Feb\u2013Aug 2026 (using the initially published figure, not later revisions).",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/10/december-retail-sales-were-flat-missing-expectations.html"
+      ],
+      "monitoring_signals": [
+        "Census \u2018Advance Monthly Sales for Retail and Food Services\u2019 tables",
+        "High-frequency card spending nowcasts (JPM, BofA, etc.)",
+        "Consumer sentiment and real disposable income trends"
+      ],
+      "rationale": "Softening demand and consumer strain raise odds of at least one sharp monthly pullback within the next two quarters.",
+      "id": "dffd20ed-f991-46bd-aae5-67933d584ab7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The New York Fed will report a credit-card serious delinquency rate (90+ days past due) at or above 12.0% in at least one Quarterly Report on Household Debt and Credit released by 2026-11-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 292,
+      "deadline": "2026-11-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Count as YES if any NY Fed Quarterly Report on Household Debt and Credit released on/before the deadline shows the credit-card 90+ DPD delinquency measure (serious delinquency rate) >=12.0% for the referenced quarter.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/10/new-york-fed-credit-card-debt-tops-1point28-trillion.html"
+      ],
+      "monitoring_signals": [
+        "NY Fed Household Debt and Credit releases and underlying data",
+        "Bank earnings disclosures: card charge-offs and delinquencies",
+        "Consumer credit conditions (Senior Loan Officer Opinion Survey)"
+      ],
+      "rationale": "Balances are high and credit is normalizing; however, continued employment strength could keep delinquencies below prior-cycle peaks.",
+      "id": "90ca4f08-1006-4eeb-8de6-79647d0cafd4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "China\u2019s National Bureau of Statistics will report year-over-year CPI inflation at or below -0.2% in at least one monthly release by 2026-10-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 262,
+      "deadline": "2026-10-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "Count as YES if an official NBS monthly CPI release (or an NBS CPI table reproduced by a major financial newswire) shows headline CPI y/y <= -0.2% for any month, with the release occurring on/before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/11/china-inflation-january-cpi-ppi-deflation.html"
+      ],
+      "monitoring_signals": [
+        "NBS CPI/PPI monthly releases",
+        "China producer-price and property-sector indicators",
+        "Policy easing measures and credit impulse"
+      ],
+      "rationale": "Weak domestic demand and persistent PPI deflation increase deflation-tail risk, but food/energy volatility can prevent headline CPI from turning negative.",
+      "id": "0cf7543d-d249-47db-8228-9d212d7ead7f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Hong Kong\u2019s monetary/financial authorities (e.g., HKMA/SFC, depending on final framework) will publicly announce the granting of at least one license/authorization to issue a fiat-referenced stablecoin under Hong Kong\u2019s new stablecoin licensing regime by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 323,
+      "deadline": "2026-12-31",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Count as YES if HKMA/SFC (or the designated licensing authority) posts a press release, register entry, or gazette notice stating that at least one entity has been granted a stablecoin issuer license/authorization under the new regime on/before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/11/hong-kong-stablecoin-licenses-china-crypto-ban-usdt-usdc-cny-cnh-rmb-usd-fiat-currency.html"
+      ],
+      "monitoring_signals": [
+        "HKMA/SFC policy statements and licensing registers",
+        "Consultation conclusions and effective-date announcements",
+        "Major applicants\u2019 corporate announcements (banks/fintechs)"
+      ],
+      "rationale": "Momentum toward a regulated stablecoin hub is strong, but legal commencement dates and supervisory readiness could push first licenses beyond 2026.",
+      "id": "7461c7d0-f3df-4b3a-ba19-f88348e5b18f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Strategy (formerly MicroStrategy) will announce and/or file with the SEC for a new debt financing (convertible notes, senior notes, or secured debt) with stated gross proceeds of at least $1.0 billion (USD) by 2026-06-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 139,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Count as YES if Strategy issues a press release and/or files an 8-K/prospectus supplement describing a debt offering with announced aggregate principal amount (or expected gross proceeds) >=$1.0B on/before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/10/bitcoin-crash-bitwise-cio-cites-the-four-year-cycle-for-losses.html"
+      ],
+      "monitoring_signals": [
+        "Strategy press releases and SEC filings (8-K, prospectus supplements)",
+        "Convertible-note market activity and implied vol levels",
+        "Bitcoin price drawdowns and collateral/loan-to-value dynamics"
+      ],
+      "rationale": "Leverage/refinancing incentives rise in volatile crypto cycles, but capital-market windows and BTC price action will determine timing.",
+      "id": "5274a269-2655-422c-8f33-37fd838c5513",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. FDA will grant a 510(k) clearance or De Novo authorization for at least one AI/ML-enabled device with an indication explicitly involving triage/notification for an acute intracranial condition using brain MRI (not CT) by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 323,
+      "deadline": "2026-12-31",
+      "confidence_pct": 25,
+      "log_odds": -1.0986,
+      "verification_criteria": "Count as YES if the FDA device database (510(k) or De Novo) lists a cleared/authorized product on/before the deadline whose indication statement explicitly references brain MRI and triage/notification for an acute intracranial abnormality (e.g., stroke/hemorrhage).",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/02/260210005419.htm"
+      ],
+      "monitoring_signals": [
+        "FDA 510(k)/De Novo databases; Digital Health updates",
+        "Company regulatory announcements from neuroimaging AI vendors",
+        "Peer-reviewed validation studies and multicenter trial readouts"
+      ],
+      "rationale": "Clinical promise is clear, but MRI workflow integration and evidence thresholds make 2026 authorization uncertain.",
+      "id": "b3207cc3-5aae-4ff4-96de-458c533c3eb2",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

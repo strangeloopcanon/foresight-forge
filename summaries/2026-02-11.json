@@ -1,0 +1,122 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. compensation costs rose 0.7% (Sep\u2013Dec 2025) and 3.4% YoY, signaling persistent wage-driven inflation pressure.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/eci_02102026.htm"
+    },
+    {
+      "text": "U.S. credit-card debt topped $1.28T, highlighting consumer strain and a widening \u201cK-shaped\u201d divide despite strong asset markets.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/10/new-york-fed-credit-card-debt-tops-1point28-trillion.html"
+    },
+    {
+      "text": "December retail sales were flat and missed estimates, pointing to softer consumer demand into early 2026.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/10/december-retail-sales-were-flat-missing-expectations.html"
+    },
+    {
+      "text": "China January CPI rose less than expected while PPI deflation persisted, reinforcing weak domestic demand and continued industrial price pressure.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/11/china-inflation-january-cpi-ppi-deflation.html"
+    },
+    {
+      "text": "Ford expects EV losses to continue ~3 more years, underscoring difficult path to EV profitability even as 2026 guidance improves.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2026/02/10/business/ford-earnings-electric-vehicles.html"
+    },
+    {
+      "text": "Lyft announced a $1B buyback, but shares fell on weak results and rider trends, suggesting capital returns can\u2019t offset slowing fundamentals.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/10/lyft-lyft-q4-2025-earnings-.html"
+    },
+    {
+      "text": "Alphabet\u2019s debt raise reportedly exceeded $30B, signaling continued mega-cap reliance on cheap funding and investor appetite for high-grade corporate paper.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/02/10/alphabet-set-to-raise-over-30-billion-in-global-debt-sale-sources.html"
+    },
+    {
+      "text": "Bitcoin slid sharply; analysts cite cyclical dynamics while Strategy\u2019s Saylor plans refinancing, highlighting leverage and refinancing risk in crypto-linked corporates.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/10/bitcoin-crash-bitwise-cio-cites-the-four-year-cycle-for-losses.html"
+    },
+    {
+      "text": "EPA plans to revoke the \u201cendangerment finding,\u201d threatening the legal foundation of U.S. climate regulation and raising long-term policy risk for energy and industry.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/10/epa-revoke-endangerment-finding-climate-regulations.html"
+    },
+    {
+      "text": "Taiwan rejected Washington\u2019s 40% chip-supply relocation target as \u201cimpossible,\u201d showing limits to rapid semiconductor reshoring amid geopolitical pressure.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/10/taiwan-chips-us-supply-chain-lutnick-trade-deal.html"
+    },
+    {
+      "text": "Hong Kong is advancing stablecoin licensing despite Beijing\u2019s reservations, potentially creating a regulated crypto-finance hub alongside mainland restrictions.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/11/hong-kong-stablecoin-licenses-china-crypto-ban-usdt-usdc-cny-cnh-rmb-usd-fiat-currency.html"
+    },
+    {
+      "text": "Guatemala will end use of Cuban doctors under U.S. pressure, illustrating health-services diplomacy and Washington\u2019s leverage in the region.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/10/world/americas/guatemala-cuba-doctors.html"
+    },
+    {
+      "text": "AI can read brain MRIs in seconds and flag emergencies, promising faster triage and productivity gains but increasing reliance on model validation and clinical integration.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm"
+    },
+    {
+      "text": "Research identifies ancient genes predating all life, potentially reshaping models of early evolution and the minimum genetic toolkit needed for cellular life.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260210082913.htm"
+    },
+    {
+      "text": "Post-2020 methane spike traced to unexpected sources, raising uncertainty for near-term climate forcing and the effectiveness of current emissions monitoring assumptions.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260210082917.htm"
+    }
+  ]
+}
