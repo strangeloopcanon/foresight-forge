@@ -1,0 +1,102 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. January payrolls +130k; unemployment ~4.3%, signaling continued but moderating labor-market strength.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/empsit_02112026.htm"
+    },
+    {
+      "text": "Stronger jobs data pushed 10-year Treasury yields higher, reinforcing markets\u2019 sensitivity to labor-driven inflation and Fed timing.",
+      "tags": [
+        "rates",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/11/us-treasury-yields-investors-await-delayed-january-jobs-report.html"
+    },
+    {
+      "text": "Tariff revenue reportedly up over 300% as Supreme Court decision looms, raising stakes for prices, trade policy durability, and budget effects.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/11/tariff-revenue-soars-more-than-300percent-as-us-awaits-supreme-court-decision.html"
+    },
+    {
+      "text": "House vote to override Trump\u2019s Canada tariffs highlights intra-party trade splits and potential uncertainty for North American supply chains.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html"
+    },
+    {
+      "text": "El Paso airspace shutdown tied to anti-drone activity/testing underscores escalating drone threats and regulatory gaps for counter-drone tech in civilian airspace.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/11/faa-el-paso-airport.html"
+    },
+    {
+      "text": "Trump order for Pentagon to buy electricity from coal plants signals policy support for coal demand and potential conflict with decarbonization and procurement cost goals.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/11/trump-orders-pentagon-to-buy-power-from-coal-plants.html"
+    },
+    {
+      "text": "Cisco shares fell on weaker outlook despite beats, reflecting investor focus on forward guidance amid AI-driven networking competition.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/11/cisco-csco-q2-earnings-report-2026.html"
+    },
+    {
+      "text": "Japan\u2019s Nikkei hit new highs post-election, but commentary warns the rally may be fragile\u2014sensitive to yen moves and AI-linked earnings expectations.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/11/japan-stocks-record-ai-yen-takaichi-.html"
+    },
+    {
+      "text": "Bill Ackman disclosed a Meta stake, arguing valuation is deeply discounted\u2014boosting focus on Big Tech cash flows and AI monetization narratives.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/11/bill-ackman-meta-valuation.html"
+    },
+    {
+      "text": "OpenAI disbanded its mission-alignment team, intensifying concerns about governance and safety prioritization as frontier AI deployment accelerates.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/"
+    },
+    {
+      "text": "Microsoft warns hackers are exploiting critical Windows/Office zero-days, elevating cyber risk for enterprises and potentially increasing security spend and downtime exposure.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/"
+    },
+    {
+      "text": "Scientists built living blood vessels on a chip that behave like real tissue, advancing drug testing and disease modeling with potential to reduce animal studies.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260210040616.htm"
+    }
+  ]
+}

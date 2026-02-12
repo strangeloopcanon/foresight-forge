@@ -20,7 +20,7 @@
       "supersedes_id": "f9a76c80-bf57-4a77-a7bd-8b6b9227d7af",
       "rationale": "Recent reporting indicates the deal size is already >$30B; the remaining uncertainty is completion/settlement and official confirmation before month-end.",
       "id": "ff828003-2d9d-4e71-9419-1284125bb7c8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Public signaling suggests intent; the key gating steps are interagency review and drafting a legally defensible NPRM.",
       "id": "4c4b015e-a1e9-4792-96f4-d3273b5e8ec7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Endangerment is foundational to U.S. GHG regulation; multi-state litigation is a common, rapid response to major EPA reversals.",
       "id": "e3f2ce00-0a34-433e-85d3-3df66a8f9fae",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Softening demand and consumer strain raise odds of at least one sharp monthly pullback within the next two quarters.",
       "id": "dffd20ed-f991-46bd-aae5-67933d584ab7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "Balances are high and credit is normalizing; however, continued employment strength could keep delinquencies below prior-cycle peaks.",
       "id": "90ca4f08-1006-4eeb-8de6-79647d0cafd4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Weak domestic demand and persistent PPI deflation increase deflation-tail risk, but food/energy volatility can prevent headline CPI from turning negative.",
       "id": "0cf7543d-d249-47db-8228-9d212d7ead7f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Momentum toward a regulated stablecoin hub is strong, but legal commencement dates and supervisory readiness could push first licenses beyond 2026.",
       "id": "7461c7d0-f3df-4b3a-ba19-f88348e5b18f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "Leverage/refinancing incentives rise in volatile crypto cycles, but capital-market windows and BTC price action will determine timing.",
       "id": "5274a269-2655-422c-8f33-37fd838c5513",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Clinical promise is clear, but MRI workflow integration and evidence thresholds make 2026 authorization uncertain.",
       "id": "b3207cc3-5aae-4ff4-96de-458c533c3eb2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

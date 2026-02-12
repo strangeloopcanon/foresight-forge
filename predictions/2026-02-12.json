@@ -1,0 +1,194 @@
+{
+  "date": "2026-02-12",
+  "predictions": [
+    {
+      "text": "CISA will add at least 2 new CVEs affecting Microsoft Windows and/or Office to its Known Exploited Vulnerabilities (KEV) Catalog by 2026-03-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 47,
+      "deadline": "2026-03-31",
+      "confidence_pct": 62,
+      "verification_criteria": "True if CISA\u2019s public KEV Catalog shows \u22652 CVE entries with an \u201cAdded\u201d date between 2026-02-12 and 2026-03-31 inclusive, where the affected product is Microsoft Windows and/or Microsoft Office. False otherwise.",
+      "evidence": [
+        "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
+        "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+      ],
+      "monitoring_signals": [
+        "CISA KEV catalog daily diffs (new CVEs added)",
+        "Microsoft MSRC advisories referencing active exploitation",
+        "Major DFIR/vendor writeups confirming in-the-wild exploitation"
+      ],
+      "rationale": "Recent reporting highlighted active exploitation; CISA often adds widely exploited Microsoft issues to KEV quickly when impact is broad.",
+      "id": "d612e0c7-789b-46cd-b03e-002a453a59b4",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. Senate will hold at least one roll-call vote on legislation or a joint resolution aimed at terminating, blocking, or disapproving U.S. tariffs specifically described as \u201cCanada tariffs\u201d (or equivalent) by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 138,
+      "deadline": "2026-06-30",
+      "confidence_pct": 46,
+      "verification_criteria": "True if Senate.gov or Congress.gov records a roll-call vote (Yea/Nay roll call) on a bill or joint resolution whose purpose section/title/summary explicitly targets termination/disapproval of tariffs on Canada (or Canada-origin goods) by the deadline. False otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html",
+        "https://www.congress.gov/",
+        "https://www.senate.gov/legislative/LIS/roll_call_lists.htm"
+      ],
+      "monitoring_signals": [
+        "Congress.gov actions on tariff-related resolutions (e.g., CRA, trade measures)",
+        "Senate calendar/whip notices mentioning Canada tariffs",
+        "Statements from Senate Finance Committee leadership"
+      ],
+      "rationale": "House action increases the odds of Senate consideration, but floor time and party discipline keep probability below 50%.",
+      "id": "9c9a0acb-9b77-4e2a-a2a5-2d1e270c266b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. Customs Duties (\"Customs and Certain Excise Taxes\") receipts will be reported at or above $12.0 billion for at least one month in the U.S. Treasury Monthly Treasury Statement (MTS) released by 2026-09-30 (UTC).",
+      "category": "macro",
+      "horizon_days": 230,
+      "deadline": "2026-09-30",
+      "confidence_pct": 52,
+      "verification_criteria": "True if any MTS released by the deadline reports Customs Duties receipts (monthly amount) \u2265 $12.0B. False if no such month occurs in releases by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/11/tariff-revenue-soars-more-than-300percent-as-us-awaits-supreme-court-decision.html",
+        "https://fiscal.treasury.gov/reports-statements/mts/"
+      ],
+      "monitoring_signals": [
+        "Monthly Treasury Statement tables (receipts line items)",
+        "Announcements of new/expanded tariff schedules or enforcement intensity",
+        "Import volume trends and customs collection lags"
+      ],
+      "rationale": "With reported tariff revenue surging, a \u2265$12B month is plausible if elevated tariff rates/collections persist through mid-2026.",
+      "id": "9992c6e0-2077-4285-b166-24903c5d9020",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The FAA will publish a Notice of Proposed Rulemaking (NPRM) or equivalent formal Federal Register proposal that explicitly addresses counter-UAS (counter-drone) operations, equipment authorization, or airport-area mitigation authority for civilian airports by 2026-12-31 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 322,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "True if the Federal Register contains an FAA NPRM (or interim final rule/proposed policy with request for comment) by the deadline that explicitly includes counter-UAS/counter-drone operations or mitigation near/for civilian airports in its scope/summary. False otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/11/faa-el-paso-airport.html",
+        "https://www.federalregister.gov/agencies/federal-aviation-administration"
+      ],
+      "monitoring_signals": [
+        "FAA Unified Agenda / regulatory plan entries on UAS/counter-UAS",
+        "Airport/airline lobbying activity and DHS/DOJ counter-UAS authority updates",
+        "NOTAM spikes or major airport disruptions attributed to drones"
+      ],
+      "rationale": "High-profile disruptions increase pressure for formal rulemaking, but statutory constraints and interagency jurisdiction make timing uncertain.",
+      "id": "4768a4f9-64ab-4fda-9492-066ca2e7f88c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Defense will award at least one electricity procurement contract (new award or major modification) with an obligated value of at least $50 million that explicitly references electricity generated from coal-fired power (or coal plants) by 2026-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 322,
+      "deadline": "2026-12-31",
+      "confidence_pct": 28,
+      "verification_criteria": "True if a contract award/modification in SAM.gov, FPDS, or DoD procurement releases by the deadline shows obligated value \u2265$50M and the description/requirements explicitly mention coal-fired generation/coal plants as the electricity source. False otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/11/trump-orders-pentagon-to-buy-power-from-coal-plants.html",
+        "https://sam.gov/"
+      ],
+      "monitoring_signals": [
+        "SAM.gov solicitations mentioning coal generation requirements",
+        "DoD energy procurement policy memos implementing the order",
+        "Congressional/DOD IG scrutiny of procurement sourcing language"
+      ],
+      "rationale": "An executive order signals intent, but translating intent into large explicit coal-linked contract language may face procurement, cost, and policy hurdles.",
+      "id": "16d6c7fa-7e74-46d4-9ef5-793be0bcb986",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Cisco will announce a workforce reduction affecting at least 3,000 employees (globally) in a press release, earnings materials, or SEC filing by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 230,
+      "deadline": "2026-09-30",
+      "confidence_pct": 41,
+      "verification_criteria": "True if Cisco publicly discloses layoffs/job cuts (or restructuring plan) with headcount impact \u22653,000 employees by the deadline in an SEC filing (8-K/10-Q/10-K) or official press release/earnings deck. False otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/11/cisco-csco-q2-earnings-report-2026.html",
+        "https://www.sec.gov/edgar/browse/?CIK=858877"
+      ],
+      "monitoring_signals": [
+        "Cisco guidance revisions and restructuring-charge disclosures",
+        "Job posting trends and WARN notices in key locations",
+        "Management commentary about cost actions and margin targets"
+      ],
+      "rationale": "Weaker outlook raises probability of cost actions, but the size threshold is meaningful and not guaranteed.",
+      "id": "54679ff3-420c-4775-90a8-a17b79484d4e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Meta Platforms will disclose an additional share repurchase authorization of at least $50 billion (incremental authorization, not merely ongoing buybacks) by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 322,
+      "deadline": "2026-12-31",
+      "confidence_pct": 54,
+      "verification_criteria": "True if Meta discloses (earnings release, 8-K, 10-Q/10-K, or investor presentation) a new incremental authorization amount \u2265$50B by the deadline. False otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/11/bill-ackman-meta-valuation.html",
+        "https://www.sec.gov/edgar/browse/?CIK=1326801"
+      ],
+      "monitoring_signals": [
+        "Meta quarterly capital return disclosures (buyback authorization remaining vs new)",
+        "Cash flow and capex guidance trends",
+        "Activist/institutional commentary on capital return"
+      ],
+      "rationale": "Strong cash generation and valuation narratives make a large incremental authorization plausible, though AI capex could compete for funds.",
+      "id": "58d508bd-80b9-409d-8a86-7fbcb97b4aa5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USD/JPY will trade at or below 130.00 at least once (spot intraday) by 2026-12-31 (UTC).",
+      "category": "markets",
+      "horizon_days": 322,
+      "deadline": "2026-12-31",
+      "confidence_pct": 36,
+      "verification_criteria": "True if a widely used reference data source (e.g., Bloomberg/Refinitiv/ICE or major FX venue prints) shows USD/JPY spot intraday low \u2264130.00 on any trading day by the deadline. False otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/11/japan-stocks-record-ai-yen-takaichi-.html"
+      ],
+      "monitoring_signals": [
+        "BoJ policy shifts (yield curve, rates) and MoF FX intervention rhetoric",
+        "US-Japan rate differential moves and Fed cut expectations",
+        "Risk-off episodes boosting yen demand"
+      ],
+      "rationale": "A fragile equity rally and rate-differential compression could strengthen JPY, but reaching 130 requires a substantial move, keeping confidence modest.",
+      "id": "cc84b3ff-bac8-472c-997a-ec18f1ca4d49",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "OpenAI will publicly announce either (a) a new dedicated safety/alignment organizational unit (team or division) or (b) a formal external safety oversight body (board/advisory council) with a defined charter, by 2026-09-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 230,
+      "deadline": "2026-09-30",
+      "confidence_pct": 44,
+      "verification_criteria": "True if OpenAI publishes an official announcement (blog post/press release) by the deadline describing creation of a new safety/alignment unit or external oversight body, naming it and stating responsibilities/charter. False otherwise.",
+      "evidence": [
+        "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+        "https://openai.com/blog"
+      ],
+      "monitoring_signals": [
+        "OpenAI governance announcements (board/committees), safety policy updates",
+        "Major partner/regulator pressure (EU, US agencies) tied to safety commitments",
+        "Hiring spikes for safety, evals, and policy roles"
+      ],
+      "rationale": "Disbanding an alignment team can trigger reputational/regulatory pressure; a structured replacement is plausible but not assured within this timeframe.",
+      "id": "0b91f269-9d95-4e4c-a5fa-744af12c20d9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

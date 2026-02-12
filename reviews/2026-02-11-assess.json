@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-11",
+  "assessments": [
+    {
+      "id": "ff828003-2d9d-4e71-9419-1284125bb7c8",
+      "status": "pending",
+      "status_rationale": "Today\u2019s headlines provided do not mention Alphabet/Google bond issuance amounts or any completed offerings; deadline is 2026-02-28."
+    },
+    {
+      "id": "4c4b015e-a1e9-4792-96f4-d3273b5e8ec7",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news bullets indicates EPA has published (in the Federal Register) a proposed rule to rescind/revise the 2009 endangerment finding; deadline is 2026-06-30."
+    },
+    {
+      "id": "e3f2ce00-0a34-433e-85d3-3df66a8f9fae",
+      "status": "pending",
+      "status_rationale": "While there is a reported multi-state lawsuit over loss of public health funds, the prediction is specifically about states suing over an EPA attempt to rescind/revise the endangerment finding, which is not evidenced in today\u2019s bullets."
+    },
+    {
+      "id": "dffd20ed-f991-46bd-aae5-67933d584ab7",
+      "status": "pending",
+      "status_rationale": "No U.S. Census Bureau retail sales release data are referenced in today\u2019s bullets; the claim depends on specific future monthly retail sales prints."
+    },
+    {
+      "id": "90ca4f08-1006-4eeb-8de6-79647d0cafd4",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not reference the New York Fed Quarterly Report on Household Debt and Credit or a credit-card 90+ day delinquency rate; deadline is 2026-11-30."
+    },
+    {
+      "id": "0cf7543d-d249-47db-8228-9d212d7ead7f",
+      "status": "pending",
+      "status_rationale": "No China NBS CPI release is included in today\u2019s bullets; no evidence of y/y CPI at or below -0.2% is provided."
+    },
+    {
+      "id": "7461c7d0-f3df-4b3a-ba19-f88348e5b18f",
+      "status": "pending",
+      "status_rationale": "No mention in today\u2019s bullets of Hong Kong authorities granting a stablecoin issuer license/authorization under the new regime."
+    },
+    {
+      "id": "5274a269-2655-422c-8f33-37fd838c5513",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not report Strategy (MicroStrategy) announcing or filing for a new \u2265$1.0B debt financing; deadline is 2026-06-30."
+    },
+    {
+      "id": "b3207cc3-5aae-4ff4-96de-458c533c3eb2",
+      "status": "pending",
+      "status_rationale": "The FDA-related headline concerns rejection/defense around Moderna\u2019s flu vaccine and does not indicate any 510(k) clearance or De Novo authorization for an AI/ML brain MRI acute intracranial triage/notification device."
+    }
+  ]
+}
