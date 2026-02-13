@@ -1,0 +1,125 @@
+{
+  "bullets": [
+    {
+      "text": "Trump revokes EPA \u201cendangerment finding,\u201d sharply weakening federal climate regulation; could shift compliance costs, emissions trajectory, and litigation risk for automakers and utilities.",
+      "tags": [
+        "macro",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/12/climate/trump-epa-greenhouse-gases-climate-change.html"
+    },
+    {
+      "text": "New analysis finds U.S. consumers bear much of tariff costs; Supreme Court delays clarity, sustaining pricing uncertainty for import-heavy sectors.",
+      "tags": [
+        "macro",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/12/business/economy/americans-pay-tariffs-trump-fed.html"
+    },
+    {
+      "text": "U.S. signs trade deal with Taiwan: tariffs lowered to 15% and Taipei boosts purchases of U.S. goods, deepening economic alignment amid China tensions.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/13/us-signs-trade-deal-with-taiwan-lowering-trump-tariffs.html"
+    },
+    {
+      "text": "Equities sell off on AI disruption fears; Dow dips below 50,000 while long-term Treasuries rally\u2014classic risk-off rotation and growth-scare pricing.",
+      "tags": [
+        "markets",
+        "rates",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/long-term-treasury-bonds-rally-as-investors-dump-stocks-in-broad-based-selloff-9dd9ea76?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Energy leads S&P 500 performance beyond crude\u2019s rise, reflecting improved capital discipline, shareholder returns, and resilient cash flows.",
+      "tags": [
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.marketwatch.com/story/why-energy-is-the-best-performing-sector-in-the-s-p-500-so-far-this-year-78bafd05?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Electricity prices rise about twice inflation; AI/data-center demand expected to keep power tight, influencing CPI components and industrial site selection.",
+      "tags": [
+        "macro",
+        "energy",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/12/electricity-price-data-center-ai-inflation-goldman.html"
+    },
+    {
+      "text": "January home sales fall over 8%, signaling renewed housing stress as affordability and rates constrain demand.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/12/january-homes-sales.html"
+    },
+    {
+      "text": "Anthropic closes $30B round at $380B post-money, underscoring continued capital concentration in frontier AI and intensifying compute/talent competition.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation"
+    },
+    {
+      "text": "Apple shares drop on FTC scrutiny and reported Siri delays, highlighting rising regulatory and execution risk for major platform ecosystems.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/12/apple-stock-worst-day-ftc-siri.html"
+    },
+    {
+      "text": "Rivian beats Q4 expectations and targets major production increases; investors re-rate growth potential, emphasizing software\u2019s role in EV competitiveness.",
+      "tags": [
+        "markets",
+        "tech",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/02/12/rivian-automotive-rivn-earnings-q4-2025.html"
+    },
+    {
+      "text": "Waymo begins fully autonomous operations with its 6th-gen driver, marking a commercialization milestone and raising new questions on labor, liability, and city regulation.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver"
+    },
+    {
+      "text": "H5N1 kills over 50 skuas in Antarctica\u2019s first wildlife die-off there, expanding geographic risk and strengthening the case for global surveillance and biosecurity.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260211073029.htm"
+    },
+    {
+      "text": "Worst coral-bleaching event on record damages over half of reefs, increasing climate-related ecosystem loss risks and potential downstream impacts on fisheries and tourism.",
+      "tags": [
+        "science",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212025554.htm"
+    },
+    {
+      "text": "Epstein files spark corporate and political fallout; Goldman\u2019s general counsel resigns, highlighting reputational, governance, and compliance risks for major financial institutions.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "other"
+      ],
+      "link": "https://www.cnbc.com/2026/02/12/epstein-files-goldman-sachs-kathy-ruemmler.html"
+    }
+  ]
+}

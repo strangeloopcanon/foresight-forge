@@ -1891,3 +1891,12 @@ There are, however, weak directional signals relevant to a couple of long-horizo
 
 ---
 
+
+## 2026-02-12
+
+None of the nine forecasts can be marked correct/incorrect based on today’s headlines alone. Several topics are adjacent to the forecast domains—tariffs (including court and consumer-incidence coverage) and counter-drone/airport security reporting—but the specific, verifiable trigger conditions in the predictions (e.g., a Senate roll-call vote targeting “Canada tariffs,” an FAA NPRM on counter-UAS authority, a KEV Catalog update with Microsoft CVEs) are not evidenced in the provided bullets.
+
+Overall, the news flow slightly increases the salience of a couple forecasts without resolving them: the tariffs coverage suggests continued political and legal contention that could plausibly lead to congressional action later, and the drone-defense/air-travel articles highlight policy gaps that could motivate FAA rulemaking. However, absent explicit documentary actions (votes, NPRMs, catalog updates, contract awards, SEC/earnings disclosures, or observed FX prints), all outcomes remain pending.
+
+---
+

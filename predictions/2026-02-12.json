@@ -19,7 +19,7 @@
       ],
       "rationale": "Recent reporting highlighted active exploitation; CISA often adds widely exploited Microsoft issues to KEV quickly when impact is broad.",
       "id": "d612e0c7-789b-46cd-b03e-002a453a59b4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "House action increases the odds of Senate consideration, but floor time and party discipline keep probability below 50%.",
       "id": "9c9a0acb-9b77-4e2a-a2a5-2d1e270c266b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "With reported tariff revenue surging, a \u2265$12B month is plausible if elevated tariff rates/collections persist through mid-2026.",
       "id": "9992c6e0-2077-4285-b166-24903c5d9020",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "High-profile disruptions increase pressure for formal rulemaking, but statutory constraints and interagency jurisdiction make timing uncertain.",
       "id": "4768a4f9-64ab-4fda-9492-066ca2e7f88c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "An executive order signals intent, but translating intent into large explicit coal-linked contract language may face procurement, cost, and policy hurdles.",
       "id": "16d6c7fa-7e74-46d4-9ef5-793be0bcb986",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Weaker outlook raises probability of cost actions, but the size threshold is meaningful and not guaranteed.",
       "id": "54679ff3-420c-4775-90a8-a17b79484d4e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Strong cash generation and valuation narratives make a large incremental authorization plausible, though AI capex could compete for funds.",
       "id": "58d508bd-80b9-409d-8a86-7fbcb97b4aa5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "A fragile equity rally and rate-differential compression could strengthen JPY, but reaching 130 requires a substantial move, keeping confidence modest.",
       "id": "cc84b3ff-bac8-472c-997a-ec18f1ca4d49",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Disbanding an alignment team can trigger reputational/regulatory pressure; a structured replacement is plausible but not assured within this timeframe.",
       "id": "0b91f269-9d95-4e4c-a5fa-744af12c20d9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

@@ -1,0 +1,206 @@
+{
+  "date": "2026-02-13",
+  "predictions": [
+    {
+      "text": "Anthropic will publicly release a new flagship Claude model with a new major version number (e.g., \u201cClaude 4\u201d) and publish an accompanying model/system card or technical report by 2026-06-30 (UTC).",
+      "category": "tech",
+      "horizon_days": 137,
+      "deadline": "2026-06-30",
+      "confidence_pct": 67,
+      "verification_criteria": "True if Anthropic (or Claude official docs/blog) announces a new major-version flagship Claude model and publishes a model/system card or technical report for that release on or before 2026-06-30 UTC.",
+      "evidence": [
+        "Anthropic\u2019s continued rapid scaling and major funding suggests accelerated flagship release cadence: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+        "Broader AI competition and market volatility increases incentives for major launches: https://www.marketwatch.com/story/long-term-treasury-bonds-rally-as-investors-dump-stocks-in-broad-based-selloff-9dd9ea76?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Anthropic blog/news posts mentioning \u201cflagship,\u201d \u201cfrontier,\u201d \u201cClaude X\u201d versioning",
+        "Updated Claude documentation pages and model cards",
+        "Partner announcements (cloud providers, major enterprise customers) referencing a new Claude major version"
+      ],
+      "rationale": "Frontier labs typically ship major versions on a ~6\u201312 month cadence; fresh capital and competitive pressure increase the likelihood of a major-version release accompanied by formal documentation.",
+      "id": "c0206037-d7fa-495c-9931-25fd985082a8",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Waymo will publicly announce the start of fully driverless (no safety driver) paid ride-hail service open to the general public in at least one new U.S. metro area not already offering such service as of 2026-02-13, by 2026-10-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 260,
+      "deadline": "2026-10-31",
+      "confidence_pct": 46,
+      "verification_criteria": "True if Waymo announces public access (not limited pilot/waitlist only) to paid, fully driverless rides in a new U.S. metro area, explicitly stating no safety driver, by the deadline.",
+      "evidence": [
+        "Waymo commercialization milestone (6th-gen driver, expanding operations): https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver"
+      ],
+      "monitoring_signals": [
+        "Waymo city launch announcements and service-area maps",
+        "Local DMV/PUC permits and municipal agreements for autonomous ride-hail",
+        "App updates enabling new city selection and pricing for public riders"
+      ],
+      "rationale": "Waymo\u2019s new-generation deployment suggests near-term expansion; the key uncertainty is regulatory/operational readiness for fully public access in additional metros.",
+      "id": "12895d59-fcca-4b2d-8f94-6c2bf26d0a33",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "China\u2019s PLA will conduct at least one large-scale joint air/sea exercise around Taiwan in which Taiwan\u2019s Ministry of National Defense reports 24-hour PLA aircraft activity of at least 60 sorties, by 2026-06-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 137,
+      "deadline": "2026-06-30",
+      "confidence_pct": 58,
+      "verification_criteria": "True if Taiwan MoND daily public reporting (or equivalent official release) records \u226560 PLA aircraft sorties in any single 24-hour window and attributes it to a joint exercise or heightened joint activity around Taiwan by the deadline.",
+      "evidence": [
+        "Deepening U.S.\u2013Taiwan economic alignment elevates cross-strait tension risk: https://www.cnbc.com/2026/02/13/us-signs-trade-deal-with-taiwan-lowering-trump-tariffs.html"
+      ],
+      "monitoring_signals": [
+        "Taiwan MoND daily PLA activity updates (sorties/ships) showing spikes",
+        "PLA Eastern Theater Command statements/videos of joint drills",
+        "NOTAM/sea exclusion zones around Taiwan indicating exercise windows"
+      ],
+      "rationale": "Large PLA activity spikes have historically followed major political/economic signals; a 60-sortie day is a high but plausible threshold within a ~4.5-month window.",
+      "id": "7229a502-e4c0-4397-a9d2-2621d4b9dfb2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "S&P 500 will record at least one daily close that is 10.0% or more below its highest daily close year-to-date in 2026, by 2026-09-30 (UTC).",
+      "category": "markets",
+      "horizon_days": 229,
+      "deadline": "2026-09-30",
+      "confidence_pct": 49,
+      "verification_criteria": "True if, using S&P 500 official closing levels, any close on or before 2026-09-30 is \u226490.0% of the highest closing level observed in 2026 up to that date.",
+      "evidence": [
+        "Recent broad risk-off rotation and AI-driven volatility: https://www.marketwatch.com/story/long-term-treasury-bonds-rally-as-investors-dump-stocks-in-broad-based-selloff-9dd9ea76?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "S&P 500 drawdown tracking vs YTD high close",
+        "VIX sustained >25 and widening credit spreads",
+        "Earnings revisions and AI-capex guidance surprises from megacaps"
+      ],
+      "rationale": "A 10% drawdown is common in volatile macro/tech regimes; recent risk-off behavior increases odds through Q3 2026.",
+      "id": "0101c385-5f0b-4cb7-8c2a-6ed794e5c470",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The 10-year U.S. Treasury benchmark yield will trade at or below 3.00% intraday at least once by 2026-12-31 (UTC).",
+      "category": "rates",
+      "horizon_days": 321,
+      "deadline": "2026-12-31",
+      "confidence_pct": 37,
+      "verification_criteria": "True if a widely followed 10-year U.S. Treasury benchmark (e.g., on-market 10Y note) prints an intraday yield \u22643.00% per major market data providers (ICE/Bloomberg/Refinitiv) by the deadline.",
+      "evidence": [
+        "Recent risk-off move includes long-duration Treasury rally: https://www.marketwatch.com/story/long-term-treasury-bonds-rally-as-investors-dump-stocks-in-broad-based-selloff-9dd9ea76?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Fed communications shifting toward cuts; weakening labor/housing data",
+        "Inflation prints undershooting expectations and falling term premium",
+        "Flight-to-quality episodes tied to equity drawdowns or geopolitics"
+      ],
+      "rationale": "A move to 3% requires meaningful disinflation/growth scare; plausible but far from certain over the next ~11 months.",
+      "id": "3e0b0cff-6a8b-487a-be1a-b2af93680a43",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "NAR Existing Home Sales (seasonally adjusted annual rate) will be reported at or below 3.75 million in at least one monthly release published by 2026-08-31 (UTC).",
+      "category": "macro",
+      "horizon_days": 199,
+      "deadline": "2026-08-31",
+      "confidence_pct": 44,
+      "verification_criteria": "True if any National Association of Realtors Existing Home Sales release published on/before 2026-08-31 reports SAAR \u22643.75 million for the referenced month.",
+      "evidence": [
+        "Housing demand showing renewed stress with sharp monthly sales decline: https://www.cnbc.com/2026/02/12/january-homes-sales.html"
+      ],
+      "monitoring_signals": [
+        "Mortgage rates and purchase application indices",
+        "Pending home sales and inventory/price dynamics",
+        "NAR monthly releases and revisions trend"
+      ],
+      "rationale": "Affordability constraints and rate volatility make another leg down in transaction volume plausible; 3.75m is a stress-level threshold but within historical range.",
+      "id": "f439f9b5-4670-4147-8cff-ff9d8aa4c849",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one U.S. regional transmission organization/ISO (PJM, NYISO, ISO-NE, MISO, CAISO, or ERCOT) will publicly announce a temporary pause, moratorium, or materially tightened fast-track restriction specifically targeting new large-load (\u226550 MW) interconnection requests citing data centers/AI compute as a driver, by 2026-12-31 (UTC).",
+      "category": "energy",
+      "horizon_days": 321,
+      "deadline": "2026-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "True if an RTO/ISO publishes a notice, tariff filing summary, stakeholder memo, or press release announcing a pause/moratorium or explicit tightened restrictions for \u226550 MW load interconnections, with text referencing data centers/AI as motivation, by the deadline.",
+      "evidence": [
+        "Rising electricity prices and data-center demand pressure cited as ongoing: https://www.cnbc.com/2026/02/12/electricity-price-data-center-ai-inflation-goldman.html"
+      ],
+      "monitoring_signals": [
+        "RTO/ISO stakeholder presentations on large-load queue backlogs",
+        "Tariff filings or market rule changes on large-load milestones/deposits",
+        "Utility interconnection constraint notices in hotspot regions"
+      ],
+      "rationale": "Large-load queues are accelerating and reliability concerns are growing; formal pauses/restrictions are a common administrative response when processes are overwhelmed.",
+      "id": "37168f66-8e50-4724-845f-091ba2f6073d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A federal court (U.S. Court of Appeals or the Supreme Court) will issue an order granting a stay or preliminary injunction that blocks implementation of EPA\u2019s rescission/rollback of the 2009 greenhouse-gas endangerment finding (in whole or substantial part) pending litigation, by 2026-09-30 (UTC).",
+      "category": "geopolitics",
+      "horizon_days": 229,
+      "deadline": "2026-09-30",
+      "confidence_pct": 29,
+      "verification_criteria": "True if a court order explicitly stays or enjoins EPA\u2019s endangerment-finding rollback (or its legal effect) pending judicial review, as reflected in the docket/order text, by the deadline.",
+      "evidence": [
+        "Endangerment finding rollback creates high litigation and judicial review probability: https://www.nytimes.com/2026/02/12/climate/trump-epa-greenhouse-gases-climate-change.html"
+      ],
+      "monitoring_signals": [
+        "Petitions for review and emergency stay motions filed in D.C. Circuit",
+        "Coalition filings by states/NGOs/industry and expedited briefing schedules",
+        "Court orders on administrative stays or preliminary injunction standards"
+      ],
+      "rationale": "Major regulatory reversals often trigger emergency motions, but obtaining a stay/injunction is harder than filing suit\u2014hence sub-30% probability by Q3 2026.",
+      "id": "9c3dee36-0e76-4aa4-a4e0-0cb44c743216",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Apple will disclose (in an SEC filing, earnings-call prepared remarks, or official investor presentation) that it has received an FTC Civil Investigative Demand (CID), subpoena, or similar compulsory process related to its platform/AI/voice-assistant practices by 2026-12-31 (UTC).",
+      "category": "tech",
+      "horizon_days": 321,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "True if Apple explicitly states it received an FTC CID/subpoena/compulsory request and describes the subject as tied to platform conduct and/or AI/voice assistant practices, in a public investor-facing disclosure, by the deadline.",
+      "evidence": [
+        "Reported FTC scrutiny increases probability of compulsory process disclosures: https://www.cnbc.com/2026/02/12/apple-stock-worst-day-ftc-siri.html"
+      ],
+      "monitoring_signals": [
+        "Apple 10-Q/10-K \u2018Legal Proceedings\u2019 updates and risk-factor changes",
+        "Earnings Q&A comments about investigations or information requests",
+        "FTC public statements or reporting on probes into major platforms\u2019 AI features"
+      ],
+      "rationale": "Scrutiny does not always become a disclosed CID, but large-platform investigations often do; Apple\u2019s reporting and investor disclosure norms make this measurable.",
+      "id": "0fe2cb9f-fac3-4a25-a75d-d662a68754ea",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one additional S&P 500 company will see a C-suite executive or general counsel resignation/termination that is publicly reported by at least two major outlets as primarily linked to the Epstein-files controversy, by 2026-06-30 (UTC).",
+      "category": "other",
+      "horizon_days": 137,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "True if (1) the company is in the S&P 500 at the time, (2) a C-suite or general counsel departs, and (3) at least two major media outlets explicitly attribute the departure primarily to Epstein-files related fallout, by the deadline.",
+      "evidence": [
+        "Epstein-files reporting already triggered a major-lawyer resignation, suggesting potential additional knock-on effects: https://www.cnbc.com/2026/02/12/epstein-files-goldman-sachs-kathy-ruemmler.html"
+      ],
+      "monitoring_signals": [
+        "Follow-on investigative reporting naming additional executives",
+        "Company statements using \u201cpersonal conduct\u201d/\u201ccompliance\u201d language near departures",
+        "Board or governance committee announcements tied to reputational risk"
+      ],
+      "rationale": "Secondary resignations are plausible in fast-moving reputational cascades, but explicit attribution and S&P 500 scope reduce likelihood within ~4.5 months.",
+      "id": "12389c1f-d428-4932-9b81-f51a8738b7fe",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

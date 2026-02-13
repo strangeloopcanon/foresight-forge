@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-12",
+  "assessments": [
+    {
+      "id": "d612e0c7-789b-46cd-b03e-002a453a59b4",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets include no reporting that CISA added any new Microsoft Windows/Office CVEs to the KEV Catalog. Deadline (2026-03-31) has not yet passed."
+    },
+    {
+      "id": "9c9a0acb-9b77-4e2a-a2a5-2d1e270c266b",
+      "status": "pending",
+      "status_rationale": "The news includes coverage of tariffs and related Supreme Court posture, but no clear evidence of a U.S. Senate roll-call vote on legislation/joint resolutions specifically aimed at terminating/blocking/disapproving \u201cCanada tariffs.\u201d Deadline (2026-06-30) has not yet passed."
+    },
+    {
+      "id": "9992c6e0-2077-4285-b166-24903c5d9020",
+      "status": "pending",
+      "status_rationale": "No Monthly Treasury Statement (MTS) data or customs duty receipt figures are cited in today\u2019s bullets. Deadline (2026-09-30) has not yet passed."
+    },
+    {
+      "id": "4768a4f9-64ab-4fda-9492-066ca2e7f88c",
+      "status": "pending",
+      "status_rationale": "While there is reporting on drone-defense gaps and air travel issues, there is no indication the FAA published an NPRM (or equivalent Federal Register proposal) explicitly addressing counter-UAS authority/operations for civilian airports. Deadline (2026-12-31) has not yet passed."
+    },
+    {
+      "id": "16d6c7fa-7e74-46d4-9ef5-793be0bcb986",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention any DoD electricity procurement contract (new award or major modification) \u2265$50M referencing coal-fired generation. Deadline (2026-12-31) has not yet passed."
+    },
+    {
+      "id": "54679ff3-420c-4775-90a8-a17b79484d4e",
+      "status": "pending",
+      "status_rationale": "No bullet reports Cisco announcing a workforce reduction of \u22653,000 employees via press release/earnings/SEC filing. Deadline (2026-09-30) has not yet passed."
+    },
+    {
+      "id": "58d508bd-80b9-409d-8a86-7fbcb97b4aa5",
+      "status": "pending",
+      "status_rationale": "There is no reporting in today\u2019s bullets that Meta disclosed an incremental additional share repurchase authorization of at least $50B. Deadline (2026-12-31) has not yet passed."
+    },
+    {
+      "id": "cc84b3ff-bac8-472c-997a-ec18f1ca4d49",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items include general FX/safe-haven discussion but no documented evidence that USD/JPY traded at or below 130.00 intraday. Deadline (2026-12-31) has not yet passed."
+    },
+    {
+      "id": "0b91f269-9d95-4e4c-a5fa-744af12c20d9",
+      "status": "pending",
+      "status_rationale": "No bullet indicates OpenAI publicly announced a new dedicated safety/alignment unit or a formal external safety oversight body with a defined charter. Deadline (2026-09-30) has not yet passed."
+    }
+  ]
+}
