@@ -1,0 +1,103 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. CPI rose 0.2% in January; shelter costs remained a key driver, signaling sticky housing inflation despite broader easing.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/cpi_02132026.htm"
+    },
+    {
+      "text": "Real average hourly earnings rose 0.3% in January, improving purchasing power and supporting consumer demand.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/realer_02132026.htm"
+    },
+    {
+      "text": "Early IRS data show average tax refunds up about 11%, potentially boosting near-term household cash flow and retail spending.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/13/average-tax-refund-early-irs-data.html"
+    },
+    {
+      "text": "Markets appear resilient to overlapping geopolitical and political crises, suggesting risk appetite remains strong or investors expect limited economic spillover.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/13/business/markets-crisis-trump.html"
+    },
+    {
+      "text": "AI-driven volatility is spreading beyond tech; analysts warn AI disruption could trigger credit-market stress and pressure cyclicals like trucking and real estate.",
+      "tags": [
+        "markets",
+        "tech",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/02/13/ai-credit-markets.html"
+    },
+    {
+      "text": "Trump-era tariffs are creating a record $3.5B U.S. Customs bond funding shortfall, raising importer liquidity and compliance risks.",
+      "tags": [
+        "macro",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/12/trump-tariffs-us-customs-record-bond-funding-issues-flagged.html"
+    },
+    {
+      "text": "Venezuela oil sales topped $1B; proceeds will no longer be routed to a Qatar account, signaling a shift in sanctions-related payment arrangements.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/13/venezuela-oil-sales-qatar-chris-wright-trump.html"
+    },
+    {
+      "text": "Munich Security Conference: European leaders increasingly accept a post\u2013\"old order\" security landscape, implying higher European defense burdens and less U.S.-centric NATO assumptions.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/13/world/europe/munich-security-conference-nato-rubio.html"
+    },
+    {
+      "text": "U.S. DHS sought identities behind anti-ICE posts and faced scrutiny over alleged intimidation, intensifying civil-liberties and rule-of-law tensions amid looming shutdown risks.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html"
+    },
+    {
+      "text": "China\u2019s \"Lunar New Year AI war\": major platforms use giveaways and subsidies to capture users, highlighting intense competition and potentially margin-damaging AI customer acquisition.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/13/china-ai-lunar-new-year-bytedance-baidu-tencent-alibaba.html"
+    },
+    {
+      "text": "OpenAI removed access to a \"sycophancy-prone\" GPT-4o variant, underscoring the operational and reputational costs of alignment failures in widely deployed AI systems.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/"
+    },
+    {
+      "text": "Asteroid Bennu samples suggest new pathways for prebiotic chemistry, strengthening evidence that asteroids can deliver or synthesize life-relevant organics.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212023024.htm"
+    },
+    {
+      "text": "Researchers made microplastics glow to track their behavior inside the body, enabling clearer exposure and toxicity studies with potential public-health implications.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212234156.htm"
+    }
+  ]
+}

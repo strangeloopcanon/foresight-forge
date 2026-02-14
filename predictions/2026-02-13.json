@@ -19,7 +19,7 @@
       ],
       "rationale": "Frontier labs typically ship major versions on a ~6\u201312 month cadence; fresh capital and competitive pressure increase the likelihood of a major-version release accompanied by formal documentation.",
       "id": "c0206037-d7fa-495c-9931-25fd985082a8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Waymo\u2019s new-generation deployment suggests near-term expansion; the key uncertainty is regulatory/operational readiness for fully public access in additional metros.",
       "id": "12895d59-fcca-4b2d-8f94-6c2bf26d0a33",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Large PLA activity spikes have historically followed major political/economic signals; a 60-sortie day is a high but plausible threshold within a ~4.5-month window.",
       "id": "7229a502-e4c0-4397-a9d2-2621d4b9dfb2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "A 10% drawdown is common in volatile macro/tech regimes; recent risk-off behavior increases odds through Q3 2026.",
       "id": "0101c385-5f0b-4cb7-8c2a-6ed794e5c470",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "A move to 3% requires meaningful disinflation/growth scare; plausible but far from certain over the next ~11 months.",
       "id": "3e0b0cff-6a8b-487a-be1a-b2af93680a43",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Affordability constraints and rate volatility make another leg down in transaction volume plausible; 3.75m is a stress-level threshold but within historical range.",
       "id": "f439f9b5-4670-4147-8cff-ff9d8aa4c849",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Large-load queues are accelerating and reliability concerns are growing; formal pauses/restrictions are a common administrative response when processes are overwhelmed.",
       "id": "37168f66-8e50-4724-845f-091ba2f6073d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Major regulatory reversals often trigger emergency motions, but obtaining a stay/injunction is harder than filing suit\u2014hence sub-30% probability by Q3 2026.",
       "id": "9c3dee36-0e76-4aa4-a4e0-0cb44c743216",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Scrutiny does not always become a disclosed CID, but large-platform investigations often do; Apple\u2019s reporting and investor disclosure norms make this measurable.",
       "id": "0fe2cb9f-fac3-4a25-a75d-d662a68754ea",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "Secondary resignations are plausible in fast-moving reputational cascades, but explicit attribution and S&P 500 scope reduce likelihood within ~4.5 months.",
       "id": "12389c1f-d428-4932-9b81-f51a8738b7fe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

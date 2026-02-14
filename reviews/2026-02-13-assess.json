@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-13",
+  "assessments": [
+    {
+      "id": "c0206037-d7fa-495c-9931-25fd985082a8",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items mention Anthropic\u2019s marketing impact and a board appointment, but do not report a public release of a new major-version flagship Claude model (e.g., \u201cClaude 4\u201d) or an accompanying system/technical card. No decisive evidence either way yet."
+    },
+    {
+      "id": "12895d59-fcca-4b2d-8f94-6c2bf26d0a33",
+      "status": "pending",
+      "status_rationale": "No news bullet indicates Waymo announced fully driverless paid service in a new U.S. metro area. The prediction remains unresolved."
+    },
+    {
+      "id": "7229a502-e4c0-4397-a9d2-2621d4b9dfb2",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s bullets report a PLA joint air/sea exercise around Taiwan with Taiwan MND reporting \u226560 aircraft sorties in 24 hours. No confirming/disconfirming evidence provided."
+    },
+    {
+      "id": "0101c385-5f0b-4cb7-8c2a-6ed794e5c470",
+      "status": "pending",
+      "status_rationale": "Market commentary appears in today\u2019s bullets, but there is no explicit evidence that the S&P 500 has had a daily close \u226510% below its 2026 YTD high (nor is the measurement window in the prediction necessarily reached). Remains unresolved."
+    },
+    {
+      "id": "3e0b0cff-6a8b-487a-be1a-b2af93680a43",
+      "status": "pending",
+      "status_rationale": "No bullet provides evidence that the 10-year U.S. Treasury yield traded intraday at or below 3.00%. The prediction remains open."
+    },
+    {
+      "id": "f439f9b5-4670-4147-8cff-ff9d8aa4c849",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention an NAR Existing Home Sales SAAR reading at or below 3.75 million in any monthly release. No decisive update."
+    },
+    {
+      "id": "37168f66-8e50-4724-845f-091ba2f6073d",
+      "status": "pending",
+      "status_rationale": "No bullet reports PJM/NYISO/ISO-NE/MISO/CAISO/ERCOT announcing a pause/moratorium or tightened fast-track restrictions targeting new \u226550 MW interconnection requests due to data centers/AI compute. Still unresolved."
+    },
+    {
+      "id": "9c3dee36-0e76-4aa4-a4e0-0cb44c743216",
+      "status": "pending",
+      "status_rationale": "There is no report here of a federal appellate court or the Supreme Court granting a stay or preliminary injunction blocking implementation of EPA\u2019s rollback of the 2009 endangerment finding. No clear evidence either way."
+    },
+    {
+      "id": "0fe2cb9f-fac3-4a25-a75d-d662a68754ea",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Apple disclosed receiving an FTC CID/subpoena/compulsory process related to platform/AI/voice-assistant practices. The prediction remains open."
+    },
+    {
+      "id": "12389c1f-d428-4932-9b81-f51a8738b7fe",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news includes an Epstein-linked CEO replacement at DP World, but the prediction is specifically about an additional S&P 500 company\u2019s C-suite executive or general counsel departure primarily linked to the Epstein-files controversy and reported by at least two major outlets. DP World is not established here as an S&P 500 company, and the required linkage/coverage criteria for an S&P 500 firm are not met in the provided bullets."
+    }
+  ]
+}

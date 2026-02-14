@@ -1,0 +1,206 @@
+{
+  "date": "2026-02-14",
+  "predictions": [
+    {
+      "text": "In the U.S. Census Bureau Advance Monthly Retail Sales report for April 2026 (release date on or before 2026-05-15), the retail-sales \u201ccontrol group\u201d (retail sales excluding autos, gasoline, building materials, and food services; seasonally adjusted) will be reported up at least +0.5% month-over-month.",
+      "category": "macro",
+      "horizon_days": 90,
+      "deadline": "2026-05-15",
+      "confidence_pct": 43,
+      "log_odds": -0.2818511521400041,
+      "verification_criteria": "Resolves YES if the Census advance retail sales release covering April 2026 (published by 2026-05-15) reports the control-group series (as defined by Census/market convention: total retail & food services excluding autos, gas, building materials, and food services) at \u2265 +0.5% m/m (SA). Otherwise NO.",
+      "evidence": [
+        "Early IRS data show average tax refunds up about 11%, potentially boosting near-term household cash flow and retail spending. https://www.cnbc.com/2026/02/13/average-tax-refund-early-irs-data.html",
+        "Real average hourly earnings rose 0.3% in January, improving purchasing power and supporting consumer demand. https://www.bls.gov/news.release/archives/realer_02132026.htm"
+      ],
+      "monitoring_signals": [
+        "Census Bureau monthly Advance Retail Sales releases (tables and pdf)",
+        "High-frequency card spending trackers (JPMorgan/BoA/Opportunity Insights)",
+        "Weekly IRS refund volume/size updates (if published/reported)"
+      ],
+      "rationale": "Refund season plus improving real earnings raises odds of at least one strong control-group print, though volatility and base effects keep confidence moderate.",
+      "id": "5e859e1d-4a02-43a6-bc26-5c6d6d6ae28f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE BofA US Corporate Index Option-Adjusted Spread (OAS) will reach or exceed 150 basis points (daily reading) at least once by 2026-08-31.",
+      "category": "markets",
+      "horizon_days": 198,
+      "deadline": "2026-08-31",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084062235,
+      "verification_criteria": "Resolves YES if any daily observation of the ICE BofA US Corporate Index OAS (ticker series as published by ICE/BofA and rebroadcast via FRED/data vendors) is \u2265 1.50 percentage points (150 bps) on or before 2026-08-31 (UTC). Otherwise NO.",
+      "evidence": [
+        "Analysts warn AI disruption could trigger credit-market stress and pressure cyclicals, increasing tail-risk of spread widening. https://www.cnbc.com/2026/02/13/ai-credit-markets.html",
+        "Markets appear resilient to overlapping crises, implying tight spreads may be vulnerable to repricing on adverse shocks. https://www.nytimes.com/2026/02/13/business/markets-crisis-trump.html"
+      ],
+      "monitoring_signals": [
+        "Daily ICE BofA OAS levels (FRED/data terminals)",
+        "CDX IG / HY index spreads and roll performance",
+        "Earnings warnings and downgrade/upgrade ratio",
+        "Credit fund outflows and primary issuance concessions"
+      ],
+      "rationale": "Spreads are often mean-reverting; 150 bps is achievable in a risk-off episode, but absent a clear recession signal, probability remains below 50%.",
+      "id": "4a63dc07-7dd1-4534-9eaa-d75651b97e18",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The CBOE Volatility Index (VIX) will close at or above 25.00 on at least one trading day by 2026-08-31.",
+      "category": "markets",
+      "horizon_days": 198,
+      "deadline": "2026-08-31",
+      "confidence_pct": 41,
+      "log_odds": -0.36396537758221625,
+      "verification_criteria": "Resolves YES if the VIX official close (CBOE) is \u2265 25.00 on any trading day on or before 2026-08-31 (UTC). Otherwise NO.",
+      "evidence": [
+        "Markets have been resilient despite overlapping political/geopolitical crises, but that resilience can break abruptly, producing volatility spikes. https://www.nytimes.com/2026/02/13/business/markets-crisis-trump.html",
+        "AI-driven volatility narratives suggest potential for sudden risk repricing. https://www.cnbc.com/2026/02/13/ai-credit-markets.html"
+      ],
+      "monitoring_signals": [
+        "Daily VIX closing level (CBOE)",
+        "SPX 1-month implied vol and skew",
+        "Macro shock catalysts: CPI surprises, geopolitics, funding stress",
+        "Systematic positioning indicators (CTA exposure estimates)"
+      ],
+      "rationale": "A VIX 25 close is common during modest risk-off periods; likelihood is meaningful over ~6 months but not dominant given currently strong risk appetite.",
+      "id": "9ed2014b-3860-4635-a6e0-0e961259b78c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OpenAI will publish an official public post (blog, system card, or release notes) describing specific mitigation changes targeting \u201csycophancy\u201d/over-agreeableness in a deployed ChatGPT model family, by 2026-04-30.",
+      "category": "tech",
+      "horizon_days": 75,
+      "deadline": "2026-04-30",
+      "confidence_pct": 60,
+      "log_odds": 0.4054651081081642,
+      "verification_criteria": "Resolves YES if OpenAI publishes (on openai.com, help.openai.com, or a linked official system card/release note) a document that (i) explicitly mentions \u201csycophancy\u201d/over-agreeableness as a problem and (ii) lists at least one specific mitigation/change (training, prompting, evals, or product safeguards) by 2026-04-30 (UTC). Otherwise NO.",
+      "evidence": [
+        "OpenAI removed access to a 'sycophancy-prone' GPT-4o variant, indicating active issue management and reputational pressure to explain fixes. https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/"
+      ],
+      "monitoring_signals": [
+        "OpenAI blog posts, system cards, and model release notes",
+        "Help Center changelogs for ChatGPT",
+        "Independent eval reports noting reduced sycophancy behaviors",
+        "Statements from OpenAI leadership on alignment incidents"
+      ],
+      "rationale": "Given a recent rollback tied to sycophancy, a public mitigation write-up is a likely near-term transparency move.",
+      "id": "f0f97e4d-805b-4f8f-a1be-5c01b469d927",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Customs and Border Protection (CBP) will issue a public notice (Federal Register notice, CSMS message, or CBP directive) that increases or materially tightens customs bond requirements (e.g., higher minimum bond amounts, new collateral requirements, or revised bond formulas) and explicitly cites bond insufficiency/shortfalls or increased tariff-driven exposure, by 2026-10-31.",
+      "category": "macro",
+      "horizon_days": 259,
+      "deadline": "2026-10-31",
+      "confidence_pct": 34,
+      "log_odds": -0.6632942174102642,
+      "verification_criteria": "Resolves YES if CBP publishes an official public communication (Federal Register/CSMS/directive) by 2026-10-31 that (i) changes customs bond requirements in a tightening direction and (ii) explicitly mentions insufficiency, shortfall, increased tariff exposure, or similar bond-coverage rationale. Otherwise NO.",
+      "evidence": [
+        "Tariffs are creating a record U.S. Customs bond funding shortfall, raising importer liquidity and compliance risks. https://www.cnbc.com/2026/02/12/trump-tariffs-us-customs-record-bond-funding-issues-flagged.html"
+      ],
+      "monitoring_signals": [
+        "CBP Cargo Systems Messaging Service (CSMS) postings",
+        "Federal Register for CBP/treasury customs bond rule notices",
+        "Customs broker alerts and trade-law firm client notes",
+        "Treasury MTS customs-duty receipts and enforcement news"
+      ],
+      "rationale": "If bond coverage is structurally inadequate under higher tariffs, CBP has precedent tools to tighten bonding, but implementation frictions reduce probability.",
+      "id": "5e55c34b-c79b-4247-959d-51dfd14c25fa",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "OFAC will publish at least one new or updated Venezuela-related FAQ, guidance document, or General License that explicitly clarifies permitted payment-routing/settlement mechanisms for Venezuelan oil transactions (e.g., escrow, intermediated accounts, or approved counterparties), by 2026-07-31.",
+      "category": "energy",
+      "horizon_days": 167,
+      "deadline": "2026-07-31",
+      "confidence_pct": 44,
+      "log_odds": -0.2411620568168881,
+      "verification_criteria": "Resolves YES if OFAC (treasury.gov) posts an updated FAQ, guidance, or General License by 2026-07-31 that explicitly discusses how payments may be routed/settled for Venezuela oil/gas transactions under sanctions (not merely restating that transactions are authorized). Otherwise NO.",
+      "evidence": [
+        "Venezuela oil sales topped $1B; proceeds will no longer be routed to a Qatar account, signaling shifting sanctions-related payment arrangements. https://www.cnbc.com/2026/02/13/venezuela-oil-sales-qatar-chris-wright-trump.html"
+      ],
+      "monitoring_signals": [
+        "OFAC Venezuela sanctions page (FAQs/General Licenses)",
+        "Treasury press releases and SDN list updates tied to Venezuela",
+        "Reporting on payment channel changes for PDVSA-related flows",
+        "Company disclosures from oil traders/majors active in the region"
+      ],
+      "rationale": "A visible change in payment routing raises compliance questions that OFAC often addresses via FAQs or targeted guidance.",
+      "id": "b887b16f-942b-45a4-8301-19763f191fbd",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one of Alibaba, Tencent, Baidu, or ByteDance (via a public statement or major-media-cited earnings disclosure) will explicitly attribute a year-over-year operating margin decline of at least 1.0 percentage point to AI consumer-app subsidies, promotions, or giveaways, by 2026-08-31.",
+      "category": "tech",
+      "horizon_days": 198,
+      "deadline": "2026-08-31",
+      "confidence_pct": 55,
+      "log_odds": 0.20067069546215124,
+      "verification_criteria": "Resolves YES if by 2026-08-31 a company in the set {Alibaba, Tencent, Baidu, ByteDance} has an earnings release/call/filing (or a major outlet quoting such materials) that (i) ties AI subsidies/promotions/giveaways to profitability pressure and (ii) states or implies an operating margin y/y decline \u2265 1.0 percentage point attributable to that AI spend. Otherwise NO.",
+      "evidence": [
+        "China\u2019s major platforms are using giveaways and subsidies to capture users, implying potential margin pressure. https://www.cnbc.com/2026/02/13/china-ai-lunar-new-year-bytedance-baidu-tencent-alibaba.html"
+      ],
+      "monitoring_signals": [
+        "Quarterly earnings transcripts and presentations (Alibaba/Tencent/Baidu)",
+        "Chinese-language management commentary on subsidies and customer acquisition",
+        "Analyst notes quantifying AI subsidy impact",
+        "User-growth promos and app-store ranking campaigns for AI apps"
+      ],
+      "rationale": "Subsidy-driven AI user acquisition is costly and likely to surface in margin commentary within 1\u20132 reporting cycles.",
+      "id": "f824dc28-b683-43b5-90c1-537320f7b116",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. 2-year Treasury yield (constant maturity market yield, intraday) will trade at or below 3.50% at least once by 2026-12-31.",
+      "category": "rates",
+      "horizon_days": 320,
+      "deadline": "2026-12-31",
+      "confidence_pct": 39,
+      "log_odds": -0.4473122181419479,
+      "verification_criteria": "Resolves YES if the U.S. 2-year Treasury yield is recorded at \u2264 3.50% at any point intraday by 2026-12-31 (UTC), as shown by widely used market data sources (e.g., Treasury/primary dealers/major financial data vendors). Otherwise NO.",
+      "evidence": [
+        "January CPI rose 0.2% with shelter still sticky, but broader disinflation trends can still allow meaningful front-end yield declines if growth slows. https://www.bls.gov/news.release/archives/cpi_02132026.htm",
+        "Analysts warn AI disruption could trigger credit stress, which historically pulls front-end yields lower. https://www.cnbc.com/2026/02/13/ai-credit-markets.html"
+      ],
+      "monitoring_signals": [
+        "Daily/intraday 2-year yield (US2Y) levels",
+        "Fed communications and rate-cut expectations (OIS/futures)",
+        "Core inflation trend and labor-market cooling indicators",
+        "Credit stress indicators (CDX, bank funding spreads)"
+      ],
+      "rationale": "3.50% requires either faster disinflation or a risk-off/growth scare; plausible over a year but not the base case given sticky shelter inflation.",
+      "id": "94b3e1ec-3c9d-4dcd-817a-6b99a0b8c434",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A U.S. federal agency (NIH, CDC, EPA, or FDA) will announce a new funding program or award commitments totaling at least $50 million (USD) focused primarily on microplastics exposure/toxicology/health effects, by 2026-12-31.",
+      "category": "other",
+      "horizon_days": 320,
+      "deadline": "2026-12-31",
+      "confidence_pct": 24,
+      "log_odds": -1.1526795099383855,
+      "verification_criteria": "Resolves YES if by 2026-12-31 an official announcement (grants notice, press release, budget/program statement) from NIH/CDC/EPA/FDA indicates new microplastics-focused funding or awards with total committed value \u2265 $50,000,000. Otherwise NO.",
+      "evidence": [
+        "New methods to track microplastics inside the body increase feasibility of large-scale exposure/toxicity studies, which can catalyze public funding. https://www.sciencedaily.com/releases/2026/02/260212234156.htm"
+      ],
+      "monitoring_signals": [
+        "NIH funding opportunity announcements (FOAs) and RePORTER awards tagged microplastics",
+        "EPA research grants and strategic plan updates",
+        "Congressional appropriations language referencing microplastics",
+        "Major peer-reviewed breakthroughs that elevate policy salience"
+      ],
+      "rationale": "Scientific momentum is rising, but a single, clearly delineated \u2265$50m federal microplastics initiative within a year is uncertain.",
+      "id": "9c33d5e8-3a58-4932-ae04-d1b5843562cc",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}
