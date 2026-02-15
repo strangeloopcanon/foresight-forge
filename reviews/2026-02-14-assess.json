@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-14",
+  "assessments": [
+    {
+      "id": "5e859e1d-4a02-43a6-bc26-5c6d6d6ae28f",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not include the U.S. Census Bureau Advance Monthly Retail Sales release for April 2026 or any data on the retail-sales \u201ccontrol group.\u201d The deadline (2026-05-15) has not yet arrived, so the outcome cannot be determined."
+    },
+    {
+      "id": "4a63dc07-7dd1-4534-9eaa-d75651b97e18",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news provides a daily reading for the ICE BofA US Corporate Index OAS or indicates it has reached 150 bps. The deadline is 2026-08-31, so this remains unresolved."
+    },
+    {
+      "id": "9ed2014b-3860-4635-a6e0-0e961259b78c",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not report a VIX close at or above 25.00 (nor any VIX close level). With deadline 2026-08-31, there is insufficient evidence to mark correct/incorrect."
+    },
+    {
+      "id": "f0f97e4d-805b-4f8f-a1be-5c01b469d927",
+      "status": "pending",
+      "status_rationale": "No bullet references an OpenAI official post (blog/system card/release notes) about mitigation changes targeting sycophancy/over-agreeableness. Deadline is 2026-04-30; no confirming evidence appears in today\u2019s items."
+    },
+    {
+      "id": "5e55c34b-c79b-4247-959d-51dfd14c25fa",
+      "status": "pending",
+      "status_rationale": "None of the listed articles mention CBP issuing a public notice tightening customs bond requirements or citing bond insufficiency/shortfalls or tariff-driven exposure. Deadline 2026-10-31 remains far out."
+    },
+    {
+      "id": "b887b16f-942b-45a4-8301-19763f191fbd",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention OFAC publishing Venezuela-related FAQs/guidance/General Licenses clarifying payment routing/settlement for Venezuelan oil transactions. Deadline 2026-07-31 has not passed."
+    },
+    {
+      "id": "f824dc28-b683-43b5-90c1-537320f7b116",
+      "status": "pending",
+      "status_rationale": "While there is a CNBC item about a rocky week for AI models from China, the provided bullets do not indicate an explicit attribution by Alibaba/Tencent/Baidu/ByteDance of a \u22651.0pp YoY operating margin decline to AI consumer-app subsidies/promotions/giveaways. Deadline 2026-08-31; unresolved."
+    },
+    {
+      "id": "94b3e1ec-3c9d-4dcd-817a-6b99a0b8c434",
+      "status": "pending",
+      "status_rationale": "No bullet includes intraday U.S. 2-year Treasury yield levels or evidence it traded at or below 3.50%. The deadline (2026-12-31) is not yet reached."
+    },
+    {
+      "id": "9c33d5e8-3a58-4932-ae04-d1b5843562cc",
+      "status": "pending",
+      "status_rationale": "None of the news bullets describe NIH/CDC/EPA/FDA announcing a microplastics-focused funding program or awards totaling at least $50M. Deadline 2026-12-31; no clear triggering evidence today."
+    }
+  ]
+}

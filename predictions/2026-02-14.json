@@ -20,7 +20,7 @@
       ],
       "rationale": "Refund season plus improving real earnings raises odds of at least one strong control-group print, though volatility and base effects keep confidence moderate.",
       "id": "5e859e1d-4a02-43a6-bc26-5c6d6d6ae28f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Spreads are often mean-reverting; 150 bps is achievable in a risk-off episode, but absent a clear recession signal, probability remains below 50%.",
       "id": "4a63dc07-7dd1-4534-9eaa-d75651b97e18",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -66,7 +66,7 @@
       ],
       "rationale": "A VIX 25 close is common during modest risk-off periods; likelihood is meaningful over ~6 months but not dominant given currently strong risk appetite.",
       "id": "9ed2014b-3860-4635-a6e0-0e961259b78c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -88,7 +88,7 @@
       ],
       "rationale": "Given a recent rollback tied to sycophancy, a public mitigation write-up is a likely near-term transparency move.",
       "id": "f0f97e4d-805b-4f8f-a1be-5c01b469d927",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -110,7 +110,7 @@
       ],
       "rationale": "If bond coverage is structurally inadequate under higher tariffs, CBP has precedent tools to tighten bonding, but implementation frictions reduce probability.",
       "id": "5e55c34b-c79b-4247-959d-51dfd14c25fa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -132,7 +132,7 @@
       ],
       "rationale": "A visible change in payment routing raises compliance questions that OFAC often addresses via FAQs or targeted guidance.",
       "id": "b887b16f-942b-45a4-8301-19763f191fbd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -154,7 +154,7 @@
       ],
       "rationale": "Subsidy-driven AI user acquisition is costly and likely to surface in margin commentary within 1\u20132 reporting cycles.",
       "id": "f824dc28-b683-43b5-90c1-537320f7b116",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -177,7 +177,7 @@
       ],
       "rationale": "3.50% requires either faster disinflation or a risk-off/growth scare; plausible over a year but not the base case given sticky shelter inflation.",
       "id": "94b3e1ec-3c9d-4dcd-817a-6b99a0b8c434",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "Scientific momentum is rising, but a single, clearly delineated \u2265$50m federal microplastics initiative within a year is uncertain.",
       "id": "9c33d5e8-3a58-4932-ae04-d1b5843562cc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

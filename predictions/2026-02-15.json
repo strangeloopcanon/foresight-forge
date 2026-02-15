@@ -1,0 +1,194 @@
+{
+  "date": "2026-02-15",
+  "predictions": [
+    {
+      "text": "The 2026 Social Security and Medicare Trustees Report will project the OASI (Old-Age and Survivors Insurance) trust fund reserve depletion year as 2032 or earlier.",
+      "category": "macro",
+      "horizon_days": 135,
+      "deadline": "2026-06-30",
+      "confidence_pct": 60,
+      "log_odds": 0.4054651081,
+      "verification_criteria": "Resolves YES if the official 2026 Trustees Report (or trustees\u2019 summary table) lists OASI trust fund reserve depletion (exhaustion) in year 2032, 2031, or earlier. NO if 2033 or later, or if not published by deadline.",
+      "evidence": [
+        "https://www.marketwatch.com/story/social-security-could-run-out-of-money-in-just-6-years-even-sooner-than-originally-feared-c28eb5a5"
+      ],
+      "monitoring_signals": [
+        "SSA/Trustees Report publication calendar and press releases",
+        "Draft/preview tables circulated to press or Congress",
+        "CBO and CRFB commentary on expected depletion timing"
+      ],
+      "rationale": "Recent coverage already centers on ~6-year depletion timing; modest downside risk (earlier) remains plausible given interest-cost and benefit-growth uncertainties.",
+      "id": "02a0b6dd-8783-4045-9858-34eb5991bca5",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The European Union will adopt a Russia-related sanctions action that explicitly references Alexei Navalny (by name) and adds at least 10 persons and/or entities to an EU restrictive-measures list.",
+      "category": "geopolitics",
+      "horizon_days": 227,
+      "deadline": "2026-09-30",
+      "confidence_pct": 38,
+      "log_odds": -0.4895482253,
+      "verification_criteria": "Resolves YES if an EU Council Decision/Regulation (and/or Official Journal publication) by the deadline both (a) references \u201cNavalny\u201d and (b) lists \u226510 new designations (persons/entities) versus the immediately prior consolidated list under the cited regime. Otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/14/world/europe/russia-navalny-poison.html"
+      ],
+      "monitoring_signals": [
+        "EU Council agendas/Foreign Affairs Council readouts",
+        "EU Official Journal sanction annex updates",
+        "Statements by EU High Representative and key member states (Germany/France/Poland/Baltics)"
+      ],
+      "rationale": "Escalating attribution claims can catalyze EU listings, but unanimity and sanction-fatigue create meaningful drag.",
+      "id": "1d096a2a-4654-4342-9f82-14ecc61148a2",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "OFAC will announce a new Iran-related designation package adding at least 5 individuals/entities, where the Treasury press release explicitly cites suppression of protests or human-rights abuses.",
+      "category": "geopolitics",
+      "horizon_days": 105,
+      "deadline": "2026-05-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2006706955,
+      "verification_criteria": "Resolves YES if, by the deadline, the U.S. Treasury (OFAC) posts a press release for Iran-related sanctions that (a) adds \u22655 new SDN entries in that action and (b) explicitly mentions protests/protesters or human-rights abuses/crackdown as a stated rationale. Otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/14/world/europe/iran-regime-rallies-munich.html"
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN list deltas (daily)",
+        "State Department human-rights statements on Iran",
+        "Major protest-related developments and arrests reported by credible NGOs/media"
+      ],
+      "rationale": "Diaspora pressure and ongoing repression narratives make targeted designations plausible, though timing is uncertain.",
+      "id": "5ebd56d4-00fd-48d8-9dfe-d3a6f1f34b71",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Commerce Department (BIS) will publish a Federal Register rule (interim final or final) that tightens export controls specifically for advanced AI compute to China, either by lowering performance thresholds, expanding end-use/end-user restrictions, or adding controls on AI model weights/training-related items.",
+      "category": "tech",
+      "horizon_days": 166,
+      "deadline": "2026-07-31",
+      "confidence_pct": 47,
+      "log_odds": -0.1201443118,
+      "verification_criteria": "Resolves YES if BIS publishes a rule by the deadline that explicitly modifies/expands China-focused controls on advanced AI compute (chips, related equipment/software, or controlled AI model artifacts), compared to rules in effect as of 2026-02-15. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/14/new-china-ai-models-alibaba-bytedance-seedance-kuaishou-kling.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register notices from BIS",
+        "U.S. NSC/Commerce statements on AI export controls",
+        "New China AI model launches and reported access to high-end compute"
+      ],
+      "rationale": "Rapid model competition increases political pressure for tighter controls, but interagency process and industry pushback can delay action.",
+      "id": "2cefbcb5-3086-4568-941b-61d62082d335",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The European Commission will publish a formal proposal for an EU-level defense financing instrument that involves joint borrowing (or EU-guaranteed bond issuance) with a headline size of at least \u20ac50 billion.",
+      "category": "geopolitics",
+      "horizon_days": 258,
+      "deadline": "2026-10-31",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084,
+      "verification_criteria": "Resolves YES if the European Commission issues a COM/legislative proposal (or equivalent official package) by the deadline that (a) explicitly includes joint borrowing or EU-guaranteed bond issuance and (b) states total size \u2265\u20ac50B for defense/security spending. Otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/14/world/europe/europe-munich-rubio-russia.html"
+      ],
+      "monitoring_signals": [
+        "Commission Work Programme updates and defense white papers",
+        "European Council conclusions calling for common financing",
+        "Public statements from France/Germany/Italy/Poland on joint debt for defense"
+      ],
+      "rationale": "Strategic-autonomy debate raises probability of joint defense financing, but fiscal hawks and legal constraints make large joint borrowing difficult.",
+      "id": "687e6bd7-7d82-4f3f-9319-c4deb04de665",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ICE Brent front-month crude oil futures will settle at or above $95.00 per barrel on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 135,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "log_odds": -0.7081850579,
+      "verification_criteria": "Resolves YES if the official ICE Brent front-month contract daily settlement price is \u2265$95.00/bbl on any date by the deadline. Otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/14/world/europe/iran-regime-rallies-munich.html"
+      ],
+      "monitoring_signals": [
+        "Daily ICE Brent settlements",
+        "Hormuz shipping/security incidents (UKMTO/CENTCOM)",
+        "OPEC+ meeting outcomes and compliance indicators"
+      ],
+      "rationale": "Geopolitical risk premia can spike quickly, but ample supply responsiveness and demand uncertainty keep odds moderate.",
+      "id": "d6e8c469-369a-407b-98bd-8ce2d6f0b728",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A top-10 global automaker (by unit sales) will announce a production vehicle program using solid-state lidar where the company or lidar supplier explicitly states a unit/BOM cost of $200 or less (or \u201cunder $200\u201d).",
+      "category": "tech",
+      "horizon_days": 319,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "log_odds": -0.8472978604,
+      "verification_criteria": "Resolves YES if, by the deadline, a top-10 automaker publicly announces (press release, investor deck, or OEM/supplier event) a production program (named model/platform or SOP window) featuring solid-state lidar and explicitly claims lidar unit/BOM cost \u2264$200 (or equivalent wording). Otherwise NO.",
+      "evidence": [
+        "https://spectrum.ieee.org/solid-state-lidar-microvision-adas"
+      ],
+      "monitoring_signals": [
+        "OEM ADAS roadmap announcements and supplier nominations",
+        "Lidar supplier earnings calls quoting ASP/BOM targets",
+        "Regulatory filings or homologation hints for lidar-equipped trims"
+      ],
+      "rationale": "Cost breakthroughs are plausible, but OEMs may avoid publishing explicit unit-cost numbers even if achieved.",
+      "id": "1849dadf-ff7b-4f53-88a3-5f1d06adda94",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "India\u2019s newly approved ~$1.1B state-backed venture fund will announce initial capital commitments (first close) of at least $500 million (USD equivalent) and name at least one external fund manager/GP selected to deploy capital.",
+      "category": "macro",
+      "horizon_days": 227,
+      "deadline": "2026-09-30",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081,
+      "verification_criteria": "Resolves YES if, by the deadline, an official Indian government/SIDBI (or designated implementing agency) announcement states (a) committed capital \u2265$500M equivalent and (b) identifies at least one selected external manager/GP (by name). Otherwise NO.",
+      "evidence": [
+        "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/"
+      ],
+      "monitoring_signals": [
+        "SIDBI/government notifications and tender/selection results",
+        "Public launch events and budget/expenditure documents",
+        "Press reporting on manager shortlists and mandate awards"
+      ],
+      "rationale": "Approval suggests momentum, but procurement/selection processes can drag and commitment sizes may be staged.",
+      "id": "15f3e18a-a1dc-4db4-8b8b-81009e573c69",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A new non-hormonal male contraceptive clinical trial will be registered on ClinicalTrials.gov as Phase 1 or Phase 2 with planned enrollment of at least 50 participants.",
+      "category": "other",
+      "horizon_days": 319,
+      "deadline": "2026-12-31",
+      "confidence_pct": 28,
+      "log_odds": -0.9444616088,
+      "verification_criteria": "Resolves YES if ClinicalTrials.gov posts a newly registered study by the deadline that (a) is explicitly a male contraceptive (non-hormonal) intervention, (b) Phase 1 or Phase 2, and (c) lists anticipated/planned enrollment \u226550. Otherwise NO.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/02/260213223918.htm"
+      ],
+      "monitoring_signals": [
+        "ClinicalTrials.gov new postings containing 'male contraceptive' and 'non-hormonal'",
+        "Press releases from reproductive-health biotech groups and universities",
+        "NIH RePORTER and major foundation grants in male contraception"
+      ],
+      "rationale": "Scientific progress is encouraging, but translation to adequately sized early trials often takes longer than initial headlines imply.",
+      "id": "023f1f34-a69b-454b-ac73-fb02605ca4f7",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}
