@@ -1,0 +1,218 @@
+{
+  "date": "2026-02-16",
+  "predictions": [
+    {
+      "text": "The U.S. Department of Homeland Security will experience a lapse in appropriations that triggers a partial shutdown lasting at least 24 consecutive hours.",
+      "category": "macro",
+      "horizon_days": 73,
+      "deadline": "2026-04-30",
+      "confidence_pct": 30,
+      "log_odds": -0.8473,
+      "verification_criteria": "Resolves YES if DHS/OMB/Congressional notices or at least two major outlets report a DHS funding lapse with shutdown procedures in effect for >=24 consecutive hours before funding is restored; otherwise NO.",
+      "evidence": [
+        "Recent reporting highlights elevated DHS shutdown risk amid budget brinkmanship.",
+        "DHS operations include many non-exempt functions that typically require shutdown planning during funding lapses."
+      ],
+      "monitoring_signals": [
+        "Congressional action (CR/appropriations) specifically funding DHS",
+        "DHS contingency planning memos or public statements",
+        "House/Senate procedural votes and whip counts near funding deadlines"
+      ],
+      "rationale": "Political brinkmanship raises lapse risk, but CRs are common; requiring a >=24-hour lapse keeps this from triggering on near-miss funding gaps.",
+      "id": "4edebabf-b05f-498c-b0e4-d5c75b303ecf",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "FERC will issue a Notice of Proposed Rulemaking (NOPR) or formal policy proposal that explicitly addresses cost allocation and/or interconnection requirements for new large-load (>=50 MW) data centers or similar high-density loads.",
+      "category": "energy",
+      "horizon_days": 318,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "YES if FERC publishes (Federal Register or FERC docket) a NOPR/policy statement proposing rule changes that explicitly mention large loads/data centers (or equivalent) and cost allocation/interconnection obligations; otherwise NO.",
+      "evidence": [
+        "Public White House messaging suggests shifting grid/energy costs toward data-center developers.",
+        "Grid constraints from data-center growth are increasingly salient for regulators and ISOs."
+      ],
+      "monitoring_signals": [
+        "FERC technical conferences or dockets on large load / interconnection / cost allocation",
+        "ISO/RTO filings requesting guidance or rule changes",
+        "DOE or White House statements on grid cost responsibility for data centers"
+      ],
+      "rationale": "Regulatory pressure is rising, but translating concern into a formal FERC proposal within 2026 is uncertain.",
+      "id": "0bed3a85-4b28-457a-aa66-062e6d258f06",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OpenAI will announce a consumer distribution partnership in India with a major telecom or handset OEM that bundles a paid ChatGPT tier (or equivalent) into customer plans, explicitly stating the bundle includes a paid subscription.",
+      "category": "tech",
+      "horizon_days": 196,
+      "deadline": "2026-08-31",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "YES if OpenAI or the partner (e.g., Reliance Jio, Bharti Airtel, major handset OEM) publishes a press release/blog stating a plan bundle includes a paid ChatGPT subscription/credit; otherwise NO.",
+      "evidence": [
+        "OpenAI leadership cites very large weekly active usage in India, indicating a major distribution opportunity.",
+        "India is seeing increased AI-infrastructure activity, suggesting intensified competition for user monetization."
+      ],
+      "monitoring_signals": [
+        "Telco plan announcements mentioning ChatGPT/OpenAI",
+        "OpenAI India hiring, partnerships, or localized product launches",
+        "App store pricing/promotions tied to telecom billing"
+      ],
+      "rationale": "High usage makes bundling attractive, but commercial terms and regulatory/partner alignment add friction.",
+      "id": "fd1f7b7d-7b55-4c0a-a552-e85ed1dbf631",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "An India-based AI compute / data-center platform startup will announce an equity or debt financing round with total new committed capital of at least $750 million (USD equivalent) in a single round.",
+      "category": "markets",
+      "horizon_days": 318,
+      "deadline": "2026-12-31",
+      "confidence_pct": 38,
+      "log_odds": -0.4895,
+      "verification_criteria": "YES if a company headquartered in India and primarily focused on AI compute/data centers announces a single financing round (equity and/or debt) totaling >=$750M USD equivalent, confirmed by the company and at least one major outlet; otherwise NO.",
+      "evidence": [
+        "Recent large financings are occurring as India pushes to build domestic AI compute amid power constraints."
+      ],
+      "monitoring_signals": [
+        "Large debt facilities or project financing announcements for Indian AI/data-center platforms",
+        "PE infrastructure funds entering Indian compute (term sheets, exclusivity reports)",
+        "Government policy incentives affecting data-center capex economics"
+      ],
+      "rationale": "Momentum is strong, but size threshold is high and dependent on power availability and lender risk appetite.",
+      "id": "160ef4cb-00f7-4f02-8f7b-74cc69bc539a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Japan National Tourism Organization (JNTO) will report mainland China visitor arrivals to Japan down at least 15% year-over-year in at least one monthly release.",
+      "category": "macro",
+      "horizon_days": 226,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "YES if any JNTO monthly statistics release dated by 2026-09-30 shows mainland China visitor arrivals to Japan with y/y change <= -15%; otherwise NO.",
+      "evidence": [
+        "Recent reporting indicates Japan\u2013China tensions are weighing on tourism demand."
+      ],
+      "monitoring_signals": [
+        "JNTO monthly inbound tourism releases",
+        "China travel advisories and airline capacity changes on China\u2013Japan routes",
+        "High-frequency hotel occupancy/flight booking indicators"
+      ],
+      "rationale": "Tourism is sensitive to diplomatic tensions and sentiment; a -15% print is plausible but not guaranteed.",
+      "id": "4ed17385-06b9-4d61-8cf9-5d0b52e5181e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Aggregate U.S. spot Bitcoin ETFs will record net outflows of at least $2.5 billion over a rolling 30-day window.",
+      "category": "markets",
+      "horizon_days": 134,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "YES if a widely cited tracker (e.g., Bloomberg, BitMEX Research, ETF issuers) shows cumulative net flows across U.S.-listed spot Bitcoin ETFs <= -$2.5B over any contiguous 30-day period ending by 2026-06-30; otherwise NO.",
+      "evidence": [
+        "Recent selloff reduced ETF inflows, signaling vulnerability to a larger reversal if risk-off persists."
+      ],
+      "monitoring_signals": [
+        "Daily ETF flow data across major spot Bitcoin ETFs",
+        "BTC realized volatility and drawdowns",
+        "Funding rates / futures basis and broader risk sentiment indicators"
+      ],
+      "rationale": "Flows can swing quickly during drawdowns; threshold is large but achievable under sustained risk-off.",
+      "id": "a9952e52-68ec-4585-9869-a850e37f69a4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Warner Bros. Discovery and Paramount Global will publicly confirm (via SEC filing or press release) that they have entered exclusive negotiations or signed a non-binding term sheet/MOU for a potential transaction.",
+      "category": "markets",
+      "horizon_days": 165,
+      "deadline": "2026-07-31",
+      "confidence_pct": 25,
+      "log_odds": -1.0986,
+      "verification_criteria": "YES if either company files an 8-K (or equivalent) or issues a press release stating exclusivity or a signed term sheet/MOU for a transaction with the other; routine media rumors without such confirmation do not count.",
+      "evidence": [
+        "Recent reporting suggests renewed consideration of talks, reflecting continued consolidation pressure in streaming/media."
+      ],
+      "monitoring_signals": [
+        "8-K filings, investor presentations, and earnings-call disclosures",
+        "Regulatory/antitrust signaling around large media combinations",
+        "Debt-market conditions affecting transaction financing"
+      ],
+      "rationale": "Consolidation incentives are real, but governance, valuation, and regulatory risk make formal exclusivity/term sheets uncertain.",
+      "id": "1091efb9-3772-4221-a5f2-0f64f7a4e77f",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The European Commission will publish an implementing act, delegated act, or formal guidance document that specifies reporting/recordkeeping requirements for the EU ban on destruction of unsold apparel and footwear.",
+      "category": "other",
+      "horizon_days": 318,
+      "deadline": "2026-12-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "YES if the European Commission (or Official Journal) publishes a document explicitly detailing compliance reporting/recordkeeping for the destruction ban on unsold apparel/footwear by 2026-12-31; otherwise NO.",
+      "evidence": [
+        "EU has adopted rules restricting destruction of unsold clothes and shoes, implying follow-on compliance specifications."
+      ],
+      "monitoring_signals": [
+        "Official Journal / Commission updates under the relevant regulation",
+        "Consultations with industry and member-state implementation timelines",
+        "Retail trade association compliance briefings"
+      ],
+      "rationale": "New bans typically require operational guidance; timing depends on administrative prioritization and consultation.",
+      "id": "554ce05d-cfcb-4a9e-b259-f8d754a3f16a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one major U.S. auto industry group or automaker (e.g., Alliance for Automotive Innovation or a top-10 OEM) will file a lawsuit challenging the EPA decision to end regulatory crediting for stop-start vehicle technology.",
+      "category": "energy",
+      "horizon_days": 104,
+      "deadline": "2026-05-31",
+      "confidence_pct": 30,
+      "log_odds": -0.8473,
+      "verification_criteria": "YES if a complaint/petition for review is filed (e.g., D.C. Circuit) explicitly challenging EPA\u2019s stop-start credit policy change, confirmed by court docket and reported by at least one major legal/trade outlet; otherwise NO.",
+      "evidence": [
+        "EPA policy change affects automaker compliance economics by removing credit for an incremental efficiency technology."
+      ],
+      "monitoring_signals": [
+        "EPA Federal Register notices and effective dates",
+        "Auto industry public comments and intent-to-sue statements",
+        "New court filings in relevant circuits"
+      ],
+      "rationale": "Economic impact creates litigation incentive, but industry may prefer lobbying/negotiation over court action.",
+      "id": "0d6c0ccf-b969-404a-99b2-9ce49b0478d6",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Canada will award a defense procurement contract with a stated value of at least C$1.0 billion to a prime contractor headquartered outside the United States, explicitly framed as part of procurement diversification or domestic/ally industrial policy.",
+      "category": "geopolitics",
+      "horizon_days": 318,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "YES if the Government of Canada announces a defense contract >=C$1.0B (press release or procurement notice) where the prime is non-U.S.-headquartered and official language explicitly cites diversification/industrial policy (or equivalent) as a motivation; otherwise NO.",
+      "evidence": [
+        "Recent reporting indicates Canada is signaling defense spending increases won\u2019t automatically flow to U.S. arms makers."
+      ],
+      "monitoring_signals": [
+        "Canadian DND/PSPC procurement announcements and tender outcomes",
+        "Statements on defense-industrial strategy and allied sourcing",
+        "Major program updates (air, naval, air defense, ISR) with vendor selection milestones"
+      ],
+      "rationale": "Stated intent to diversify increases odds, but procurement cycles and U.S. interoperability constraints can limit near-term awards.",
+      "id": "e803402a-db76-45ef-b2c3-41f99562236a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

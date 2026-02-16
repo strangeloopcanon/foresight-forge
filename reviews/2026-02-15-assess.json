@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-15",
+  "assessments": [
+    {
+      "id": "02a0b6dd-8783-4045-9858-34eb5991bca5",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items do not mention the 2026 Social Security and Medicare Trustees Report or any updated OASI trust fund depletion-year projection."
+    },
+    {
+      "id": "1d096a2a-4654-4342-9f82-14ecc61148a2",
+      "status": "pending",
+      "status_rationale": "No news bullet indicates the EU has adopted a Russia-related sanctions action naming Alexei Navalny and adding 10+ listings."
+    },
+    {
+      "id": "5ebd56d4-00fd-48d8-9dfe-d3a6f1f34b71",
+      "status": "pending",
+      "status_rationale": "No referenced Treasury/OFAC announcement appears in today\u2019s bullets regarding an Iran-related designation package citing protest suppression or human-rights abuses."
+    },
+    {
+      "id": "2cefbcb5-3086-4568-941b-61d62082d335",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s links indicate BIS published a Federal Register rule tightening advanced AI compute export controls to China (thresholds, end-use/end-user, or model-weight/training-related controls)."
+    },
+    {
+      "id": "687e6bd7-7d82-4f3f-9319-c4deb04de665",
+      "status": "pending",
+      "status_rationale": "There is no bullet about the European Commission publishing a formal joint-borrowing (or EU-guaranteed bonds) defense financing proposal of at least \u20ac50B."
+    },
+    {
+      "id": "d6e8c469-369a-407b-98bd-8ce2d6f0b728",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets provide no evidence about ICE Brent front-month settlement prices reaching or exceeding $95/bbl on any trading day."
+    },
+    {
+      "id": "1849dadf-ff7b-4f53-88a3-5f1d06adda94",
+      "status": "pending",
+      "status_rationale": "No item reports a top-10 automaker announcing a production program using solid-state lidar with an explicitly stated unit/BOM cost of $200 or less."
+    },
+    {
+      "id": "15f3e18a-a1dc-4db4-8b8b-81009e573c69",
+      "status": "pending",
+      "status_rationale": "No bullet references India\u2019s state-backed ~$1.1B venture fund announcing a \u2265$500M first close and naming an external GP/fund manager."
+    },
+    {
+      "id": "023f1f34-a69b-454b-ac73-fb02605ca4f7",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not indicate a newly registered ClinicalTrials.gov Phase 1/2 non-hormonal male contraceptive trial with planned enrollment \u226550."
+    }
+  ]
+}

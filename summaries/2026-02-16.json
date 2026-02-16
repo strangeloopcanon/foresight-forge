@@ -1,0 +1,121 @@
+{
+  "bullets": [
+    {
+      "text": "Canada signals defense-spending growth won\u2019t automatically flow to U.S. arms makers, hinting at diversification and industrial-policy preferences in procurement.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/02/15/world/canada/canada-military-spending.html"
+    },
+    {
+      "text": "Mixed U.S. messaging at Munich and lingering backlash from Greenland threat underscore allied trust deficits and policy uncertainty for NATO and Europe.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/15/world/europe/three-american-speeches-at-munich-and-plenty-of-confusion.html"
+    },
+    {
+      "text": "Trump\u2019s attack on Israel\u2019s president highlights potential strain in U.S.-Israel political ties, adding uncertainty to Middle East diplomacy and security coordination.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/15/world/middleeast/trump-israel-herzog-attacks.html"
+    },
+    {
+      "text": "Homeland Security shutdown risk raises concerns over border operations, disaster response, and cybersecurity continuity\u2014policy brinkmanship with real economic-security spillovers.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/15/us/politics/homeland-security-shutdown.html"
+    },
+    {
+      "text": "EPA ends credit for stop-start vehicle technology, reducing incentives for incremental fuel-economy gains and shifting automaker compliance economics toward other efficiency pathways.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/15/business/energy-environment/epa-tax-credits-stop-start-ignition-cars.html"
+    },
+    {
+      "text": "Japan\u2019s China dispute is weighing on tourism and demand; GDP returned to growth but missed expectations, reinforcing a fragile rebound narrative.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/16/japan-fourth-quarter-gdp-reverses-into-growth-but-misses-expectations-as-rebound-underwhelms.html"
+    },
+    {
+      "text": "White House adviser signals data-center developers may be forced to internalize grid/energy costs, potentially raising AI infrastructure capex and reshaping site selection.",
+      "tags": [
+        "energy",
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/15/navarro-trump-data-centers-affordability.html"
+    },
+    {
+      "text": "Power constraints are catalyzing AI-infrastructure investment in India, including large financings for domestic compute and efficiency startups to relieve data-center bottlenecks.",
+      "tags": [
+        "tech",
+        "markets",
+        "energy"
+      ],
+      "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/"
+    },
+    {
+      "text": "Altman says India has 100M weekly active ChatGPT users, signaling outsized demand growth and intensifying competition for distribution, pricing, and localized AI products.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/"
+    },
+    {
+      "text": "Bitcoin\u2019s selloff reduced ETF inflows, but flows aren\u2019t indicating broad capitulation\u2014suggesting weaker momentum without full \u2018crypto winter\u2019 positioning.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html"
+    },
+    {
+      "text": "Warner Bros. is considering renewed Paramount talks, highlighting continued consolidation pressure in streaming/media as scale and debt management dominate strategy.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2026/02/15/business/netflix-warner-bros-discovery-paramount.html"
+    },
+    {
+      "text": "EU bans destruction of unsold apparel and footwear, pushing retailers toward resale/recycling logistics and potentially raising compliance costs while reducing waste.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en"
+    },
+    {
+      "text": "Large study finds no link between mRNA COVID vaccination in pregnancy and autism, strengthening safety evidence relevant to public-health policy and vaccine uptake.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215085001.htm"
+    },
+    {
+      "text": "Massive analysis suggests most statin side effects aren\u2019t drug-caused, implying nocebo effects are substantial and adherence could improve with better patient communication.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260212025550.htm"
+    },
+    {
+      "text": "AI identified genetic regulatory \u2018control centers\u2019 implicated in Alzheimer\u2019s, pointing to new therapeutic targets and showing how ML is accelerating disease-mechanism discovery.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260215084954.htm"
+    }
+  ]
+}

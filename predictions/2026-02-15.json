@@ -19,7 +19,7 @@
       ],
       "rationale": "Recent coverage already centers on ~6-year depletion timing; modest downside risk (earlier) remains plausible given interest-cost and benefit-growth uncertainties.",
       "id": "02a0b6dd-8783-4045-9858-34eb5991bca5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Escalating attribution claims can catalyze EU listings, but unanimity and sanction-fatigue create meaningful drag.",
       "id": "1d096a2a-4654-4342-9f82-14ecc61148a2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Diaspora pressure and ongoing repression narratives make targeted designations plausible, though timing is uncertain.",
       "id": "5ebd56d4-00fd-48d8-9dfe-d3a6f1f34b71",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Rapid model competition increases political pressure for tighter controls, but interagency process and industry pushback can delay action.",
       "id": "2cefbcb5-3086-4568-941b-61d62082d335",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Strategic-autonomy debate raises probability of joint defense financing, but fiscal hawks and legal constraints make large joint borrowing difficult.",
       "id": "687e6bd7-7d82-4f3f-9319-c4deb04de665",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Geopolitical risk premia can spike quickly, but ample supply responsiveness and demand uncertainty keep odds moderate.",
       "id": "d6e8c469-369a-407b-98bd-8ce2d6f0b728",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Cost breakthroughs are plausible, but OEMs may avoid publishing explicit unit-cost numbers even if achieved.",
       "id": "1849dadf-ff7b-4f53-88a3-5f1d06adda94",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Approval suggests momentum, but procurement/selection processes can drag and commitment sizes may be staged.",
       "id": "15f3e18a-a1dc-4db4-8b8b-81009e573c69",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Scientific progress is encouraging, but translation to adequately sized early trials often takes longer than initial headlines imply.",
       "id": "023f1f34-a69b-454b-ac73-fb02605ca4f7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]
