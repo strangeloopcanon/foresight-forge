@@ -1,0 +1,223 @@
+{
+  "date": "2026-02-17",
+  "predictions": [
+    {
+      "text": "Apple will publicly launch video podcast publishing/consumption support inside Apple Podcasts (or a rebranded Apple podcasts product) with a documented creator upload workflow and at least one monetization feature (ads, subscriptions, or paid channels).",
+      "category": "tech",
+      "horizon_days": 225,
+      "deadline": "2026-09-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if Apple announces and documents (press release, Apple Support/Developer docs, or WWDC session materials) video podcast support in Apple Podcasts (or successor) plus a creator upload workflow and a monetization feature. NO if not publicly launched by deadline.",
+      "evidence": [
+        "CNBC reports Apple is pushing video podcasting, escalating competition with YouTube/Spotify and implying product expansion.",
+        "Platform competition for creators typically pairs new formats (video) with monetization tooling to drive adoption."
+      ],
+      "monitoring_signals": [
+        "WWDC 2026 sessions mentioning Podcasts updates",
+        "Apple Podcasts Creator/Publisher documentation changes",
+        "iOS/iPadOS release notes referencing video podcasts",
+        "New Apple Podcasts Partner Program or ad-product pages"
+      ],
+      "rationale": "Apple\u2019s reported strategic push suggests near-term productization; adding monetization is a common adoption lever in creator platform wars.",
+      "id": "a957b25a-464a-46e4-b07b-58c6749e85e2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Senate HELP Committee will hold a markup and report out (favorably or unfavorably) at least one bill that would materially restrict direct-to-consumer (DTC) advertising of prescription drugs (e.g., partial ban, new mandatory disclosures, or time-on-market limits).",
+      "category": "other",
+      "horizon_days": 256,
+      "deadline": "2026-10-31",
+      "confidence_pct": 27,
+      "verification_criteria": "Resolves YES if Senate HELP schedules a markup and votes to report a DTC Rx-ad restriction bill (any report outcome) with legislative text publicly available. NO otherwise.",
+      "evidence": [
+        "Recent public debate highlights perceived harms from DTC drug advertising and renewed policy attention.",
+        "Healthcare cost-containment proposals often surface during broader budget/health policy negotiations."
+      ],
+      "monitoring_signals": [
+        "Senate HELP markup notices and committee calendar",
+        "Congress.gov bill introductions referencing DTC advertising restrictions",
+        "CBO cost estimates and committee reports on DTC ad bills",
+        "Statements by HELP leadership on pharma advertising"
+      ],
+      "rationale": "The issue is politically salient but faces heavy industry lobbying and First Amendment constraints, lowering passage odds yet allowing committee action.",
+      "id": "3e2844dc-a24a-4e2c-8aec-f64b49f4f897",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "At least one of Moderna, Pfizer, or GSK will announce a workforce reduction affecting at least 10% of its global employees (or at least 5,000 employees), explicitly citing vaccine market weakness, reduced vaccine R&D, or pipeline reprioritization.",
+      "category": "markets",
+      "horizon_days": 133,
+      "deadline": "2026-06-30",
+      "confidence_pct": 34,
+      "verification_criteria": "Resolves YES if an eligible company announces a layoff meeting the threshold in an SEC filing, press release, or earnings materials and explicitly links it to vaccines/vaccine R&D reprioritization. NO if no such announcement by deadline.",
+      "evidence": [
+        "NYT reports vaccine manufacturers curtailing R&D and cutting jobs amid uncertainty.",
+        "Post-pandemic vaccine demand normalization and pricing/policy uncertainty increase restructuring likelihood."
+      ],
+      "monitoring_signals": [
+        "8-K filings, press releases, and earnings call transcripts",
+        "Company guidance updates for vaccine revenue/pipeline",
+        "Restructuring charges disclosed in quarterly results",
+        "Major-media reports citing internal memos on vaccine-unit cuts"
+      ],
+      "rationale": "Industry signals point to continued belt-tightening; the exact magnitude/timing is uncertain, keeping confidence moderate.",
+      "id": "c74782e6-95c8-4f8c-8790-8d2d82ea083d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "FinCEN will issue a public advisory (FIN-xxxx) that explicitly cites stablecoins as a payment mechanism in human trafficking and/or child sexual exploitation material (CSAM) networks and provides compliance red flags for financial institutions.",
+      "category": "geopolitics",
+      "horizon_days": 256,
+      "deadline": "2026-10-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Resolves YES if FinCEN publishes an advisory that explicitly mentions stablecoins in the context of trafficking and/or CSAM and includes AML/CFT red flags or guidance. NO otherwise.",
+      "evidence": [
+        "CNBC/Chainalysis reporting highlights growing stablecoin use in trafficking and CSAM networks, increasing enforcement and compliance pressure.",
+        "FinCEN commonly responds to emerging typologies with advisories to regulated entities."
+      ],
+      "monitoring_signals": [
+        "FinCEN advisories and press releases",
+        "Treasury statements on illicit finance and digital assets",
+        "New typology reports from Chainalysis/TRM/Elliptic cited by officials",
+        "Congressional letters requesting FinCEN guidance"
+      ],
+      "rationale": "If stablecoin-enabled abuse is rising, FinCEN guidance is a relatively low-friction policy response compared with legislation.",
+      "id": "4a6e0d35-2fe3-4c71-af1b-21e190cddcf9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OFAC will announce a sanctions action that includes the designation of at least 10 cryptocurrency wallet addresses and explicitly references either CSAM, human trafficking, or online sexual exploitation in the accompanying press release.",
+      "category": "geopolitics",
+      "horizon_days": 317,
+      "deadline": "2026-12-31",
+      "confidence_pct": 29,
+      "verification_criteria": "Resolves YES if an OFAC press release (or Treasury announcement) explicitly cites CSAM/trafficking/sexual exploitation and the designation package includes \u226510 crypto wallet addresses (any chain). NO otherwise.",
+      "evidence": [
+        "Reporting suggests increased use of crypto rails (including stablecoins) in trafficking/CSAM networks, likely elevating Treasury focus.",
+        "OFAC has an established pattern of designating wallet addresses tied to illicit networks."
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN list updates",
+        "Treasury/DOJ joint announcements involving crypto-enabled exploitation networks",
+        "Blockchain analytics firm reports naming sanctioned wallet clusters",
+        "NGO/UN reports on financial rails used in exploitation"
+      ],
+      "rationale": "Targeted designations are plausible but depend on investigative milestones and interagency prioritization.",
+      "id": "3bdd5248-5518-46b4-921e-d9138f4b0c91",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "A top-10 global container shipping carrier (by capacity) will announce an acquisition or merger involving another shipping/logistics company with a disclosed enterprise value or purchase price of at least $1.0 billion.",
+      "category": "markets",
+      "horizon_days": 317,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Resolves YES if a top-10 carrier announces an M&A deal with EV/purchase price \u2265$1.0B (press release, investor deck, or regulatory filing). NO if no such announcement by deadline.",
+      "evidence": [
+        "MarketWatch notes Hapag-Lloyd\u2019s planned purchase signals consolidation and strategic route/capacity positioning.",
+        "Volatile freight markets and vertical integration incentives support further consolidation."
+      ],
+      "monitoring_signals": [
+        "Carrier press releases (Maersk, MSC, CMA CGM, COSCO, Hapag-Lloyd, ONE, etc.)",
+        "Competition authority filings in EU/US/Asia",
+        "Shipping-industry trade press deal rumors",
+        "Earnings calls discussing inorganic growth"
+      ],
+      "rationale": "Strategic consolidation is a recurring cycle in shipping; deal size threshold is the main uncertainty.",
+      "id": "99a6facb-6c84-4a4d-9297-e2514c062acb",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Treasury (OFAC) will impose a Russia-related sanctions package that includes at least one non-Russian entity (company or bank) headquartered in the UAE, Turkey, China, or India, explicitly for facilitating Russian oil exports or oil-trade financing/shipping.",
+      "category": "geopolitics",
+      "horizon_days": 195,
+      "deadline": "2026-08-31",
+      "confidence_pct": 43,
+      "verification_criteria": "Resolves YES if an OFAC Russia-related press release designates \u22651 entity headquartered in UAE/Turkey/China/India and explicitly ties it to facilitating Russian oil exports or financing/shipping of Russian oil. NO otherwise.",
+      "evidence": [
+        "Ongoing Russia sanctions focus remains salient amid continued Ukraine war financing concerns.",
+        "Enforcement has increasingly targeted third-country facilitators in multiple sanctions programs."
+      ],
+      "monitoring_signals": [
+        "OFAC Russia-related press releases and SDN updates",
+        "Treasury statements on sanctions evasion networks",
+        "Shipping/insurance compliance advisories",
+        "Investigative reporting on oil-trade intermediaries"
+      ],
+      "rationale": "Secondary/third-country targeting is a plausible escalation lever, though timing depends on diplomatic tradeoffs.",
+      "id": "8042a752-a7e1-44f7-b290-b790fdfacb67",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "BLS will report the number of unemployed persons jobless for 27 weeks or longer (U-1 long-term unemployed, seasonally adjusted level) at or above 1.80 million in at least one monthly Employment Situation release.",
+      "category": "macro",
+      "horizon_days": 286,
+      "deadline": "2026-11-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Resolves YES if any BLS Employment Situation (Feb\u2013Nov 2026 releases) reports unemployed 27+ weeks SA level \u22651.80M (Table A-12 or successor). NO otherwise by deadline.",
+      "evidence": [
+        "CNBC highlights long-term unemployment becoming entrenched for some workers, consistent with rising long-duration joblessness risk in slower-growth periods."
+      ],
+      "monitoring_signals": [
+        "BLS Employment Situation Table A-12 monthly",
+        "Initial and continuing claims trend changes",
+        "JOLTS hires rate and unemployed-per-job-openings ratio",
+        "Regional Fed labor market indicators"
+      ],
+      "rationale": "A modest labor-market deterioration can disproportionately raise long-duration unemployment; the threshold is reachable but not base-case.",
+      "id": "8254549e-8ca5-42d2-909b-7f6f9cf60a1f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Government of India (MeitY, Digital India Corporation, or an approved implementing agency) will issue a tender/award for a national AI compute program with a disclosed value of at least $500 million (USD equivalent) or explicitly covering at least 10,000 data-center GPUs (or equivalent accelerator capacity).",
+      "category": "tech",
+      "horizon_days": 317,
+      "deadline": "2026-12-31",
+      "confidence_pct": 36,
+      "verification_criteria": "Resolves YES if an official Indian government tender notice or award announcement states \u2265$500M value (USD equivalent) OR specifies \u226510,000 GPUs/accelerators for an AI compute initiative. NO otherwise.",
+      "evidence": [
+        "Major tech CEO participation in India\u2019s AI summit signals heightened policy and investment focus on AI infrastructure and capacity building."
+      ],
+      "monitoring_signals": [
+        "GeM/CPP portal tenders and MeitY announcements",
+        "Press releases on India national AI compute/sovereign cloud initiatives",
+        "Budget documents and cabinet approvals for AI infrastructure",
+        "Named implementing partners (PSUs or private consortia)"
+      ],
+      "rationale": "India has strategic incentives to stand up compute capacity; procurement scale and execution speed remain the main risks.",
+      "id": "fd9255f3-7145-4553-8f8b-27c72b140d7d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. FTC will announce a finalized settlement order (or federal court judgment) in an enforcement action alleging deceptive or unfair practices involving a generative AI product, with monetary relief (penalties/redress/disgorgement) of at least $10 million.",
+      "category": "tech",
+      "horizon_days": 317,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if the FTC publicly announces a final order/judgment against a company for deceptive/unfair conduct involving a generative AI product and the announcement states monetary relief \u2265$10M. NO otherwise.",
+      "evidence": [
+        "Rising scrutiny of frontier AI labs and AI marketing claims increases likelihood of consumer-protection enforcement.",
+        "FTC has a history of targeting exaggerated performance and privacy/security misrepresentations in emerging tech."
+      ],
+      "monitoring_signals": [
+        "FTC press releases and administrative complaints referencing generative AI",
+        "DOJ/State AG parallel actions on AI deception",
+        "Large consumer complaint spikes tied to AI products",
+        "Revisions to FTC guidance on AI claims/endorsements"
+      ],
+      "rationale": "Enforcement momentum is plausible, but case selection and settlement timing are uncertain, keeping confidence mid-range.",
+      "id": "be5b268b-ff3b-4096-ab35-babf0549e8a8",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

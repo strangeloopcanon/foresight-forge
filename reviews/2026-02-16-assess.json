@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-16",
+  "assessments": [
+    {
+      "id": "4edebabf-b05f-498c-b0e4-d5c75b303ecf",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no reporting about a DHS appropriations lapse or any partial shutdown event; no confirmation or disconfirmation is available."
+    },
+    {
+      "id": "0bed3a85-4b28-457a-aa66-062e6d258f06",
+      "status": "pending",
+      "status_rationale": "No item references FERC issuing a NOPR or formal policy proposal on cost allocation/interconnection requirements for large-load data centers; status remains unresolved."
+    },
+    {
+      "id": "fd1f7b7d-7b55-4c0a-a552-e85ed1dbf631",
+      "status": "pending",
+      "status_rationale": "The CNBC item about Altman heading to India for an AI summit does not report a consumer distribution partnership (telecom/OEM) bundling a paid ChatGPT tier; no explicit bundle announcement is evidenced."
+    },
+    {
+      "id": "160ef4cb-00f7-4f02-8f7b-74cc69bc539a",
+      "status": "pending",
+      "status_rationale": "No news bullet mentions an India-based AI compute/data-center platform startup raising >=$750M in a single round; no clear evidence either way."
+    },
+    {
+      "id": "4ed17385-06b9-4d61-8cf9-5d0b52e5181e",
+      "status": "pending",
+      "status_rationale": "No bullet references JNTO monthly statistics or a >=15% YoY decline in mainland China visitor arrivals; cannot be assessed from today\u2019s news set."
+    },
+    {
+      "id": "a9952e52-68ec-4585-9869-a850e37f69a4",
+      "status": "pending",
+      "status_rationale": "The provided items do not include data on aggregate U.S. spot Bitcoin ETF net flows over a 30-day window; no confirmation of >=$2.5B outflows."
+    },
+    {
+      "id": "1091efb9-3772-4221-a5f2-0f64f7a4e77f",
+      "status": "pending",
+      "status_rationale": "While there is general media-industry coverage (e.g., Anderson Cooper leaving '60 Minutes'), nothing indicates Warner Bros. Discovery and Paramount have confirmed exclusive talks or a term sheet/MOU."
+    },
+    {
+      "id": "554ce05d-cfcb-4a9e-b259-f8d754a3f16a",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the European Commission published an implementing/delegated act or guidance specifying reporting/recordkeeping requirements for the unsold apparel/footwear destruction ban."
+    },
+    {
+      "id": "0d6c0ccf-b969-404a-99b2-9ce49b0478d6",
+      "status": "pending",
+      "status_rationale": "No news item reports any U.S. auto industry group or automaker filing a lawsuit about EPA ending stop-start regulatory crediting; no clear evidence to update."
+    },
+    {
+      "id": "e803402a-db76-45ef-b2c3-41f99562236a",
+      "status": "pending",
+      "status_rationale": "No bullet mentions Canada awarding a >=C$1.0B defense contract to a non-U.S.-headquartered prime contractor framed as diversification/industrial policy; unresolved."
+    }
+  ]
+}

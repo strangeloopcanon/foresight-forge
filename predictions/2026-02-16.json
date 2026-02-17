@@ -20,7 +20,7 @@
       ],
       "rationale": "Political brinkmanship raises lapse risk, but CRs are common; requiring a >=24-hour lapse keeps this from triggering on near-miss funding gaps.",
       "id": "4edebabf-b05f-498c-b0e4-d5c75b303ecf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Regulatory pressure is rising, but translating concern into a formal FERC proposal within 2026 is uncertain.",
       "id": "0bed3a85-4b28-457a-aa66-062e6d258f06",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "High usage makes bundling attractive, but commercial terms and regulatory/partner alignment add friction.",
       "id": "fd1f7b7d-7b55-4c0a-a552-e85ed1dbf631",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "Momentum is strong, but size threshold is high and dependent on power availability and lender risk appetite.",
       "id": "160ef4cb-00f7-4f02-8f7b-74cc69bc539a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "rationale": "Tourism is sensitive to diplomatic tensions and sentiment; a -15% print is plausible but not guaranteed.",
       "id": "4ed17385-06b9-4d61-8cf9-5d0b52e5181e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rationale": "Flows can swing quickly during drawdowns; threshold is large but achievable under sustained risk-off.",
       "id": "a9952e52-68ec-4585-9869-a850e37f69a4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -148,7 +148,7 @@
       ],
       "rationale": "Consolidation incentives are real, but governance, valuation, and regulatory risk make formal exclusivity/term sheets uncertain.",
       "id": "1091efb9-3772-4221-a5f2-0f64f7a4e77f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "rationale": "New bans typically require operational guidance; timing depends on administrative prioritization and consultation.",
       "id": "554ce05d-cfcb-4a9e-b259-f8d754a3f16a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -190,7 +190,7 @@
       ],
       "rationale": "Economic impact creates litigation incentive, but industry may prefer lobbying/negotiation over court action.",
       "id": "0d6c0ccf-b969-404a-99b2-9ce49b0478d6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -211,7 +211,7 @@
       ],
       "rationale": "Stated intent to diversify increases odds, but procurement cycles and U.S. interoperability constraints can limit near-term awards.",
       "id": "e803402a-db76-45ef-b2c3-41f99562236a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
