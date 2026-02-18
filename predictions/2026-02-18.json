@@ -1,0 +1,216 @@
+{
+  "date": "2026-02-18",
+  "predictions": [
+    {
+      "text": "At least one top-10 global container shipping carrier (by capacity) will publicly announce a temporary suspension/avoidance of Strait of Hormuz transits (or Persian Gulf port calls) lasting at least 72 consecutive hours due to security risk.",
+      "category": "geopolitics",
+      "horizon_days": 132,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Verified if a top-10 carrier (e.g., MSC, Maersk, CMA CGM, COSCO, Hapag-Lloyd, ONE, Evergreen) issues a press release, customer advisory, or official website notice stating it is suspending/avoiding Hormuz transits or Gulf calls for >=72 hours for security reasons by the deadline.",
+      "evidence": [
+        "Reports of Iran partially restricting the Strait of Hormuz raise immediate commercial-shipping disruption risk (CNBC, 2026-02-17): https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html"
+      ],
+      "monitoring_signals": [
+        "Carrier customer advisories (Maersk, MSC, CMA CGM, Hapag-Lloyd, ONE)",
+        "Lloyd\u2019s List / TradeWinds reporting on route suspensions",
+        "UKMTO advisories and incident reports",
+        "Joint War Committee (JWC) Listed Areas updates",
+        "Freightos/SCFI spot-rate spikes on Middle East routes"
+      ],
+      "rationale": "Partial restrictions and heightened Gulf security risk often trigger short, explicit carrier advisories to limit liability and protect crews/insurance coverage.",
+      "id": "5bf0b1cc-0b99-4398-afe1-44b19c6fa140",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. will announce an emergency release (sale or exchange) from the Strategic Petroleum Reserve totaling at least 20 million barrels in a single authorization.",
+      "category": "energy",
+      "horizon_days": 132,
+      "deadline": "2026-06-30",
+      "confidence_pct": 32,
+      "verification_criteria": "Verified if DOE announces an SPR emergency release (sale/exchange) with a stated volume >=20 million barrels in one authorization (not cumulative across multiple small actions) by the deadline.",
+      "evidence": [
+        "Strait of Hormuz restrictions elevate oil-supply risk and increase likelihood of U.S. market-stabilization actions (CNBC, 2026-02-17): https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html"
+      ],
+      "monitoring_signals": [
+        "DOE SPR press releases and Notices of Sale/Exchange",
+        "White House statements on fuel prices/supply disruptions",
+        "EIA Weekly Petroleum Status Report commentary",
+        "Brent/WTI backwardation widening and Gulf tanker rates"
+      ],
+      "rationale": "If Gulf disruptions persist or prices jump sharply, an SPR action is a common short-horizon policy tool.",
+      "id": "bf708611-25b6-4242-af93-a2c79717c602",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "OFAC will announce a sanctions action (press release) adding at least 5 persons/entities tied to Iran-linked maritime security threats (e.g., IRGC-affiliated shipping, logistics, or front companies) explicitly referencing threats/disruptions to maritime traffic in the Gulf/Strait of Hormuz.",
+      "category": "geopolitics",
+      "horizon_days": 163,
+      "deadline": "2026-07-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Verified if a U.S. Treasury/OFAC press release announces Iran-related designations adding >=5 persons/entities and explicitly mentions maritime traffic disruption/attacks or the Strait of Hormuz/Gulf shipping as justification by the deadline.",
+      "evidence": [
+        "Escalation around Hormuz increases odds of U.S. coercive measures targeting facilitators (CNBC, 2026-02-17): https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html"
+      ],
+      "monitoring_signals": [
+        "Treasury/OFAC press releases and SDN list updates",
+        "State Department Iran/maritime security statements",
+        "UKMTO/CMF incident reporting that triggers U.S. responses",
+        "Shipping intelligence reports on IRGC-linked networks"
+      ],
+      "rationale": "Maritime-related incidents often prompt rapid, targeted designation packages aimed at logistics/finance enablers.",
+      "id": "fb49c1a4-51a2-49bd-8236-f9c18470ba84",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Meta Platforms will raise its FY2026 capital expenditure (capex) outlook to a midpoint of at least $60 billion in an earnings release or earnings-call prepared remarks.",
+      "category": "tech",
+      "horizon_days": 194,
+      "deadline": "2026-08-31",
+      "confidence_pct": 48,
+      "verification_criteria": "Verified if Meta\u2019s FY2026 capex guidance range is updated such that the midpoint is >=$60B, stated in an earnings release, 10-Q, or prepared remarks by the deadline.",
+      "evidence": [
+        "Meta is expanding Nvidia partnership and planning very large chip deployments, implying upward pressure on capex (CNBC, 2026-02-17): https://www.cnbc.com/2026/02/17/meta-nvidia-deal-ai-data-center-chips.html"
+      ],
+      "monitoring_signals": [
+        "Meta quarterly earnings releases and 10-Qs",
+        "Management commentary on data-center buildout timelines",
+        "Nvidia supply allocation disclosures and lead-time chatter",
+        "Data-center power procurement and construction announcements"
+      ],
+      "rationale": "Scaling to \u2018millions of chips\u2019 typically forces capex guide raises as power, networking, and build schedules firm up.",
+      "id": "2140833d-329e-4b9d-acff-169e82789d8f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Berkshire Hathaway will report cash, cash equivalents, and U.S. Treasury bills of at least $250 billion at a quarter-end (reported in a 10-Q/10-K or earnings release).",
+      "category": "markets",
+      "horizon_days": 81,
+      "deadline": "2026-05-10",
+      "confidence_pct": 54,
+      "verification_criteria": "Verified if Berkshire\u2019s reported \u2018cash and cash equivalents\u2019 plus \u2018U.S. Treasury bills\u2019 (or equivalent line items) at a quarter-end total >=$250B in a filing/release published by the deadline.",
+      "evidence": [
+        "Recent reporting highlights Berkshire de-risking/portfolio shifts, consistent with elevated liquidity preference (CNBC, 2026-02-17): https://www.cnbc.com/2026/02/17/berkshire-hathaway-trims-apple-stake-buys-nytimes-stock-in-buffetts-last-moves-as-ceo.html"
+      ],
+      "monitoring_signals": [
+        "Berkshire 10-Q/10-K balance sheet line items",
+        "Berkshire earnings releases and shareholder letter updates",
+        "13F changes indicating net selling vs buying",
+        "Treasury-bill issuance/auction conditions (liquidity parking)"
+      ],
+      "rationale": "If equity risk stays elevated, Berkshire\u2019s tendency to accumulate bills/cash can push totals above prior highs.",
+      "id": "2ec53199-953d-435a-80a8-fa57c19dee46",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Palo Alto Networks (PANW) will close at least 20% below its 2026-02-17 close on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 71,
+      "deadline": "2026-04-30",
+      "confidence_pct": 37,
+      "verification_criteria": "Verified if PANW daily closing price is <= (0.80 \u00d7 PANW close on 2026-02-17) on any trading day by the deadline (per Nasdaq/NYSE official close data).",
+      "evidence": [
+        "PANW sold off on underwhelming outlook, signaling valuation sensitivity and downside volatility risk (CNBC, 2026-02-17): https://www.cnbc.com/2026/02/17/palo-alto-networks-panw-q2-2026-earnings.html"
+      ],
+      "monitoring_signals": [
+        "PANW price/volume and options-implied volatility",
+        "Cybersecurity peer guidance (CRWD, FTNT, ZS)",
+        "Enterprise IT spending surveys and CIO budget trackers",
+        "Rate moves impacting high-multiple software valuations"
+      ],
+      "rationale": "Post-guidance-reset periods often see follow-on downgrades and multiple compression, producing additional downside tails.",
+      "id": "f09c93e1-fbc5-4c6f-8b78-eed24e8ec1b0",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Amazon.com will complete at least $10 billion in aggregate gross bond issuance (USD) across one or more offerings.",
+      "category": "rates",
+      "horizon_days": 316,
+      "deadline": "2026-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Verified if Amazon issues bonds totaling >=$10B gross proceeds (sum across offerings) by the deadline, confirmed via SEC filings, company press release, or major underwriting bank deal terms reported by Bloomberg/Reuters.",
+      "evidence": [
+        "Large-cap volatility and investment cycles increase incentives to term out funding when windows open (CNBC, 2026-02-17): https://www.cnbc.com/2026/02/17/amazon-stock-losing-streak.html"
+      ],
+      "monitoring_signals": [
+        "Amazon treasury/IR updates and SEC filings",
+        "Bloomberg/Reuters new-issue calendars",
+        "Investment-grade spread levels and issuance windows",
+        "Peer mega-cap issuance (Apple/Microsoft/Alphabet comparisons)"
+      ],
+      "rationale": "Even with strong cash generation, opportunistic jumbo issuance is common for mega-caps amid capex and refinancing flexibility needs.",
+      "id": "5b28a95f-fbe1-40dc-bc0f-fd9047233c6f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Office of Management and Budget (OMB) will publish a new or updated memorandum directing federal agencies to accelerate post-quantum cryptography (PQC) migration planning (inventorying cryptographic systems and setting deadlines), explicitly referencing NIST PQC standards.",
+      "category": "tech",
+      "horizon_days": 255,
+      "deadline": "2026-10-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Verified if OMB posts an official memo by the deadline that (a) references NIST PQC standards and (b) requires agencies to complete at least one concrete PQC migration action (e.g., inventory, plan submission, procurement requirement) with a specified timeline.",
+      "evidence": [
+        "Growing attention to quantum advances and encryption vulnerabilities supports policy action for PQC transition (ScienceDaily, 2026-02-16): https://www.sciencedaily.com/releases/2026/02/260216084525.htm"
+      ],
+      "monitoring_signals": [
+        "OMB memorandum releases (whitehouse.gov/omb)",
+        "NIST NCCoE and PQC program updates",
+        "CISA cryptographic guidance and transition playbooks",
+        "Federal procurement language referencing PQC requirements"
+      ],
+      "rationale": "As quantum milestones and risk narratives rise, OMB often formalizes migration steps to reduce long-tail federal cyber exposure.",
+      "id": "2c02229a-ef32-4dd6-82b4-7eedb5ddd1f5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Japan (government and/or a Japan-led consortium of companies) will publicly announce new, incremental U.S. investment commitments totaling at least $30 billion (USD equivalent), explicitly framed as part of bilateral economic cooperation with the U.S. administration.",
+      "category": "macro",
+      "horizon_days": 224,
+      "deadline": "2026-09-30",
+      "confidence_pct": 34,
+      "verification_criteria": "Verified if a joint statement/press conference/official release from Japanese government ministries or named major Japanese firms states incremental U.S.-bound investment commitments summing to >=$30B (USD equivalent), with the bilateral framing explicit, by the deadline.",
+      "evidence": [
+        "Reporting indicates early Japanese commitments to invest in the U.S., suggesting follow-on announcements are plausible (NYT, 2026-02-17): https://www.nytimes.com/2026/02/17/business/japan-trump-investments.html"
+      ],
+      "monitoring_signals": [
+        "Japan PM/METI announcements and MOUs",
+        "U.S. Commerce/White House investment event readouts",
+        "Corporate capex press releases (auto, semiconductor, battery, pharma)",
+        "FDI pipeline reporting from Nikkei/Reuters/Bloomberg"
+      ],
+      "rationale": "Industrial-policy competition and trade diplomacy often produce large, headlineable FDI packages over subsequent quarters.",
+      "id": "f28323e5-b23a-4220-b66d-1e9b40586c3b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A U.S. federal court will issue at least one publicly docketed temporary restraining order (TRO) or preliminary injunction related to DHS funding/shutdown impacts (e.g., employee pay, program operations, or contracting), explicitly citing a DHS appropriations lapse or imminent lapse as the precipitating event.",
+      "category": "other",
+      "horizon_days": 71,
+      "deadline": "2026-04-30",
+      "confidence_pct": 26,
+      "verification_criteria": "Verified if PACER or court press reporting shows a TRO/preliminary injunction order in a case where the triggering basis is a DHS funding lapse or imminent lapse, and the order text explicitly references that lapse, by the deadline.",
+      "evidence": [
+        "DHS funding impasse increases operational disruption risk and legal challenges tied to shutdown mechanics (CNBC, 2026-02-17): https://www.cnbc.com/2026/02/17/dhs-shutdown-democrats-trump-counteroffer-funding-homeland.html"
+      ],
+      "monitoring_signals": [
+        "PACER searches for DHS shutdown-related filings",
+        "Federal employee union litigation announcements (AFGE, NTEU)",
+        "GAO and OMB shutdown guidance updates",
+        "Major airport/transport security disruption reports"
+      ],
+      "rationale": "Shutdown brinkmanship can trigger rapid litigation over pay, contractor obligations, and statutory duties, though thresholds for injunctive relief are high.",
+      "id": "8dadd159-b914-4f80-b35d-7662f45a42d5",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

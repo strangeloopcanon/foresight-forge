@@ -1,0 +1,112 @@
+{
+  "bullets": [
+    {
+      "text": "U.S.\u2013Iran Geneva talks reported \u201cgood progress,\u201d while Iran partially restricts the Strait of Hormuz, raising oil-supply risk even as prices dip on diplomacy hopes.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/17/iran-us-strait-of-hormuz-oil-nuclear-talks-geneva.html"
+    },
+    {
+      "text": "Trump leans on informal envoys over State Department capacity, potentially reducing institutional leverage and increasing policy volatility in negotiations with rivals and allies.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/17/us/politics/trump-witkoff-kushner-diplomacy.html"
+    },
+    {
+      "text": "Ukraine war remains difficult to end quickly; entrenched battlefield realities and Russian objectives constrain near-term settlement odds and keep European security risk elevated.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/17/world/europe/trump-ukraine-war-putin.html"
+    },
+    {
+      "text": "Japan trade strength: exports jump ~17% in January, boosted by China demand; underscores uneven global growth as some regions rebound while others slow.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/18/japan-trade-data-january-exports-imports.html"
+    },
+    {
+      "text": "Trump highlights initial Japanese commitments to invest in the U.S., signaling industrial-policy competition for capital and supply-chain localization.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/17/business/japan-trump-investments.html"
+    },
+    {
+      "text": "U.S. DHS funding impasse drags on; shutdown risk adds fiscal and operational uncertainty, potentially disrupting travel, security programs, and contractor cashflows.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/17/dhs-shutdown-democrats-trump-counteroffer-funding-homeland.html"
+    },
+    {
+      "text": "Wealth-tax politics intensify: New York threatens large property-tax hikes absent new levy; California opposition mobilizes ahead of high-profile support.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/17/nyregion/budget-mamdani-property-taxes.html"
+    },
+    {
+      "text": "Cybersecurity growth jitters: Palo Alto Networks stock drops on underwhelming outlook, showing AI narrative can\u2019t offset guidance pressure and valuation sensitivity.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/17/palo-alto-networks-panw-q2-2026-earnings.html"
+    },
+    {
+      "text": "AI capex arms race: Meta expands Nvidia partnership to deploy millions of chips; reinforces data-center bottlenecks (power, memory) and supports semiconductor demand.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/17/meta-nvidia-deal-ai-data-center-chips.html"
+    },
+    {
+      "text": "Big Tech volatility: Amazon snaps steep losing streak after ~$450B market-cap drawdown, highlighting sensitivity to growth expectations and rates-driven discounting.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/17/amazon-stock-losing-streak.html"
+    },
+    {
+      "text": "Berkshire shifts: trims Apple, adds New York Times; signals portfolio de-risking from mega-cap concentration and a tilt toward cashflowing, defensible franchises.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/17/berkshire-hathaway-trims-apple-stake-buys-nytimes-stock-in-buffetts-last-moves-as-ceo.html"
+    },
+    {
+      "text": "AI model pace accelerates with Anthropic\u2019s Claude Sonnet 4.6, but surveys suggest limited productivity and employment impact so far\u2014supporting an \u201cAI adoption lag\u201d thesis.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/17/anthropic-ai-claude-sonnet-4-6-default-free-pro.html"
+    },
+    {
+      "text": "Healthcare science: new blood tests and RNA findings aim to detect cancer earlier; potential to reshape screening markets but requires validation, cost-effectiveness, and regulatory clearance.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260216044002.htm"
+    },
+    {
+      "text": "Quantum advances and risks: Majorana-qubit progress contrasts with identified vulnerabilities that could undermine quantum encryption, emphasizing security-by-design for future communications.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260216084525.htm"
+    }
+  ]
+}

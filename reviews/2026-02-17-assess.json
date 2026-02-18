@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-17",
+  "assessments": [
+    {
+      "id": "a957b25a-464a-46e4-b07b-58c6749e85e2",
+      "status": "pending",
+      "status_rationale": "Today\u2019s headlines include Apple only indirectly (via Berkshire trimming its Apple stake), with no reporting about Apple Podcasts adding video podcast publishing, creator upload workflows, or monetization features."
+    },
+    {
+      "id": "3e2844dc-a24a-4e2c-8aec-f64b49f4f897",
+      "status": "pending",
+      "status_rationale": "No items in today\u2019s news indicate a U.S. Senate HELP Committee markup/report-out of a bill restricting DTC prescription drug advertising."
+    },
+    {
+      "id": "c74782e6-95c8-4f8c-8790-8d2d82ea083d",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention Moderna, Pfizer, or GSK announcing workforce reductions, nor do they reference vaccine-market weakness or vaccine R&D reprioritization tied to layoffs."
+    },
+    {
+      "id": "4a6e0d35-2fe3-4c71-af1b-21e190cddcf9",
+      "status": "pending",
+      "status_rationale": "No reporting here references FinCEN issuing a public advisory (FIN-xxxx) about stablecoins being used in trafficking/CSAM networks or providing related compliance red flags."
+    },
+    {
+      "id": "3bdd5248-5518-46b4-921e-d9138f4b0c91",
+      "status": "pending",
+      "status_rationale": "There is no item indicating an OFAC sanctions action designating 10+ crypto wallet addresses with explicit references to CSAM, human trafficking, or online sexual exploitation."
+    },
+    {
+      "id": "99a6facb-6c84-4a4d-9297-e2514c062acb",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s business/shipping headlines report a top-10 container carrier announcing a $1B+ acquisition or merger involving another shipping/logistics company."
+    },
+    {
+      "id": "8042a752-a7e1-44f7-b290-b790fdfacb67",
+      "status": "pending",
+      "status_rationale": "While Russia/Ukraine diplomacy is discussed in today\u2019s news, there is no mention of a U.S. Treasury/OFAC Russia-related sanctions package targeting a non-Russian entity in the UAE, Turkey, China, or India for facilitating Russian oil exports/financing/shipping."
+    },
+    {
+      "id": "8254549e-8ca5-42d2-909b-7f6f9cf60a1f",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not include a BLS Employment Situation release or any data on the seasonally adjusted level of long-term unemployed (27+ weeks) reaching 1.80 million."
+    },
+    {
+      "id": "fd9255f3-7145-4553-8f8b-27c72b140d7d",
+      "status": "pending",
+      "status_rationale": "No item indicates India (MeitY/Digital India Corporation or an implementing agency) issuing a tender/award for a national AI compute program meeting the stated $500M or 10,000-GPU threshold."
+    },
+    {
+      "id": "be5b268b-ff3b-4096-ab35-babf0549e8a8",
+      "status": "pending",
+      "status_rationale": "No headline reports an FTC finalized settlement order or court judgment involving deceptive/unfair practices tied to a generative AI product with $10M+ monetary relief."
+    }
+  ]
+}

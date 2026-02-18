@@ -20,7 +20,7 @@
       ],
       "rationale": "Apple\u2019s reported strategic push suggests near-term productization; adding monetization is a common adoption lever in creator platform wars.",
       "id": "a957b25a-464a-46e4-b07b-58c6749e85e2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "The issue is politically salient but faces heavy industry lobbying and First Amendment constraints, lowering passage odds yet allowing committee action.",
       "id": "3e2844dc-a24a-4e2c-8aec-f64b49f4f897",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Industry signals point to continued belt-tightening; the exact magnitude/timing is uncertain, keeping confidence moderate.",
       "id": "c74782e6-95c8-4f8c-8790-8d2d82ea083d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "If stablecoin-enabled abuse is rising, FinCEN guidance is a relatively low-friction policy response compared with legislation.",
       "id": "4a6e0d35-2fe3-4c71-af1b-21e190cddcf9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Targeted designations are plausible but depend on investigative milestones and interagency prioritization.",
       "id": "3bdd5248-5518-46b4-921e-d9138f4b0c91",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Strategic consolidation is a recurring cycle in shipping; deal size threshold is the main uncertainty.",
       "id": "99a6facb-6c84-4a4d-9297-e2514c062acb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Secondary/third-country targeting is a plausible escalation lever, though timing depends on diplomatic tradeoffs.",
       "id": "8042a752-a7e1-44f7-b290-b790fdfacb67",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -173,7 +173,7 @@
       ],
       "rationale": "A modest labor-market deterioration can disproportionately raise long-duration unemployment; the threshold is reachable but not base-case.",
       "id": "8254549e-8ca5-42d2-909b-7f6f9cf60a1f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -194,7 +194,7 @@
       ],
       "rationale": "India has strategic incentives to stand up compute capacity; procurement scale and execution speed remain the main risks.",
       "id": "fd9255f3-7145-4553-8f8b-27c72b140d7d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -216,7 +216,7 @@
       ],
       "rationale": "Enforcement momentum is plausible, but case selection and settlement timing are uncertain, keeping confidence mid-range.",
       "id": "be5b268b-ff3b-4096-ab35-babf0549e8a8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
