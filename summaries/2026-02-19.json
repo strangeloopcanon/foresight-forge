@@ -1,0 +1,115 @@
+{
+  "bullets": [
+    {
+      "text": "Fed minutes: officials split on future cuts; inflation progress uncertain; some favor holding restrictive rates longer, others see room to ease as growth cools.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260218a.htm"
+    },
+    {
+      "text": "January G.17 industrial production data frame early-2026 factory momentum; investors watch for recession risk versus soft-landing confirmation.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "http://www.federalreserve.gov/feeds/G17.html#3856"
+    },
+    {
+      "text": "U.S. mortgage rates fall to a month low, boosting refinance demand\u2014supporting household cashflow while potentially slowing disinflation in shelter-sensitive categories.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/02/18/mortgage-rates-sink-to-the-lowest-level-in-a-month-sparking-more-refinance-demand.html"
+    },
+    {
+      "text": "Iran strike preparations lift geopolitical risk; oil jumps about 4%, reviving energy-inflation tail risks and adding uncertainty to global growth outlooks.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/18/oil-prices-today-iran-trump-nuclear-talks.html"
+    },
+    {
+      "text": "Etsy sells Depop to eBay for $1.2B at a markdown, signaling refocus on core operations as eBay expands into resale.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/18/ebay-buying-depop-etsy.html"
+    },
+    {
+      "text": "Figma shares surge on accelerating AI monetization, reinforcing that investors are rewarding software with measurable revenue lift from generative-AI features.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/18/figma-fig-q4-earnings-report-2025.html"
+    },
+    {
+      "text": "Microsoft board member\u2019s ~$2M stock buy signals insider confidence amid AI competition, subsidy concerns about China, and prior stock underperformance.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/will-microsofts-stock-finally-rebound-a-board-member-just-bet-2-million-on-a-turnaround-5aa41ff8"
+    },
+    {
+      "text": "Palo Alto Networks slides post-earnings; AI-driven software repricing pressures cybersecurity multiples even as enterprise security demand remains structurally strong.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/18/palo-alto-stock-cybersecurity-ai-earnings.html"
+    },
+    {
+      "text": "Anthropic\u2013Pentagon clash spotlights tension between rapid defense AI deployment and safety/usage constraints, likely influencing procurement rules and model access.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/18/anthropic-pentagon-ai-defense-war-surveillance.html"
+    },
+    {
+      "text": "FDA reverses to review Moderna\u2019s mRNA flu shot; FDA chief pushes faster trial approvals, citing competitive pressure from China in early drug development.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/18/fda-agrees-to-review-modernas-flu-shot-application-after-refusal.html"
+    },
+    {
+      "text": "Figure fintech data breach affecting ~1M customers underscores rising regulatory and reputational costs of weak cybersecurity in financial platforms.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/"
+    },
+    {
+      "text": "Breakthrough CRISPR system could reverse antibiotic resistance by precisely removing resistance genes, potentially reshaping infectious-disease treatment and healthcare costs.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260217005717.htm"
+    },
+    {
+      "text": "Moon is still shrinking, increasing moonquake risk\u2014an engineering and insurance-relevant constraint for long-duration lunar infrastructure and logistics planning.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260218031532.htm"
+    },
+    {
+      "text": "Satellite-illusion finding suggests Arctic snow loss was underestimated, strengthening evidence of faster climate impacts on water resources and downstream economic risk.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260217005803.htm"
+    }
+  ]
+}

@@ -20,7 +20,7 @@
       ],
       "rationale": "Partial restrictions and heightened Gulf security risk often trigger short, explicit carrier advisories to limit liability and protect crews/insurance coverage.",
       "id": "5bf0b1cc-0b99-4398-afe1-44b19c6fa140",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "If Gulf disruptions persist or prices jump sharply, an SPR action is a common short-horizon policy tool.",
       "id": "bf708611-25b6-4242-af93-a2c79717c602",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Maritime-related incidents often prompt rapid, targeted designation packages aimed at logistics/finance enablers.",
       "id": "fb49c1a4-51a2-49bd-8236-f9c18470ba84",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Scaling to \u2018millions of chips\u2019 typically forces capex guide raises as power, networking, and build schedules firm up.",
       "id": "2140833d-329e-4b9d-acff-169e82789d8f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "If equity risk stays elevated, Berkshire\u2019s tendency to accumulate bills/cash can push totals above prior highs.",
       "id": "2ec53199-953d-435a-80a8-fa57c19dee46",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Post-guidance-reset periods often see follow-on downgrades and multiple compression, producing additional downside tails.",
       "id": "f09c93e1-fbc5-4c6f-8b78-eed24e8ec1b0",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "30-40"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "Even with strong cash generation, opportunistic jumbo issuance is common for mega-caps amid capex and refinancing flexibility needs.",
       "id": "5b28a95f-fbe1-40dc-bc0f-fd9047233c6f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "As quantum milestones and risk narratives rise, OMB often formalizes migration steps to reduce long-tail federal cyber exposure.",
       "id": "2c02229a-ef32-4dd6-82b4-7eedb5ddd1f5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Industrial-policy competition and trade diplomacy often produce large, headlineable FDI packages over subsequent quarters.",
       "id": "f28323e5-b23a-4220-b66d-1e9b40586c3b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -209,7 +209,7 @@
       ],
       "rationale": "Shutdown brinkmanship can trigger rapid litigation over pay, contractor obligations, and statutory duties, though thresholds for injunctive relief are high.",
       "id": "8dadd159-b914-4f80-b35d-7662f45a42d5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

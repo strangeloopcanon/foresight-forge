@@ -1,0 +1,212 @@
+{
+  "date": "2026-02-19",
+  "predictions": [
+    {
+      "text": "The Federal Reserve will cut the target range for the federal funds rate by at least 25 basis points (one meeting action) versus its level on 2026-02-19.",
+      "category": "rates",
+      "horizon_days": 223,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "log_odds": -0.20067069546215124,
+      "verification_criteria": "Resolves YES if, in any FOMC post-meeting statement by the deadline, the announced target range upper bound is at least 0.25 percentage points lower than the upper bound in effect on 2026-02-19. Otherwise NO.",
+      "evidence": [
+        "Fed minutes show officials split; some see room to ease as growth cools while inflation progress remains uncertain (Fed press release link in summary).",
+        "Falling mortgage rates and refinancing pickup are consistent with easing financial conditions."
+      ],
+      "monitoring_signals": [
+        "CME FedWatch implied probabilities for cuts by Sep 2026",
+        "Core PCE inflation and CPI shelter components",
+        "Unemployment rate and initial claims trend",
+        "FOMC minutes and speeches emphasizing downside growth risks"
+      ],
+      "rationale": "Minutes indicate internal disagreement but non-trivial easing bias if growth softens further; still meaningful risk inflation stalls, limiting cuts.",
+      "id": "72791bdf-159c-463a-8ec9-8904f78a4afd",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ISM Manufacturing PMI will print below 48.0 in at least one monthly release.",
+      "category": "macro",
+      "horizon_days": 193,
+      "deadline": "2026-08-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081081643,
+      "verification_criteria": "Resolves YES if the Institute for Supply Management publishes a Manufacturing PMI (headline) < 48.0 for any month with release date on/before the deadline. Otherwise NO.",
+      "evidence": [
+        "Investors are watching industrial production for recession vs soft-landing confirmation (G.17 context in summary).",
+        "Manufacturing surveys often weaken quickly when orders slow even if services remain resilient."
+      ],
+      "monitoring_signals": [
+        "Fed G.17 industrial production and capacity utilization",
+        "Regional Fed manufacturing surveys (Empire, Philly, Dallas)",
+        "New orders and inventories subcomponents in ISM",
+        "Corporate earnings commentary from industrials"
+      ],
+      "rationale": "Downturn risk remains plausible with restrictive policy and fragile demand; however a soft landing could keep PMI near 50.",
+      "id": "1ed84674-8a0c-4a87-843d-a7b7954bce26",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Freddie Mac will report the average 30-year fixed mortgage rate below 6.00% in at least one weekly Primary Mortgage Market Survey (PMMS).",
+      "category": "rates",
+      "horizon_days": 131,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.20067069546215124,
+      "verification_criteria": "Resolves YES if any weekly Freddie Mac PMMS release on/before the deadline reports the 30-year fixed-rate mortgage average < 6.00%. Otherwise NO.",
+      "evidence": [
+        "Mortgage rates recently fell to a month low and refinancing demand increased (CNBC link in summary).",
+        "If markets price more Fed easing or slower growth, long rates can drift lower."
+      ],
+      "monitoring_signals": [
+        "10-year Treasury yield level and volatility",
+        "MBS spreads and mortgage lender capacity",
+        "MBA refinance index",
+        "Inflation surprises and Fed communications"
+      ],
+      "rationale": "Rates have shown sensitivity to growth/inflation data; sub-6% is reachable if yields fall modestly, but inflation surprises could prevent it.",
+      "id": "7e3b4f90-1a23-4a93-a11d-7c8bad5ae4cd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The IAEA Board of Governors will adopt a resolution formally censuring Iran (or finding Iran in non-compliance) regarding safeguards/nuclear cooperation.",
+      "category": "geopolitics",
+      "horizon_days": 131,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Resolves YES if the IAEA publicly reports (press release, official document, or widely cited official statement) that the Board of Governors adopted a resolution censuring Iran or declaring non-compliance by the deadline. Otherwise NO.",
+      "evidence": [
+        "Reporting highlights rising Iran-related strike preparations and elevated geopolitical risk (CNBC link in summary).",
+        "IAEA board actions often intensify during heightened nuclear tensions."
+      ],
+      "monitoring_signals": [
+        "IAEA Director General statements and quarterly reports",
+        "Board of Governors meeting agendas and leaked drafts",
+        "EU3/U.S. diplomatic statements on safeguards access",
+        "Iran announcements on enrichment or inspector access"
+      ],
+      "rationale": "Escalating tensions make a formal IAEA step plausible, but diplomatic off-ramps or behind-the-scenes concessions could avert a censure vote.",
+      "id": "fc724e31-2df1-40b1-b2fc-985b63176107",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Department of Defense will award (new award or single modification) at least one contract for generative-AI/model services worth $200 million or more (ceiling or obligated value stated).",
+      "category": "tech",
+      "horizon_days": 315,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084062235,
+      "verification_criteria": "Resolves YES if a DoD contract announcement (DoD daily contract releases) or FPDS/SAM.gov record shows a single award/modification with stated value (obligated amount or total/ceiling) >= $200,000,000 for generative AI, foundation-model access, LLM services, or model training/inference platforms, by the deadline. Otherwise NO.",
+      "evidence": [
+        "Anthropic\u2013Pentagon tensions underscore growing DoD demand and procurement pressure for deployable AI capabilities (CNBC link in summary).",
+        "DoD has a track record of large enterprise IT and cloud-style contract vehicles."
+      ],
+      "monitoring_signals": [
+        "DoD CDAO and service-level AI solicitations (SAM.gov)",
+        "Large IDIQ vehicles referencing LLMs/foundation models",
+        "Public announcements by major model providers about defense contracts",
+        "Congressional NDAA language on AI procurement"
+      ],
+      "rationale": "Demand is strong but policy/safety constraints and procurement timelines may delay awards or keep contract sizes fragmented below the threshold.",
+      "id": "6b90e98b-8f72-4527-9140-8b748dd02786",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "FDA will approve Moderna\u2019s mRNA seasonal influenza vaccine (mRNA-1010) for at least one adult indication in the U.S.",
+      "category": "other",
+      "horizon_days": 315,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081081643,
+      "verification_criteria": "Resolves YES if FDA posts an approval (e.g., approval letter, press release, label update in Drugs@FDA) for Moderna mRNA-1010 (or clearly identified Moderna mRNA flu vaccine) for any adult age group by the deadline. Otherwise NO.",
+      "evidence": [
+        "FDA reversed to review Moderna\u2019s mRNA flu shot application after an initial refusal (CNBC link in summary).",
+        "Agency leadership is signaling interest in faster trial approvals amid competition concerns."
+      ],
+      "monitoring_signals": [
+        "FDA advisory committee scheduling and briefing documents",
+        "PDUFA/decision timeline disclosures by Moderna",
+        "Additional clinical data releases and safety updates",
+        "Competitor flu vaccine approvals and guidance"
+      ],
+      "rationale": "Re-review increases odds, but approval still hinges on efficacy/safety package and FDA risk tolerance for a new platform in flu.",
+      "id": "6159ba2c-3f2e-498c-83df-153e81d035d6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "eBay will complete (close) its acquisition of Depop from Etsy.",
+      "category": "markets",
+      "horizon_days": 223,
+      "deadline": "2026-09-30",
+      "confidence_pct": 65,
+      "log_odds": 0.6190392084062235,
+      "verification_criteria": "Resolves YES if eBay or Etsy confirms via SEC filing, press release, or earnings materials that the Depop transaction has closed by the deadline. Otherwise NO.",
+      "evidence": [
+        "Deal announced: Etsy agreed to sell Depop to eBay for $1.2B (CNBC link in summary).",
+        "Transaction size and vertical overlap suggest manageable antitrust risk."
+      ],
+      "monitoring_signals": [
+        "Regulatory filings (UK CMA / EU / FTC if applicable)",
+        "Deal closing conditions and expected timeline in 10-Q/8-K",
+        "Any reported second requests or remedies",
+        "Earnings-call updates from eBay/Etsy"
+      ],
+      "rationale": "Most announced M&A of this scale closes, but cross-border regulatory review and resale/platform scrutiny could delay or add conditions.",
+      "id": "48c0386c-ea45-4000-8240-fce579f370fe",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "A U.S. federal regulator will announce a public enforcement action with a monetary penalty of at least $5 million against a fintech company primarily for a consumer data breach impacting 500,000+ individuals.",
+      "category": "other",
+      "horizon_days": 315,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "log_odds": -0.8472978603872036,
+      "verification_criteria": "Resolves YES if FTC/CFPB/SEC/OCC/FDIC/FRB (or another U.S. federal regulator) publishes an order/settlement/complaint by the deadline explicitly centered on a data breach at a fintech (non-bank financial platform), stating (a) impacted individuals >= 500,000 and (b) monetary penalty/redress >= $5,000,000. Otherwise NO.",
+      "evidence": [
+        "Large fintech breach (~1M affected) highlights rising regulatory and reputational costs (TechCrunch link in summary).",
+        "Regulators have increased focus on cybersecurity governance and incident response in financial services."
+      ],
+      "monitoring_signals": [
+        "FTC/CFPB enforcement dockets and press releases",
+        "SEC cyber disclosure enforcement actions",
+        "State AG multistate investigations that turn federal",
+        "Major breach notifications (8-Ks, state breach portals)"
+      ],
+      "rationale": "Enforcement is plausible given breach scale, but timelines can be long and penalties may be smaller or handled via private litigation.",
+      "id": "1b8269b5-8bbe-4dc7-bc55-7b64dfc65332",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Figma will raise its FY2026 revenue guidance by at least 10% versus the immediately prior FY2026 revenue guidance figure it provided.",
+      "category": "markets",
+      "horizon_days": 193,
+      "deadline": "2026-08-31",
+      "confidence_pct": 45,
+      "log_odds": -0.20067069546215124,
+      "verification_criteria": "Resolves YES if, in an earnings release, shareholder letter, or earnings-call prepared remarks by the deadline, Figma increases its FY2026 revenue guidance midpoint (or single-point guidance) by >=10% compared to the prior stated FY2026 revenue guidance midpoint/single-point. Otherwise NO.",
+      "evidence": [
+        "Figma\u2019s shares reportedly surged on accelerating AI monetization (CNBC link in summary).",
+        "Software firms with measurable AI-driven monetization have recently been rewarded and often guide up."
+      ],
+      "monitoring_signals": [
+        "Quarterly revenue growth and net retention disclosures",
+        "Attach rates for AI tiers and price increases",
+        "Customer count changes in enterprise segment",
+        "Competitive announcements from Adobe and other design suites"
+      ],
+      "rationale": "If AI monetization is real and sustained, guidance hikes are likely; but pricing pressure and competition can cap upside or lead to cautious guidance.",
+      "id": "8def6e75-c370-4d17-961a-beebd9d8e18e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
