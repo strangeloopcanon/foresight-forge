@@ -1,0 +1,119 @@
+{
+  "bullets": [
+    {
+      "text": "Fed approved Fulton Financial Corporation application, signaling continued regulatory clearance for banking structure/ownership changes.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260219a.htm"
+    },
+    {
+      "text": "Fed to hold hybrid EGRPRA outreach meeting March 26, advancing potential regulatory streamlining for banks and supervision burden reduction.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260219a.htm"
+    },
+    {
+      "text": "Trump weighing Iran strikes within 10 days; heightened Middle East risk premium pushed oil prices higher and weighed on global equities.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/19/trump-to-decide-whether-to-attack-iran-in-next-10-days-oil-prices-jump.html"
+    },
+    {
+      "text": "U.S. seeks \u201cdeal\u201d pressure on Iran as Russia-Iran naval drills proceed, underscoring tighter security alignment and increased regional escalation risk.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/02/19/trump-us-iran-nuclear-talks-oil-prices-russia.html"
+    },
+    {
+      "text": "Trump pursuing major commercial openings with Russia, potentially reshaping sanctions posture and Western geopolitical alignment if rapprochement deepens.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/02/19/us/politics/trump-russia-deals-novatek.html"
+    },
+    {
+      "text": "U.S. trade deficit totaled $901B in 2025, little changed despite tariffs\u2014suggesting limited near-term impact on aggregate import demand and supply chains.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/19/us-trade-deficit-totaled-901-billion-in-2025-despite-trumps-tariffs.html"
+    },
+    {
+      "text": "Japan core inflation fell below BOJ\u2019s 2% target for first time since 2022, strengthening the case for policy patience and yen-rate volatility.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/20/japan-core-inflation-january-boj-target-gdp-growth.html"
+    },
+    {
+      "text": "Blue Owl\u2019s moves stoked new worries about private credit risk and liquidity, highlighting fragility concerns in fast-growing nonbank lending markets.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/02/19/business/blue-owl-stock-private-credit.html"
+    },
+    {
+      "text": "Amazon surpassed Walmart in annual revenue for the first time, underscoring scale advantages and intensifying AI-driven investment competition in retail and cloud.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html"
+    },
+    {
+      "text": "Nvidia reportedly in talks to invest up to $30B in OpenAI, signaling AI compute/platform consolidation and escalating capital intensity in frontier-model development.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/19/nvidia-is-in-talks-to-invest-up-to-30-billion-in-openai-source-says.html"
+    },
+    {
+      "text": "OpenAI reportedly finalizing a $100B deal at >$850B valuation, highlighting continued mega-funding for AI despite scrutiny over profitability and concentration risk.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/"
+    },
+    {
+      "text": "New research suggests an AI-designed path to replace rare-earth magnets in EVs, potentially reducing supply-chain exposure to concentrated mining and processing.",
+      "tags": [
+        "science",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260218031611.htm"
+    },
+    {
+      "text": "Sodium-ion battery claims higher energy storage plus seawater desalination functionality, pointing to cheaper, resource-flexible storage options for grids and industry.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260218031603.htm"
+    },
+    {
+      "text": "Reports warn U.S. science funding cuts are driving brain drain, risking long-run innovation capacity and competitiveness in strategic technologies.",
+      "tags": [
+        "macro",
+        "science",
+        "geopolitics"
+      ],
+      "link": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts"
+    }
+  ]
+}

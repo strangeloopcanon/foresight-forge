@@ -21,7 +21,7 @@
       ],
       "rationale": "Minutes indicate internal disagreement but non-trivial easing bias if growth softens further; still meaningful risk inflation stalls, limiting cuts.",
       "id": "72791bdf-159c-463a-8ec9-8904f78a4afd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Downturn risk remains plausible with restrictive policy and fragile demand; however a soft landing could keep PMI near 50.",
       "id": "1ed84674-8a0c-4a87-843d-a7b7954bce26",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -67,7 +67,7 @@
       ],
       "rationale": "Rates have shown sensitivity to growth/inflation data; sub-6% is reachable if yields fall modestly, but inflation surprises could prevent it.",
       "id": "7e3b4f90-1a23-4a93-a11d-7c8bad5ae4cd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -90,7 +90,7 @@
       ],
       "rationale": "Escalating tensions make a formal IAEA step plausible, but diplomatic off-ramps or behind-the-scenes concessions could avert a censure vote.",
       "id": "fc724e31-2df1-40b1-b2fc-985b63176107",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -113,7 +113,7 @@
       ],
       "rationale": "Demand is strong but policy/safety constraints and procurement timelines may delay awards or keep contract sizes fragmented below the threshold.",
       "id": "6b90e98b-8f72-4527-9140-8b748dd02786",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -136,7 +136,7 @@
       ],
       "rationale": "Re-review increases odds, but approval still hinges on efficacy/safety package and FDA risk tolerance for a new platform in flu.",
       "id": "6159ba2c-3f2e-498c-83df-153e81d035d6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Most announced M&A of this scale closes, but cross-border regulatory review and resale/platform scrutiny could delay or add conditions.",
       "id": "48c0386c-ea45-4000-8240-fce579f370fe",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -182,7 +182,7 @@
       ],
       "rationale": "Enforcement is plausible given breach scale, but timelines can be long and penalties may be smaller or handled via private litigation.",
       "id": "1b8269b5-8bbe-4dc7-bc55-7b64dfc65332",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -205,7 +205,7 @@
       ],
       "rationale": "If AI monetization is real and sustained, guidance hikes are likely; but pricing pressure and competition can cap upside or lead to cautious guidance.",
       "id": "8def6e75-c370-4d17-961a-beebd9d8e18e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
