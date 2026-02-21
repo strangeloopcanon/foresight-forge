@@ -1,0 +1,113 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. Supreme Court struck down Trump\u2019s \u201creciprocal\u201d tariffs, reshaping trade policy constraints but leaving near-term pricing and supply-chain uncertainty for firms and consumers.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.bbc.com/news/live/c0l9r67drg7t"
+    },
+    {
+      "text": "Trump announced a new 10% global tariff after the ruling, signaling renewed escalation risk for imports, inflation, and retaliation despite court limits on prior authority.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html"
+    },
+    {
+      "text": "U.S. 2025 Q4 GDP grew 1.4% (miss) while inflation firmed near 3%, complicating the Fed outlook with weaker growth but sticky prices.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/20/pce-inflation-december-2025.html"
+    },
+    {
+      "text": "Consumers shouldn\u2019t expect immediate price declines from tariff rollback; contracts, inventories, and uncertainty keep pass-through slow and uneven across categories.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/dont-expect-lower-prices-now-that-the-supreme-court-ruled-against-trumps-tariffs-7334f6c9"
+    },
+    {
+      "text": "Fed Z.1 \u201cFinancial Accounts\u201d for 2025:Q4 releases March 19, 2026\u2014key for tracking leverage, credit growth, and sector balance-sheet stress.",
+      "tags": [
+        "macro",
+        "markets",
+        "rates"
+      ],
+      "link": "http://www.federalreserve.gov/feeds/Z1.html#3857"
+    },
+    {
+      "text": "Private credit stress signals: Blue Owl liquidity curbs and illiquid loan exposure raise fears of redemption pressure and pricing gaps in opaque private markets.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/20/canary-in-the-coal-mine-blue-owl-liquidity-curbs-fuel-fears-private-credit-bubble-.html"
+    },
+    {
+      "text": "OpenAI told investors compute spend could approach $600B by 2030, implying unprecedented AI capex, power demand, and chip supply-chain competition.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html"
+    },
+    {
+      "text": "AI isn\u2019t yet eliminating all white-collar work; adoption remains task-specific, with productivity gains and job reshaping outpacing broad displacement so far.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html"
+    },
+    {
+      "text": "U.S. military positioning in Jordan and Trump\u2019s strike comments heighten Iran confrontation risk; oil markets face upside supply-shock tail risk.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/20/trump-says-hes-considering-limited-military-strike-against-iran.html"
+    },
+    {
+      "text": "Hungary is an obstacle to Europe\u2019s proposed \u20ac90B loan to Ukraine, highlighting EU unanimity constraints and potential delays to Ukraine financing.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html"
+    },
+    {
+      "text": "Student-loan delinquency reportedly nears 25%, a growing household-balance-sheet risk that could pressure consumer spending and credit performance.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/20/student-loan-delinquency.html"
+    },
+    {
+      "text": "Parkinson\u2019s trial implants dopamine-producing stem cells, suggesting a potential disease-modifying therapy path beyond symptom management.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260219040820.htm"
+    },
+    {
+      "text": "Oxford battery advance could enable faster charging and longer-lived lithium-ion cells, improving EV economics and grid storage competitiveness if it scales.",
+      "tags": [
+        "science",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260220010830.htm"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "date": "2026-02-21",
+  "predictions": [
+    {
+      "text": "U.S. Customs and Border Protection (CBP) will publish formal implementation guidance (CSMS message and/or Federal Register notice) establishing collection procedures and an effective date for a new broadly applied 10% tariff on most U.S. imports (a near-universal additional duty), consistent with the announced \u201c10% global tariff.\u201d",
+      "category": "geopolitics",
+      "horizon_days": 38,
+      "deadline": "2026-03-31",
+      "confidence_pct": 57,
+      "verification_criteria": "Resolves YES if CBP issues a CSMS message or Federal Register notice by 2026-03-31 that (i) explicitly describes a new generally applicable additional duty rate of 10% (or \u201cadditional 10%\u201d) on a wide set of imports and (ii) provides an effective date and collection/entry instructions. Otherwise NO.",
+      "evidence": [
+        "Trump announced a new 10% global tariff after the Supreme Court tariff ruling (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html",
+        "Supreme Court struck down prior \u201creciprocal\u201d tariffs, reshaping constraints but leaving policy uncertainty (BBC live page): https://www.bbc.com/news/live/c0l9r67drg7t"
+      ],
+      "monitoring_signals": [
+        "CBP CSMS announcements mentioning \u201cadditional duties,\u201d \u201c10%,\u201d \u201csurcharge,\u201d or \u201cuniversal tariff\u201d",
+        "Federal Register notices for Presidential Proclamations / tariff actions and HTSUS changes",
+        "USTR/White House fact sheets specifying scope and effective dates"
+      ],
+      "rationale": "If a broad tariff is intended to be real (not just signaling), importers need CBP entry instructions quickly; formal CBP guidance is typically required to operationalize collection.",
+      "id": "62580dff-b632-466d-84f0-c6fdd2f353cb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one major U.S. trading partner (EU, Canada, Mexico, China, Japan, or South Korea) will officially announce retaliatory trade measures specifically in response to the U.S. \u201c10% global tariff,\u201d covering at least $10 billion (USD) of annual U.S.-origin goods (value stated in the announcement or accompanying government documentation).",
+      "category": "geopolitics",
+      "horizon_days": 129,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "verification_criteria": "YES if by 2026-06-30 an eligible government publishes an official retaliation announcement (press release, gazette, regulation, or equivalent) explicitly tied to the U.S. 10% global tariff and stating coverage of \u2265$10B/year (USD equivalent) of U.S.-origin goods (or providing a list plus an official value estimate meeting the threshold). Otherwise NO.",
+      "evidence": [
+        "New U.S. 10% global tariff announcement increases escalation/retaliation risk (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html"
+      ],
+      "monitoring_signals": [
+        "European Commission DG TRADE countermeasure announcements",
+        "Canada Department of Finance / Global Affairs Canada tariff retaliation notices",
+        "China MOFCOM statements and tariff schedules",
+        "WTO dispute filings referencing the U.S. measure"
+      ],
+      "rationale": "Broad U.S. tariffs often trigger politically necessary countermeasures; the $10B threshold avoids counting symbolic/limited actions.",
+      "id": "3fe4408d-6f51-4e6c-a84a-d0b9d69ce76b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Monthly Treasury Statement will show gross Customs Duties receipts of at least $10.0 billion in at least one month (not seasonally adjusted).",
+      "category": "macro",
+      "horizon_days": 222,
+      "deadline": "2026-08-31",
+      "confidence_pct": 34,
+      "verification_criteria": "YES if any Monthly Treasury Statement published by 2026-08-31 reports the line item \u201cCustoms duties\u201d (gross) \u2265 $10.0B for a single month. Otherwise NO.",
+      "evidence": [
+        "A new 10% global tariff was announced, which (if implemented) would tend to raise customs-duty receipts (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html"
+      ],
+      "monitoring_signals": [
+        "Monthly Treasury Statement (MTS) releases and the Customs Duties line",
+        "CBP guidance indicating broad-based additional duty collection",
+        "Import volumes (Census trade data) and effective tariff-rate estimates from research groups"
+      ],
+      "rationale": "A broad tariff, even with some exemptions and behavioral response, should show up in federal cash receipts; $10B is a high but reachable monthly threshold if coverage is wide.",
+      "id": "ecfb13e8-9765-445f-8db8-55cd39483ef5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "U.S. Core PCE inflation (PCE price index excluding food and energy, year-over-year) will print at or above 3.2% in at least one BEA monthly release.",
+      "category": "rates",
+      "horizon_days": 222,
+      "deadline": "2026-08-31",
+      "confidence_pct": 41,
+      "verification_criteria": "YES if any BEA Personal Income and Outlays release through 2026-08-31 shows Core PCE (ex food & energy) YoY \u2265 3.2% (as first reported, not revised). Otherwise NO.",
+      "evidence": [
+        "Inflation firmed near ~3% while GDP growth softened, complicating the Fed outlook (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/pce-inflation-december-2025.html",
+        "Tariff uncertainty may delay or complicate price declines (MarketWatch, 2026-02-20): https://www.marketwatch.com/story/dont-expect-lower-prices-now-that-the-supreme-court-ruled-against-trumps-tariffs-7334f6c9"
+      ],
+      "monitoring_signals": [
+        "BEA Core PCE YoY monthly prints and three-/six-month annualized rates",
+        "Import price indices and goods inflation components",
+        "Survey-based inflation expectations and tariff pass-through commentary from retailers"
+      ],
+      "rationale": "With inflation already sticky near 3% and tariff-related pass-through risks, a \u22653.2% core print is plausible within the next two quarters.",
+      "id": "11b33c69-d485-42ec-8887-eec810465a1e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Federal Reserve will not cut the target range for the federal funds rate at any scheduled FOMC meeting concluding on or before 2026-06-30 (i.e., the upper bound will be unchanged vs its level on 2026-02-19).",
+      "category": "rates",
+      "horizon_days": 129,
+      "deadline": "2026-06-30",
+      "confidence_pct": 63,
+      "verification_criteria": "YES if all FOMC decisions at meetings ending on/before 2026-06-30 leave the target range unchanged relative to the range in effect on 2026-02-19 (no 25bp+ cut). Otherwise NO.",
+      "evidence": [
+        "Sticky inflation near ~3% alongside weaker growth complicates the Fed path (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/pce-inflation-december-2025.html",
+        "New tariff announcement raises renewed inflation-risk uncertainty (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html"
+      ],
+      "monitoring_signals": [
+        "CME FedWatch probabilities for near-term meetings",
+        "Core PCE and CPI trend vs 2% target",
+        "FOMC statements/minutes references to tariff-related inflation risks"
+      ],
+      "rationale": "Near-term cuts are less likely when inflation is sticky and policy uncertainty is rising; waiting through midyear is a common pattern in such regimes.",
+      "id": "26faa0d6-1fc9-4c5e-a6c5-1025dc43226a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "New York Fed\u2019s Quarterly Report on Household Debt and Credit will report the student-loan balance delinquency rate (90+ days past due) at or above 13.0% in at least one release.",
+      "category": "macro",
+      "horizon_days": 282,
+      "deadline": "2026-11-30",
+      "confidence_pct": 46,
+      "verification_criteria": "YES if any NY Fed Household Debt and Credit report released by 2026-11-30 shows student loans 90+ days delinquent (as a share of student-loan balances) \u2265 13.0%. Otherwise NO.",
+      "evidence": [
+        "Reported student-loan delinquency nearing 25% signals rising household credit stress (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/student-loan-delinquency.html"
+      ],
+      "monitoring_signals": [
+        "NY Fed Household Debt and Credit quarterly releases (student-loan delinquency chart/table)",
+        "CFPB/Ed Department statements on repayment and delinquency dynamics",
+        "Bank/servicer earnings commentary on education-loan performance"
+      ],
+      "rationale": "As repayment normalization continues and household balance sheets face pressure, a higher 90+ day delinquency share is a plausible tail-risk outcome.",
+      "id": "dc9c82af-ee95-442b-ae98-1f6973c0b7e0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The European Union will approve (by European Council/ECOFIN decision or EU legal act) a new Ukraine financing package involving EU-level borrowing/guaranteed issuance with a headline size of at least \u20ac50 billion.",
+      "category": "geopolitics",
+      "horizon_days": 252,
+      "deadline": "2026-09-30",
+      "confidence_pct": 42,
+      "verification_criteria": "YES if by 2026-09-30 an official EU decision/legal act is adopted establishing a Ukraine financing facility that explicitly includes EU-level borrowing or EU-guaranteed bond issuance with total envelope \u2265 \u20ac50B. Otherwise NO.",
+      "evidence": [
+        "Hungary is an obstacle to Europe\u2019s proposed large loan to Ukraine, highlighting unanimity constraints and delay risk (NYT, 2026-02-20): https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html"
+      ],
+      "monitoring_signals": [
+        "European Council conclusions and ECOFIN communiqu\u00e9s on Ukraine financing",
+        "European Commission proposals and adopted regulations/decisions",
+        "Public statements by Hungary and other member states on veto/conditions"
+      ],
+      "rationale": "Despite unanimity hurdles, Ukraine funding needs and political pressure make eventual approval of a large EU-level instrument plausible over a ~6\u20138 month window.",
+      "id": "e53e40bf-7eca-4387-8a59-a5ba79cb4f1d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The S&P 500 Index (SPX) will close at least 15% below its 2026-02-21 official close on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 222,
+      "deadline": "2026-08-31",
+      "confidence_pct": 36,
+      "verification_criteria": "YES if SPX official closing value on any date through 2026-08-31 is \u2264 0.85 \u00d7 (SPX close on 2026-02-21). Otherwise NO.",
+      "evidence": [
+        "Trade-policy shifts and tariff uncertainty elevate macro/earnings risks (BBC live page): https://www.bbc.com/news/live/c0l9r67drg7t",
+        "Sticky inflation with weaker growth complicates policy and risk assets (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/pce-inflation-december-2025.html",
+        "Private credit stress signals raise concerns about broader financial conditions (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/canary-in-the-coal-mine-blue-owl-liquidity-curbs-fuel-fears-private-credit-bubble-.html"
+      ],
+      "monitoring_signals": [
+        "SPX level vs the 0.85 drawdown threshold",
+        "Credit spreads and VIX spikes",
+        "Earnings revisions and tariff-related margin commentary"
+      ],
+      "rationale": "Tariff shocks, sticky inflation, and tightening financial conditions can plausibly produce a mid-year equity drawdown of this magnitude.",
+      "id": "00e4737b-db98-40e6-a6e9-0a9e4571aa36",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "S&P Global LCD will report the U.S. leveraged-loan trailing-12-month default rate at or above 4.0% in at least one monthly update.",
+      "category": "markets",
+      "horizon_days": 334,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "YES if any S&P Global LCD monthly default-rate publication through 2026-12-31 shows the U.S. leveraged-loan LTM default rate \u2265 4.0% (issuer-weighted or volume-weighted as presented by LCD). Otherwise NO.",
+      "evidence": [
+        "Private credit/liquidity-curb concerns indicate stress in leveraged lending ecosystems (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/canary-in-the-coal-mine-blue-owl-liquidity-curbs-fuel-fears-private-credit-bubble-.html"
+      ],
+      "monitoring_signals": [
+        "S&P Global LCD default-rate trackers and distressed ratio",
+        "Refinancing calendar maturity walls and loan repricing activity",
+        "High-yield/loan spread movements and covenant-lite recovery commentary"
+      ],
+      "rationale": "If growth slows while rates remain high, refinance stress can lift defaults toward levels consistent with late-cycle credit conditions.",
+      "id": "236adfbc-0e5f-4c96-9d27-24c935ee7862",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Microsoft and/or OpenAI will announce a new U.S.-located AI data-center campus/project with either (a) planned site power capacity of at least 1.0 GW or (b) disclosed project capex of at least $20 billion.",
+      "category": "tech",
+      "horizon_days": 334,
+      "deadline": "2026-12-31",
+      "confidence_pct": 47,
+      "verification_criteria": "YES if by 2026-12-31 Microsoft or OpenAI issues a press release/blog post or is quoted in a major outlet (with attributable company confirmation) announcing a U.S. AI data-center project and explicitly stating \u22651.0 GW planned power capacity or \u2265$20B capex. Otherwise NO.",
+      "evidence": [
+        "OpenAI told investors compute spend could approach $600B by 2030, implying massive infrastructure buildout (CNBC, 2026-02-20): https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
+        "Oxford battery advance highlights accelerating energy/storage/compute infrastructure competition (ScienceDaily, 2026-02-20): https://www.sciencedaily.com/releases/2026/02/260220010830.htm"
+      ],
+      "monitoring_signals": [
+        "Microsoft/OpenAI announcements with hyperscale site details",
+        "State/local permitting, incentive agreements, and utility interconnection filings citing GW-scale loads",
+        "Power purchase agreements (PPAs) and transmission upgrades linked to AI campuses"
+      ],
+      "rationale": "Publicly disclosed GW-scale campuses are increasingly common for hyperscalers; OpenAI/Microsoft scale targets make at least one such U.S. announcement plausible within a year.",
+      "id": "975398c9-3d82-4144-adb2-b7ef8211ec4c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

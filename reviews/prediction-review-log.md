@@ -1963,3 +1963,12 @@ There are a few thematically adjacent items—e.g., market/rate discussion and o
 
 ---
 
+
+## 2026-02-20
+
+None of the tracked predictions are directly resolved by today’s headlines. The most relevant update is geopolitical: multiple stories point to escalatory U.S. posture toward Iran (planning and consideration of strikes), but the prediction requires an actually executed, publicly acknowledged kinetic strike on Iranian territory with official U.S. confirmation, which is not yet evidenced.
+
+On the markets and policy side, the day’s news is dominated by U.S. tariff/legal developments, macro data, and a private-credit stress narrative. However, the bullets do not provide the specific verifications required for the Brent ≥$105 settlement condition, SEC/OFAC rulemaking actions, or the concrete private-credit liquidity action (gate/suspension/extended withdrawals) specified. The OpenAI headline is operational/spending guidance rather than the large, single financing-round announcement required, leaving all items pending.
+
+---
+

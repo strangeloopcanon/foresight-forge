@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-20",
+  "assessments": [
+    {
+      "id": "b859d1ef-0273-4294-ac7a-39b330f5f48c",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage indicates heightened U.S. military positioning and planning (e.g., U.S. planes arriving at a Jordan base) and that Trump is considering a limited strike against Iran, but there is no report of a publicly acknowledged U.S. kinetic strike on Iranian territory confirmed by DoD or the White House."
+    },
+    {
+      "id": "bf1f72c1-cb6f-4d5a-9801-3a09231b6df9",
+      "status": "pending",
+      "status_rationale": "No provided news bullet reports ICE Brent front-month settling at or above $105 on any trading day; no price/settlement evidence is included."
+    },
+    {
+      "id": "60d136ff-4aa3-47e5-9b9d-aab0eb785438",
+      "status": "pending",
+      "status_rationale": "The OpenAI item is about resetting spending expectations and compute targets, not a public announcement of a single financing round with \u2265$50B new capital and \u2265$800B post-money valuation."
+    },
+    {
+      "id": "e547ee3a-2cbc-496c-8c69-bf6c522ea7d4",
+      "status": "pending",
+      "status_rationale": "No disclosure is cited (press release/SEC filing/earnings prepared remarks) indicating Nvidia made a direct equity investment in OpenAI totaling at least $10B."
+    },
+    {
+      "id": "cd563be5-d7b5-4956-97e7-6941e851da7e",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no Bank of Japan policy-meeting decision; the claim spans multiple future meetings through 2026-09-30 and remains unresolved."
+    },
+    {
+      "id": "97909b92-5f70-41a5-ad1f-bced3c6cd8e2",
+      "status": "pending",
+      "status_rationale": "The private-credit coverage references liquidity/illiquidity concerns around Blue Owl\u2019s software lending, but it does not clearly state that a \u2265$50B AUM U.S.-focused private credit manager announced a redemption gate/suspension/extended notice period explicitly due to withdrawal pressure."
+    },
+    {
+      "id": "203f378b-8ab3-4c97-a421-37c3ed5a80e5",
+      "status": "pending",
+      "status_rationale": "No item indicates OFAC issued a new Russia-related General License/waiver/FAQ expanding permitted U.S.-person transactions in Russia-linked energy/LNG projects."
+    },
+    {
+      "id": "8219942b-da40-4cdd-93c1-33ec2c4dd4c5",
+      "status": "pending",
+      "status_rationale": "No news bullet reports the SEC publishing a proposed rule or amendments that specifically increase reporting/disclosure requirements for private credit/private funds."
+    },
+    {
+      "id": "76f8a58c-87b1-4787-9ca8-ec33a7aae386",
+      "status": "pending",
+      "status_rationale": "No provided item reports the NSF announcing a pause/deferral of new grant awards for at least 30 consecutive days due to funding constraints."
+    }
+  ]
+}

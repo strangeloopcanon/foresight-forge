@@ -20,7 +20,7 @@
       ],
       "rationale": "Public reporting points to an imminent decision window. Strikes remain non-base-case due to escalation and diplomatic costs, but the stated timeline elevates near-term probability.",
       "id": "b859d1ef-0273-4294-ac7a-39b330f5f48c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "A move to $105 requires either escalation or a significant supply shock; current risk premium makes a brief spike plausible but not likely.",
       "id": "bf1f72c1-cb6f-4d5a-9801-3a09231b6df9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "The deal is already widely reported with very large figures; main risk is delays, structure changes, or capital size below threshold.",
       "id": "60d136ff-4aa3-47e5-9b9d-aab0eb785438",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Talks are reported, but a $10B+ disclosed equity check is unusually large and may face governance/antitrust and strategic-relationship complications.",
       "id": "e547ee3a-2cbc-496c-8c69-bf6c522ea7d4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "Sub-2% core inflation reduces urgency to tighten; policy change still possible if wages/inflation re-accelerate or FX volatility forces action.",
       "id": "cd563be5-d7b5-4956-97e7-6941e851da7e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "Liquidity mismatch risk is a known tail; this requires a notable stress episode and public disclosure, which is not the base case.",
       "id": "97909b92-5f70-41a5-ad1f-bced3c6cd8e2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -147,7 +147,7 @@
       ],
       "rationale": "A policy pivot is possible given reported commercial opening, but institutional and allied constraints make explicit sanctions easing a low-probability event.",
       "id": "203f378b-8ab3-4c97-a421-37c3ed5a80e5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -168,7 +168,7 @@
       ],
       "rationale": "Growing attention to liquidity and systemic risk raises odds of a proposal; timing and political/legal headwinds are the main uncertainty.",
       "id": "8219942b-da40-4cdd-93c1-33ec2c4dd4c5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "rationale": "Broad funding stress could force temporary award pauses, but NSF often manages constraints via slower processing rather than an explicit 30-day halt.",
       "id": "76f8a58c-87b1-4787-9ca8-ec33a7aae386",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]
