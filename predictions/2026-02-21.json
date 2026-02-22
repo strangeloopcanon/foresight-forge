@@ -19,7 +19,7 @@
       ],
       "rationale": "If a broad tariff is intended to be real (not just signaling), importers need CBP entry instructions quickly; formal CBP guidance is typically required to operationalize collection.",
       "id": "62580dff-b632-466d-84f0-c6fdd2f353cb",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Broad U.S. tariffs often trigger politically necessary countermeasures; the $10B threshold avoids counting symbolic/limited actions.",
       "id": "3fe4408d-6f51-4e6c-a84a-d0b9d69ce76b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "A broad tariff, even with some exemptions and behavioral response, should show up in federal cash receipts; $10B is a high but reachable monthly threshold if coverage is wide.",
       "id": "ecfb13e8-9765-445f-8db8-55cd39483ef5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -81,7 +81,7 @@
       ],
       "rationale": "With inflation already sticky near 3% and tariff-related pass-through risks, a \u22653.2% core print is plausible within the next two quarters.",
       "id": "11b33c69-d485-42ec-8887-eec810465a1e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -102,7 +102,7 @@
       ],
       "rationale": "Near-term cuts are less likely when inflation is sticky and policy uncertainty is rising; waiting through midyear is a common pattern in such regimes.",
       "id": "26faa0d6-1fc9-4c5e-a6c5-1025dc43226a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -122,7 +122,7 @@
       ],
       "rationale": "As repayment normalization continues and household balance sheets face pressure, a higher 90+ day delinquency share is a plausible tail-risk outcome.",
       "id": "dc9c82af-ee95-442b-ae98-1f6973c0b7e0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -142,7 +142,7 @@
       ],
       "rationale": "Despite unanimity hurdles, Ukraine funding needs and political pressure make eventual approval of a large EU-level instrument plausible over a ~6\u20138 month window.",
       "id": "e53e40bf-7eca-4387-8a59-a5ba79cb4f1d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "Tariff shocks, sticky inflation, and tightening financial conditions can plausibly produce a mid-year equity drawdown of this magnitude.",
       "id": "00e4737b-db98-40e6-a6e9-0a9e4571aa36",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "If growth slows while rates remain high, refinance stress can lift defaults toward levels consistent with late-cycle credit conditions.",
       "id": "236adfbc-0e5f-4c96-9d27-24c935ee7862",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -205,7 +205,7 @@
       ],
       "rationale": "Publicly disclosed GW-scale campuses are increasingly common for hyperscalers; OpenAI/Microsoft scale targets make at least one such U.S. announcement plausible within a year.",
       "id": "975398c9-3d82-4144-adb2-b7ef8211ec4c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

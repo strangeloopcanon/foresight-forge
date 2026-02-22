@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-21",
+  "assessments": [
+    {
+      "id": "62580dff-b632-466d-84f0-c6fdd2f353cb",
+      "status": "needs-clarification",
+      "status_rationale": "Today\u2019s coverage focuses on a Supreme Court rebuke and Trump stating he will raise the global tariff to 15% \u201ceffective immediately,\u201d which implies an operational tariff regime. However, the news bullets do not provide clear evidence of CBP issuing a CSMS message and/or Federal Register notice establishing collection procedures and an effective date for a new broadly applied 10% tariff specifically. Confirmation would require checking CBP CSMS and/or the Federal Register for the referenced implementation guidance."
+    },
+    {
+      "id": "3fe4408d-6f51-4e6c-a84a-d0b9d69ce76b",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets reports an official retaliation announcement by the EU/Canada/Mexico/China/Japan/South Korea tied specifically to the U.S. global tariff, nor a stated coverage amount \u2265$10B."
+    },
+    {
+      "id": "ecfb13e8-9765-445f-8db8-55cd39483ef5",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not include the Monthly Treasury Statement or any customs-duty receipt figures; cannot verify whether any month reached \u2265$10.0B."
+    },
+    {
+      "id": "11b33c69-d485-42ec-8887-eec810465a1e",
+      "status": "pending",
+      "status_rationale": "No BEA Core PCE year-over-year print is reported in today\u2019s bullets; cannot assess whether a release hit \u22653.2%."
+    },
+    {
+      "id": "26faa0d6-1fc9-4c5e-a6c5-1025dc43226a",
+      "status": "pending",
+      "status_rationale": "This is a forward-looking claim about FOMC decisions through 2026-06-30; today\u2019s bullets do not document a rate cut or lack thereof."
+    },
+    {
+      "id": "dc9c82af-ee95-442b-ae98-1f6973c0b7e0",
+      "status": "pending",
+      "status_rationale": "No New York Fed household debt report or student-loan delinquency rate is cited in today\u2019s bullets."
+    },
+    {
+      "id": "e53e40bf-7eca-4387-8a59-a5ba79cb4f1d",
+      "status": "pending",
+      "status_rationale": "No bullet indicates EU approval of a new Ukraine financing package with EU-level borrowing/guarantees totaling \u2265\u20ac50B."
+    },
+    {
+      "id": "00e4737b-db98-40e6-a6e9-0a9e4571aa36",
+      "status": "pending",
+      "status_rationale": "Determining a 15% drawdown relative to the 2026-02-21 close requires subsequent SPX closing data; today\u2019s bullets do not establish that condition as met."
+    },
+    {
+      "id": "236adfbc-0e5f-4c96-9d27-24c935ee7862",
+      "status": "pending",
+      "status_rationale": "No S&P Global LCD leveraged-loan trailing-12-month default rate figure is provided in today\u2019s bullets."
+    },
+    {
+      "id": "975398c9-3d82-4144-adb2-b7ef8211ec4c",
+      "status": "pending",
+      "status_rationale": "No bullet reports a Microsoft/OpenAI announcement of a new U.S. data-center campus/project meeting the \u22651.0 GW or \u2265$20B capex threshold."
+    }
+  ]
+}

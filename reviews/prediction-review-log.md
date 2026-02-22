@@ -1972,3 +1972,12 @@ On the markets and policy side, the day’s news is dominated by U.S. tariff/leg
 
 ---
 
+
+## 2026-02-21
+
+Today’s news materially reinforces the broader tariff-centric scenario behind several of the forecasts: Trump is reported to be escalating the “global tariff” from 10% to 15% and continuing the trade strategy despite Supreme Court pushback. That increases the plausibility of downstream outcomes (higher customs receipts, partner retaliation, and potential inflation persistence), but it does not, by itself, satisfy the specific verification criteria written into most predictions.
+
+The key near-term forecast hinged on a concrete operational signal—CBP implementation guidance via CSMS/Federal Register—yet today’s headlines emphasize political/legal developments rather than customs-administration documentation. Given the apparent “effective immediately” change to 15%, the most decision-relevant next check is whether CBP issued collection instructions (and whether they reference a 10% baseline, a 15% rate, or both). Most other items remain pending due to absent quantitative releases (Treasury/BEA/NY Fed/LCD) or because their deadlines extend well beyond today.
+
+---
+

@@ -1,0 +1,105 @@
+{
+  "bullets": [
+    {
+      "text": "Trump says global tariff will rise to 15% immediately, escalating trade-war risk and likely raising import costs, inflation pressures, and retaliation odds.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/21/business/trump-tariffs.html"
+    },
+    {
+      "text": "Supreme Court rebuke of tariff authority sets up prolonged legal fight and potential multi\u2011billion dollar refund claims, creating uncertainty for firms and Treasury revenue.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariff-decision-illegal-refunds.html"
+    },
+    {
+      "text": "Tariff dispute exposes fractures among conservative justices, signaling higher judicial risk for future executive economic actions implemented via emergency powers.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/21/us/politics/supreme-court-tariffs-conservatives.html"
+    },
+    {
+      "text": "Trump pulls political support from a House Republican opposing tariffs, underscoring party discipline efforts that could harden protectionist policy direction.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/21/us/trump-pulls-endorsement-hurd-tariffs.html"
+    },
+    {
+      "text": "U.S. strike on Iran seen as potentially riskier than Venezuela operation, implying higher escalation, regional spillovers, and energy-market shock risk.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html"
+    },
+    {
+      "text": "Anti-regime student protests as Iranian universities reopen indicate persistent domestic instability, complicating Tehran\u2019s governance and external posture amid regional tensions.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-student-protests.html"
+    },
+    {
+      "text": "Major East Coast blizzard drives flight cancellations and travel disruption, highlighting weather-related operational risk and near-term revenue pressure for airlines and logistics.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/21/blizzard-prompts-airlines-waive-flight-change-fees.html"
+    },
+    {
+      "text": "Berkshire was a net seller of stocks in Buffett\u2019s final quarter as CEO, suggesting a more cautious stance on equity valuations and/or desire for liquidity.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/21/berkshire-was-a-net-seller-of-stocks-in-buffetts-final-quarter-as-ceo.html"
+    },
+    {
+      "text": "India\u2019s AI summit spotlights large investment ambitions but execution frictions; progress could reshape global AI supply chains, talent competition, and cloud demand.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html"
+    },
+    {
+      "text": "China\u2019s CXMT offering DDR4 at about half market prices threatens memory-industry margins and could accelerate price competition across legacy DRAM segments.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.koreaherald.com/article/10679206"
+    },
+    {
+      "text": "AI data centers exploring high-temperature superconductors signals intensifying focus on power delivery and efficiency constraints as compute growth collides with grid limits.",
+      "tags": [
+        "tech",
+        "energy"
+      ],
+      "link": "https://spectrum.ieee.org/ai-data-centers-hts-superconductors"
+    },
+    {
+      "text": "NASA Artemis rocket helium issue delays Moon mission timelines, affecting contractor schedules and the pace of lunar science and commercialization plans.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2026/02/21/science/nasa-artemis-helium-flaw.html"
+    },
+    {
+      "text": "Studies link common pneumonia bacterium to Alzheimer\u2019s mechanisms and show high altitude may protect against diabetes, pointing to new prevention and therapeutic targets.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm"
+    }
+  ]
+}

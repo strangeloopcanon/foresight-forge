@@ -1,0 +1,194 @@
+{
+  "date": "2026-02-22",
+  "predictions": [
+    {
+      "text": "U.S. Customs and Border Protection (CBP) will issue a CSMS message and/or Federal Register notice that establishes a formal process to claim refunds/administrative relief for import duties impacted by the Supreme Court tariff-authority ruling, including at least one stated filing mechanism and effective date.",
+      "category": "geopolitics",
+      "horizon_days": 128,
+      "deadline": "2026-06-30",
+      "confidence_pct": 58,
+      "verification_criteria": "Resolves YES if CBP publishes (CSMS and/or Federal Register) formal refund/relief instructions tied to the Supreme Court tariff decision, with an explicit process (e.g., PSC/protest/ACE instructions) and an effective date. Otherwise NO by deadline.",
+      "evidence": [
+        "CNBC report describes Supreme Court rebuke of tariff authority and potential multi-billion dollar refund claims (https://www.cnbc.com/2026/02/20/supreme-court-trump-tariff-decision-illegal-refunds.html).",
+        "Large-scale duty refunds typically require CBP/Treasury procedural guidance for importers and brokers."
+      ],
+      "monitoring_signals": [
+        "CBP CSMS announcements containing keywords: \"refund\", \"reliquidation\", \"protest\", \"court decision\", \"Supreme Court\"",
+        "Federal Register notices by CBP/Treasury referencing duty refunds or liquidation instructions",
+        "Trade law firm client alerts describing new CBP refund workflows"
+      ],
+      "rationale": "If refunds are likely, CBP generally must standardize how claims are filed and processed; the political/legal salience makes procedural guidance probable within months.",
+      "id": "b5ce1455-69a8-43c2-afec-26629b52def1",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The White House (or USTR/Commerce) will publicly transmit to Congress proposed legislation to create or expand executive tariff authority explicitly enabling a broadly applied across-the-board import surcharge (e.g., 10\u201315% global tariff) after the Supreme Court tariff-authority ruling.",
+      "category": "geopolitics",
+      "horizon_days": 159,
+      "deadline": "2026-07-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if an administration legislative proposal (draft bill text, formal transmittal letter, or publicly posted legislative language) is sent to Congress that explicitly authorizes an across-the-board tariff/surcharge (not just targeted product tariffs), and explicitly references the need for authority following the court ruling. Otherwise NO.",
+      "evidence": [
+        "Supreme Court ruling increases judicial risk for tariff implementation under emergency/creative authorities (https://www.nytimes.com/2026/02/21/us/politics/supreme-court-tariffs-conservatives.html).",
+        "Trump statement of immediate move to 15% global tariff suggests continued desire for a broad instrument (https://www.nytimes.com/2026/02/21/business/trump-tariffs.html)."
+      ],
+      "monitoring_signals": [
+        "OMB legislative clearance items and Statements of Administration Policy (SAPs)",
+        "USTR/Commerce press briefings referencing \"legislative fix\" or \"tariff authority\"",
+        "House Ways & Means / Senate Finance introductions aligned with administration messaging"
+      ],
+      "rationale": "A legal setback often triggers an attempt to harden authority via statute, especially if the policy is central to the administration agenda.",
+      "id": "5b66b3bd-9c24-473d-87d1-c2b7ca93df97",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one major U.S. trading partner (EU, Canada, Mexico, China, Japan, or South Korea) will file a WTO dispute-settlement request for consultations explicitly challenging the U.S. across-the-board 'global tariff' as inconsistent with WTO obligations.",
+      "category": "geopolitics",
+      "horizon_days": 190,
+      "deadline": "2026-08-31",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if the WTO Dispute Settlement page (or the complainant government) lists a 'Request for Consultations' naming the U.S. and explicitly referencing a broadly applied global tariff/surcharge. Otherwise NO.",
+      "evidence": [
+        "Escalation to a 15% global tariff increases formal-trade-law conflict risk (https://www.nytimes.com/2026/02/21/business/trump-tariffs.html).",
+        "Retaliation and legal challenges are standard responses for large, non-targeted tariff actions."
+      ],
+      "monitoring_signals": [
+        "WTO dispute filings and DS document releases",
+        "European Commission DG Trade / Global Affairs Canada statements mentioning WTO action",
+        "G7 trade minister communiqu\u00e9s referencing disputes"
+      ],
+      "rationale": "A near-universal tariff is easier to challenge as a systemic breach; WTO consultations are a common first step even alongside retaliation.",
+      "id": "2db3c139-ec4b-4511-9366-548b150a32a8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "DRAMeXchange will report the DDR4 8Gb (or closest standard benchmark) spot price down at least 25% versus its February 2026 monthly average, in any daily print during June 2026.",
+      "category": "tech",
+      "horizon_days": 128,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if DRAMeXchange benchmark pricing shows a June 2026 daily spot price at least 25% below the February 2026 monthly average for the same DDR4 benchmark. Otherwise NO.",
+      "evidence": [
+        "Report that China's CXMT is offering DDR4 at about half market prices, implying strong downward price pressure (https://www.koreaherald.com/article/10679206).",
+        "Commodity memory pricing historically reacts quickly to supply shocks and aggressive undercutting."
+      ],
+      "monitoring_signals": [
+        "DRAMeXchange DDR4 spot and contract price updates",
+        "Earnings-call commentary from Micron/Samsung/SK hynix on legacy DRAM pricing",
+        "Channel checks from PC/OEM procurement and distributor inventory levels"
+      ],
+      "rationale": "If materially under-market supply persists, spot prices often gap down before contracts fully reset.",
+      "id": "76b20396-f9db-4e54-ab8b-69a7ecb62cca",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one of Samsung Electronics, SK hynix, or Micron will publicly announce a material curtailment/phase-out of DDR4 output (or an accelerated DDR4 end-of-life roadmap) explicitly citing China-led pricing pressure or DDR4 margin collapse.",
+      "category": "tech",
+      "horizon_days": 220,
+      "deadline": "2026-09-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if a press release, earnings-call transcript, investor presentation, or regulatory filing includes an explicit statement about materially cutting DDR4 production or accelerating DDR4 EOL, and ties it to DDR4 pricing/margins and/or China competition. Otherwise NO.",
+      "evidence": [
+        "CXMT DDR4 undercutting raises likelihood of incumbents shifting mix away from legacy nodes (https://www.koreaherald.com/article/10679206).",
+        "Major DRAM makers have previously managed cycles via mix shifts and legacy-product reductions."
+      ],
+      "monitoring_signals": [
+        "Micron/Samsung/SK hynix earnings transcripts for \"DDR4\", \"legacy\", \"EOL\", \"curtail\"",
+        "Industry analyst notes on wafer allocation shifts to DDR5/HBM",
+        "OEM statements about DDR4 availability/allocations"
+      ],
+      "rationale": "Sustained price war in a commoditized segment typically triggers supply discipline and repositioning toward higher-value products.",
+      "id": "cd5a8729-aa15-4045-a461-28a6f8eb0528",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NASA will officially reschedule Artemis II such that the earliest stated launch date becomes no earlier than 2027-06-30 (i.e., the agency communicates a slip into 2H 2027 or later) due to the reported helium/rocket issues.",
+      "category": "tech",
+      "horizon_days": 98,
+      "deadline": "2026-05-31",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if NASA (press release, briefing, Artemis schedule page, or GAO/NASA OIG-cited NASA date) states Artemis II NET (no-earlier-than) date is 2027-06-30 or later, and links schedule drivers to the helium/vehicle issues. Otherwise NO.",
+      "evidence": [
+        "NYT reports Artemis rocket helium issue delaying Moon mission timelines (https://www.nytimes.com/2026/02/21/science/nasa-artemis-helium-flaw.html).",
+        "Artemis schedules have historically been sensitive to hardware and integration issues."
+      ],
+      "monitoring_signals": [
+        "NASA Artemis program updates and administrator briefings",
+        "GAO/OIG space program schedule oversight publications",
+        "Major contractor statements (e.g., Boeing/Lockheed/Northrop) on integration milestones"
+      ],
+      "rationale": "A disclosed technical flaw often propagates into official schedule updates within one to two quarters.",
+      "id": "f9b36229-31d0-4390-a54c-336f14924643",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one of Delta, United, or American will disclose a quantified financial impact of at least $100 million (pre-tax or operating) from the February 2026 East Coast blizzard disruptions in an SEC filing, earnings release, or earnings-call prepared remarks.",
+      "category": "markets",
+      "horizon_days": 67,
+      "deadline": "2026-04-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if a covered airline explicitly attributes >=$100 million impact to the Feb 2026 blizzard (cancellations/irregular operations) in an SEC filing or earnings materials. Otherwise NO.",
+      "evidence": [
+        "CNBC reports major East Coast blizzard driving flight cancellations and operational disruption (https://www.cnbc.com/2026/02/21/blizzard-prompts-airlines-waive-flight-change-fees.html).",
+        "Large irregular-ops events can create substantial costs (reaccommodation, crews, maintenance positioning)."
+      ],
+      "monitoring_signals": [
+        "8-K filings and earnings-call transcripts mentioning \"blizzard\" or \"winter storm\"",
+        "BTS on-time performance and cancellation data for affected carriers",
+        "Airline guidance updates and investor presentations"
+      ],
+      "rationale": "If disruption was large enough, carriers often quantify it when updating quarterly performance or guidance.",
+      "id": "69d6e3cd-1f31-4194-a0ee-774f90e7976e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ICE Dutch TTF natural gas front-month futures will settle above \u20ac60/MWh on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 128,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "verification_criteria": "Resolves YES if the ICE End-of-Day settlement for Dutch TTF front-month exceeds \u20ac60.00/MWh at least once by the deadline. Otherwise NO.",
+      "evidence": [
+        "Escalating Middle East conflict risk raises tail risk for LNG flows and risk premiums (https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html).",
+        "European gas prices remain sensitive to global LNG disruptions and shipping risk."
+      ],
+      "monitoring_signals": [
+        "ICE TTF settlements and implied volatility",
+        "LNG freight/insurance costs and rerouting reports",
+        "EU storage trajectory vs seasonal norms and LNG send-out rates"
+      ],
+      "rationale": "Even without a sustained disruption, geopolitical shocks can trigger short-lived price spikes above key thresholds.",
+      "id": "1e821a91-ace1-4bf7-aaf8-accda37599ef",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "BLS will report U.S. Import Price Index (excluding petroleum) year-over-year inflation at or above +4.0% in at least one monthly Import/Export Price Index release.",
+      "category": "macro",
+      "horizon_days": 190,
+      "deadline": "2026-08-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if any BLS monthly release shows Import Price Index ex petroleum (not seasonally adjusted series as published by BLS) with YoY change >= +4.0%. Otherwise NO by deadline.",
+      "evidence": [
+        "Tariff escalation to 15% implies higher landed import costs and pass-through risk (https://www.nytimes.com/2026/02/21/business/trump-tariffs.html).",
+        "Trade policy shocks often appear first in import-price measures before broader consumer prices."
+      ],
+      "monitoring_signals": [
+        "BLS Import/Export Price Index releases (ex petroleum import index)",
+        "USD trade-weighted index and ocean freight indices",
+        "Retailer/OEM price increase announcements citing tariffs"
+      ],
+      "rationale": "A broad tariff plus supply-chain repricing can lift non-petroleum import prices meaningfully within 3\u20136 months.",
+      "id": "f600b3e7-f165-4c66-b76f-243fd9d128c9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
