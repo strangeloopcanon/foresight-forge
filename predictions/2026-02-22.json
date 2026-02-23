@@ -19,7 +19,7 @@
       ],
       "rationale": "If refunds are likely, CBP generally must standardize how claims are filed and processed; the political/legal salience makes procedural guidance probable within months.",
       "id": "b5ce1455-69a8-43c2-afec-26629b52def1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "A legal setback often triggers an attempt to harden authority via statute, especially if the policy is central to the administration agenda.",
       "id": "5b66b3bd-9c24-473d-87d1-c2b7ca93df97",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "A near-universal tariff is easier to challenge as a systemic breach; WTO consultations are a common first step even alongside retaliation.",
       "id": "2db3c139-ec4b-4511-9366-548b150a32a8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "If materially under-market supply persists, spot prices often gap down before contracts fully reset.",
       "id": "76b20396-f9db-4e54-ab8b-69a7ecb62cca",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Sustained price war in a commoditized segment typically triggers supply discipline and repositioning toward higher-value products.",
       "id": "cd5a8729-aa15-4045-a461-28a6f8eb0528",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "A disclosed technical flaw often propagates into official schedule updates within one to two quarters.",
       "id": "f9b36229-31d0-4390-a54c-336f14924643",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "If disruption was large enough, carriers often quantify it when updating quarterly performance or guidance.",
       "id": "69d6e3cd-1f31-4194-a0ee-774f90e7976e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Even without a sustained disruption, geopolitical shocks can trigger short-lived price spikes above key thresholds.",
       "id": "1e821a91-ace1-4bf7-aaf8-accda37599ef",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "A broad tariff plus supply-chain repricing can lift non-petroleum import prices meaningfully within 3\u20136 months.",
       "id": "f600b3e7-f165-4c66-b76f-243fd9d128c9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

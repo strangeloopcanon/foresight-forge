@@ -1,0 +1,185 @@
+{
+  "date": "2026-02-23",
+  "predictions": [
+    {
+      "text": "At least one of Home Depot, TJX, Target, Walmart, or Lowe\u2019s will quantify an expected FY2026 gross tariff-related cost headwind of at least $200 million (or an equivalent quantified EPS impact) in an earnings release, 10-Q/10-K, or prepared earnings-call remarks.",
+      "category": "markets",
+      "horizon_days": 20,
+      "deadline": "2026-03-15",
+      "confidence_pct": 44,
+      "verification_criteria": "Company disclosure (earnings release/10-Q/10-K or prepared remarks transcript) explicitly ties a quantified amount (>= $200M cost headwind or clearly equivalent EPS impact) to tariffs/import duties for FY2026.",
+      "evidence": [
+        "Market coverage highlights retailer earnings focusing on tariff-driven costs and pricing/refund strategies amid ongoing uncertainty."
+      ],
+      "monitoring_signals": [
+        "Earnings calendars for listed retailers",
+        "Prepared remarks PDFs and 10-Q filings mentioning \u201ctariff,\u201d \u201cduties,\u201d \u201cimport costs,\u201d \u201cIEEPA,\u201d or \u201crefunds\u201d",
+        "Sell-side notes summarizing tariff headwinds"
+      ],
+      "rationale": "Retailers facing uncertain duty treatment often provide quantified headwinds to manage expectations; near-term reporting creates a natural disclosure window.",
+      "id": "6228d9eb-9b9d-4c18-b555-836584960d95",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A new importer-led lawsuit seeking refunds of duties explicitly described as unlawful after the Supreme Court tariff-authority ruling will be filed in the U.S. Court of International Trade (CIT) or U.S. Court of Federal Claims, naming the United States and/or CBP as defendant.",
+      "category": "other",
+      "horizon_days": 66,
+      "deadline": "2026-04-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Publicly accessible docket entry in CIT or Court of Federal Claims showing a complaint filed by an importer/industry group seeking duty refunds/return of deposits explicitly tied to the Supreme Court ruling; complaint must reference the ruling or the invalidated tariff authority.",
+      "evidence": [
+        "Reporting indicates importers are still paying tariffs impacted by the Supreme Court ruling, implying likely litigation and refund claims."
+      ],
+      "monitoring_signals": [
+        "CIT and Court of Federal Claims docket searches for keywords (tariff, duties, refund, CBP, IEEPA, Supreme Court)",
+        "Trade-law firm client alerts and press releases",
+        "Industry association updates (NRF, NAM, import councils)"
+      ],
+      "rationale": "If duties continue being collected amid unclear refund mechanics, litigation is a common route to preserve claims and force administrative action.",
+      "id": "073d3900-9b40-4466-9dd1-6381e8515519",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Aggregate U.S. spot Bitcoin ETFs (as tracked by a major public aggregator such as Bloomberg, BitMEX Research, or Farside Investors) will record a single-day net outflow of at least $1.5 billion.",
+      "category": "markets",
+      "horizon_days": 97,
+      "deadline": "2026-05-31",
+      "confidence_pct": 33,
+      "verification_criteria": "A widely cited public ETF flow dataset shows combined net outflows across U.S. spot Bitcoin ETFs >= $1.5B on one calendar trading day; the figure must be explicitly reported as net flow for that day.",
+      "evidence": [
+        "Recent coverage notes bitcoin falling on policy/tariff uncertainty, consistent with risk-off positioning and potential ETF redemptions."
+      ],
+      "monitoring_signals": [
+        "Daily spot Bitcoin ETF flow dashboards (Bloomberg, Farside, BitMEX Research)",
+        "BTC spot volatility and large downside days",
+        "Macro risk-off indicators (VIX, USD strength)"
+      ],
+      "rationale": "Large one-day ETF outflows are less common than multi-day drawdowns but can occur during sharp risk-off moves.",
+      "id": "fc5880f8-3b0c-40e2-8280-12fd3366d36b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one of Blackstone, Apollo, KKR, Ares, or Carlyle will disclose that a flagship U.S.-focused direct-lending/private-credit vehicle has a non-accrual (or equivalent impaired/credit-loss) rate of at least 3.0% by fair value, as of a quarter-end.",
+      "category": "markets",
+      "horizon_days": 127,
+      "deadline": "2026-06-30",
+      "confidence_pct": 37,
+      "verification_criteria": "An SEC filing, investor presentation, or earnings-call prepared remarks states non-accrual/impaired/credit-loss metric for a named private credit/direct lending vehicle and the metric is >=3.0% by fair value (or clearly comparable basis) at a specified quarter-end date.",
+      "evidence": [
+        "Market commentary flags rising investor anxiety about private-credit opacity and refinancing risk, increasing likelihood of adverse credit metric disclosures."
+      ],
+      "monitoring_signals": [
+        "Quarterly earnings decks and 10-Q/10-K filings for listed managers",
+        "BDC filings (10-Qs) and supplemental tables on non-accruals",
+        "Credit spreads and leveraged-loan default-rate updates"
+      ],
+      "rationale": "If credit stress increases, managers often provide clearer portfolio-quality metrics; a 3% threshold is meaningful yet plausible in a downturn.",
+      "id": "a2fd07d6-ece8-410f-86ca-e6447028c043",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. State Department will raise the Travel Advisory level to at least Level 3 (\u201cReconsider Travel\u201d) for at least one of: United Arab Emirates, Qatar, Bahrain, Kuwait, Oman, or Saudi Arabia, explicitly citing heightened regional conflict risk involving Iran or Iran-backed actors.",
+      "category": "geopolitics",
+      "horizon_days": 36,
+      "deadline": "2026-03-31",
+      "confidence_pct": 28,
+      "verification_criteria": "Official U.S. State Department Travel Advisory page shows Level 3 or Level 4 for one listed country, and the advisory text explicitly references Iran tensions/conflict or Iran-backed/proxy threats as a driver.",
+      "evidence": [
+        "U.S. officials are reported to be weighing a targeted Iran strike with escalation risk; Iran is described as preparing for war, increasing miscalculation risk."
+      ],
+      "monitoring_signals": [
+        "State Department Travel Advisory updates",
+        "CENTCOM and embassy security alerts",
+        "Notices to airmen (NOTAMs) and airline rerouting announcements"
+      ],
+      "rationale": "Even without direct U.S.-Iran conflict, elevated threat reporting can trigger advisory upgrades for Gulf states hosting U.S. assets.",
+      "id": "f7998422-7ad4-45ff-a8fb-c910434dd237",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Mexico\u2019s national public security system (SESNSP) will report that Jalisco\u2019s intentional-homicide victims in a single month are at least 20% higher year-over-year versus the same month one year earlier.",
+      "category": "geopolitics",
+      "horizon_days": 127,
+      "deadline": "2026-06-30",
+      "confidence_pct": 41,
+      "verification_criteria": "SESNSP monthly publication (official tables) shows Jalisco \u201chomicidio doloso\u201d victims for a given month and the count is >=120% of the figure for the same month in the prior year.",
+      "evidence": [
+        "Reporting indicates a major cartel leader was killed, raising the risk of succession violence and localized instability."
+      ],
+      "monitoring_signals": [
+        "SESNSP monthly crime statistics releases",
+        "Mexican federal security deployment announcements",
+        "Local press reports of cartel clashes in Jalisco/Michoac\u00e1n"
+      ],
+      "rationale": "Leadership decapitation events often increase near-term fragmentation and violence; a 20% YoY monthly jump is a moderate escalation threshold.",
+      "id": "1020df5b-7609-4a82-89f0-bea869303dbb",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Congress will enact (bill signed into law) a Ukraine-related funding package totaling at least $20 billion in budget authority (military, economic, or combined), as stated in the law text and/or official congressional cost documents.",
+      "category": "geopolitics",
+      "horizon_days": 127,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "verification_criteria": "A bill becomes law (signed) and contains Ukraine-related appropriations/authorizations with a total >= $20B, confirmed by law text, CBO cost estimate, or official congressional summaries.",
+      "evidence": [
+        "Coverage notes intensified Russian attacks and continued strategic pressure on Ukraine, which can drive additional allied funding debates."
+      ],
+      "monitoring_signals": [
+        "House/Senate leadership announcements and floor schedules",
+        "Bill text searches for \u201cUkraine\u201d and appropriation totals",
+        "CBO scoring releases and conference report summaries"
+      ],
+      "rationale": "Escalating conflict intensity often renews legislative attention, but passage depends on domestic politics and budget trade-offs.",
+      "id": "f91b5b71-f564-40d1-9faf-71695db173bc",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Senate will hold at least one committee hearing focused primarily on AI\u2019s influence on elections/campaigns (e.g., deepfakes, political ads, campaign funding/lobbying), where \u201cartificial intelligence\u201d is in the official hearing title or witness briefing topic.",
+      "category": "other",
+      "horizon_days": 97,
+      "deadline": "2026-05-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Official Senate committee website posts a hearing notice with AI and elections/campaign influence as the central topic, evidenced by title/agenda and archived webcast or transcript.",
+      "evidence": [
+        "Reporting highlights AI funding shaping U.S. midterm politics and intensified tech lobbying, increasing likelihood of congressional oversight hearings."
+      ],
+      "monitoring_signals": [
+        "Senate committee schedules (Rules, Homeland Security, Judiciary, Intelligence, Commerce)",
+        "Witness lists including AI labs, social platforms, and election officials",
+        "Released opening statements referencing campaigns/deepfakes"
+      ],
+      "rationale": "Election integrity and AI-generated content are recurring oversight themes; committee scheduling risk is moderate but the topic has clear salience.",
+      "id": "6cdf8d40-24dc-4449-8240-ed25349ae841",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A Phase 2 (or later) clinical trial of an oxygen-delivering gel (or oxygen gel dressing) for diabetic foot ulcers with planned enrollment of at least 100 participants will be newly registered on ClinicalTrials.gov.",
+      "category": "other",
+      "horizon_days": 311,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "A new ClinicalTrials.gov registration dated on/before deadline indicates Phase 2+ study of an oxygen gel intervention for diabetic foot ulcers, with \u201cEnrollment\u201d (anticipated or actual) >=100.",
+      "evidence": [
+        "Recent research reports suggest an oxygen gel approach could improve diabetic wound outcomes, which typically leads to scaled trials if early data is promising."
+      ],
+      "monitoring_signals": [
+        "ClinicalTrials.gov new postings with keywords (oxygen gel, diabetic foot ulcer, wound oxygenation)",
+        "University/hospital press releases on translational funding",
+        "NIH RePORTER grants for DFU wound care oxygenation approaches"
+      ],
+      "rationale": "Promising wound-care modalities often advance to Phase 2 studies, but scale, funding, and manufacturing constraints make timelines uncertain.",
+      "id": "a24e8312-37f1-47e0-99db-04baf8350225",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

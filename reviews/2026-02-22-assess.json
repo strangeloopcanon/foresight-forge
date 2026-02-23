@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-22",
+  "assessments": [
+    {
+      "id": "b5ce1455-69a8-43c2-afec-26629b52def1",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage highlights uncertainty and ongoing payment of tariffs post\u2013Supreme Court ruling, but it does not clearly document a CBP CSMS message or Federal Register notice establishing a formal refund/administrative-relief process with a filing mechanism and effective date. Deadline remains in the future."
+    },
+    {
+      "id": "5b66b3bd-9c24-473d-87d1-c2b7ca93df97",
+      "status": "pending",
+      "status_rationale": "News items discuss tariff strategy and market uncertainty after the court loss, but there is no clear evidence that the White House/USTR/Commerce has transmitted proposed legislation to Congress to create/expand executive authority for an across-the-board import surcharge. Deadline remains in the future."
+    },
+    {
+      "id": "2db3c139-ec4b-4511-9366-548b150a32a8",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the EU/Canada/Mexico/China/Japan/South Korea has filed a WTO request for consultations explicitly challenging a U.S. across-the-board global tariff. Deadline remains in the future."
+    },
+    {
+      "id": "76b20396-f9db-4e54-ab8b-69a7ecb62cca",
+      "status": "pending",
+      "status_rationale": "No information provided on DRAMeXchange DDR4 8Gb spot pricing or February 2026 averages; the June 2026 window has not yet occurred."
+    },
+    {
+      "id": "cd5a8729-aa15-4045-a461-28a6f8eb0528",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not report an announcement by Samsung, SK hynix, or Micron of a material DDR4 curtailment/phase-out explicitly tied to China-led pricing pressure or margin collapse. Deadline remains in the future."
+    },
+    {
+      "id": "f9b36229-31d0-4390-a54c-336f14924643",
+      "status": "pending",
+      "status_rationale": "No NASA announcement is cited today regarding rescheduling Artemis II to an earliest launch date no earlier than 2027-06-30; deadline remains in the future."
+    },
+    {
+      "id": "69d6e3cd-1f31-4194-a0ee-774f90e7976e",
+      "status": "pending",
+      "status_rationale": "While there is weather/aviation-related news (e.g., storm coverage and a TSA PreCheck policy reversal), none of the bullets shows Delta, United, or American disclosing a quantified \u2265$100M financial impact from the February 2026 East Coast blizzard in an SEC filing or earnings communications. Deadline remains in the future."
+    },
+    {
+      "id": "1e821a91-ace1-4bf7-aaf8-accda37599ef",
+      "status": "pending",
+      "status_rationale": "No bulletin provides ICE Dutch TTF front-month settlement levels or confirms a settlement above \u20ac60/MWh; deadline remains in the future."
+    },
+    {
+      "id": "f600b3e7-f165-4c66-b76f-243fd9d128c9",
+      "status": "pending",
+      "status_rationale": "No BLS Import/Export Price Index release data is included in today\u2019s bullets, so there is no evidence confirming or refuting \u2265+4.0% y/y import-price inflation ex-petroleum; deadline remains in the future."
+    }
+  ]
+}
