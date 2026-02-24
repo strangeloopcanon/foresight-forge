@@ -1,0 +1,185 @@
+{
+  "date": "2026-02-24",
+  "predictions": [
+    {
+      "text": "The Federal Reserve will publish a final rule or final supervisory guidance that formally removes (or prohibits use of) \u201creputation risk\u201d as a standalone supervisory consideration in bank examinations/supervision materials.",
+      "category": "macro",
+      "horizon_days": 279,
+      "deadline": "2026-11-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Verified if the Federal Register (or Fed Board press release) publishes a final rule/guidance explicitly eliminating \u201creputation risk\u201d from supervisory frameworks/manuals, or directing examiners not to cite it as a basis for ratings/findings.",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260223a.htm"
+      ],
+      "monitoring_signals": [
+        "Federal Register notices referencing \u201creputation risk\u201d and bank supervision",
+        "Fed Board press releases on supervision/rating or examination guidance updates",
+        "Public updates to Fed supervisory manuals/handbooks"
+      ],
+      "rationale": "A formal proposal is already out; finalization within ~9 months is plausible given political salience and relatively bounded scope.",
+      "id": "b1849036-e75a-4ae6-8c13-c5d596aa09d8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Panama will execute and publish (or officially announce) a definitive long-term concession/operating agreement transferring operation of the main Panama Canal container terminals (Crist\u00f3bal and/or Balboa) to Maersk and/or MSC (or their affiliates) for a term of at least 10 years.",
+      "category": "geopolitics",
+      "horizon_days": 126,
+      "deadline": "2026-06-30",
+      "confidence_pct": 48,
+      "verification_criteria": "Verified if Panama\u2019s government/canal authority issues an official statement, gazette publication, or signed contract summary confirming Maersk/MSC (or affiliates) as terminal operator(s) with a stated term \u226510 years.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/24/panama-officially-voids-annuls-ck-hutchison-contracts-interim-control-maersk-msc-canal-dispute.html"
+      ],
+      "monitoring_signals": [
+        "Panama government gazette publications on concessions",
+        "Panama Canal Authority (ACP) press releases",
+        "Maersk/MSC corporate announcements and investor disclosures"
+      ],
+      "rationale": "Interim control changes create momentum, but legal/contracting process risk keeps probability below 50% by mid-year.",
+      "id": "c1f4114c-723b-4ba1-b15d-1330cc780956",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. State Department will raise the Travel Advisory level to Level 4 (\u201cDo Not Travel\u201d) for at least one Mexican state not currently at Level 4, explicitly citing cartel violence affecting highways, freight routes, or ports.",
+      "category": "geopolitics",
+      "horizon_days": 96,
+      "deadline": "2026-05-31",
+      "confidence_pct": 32,
+      "verification_criteria": "Verified if the State Department\u2019s Mexico Travel Advisory page shows a new Level 4 designation for a Mexican state (previously Level 3 or lower) with narrative text referencing cartel violence impacting transport corridors, freight, or ports.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/23/mexico-violence-cartel-boss-killing-freight-trade.html"
+      ],
+      "monitoring_signals": [
+        "State Department Mexico Travel Advisory updates",
+        "U.S. Embassy/Consulate security alerts mentioning freight corridors/ports",
+        "Mexican federal/state security statements about port/highway disruptions"
+      ],
+      "rationale": "Escalation is possible, but State advisories often lag and may rely on localized security alerts instead.",
+      "id": "7157ed56-b3f0-4eaa-838f-66c2f6f63d45",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "China\u2019s PBoC will cut either the 1-year or 5-year Loan Prime Rate by at least 10 basis points in a monthly fixing versus the level in effect on 2026-02-24.",
+      "category": "rates",
+      "horizon_days": 218,
+      "deadline": "2026-09-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Verified if an official LPR announcement shows the 1Y or 5Y LPR at least 10 bps below its 2026-02-24 level on any fixing date through 2026-09-30.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/24/china-central-bank-pboc-loan-prime-rates-yuan-strength-growth-slows.html"
+      ],
+      "monitoring_signals": [
+        "Monthly LPR fixings from China\u2019s NIFC/PBoC",
+        "CNY/CNH exchange rate stress and policy commentary",
+        "China credit-growth and property-market indicators"
+      ],
+      "rationale": "Current hold suggests caution; a 10 bps cut becomes more likely if growth or property conditions deteriorate.",
+      "id": "5d0bdb6d-9a35-4610-bf5a-6f45aed81f15",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Entergy Louisiana (or Louisiana\u2019s utility regulator) will approve or announce a binding agreement/filing to supply at least 1.0 GW of incremental electrical load to Amazon\u2019s Louisiana AI data-center buildout (single project or aggregate) with a stated in-service plan.",
+      "category": "tech",
+      "horizon_days": 310,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Verified if Entergy Louisiana, the Louisiana Public Service Commission, or Amazon publicly discloses an executed agreement, tariff filing, or regulator approval explicitly tied to Amazon\u2019s Louisiana data centers totaling \u22651.0 GW incremental load (or equivalent capacity commitment).",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/23/amazon-louisiana-ai-data-centers.html"
+      ],
+      "monitoring_signals": [
+        "Louisiana PSC dockets mentioning Amazon/AWS load interconnection or special contracts",
+        "Entergy IRP and large-load announcements",
+        "Amazon/AWS permitting and construction filings indicating power capacity"
+      ],
+      "rationale": "Large AI campuses typically require public utility filings; reaching \u22651 GW within a year is plausible but not assured.",
+      "id": "ff0074ad-d163-44ca-af54-1cafbb507594",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OFAC (or DOJ) will announce a U.S. enforcement action against a major crypto exchange for Iran-related sanctions violations with a stated monetary penalty (fine/settlement/forfeiture) of at least $50 million.",
+      "category": "geopolitics",
+      "horizon_days": 310,
+      "deadline": "2026-12-31",
+      "confidence_pct": 27,
+      "verification_criteria": "Verified if an official OFAC/DOJ press release announces a resolved enforcement action naming a crypto exchange and citing Iran-related sanctions violations with penalty/settlement/forfeiture \u2265$50,000,000.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html"
+      ],
+      "monitoring_signals": [
+        "OFAC enforcement releases mentioning virtual currency and Iran",
+        "DOJ forfeiture/plea announcements tied to exchanges and sanctions",
+        "Exchange compliance investigations and whistleblower reports"
+      ],
+      "rationale": "Public reporting highlights exposure, but enforcement timelines are uncertain and may resolve without a large disclosed penalty.",
+      "id": "0cedda4b-c49f-4d74-adcd-b07a0c2b9cab",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "ASML will publicly report (earnings call, investor presentation, or press release) that it has shipped or installed a customer-evaluation unit of its newly announced improved EUV light source (the one claimed to enable ~50% more chip output by 2030).",
+      "category": "tech",
+      "horizon_days": 218,
+      "deadline": "2026-09-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Verified if ASML states it has shipped/installed an evaluation unit (or equivalent wording: first customer shipment/installation for evaluation) of the new EUV light-source technology referenced in the 2026-02-23 reporting.",
+      "evidence": [
+        "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/"
+      ],
+      "monitoring_signals": [
+        "ASML quarterly earnings-call transcripts and slide decks",
+        "Customer comments from TSMC/Samsung/Intel on ASML EUV roadmaps",
+        "Industry reporting on EUV source qualification timelines"
+      ],
+      "rationale": "ASML often provides roadmap milestones; an eval-unit shipment within ~7 months is plausible but depends on readiness and customer schedules.",
+      "id": "e86fe52a-43b2-4e49-94aa-8b7b5f6a11e0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "IBM (IBM) will close at least 25% below its 2026-02-24 close on at least one U.S. trading day.",
+      "category": "markets",
+      "horizon_days": 188,
+      "deadline": "2026-08-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Verified if IBM\u2019s daily close (NYSE) is \u2264 0.75 \u00d7 its official close on 2026-02-24 on any trading day through 2026-08-31 (using standard market data sources).",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html"
+      ],
+      "monitoring_signals": [
+        "IBM earnings/guidance revisions and segment commentary",
+        "Broader software multiples and AI-disruption narratives",
+        "Large customer migration announcements away from legacy systems"
+      ],
+      "rationale": "AI-driven legacy-code displacement fears can amplify drawdowns; still, IBM\u2019s diversified base reduces crash risk.",
+      "id": "7ec8ea32-8ca7-46af-8810-62c289400271",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A Phase 1/2 clinical trial of a universal or multi-pathogen intranasal (nasal spray) vaccine explicitly targeting at least two of: COVID-19, influenza, and pneumococcus (or bacterial pneumonia) will be newly registered on ClinicalTrials.gov with planned enrollment of at least 60 participants.",
+      "category": "other",
+      "horizon_days": 310,
+      "deadline": "2026-12-31",
+      "confidence_pct": 36,
+      "verification_criteria": "Verified if ClinicalTrials.gov posts a new record (first posted date within the horizon) for an intranasal vaccine trial meeting: Phase 1/2, targets \u22652 of {COVID-19, influenza, pneumococcus/pneumonia}, and planned enrollment \u226560.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/02/260222092258.htm"
+      ],
+      "monitoring_signals": [
+        "ClinicalTrials.gov new postings for intranasal vaccine candidates",
+        "NIH/grant announcements and preclinical-to-clinical transitions",
+        "Company/university press releases about first-in-human dosing"
+      ],
+      "rationale": "Promising preclinical results often lead to early-stage registrations within a year, but manufacturing and regulatory prep can slip.",
+      "id": "9839cdee-f91c-415f-8aea-a7f8166c9926",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

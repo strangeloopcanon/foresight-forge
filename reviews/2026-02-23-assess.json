@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-23",
+  "assessments": [
+    {
+      "id": "6228d9eb-9b9d-4c18-b555-836584960d95",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news items focus on tariff-policy fallout and litigation, but do not include any earnings release/filing/call remarks from Home Depot, TJX, Target, Walmart, or Lowe\u2019s quantifying a FY2026 gross tariff-related headwind of $200M+ (or equivalent EPS impact)."
+    },
+    {
+      "id": "073d3900-9b40-4466-9dd1-6381e8515519",
+      "status": "needs-clarification",
+      "status_rationale": "Multiple outlets report that FedEx filed a lawsuit seeking refunds of Trump tariffs following the Supreme Court ruling (which matches the core event described). However, the bullets provided do not explicitly state the venue (U.S. Court of International Trade vs. U.S. Court of Federal Claims) and do not quote the complaint\u2019s characterization (e.g., explicitly calling the duties unlawful), so the prediction can\u2019t be marked definitively correct without those specifics."
+    },
+    {
+      "id": "fc5880f8-3b0c-40e2-8280-12fd3366d36b",
+      "status": "pending",
+      "status_rationale": "No cited item reports a single-day net outflow of at least $1.5B from aggregate U.S. spot Bitcoin ETFs as tracked by major public aggregators."
+    },
+    {
+      "id": "a2fd07d6-ece8-410f-86ca-e6447028c043",
+      "status": "pending",
+      "status_rationale": "No cited disclosure from Blackstone, Apollo, KKR, Ares, or Carlyle is mentioned regarding a flagship U.S.-focused direct-lending/private-credit vehicle having non-accrual/impaired rate \u22653.0% by fair value."
+    },
+    {
+      "id": "f7998422-7ad4-45ff-a8fb-c910434dd237",
+      "status": "pending",
+      "status_rationale": "No cited item indicates the U.S. State Department raised a Travel Advisory to Level 3 or higher for UAE, Qatar, Bahrain, Kuwait, Oman, or Saudi Arabia citing heightened conflict risk involving Iran or Iran-backed actors."
+    },
+    {
+      "id": "1020df5b-7609-4a82-89f0-bea869303dbb",
+      "status": "pending",
+      "status_rationale": "While there is significant reporting on cartel violence in/around Guadalajara/Jalisco, no SESNSP monthly statistic is cited showing Jalisco intentional-homicide victims \u226520% higher year-over-year for a single month."
+    },
+    {
+      "id": "f91b5b71-f564-40d1-9faf-71695db173bc",
+      "status": "pending",
+      "status_rationale": "No cited item indicates enactment (bill signed into law) of a Ukraine-related funding package totaling at least $20B in budget authority."
+    },
+    {
+      "id": "6cdf8d40-24dc-4449-8240-ed25349ae841",
+      "status": "pending",
+      "status_rationale": "No cited item indicates a U.S. Senate committee hearing primarily focused on AI\u2019s influence on elections/campaigns with 'artificial intelligence' in the official hearing title or witness/topic listing."
+    },
+    {
+      "id": "a24e8312-37f1-47e0-99db-04baf8350225",
+      "status": "pending",
+      "status_rationale": "No cited item indicates a newly registered Phase 2+ ClinicalTrials.gov trial of an oxygen-delivering gel/dressing for diabetic foot ulcers with planned enrollment \u2265100."
+    }
+  ]
+}

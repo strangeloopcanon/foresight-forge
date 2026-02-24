@@ -1,0 +1,120 @@
+{
+  "bullets": [
+    {
+      "text": "Federal Reserve seeks comment on codifying removal of \u201creputation risk\u201d from bank supervision, potentially narrowing examiner discretion and compliance burdens.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260223a.htm"
+    },
+    {
+      "text": "Supreme Court tariff ruling triggers refund and legal uncertainty; FedEx sues for tariff refunds while Congress debates reclaiming tariff-setting authority.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/23/fedex-trump-trade-tariffs-refunds-supreme-court-lawsuit.html"
+    },
+    {
+      "text": "EU postpones vote on U.S. trade deal after renewed global tariff threats, raising near-term transatlantic trade friction risk.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/23/trump-15percent-global-tariff-europe-eu-uk-reaction.html"
+    },
+    {
+      "text": "Panama voids China-linked port contracts and hands canal terminals to Maersk and MSC, underscoring strategic competition over critical maritime chokepoints.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/24/panama-officially-voids-annuls-ck-hutchison-contracts-interim-control-maersk-msc-canal-dispute.html"
+    },
+    {
+      "text": "Post-cartel-leader killing violence in Mexico disrupts trucking, ports, air freight and tourism routes, creating cross-border supply-chain and security spillovers.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/23/mexico-violence-cartel-boss-killing-freight-trade.html"
+    },
+    {
+      "text": "China keeps benchmark lending rates unchanged, signaling tolerance for a stronger yuan despite slowing growth\u2014tightening financial conditions versus easing expectations.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/24/china-central-bank-pboc-loan-prime-rates-yuan-strength-growth-slows.html"
+    },
+    {
+      "text": "U.S. mortgage rates drop below 6% for first time since 2022, improving affordability and potentially reviving refinancing and housing demand.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/23/mortgage-rates-below-6percent-lowest-in-4-years.html"
+    },
+    {
+      "text": "Jamie Dimon warns lofty asset prices elevate economic risk, reinforcing concerns about fragile valuations if growth slows or rates stay higher for longer.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/23/jamie-dimon-says-watch-out-as-high-asset-prices-add-to-economic-risks-my-anxiety-is-high.html"
+    },
+    {
+      "text": "Anthropic-driven \u201cAI disruption\u201d narrative hits software and cybersecurity stocks; IBM falls on fears new tooling accelerates legacy-code replacement and margin pressure.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html"
+    },
+    {
+      "text": "Amazon plans $12B Louisiana AI data-center buildout, highlighting escalating hyperscaler capex and power/infrastructure constraints shaping U.S. regional development.",
+      "tags": [
+        "tech",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/23/amazon-louisiana-ai-data-centers.html"
+    },
+    {
+      "text": "Binance staff found $1.7B in crypto sent to Iranian entities, spotlighting sanctions-evasion risk and rising compliance costs for exchanges.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html"
+    },
+    {
+      "text": "ASML unveils improved EUV light source that could raise chip output ~50% by 2030, strengthening semiconductor supply outlook amid export-control geopolitics.",
+      "tags": [
+        "tech",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/"
+    },
+    {
+      "text": "Scientists report a universal nasal-spray vaccine candidate protecting against COVID, flu, and pneumonia, potentially shifting respiratory prevention toward broad mucosal immunity.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260222092258.htm"
+    },
+    {
+      "text": "New blood test forecasts Alzheimer\u2019s years before symptoms, enabling earlier intervention trials and potentially reshaping screening economics and long-term care planning.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260222085203.htm"
+    }
+  ]
+}
