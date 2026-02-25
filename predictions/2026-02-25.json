@@ -1,0 +1,196 @@
+{
+  "date": "2026-02-25",
+  "predictions": [
+    {
+      "text": "Warner Bros. Discovery (WBD) will publicly acknowledge in an SEC filing (8-K/10-Q/10-K) or a company press release that it has received a takeover/merger proposal from Paramount Global (PARA) and is evaluating it (or has formed/authorized a committee/advisers to evaluate it).",
+      "category": "markets",
+      "horizon_days": 34,
+      "deadline": "2026-03-31",
+      "confidence_pct": 65,
+      "log_odds": 0.619,
+      "verification_criteria": "Resolves YES if, by the deadline, WBD posts an SEC filing or press release explicitly mentioning Paramount (or its affiliates) in the context of a received acquisition/merger proposal/offer and evaluation process. NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/24/warner-bros-discovery-paramount-higher-bid-netflix.html",
+        "https://www.cnbc.com/2026/02/25/global-ma-boom-surges-2026-ai-mega-deals-capital-squeeze-merger-and-acquisition.html"
+      ],
+      "monitoring_signals": [
+        "WBD 8-K filings referencing 'Paramount' or 'proposal'",
+        "WBD investor relations press releases about strategic alternatives",
+        "Unusual trading/volatility plus Form 4 activity around M&A headlines"
+      ],
+      "rationale": "With a reported higher bid circulating, WBD often needs to formally address bona fide proposals via filings/press statements if material.",
+      "id": "baf763e1-30a2-4136-9449-2fef23e23da6",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "PayPal will publicly confirm (via 8-K, press release, or prepared earnings-call remarks) that it is/was in acquisition discussions with Stripe regarding a potential transaction.",
+      "category": "markets",
+      "horizon_days": 95,
+      "deadline": "2026-05-31",
+      "confidence_pct": 25,
+      "log_odds": -1.099,
+      "verification_criteria": "YES if PayPal issues an SEC filing/press release or prepared earnings-call remarks explicitly naming Stripe and confirming discussions about an acquisition/transaction. NO otherwise (including only anonymous-source media reports).",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
+        "https://www.cnbc.com/2026/02/25/global-ma-boom-surges-2026-ai-mega-deals-capital-squeeze-merger-and-acquisition.html"
+      ],
+      "monitoring_signals": [
+        "PayPal SEC filings (8-K) around rumor responses",
+        "Next PayPal earnings-call prepared remarks for transaction language",
+        "Stripe blog/press page for strategic announcements"
+      ],
+      "rationale": "Talks may exist but public confirmation is uncommon unless negotiations become material or leak pressure rises.",
+      "id": "cd06a971-6a71-4493-abe7-541b3822ded8",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Workday will announce a workforce reduction (layoffs) of at least 3% of employees in a press release, SEC filing, or CEO memo later published/confirmed by Workday.",
+      "category": "tech",
+      "horizon_days": 125,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "YES if Workday discloses layoffs/job cuts affecting >=3% of headcount (explicit percent or implied by numbers + known headcount) in an official company communication or SEC filing. NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/24/workday-wday-q4-earnings-report-2026.html"
+      ],
+      "monitoring_signals": [
+        "Workday 8-K/10-Q restructuring charges",
+        "WARN notices and reputable confirmations tied to Workday",
+        "Management commentary on operating margin protection"
+      ],
+      "rationale": "Weak guidance plus AI-era competition often triggers near-term expense actions; layoffs are a common lever but not assured.",
+      "id": "5490aa03-ee22-4e33-921b-a07d2c0dc977",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Nvidia will report year-over-year growth in Data Center segment revenue of less than 40% in at least one quarterly earnings release.",
+      "category": "tech",
+      "horizon_days": 187,
+      "deadline": "2026-08-31",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "YES if any Nvidia quarterly earnings release (10-Q/10-K and accompanying press release) dated by the deadline shows Data Center revenue YoY growth <40% for that quarter (based on company-reported segment revenue). NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/24/nvidia-earnings-collide-with-wall-street-skepticism-over-ai-spending.html"
+      ],
+      "monitoring_signals": [
+        "Nvidia quarterly segment revenue tables",
+        "Hyperscaler AI capex commentary and lead times",
+        "GPU supply/price signals and competitive announcements"
+      ],
+      "rationale": "Base effects and hyperscaler bargaining can plausibly slow growth rates even if absolute demand stays high.",
+      "id": "de13cd90-92b8-4455-968b-ff6fb017c610",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Novo Nordisk will implement (publish and make effective) a U.S. list-price reduction of at least 30% for at least one of Wegovy or Ozempic versus its prior U.S. WAC/list price.",
+      "category": "markets",
+      "horizon_days": 217,
+      "deadline": "2026-09-30",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "YES if Novo Nordisk (or an official U.S. pricing compendium update attributable to Novo) shows a >=30% reduction in U.S. WAC/list price for Wegovy or Ozempic versus the immediately prior published list price, and states an effective date by the deadline. NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/24/novo-nordisk-to-slash-wegovy-ozempic-us-list-prices-by-up-to-50percent.html"
+      ],
+      "monitoring_signals": [
+        "Novo press releases and U.S. pricing updates",
+        "Wholesale acquisition cost (WAC) updates in major pricing databases",
+        "PBM/formulary announcements referencing new list prices"
+      ],
+      "rationale": "Company signaling suggests follow-through is likely; timing and exact magnitude remain uncertain.",
+      "id": "135650c4-a36d-44b1-a751-42f1222eee3e",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Eli Lilly will announce a U.S. list-price reduction of at least 20% for at least one GLP-1 product (e.g., Zepbound and/or Mounjaro).",
+      "category": "markets",
+      "horizon_days": 309,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "YES if Eli Lilly issues a press release/SEC filing or publishes official U.S. pricing showing a >=20% cut in list/WAC for Zepbound or Mounjaro relative to its prior published list price, with an effective date by the deadline. NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/24/novo-nordisk-to-slash-wegovy-ozempic-us-list-prices-by-up-to-50percent.html"
+      ],
+      "monitoring_signals": [
+        "Lilly investor relations announcements on pricing/access",
+        "PBM negotiations/formulary shifts affecting GLP-1s",
+        "Public payer pressure or congressional scrutiny on GLP-1 prices"
+      ],
+      "rationale": "Novo cuts raise competitive pressure; Lilly may respond to defend access, but could rely on rebates rather than list-price changes.",
+      "id": "51acf35f-898b-4742-984c-69c3853e2048",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. government will announce a new or expanded critical-minerals stockpiling initiative with at least $1.0 billion in total funding authority (appropriated, obligated, or formally committed) across one or more programs.",
+      "category": "energy",
+      "horizon_days": 248,
+      "deadline": "2026-10-31",
+      "confidence_pct": 40,
+      "log_odds": -0.406,
+      "verification_criteria": "YES if a U.S. federal entity (e.g., DoD, DOE, DLA, USGS, or the White House) announces a stockpile/purchase program for critical minerals (e.g., rare earths, lithium, graphite, cobalt, nickel) with documentation totaling >=$1.0B in funding authority/commitment by the deadline. NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/25/critical-minerals-stockpile-race-us-eu-china-resource-nationalism.html"
+      ],
+      "monitoring_signals": [
+        "DoD/DLA Strategic Materials contract announcements",
+        "DOE funding opportunity announcements tied to stockpiles/purchases",
+        "White House fact sheets referencing 'stockpile' and dollar amounts"
+      ],
+      "rationale": "Stockpile race narrative suggests rising odds, but budget/implementation friction makes the $1B threshold uncertain.",
+      "id": "b3d19707-fcfc-41a8-8bd1-7c1e2f4a8cb7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Nuclear Regulatory Commission (NRC) will open a formal public-facing action specifically referencing cancer incidence/mortality near nuclear power plants (e.g., docketed rulemaking, request for information, or published staff paper/commission meeting notice).",
+      "category": "energy",
+      "horizon_days": 187,
+      "deadline": "2026-08-31",
+      "confidence_pct": 40,
+      "log_odds": -0.406,
+      "verification_criteria": "YES if the NRC posts an official document/notice (Federal Register, NRC docket, NRC commission meeting notice, or staff paper) that explicitly cites cancer rates near nuclear plants as the primary motivation for a review/inquiry/action by the deadline. NO otherwise.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/02/260224015537.htm"
+      ],
+      "monitoring_signals": [
+        "NRC Federal Register notices and 'NRC Public Meeting Notices'",
+        "NRC SECY papers/staff requirements memoranda referencing epidemiology",
+        "Congressional letters to NRC requesting review of cancer studies"
+      ],
+      "rationale": "High-visibility health findings often trigger at least a scoping review; whether NRC formalizes it is uncertain.",
+      "id": "a61bdd67-8407-4555-9f4c-f282173c322f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "China will publicly announce the removal, dismissal, or formal investigation of at least one additional serving People's Liberation Army (PLA) officer at or above Theater Command commander level (or a Central Military Commission member) as part of the ongoing purge/anti-corruption campaign.",
+      "category": "geopolitics",
+      "horizon_days": 309,
+      "deadline": "2026-12-31",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "YES if authoritative Chinese state media (e.g., Xinhua) or an official government/party communiqu\u00e9 reports removal/investigation of a currently serving PLA Theater Command commander (or higher) or a sitting CMC member by the deadline. NO otherwise.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/24/world/asia/china-military-purges-xi.html"
+      ],
+      "monitoring_signals": [
+        "Xinhua/People's Daily announcements of investigations/removals",
+        "Changes in PLA leadership rosters published by official outlets",
+        "NPC/CPPCC personnel announcements impacting military leadership"
+      ],
+      "rationale": "Purges have been persistent; additional senior removals are plausible given the described depth, but timing is hard to pin down.",
+      "id": "b7093e42-ef0a-4494-8b95-51d8cd29ef80",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

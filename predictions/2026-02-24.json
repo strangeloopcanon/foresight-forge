@@ -18,7 +18,7 @@
       ],
       "rationale": "A formal proposal is already out; finalization within ~9 months is plausible given political salience and relatively bounded scope.",
       "id": "b1849036-e75a-4ae6-8c13-c5d596aa09d8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "Interim control changes create momentum, but legal/contracting process risk keeps probability below 50% by mid-year.",
       "id": "c1f4114c-723b-4ba1-b15d-1330cc780956",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "rationale": "Escalation is possible, but State advisories often lag and may rely on localized security alerts instead.",
       "id": "7157ed56-b3f0-4eaa-838f-66c2f6f63d45",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "rationale": "Current hold suggests caution; a 10 bps cut becomes more likely if growth or property conditions deteriorate.",
       "id": "5d0bdb6d-9a35-4610-bf5a-6f45aed81f15",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "Large AI campuses typically require public utility filings; reaching \u22651 GW within a year is plausible but not assured.",
       "id": "ff0074ad-d163-44ca-af54-1cafbb507594",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Public reporting highlights exposure, but enforcement timelines are uncertain and may resolve without a large disclosed penalty.",
       "id": "0cedda4b-c49f-4d74-adcd-b07a0c2b9cab",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "ASML often provides roadmap milestones; an eval-unit shipment within ~7 months is plausible but depends on readiness and customer schedules.",
       "id": "e86fe52a-43b2-4e49-94aa-8b7b5f6a11e0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -158,7 +158,7 @@
       ],
       "rationale": "AI-driven legacy-code displacement fears can amplify drawdowns; still, IBM\u2019s diversified base reduces crash risk.",
       "id": "7ec8ea32-8ca7-46af-8810-62c289400271",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -178,7 +178,7 @@
       ],
       "rationale": "Promising preclinical results often lead to early-stage registrations within a year, but manufacturing and regulatory prep can slip.",
       "id": "9839cdee-f91c-415f-8aea-a7f8166c9926",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
