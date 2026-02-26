@@ -20,7 +20,7 @@
       ],
       "rationale": "With a reported higher bid circulating, WBD often needs to formally address bona fide proposals via filings/press statements if material.",
       "id": "baf763e1-30a2-4136-9449-2fef23e23da6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Talks may exist but public confirmation is uncommon unless negotiations become material or leak pressure rises.",
       "id": "cd06a971-6a71-4493-abe7-541b3822ded8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Weak guidance plus AI-era competition often triggers near-term expense actions; layoffs are a common lever but not assured.",
       "id": "5490aa03-ee22-4e33-921b-a07d2c0dc977",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Base effects and hyperscaler bargaining can plausibly slow growth rates even if absolute demand stays high.",
       "id": "de13cd90-92b8-4455-968b-ff6fb017c610",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "Company signaling suggests follow-through is likely; timing and exact magnitude remain uncertain.",
       "id": "135650c4-a36d-44b1-a751-42f1222eee3e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "Novo cuts raise competitive pressure; Lilly may respond to defend access, but could rely on rebates rather than list-price changes.",
       "id": "51acf35f-898b-4742-984c-69c3853e2048",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -147,7 +147,7 @@
       ],
       "rationale": "Stockpile race narrative suggests rising odds, but budget/implementation friction makes the $1B threshold uncertain.",
       "id": "b3d19707-fcfc-41a8-8bd1-7c1e2f4a8cb7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -168,7 +168,7 @@
       ],
       "rationale": "High-visibility health findings often trigger at least a scoping review; whether NRC formalizes it is uncertain.",
       "id": "a61bdd67-8407-4555-9f4c-f282173c322f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "rationale": "Purges have been persistent; additional senior removals are plausible given the described depth, but timing is hard to pin down.",
       "id": "b7093e42-ef0a-4494-8b95-51d8cd29ef80",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

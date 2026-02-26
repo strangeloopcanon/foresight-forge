@@ -1,0 +1,107 @@
+{
+  "bullets": [
+    {
+      "text": "Moves to expand presidential control over election administration raise concerns about undermining midterm integrity and increasing political instability risk.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html"
+    },
+    {
+      "text": "Surgeon General nominee avoids clear vaccine positions, signaling potential shifts in U.S. public-health policy and vaccine confidence.",
+      "tags": [
+        "science",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/25/us/politics/surgeon-general-casey-means-senate-hearing.html"
+    },
+    {
+      "text": "Global Entry pause while TSA PreCheck resumes points to border/security processing constraints that could raise travel frictions and business travel costs.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.nytimes.com/2026/02/25/travel/tsa-precheck-global-entry-2026-updates.html"
+    },
+    {
+      "text": "Epstein-record gaps and related depositions/resignations expand reputational and governance fallout across politics, universities, and corporate boards.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html"
+    },
+    {
+      "text": "Nvidia posts ~$43B quarterly profit; data-center revenue surges, reinforcing AI-capex supercycle and widening performance gap vs. slower-growing software peers.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html"
+    },
+    {
+      "text": "Salesforce/Snowflake/Trade Desk provide mixed outlooks; markets increasingly price AI-driven competitive pressure and slowing ad/enterprise software growth.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/salesforces-stock-falls-as-mixed-earnings-forecast-fails-to-dispel-ai-gloom-d230d256?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Bond investors flag AI-bubble risk as a macro concern, implying tighter financial conditions if AI valuations compress or capex disappoints.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/02/25/normally-staid-bond-investors-have-a-new-biggest-worry-an-ai-bubble.html"
+    },
+    {
+      "text": "Big Tech\u2019s White House pledge on data-center power costs highlights electricity as a binding constraint for AI expansion and a new arena for policy bargaining.",
+      "tags": [
+        "energy",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/25/trump-tech-ai-data-center-electricity-price-pledge.html"
+    },
+    {
+      "text": "U.S. offering consular services in a West Bank settlement marks a policy shift likely to inflame regional tensions and complicate diplomacy.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html"
+    },
+    {
+      "text": "Japan\u2019s Nikkei hits record highs as \u201cTakaichi trade\u201d expectations rise, signaling market bets on policy direction and yen/BoJ regime changes.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/26/asia-pacific-markets-nvidia-kospi-nikkei-225-hang-seng-index.html"
+    },
+    {
+      "text": "Mortgage rates fall to multi-year lows but buyers remain sidelined; data suggest a buyer\u2019s market as affordability, supply, and sentiment constrain demand.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/25/mortgage-rates-hit-lowest-level-in-nearly-4-years.html"
+    },
+    {
+      "text": "U.S. solar generation surpasses hydro after rapid growth, underscoring accelerating grid mix change and increasing need for storage/transmission investment.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/"
+    },
+    {
+      "text": "Bird flu detected in California elephant seals for the first time, raising concerns about cross-species spread and broader ecological/zoonotic surveillance needs.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2026/02/25/science/bird-flu-elephant-seals.html"
+    }
+  ]
+}

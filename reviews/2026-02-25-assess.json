@@ -1,0 +1,50 @@
+{
+  "date": "2026-02-25",
+  "assessments": [
+    {
+      "id": "baf763e1-30a2-4136-9449-2fef23e23da6",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items include commentary suggesting Paramount views a Warner Bros. acquisition as beneficial and reporting about deal-related White House talks, but there is no clear evidence that WBD itself publicly acknowledged (via SEC filing or company press release) receipt/evaluation of a Paramount proposal, which is the specific trigger in the prediction."
+    },
+    {
+      "id": "cd06a971-6a71-4493-abe7-541b3822ded8",
+      "status": "pending",
+      "status_rationale": "No cited news indicates PayPal publicly confirmed acquisition discussions with Stripe via an 8-K, press release, or prepared earnings-call remarks."
+    },
+    {
+      "id": "5490aa03-ee22-4e33-921b-a07d2c0dc977",
+      "status": "pending",
+      "status_rationale": "No cited news indicates Workday announced layoffs of at least 3% via a press release, SEC filing, or CEO memo later published/confirmed by Workday."
+    },
+    {
+      "id": "de13cd90-92b8-4455-968b-ff6fb017c610",
+      "status": "pending",
+      "status_rationale": "Nvidia\u2019s reported results today indicate Data Center revenue growth around +75% year-over-year, which does not satisfy the predicted condition (<40%) but also does not rule out a later quarter meeting the criterion before the 2026-08-31 deadline."
+    },
+    {
+      "id": "135650c4-a36d-44b1-a751-42f1222eee3e",
+      "status": "pending",
+      "status_rationale": "No cited news indicates Novo Nordisk implemented and made effective a U.S. list-price (WAC/list) reduction of at least 30% for Wegovy or Ozempic."
+    },
+    {
+      "id": "51acf35f-898b-4742-984c-69c3853e2048",
+      "status": "pending",
+      "status_rationale": "No cited news indicates Eli Lilly announced a U.S. list-price reduction of at least 20% for any GLP-1 product."
+    },
+    {
+      "id": "b3d19707-fcfc-41a8-8bd1-7c1e2f4a8cb7",
+      "status": "pending",
+      "status_rationale": "No cited news indicates the U.S. government announced a new/expanded critical-minerals stockpiling initiative with at least $1.0B in total funding authority."
+    },
+    {
+      "id": "a61bdd67-8407-4555-9f4c-f282173c322f",
+      "status": "pending",
+      "status_rationale": "No cited news indicates the NRC opened a formal, public-facing action specifically referencing cancer incidence/mortality near nuclear power plants (e.g., docketed rulemaking, RFI, staff paper, or meeting notice)."
+    },
+    {
+      "id": "b7093e42-ef0a-4494-8b95-51d8cd29ef80",
+      "status": "pending",
+      "status_rationale": "No cited news indicates China publicly announced the removal, dismissal, or formal investigation of an additional serving PLA officer at or above Theater Command commander level (or a CMC member)."
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "date": "2026-02-26",
+  "predictions": [
+    {
+      "text": "CBP/DHS will officially end the pause on Global Entry processing such that (a) new Global Entry applications are accepted and (b) interview appointments are available to book (via the TTP portal) for at least 10 major U.S. airports.",
+      "category": "macro",
+      "horizon_days": 63,
+      "deadline": "2026-04-30",
+      "confidence_pct": 62,
+      "verification_criteria": "Verified if CBP/DHS announces resumption and the Trusted Traveler Programs (TTP) portal is demonstrably accepting new Global Entry applications and shows interview availability (bookable slots) at 10+ major airports (e.g., ATL, LAX, JFK, ORD, DFW, DEN, SFO, SEA, MIA, IAD) on or before the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/25/travel/tsa-precheck-global-entry-2026-updates.html"
+      ],
+      "monitoring_signals": [
+        "CBP Trusted Traveler Programs updates/alerts",
+        "Airport CBP Enrollment Center appointment calendars",
+        "DHS/CBP press releases on staffing or backlog reduction"
+      ],
+      "rationale": "Operational pauses for high-demand programs tend to be temporary; restoring intake is likely once staffing/IT constraints stabilize.",
+      "id": "cced739b-28de-4688-9366-04ca32da8799",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The U.S. Senate will confirm Casey Means as Surgeon General (final confirmation vote passes) and the confirmation will be posted in the Senate roll-call record.",
+      "category": "geopolitics",
+      "horizon_days": 124,
+      "deadline": "2026-06-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Verified if the Senate conducts a confirmation vote and the nominee is confirmed, as shown in official Senate roll-call results and subsequent HHS/White House announcement.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/25/us/politics/surgeon-general-casey-means-senate-hearing.html"
+      ],
+      "monitoring_signals": [
+        "Senate Executive Calendar and HELP Committee actions",
+        "White House nomination/confirmation statements",
+        "HHS press releases"
+      ],
+      "rationale": "Nominee has advanced to hearings; confirmation depends on floor time and majority cohesion.",
+      "id": "dffe1537-9b07-41ba-a248-6d6aaa69b571",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "A federal judge will issue a temporary restraining order (TRO) or preliminary injunction blocking implementation of at least one new federal election-administration directive/policy expanding presidential control over election administration (as described in major press reporting).",
+      "category": "geopolitics",
+      "horizon_days": 94,
+      "deadline": "2026-05-31",
+      "confidence_pct": 43,
+      "verification_criteria": "Verified if a U.S. federal district court order grants a TRO or preliminary injunction that explicitly blocks enforcement/implementation of the relevant federal election-administration directive/policy, as reflected in the court docket/order text.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html"
+      ],
+      "monitoring_signals": [
+        "PACER dockets for election-administration challenges",
+        "DOJ filings and motions for emergency relief",
+        "State AG announcements of lawsuits"
+      ],
+      "rationale": "High-salience election governance changes often generate rapid litigation and early-stage injunctive relief requests.",
+      "id": "00acf69f-20ca-4117-8768-8062a985c2f0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. State Department will operationalize the West Bank settlement consular-services policy by publicly listing recurring consular service hours or a physical service point in a settlement on an official State/embassy website or press release.",
+      "category": "geopolitics",
+      "horizon_days": 124,
+      "deadline": "2026-06-30",
+      "confidence_pct": 47,
+      "verification_criteria": "Verified if an official State Department or U.S. Embassy/Consulate (Israel/Jerusalem) communication publishes a schedule/location for consular services in a West Bank settlement (not merely an intent statement), on or before the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/25/world/middleeast/us-consular-services-israeli-settlements.html"
+      ],
+      "monitoring_signals": [
+        "U.S. Embassy Jerusalem announcements and ACS updates",
+        "State Department press briefings/transcripts",
+        "Published service-location changes on embassy websites"
+      ],
+      "rationale": "Once a policy shift is announced, implementation commonly follows with formal web/public guidance for affected travelers.",
+      "id": "e9852424-d849-4281-8770-bd4f2148436a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NERC will publish a reliability alert/advisory or special report explicitly naming AI/data-center load growth as a material reliability risk, and it will include at least one quantified load or growth figure (MW or GW).",
+      "category": "energy",
+      "horizon_days": 186,
+      "deadline": "2026-08-31",
+      "confidence_pct": 56,
+      "verification_criteria": "Verified if NERC issues a public alert/advisory/special assessment that explicitly references AI and/or data centers as a reliability risk and includes at least one numeric load/growth estimate (MW/GW) in the document.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/25/trump-tech-ai-data-center-electricity-price-pledge.html"
+      ],
+      "monitoring_signals": [
+        "NERC Reliability Alerts and special assessments",
+        "FERC technical conferences and NERC filings",
+        "ISO/RTO interconnection queue reports citing data centers"
+      ],
+      "rationale": "Rapid load growth from data centers is increasingly cited by utilities; NERC typically formalizes emerging systemic risks in advisories.",
+      "id": "37a7cb5f-7774-4aeb-8e9d-db1ed154ea4a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "EIA will report that solar (utility-scale + estimated small-scale) provided at least 12.0% of total U.S. electricity generation in at least one calendar month.",
+      "category": "energy",
+      "horizon_days": 308,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Verified if EIA monthly generation data (e.g., Electric Power Monthly or EIA browser tables) show solar generation share >= 12.0% of total U.S. generation for any single month dated on or before 2026-12 (inclusive).",
+      "evidence": [
+        "https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/"
+      ],
+      "monitoring_signals": [
+        "EIA Electric Power Monthly releases",
+        "EIA monthly net generation by fuel tables",
+        "Utility-scale solar capacity additions and curtailment reports"
+      ],
+      "rationale": "Recent growth suggests continued share gains; hitting 12% requires sustained capacity additions and favorable seasonal output.",
+      "id": "87489bd7-890a-425f-ba9e-69e2402923c6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "USGS/NOAA (or a U.S. state wildlife agency) will confirm H5N1 avian influenza in at least one additional U.S. pinniped species beyond elephant seals (e.g., sea lions, harbor seals) via an official public report or lab-confirmed bulletin.",
+      "category": "other",
+      "horizon_days": 155,
+      "deadline": "2026-07-31",
+      "confidence_pct": 34,
+      "verification_criteria": "Verified if an official U.S. government (USGS/NOAA/CDC) or state wildlife agency update reports laboratory confirmation of H5N1 in a pinniped species other than elephant seals within the U.S., on or before the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/25/science/bird-flu-elephant-seals.html"
+      ],
+      "monitoring_signals": [
+        "USGS wildlife health updates",
+        "NOAA marine mammal stranding reports",
+        "State wildlife agency lab-confirmation bulletins"
+      ],
+      "rationale": "Cross-species spread among marine mammals has precedent; confirmation depends on surveillance intensity and testing throughput.",
+      "id": "a68dc682-e862-4ad3-b888-55f075a85e2a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "USD/JPY will close at or below 135.0 (New York 5pm close as commonly reported by major market data providers) on at least one trading day.",
+      "category": "rates",
+      "horizon_days": 216,
+      "deadline": "2026-09-30",
+      "confidence_pct": 31,
+      "verification_criteria": "Verified if a widely cited market data source (e.g., Bloomberg/Refinitiv/WSJ) records USD/JPY closing level <= 135.0 on any trading day on or before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/02/26/asia-pacific-markets-nvidia-kospi-nikkei-225-hang-seng-index.html"
+      ],
+      "monitoring_signals": [
+        "BoJ policy communication and intervention rhetoric",
+        "U.S.-Japan rate differential (UST vs JGB yields)",
+        "Risk-off episodes driving yen strength"
+      ],
+      "rationale": "Market narratives about Japan policy shifts can drive sharp yen moves, but reaching 135 requires a sizable swing in rate differentials or risk sentiment.",
+      "id": "1f162642-55dc-4caa-b516-48ac539d50f6",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Nvidia (NVDA) will close at least 30% below its 2026-02-26 official close on at least one U.S. trading day.",
+      "category": "markets",
+      "horizon_days": 186,
+      "deadline": "2026-08-31",
+      "confidence_pct": 37,
+      "verification_criteria": "Verified if NVDA\u2019s daily official close (NASDAQ) is <= 70% of its 2026-02-26 official close on any trading day on or before the deadline, using exchange/major market-data records.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
+        "https://www.cnbc.com/2026/02/25/normally-staid-bond-investors-have-a-new-biggest-worry-an-ai-bubble.html"
+      ],
+      "monitoring_signals": [
+        "AI capex guidance from hyperscalers and OEMs",
+        "Semiconductor lead-time and pricing indicators",
+        "High-duration equity selloffs / multiple compression in mega-cap tech"
+      ],
+      "rationale": "Elevated expectations and \u201cAI bubble\u201d concerns raise drawdown risk even amid strong fundamentals.",
+      "id": "0ba5db7e-1fa6-4a48-b4bc-a8a5af0ad14e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
