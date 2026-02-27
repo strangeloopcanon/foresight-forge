@@ -1,0 +1,207 @@
+{
+  "date": "2026-02-27",
+  "predictions": [
+    {
+      "text": "Paramount Global will publicly announce that it has signed a definitive merger/acquisition agreement involving Warner Bros. Discovery (WBD) (either Paramount acquiring WBD, WBD acquiring Paramount, or a merger of the two).",
+      "category": "markets",
+      "horizon_days": 154,
+      "deadline": "2026-07-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Counts as true if either Paramount (PARA) or WBD files an 8-K and/or issues a press release stating a definitive agreement has been executed for a transaction combining Paramount and WBD (merger agreement, agreement and plan of merger, or definitive acquisition agreement). Rumors/WSJ-style reporting alone do not count.",
+      "evidence": [
+        "CNBC reporting indicates Paramount/Ellison-led offer is now favored after Netflix exits WBD bidding, implying late-stage deal dynamics: https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html"
+      ],
+      "monitoring_signals": [
+        "Paramount or WBD 8-K filings; DEFM14A/S-4 registrations",
+        "Press releases referencing \u201cdefinitive agreement,\u201d \u201cagreement and plan of merger,\u201d or \u201centered into a merger agreement\u201d",
+        "HSR/antitrust process disclosures (waiting period, second request) in SEC filings",
+        "Earnings-call prepared remarks mentioning an executed agreement or timeline to close"
+      ],
+      "rationale": "Recent reporting suggests bid selection is narrowing; a signed agreement is plausible within months but faces valuation, financing, and antitrust friction.",
+      "id": "bc0f2f2d-b852-4161-9197-35f64a598aee",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "MBA will report the U.S. Refinance Index 4-week moving average at least 60% higher than the 4-week moving average ending 2026-01-30.",
+      "category": "rates",
+      "horizon_days": 123,
+      "deadline": "2026-06-30",
+      "confidence_pct": 60,
+      "verification_criteria": "True if Mortgage Bankers Association weekly data (as published by MBA) show the Refinance Index 4-week moving average \u2265 1.60x the 4-week moving average for the week ending 2026-01-30, at any time on/before the deadline.",
+      "evidence": [
+        "NYT reports 30-year mortgage rates fell below 6%, a typical catalyst for refi demand: https://www.nytimes.com/2026/02/26/business/mortgage-rates-30-year.html"
+      ],
+      "monitoring_signals": [
+        "MBA Weekly Applications Survey: Refinance Index level and 4-week average",
+        "Freddie Mac PMMS 30-year fixed rate trend",
+        "Lender capacity/utilization commentary (rate-lock volumes, turn-times)"
+      ],
+      "rationale": "Sub-6% mortgage rates historically trigger a sizable refi response; a 60% lift is substantial but achievable if the move persists for several weeks.",
+      "id": "0039900d-e929-4862-85de-35f12ed6b018",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "NAR will report U.S. existing home sales (SAAR) at or above 4.50 million in at least one monthly release.",
+      "category": "macro",
+      "horizon_days": 185,
+      "deadline": "2026-08-31",
+      "confidence_pct": 48,
+      "verification_criteria": "True if the National Association of Realtors monthly Existing-Home Sales release reports a seasonally adjusted annual rate (SAAR) \u2265 4.50 million for any month released on/before the deadline (headline SAAR, not revised third-party series).",
+      "evidence": [
+        "Mortgage rates dropping below 6% could unlock affordability and increase transaction volumes: https://www.nytimes.com/2026/02/26/business/mortgage-rates-30-year.html"
+      ],
+      "monitoring_signals": [
+        "NAR Existing-Home Sales SAAR (headline) each month",
+        "Pending Home Sales Index direction and YoY prints",
+        "Mortgage purchase applications (MBA) and realtor anecdotal commentary",
+        "Inventory months\u2019 supply and median price trends"
+      ],
+      "rationale": "Lower mortgage rates can revive turnover, but inventory constraints and price stickiness may limit the rebound; 4.50M is a moderate upside threshold.",
+      "id": "88b47191-b332-4689-b966-56f32c84060d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Senate will hold a roll-call vote on a resolution (joint or concurrent) invoking the War Powers framework or otherwise seeking to limit/authorize U.S. military action related to Iran.",
+      "category": "geopolitics",
+      "horizon_days": 62,
+      "deadline": "2026-04-30",
+      "confidence_pct": 44,
+      "verification_criteria": "True if the Senate records a roll-call vote (senate.gov roll call / Congressional Record) on a measure explicitly referencing Iran and war powers/hostilities/authorization or limitation of military force, on/before the deadline.",
+      "evidence": [
+        "Reporting indicates Congress is moving toward a war-powers vote amid unresolved U.S.-Iran talks: https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html"
+      ],
+      "monitoring_signals": [
+        "Senate calendar and cloture filings on Iran-related resolutions",
+        "Statements from Senate leadership or SFRC members about floor action timing",
+        "Text introduction of War Powers resolutions referencing Iran (S.J.Res / S.Con.Res)"
+      ],
+      "rationale": "Public war-powers momentum exists, but leadership scheduling and procedural hurdles make a roll-call vote uncertain within ~2 months.",
+      "id": "26588bb2-d66b-4da4-81ca-bb3a7001482a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OFAC will announce new Cuba-related sanctions designations (at least 5 individuals and/or entities) explicitly tied in the announcement to the February 2026 speedboat/Straits incident or ensuing violence/diplomatic crisis.",
+      "category": "geopolitics",
+      "horizon_days": 93,
+      "deadline": "2026-05-31",
+      "confidence_pct": 33,
+      "verification_criteria": "True if a U.S. Treasury/OFAC press release or designation update adds \u22655 Cuba-linked names and explicitly references the February 2026 incident/crisis as justification/context (in the press release text). Routine unrelated Cuba designations do not count.",
+      "evidence": [
+        "CNBC reports a deadly speedboat shootout in Cuba triggered diplomatic tensions and escalation warnings: https://www.cnbc.com/2026/02/26/cuba-crisis-russia-boat-incident-florida-trump-oil.html"
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN list updates mentioning Cuba",
+        "State Department statements attributing responsibility for the incident",
+        "Congressional calls for sanctions and any executive-order updates"
+      ],
+      "rationale": "Sanctions are a common response tool, but explicit linkage to a specific incident and reaching 5+ designations raises the bar.",
+      "id": "8e939d53-005c-43e1-b81d-7287d7c86ca4",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "U.S. Commerce (BIS) will publish a Federal Register rule that tightens export controls on advanced AI computing chips/accelerators by either (a) lowering performance thresholds or (b) adding at least one additional country to a restricted tier/list for such chips.",
+      "category": "tech",
+      "horizon_days": 123,
+      "deadline": "2026-06-30",
+      "confidence_pct": 52,
+      "verification_criteria": "True if BIS publishes a final or interim final rule in the Federal Register on/before the deadline that explicitly tightens (not loosens) controls on AI/data-center-class chips, by threshold reduction and/or additional country restrictions. Policy speeches without a published rule do not count.",
+      "evidence": [
+        "CNBC notes Washington pushing tighter chip export limits, increasing likelihood of BIS action: https://www.cnbc.com/2026/02/26/nvidia-nvda-stock-price-q4-earnings.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register BIS rules referencing ECCNs/AI accelerators/data center GPUs",
+        "BIS press releases and background briefings on \u2018AI diffusion\u2019 controls",
+        "Company 10-Q risk factor updates about new export restrictions"
+      ],
+      "rationale": "Export-control tightening has been iterative; current political pressure and semiconductor focus make additional rulemaking plausible by mid-2026.",
+      "id": "d290d02b-27b1-4d3f-8960-7e06ba4cb7e5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "IDC will publish data showing global smartphone shipments in 2026Q2 are down at least 10% year-over-year.",
+      "category": "tech",
+      "horizon_days": 185,
+      "deadline": "2026-08-31",
+      "confidence_pct": 58,
+      "verification_criteria": "True if IDC (press release or publicly accessible IDC write-up) states global smartphone shipments for 2026Q2 declined \u226510% YoY. Must be explicitly attributed to IDC and reference 2026Q2 vs 2025Q2.",
+      "evidence": [
+        "IDC forecast notes 2026 smartphone shipments expected to drop sharply due to memory shortages: https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/"
+      ],
+      "monitoring_signals": [
+        "IDC quarterly tracker press releases and forecast updates",
+        "OEM quarterly shipment commentary (Samsung, Apple, Xiaomi, Oppo/BBK)",
+        "Memory supply/price indicators (DRAM/NAND contract pricing, lead times)"
+      ],
+      "rationale": "A -13% full-year forecast implies at least one quarter with double-digit decline is likely, especially if shortages persist through Q2.",
+      "id": "e5d670b2-b05e-46c3-83e0-9e227c72cb99",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CoreWeave will announce a single financing transaction raising at least $5.0 billion in gross proceeds (debt and/or equity) to fund operations/capex.",
+      "category": "markets",
+      "horizon_days": 215,
+      "deadline": "2026-09-30",
+      "confidence_pct": 46,
+      "verification_criteria": "True if CoreWeave announces (press release or SEC filing) a single financing deal with stated aggregate gross proceeds \u2265$5.0B (e.g., term loan, secured notes, convertible notes, equity raise, or combined structured financing disclosed as one transaction). Multiple smaller financings do not aggregate unless explicitly one deal.",
+      "evidence": [
+        "Reporting highlights rising losses/interest costs, increasing likelihood of large external financing need: https://www.marketwatch.com/story/coreweaves-stock-drops-as-losses-swell-and-interest-expenses-climb-9a09e137"
+      ],
+      "monitoring_signals": [
+        "Company press releases/filings about term loans, secured facilities, convertibles, or equity raises",
+        "Credit-market chatter on AI infra lending and securitization structures",
+        "Capex/site announcements implying multi-billion funding requirements"
+      ],
+      "rationale": "High growth plus heavy interest burden often forces large recapitalizations; $5B is sizable but consistent with hyperscale AI infrastructure funding needs.",
+      "id": "666ecc84-ba7a-458d-9ea6-96d429e85e40",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Department of Defense will award at least one contract with total potential value (base + options) of $200 million or more for large-language-model (LLM) services/model access, where the award description explicitly references \u2018large language model\u2019 or \u2018generative AI\u2019.",
+      "category": "geopolitics",
+      "horizon_days": 307,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "True if a DoD contract award announcement (defense.gov), FPDS/SAM.gov entry, or vendor press release states a DoD award \u2265$200M (base+options) explicitly for LLM/generative AI services or model access, on/before the deadline.",
+      "evidence": [
+        "Coverage highlights unresolved tension between frontier AI labs and Pentagon procurement, but also ongoing engagement pressure: https://www.cnbc.com/2026/02/26/anthropic-pentagon-ai-amodei.html"
+      ],
+      "monitoring_signals": [
+        "DoD/DISA/CDAO solicitations mentioning LLMs or generative AI",
+        "FPDS/SAM.gov awards tagged to AI model hosting/inference/foundation models",
+        "Public vendor announcements of major DoD genAI contracts"
+      ],
+      "rationale": "Defense adoption is accelerating, but vendor governance concerns and procurement complexity make a $200M+ explicitly LLM-labeled award uncertain.",
+      "id": "1b291c2e-7449-474a-b9e5-854546ac24a1",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A U.S. federal agency will announce a funding award (grant, cooperative agreement, contract, or loan) totaling at least $300 million to MP Materials (or a named MP Materials affiliate) specifically supporting rare-earth magnet manufacturing in the U.S.",
+      "category": "energy",
+      "horizon_days": 215,
+      "deadline": "2026-09-30",
+      "confidence_pct": 44,
+      "verification_criteria": "True if DOE/DOD/other federal agency press release or award document states \u2265$300M in total funding/financing to MP Materials (or affiliate) and explicitly ties it to rare-earth permanent magnet manufacturing (not only mining/separation), on/before the deadline.",
+      "evidence": [
+        "MP Materials selected Texas for a rare-earth magnet manufacturing site amid U.S. industrial-policy push: https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html"
+      ],
+      "monitoring_signals": [
+        "DOE LPO, DPA Title III, and DoD industrial-base award announcements",
+        "MP Materials investor updates and SEC filings on project financing",
+        "State/federal incentive package disclosures tied to magnet plant capex"
+      ],
+      "rationale": "Site selection and strategic urgency raise odds of large public support; $300M is meaningful but below typical multi-year industrial packages, making it plausible.",
+      "id": "848c412e-147a-47d6-a842-457a802e2713",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

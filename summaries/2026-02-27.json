@@ -1,0 +1,113 @@
+{
+  "bullets": [
+    {
+      "text": "Netflix exits Warner Bros. Discovery bidding; Paramount/Ellison-led offer now favored, signaling accelerated U.S. media consolidation and vertical integration around streaming and news assets.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html"
+    },
+    {
+      "text": "U.S. 30-year mortgage rates fall below 6% for first time in years, potentially reviving home sales/refis and loosening a key brake on consumer activity.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.nytimes.com/2026/02/26/business/mortgage-rates-30-year.html"
+    },
+    {
+      "text": "U.S.-Iran talks cite progress but end without a deal; Congress moves toward a war-powers vote, raising escalation risk and uncertainty for oil and regional security.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/02/26/world/middleeast/iran-us-talks.html"
+    },
+    {
+      "text": "Deadly speedboat shootout in Cuba triggers diplomatic tensions; Russia warns situation is escalating, highlighting flashpoint risk near Florida and potential sanctions/energy spillovers.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/26/cuba-crisis-russia-boat-incident-florida-trump-oil.html"
+    },
+    {
+      "text": "Nvidia posts blowout results yet stock drops on guidance/expectations; retail buying spikes while Washington pushes tighter chip export limits, amplifying policy-driven semiconductor volatility.",
+      "tags": [
+        "markets",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/26/nvidia-nvda-stock-price-q4-earnings.html"
+    },
+    {
+      "text": "Anthropic refuses Pentagon pressure in AI talks, underscoring growing friction between frontier-model firms and defense procurement; governance and national-security alignment remain unresolved.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/26/anthropic-pentagon-ai-amodei.html"
+    },
+    {
+      "text": "Norway\u2019s $1T+ sovereign wealth fund uses Anthropic\u2019s Claude to screen investments for ethical issues, signaling rapid institutional adoption of AI for compliance/ESG workflows.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/26/norway-sovereign-wealth-fund-nbim-investment-ai-esg-claude.html"
+    },
+    {
+      "text": "Global smartphone shipments forecast to drop 13% in 2026 due to memory shortages; supply constraints now a macro demand shock, reshaping device OEM and component earnings.",
+      "tags": [
+        "macro",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/"
+    },
+    {
+      "text": "Dell reports record earnings, suggesting it\u2019s navigating memory shortages better than peers\u2014potentially gaining share in AI/server demand despite constrained components.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/dells-stock-soars-as-record-earnings-signal-the-company-is-managing-memory-shortages-well-41620e00"
+    },
+    {
+      "text": "Block slashes workforce by nearly half; shares jump as investors reward aggressive cost cuts, but move signals intensified competition and margin pressure in fintech/payments.",
+      "tags": [
+        "markets",
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html"
+    },
+    {
+      "text": "AI and internet firms show shakeout: CoreWeave losses/interest costs rise; C3 AI cuts 26% staff; investors increasingly penalize leveraged or unprofitable AI infrastructure plays.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-drops-as-losses-swell-and-interest-expenses-climb-9a09e137"
+    },
+    {
+      "text": "U.S. rare-earth push advances: MP Materials picks Texas for magnet manufacturing, while senators scrutinize potential conflicts in USA Rare Earth deal\u2014strategic minerals become politicized.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/26/mp-materials-selects-texas-for-rare-earth-magnet-manufacturing-site.html"
+    },
+    {
+      "text": "Climate/biodiversity warnings intensify: study finds accelerating bird declines, and Antarctica records fastest glacier collapse\u2014raising long-run risks to agriculture, insurance, and coastal infrastructure.",
+      "tags": [
+        "science",
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/02/26/climate/bird-declines.html"
+    }
+  ]
+}
