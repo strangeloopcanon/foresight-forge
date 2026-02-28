@@ -1,0 +1,223 @@
+{
+  "date": "2026-02-28",
+  "predictions": [
+    {
+      "text": "The U.S. Department of Defense will publish formal acquisition/procurement guidance that restricts the use or procurement of Anthropic models/services across DoD (e.g., class deviation, DPAP memo, or other official DoD acquisition policy), explicitly naming \u201cAnthropic.\u201d",
+      "category": "geopolitics",
+      "horizon_days": 122,
+      "deadline": "2026-06-30",
+      "confidence_pct": 57,
+      "verification_criteria": "A publicly accessible DoD/OSD/Defense Acquisition policy document (e.g., on acquisition.gov, defense.gov, or an official DoD memo repository) is published by the deadline and explicitly names \u201cAnthropic\u201d while directing restrictions (ban/suspension/heightened approval) on use or procurement.",
+      "evidence": [
+        "Trump ordered U.S. agencies to stop using Anthropic; Pentagon moving to label it a supply-chain risk. (https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)",
+        "Employee backlash indicates widening industry-government rift on military AI rules. (https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/)"
+      ],
+      "monitoring_signals": [
+        "New DoD/DPAP/DAU memos mentioning Anthropic or \u201csupply-chain risk\u201d",
+        "SAM.gov solicitations adding explicit exclusions for Anthropic",
+        "Congressional letters/hearings referencing an Anthropic DoD ban or restriction",
+        "DoD CIO zero-trust/supply-chain advisories naming Anthropic"
+      ],
+      "rationale": "Reporting already indicates an executive-driven Anthropic halt and Pentagon supply-chain labeling; formal procurement guidance is a plausible next step to operationalize restrictions.",
+      "id": "4876a2de-f589-4451-b6df-f17cf4d50f8e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OFAC will announce a new Iran-related sanctions package designating at least 15 individuals and/or entities in a single press release, explicitly tied to Iran\u2019s oil exports and/or IRGC-linked revenue generation.",
+      "category": "geopolitics",
+      "horizon_days": 92,
+      "deadline": "2026-05-31",
+      "confidence_pct": 49,
+      "verification_criteria": "OFAC issues an official sanctions announcement by the deadline that (a) is Iran-related, (b) explicitly references oil exports and/or IRGC revenue, and (c) lists \u226515 new designations in that announcement (counted from the release).",
+      "evidence": [
+        "U.S.-Iran talks ended without a deal; Trump signaled possible force; oil risk premium rose. (https://www.cnbc.com/2026/02/27/us-iran-nuclear-talks-oil-middle-east.html)",
+        "USS Gerald R. Ford deployment signals escalation in posture toward Iran. (https://www.nytimes.com/2026/02/27/us/politics/uss-ford-iran.html)"
+      ],
+      "monitoring_signals": [
+        "Treasury/OFAC 'Iran-related Designations' press-release cadence",
+        "U.S. statements about enforcing Iranian oil sanctions (shipments, intermediaries)",
+        "Reports of Iranian oil export surges or evasion networks",
+        "New SDN entries with Iran/oil/shipping front-company patterns"
+      ],
+      "rationale": "With talks failing and military signaling rising, sanctions escalation aimed at revenue and oil pathways is a common U.S. pressure lever.",
+      "id": "e5f72832-cff3-4fc2-b02c-ccb118860823",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "NYMEX WTI crude oil front-month futures will settle at or above $100.00 per barrel on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 122,
+      "deadline": "2026-06-30",
+      "confidence_pct": 29,
+      "verification_criteria": "CME/NYMEX official daily settlement for the WTI front-month contract is \u2265 $100.00/bbl on at least one date on or before the deadline.",
+      "evidence": [
+        "Oil markets priced higher Middle East strike odds after failed U.S.-Iran talks. (https://www.cnbc.com/2026/02/27/us-iran-nuclear-talks-oil-middle-east.html)",
+        "U.S. carrier deployment to the region increases perceived conflict risk. (https://www.nytimes.com/2026/02/27/us/politics/uss-ford-iran.html)"
+      ],
+      "monitoring_signals": [
+        "WTI curve backwardation steepening; rising prompt spreads",
+        "Shipping/insurance cost spikes in Strait of Hormuz region",
+        "OPEC+ emergency statements or supply disruptions",
+        "Large weekly U.S. crude inventory draws (EIA)"
+      ],
+      "rationale": "A $100 print requires a sharp risk-off supply scare; heightened Iran conflict risk makes it plausible but still sub-50%.",
+      "id": "73f489de-794d-44d9-9a70-00d60181bad3",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The U.S. 10-year Treasury constant-maturity yield (DGS10) will close at or below 3.50% on at least one business day.",
+      "category": "rates",
+      "horizon_days": 214,
+      "deadline": "2026-09-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Federal Reserve Economic Data (FRED) series DGS10 shows a value \u2264 3.50 on at least one date on or before the deadline.",
+      "evidence": [
+        "Despite hot PPI, 10-year yield fell below 4% on growth/stagflation concerns. (https://www.cnbc.com/2026/02/27/us-treasury-yields-investors-await-wholesale-inflation-reading.html)",
+        "Hot PPI complicates disinflation narrative, potentially tightening financial conditions and weighing on growth. (https://www.cnbc.com/2026/02/27/ppi-january-2026-.html)"
+      ],
+      "monitoring_signals": [
+        "Rising recession probability indicators (ISM new orders, LEI)",
+        "Equity drawdowns and flight-to-quality bids",
+        "Faster-than-expected disinflation in CPI/PCE services",
+        "FOMC guidance pivot toward growth risks"
+      ],
+      "rationale": "A move to 3.5% likely requires a growth scare or rapid disinflation; recent sub-4% move shows sensitivity to such narratives.",
+      "id": "2c63675e-f074-4328-b6e1-8a8af0bdba9c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "BEA will report negative real GDP growth (annualized) for 2026 Q2 in the advance estimate release.",
+      "category": "macro",
+      "horizon_days": 158,
+      "deadline": "2026-08-05",
+      "confidence_pct": 34,
+      "verification_criteria": "The BEA \u2018Gross Domestic Product, 2nd Quarter 2026 (Advance Estimate)\u2019 press release shows Real GDP (percent change from preceding quarter) < 0.0% at an annual rate.",
+      "evidence": [
+        "Investors priced higher stagflation risk and growth concerns even as inflation data ran hot. (https://www.cnbc.com/2026/02/27/us-treasury-yields-investors-await-wholesale-inflation-reading.html)",
+        "Medicare trust-fund shock underscores fiscal pressure backdrop, potentially weighing on confidence/policy. (https://www.marketwatch.com/story/medicare-will-run-out-of-money-12-years-earlier-than-expected-23b24c83)"
+      ],
+      "monitoring_signals": [
+        "Nowcast trackers (Atlanta Fed GDPNow, NY Fed Nowcast) turning negative",
+        "Retail sales/control group weakness and rising unemployment claims",
+        "Credit tightening in SLOOS and widening corporate spreads",
+        "Freight/ports volume softness"
+      ],
+      "rationale": "Rates rally plus hot prices points to stagflationary mix; a mild contraction in at least one quarter is plausible but not the base case.",
+      "id": "7cf012dd-5d47-4b3f-a0ff-8ea10a7a5131",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The CBOE Volatility Index (VIX) will close at or above 40.0 on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 184,
+      "deadline": "2026-08-31",
+      "confidence_pct": 35,
+      "verification_criteria": "CBOE official VIX closing value is \u2265 40.0 on at least one U.S. trading day on or before the deadline (as reported by CBOE/major market data providers).",
+      "evidence": [
+        "Markets showing stress around AI spending/debt concerns (CoreWeave plunge) and Nvidia weakness on competition fears. (https://www.cnbc.com/2026/02/27/coreweave-ceo-intrator-stock-ai-spending.html)",
+        "10-year yields falling on growth fears despite hot inflation data suggests risk of policy/earnings shock. (https://www.cnbc.com/2026/02/27/us-treasury-yields-investors-await-wholesale-inflation-reading.html)"
+      ],
+      "monitoring_signals": [
+        "High-yield spreads >500 bps and equity breadth deterioration",
+        "Large single-day moves in mega-cap tech/AI complex",
+        "Liquidity stress indicators (funding spreads, dealer gamma positioning)",
+        "Geopolitical escalation headlines (Middle East shipping/oil disruptions)"
+      ],
+      "rationale": "A VIX 40 close typically needs a sharp risk event; current cross-currents (AI leverage + growth fear + geopolitics) raise tail risk.",
+      "id": "62419734-b73a-42db-979a-7e7dcf38b00f",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "BLS will report the U.S. unemployment rate (U-3) at or above 5.0% in at least one monthly Employment Situation release.",
+      "category": "macro",
+      "horizon_days": 306,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Any BLS Employment Situation release dated on or before the deadline lists the unemployment rate (U-3) \u2265 5.0% (seasonally adjusted) in Table A-1.",
+      "evidence": [
+        "Block cut about half its workforce, highlighting accelerating tech-sector labor restructuring. (https://www.cnbc.com/2026/02/27/block-mass-layoffs.html)",
+        "Yield declines despite hot inflation suggest markets are increasingly focused on downside growth risk. (https://www.cnbc.com/2026/02/27/us-treasury-yields-investors-await-wholesale-inflation-reading.html)"
+      ],
+      "monitoring_signals": [
+        "Initial claims trend >300k; continuing claims rising",
+        "Job openings falling (JOLTS) and quits rate declining",
+        "Large-cap tech and fintech layoff announcements",
+        "Temporary help services employment contraction"
+      ],
+      "rationale": "Layoff signals and growth concerns increase risk of unemployment drifting up; 5% is a moderate recession-lite threshold.",
+      "id": "58772f43-d073-4a9c-ba46-5c40c624caae",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Stripe will publicly announce a workforce reduction affecting at least 8% of employees.",
+      "category": "tech",
+      "horizon_days": 214,
+      "deadline": "2026-09-30",
+      "confidence_pct": 32,
+      "verification_criteria": "Stripe (or its CEO) announces layoffs/reduction in force and the stated percentage is \u22658%, via an official memo/blog post, SEC filing (if applicable), or major outlet publishing the internal memo with confirmation.",
+      "evidence": [
+        "Block\u2019s mass layoffs underscore ongoing fintech/tech labor restructuring. (https://www.cnbc.com/2026/02/27/block-mass-layoffs.html)",
+        "AI competition and monetization strains have increased capital and margin pressure across the sector. (https://www.cnbc.com/2026/02/27/coreweave-ceo-intrator-stock-ai-spending.html)"
+      ],
+      "monitoring_signals": [
+        "Reports of Stripe cost-cutting, hiring freezes, or org consolidation",
+        "Deterioration in private-market funding conditions for fintech",
+        "Payment volume growth slowing in industry read-throughs",
+        "Leadership changes or reorg announcements"
+      ],
+      "rationale": "Fintech cost discipline remains common; 8% is meaningful but not extreme, making it plausible if growth slows or margins compress.",
+      "id": "e6705f2d-2627-4ddc-88b0-e59056e73fef",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Federal Trade Commission (FTC) or Department of Justice (DOJ) will publicly confirm an antitrust investigation or inquiry specifically referencing OpenAI (or the Microsoft\u2013OpenAI partnership).",
+      "category": "tech",
+      "horizon_days": 306,
+      "deadline": "2026-12-31",
+      "confidence_pct": 31,
+      "verification_criteria": "An FTC/DOJ press release, official statement, court filing, or congressional testimony explicitly states an investigation/inquiry into OpenAI or the Microsoft\u2013OpenAI partnership by name, dated on or before the deadline.",
+      "evidence": [
+        "OpenAI raised $110B at ~$730B pre-money and reported massive user scale, heightening concentration concerns. (https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/)"
+      ],
+      "monitoring_signals": [
+        "Regulator requests for information reported by OpenAI/Microsoft",
+        "Congressional letters to FTC/DOJ about AI platform dominance",
+        "New AI competition task-force announcements",
+        "Complaints or lawsuits by rivals/partners alleging foreclosure or bundling"
+      ],
+      "rationale": "Scale and capital concentration increase scrutiny odds, but agencies may prioritize other cases; hence low-to-mid probability.",
+      "id": "e6c44532-590e-4636-b135-16fffd9ecb09",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A formal ceasefire-monitoring or implementation mechanism for the Zaporizhzhia nuclear plant repair truce will be publicly announced, involving either the IAEA or a named third-party monitoring body, with a stated start date.",
+      "category": "geopolitics",
+      "horizon_days": 61,
+      "deadline": "2026-04-30",
+      "confidence_pct": 46,
+      "verification_criteria": "IAEA (or an official government/UN statement) announces a specific monitoring/implementation mechanism for the localized Zaporizhzhia repair truce, naming the monitoring body and stating a start date, published by the deadline.",
+      "evidence": [
+        "Russia and Ukraine agreed to a localized truce to repair Europe\u2019s largest nuclear plant at Zaporizhzhia. (https://www.cnbc.com/2026/02/27/russia-ukraine-war-local-ceasefire-zaporizhzhia-nuclear-power-plant.html)"
+      ],
+      "monitoring_signals": [
+        "IAEA Director General statements mentioning monitoring modalities",
+        "UN/OSCE references to a technical monitoring mission",
+        "Ukrainian/Russian defense ministry statements on corridor/security guarantees",
+        "Satellite/OSINT confirmation of repair convoys and protected zones"
+      ],
+      "rationale": "A repair truce typically needs operational monitoring to hold; IAEA involvement is a natural path, though logistics and security could delay formalization.",
+      "id": "cfb74c15-1a63-4797-a6b9-ea0be6357ab6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

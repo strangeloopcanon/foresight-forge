@@ -1,0 +1,118 @@
+{
+  "bullets": [
+    {
+      "text": "January PPI rose 0.5%; core wholesale prices +0.8% (hotter than expected). Services drove gains while goods fell, complicating disinflation narrative.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/02/27/ppi-january-2026-.html"
+    },
+    {
+      "text": "Despite hot PPI, 10-year Treasury yield fell below 4% as investors priced higher stagflation risk and growth concerns.",
+      "tags": [
+        "rates",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/02/27/us-treasury-yields-investors-await-wholesale-inflation-reading.html"
+    },
+    {
+      "text": "Trump ordered U.S. agencies to stop using Anthropic; Pentagon moving to label it a supply-chain risk, sharpening AI procurement and safety-policy conflict.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html"
+    },
+    {
+      "text": "Silicon Valley backlash grows: employees at Google and OpenAI publicly supported Anthropic, highlighting widening industry-government rift over military AI rules.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/"
+    },
+    {
+      "text": "OpenAI raised $110B at ~$730B pre-money; ChatGPT reported 900M weekly active users\u2014signaling extreme capital concentration and platform-scale AI adoption.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/"
+    },
+    {
+      "text": "AI competition and monetization strains: Nvidia weakness on competition fears; CoreWeave shares plunged on debt/spending concerns; Dell surged on AI-server demand despite memory costs.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/02/27/coreweave-ceo-intrator-stock-ai-spending.html"
+    },
+    {
+      "text": "Block cut about half its workforce, fueling debate that AI is already replacing jobs and accelerating tech-sector labor restructuring.",
+      "tags": [
+        "tech",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/27/block-mass-layoffs.html"
+    },
+    {
+      "text": "U.S.-Iran nuclear talks ended without a deal; Trump signaled possible force. Oil markets priced higher strike odds, raising geopolitical supply-risk premium.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/02/27/us-iran-nuclear-talks-oil-middle-east.html"
+    },
+    {
+      "text": "USS Gerald R. Ford heading to the Middle East as Iran tensions rise\u2014visible escalation of U.S. military posture and deterrence signaling.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/02/27/us/politics/uss-ford-iran.html"
+    },
+    {
+      "text": "Russia and Ukraine agreed to a localized truce to repair Europe\u2019s largest nuclear plant at Zaporizhzhia, reducing immediate nuclear-accident risk.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/02/27/russia-ukraine-war-local-ceasefire-zaporizhzhia-nuclear-power-plant.html"
+    },
+    {
+      "text": "Medicare trust fund projected to run out 12 years earlier than expected, intensifying U.S. fiscal sustainability pressures and future benefit/tax policy tradeoffs.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/medicare-will-run-out-of-money-12-years-earlier-than-expected-23b24c83"
+    },
+    {
+      "text": "NASA overhauled Artemis amid safety concerns and delays, effectively pushing back a 2027 moon landing and reshaping near-term U.S. lunar exploration timelines.",
+      "tags": [
+        "science",
+        "geopolitics"
+      ],
+      "link": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/"
+    },
+    {
+      "text": "Lab advance: Qt45 polymerase ribozyme can synthesize itself, strengthening hypotheses about plausible RNA-based early life and accelerating experimental origins-of-life research.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.science.org/doi/10.1126/science.adt2760"
+    },
+    {
+      "text": "PFAS exposure, common in Americans, linked to faster biological aging\u2014raising public-health risk estimates and likely increasing pressure for tighter regulation and remediation.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260226042449.htm"
+    }
+  ]
+}

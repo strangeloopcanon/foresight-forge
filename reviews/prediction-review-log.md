@@ -2028,3 +2028,14 @@ The only partial intersection is the Nvidia item: a reported ~5% drop is far sho
 
 ---
 
+
+## 2026-02-27
+
+One prediction appears to have resolved decisively today: reporting indicates Paramount has acquired (or reached a definitive sale agreement to acquire) Warner Bros. Discovery, which matches the forecast’s requirement of a publicly announced definitive merger/acquisition agreement involving Paramount and WBD.
+
+The rest of the set remains untestable based on the provided headlines. Several items are data-release dependent (MBA refi index, NAR existing home sales, IDC smartphone shipments) and simply weren’t in today’s bullet list. Policy/geo forecasts around Iran, Cuba sanctions, and BIS export controls are directionally related to today’s themes (Iran tensions; U.S. AI policy conflict) but lack the specific required evidentiary triggers (e.g., a Senate roll-call War Powers vote, an OFAC designation announcement tied to the cited incident, or a Federal Register BIS rule).
+
+Notably, the Anthropic–Pentagon confrontation increases salience for the DoD LLM-services-contract forecast, but today’s coverage reflects restriction/blacklisting dynamics rather than a qualifying ≥$200M award. This suggests heightened volatility in procurement pathways (vendor exclusion, re-competes, alternative providers) rather than immediate confirmation of that contract-based prediction.
+
+---
+

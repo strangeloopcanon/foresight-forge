@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-27",
+  "assessments": [
+    {
+      "id": "bc0f2f2d-b852-4161-9197-35f64a598aee",
+      "status": "correct",
+      "status_rationale": "Today\u2019s news includes a New York Times piece titled \u201cHow David Zaslav Pulled Off the Sale of Warner Bros. Discovery to Paramount,\u201d and CNBC coverage indicating Paramount is acquiring Warner Bros. Discovery. That implies a publicly announced definitive transaction involving Paramount and WBD, satisfying the prediction."
+    },
+    {
+      "id": "0039900d-e929-4862-85de-35f12ed6b018",
+      "status": "pending",
+      "status_rationale": "No MBA Refinance Index (or 4-week moving average) data is referenced in today\u2019s news bullets, so the condition cannot be evaluated."
+    },
+    {
+      "id": "88b47191-b332-4689-b966-56f32c84060d",
+      "status": "pending",
+      "status_rationale": "No National Association of Realtors (NAR) existing home sales (SAAR) release is included in today\u2019s news bullets."
+    },
+    {
+      "id": "26588bb2-d66b-4da4-81ca-bb3a7001482a",
+      "status": "pending",
+      "status_rationale": "While Iran-related tensions and U.S. posture are discussed in today\u2019s news, there is no mention of a U.S. Senate roll-call vote on a War Powers (or similar) resolution related to Iran."
+    },
+    {
+      "id": "8e939d53-005c-43e1-b81d-7287d7c86ca4",
+      "status": "pending",
+      "status_rationale": "No OFAC announcement of new Cuba-related sanctions tied to the referenced February 2026 incident appears in today\u2019s news bullets."
+    },
+    {
+      "id": "d290d02b-27b1-4d3f-8960-7e06ba4cb7e5",
+      "status": "pending",
+      "status_rationale": "No BIS Federal Register rulemaking tightening export controls on advanced AI chips is referenced in today\u2019s news bullets."
+    },
+    {
+      "id": "e5d670b2-b05e-46c3-83e0-9e227c72cb99",
+      "status": "pending",
+      "status_rationale": "No IDC publication or data on 2026Q2 global smartphone shipments is referenced in today\u2019s news bullets."
+    },
+    {
+      "id": "666ecc84-ba7a-458d-9ea6-96d429e85e40",
+      "status": "pending",
+      "status_rationale": "No CoreWeave announcement of a single \u2265$5.0B financing transaction is included in today\u2019s news bullets."
+    },
+    {
+      "id": "1b291c2e-7449-474a-b9e5-854546ac24a1",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news discusses a Pentagon/Anthropic standoff and an order to stop using Anthropic technology, but it does not provide evidence of a DoD contract award (\u2265$200M) explicitly for \u2018large language model\u2019/\u2018generative AI\u2019 services."
+    },
+    {
+      "id": "848c412e-147a-47d6-a842-457a802e2713",
+      "status": "pending",
+      "status_rationale": "No U.S. federal funding award to MP Materials for rare-earth magnet manufacturing (\u2265$300M) is referenced in today\u2019s news bullets."
+    }
+  ]
+}
