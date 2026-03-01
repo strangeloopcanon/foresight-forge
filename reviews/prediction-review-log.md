@@ -2039,3 +2039,12 @@ Notably, the Anthropic–Pentagon confrontation increases salience for the DoD L
 
 ---
 
+
+## 2026-02-28
+
+The dominant new development is the U.S.-Iran military escalation, which increases plausibility for several macro/market-linked forecasts (e.g., oil spikes, volatility) but does not by itself verify any of the quantitative threshold claims (WTI ≥ $100 settlement, VIX ≥ 40, or specific Treasury-yield closes). The current coverage is largely explanatory/forward-looking (market impact scenarios) rather than reporting the realized closing levels needed to resolve those predictions.
+
+The other salient cluster is U.S. defense-AI procurement news: CNBC describes Anthropic being “blacklisted”/rejected while OpenAI strikes a Pentagon deal. That is directionally consistent with the first prediction’s theme (DoD restricting Anthropic), but the forecast is narrowly framed around the publication of formal DoD acquisition/procurement guidance explicitly naming Anthropic. Without confirmation of an official policy memo/class deviation (as opposed to an operational decision, contracting choice, or informal blacklist), the appropriate status is “needs-clarification.” All other items remain pending because today’s bullets do not provide decisive evidence for or against them.
+
+---
+

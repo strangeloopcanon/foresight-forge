@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-28",
+  "assessments": [
+    {
+      "id": "4876a2de-f589-4451-b6df-f17cf4d50f8e",
+      "status": "needs-clarification",
+      "status_rationale": "Today\u2019s news (CNBC) reports Anthropic was \u201cblacklisted\u201d/rejected by the Pentagon, but the prediction requires evidence of formal DoD-wide acquisition/procurement guidance (e.g., class deviation/DPAP memo) explicitly naming \u201cAnthropic.\u201d A reported blacklist decision could be policy, but the bullet list does not clearly confirm a formal acquisition guidance document was published."
+    },
+    {
+      "id": "e5f72832-cff3-4fc2-b02c-ccb118860823",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets indicates OFAC issued a new Iran-related sanctions package designating \u226515 individuals/entities tied to oil exports or IRGC revenue in a single press release."
+    },
+    {
+      "id": "73f489de-794d-44d9-9a70-00d60181bad3",
+      "status": "pending",
+      "status_rationale": "While there is coverage of potential oil-market impacts from U.S. strikes on Iran, no bullet provides confirmation that front-month NYMEX WTI settled at or above $100 on any trading day."
+    },
+    {
+      "id": "2c63675e-f074-4328-b6e1-8a8af0bdba9c",
+      "status": "pending",
+      "status_rationale": "No bullet reports the U.S. 10-year Treasury constant-maturity yield (DGS10) closing at or below 3.50%."
+    },
+    {
+      "id": "7cf012dd-5d47-4b3f-a0ff-8ea10a7a5131",
+      "status": "pending",
+      "status_rationale": "The relevant BEA advance estimate for 2026 Q2 real GDP growth has not been referenced in today\u2019s news bullets."
+    },
+    {
+      "id": "62419734-b73a-42db-979a-7e7dcf38b00f",
+      "status": "pending",
+      "status_rationale": "No bullet confirms the VIX closed at or above 40.0 on any trading day."
+    },
+    {
+      "id": "58772f43-d073-4a9c-ba46-5c40c624caae",
+      "status": "pending",
+      "status_rationale": "No bullet references a BLS Employment Situation release showing U-3 unemployment at or above 5.0%."
+    },
+    {
+      "id": "e6705f2d-2627-4ddc-88b0-e59056e73fef",
+      "status": "pending",
+      "status_rationale": "No bullet reports a Stripe workforce reduction of at least 8%."
+    },
+    {
+      "id": "e6c44532-590e-4636-b135-16fffd9ecb09",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not show an FTC or DOJ public confirmation of an antitrust investigation or inquiry specifically referencing OpenAI or the Microsoft\u2013OpenAI partnership."
+    },
+    {
+      "id": "cfb74c15-1a63-4797-a6b9-ea0be6357ab6",
+      "status": "pending",
+      "status_rationale": "No bullet indicates a publicly announced ceasefire-monitoring/implementation mechanism for a Zaporizhzhia nuclear plant repair truce with a stated start date involving the IAEA or another named monitor."
+    }
+  ]
+}

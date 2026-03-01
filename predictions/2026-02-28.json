@@ -20,7 +20,7 @@
       ],
       "rationale": "Reporting already indicates an executive-driven Anthropic halt and Pentagon supply-chain labeling; formal procurement guidance is a plausible next step to operationalize restrictions.",
       "id": "4876a2de-f589-4451-b6df-f17cf4d50f8e",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "With talks failing and military signaling rising, sanctions escalation aimed at revenue and oil pathways is a common U.S. pressure lever.",
       "id": "e5f72832-cff3-4fc2-b02c-ccb118860823",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "A $100 print requires a sharp risk-off supply scare; heightened Iran conflict risk makes it plausible but still sub-50%.",
       "id": "73f489de-794d-44d9-9a70-00d60181bad3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "A move to 3.5% likely requires a growth scare or rapid disinflation; recent sub-4% move shows sensitivity to such narratives.",
       "id": "2c63675e-f074-4328-b6e1-8a8af0bdba9c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Rates rally plus hot prices points to stagflationary mix; a mild contraction in at least one quarter is plausible but not the base case.",
       "id": "7cf012dd-5d47-4b3f-a0ff-8ea10a7a5131",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "A VIX 40 close typically needs a sharp risk event; current cross-currents (AI leverage + growth fear + geopolitics) raise tail risk.",
       "id": "62419734-b73a-42db-979a-7e7dcf38b00f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Layoff signals and growth concerns increase risk of unemployment drifting up; 5% is a moderate recession-lite threshold.",
       "id": "58772f43-d073-4a9c-ba46-5c40c624caae",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Fintech cost discipline remains common; 8% is meaningful but not extreme, making it plausible if growth slows or margins compress.",
       "id": "e6705f2d-2627-4ddc-88b0-e59056e73fef",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -195,7 +195,7 @@
       ],
       "rationale": "Scale and capital concentration increase scrutiny odds, but agencies may prioritize other cases; hence low-to-mid probability.",
       "id": "e6c44532-590e-4636-b135-16fffd9ecb09",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -216,7 +216,7 @@
       ],
       "rationale": "A repair truce typically needs operational monitoring to hold; IAEA involvement is a natural path, though logistics and security could delay formalization.",
       "id": "cfb74c15-1a63-4797-a6b9-ea0be6357ab6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
