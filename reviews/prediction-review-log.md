@@ -2048,3 +2048,12 @@ The other salient cluster is U.S. defense-AI procurement news: CNBC describes An
 
 ---
 
+
+## 2026-03-01
+
+Today’s news strongly supports the underlying conflict premise driving several forecasts (Iran war escalation, oil price jump, heightened focus on the Strait of Hormuz). However, most of the specific, operationally verifiable triggers in the predictions (formal aviation bulletins, insurer listed-area changes, named maritime protection task force, congressional War Powers roll-call vote) are not explicitly evidenced in the headlines provided.
+
+The one item that comes close to a direct hit is the reference to “Operation Epic Fury,” but it is ambiguous from the bullet alone whether this is (a) a CENTCOM/DoD-announced maritime security operation to protect commercial shipping near Hormuz, or (b) a broader combat operation label. Clarifying the nature, announcing authority, and mission focus of that operation would be necessary to update the maritime-operation forecast. Overall, the day’s reporting increases plausibility for several outcomes but does not yet meet the verification thresholds to mark them correct.
+
+---
+

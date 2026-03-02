@@ -1,0 +1,114 @@
+{
+  "bullets": [
+    {
+      "text": "U.S.-Israel strikes on Iran raise risk of prolonged conflict and regime uncertainty, increasing geopolitical tail risks across Middle East security and alliances.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html"
+    },
+    {
+      "text": "Oil spikes on feared Iranian supply disruption; crude jumped >8% to above $72, signaling renewed inflation and growth risks for importers.",
+      "tags": [
+        "energy",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html"
+    },
+    {
+      "text": "Strait of Hormuz becomes key market chokepoint; any sustained closure could trigger $100 oil and a 1970s-style energy shock.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html"
+    },
+    {
+      "text": "Markets brace for higher volatility: Iran escalation plus a critical U.S. jobs report could shift rate expectations and risk appetite.",
+      "tags": [
+        "markets",
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/stocks-face-iran-jitters-and-a-crucial-jobs-report-in-the-week-ahead-as-ai-layoffs-loom-large-5da09c93?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Defense stocks expected to benefit from strikes; longer-term cash flows depend on sustained procurement, replenishment, and higher baseline defense budgets.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Prediction-market trading tied to Iran strikes drew insider-trading allegations; scrutiny could accelerate regulation of event contracts and crypto-based wagering venues.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/"
+    },
+    {
+      "text": "Anthropic\u2019s Defense Department talks reportedly collapsed, underscoring governance, security, and ethics frictions shaping federal AI procurement and vendor selection.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html"
+    },
+    {
+      "text": "OpenAI disclosed more details on its Pentagon agreement, signaling expanding defense-AI commercialization and intensifying competition over compliance, safety, and access.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/"
+    },
+    {
+      "text": "Anthropic\u2019s Claude topping app-store charts amid backlash against ChatGPT suggests rapid consumer switching and heightened platform risk from trust, policy, and product changes.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/anthropics-claude-tops-app-store-charts-as-backlash-builds-against-openais-chatgpt-3fdce792?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Nigeria\u2019s Dangote refinery ramps domestic processing ambitions, potentially reshaping regional fuel imports, FX pressures, and West African energy security if operationally stable.",
+      "tags": [
+        "energy",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html"
+    },
+    {
+      "text": "New estimates on climate-change economic costs strengthen the case for mitigation and adaptation spending, with implications for insurance, infrastructure, and fiscal planning.",
+      "tags": [
+        "macro",
+        "markets",
+        "science"
+      ],
+      "link": "https://feeds.feedblitz.com/~/948879302/0/marginalrevolution~New-results-on-the-economic-costs-of-climate-change.html"
+    },
+    {
+      "text": "AI mapping of Alzheimer\u2019s brains reveals chemical changes beyond amyloid plaques, potentially improving diagnostics and broadening therapeutic targets for neurodegenerative disease.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228093505.htm"
+    },
+    {
+      "text": "A faint cosmic background \u2018hum\u2019 could help resolve the Hubble-tension expansion-rate dispute, influencing cosmology models and constraints on dark energy or new physics.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/02/260228093453.htm"
+    }
+  ]
+}

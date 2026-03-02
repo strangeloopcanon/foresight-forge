@@ -19,7 +19,7 @@
       ],
       "rationale": "Conflict-zone advisories are a common near-term regulatory response when regional airspace risks rise and reroutings become widespread.",
       "id": "11efa297-a5b1-43fd-9210-606588aefab7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Extended airspace closures/reroutes often force temporary route suspensions to Gulf hubs when risk and operating costs spike.",
       "id": "c0443222-b539-4c2d-a1d1-05d013c78e23",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "A sustained escalation that increases maritime incident risk commonly leads to war-risk reclassification and expanded listed areas.",
       "id": "c88b8388-3357-4998-9dad-90e65d3cd6d9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "Large MoM gasoline CPI spikes require sharp pump-price moves; plausible under escalation but still a tail outcome.",
       "id": "ed30ae3b-dccf-488a-ae9f-ef2a9ae33a8e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "If energy becomes a prominent inflation driver, the FOMC often acknowledges it directly in statements.",
       "id": "091fa878-04d6-4eae-ae8c-cf6b42482a81",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "rationale": "High-salience strikes frequently trigger House War Powers action, even if outcomes are uncertain.",
       "id": "1aeda58f-d10e-48db-8795-5d0596228b77",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "Major VRA rulings often catalyze map changes ahead of the next election cycle, especially in closely watched states.",
       "id": "d852d179-c42b-4cc5-882f-c87653a63fef",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "UNSC emergency sessions are a common diplomatic response once cross-border fighting becomes sustained or politically salient.",
       "id": "ee1e4dad-2e06-4503-a09e-f7f48ed80ca5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "rationale": "If threat levels rise around a major chokepoint, the U.S. often formalizes protective posture via named operations/task forces.",
       "id": "e7fbc9fb-ecb8-4486-b7ce-83251089e7e2",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "30-40"
     },
     {
@@ -201,7 +201,7 @@
       ],
       "rationale": "With leadership transition and volatile markets, repurchases become plausible if management views intrinsic value as materially above market price.",
       "id": "c8c4df31-fe48-41c5-bb15-bd8b8c5ccca4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

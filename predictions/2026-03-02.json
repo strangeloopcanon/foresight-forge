@@ -1,0 +1,191 @@
+{
+  "date": "2026-03-02",
+  "predictions": [
+    {
+      "text": "The U.S. CFTC will publicly announce (press release or official litigation release) an investigation, enforcement action, or settlement involving Polymarket (or its operator) that explicitly references event contracts related to the U.S.-Iran strikes/escalation.",
+      "category": "markets",
+      "horizon_days": 120,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if the CFTC posts a press release, order filing, or litigation/enforcement release naming Polymarket (or its operator) and explicitly mentioning event contracts/markets tied to the U.S.-Iran strikes/escalation. Otherwise NO at deadline.",
+      "evidence": [
+        "https://techcrunch.com/2026/03/01/polymarket-saw-529m-traded-on-bets-tied-to-bombing-of-iran/"
+      ],
+      "monitoring_signals": [
+        "CFTC press releases and enforcement/litigation docket updates",
+        "Public reporting of subpoenas/inquiries involving Polymarket tied to Iran markets",
+        "Statements from CFTC Commissioners about event-contract oversight after the Iran episode"
+      ],
+      "rationale": "High-profile trading volume tied to strikes increases political and regulatory salience; CFTC has clear jurisdictional interest in event contracts and may act to deter similar markets.",
+      "id": "fbbf760b-64c0-4313-85de-5ef0bcac0b86",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The UK Foreign, Commonwealth & Development Office (FCDO) will raise its travel advice to at least 'advise against all but essential travel' for at least one of: United Arab Emirates, Qatar, Bahrain, Kuwait, Oman, or Saudi Arabia, explicitly citing risk from Iran-related regional conflict.",
+      "category": "geopolitics",
+      "horizon_days": 29,
+      "deadline": "2026-03-31",
+      "confidence_pct": 30,
+      "verification_criteria": "Resolves YES if the FCDO Travel Advice page for any listed country shows 'advise against all but essential travel' or 'advise against all travel' and the rationale text explicitly references Iran or Iran-linked regional conflict risk. Otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html",
+        "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html"
+      ],
+      "monitoring_signals": [
+        "FCDO Travel Advice change logs/updates for Gulf states",
+        "UK government statements on regional security posture",
+        "Airline security advisories affecting UK carriers to Gulf hubs"
+      ],
+      "rationale": "If escalation persists, UK may mirror allied caution in official travel guidance for Gulf transit hubs and nearby states.",
+      "id": "c392e743-151b-4fb7-8cd8-ae9d28c0b4bb",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The International Energy Agency (IEA) will announce a coordinated emergency oil stock release totaling at least 30 million barrels (across IEA member countries), explicitly linked to Middle East disruption risk (e.g., Strait of Hormuz).",
+      "category": "energy",
+      "horizon_days": 120,
+      "deadline": "2026-06-30",
+      "confidence_pct": 28,
+      "verification_criteria": "Resolves YES if the IEA (or IEA member governments in a coordinated release announced by IEA) publicly states an emergency stock release with a total of >=30 million barrels and explicitly references Middle East disruption risk/Strait of Hormuz/Iran conflict. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
+        "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html"
+      ],
+      "monitoring_signals": [
+        "IEA press releases and emergency-response communications",
+        "G7 energy-minister statements on market stabilization",
+        "SPR draw announcements by the U.S., Japan, South Korea, and EU members"
+      ],
+      "rationale": "Coordinated releases are plausible if prices spike and policymakers prioritize inflation containment, but thresholds for action are high and depend on actual supply disruption.",
+      "id": "bcd58365-eb53-4ab8-b86c-c35cc9450d93",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "At least one major container shipping line (Maersk, MSC, CMA CGM, or Hapag-Lloyd) will publicly announce a full suspension of transits through the Strait of Hormuz lasting at least 7 consecutive calendar days.",
+      "category": "energy",
+      "horizon_days": 120,
+      "deadline": "2026-06-30",
+      "confidence_pct": 25,
+      "verification_criteria": "Resolves YES if any listed carrier issues a customer advisory/press release stating it is suspending all vessel transits through the Strait of Hormuz for >=7 consecutive days (with dates or duration stated). Rerouting/port omissions count only if Hormuz transit suspension is explicit.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html"
+      ],
+      "monitoring_signals": [
+        "Carrier customer advisories and operational updates",
+        "UKMTO/MSC-HOA incident reports indicating elevated threat levels",
+        "War-risk insurance premium spikes for Gulf voyages"
+      ],
+      "rationale": "A sustained threat environment could force temporary halts, but major carriers often continue with mitigation unless attacks materially increase.",
+      "id": "7f4bdebc-5c29-4732-9706-b29a28e39e78",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "ICE Dutch TTF natural gas front-month futures will settle above \u20ac60/MWh on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 120,
+      "deadline": "2026-06-30",
+      "confidence_pct": 27,
+      "verification_criteria": "Resolves YES if the ICE Endex Dutch TTF front-month contract\u2019s official daily settlement price exceeds 60.00 EUR/MWh on any trading day before deadline. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
+        "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html"
+      ],
+      "monitoring_signals": [
+        "TTF settlement data and implied volatility",
+        "LNG freight rates and European LNG send-out",
+        "Any disruption headlines affecting LNG flows (Qatar/UAE/Oman) or Red Sea shipping"
+      ],
+      "rationale": "Middle East risk can transmit to European gas via LNG supply/freight and risk premia, but storage and diversified sourcing may cap spikes.",
+      "id": "2fa52f6e-2a21-43b8-a66c-deb94d4c8a01",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The U.S. administration will submit to Congress a supplemental appropriations request or formal reprogramming/transfer notification totaling at least $5.0 billion that explicitly cites Iran escalation and/or Middle East force protection/munitions replenishment as a primary justification.",
+      "category": "geopolitics",
+      "horizon_days": 90,
+      "deadline": "2026-05-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if an official White House/OMB supplemental request, or DoD/Congressional notification (reprogramming/transfer) totals >=$5.0B and explicitly references Iran escalation/Middle East force protection/munitions replenishment. Publicly posted documents or official congressional notices qualify.",
+      "evidence": [
+        "https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories",
+        "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html"
+      ],
+      "monitoring_signals": [
+        "OMB/White House supplemental request releases",
+        "DoD comptroller reprogramming notifications to HASC/SASC and appropriations committees",
+        "Public statements about munitions drawdowns and replenishment needs"
+      ],
+      "rationale": "If operations persist, force protection and replenishment pressures commonly lead to formal funding actions; $5B is reachable but not assured without sustained engagement.",
+      "id": "33d522c0-ad2e-4d79-9ced-e8b7d66dcdd2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Senate Armed Services Committee (SASC) will hold a hearing where the official hearing title includes 'Iran' or 'Strait of Hormuz' and the topic is primarily U.S. military posture/maritime security in the Middle East.",
+      "category": "geopolitics",
+      "horizon_days": 120,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if SASC posts an official hearing notice with a title containing 'Iran' or 'Strait of Hormuz' and the described subject matter is primarily U.S. military posture/maritime security in the Middle East (not a passing mention). Otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html",
+        "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html"
+      ],
+      "monitoring_signals": [
+        "SASC hearing calendar updates and posted witness lists",
+        "DoD/INDOPACOM/CENTCOM testimony scheduling",
+        "Major incidents affecting shipping or U.S. bases that trigger oversight"
+      ],
+      "rationale": "Congressional oversight typically follows escalation; SASC scheduling constraints and competing priorities make the exact titled focus uncertain.",
+      "id": "860850f2-195c-44bc-8f8d-d38fd89cd403",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Department of Defense will award OpenAI (or a clearly identified OpenAI public-sector affiliate) a contract/task order with base value of at least $50 million for generative-AI/LLM services, with the award publicly visible in an official procurement source.",
+      "category": "tech",
+      "horizon_days": 304,
+      "deadline": "2026-12-31",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves YES if an official award record (e.g., SAM.gov, FPDS, DoD press release, or contract announcement) names OpenAI (or an OpenAI affiliate) as awardee and shows base value >=$50M, with description referencing generative AI/LLMs. Otherwise NO.",
+      "evidence": [
+        "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+        "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html"
+      ],
+      "monitoring_signals": [
+        "SAM.gov/FPDS award entries and DoD contract announcements",
+        "OpenAI public-sector product announcements and partner integrator deals",
+        "Budget line items and RFI/RFP language explicitly calling for LLM services"
+      ],
+      "rationale": "OpenAI\u2019s stated Pentagon relationship increases odds of sizable follow-on work, but contracting may route through primes/integrators and can fragment into smaller awards.",
+      "id": "db4d1eac-2c41-416c-a9d4-11e113ad6e7c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Dangote Refinery (Nigeria) will export at least one seaborne cargo of finished gasoline (motor spirit/PMS) to a non-Nigerian destination, confirmed by either a Nigerian government statement (e.g., NNPC/NMDPRA) or a widely used shipping-tracking/reporting outlet citing vessel/cargo details.",
+      "category": "energy",
+      "horizon_days": 304,
+      "deadline": "2026-12-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Resolves YES if there is confirmation (government statement or reputable shipping/cargo report with vessel and destination) of at least one gasoline cargo exported from Dangote Refinery to an international destination. Otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html"
+      ],
+      "monitoring_signals": [
+        "NNPC/NMDPRA statements about PMS supply and exports",
+        "Shipping-tracking reports (vessel movements from Lekki/Dangote terminal)",
+        "Regional gasoline price spreads and West African import data"
+      ],
+      "rationale": "Ramp-up increases the chance of surplus exports, but operational reliability, domestic policy, and pricing controls could keep volumes focused on local supply.",
+      "id": "715d8bfd-bf7a-48a3-a456-1bbc9bb862ef",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

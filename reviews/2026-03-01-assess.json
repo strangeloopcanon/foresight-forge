@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-01",
+  "assessments": [
+    {
+      "id": "11efa297-a5b1-43fd-9210-606588aefab7",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items focus on U.S./Israeli strikes on Iran and market impacts, but do not report EASA issuing a CZIB/SIB advising European operators to avoid or mitigate risk in Iran/Iraq airspace."
+    },
+    {
+      "id": "c0443222-b539-4c2d-a1d1-05d013c78e23",
+      "status": "pending",
+      "status_rationale": "There is travel coverage about the conflict\u2019s impact on flights, but no clear evidence that Delta, United, or American suspended all scheduled passenger flights to DXB/DOH/AUH for 7 consecutive days."
+    },
+    {
+      "id": "c88b8388-3357-4998-9dad-90e65d3cd6d9",
+      "status": "pending",
+      "status_rationale": "News highlights the Strait of Hormuz as a chokepoint, but does not state that the Lloyd\u2019s JWC added it (or adjacent Persian Gulf waters) to the Listed Areas or expanded boundaries via circular."
+    },
+    {
+      "id": "ed30ae3b-dccf-488a-ae9f-ef2a9ae33a8e",
+      "status": "pending",
+      "status_rationale": "Articles note oil price jumps after attacks, but there is no BLS CPI release evidence here showing the CPI-U gasoline index up at least +10.0% month-over-month."
+    },
+    {
+      "id": "091fa878-04d6-4eae-ae8c-cf6b42482a81",
+      "status": "pending",
+      "status_rationale": "No FOMC post-meeting statement is quoted or referenced in today\u2019s news as explicitly mentioning \u201coil prices\u201d or \u201cenergy prices\u201d as an inflation factor."
+    },
+    {
+      "id": "1aeda58f-d10e-48db-8795-5d0596228b77",
+      "status": "pending",
+      "status_rationale": "Today\u2019s political coverage discusses the Iran war and U.S. politics, but provides no evidence of a recorded House roll-call vote on a War Powers Resolution (or analogous privileged measure) regarding U.S. military action against Iran."
+    },
+    {
+      "id": "d852d179-c42b-4cc5-882f-c87653a63fef",
+      "status": "pending",
+      "status_rationale": "No item indicates a state enacted or filed in federal court a new congressional map explicitly described by major outlets as responding to a Supreme Court Voting Rights Act ruling."
+    },
+    {
+      "id": "ee1e4dad-2e06-4503-a09e-f7f48ed80ca5",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s bullets of a UN Security Council emergency meeting (with official UN record/readout) specifically on Afghanistan\u2013Pakistan cross-border hostilities."
+    },
+    {
+      "id": "e7fbc9fb-ecb8-4486-b7ce-83251089e7e2",
+      "status": "needs-clarification",
+      "status_rationale": "CNBC references \u201cOperation Epic Fury,\u201d but the provided bullet does not clarify whether it is a U.S. DoD/CENTCOM-announced named maritime security operation/task force aimed at protecting commercial shipping in/near the Strait of Hormuz (as opposed to a broader strike campaign name)."
+    },
+    {
+      "id": "c8c4df31-fe48-41c5-bb15-bd8b8c5ccca4",
+      "status": "pending",
+      "status_rationale": "Coverage references Berkshire leadership communications (shareholder letter highlights), but does not provide a quarterly 10-Q/10-K figure confirming \u2265$3.0B in share repurchases in a filing covering results through Q3 2026."
+    }
+  ]
+}
