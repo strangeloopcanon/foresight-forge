@@ -1,0 +1,97 @@
+{
+  "bullets": [
+    {
+      "text": "U.S.-Israel conflict with Iran escalates; reporting highlights decision-making dynamics and expectations of a potentially extended campaign.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html"
+    },
+    {
+      "text": "Strait of Hormuz disruption risk raises global shipping and oil-supply concerns; markets price tail risk of closure despite low base-case odds.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/02/strait-of-hormuz-crisis-us-iran-israel-war-shipping-trade-oil.html"
+    },
+    {
+      "text": "Oil rally lifts major energy equities; Chevron hits record as Middle East attacks amplify crude risk premium and inflation pass-through fears.",
+      "tags": [
+        "energy",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/chevrons-stock-surges-toward-a-record-as-u-s-israeli-attacks-on-iran-spark-an-oil-rally-c6283fd5"
+    },
+    {
+      "text": "Iran-linked strikes disrupt aviation and corporate operations: limited Dubai flights, travel stocks fall, and Amazon reports damaged facilities in UAE/Bahrain.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/02/amazon-says-drone-strikes-damaged-3-facilities-in-uae-and-bahrain.html"
+    },
+    {
+      "text": "U.S. military deaths in Iran war rise to 6, signaling intensifying operational tempo and domestic political pressure around costs and strategy.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/02/world/middleeast/us-military-death-toll-iran.html"
+    },
+    {
+      "text": "Macron pledges expanded French nuclear arsenal and protection for neighbors, reinforcing European deterrence posture amid heightened regional insecurity.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/02/world/europe/france-nuclear-arsenal-macron.html"
+    },
+    {
+      "text": "U.S. sanctions Rwanda for allegedly sabotaging a Trump-backed peace deal, underscoring use of financial tools to shape African security outcomes.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/02/world/africa/rwanda-sanctions-trump-peace-m23.html"
+    },
+    {
+      "text": "Supreme Court blocks redrawing a Republican-held NYC district, affecting 2026 House map and highlighting judiciary\u2019s central role in election geography.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-malliotakis-new-york.html"
+    },
+    {
+      "text": "Supreme Court sides with religious parents against California trans-student policy; parallel NY legal action orders hospital to resume youth gender care\u2014policy fragmentation grows.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-california-trans-students.html"
+    },
+    {
+      "text": "Apple launches lower-cost iPhone 17e and M4 iPad Air, positioning hardware for an AI push and competing on on-device compute and ecosystem lock-in.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/02/apple-iphone-17e-ipad-air-m4-chip.html"
+    },
+    {
+      "text": "Nvidia gains further support: Morgan Stanley names it top chip pick; Nvidia invests $4B into photonics suppliers, signaling bandwidth/packaging as next bottleneck.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html"
+    },
+    {
+      "text": "Public-health signals worsen: measles status meeting delayed; states restrict HIV treatment access; studies show colorectal cancer shifting younger\u2014potential long-run healthcare cost pressures.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/02/health/hiv-drugs-ryan-white.html"
+    }
+  ]
+}

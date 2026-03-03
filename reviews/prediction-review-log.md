@@ -2057,3 +2057,12 @@ The one item that comes close to a direct hit is the reference to “Operation E
 
 ---
 
+
+## 2026-03-02
+
+Today’s items substantially increase context around an ongoing U.S.-Iran conflict (including reported drone strikes impacting facilities in UAE/Bahrain and disruptions to aviation), plus market commentary on oil and broader risk. However, none of the bullets contain the specific, verifiable institutional actions your forecasts target (regulatory announcements, formal government submissions, IEA coordinated releases, named carrier suspension notices, or procurement records).
+
+As a result, all forecasts remain pending rather than resolved. The news flow does suggest rising conditional risk for several triggers (e.g., travel-advice tightening, shipping disruptions, energy-market spikes, and emergency stock releases), but the provided sources do not yet document the explicit thresholds and named actors required for a “correct” determination.
+
+---
+

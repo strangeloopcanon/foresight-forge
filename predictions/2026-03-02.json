@@ -18,7 +18,7 @@
       ],
       "rationale": "High-profile trading volume tied to strikes increases political and regulatory salience; CFTC has clear jurisdictional interest in event contracts and may act to deter similar markets.",
       "id": "fbbf760b-64c0-4313-85de-5ef0bcac0b86",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "If escalation persists, UK may mirror allied caution in official travel guidance for Gulf transit hubs and nearby states.",
       "id": "c392e743-151b-4fb7-8cd8-ae9d28c0b4bb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Coordinated releases are plausible if prices spike and policymakers prioritize inflation containment, but thresholds for action are high and depend on actual supply disruption.",
       "id": "bcd58365-eb53-4ab8-b86c-c35cc9450d93",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -80,7 +80,7 @@
       ],
       "rationale": "A sustained threat environment could force temporary halts, but major carriers often continue with mitigation unless attacks materially increase.",
       "id": "7f4bdebc-5c29-4732-9706-b29a28e39e78",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -101,7 +101,7 @@
       ],
       "rationale": "Middle East risk can transmit to European gas via LNG supply/freight and risk premia, but storage and diversified sourcing may cap spikes.",
       "id": "2fa52f6e-2a21-43b8-a66c-deb94d4c8a01",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -122,7 +122,7 @@
       ],
       "rationale": "If operations persist, force protection and replenishment pressures commonly lead to formal funding actions; $5B is reachable but not assured without sustained engagement.",
       "id": "33d522c0-ad2e-4d79-9ced-e8b7d66dcdd2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -143,7 +143,7 @@
       ],
       "rationale": "Congressional oversight typically follows escalation; SASC scheduling constraints and competing priorities make the exact titled focus uncertain.",
       "id": "860850f2-195c-44bc-8f8d-d38fd89cd403",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "OpenAI\u2019s stated Pentagon relationship increases odds of sizable follow-on work, but contracting may route through primes/integrators and can fragment into smaller awards.",
       "id": "db4d1eac-2c41-416c-a9d4-11e113ad6e7c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "Ramp-up increases the chance of surplus exports, but operational reliability, domestic policy, and pricing controls could keep volumes focused on local supply.",
       "id": "715d8bfd-bf7a-48a3-a456-1bbc9bb862ef",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

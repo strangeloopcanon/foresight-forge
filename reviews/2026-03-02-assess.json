@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-02",
+  "assessments": [
+    {
+      "id": "fbbf760b-64c0-4313-85de-5ef0bcac0b86",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets include extensive Iran-war coverage but no CFTC press/litigation release mentioning Polymarket or event contracts tied to U.S.-Iran strikes/escalation."
+    },
+    {
+      "id": "c392e743-151b-4fb7-8cd8-ae9d28c0b4bb",
+      "status": "pending",
+      "status_rationale": "No bullet references UK FCDO travel-advice changes for UAE/Qatar/Bahrain/Kuwait/Oman/Saudi Arabia, despite regional security incidents being reported."
+    },
+    {
+      "id": "bcd58365-eb53-4ab8-b86c-c35cc9450d93",
+      "status": "pending",
+      "status_rationale": "There is discussion of Hormuz risk and oil-market impacts, but no IEA announcement of a coordinated emergency stock release (\u226530 million barrels) in the provided bullets."
+    },
+    {
+      "id": "7f4bdebc-5c29-4732-9706-b29a28e39e78",
+      "status": "pending",
+      "status_rationale": "Bullets include explanatory coverage of a Strait of Hormuz crisis, but no public announcement by Maersk/MSC/CMA CGM/Hapag-Lloyd of a full 7+ day suspension of Hormuz transits."
+    },
+    {
+      "id": "2fa52f6e-2a21-43b8-a66c-deb94d4c8a01",
+      "status": "pending",
+      "status_rationale": "No bullet provides ICE Dutch TTF front-month settlement data or indicates a settlement above \u20ac60/MWh."
+    },
+    {
+      "id": "33d522c0-ad2e-4d79-9ced-e8b7d66dcdd2",
+      "status": "pending",
+      "status_rationale": "No bullet indicates the U.S. administration submitted a supplemental/reprogramming request (\u2265$5B) explicitly citing Iran escalation or Middle East force protection/munitions replenishment."
+    },
+    {
+      "id": "860850f2-195c-44bc-8f8d-d38fd89cd403",
+      "status": "pending",
+      "status_rationale": "No bullet mentions a SASC hearing with an official title including \u201cIran\u201d or \u201cStrait of Hormuz\u201d focused on Middle East posture/maritime security."
+    },
+    {
+      "id": "db4d1eac-2c41-416c-a9d4-11e113ad6e7c",
+      "status": "pending",
+      "status_rationale": "No bullet references a DoD procurement award to OpenAI (\u2265$50M) or any official procurement posting evidencing such an award."
+    },
+    {
+      "id": "715d8bfd-bf7a-48a3-a456-1bbc9bb862ef",
+      "status": "pending",
+      "status_rationale": "No bullet references Dangote Refinery exporting finished gasoline to a non-Nigerian destination, nor any corroborating government/shipping-tracking confirmation."
+    }
+  ]
+}

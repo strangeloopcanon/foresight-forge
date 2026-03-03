@@ -1,0 +1,225 @@
+{
+  "date": "2026-03-03",
+  "predictions": [
+    {
+      "text": "The EU will adopt a new Iran-related restrictive-measures package adding at least 20 listings (persons and/or entities) in a single Council Decision/Implementing Regulation.",
+      "category": "geopolitics",
+      "horizon_days": 89,
+      "deadline": "2026-05-31",
+      "confidence_pct": 55,
+      "log_odds": 0.20067069546215124,
+      "verification_criteria": "Resolves YES if, by the deadline, the EU publishes in the Official Journal (EUR-Lex) a Council Implementing Decision and/or Implementing Regulation that (a) explicitly concerns Iran-related sanctions/restrictive measures and (b) adds >=20 new listings in that single legal act (counting persons and entities added).",
+      "evidence": [
+        "Recent reporting highlights a significant U.S.\u2013Israel\u2013Iran escalation and widening economic pressure tools being used alongside military activity.",
+        "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html"
+      ],
+      "monitoring_signals": [
+        "EU Council press releases on restrictive measures related to Iran",
+        "EUR-Lex updates to Iran sanctions regimes and annexes",
+        "Statements from major EU member-state foreign ministries on Iran sanctions coordination"
+      ],
+      "rationale": "Escalation tends to trigger coordinated EU measures; threshold set high (20 listings) to make verification unambiguous.",
+      "id": "61e1108f-9aee-4b47-b1f1-e2ae9a4c22ad",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Department of Energy will announce an SPR release (sale or exchange) totaling at least 10 million barrels, explicitly citing Middle East conflict/escalation as a primary driver.",
+      "category": "energy",
+      "horizon_days": 119,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084062235,
+      "verification_criteria": "Resolves YES if DOE issues an official press release (or publishes a notice) by the deadline announcing an SPR crude-oil sale and/or exchange with total volume >=10,000,000 barrels and the announcement explicitly references Middle East conflict/escalation (e.g., Iran/Strait of Hormuz) as a key justification.",
+      "evidence": [
+        "Strait of Hormuz disruption risk is being discussed as a tail risk with potential oil-supply consequences.",
+        "https://www.cnbc.com/2026/03/02/strait-of-hormuz-crisis-us-iran-israel-war-shipping-trade-oil.html"
+      ],
+      "monitoring_signals": [
+        "DOE SPR press releases and sale/exchange announcements",
+        "White House statements linking gasoline/oil prices to Middle East disruption",
+        "Weekly EIA petroleum status reports showing SPR drawdowns paired with announced actions"
+      ],
+      "rationale": "SPR actions are plausible if retail fuel inflation becomes salient, but policy reluctance and timing uncertainty keep probability moderate.",
+      "id": "cb06d623-efa1-4bc3-8661-0289ecd48537",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Iran will detain, seize, or forcibly divert at least one non-Iranian-flagged commercial oil/product tanker in/near the Strait of Hormuz, with the detention lasting at least 24 hours.",
+      "category": "geopolitics",
+      "horizon_days": 119,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "Resolves YES if, by the deadline, a major wire/service (e.g., Reuters/AP/AFP) reports Iran\u2019s forces detain/seize/divert a non-Iranian-flagged oil/product tanker in/near the Strait of Hormuz (or adjacent Persian Gulf waters) and the report indicates the vessel was held (not merely approached/hailed) for >=24 hours, corroborated by official statements (flag state/ship operator) or maritime security advisories (e.g., UKMTO/IMB).",
+      "evidence": [
+        "Heightened conflict increases incentives for maritime coercion and raises Hormuz disruption concerns.",
+        "https://www.cnbc.com/2026/03/02/strait-of-hormuz-crisis-us-iran-israel-war-shipping-trade-oil.html"
+      ],
+      "monitoring_signals": [
+        "UKMTO incident reports and advisories",
+        "IMB piracy/incident bulletins",
+        "AIS anomalies and shipping security updates (Lloyd\u2019s List, TradeWinds, Reuters shipping)"
+      ],
+      "rationale": "Iran has precedent for tanker detentions; escalation raises risk, but not all harassment crosses the detention/seizure threshold.",
+      "id": "b61761ab-0dcd-4ca0-aa22-888352b5a41e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Dubai International Airport (DXB) or Hamad International Airport (DOH) will suspend commercial passenger departures and arrivals for at least 12 consecutive hours due to regional conflict/security risk.",
+      "category": "geopolitics",
+      "horizon_days": 58,
+      "deadline": "2026-04-30",
+      "confidence_pct": 30,
+      "log_odds": -0.8472978603872036,
+      "verification_criteria": "Resolves YES if, by the deadline, DXB or DOH has a documented continuous closure/suspension of commercial passenger operations lasting >=12 hours, confirmed by an official airport operator statement, civil aviation authority notice, or widely cited NOTAM-based reporting, with the cause attributed to conflict/security risk in the region.",
+      "evidence": [
+        "Reporting notes Iran-linked strikes affecting aviation and corporate operations in the UAE/Bahrain region.",
+        "https://www.cnbc.com/2026/03/02/amazon-says-drone-strikes-damaged-3-facilities-in-uae-and-bahrain.html"
+      ],
+      "monitoring_signals": [
+        "Dubai Airports / Qatar Civil Aviation Authority announcements",
+        "NOTAM feeds and aviation-industry reporting on airspace/airport disruptions",
+        "Carrier operational bulletins citing airport closure (not just schedule reductions)"
+      ],
+      "rationale": "Airspace risk is elevated, but Gulf hubs are resilient and may route around disruption without full closures.",
+      "id": "3b200530-bc83-4203-b239-977fc6cc6ae9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "AAA\u2019s U.S. national average retail gasoline price will exceed $4.25 per gallon on at least one day.",
+      "category": "energy",
+      "horizon_days": 119,
+      "deadline": "2026-06-30",
+      "confidence_pct": 32,
+      "log_odds": -0.7537718023763801,
+      "verification_criteria": "Resolves YES if AAA\u2019s Daily Fuel Gauge Report (national average regular gasoline) shows a value strictly greater than $4.25/gal for any date on or before the deadline.",
+      "evidence": [
+        "Oil rally and Middle East risk premium are being discussed as drivers of inflation pass-through fears.",
+        "https://www.marketwatch.com/story/chevrons-stock-surges-toward-a-record-as-u-s-israeli-attacks-on-iran-spark-an-oil-rally-c6283fd5"
+      ],
+      "monitoring_signals": [
+        "AAA daily national gasoline price series",
+        "EIA weekly retail gasoline prices and refinery utilization",
+        "WTI/Brent spot and front-month moves tied to Hormuz risk headlines"
+      ],
+      "rationale": "Retail gasoline can lag crude; threshold is high but reachable if crude stays elevated and refining margins widen.",
+      "id": "497f4705-389c-4692-8d9e-624bb38d751e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "From the 2026-03-03 close to the 2026-06-30 close, XLE will outperform SPY by at least 10 percentage points using adjusted-close total returns.",
+      "category": "markets",
+      "horizon_days": 119,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081081643,
+      "verification_criteria": "Resolves YES if (XLE adjusted close / XLE adjusted close on 2026-03-03 \u2212 1) \u2212 (SPY adjusted close / SPY adjusted close on 2026-03-03 \u2212 1) >= 0.10 using a single public data source (e.g., Nasdaq or Yahoo Finance) for adjusted closes on the specified dates.",
+      "evidence": [
+        "Oil rally has already lifted major energy equities, indicating market sensitivity to geopolitics-driven crude moves.",
+        "https://www.marketwatch.com/story/chevrons-stock-surges-toward-a-record-as-u-s-israeli-attacks-on-iran-spark-an-oil-rally-c6283fd5"
+      ],
+      "monitoring_signals": [
+        "Relative performance of XLE vs SPY during crude spikes",
+        "Earnings guidance revisions for integrated oil majors",
+        "Backwardation/contango shifts in crude curves signaling sustained vs transient risk premium"
+      ],
+      "rationale": "If conflict risk persists, energy equities can continue to lead; but mean reversion and broad-market risk-off could cap relative gains.",
+      "id": "cec61912-0664-4e42-b20e-e7adb7cd531a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Amazon will disclose charges and/or expected costs of at least $250 million attributable to the UAE/Bahrain facility damage from the reported drone strikes.",
+      "category": "markets",
+      "horizon_days": 89,
+      "deadline": "2026-05-31",
+      "confidence_pct": 20,
+      "log_odds": -1.3862943611198906,
+      "verification_criteria": "Resolves YES if an Amazon SEC filing (10-Q, 10-K, or 8-K) or official earnings materials by the deadline explicitly quantify charges/costs (impairment, repairs, business interruption, security, etc.) linked to the UAE/Bahrain drone-strike damage totaling >=$250,000,000 (single figure or sum of clearly delineated figures).",
+      "evidence": [
+        "Amazon reported damaged facilities in UAE and Bahrain from drone strikes, creating potential for material disclosed costs.",
+        "https://www.cnbc.com/2026/03/02/amazon-says-drone-strikes-damaged-3-facilities-in-uae-and-bahrain.html"
+      ],
+      "monitoring_signals": [
+        "Amazon 10-Q/8-K risk-factor updates referencing Middle East operations",
+        "Earnings-call Q&A on regional operational disruption",
+        "Insurance recovery disclosures and impairment/asset write-down line items"
+      ],
+      "rationale": "Materiality threshold is high; Amazon may absorb/insure costs without itemized disclosure.",
+      "id": "58280389-5c66-4815-8cdb-8f4f225433ac",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Nvidia will publicly launch or announce a data-center networking product/platform explicitly described by Nvidia as using \u201csilicon photonics\u201d or \u201cco-packaged optics.\u201d",
+      "category": "tech",
+      "horizon_days": 211,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "log_odds": -0.20067069546215124,
+      "verification_criteria": "Resolves YES if, by the deadline, Nvidia issues a press release, product page, or official keynote material announcing a data-center networking product/platform and the official description includes the exact phrase \u201csilicon photonics\u201d or \u201cco-packaged optics.\u201d",
+      "evidence": [
+        "Nvidia\u2019s reported investment into photonics suppliers signals strategic emphasis on optical interconnect bottlenecks.",
+        "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html"
+      ],
+      "monitoring_signals": [
+        "Nvidia GTC/keynote agendas and networking announcements",
+        "Supplier updates from major photonics firms naming Nvidia programs",
+        "Industry reporting on CPO/optical interconnect roadmaps tied to Nvidia platforms"
+      ],
+      "rationale": "Optical scaling pressures make a labeled silicon-photonics/CPO product plausible within two quarters, but naming/positioning risk remains.",
+      "id": "c87533a2-247b-4b48-9d88-304f0fd7f836",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "CDC will report at least 1,000 U.S. measles cases (confirmed + probable, cumulative) for 2026 year-to-date in its official surveillance totals.",
+      "category": "other",
+      "horizon_days": 150,
+      "deadline": "2026-07-31",
+      "confidence_pct": 25,
+      "log_odds": -1.0986122886681098,
+      "verification_criteria": "Resolves YES if CDC\u2019s official measles surveillance (weekly or periodic national totals) shows cumulative U.S. cases in calendar year 2026 reaching >=1,000 on or before the deadline (using CDC-reported confirmed/probable definitions).",
+      "evidence": [
+        "Public-health signals are described as worsening, with measles status discussions delayed amid broader health-system strain narratives.",
+        "https://www.nytimes.com/2026/03/02/health/hiv-drugs-ryan-white.html"
+      ],
+      "monitoring_signals": [
+        "CDC measles updates and weekly case totals",
+        "State health department outbreak declarations and school exposure notices",
+        "Vaccination coverage and exemption-rate changes in large states"
+      ],
+      "rationale": "1,000+ is an extreme but historically precedented U.S. level; outbreaks can accelerate, but containment often prevents reaching this threshold.",
+      "id": "41bbc489-cbca-4b86-b991-fbecd92f1378",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "New York State will enact (governor signs) a new congressional district map to be used for the 2026 U.S. House elections, replacing the prior map.",
+      "category": "geopolitics",
+      "horizon_days": 181,
+      "deadline": "2026-08-31",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084062235,
+      "verification_criteria": "Resolves YES if, by the deadline, New York enacts a law (bill signed) adopting a new congressional district plan for the 2026 elections, with the enacted text or accompanying official documentation indicating it supersedes the prior congressional map (and is not merely a proposed/unpassed plan).",
+      "evidence": [
+        "The Supreme Court action affecting a Republican-held NYC district increases the chance of renewed state-level redistricting attempts.",
+        "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-malliotakis-new-york.html"
+      ],
+      "monitoring_signals": [
+        "NY legislature redistricting bill introductions and committee movement",
+        "NY Court of Appeals / federal court rulings affecting NY maps",
+        "Statements from NY\u2019s Independent Redistricting Commission and the governor\u2019s office"
+      ],
+      "rationale": "Litigation and political incentives could spur another map attempt, but procedural constraints and court oversight lower the probability.",
+      "id": "f2076942-9955-427a-af65-4c12f3ba5391",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
