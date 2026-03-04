@@ -1,0 +1,166 @@
+{
+  "date": "2026-03-04",
+  "predictions": [
+    {
+      "text": "China\u2019s National People\u2019s Congress (NPC) will set China\u2019s 2026 official general public budget deficit target at or above 3.5% of GDP (as stated in the Government Work Report or Ministry of Finance budget report).",
+      "category": "macro",
+      "horizon_days": 11,
+      "deadline": "2026-03-15",
+      "confidence_pct": 55,
+      "verification_criteria": "Verification requires the official NPC-released Government Work Report (or official MoF budget report) explicitly stating a 2026 deficit-to-GDP target \u2265 3.5%.",
+      "evidence": [
+        "China signals mixed momentum ahead of major policy meetings; February factory activity fell more than expected, complicating growth-support decisions. https://www.cnbc.com/2026/03/04/china-factory-activity-february-pmi.html"
+      ],
+      "monitoring_signals": [
+        "Draft/preview figures leaked ahead of NPC (deficit ratio, special bond quota, local government bond quota)",
+        "MOF press briefings and Xinhua summaries of the Government Work Report",
+        "Policy-bank or central-government announced stimulus packages tied to the Work Report"
+      ],
+      "rationale": "Weak factory momentum increases odds of a more expansionary fiscal stance; a \u22653.5% deficit target is a clear, observable threshold for meaningful incremental stimulus.",
+      "id": "504c424f-90fe-4ab9-a813-1d76cf139cee",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "CISA, FBI, and NSA (or CISA + FBI) will publish a joint cyber advisory explicitly attributing malicious activity to Iran (e.g., IRGC-linked actors) targeting U.S. critical infrastructure (energy, water, transport, financial, or healthcare).",
+      "category": "geopolitics",
+      "horizon_days": 118,
+      "deadline": "2026-06-30",
+      "confidence_pct": 48,
+      "verification_criteria": "A public advisory (Cybersecurity Advisory/CSA, Joint CSA, or equivalent) on cisa.gov/fbi.gov/nsa.gov that explicitly names Iran or an Iran-linked threat actor and explicitly states targeting of U.S. critical infrastructure sectors.",
+      "evidence": [
+        "Cyber dimension intensifies: U.S. cyber agency stretched as Iran-linked threats rise. https://www.cnbc.com/2026/03/03/iran-cisa-cybersecurity-war-threat.html"
+      ],
+      "monitoring_signals": [
+        "CISA \u2018Current Activity\u2019 and \u2018Cybersecurity Advisories\u2019 pages for Iran-linked actor writeups",
+        "FBI FLASH/PSA items referencing Iran-linked actors",
+        "Significant reported intrusions affecting U.S. utilities or pipeline operators with Iran-linked indicators"
+      ],
+      "rationale": "Escalation periods often produce heightened Iran-linked cyber activity and corresponding U.S. government advisories; attribution/joint-publication is common when risk is broad.",
+      "id": "ba4512a6-d3ab-4fc7-b3a6-453c2da359ce",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one large U.S. private-credit interval fund sponsored by Blackstone, Apollo, Ares, or KKR will disclose that it fulfilled less than 90% of repurchase requests in a single repurchase period (i.e., pro-rated repurchases).",
+      "category": "markets",
+      "horizon_days": 88,
+      "deadline": "2026-05-31",
+      "confidence_pct": 35,
+      "verification_criteria": "A shareholder notice, prospectus supplement, Form N-PORT/N-CSR, website notice, or equivalent sponsor communication stating repurchase requests exceeded the offer amount and that investors received <90% of requested repurchase proceeds for that period.",
+      "evidence": [
+        "Private credit strain: record redemptions at a major fund and concerns over risky lender loans spotlight liquidity mismatch risks. https://www.cnbc.com/2026/03/03/blackstone-private-credit-fund.html"
+      ],
+      "monitoring_signals": [
+        "Monthly/quarterly repurchase offer results posted by interval funds",
+        "Rising credit spreads and secondary private-credit NAV marks",
+        "Sponsor commentary about managing liquidity, scaling repurchase caps, or elevated repurchase demand"
+      ],
+      "rationale": "If redemption pressure persists, pro-ration events are a crisp, verifiable sign of liquidity strain in semi-liquid private-credit structures.",
+      "id": "66b7953d-52e4-4bc0-800e-ddd7ecfc6de0",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Apple will issue at least one iOS/iPadOS \u2018Rapid Security Response\u2019 or out-of-band security update where Apple\u2019s security advisory states a vulnerability was \u2018exploited in the wild\u2019 and references \u2018mercenary spyware\u2019 (or equivalent language).",
+      "category": "tech",
+      "horizon_days": 149,
+      "deadline": "2026-07-31",
+      "confidence_pct": 55,
+      "verification_criteria": "An Apple Security Release note (support.apple.com) for iOS/iPadOS that (a) states \u2018exploited in the wild\u2019 (or \u2018may have been exploited\u2019) and (b) includes language explicitly referencing mercenary spyware (or closely synonymous phrasing).",
+      "evidence": [
+        "Government-grade iPhone hacking tools reportedly leaked into criminal hands, raising systemic mobile security concerns. https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/"
+      ],
+      "monitoring_signals": [
+        "Apple Security Releases page for RSR/out-of-band updates",
+        "Citizen Lab / Amnesty Security Lab reporting on iOS exploitation",
+        "Mandiant/CrowdStrike advisories linking iOS exploits to spyware ecosystems"
+      ],
+      "rationale": "Tool leakage increases the chance of real-world exploitation and emergency patching; Apple has precedent for explicitly calling out mercenary spyware in advisories.",
+      "id": "b4a72b70-fb55-4317-9715-5a1186d2fb6b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Apple will report year-over-year Mac segment revenue decline in at least one quarterly earnings release filed with the SEC (10-Q/10-K) or in its earnings press release.",
+      "category": "tech",
+      "horizon_days": 180,
+      "deadline": "2026-08-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Any Apple quarterly earnings release/10-Q/10-K before the deadline shows Mac net sales (or segment revenue) for the quarter lower than the same quarter one year prior (YoY negative).",
+      "evidence": [
+        "Apple raises MacBook prices as M5 launch and RAM shortages signal an AI-first hardware cycle; higher device costs may pressure demand. https://www.cnbc.com/2026/03/03/apple-macbook-prices-m5-ai.html"
+      ],
+      "monitoring_signals": [
+        "Channel checks on MacBook sell-through and enterprise refresh cycles",
+        "Apple supplier commentary on RAM/component constraints and pricing",
+        "Consumer sentiment/retail electronics demand indicators"
+      ],
+      "rationale": "Higher prices and constrained components can suppress unit volumes; a YoY revenue decline is a clean, audited outcome measure.",
+      "id": "34a15d88-c1e4-47e9-9d9a-dfd438ddd5c7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "U.S. core PCE inflation (price index excluding food and energy) will print at or above 3.0% year-over-year in at least one BEA Personal Income and Outlays release.",
+      "category": "macro",
+      "horizon_days": 149,
+      "deadline": "2026-07-31",
+      "confidence_pct": 40,
+      "verification_criteria": "A BEA release (tables for PCE price index) shows core PCE year-over-year change \u2265 3.0% for any month reported prior to the deadline (including revisions).",
+      "evidence": [
+        "NY Fed\u2019s Williams: tariffs are borne overwhelmingly by U.S. businesses and consumers, reinforcing inflation pass-through concerns. https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html"
+      ],
+      "monitoring_signals": [
+        "Monthly CPI/PPI core services and goods inflation prints",
+        "Updates on tariff implementation scope/timing and retailer pricing actions",
+        "Inflation expectations (UMich, NY Fed survey) and wage trackers"
+      ],
+      "rationale": "Tariff pass-through plus supply disruptions can lift core goods/services; 3.0% core PCE is a salient, high-signal threshold for policy debate.",
+      "id": "72a840a5-3b27-4eb5-98a7-c1041732fda6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The FOMC will cut the federal funds target range by at least 25 basis points (upper bound reduced by \u22650.25 percentage points) at least once.",
+      "category": "rates",
+      "horizon_days": 210,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "verification_criteria": "An FOMC policy statement shows the target range upper bound is at least 0.25 percentage points lower than it was on 2026-03-04.",
+      "evidence": [
+        "Market stress rising as investors reprice war-risk, oil, and growth impacts. https://www.marketwatch.com/story/wall-streets-fear-gauge-is-rising-as-iran-conflict-escalates-heres-what-investors-should-watch-543b5d5c?mod=mw_rss_topstories",
+        "Tariff burden falls on U.S. businesses and consumers, complicating growth/inflation tradeoffs. https://www.cnbc.com/2026/03/03/new-york-feds-williams-says-tariff-burden-falls-overwhelmingly-on-us-businesses-and-consumers.html"
+      ],
+      "monitoring_signals": [
+        "Fed speakers shifting toward downside growth risks / financial conditions tightening",
+        "Unemployment claims trend and payroll surprises",
+        "SOFR futures implied path showing \u22651 cut priced with high probability"
+      ],
+      "rationale": "If growth slows under tariff and financial-conditions pressure, at least one cut by late Q3 becomes plausible even with elevated inflation uncertainty.",
+      "id": "fc1cc11a-78cd-442c-a991-e7d63e6f5851",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Department of Energy will announce (press release or FOA) at least $200 million in new federal funding specifically for fusion energy R&D or fusion-enabling technologies (materials, plasma control, tritium handling, etc.).",
+      "category": "energy",
+      "horizon_days": 302,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "verification_criteria": "A DOE press release and/or FOA (energy.gov or grants.gov) explicitly labeled as fusion-focused that totals \u2265$200,000,000 in available funding (single program or combined within the announcement).",
+      "evidence": [
+        "Fusion commercialization may hinge on enabling technologies that improve plasma control and materials, potentially accelerating timelines. https://www.sciencedaily.com/releases/2026/03/260303050622.htm"
+      ],
+      "monitoring_signals": [
+        "DOE Office of Science and ARPA-E budget and new FOA postings",
+        "Congressional appropriations language referencing fusion lines",
+        "Major U.S. fusion demonstrations, pilot plant partnerships, or milestone achievements prompting funding expansions"
+      ],
+      "rationale": "Growing strategic interest and enabling-tech progress raise odds of a sizeable DOE funding tranche; $200M is a meaningful but attainable program scale.",
+      "id": "fd28bde2-069b-437c-85fe-f532c49ed0d6",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

@@ -20,7 +20,7 @@
       ],
       "rationale": "Escalation tends to trigger coordinated EU measures; threshold set high (20 listings) to make verification unambiguous.",
       "id": "61e1108f-9aee-4b47-b1f1-e2ae9a4c22ad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "SPR actions are plausible if retail fuel inflation becomes salient, but policy reluctance and timing uncertainty keep probability moderate.",
       "id": "cb06d623-efa1-4bc3-8661-0289ecd48537",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Iran has precedent for tanker detentions; escalation raises risk, but not all harassment crosses the detention/seizure threshold.",
       "id": "b61761ab-0dcd-4ca0-aa22-888352b5a41e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "Airspace risk is elevated, but Gulf hubs are resilient and may route around disruption without full closures.",
       "id": "3b200530-bc83-4203-b239-977fc6cc6ae9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Retail gasoline can lag crude; threshold is high but reachable if crude stays elevated and refining margins widen.",
       "id": "497f4705-389c-4692-8d9e-624bb38d751e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "If conflict risk persists, energy equities can continue to lead; but mean reversion and broad-market risk-off could cap relative gains.",
       "id": "cec61912-0664-4e42-b20e-e7adb7cd531a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Materiality threshold is high; Amazon may absorb/insure costs without itemized disclosure.",
       "id": "58280389-5c66-4815-8cdb-8f4f225433ac",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Optical scaling pressures make a labeled silicon-photonics/CPO product plausible within two quarters, but naming/positioning risk remains.",
       "id": "c87533a2-247b-4b48-9d88-304f0fd7f836",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "1,000+ is an extreme but historically precedented U.S. level; outbreaks can accelerate, but containment often prevents reaching this threshold.",
       "id": "41bbc489-cbca-4b86-b991-fbecd92f1378",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -218,7 +218,7 @@
       ],
       "rationale": "Litigation and political incentives could spur another map attempt, but procedural constraints and court oversight lower the probability.",
       "id": "f2076942-9955-427a-af65-4c12f3ba5391",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
