@@ -2075,3 +2075,12 @@ As of these headlines, all items remain pending because the forecasted triggers 
 
 ---
 
+
+## 2026-03-04
+
+None of the predictions can be conclusively resolved from today’s headlines. The China-focused items are timely given the NPC/Two Sessions, but they address the growth target and (separately) defense spending rather than the specific fiscal metric in the forecast (the official general public budget deficit target at/above 3.5% of GDP). That prediction remains “live” and may be directly testable once the Government Work Report and/or Ministry of Finance budget report details are explicitly cited.
+
+Several other topics appear adjacent but not dispositive. The Iran conflict dominates the news cycle, yet there is no corresponding U.S. government joint cyber advisory attribution to Iran in the bullets. Likewise, private-credit stress is hinted at via a Blue Owl story, but it does not match the sponsor set (Blackstone/Apollo/Ares/KKR) and does not provide the specific interval-fund repurchase shortfall disclosure criterion. Apple coverage is product-centric (MacBook Neo) and does not provide evidence for either the security-update/mercenary-spyware claim or a Mac revenue YoY decline in an earnings filing/press release.
+
+---
+

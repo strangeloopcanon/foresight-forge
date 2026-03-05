@@ -1,0 +1,45 @@
+{
+  "date": "2026-03-04",
+  "assessments": [
+    {
+      "id": "504c424f-90fe-4ab9-a813-1d76cf139cee",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage of China\u2019s NPC/Two Sessions focuses on the growth target (e.g., below 5%) and related macro signals, but the bullets provided do not cite the 2026 official general public budget deficit target or a figure (\u22653.5% of GDP) from the Government Work Report/MoF budget report."
+    },
+    {
+      "id": "ba4512a6-d3ab-4fc7-b3a6-453c2da359ce",
+      "status": "pending",
+      "status_rationale": "The news items discuss heightened U.S.-Iran conflict dynamics, but none indicate that CISA/FBI/NSA issued a joint cyber advisory explicitly attributing critical-infrastructure targeting to Iran."
+    },
+    {
+      "id": "66b7953d-52e4-4bc0-800e-ddd7ecfc6de0",
+      "status": "pending",
+      "status_rationale": "A MarketWatch item references a \u2018Blue Owl\u2019 private-credit stumble, but the prediction is specifically about a large U.S. private-credit interval fund sponsored by Blackstone, Apollo, Ares, or KKR disclosing <90% fulfillment (pro-rated repurchases) in a single period; no such disclosure is evidenced in today\u2019s bullets."
+    },
+    {
+      "id": "b4a72b70-fb55-4317-9715-5a1186d2fb6b",
+      "status": "pending",
+      "status_rationale": "Apple-related news in the bullets concerns the MacBook Neo product announcement; there is no mention of an iOS/iPadOS Rapid Security Response or out-of-band update with \u2018exploited in the wild\u2019 plus \u2018mercenary spyware\u2019 language."
+    },
+    {
+      "id": "34a15d88-c1e4-47e9-9d9a-dfd438ddd5c7",
+      "status": "pending",
+      "status_rationale": "No earnings release/SEC filing details are provided in today\u2019s bullets indicating Apple reported a year-over-year decline in Mac segment revenue."
+    },
+    {
+      "id": "72a840a5-3b27-4eb5-98a7-c1041732fda6",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not include any BEA Personal Income and Outlays release or a core PCE year-over-year print at or above 3.0%."
+    },
+    {
+      "id": "fc1cc11a-78cd-442c-a991-e7d63e6f5851",
+      "status": "pending",
+      "status_rationale": "No bullet indicates that the FOMC has cut the federal funds target range (upper bound) by at least 25 bps."
+    },
+    {
+      "id": "fd28bde2-069b-437c-85fe-f532c49ed0d6",
+      "status": "pending",
+      "status_rationale": "While there is energy/nuclear coverage (e.g., TerraPower permit), none of the bullets show a DOE announcement/FOA of \u2265$200 million in new federal funding specifically for fusion energy R&D or fusion-enabling technologies."
+    }
+  ]
+}

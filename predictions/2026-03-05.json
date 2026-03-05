@@ -1,0 +1,194 @@
+{
+  "date": "2026-03-05",
+  "predictions": [
+    {
+      "text": "The U.S. administration will roll back the new \u201cglobal 15% tariff\u201d to prior rates (or formally suspend it) for at least 75% of covered HS lines, via an official proclamation/executive action and CBP implementation notice.",
+      "category": "macro",
+      "horizon_days": 153,
+      "deadline": "2026-08-05",
+      "confidence_pct": 60,
+      "verification_criteria": "Resolves TRUE if (1) a Presidential Proclamation/Executive Order (or USTR notice) reduces/suspends the global 15% tariff, and (2) CBP issues a CSMS/official guidance implementing the lower rate for the majority (>=75%) of the tariff\u2019s covered HS lines, effective on/ before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/04/bessent-says-global-15percent-tariff-starts-this-week-move-back-to-prior-rates-within-5-months.html"
+      ],
+      "monitoring_signals": [
+        "White House proclamations/executive orders on tariffs",
+        "USTR Federal Register notices modifying tariff measures",
+        "CBP CSMS messages implementing new duty rates",
+        "Treasury/USTR press briefings on tariff rollback timing"
+      ],
+      "rationale": "Treasury signaled possible rollback within ~5 months; implementation risk remains but stated intent raises base rate.",
+      "id": "36dbf66c-df60-4c9e-a369-bee32473d3a4",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "A U.S. federal court will issue an order on the merits requiring tariff refunds tied to the new global 15% tariff regime, and the U.S. government will publicly estimate potential refund liability at $10 billion or more.",
+      "category": "macro",
+      "horizon_days": 301,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "Resolves TRUE if (1) a federal court (e.g., CIT, district court, or Federal Circuit) issues a merits decision/order requiring refunds for duties collected under the global 15% tariff, and (2) Treasury/DOJ/OMB/CBP publicly provides (court filing, budget document, or official statement) an estimated liability >=$10B by the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/04/us/politics/judge-order-trump-tariff-refunds.html"
+      ],
+      "monitoring_signals": [
+        "Court dockets (CIT/Federal Circuit) on tariff challenges",
+        "DOJ/Treasury filings referencing fiscal exposure",
+        "OMB budget updates and Treasury statements about contingent liabilities",
+        "Major outlet reporting citing government estimates"
+      ],
+      "rationale": "Refund litigation is advancing, but quantification and a merits ruling by year-end is uncertain.",
+      "id": "7173d46b-d2b7-4dfd-94f2-3b2b3d25b906",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Senate Banking Committee will hold a public confirmation hearing for Kevin Warsh to be Chair of the Federal Reserve.",
+      "category": "rates",
+      "horizon_days": 240,
+      "deadline": "2026-10-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves TRUE if the Senate Banking Committee\u2019s official calendar/archives show a hearing for \u201cKevin Warsh\u201d for \u201cChair, Board of Governors of the Federal Reserve System,\u201d held on or before the deadline (hearing may be combined with other nominees but must explicitly include him for Chair).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/04/trump-federal-reserve-kevin-warsh-senate.html"
+      ],
+      "monitoring_signals": [
+        "Senate Banking Committee hearing schedule and webcast archives",
+        "White House personnel announcements and nomination transmittals",
+        "Congress.gov nomination tracking",
+        "Press reporting on timing/whips for Fed leadership votes"
+      ],
+      "rationale": "Nomination increases odds of a hearing, but timing depends on Senate calendar and potential political delays.",
+      "id": "6c5f38b3-aee6-4029-8047-c6508d93d178",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one U.S. investor-owned utility will file a formal application with a state regulator seeking approval for new generation and/or transmission totaling at least 1.0 GW, explicitly citing AI/data-center load growth as a primary driver.",
+      "category": "energy",
+      "horizon_days": 209,
+      "deadline": "2026-09-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Resolves TRUE if a utility filing (IRP, CPCN, rate case, or resource acquisition docket) requests approval for >=1.0 GW of new generation/transmission (aggregate within the filing) and explicitly cites AI/data centers as a primary load-growth rationale, with the filing publicly posted by the regulator by the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html"
+      ],
+      "monitoring_signals": [
+        "State PUC/PSC docket postings (TX PUC, VA SCC, GA PSC, AZ ACC, etc.)",
+        "Utility IRPs and CPCN applications referencing data centers",
+        "Earnings calls noting AI/data-center-driven capex",
+        "Regional transmission organization (PJM, MISO, ERCOT) interconnection queue updates"
+      ],
+      "rationale": "AI/data-center load growth is increasingly cited in planning; 1 GW-scale filings are plausible within 6\u20137 months.",
+      "id": "0b360899-1ab8-4fca-aebf-d4f2ff5cccb3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The SEC (either Division of Examinations or OIEA) will publish a Risk Alert or Investor Alert explicitly warning about liquidity/repurchase risks in interval funds or other semi-liquid funds with large private-credit exposure.",
+      "category": "markets",
+      "horizon_days": 301,
+      "deadline": "2026-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "Resolves TRUE if sec.gov posts an official Risk Alert (Division of Examinations) or Investor Alert (OIEA) that explicitly references interval funds (or tender-offer funds) and discusses repurchase/redemption or liquidity risk in connection with private credit, posted by the deadline.",
+      "evidence": [
+        "https://www.marketwatch.com/story/why-blue-owls-private-credit-shocker-has-investors-seeing-shadows-of-bear-stearns-45506299"
+      ],
+      "monitoring_signals": [
+        "SEC Division of Examinations Risk Alerts page updates",
+        "SEC OIEA Investor Alerts page updates",
+        "SEC enforcement actions mentioning interval fund repurchase programs",
+        "Industry reports on private-credit fund liquidity events"
+      ],
+      "rationale": "Recent stress narratives raise supervisory salience; an alert is a common, faster SEC response than rulemaking.",
+      "id": "2351794b-71b6-45a6-9648-11018889320e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The PBOC will cut the reserve requirement ratio (RRR) by at least 50 basis points (cumulative) in at least one announced move.",
+      "category": "macro",
+      "horizon_days": 209,
+      "deadline": "2026-09-30",
+      "confidence_pct": 52,
+      "verification_criteria": "Resolves TRUE if the PBOC announces (press release, governor remarks, or official notice) an RRR reduction totaling >=50 bps (either one cut or multiple cuts summing to >=50 bps) with an effective date on or before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/05/china-gdp-two-sessions-.html"
+      ],
+      "monitoring_signals": [
+        "PBOC announcements and press conferences",
+        "State Council meetings signaling easing",
+        "China credit impulse and inflation/deflation prints",
+        "Onshore money-market rates and liquidity operations"
+      ],
+      "rationale": "Sub-5% growth target amid deflationary pressure makes additional broad-based easing plausible.",
+      "id": "a3500351-eaa7-4d2f-a4d7-b358c8766d1c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Broadcom will report year-over-year revenue growth of at least 30% in its \u2018Networking\u2019 segment in at least one quarterly earnings release.",
+      "category": "tech",
+      "horizon_days": 301,
+      "deadline": "2026-12-31",
+      "confidence_pct": 43,
+      "verification_criteria": "Resolves TRUE if a Broadcom earnings release/10-Q/10-K reports Networking segment revenue for a quarter that is >=30% higher than the comparable prior-year quarter, as shown in the company\u2019s segment tables, by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html"
+      ],
+      "monitoring_signals": [
+        "Broadcom quarterly earnings releases and SEC filings",
+        "Cloud capex guidance and AI cluster buildouts",
+        "Order commentary on Ethernet switching/NICs/optics",
+        "Peer networking vendor results (Arista, Cisco) as corroboration"
+      ],
+      "rationale": "AI-driven scale-up/scale-out networking demand could sustain outsized growth, but comparisons and customer timing add volatility.",
+      "id": "254c0508-6118-4796-82c4-39934e565da3",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "TerraPower will publicly announce the \u2018first nuclear-safety-related concrete\u2019 (or equivalent milestone explicitly described as safety-related concrete) has been poured for its Natrium project in Wyoming.",
+      "category": "energy",
+      "horizon_days": 301,
+      "deadline": "2026-12-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Resolves TRUE if TerraPower (or a U.S. regulator/government partner) issues a press release or official project update explicitly stating first nuclear-safety-related concrete (or synonymous language) has been poured for the Natrium project, on or before the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/04/climate/nuclear-power-terrapower-construction-permit.html"
+      ],
+      "monitoring_signals": [
+        "TerraPower press releases and project updates",
+        "DOE ARDP/Natrium program updates",
+        "Wyoming state announcements on Natrium construction milestones",
+        "NRC docket milestones tied to construction activities"
+      ],
+      "rationale": "A key permitting hurdle has cleared, but construction sequencing and supply chain/regulatory steps make year-end milestone uncertain.",
+      "id": "c9fd49ac-170e-4200-9d13-e1ada43e8006",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Meta or X (Twitter) will publish a report (e.g., CIB, threat report, platform integrity report) attributing a coordinated influence operation to Iran related to the U.S.\u2013Iran conflict, and will disclose takedown of at least 100 accounts/pages in the described network.",
+      "category": "tech",
+      "horizon_days": 209,
+      "deadline": "2026-09-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves TRUE if Meta or X publishes an official report that (1) attributes a coordinated influence/information operation to Iran, (2) explicitly ties it to the U.S.\u2013Iran conflict context, and (3) states that >=100 accounts/pages/groups were removed as part of the action, by the deadline.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html"
+      ],
+      "monitoring_signals": [
+        "Meta CIB reports and Security/Threat disclosures",
+        "X transparency and platform integrity reports",
+        "Mandiant/Recorded Future/Graphika public reporting on Iranian IO",
+        "Government briefings or indictments referencing online influence"
+      ],
+      "rationale": "Elevated information-ops activity increases chances of platform attribution and takedown reporting within months.",
+      "id": "98dee1fc-41c9-466f-a51d-4c729e710d07",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

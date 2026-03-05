@@ -18,7 +18,7 @@
       ],
       "rationale": "Weak factory momentum increases odds of a more expansionary fiscal stance; a \u22653.5% deficit target is a clear, observable threshold for meaningful incremental stimulus.",
       "id": "504c424f-90fe-4ab9-a813-1d76cf139cee",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "Escalation periods often produce heightened Iran-linked cyber activity and corresponding U.S. government advisories; attribution/joint-publication is common when risk is broad.",
       "id": "ba4512a6-d3ab-4fc7-b3a6-453c2da359ce",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "rationale": "If redemption pressure persists, pro-ration events are a crisp, verifiable sign of liquidity strain in semi-liquid private-credit structures.",
       "id": "66b7953d-52e4-4bc0-800e-ddd7ecfc6de0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "rationale": "Tool leakage increases the chance of real-world exploitation and emergency patching; Apple has precedent for explicitly calling out mercenary spyware in advisories.",
       "id": "b4a72b70-fb55-4317-9715-5a1186d2fb6b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "Higher prices and constrained components can suppress unit volumes; a YoY revenue decline is a clean, audited outcome measure.",
       "id": "34a15d88-c1e4-47e9-9d9a-dfd438ddd5c7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Tariff pass-through plus supply disruptions can lift core goods/services; 3.0% core PCE is a salient, high-signal threshold for policy debate.",
       "id": "72a840a5-3b27-4eb5-98a7-c1041732fda6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "If growth slows under tariff and financial-conditions pressure, at least one cut by late Q3 becomes plausible even with elevated inflation uncertainty.",
       "id": "fc1cc11a-78cd-442c-a991-e7d63e6f5851",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Growing strategic interest and enabling-tech progress raise odds of a sizeable DOE funding tranche; $200M is a meaningful but attainable program scale.",
       "id": "fd28bde2-069b-437c-85fe-f532c49ed0d6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

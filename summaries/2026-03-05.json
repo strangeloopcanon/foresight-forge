@@ -1,0 +1,120 @@
+{
+  "bullets": [
+    {
+      "text": "Strait of Hormuz traffic halts; oil-tanker charter rates surge, signaling higher shipping/energy risk premia and potential inflation spillovers.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.marketwatch.com/story/prices-to-charter-large-oil-tankers-soar-as-strait-of-hormuz-traffic-grinds-to-a-halt-7e5ffe66"
+    },
+    {
+      "text": "Pro-U.S. Kurdish forces prepare a possible incursion into Iran, raising escalation risk and widening regional conflict scenarios.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/04/us/politics/kurds-trump-iran-war.html"
+    },
+    {
+      "text": "Iran\u2019s state media and social platforms push a defiant, distorted war narrative, highlighting information-operations intensity and domestic-control tactics.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html"
+    },
+    {
+      "text": "China sets sub-5% growth target amid deflation and tariff headwinds, implying weaker global demand impulse and more pressure for domestic stimulus.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/05/china-gdp-two-sessions-.html"
+    },
+    {
+      "text": "China to boost defense spending ~7% (slowest since 2021), signaling sustained military priorities even as growth targets and fiscal space tighten.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/05/china-defense-spending-7-percent-2026-budget.html"
+    },
+    {
+      "text": "Global 15% tariff begins this week; Treasury signals possible rollback later, injecting near-term trade-cost inflation risk and policy uncertainty for firms.",
+      "tags": [
+        "macro",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/04/bessent-says-global-15percent-tariff-starts-this-week-move-back-to-prior-rates-within-5-months.html"
+    },
+    {
+      "text": "U.S. court takes steps toward ordering tariff refunds, potentially creating sizable fiscal liabilities and altering corporate expectations about trade-policy durability.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/03/04/us/politics/judge-order-trump-tariff-refunds.html"
+    },
+    {
+      "text": "Trump nominates Kevin Warsh for Fed chair, raising uncertainty about future monetary-policy reaction functions and market pricing of rate paths.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/04/trump-federal-reserve-kevin-warsh-senate.html"
+    },
+    {
+      "text": "White House A.I. industry pledge aims to fund power needs; grid constraints and permitting become central bottlenecks for data-center growth.",
+      "tags": [
+        "tech",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html"
+    },
+    {
+      "text": "Broadcom beats earnings; A.I. revenue doubles and custom chips stay hot, supporting continued capex cycle for accelerators and networking.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/03/04/broadcom-avgo-q1-earnings-report-2026.html"
+    },
+    {
+      "text": "Blue Owl private-credit stumble revives systemic-risk fears, spotlighting liquidity/maturity-mismatch vulnerabilities in fast-growing nonbank credit markets.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/why-blue-owls-private-credit-shocker-has-investors-seeing-shadows-of-bear-stearns-45506299"
+    },
+    {
+      "text": "NRC grants first commercial reactor construction approval in 10 years; TerraPower Wyoming project clears a key permitting hurdle for advanced nuclear deployment.",
+      "tags": [
+        "energy",
+        "science",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/04/climate/nuclear-power-terrapower-construction-permit.html"
+    },
+    {
+      "text": "Study suggests many patients maintain weight loss with fewer GLP-1 injections, potentially lowering treatment costs and improving long-term adherence.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/04/health/glp1-weight-loss-dosing.html"
+    },
+    {
+      "text": "Climate models may undercount carbon from boreal wildfires; if confirmed, remaining carbon budgets shrink and climate-risk pricing could intensify.",
+      "tags": [
+        "science",
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260303201755.htm"
+    }
+  ]
+}
