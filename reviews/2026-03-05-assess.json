@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-05",
+  "assessments": [
+    {
+      "id": "36dbf66c-df60-4c9e-a369-bee32473d3a4",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets focus on U.S. politics (DHS leadership change), the Iran conflict, and various business items; none report an official proclamation/executive action or CBP implementation notice rolling back/suspending a \u201cglobal 15% tariff\u201d across \u226575% of covered HS lines."
+    },
+    {
+      "id": "7173d46b-d2b7-4dfd-94f2-3b2b3d25b906",
+      "status": "pending",
+      "status_rationale": "No item indicates a U.S. federal court order on the merits requiring tariff refunds tied to a new global 15% tariff regime, nor any public U.S. government estimate of refund liability \u2265$10B."
+    },
+    {
+      "id": "6c5f38b3-aee6-4029-8047-c6508d93d178",
+      "status": "pending",
+      "status_rationale": "The news mentions Senate activity (including DHS-related developments and a hearing incident) but does not mention a Senate Banking Committee confirmation hearing for Kevin Warsh to be Fed Chair."
+    },
+    {
+      "id": "0b360899-1ab8-4fca-aebf-d4f2ff5cccb3",
+      "status": "pending",
+      "status_rationale": "No bullet reports a filing by a U.S. investor-owned utility with a state regulator seeking approval for \u22651.0 GW of new generation/transmission explicitly citing AI/data-center load growth as a primary driver."
+    },
+    {
+      "id": "2351794b-71b6-45a6-9648-11018889320e",
+      "status": "pending",
+      "status_rationale": "There is no mention of an SEC Risk Alert/Investor Alert warning about liquidity/repurchase risks in interval funds or other semi-liquid funds with large private-credit exposure."
+    },
+    {
+      "id": "a3500351-eaa7-4d2f-a4d7-b358c8766d1c",
+      "status": "pending",
+      "status_rationale": "None of the listed articles indicate that the PBOC has announced an RRR cut of at least 50 bps (in a single move or cumulatively)."
+    },
+    {
+      "id": "254c0508-6118-4796-82c4-39934e565da3",
+      "status": "pending",
+      "status_rationale": "A MarketWatch item notes upbeat sentiment around Broadcom\u2019s earnings, but the bullets do not provide the specific metric required to score the forecast (\u226530% YoY revenue growth in the \u2018Networking\u2019 segment in an earnings release)."
+    },
+    {
+      "id": "c9fd49ac-170e-4200-9d13-e1ada43e8006",
+      "status": "pending",
+      "status_rationale": "No bullet reports TerraPower announcing \u2018first nuclear-safety-related concrete\u2019 (or an explicitly equivalent safety-related-concrete milestone) for the Natrium project in Wyoming."
+    },
+    {
+      "id": "98dee1fc-41c9-466f-a51d-4c729e710d07",
+      "status": "pending",
+      "status_rationale": "Although there is extensive coverage of U.S.\u2013Iran conflict developments, none of the bullets indicate that Meta or X published an attribution report to Iran and disclosed takedown of \u2265100 accounts/pages tied to that operation."
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "date": "2026-03-06",
+  "predictions": [
+    {
+      "text": "A U.S. federal appeals court (or the Supreme Court) will issue an order staying (pausing) the implementation of the district-court order requiring the U.S. government to begin refunding $130B+ in tariffs, pending appeal.",
+      "category": "macro",
+      "horizon_days": 116,
+      "deadline": "2026-06-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Verified if a published docket entry/order from a federal appellate court or the Supreme Court explicitly grants a stay (in whole or in material part) of the tariff-refund implementation order, pending appeal.",
+      "evidence": [
+        "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c"
+      ],
+      "monitoring_signals": [
+        "Docket updates in the relevant appeal (motions for stay pending appeal)",
+        "DOJ press statements or filings requesting emergency relief",
+        "CBP/US Treasury implementation notices being paused or revised"
+      ],
+      "rationale": "Refund orders of this scale typically trigger emergency stay requests; higher courts often pause implementation while merits are litigated.",
+      "id": "b7f91e44-8ba2-4b57-ae42-b395bd9ff5ee",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Nvidia will disclose in an SEC filing (10-Q, 10-K, or 8-K) that newly proposed or newly implemented U.S. export controls on AI chips are expected to reduce revenue by at least $2.0 billion over one or more quarters (or equivalent quantified impact).",
+      "category": "tech",
+      "horizon_days": 178,
+      "deadline": "2026-08-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Verified if an Nvidia SEC filing includes a quantitative statement (explicit dollar amount) indicating export controls will reduce revenue by >=$2.0B (or a substantially equivalent quantified sales impact) over a stated period.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/05/nvidia-slides-on-report-that-trump-wants-to-make-us-ai-gatekeeper.html"
+      ],
+      "monitoring_signals": [
+        "BIS/Commerce export-control announcements and Federal Register notices",
+        "Nvidia earnings call transcripts and 10-Q risk-factor updates",
+        "Supplier/customer commentary on licensing delays or blocked shipments"
+      ],
+      "rationale": "If sweeping controls are pursued, Nvidia will likely quantify material impacts in risk disclosures and guidance updates.",
+      "id": "cfbf0d13-733f-4caa-995a-4598d62c5942",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Anthropic will file a lawsuit in U.S. federal court (e.g., D.D.C.) or the U.S. Court of Federal Claims challenging the Pentagon/DoD designation of Anthropic as a supply-chain risk (or seeking injunctive relief), and the complaint will be publicly accessible via court records.",
+      "category": "geopolitics",
+      "horizon_days": 55,
+      "deadline": "2026-04-30",
+      "confidence_pct": 62,
+      "verification_criteria": "Verified if a complaint is filed and publicly viewable on PACER (or Court of Federal Claims docket) naming DoD (or a DoD component) and challenging the supply-chain risk designation, with Anthropic as plaintiff.",
+      "evidence": [
+        "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/"
+      ],
+      "monitoring_signals": [
+        "Anthropic public statements about litigation timelines",
+        "DoD procurement memos or contract actions referencing restrictions",
+        "Court dockets for Anthropic filings against DoD components"
+      ],
+      "rationale": "Anthropic signaled intent to challenge; litigation is a fast, concrete path to contesting procurement-related restrictions.",
+      "id": "cefa92e0-027e-45d3-9e97-3594bcfa6e4c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "A U.S. GSIB (JPMorgan Chase, Bank of America, Citigroup, Goldman Sachs, Morgan Stanley, or Wells Fargo) will publicly announce a tokenized U.S. Treasury/security issuance, repo, or settlement pilot with at least $1.0 billion of notional value executed/settled on a blockchain-based system (permissioned or public).",
+      "category": "markets",
+      "horizon_days": 300,
+      "deadline": "2026-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Verified if the bank (or regulator) publicly states the transaction/pilot occurred and reports notional >=$1.0B involving tokenized Treasuries/securities or repo/settlement on a blockchain-based platform.",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm"
+      ],
+      "monitoring_signals": [
+        "Bank press releases and investor presentations on tokenization",
+        "DTCC/FICC, Fedwire, or industry consortium announcements",
+        "Regulatory speeches referencing major tokenized Treasury pilots"
+      ],
+      "rationale": "Clearer capital treatment can accelerate large-bank pilots moving from small proofs-of-concept to meaningful notional sizes.",
+      "id": "2ff3e634-2a53-4d3b-8246-f30c72b964ce",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one of Moody\u2019s, S&P, or Fitch will upgrade Wells Fargo\u2019s long-term issuer credit rating by at least one notch (or upgrade the outlook from Negative to Stable/Positive) citing reduced regulatory overhang or remediation progress.",
+      "category": "rates",
+      "horizon_days": 300,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Verified if Moody\u2019s/S&P/Fitch publishes a rating action upgrading Wells Fargo\u2019s long-term issuer rating by >=1 notch OR changes outlook from Negative to Stable/Positive, with rationale referencing regulatory remediation/enforcement action changes.",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm"
+      ],
+      "monitoring_signals": [
+        "Rating-agency surveillance reports and outlook statements",
+        "Wells Fargo quarterly filings describing remaining consent orders",
+        "Regulator announcements ending additional enforcement actions"
+      ],
+      "rationale": "Closure of a major enforcement action often precedes rating actions once agencies gain confidence remediation is durable.",
+      "id": "ba85c44a-076e-42fb-a7b4-7071eb60ae0a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. 2-year Treasury yield (FRED series DGS2) will close at or above 5.50% on at least one business day.",
+      "category": "rates",
+      "horizon_days": 116,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "Verified if FRED DGS2 shows a value >= 5.50 on any business day on or before the deadline (using the published daily close).",
+      "evidence": [
+        "https://www.bls.gov/news.release/archives/prod2_03052026.htm",
+        "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html"
+      ],
+      "monitoring_signals": [
+        "Monthly CPI/PCE inflation surprises (especially energy pass-through)",
+        "Oil price spikes and inflation breakevens",
+        "Fed speaker tone and market-implied terminal rate"
+      ],
+      "rationale": "Sticky labor-cost dynamics plus an oil shock can push near-term policy expectations higher, lifting front-end yields.",
+      "id": "d4db48e6-fdc4-4d06-9d64-1f5a054cb40a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "OPEC+ will convene an extraordinary (out-of-schedule) ministerial meeting and announce a production-quota increase totaling at least 1.0 million barrels/day (aggregate), with an effective date no later than 2026-08-31.",
+      "category": "energy",
+      "horizon_days": 116,
+      "deadline": "2026-06-30",
+      "confidence_pct": 36,
+      "verification_criteria": "Verified if OPEC (or OPEC+ JMMC/ministerial statements) announces an extraordinary meeting and a quota increase >=1.0 mb/d (aggregate) with stated effective date <= 2026-08-31.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/05/crude-oil-prices-today-iran-war.html"
+      ],
+      "monitoring_signals": [
+        "OPEC Secretariat announcements and meeting schedules",
+        "Saudi/UAE statements about stabilizing markets",
+        "Brent/WTI levels and physical market indicators (spreads, inventories)"
+      ],
+      "rationale": "Sustained war-risk premia and supply disruption risks raise pressure for spare-capacity holders to signal stabilization.",
+      "id": "803c2f94-26a8-46e2-8987-9744f866c1fc",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Amazon (or AWS) will publicly announce customer credits, service credits, or other remediation costs totaling at least $50 million related to the March 2026 outage, either in an earnings release/call, SEC filing, or official post-incident statement.",
+      "category": "tech",
+      "horizon_days": 86,
+      "deadline": "2026-05-31",
+      "confidence_pct": 27,
+      "verification_criteria": "Verified if Amazon discloses outage-related credits/costs >=$50M in an SEC filing, earnings materials, or an official Amazon/AWS statement that quantifies the dollar amount.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/05/amazon-online-store-suffers-outage-for-some-users.html"
+      ],
+      "monitoring_signals": [
+        "AWS Service Health Dashboard postmortems",
+        "Amazon quarterly filings and earnings Q&A",
+        "Large customer statements about credits received"
+      ],
+      "rationale": "Large-scale outages sometimes lead to material credits; quantification is more likely if costs become non-trivial.",
+      "id": "345ab36f-161c-4a65-b625-18e6d95601b7",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "S&P CoreLogic Case-Shiller U.S. National Home Price Index will show year-over-year growth at or above +6.0% in at least one monthly release (as published).",
+      "category": "macro",
+      "horizon_days": 239,
+      "deadline": "2026-10-31",
+      "confidence_pct": 34,
+      "verification_criteria": "Verified if any published Case-Shiller National Index release reports YoY percent change >= +6.0% (not seasonally adjusted as reported by S&P CoreLogic).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/05/home-sales-mortgage-rates.html"
+      ],
+      "monitoring_signals": [
+        "Inventory and new listings (relisting rates) vs demand",
+        "Mortgage rate moves and purchase application volume",
+        "Regional price acceleration in FHFA/Case-Shiller metro data"
+      ],
+      "rationale": "Low inventory and high relisting can support price re-acceleration even if affordability remains strained.",
+      "id": "cf09dc0e-5f65-4eee-bd60-6e88af23e092",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "FDA will grant at least one Breakthrough Therapy Designation (BTD) for a drug/device specifically indicated for a rare pediatric epilepsy syndrome, with the designation publicly disclosed by the sponsor.",
+      "category": "other",
+      "horizon_days": 300,
+      "deadline": "2026-12-31",
+      "confidence_pct": 29,
+      "verification_criteria": "Verified if a biopharma sponsor press release or SEC filing states FDA granted Breakthrough Therapy Designation for an indicated rare pediatric epilepsy syndrome (e.g., Dravet, Lennox-Gastaut, CDKL5, etc.) before the deadline.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/03/260304184215.htm"
+      ],
+      "monitoring_signals": [
+        "Sponsor press releases on regulatory designations",
+        "Clinical trial readouts (Phase 2/3 efficacy signals)",
+        "FDA designation announcements referenced in earnings calls"
+      ],
+      "rationale": "Strong seizure-reduction results in pediatric populations often prompt sponsors to seek expedited FDA pathways, including BTD.",
+      "id": "94e56ec3-10c5-409b-882a-e9cb9e8fed4c",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

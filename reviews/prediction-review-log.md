@@ -2084,3 +2084,12 @@ Several other topics appear adjacent but not dispositive. The Iran conflict domi
 
 ---
 
+
+## 2026-03-05
+
+None of the listed news bullets provide decisive evidence that any of the nine forecasts have resolved. The dominant themes in today’s coverage are U.S. domestic politics (notably Kristi Noem’s firing and Senate/House maneuvering) and the escalating Iran conflict (war powers, strikes, oil price impacts), which do not directly satisfy the specific triggers in the tariff, Fed nomination, SEC alert, PBOC policy, utility filing, or TerraPower milestone forecasts.
+
+The only partial overlap is the Broadcom-related item: it indicates an earnings context, but the bullet does not include the required segment-level figure (Networking YoY growth ≥30%). To score that prediction, we’d need the company’s reported segment breakdown in the relevant quarterly release. Similarly, the Iran-related influence-operation prediction remains unaddressed because no platform integrity/CIB report with a ≥100-account takedown is referenced in the bullet set.
+
+---
+

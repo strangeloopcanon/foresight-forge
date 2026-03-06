@@ -19,7 +19,7 @@
       ],
       "rationale": "Treasury signaled possible rollback within ~5 months; implementation risk remains but stated intent raises base rate.",
       "id": "36dbf66c-df60-4c9e-a369-bee32473d3a4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Refund litigation is advancing, but quantification and a merits ruling by year-end is uncertain.",
       "id": "7173d46b-d2b7-4dfd-94f2-3b2b3d25b906",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Nomination increases odds of a hearing, but timing depends on Senate calendar and potential political delays.",
       "id": "6c5f38b3-aee6-4029-8047-c6508d93d178",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "AI/data-center load growth is increasingly cited in planning; 1 GW-scale filings are plausible within 6\u20137 months.",
       "id": "0b360899-1ab8-4fca-aebf-d4f2ff5cccb3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Recent stress narratives raise supervisory salience; an alert is a common, faster SEC response than rulemaking.",
       "id": "2351794b-71b6-45a6-9648-11018889320e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Sub-5% growth target amid deflationary pressure makes additional broad-based easing plausible.",
       "id": "a3500351-eaa7-4d2f-a4d7-b358c8766d1c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "AI-driven scale-up/scale-out networking demand could sustain outsized growth, but comparisons and customer timing add volatility.",
       "id": "254c0508-6118-4796-82c4-39934e565da3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "A key permitting hurdle has cleared, but construction sequencing and supply chain/regulatory steps make year-end milestone uncertain.",
       "id": "c9fd49ac-170e-4200-9d13-e1ada43e8006",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Elevated information-ops activity increases chances of platform attribution and takedown reporting within months.",
       "id": "98dee1fc-41c9-466f-a51d-4c729e710d07",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
