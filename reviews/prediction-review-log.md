@@ -2093,3 +2093,12 @@ The only partial overlap is the Broadcom-related item: it indicates an earnings 
 
 ---
 
+
+## 2026-03-06
+
+None of the listed predictions are decisively resolved by today’s headlines. The only directly adjacent development is the tariff-refund litigation update (CBP telling a judge it can’t comply), which reinforces that the underlying refund order is active and contested, but it does not confirm the specific predicted appellate/Supreme Court action (a stay). As a result, it remains pending rather than correct/incorrect.
+
+The dominant news theme is geopolitical escalation (U.S.-Iran war) and associated oil-price shocks. That environment plausibly increases relevance for several markets-linked forecasts (Treasury yields, OPEC+ actions), but the provided bullets do not contain the specific trigger events or threshold outcomes required to score those predictions (e.g., 2-year yield ≥ 5.50% close; extraordinary OPEC+ meeting with ≥1.0M b/d quota increase). Corporate/finance and health items in the feed (Palantir/defense stocks, FDA leadership) likewise do not meet the precise filing/announcement/designation criteria embedded in the remaining forecasts.
+
+---
+

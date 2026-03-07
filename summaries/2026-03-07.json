@@ -1,0 +1,112 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. payrolls fell 92,000 in February; unemployment rate at 4.4%, signaling labor-market cooling and higher recession-risk chatter.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/empsit_03062026.htm"
+    },
+    {
+      "text": "Fed officials split: some see weaker jobs as strengthening the case for rate cuts, while others say the report complicates near-term decisions.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html"
+    },
+    {
+      "text": "Trump demands Iran\u2019s \u201cunconditional surrender,\u201d escalating stated U.S. war aims and raising risks of a broader, longer conflict.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html"
+    },
+    {
+      "text": "Iran war is disrupting oil flows and shipping; Maersk suspended key services, highlighting supply-chain and trade risks tied to Gulf transit routes.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/06/iran-war-shipping-maersk-middle-east-strait-of-hormuz-gulf.html"
+    },
+    {
+      "text": "Oil surged to $90+ and posted a record weekly gain (~35%); gasoline prices jumped, quickly feeding into consumer inflation expectations.",
+      "tags": [
+        "energy",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html"
+    },
+    {
+      "text": "Oil shock drove Treasurys\u2019 worst weekly rout in months, underscoring the inflation-versus-growth tradeoff markets are repricing.",
+      "tags": [
+        "rates",
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.marketwatch.com/story/oil-surge-sparks-treasury-markets-worst-weekly-rout-since-liberation-day-chaos-e4e34ad0"
+    },
+    {
+      "text": "Defense sector momentum: Trump says defense CEOs will sharply boost \u201cExquisite Class\u201d output; defense-tech stocks and Palantir rallied on wartime demand.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html"
+    },
+    {
+      "text": "S&P 500 index changes add four companies, including AI/data-center exposure\u2014reinforcing passive-flow support for infrastructure tied to the AI buildout.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/s-p-500-changes-are-due-out-soon-these-ai-stocks-could-join-the-index-ded9e245"
+    },
+    {
+      "text": "Tariff legal battles intensify: Customs and Border Protection says it can\u2019t comply with a refund order; Nintendo also sues the U.S. for tariff refunds.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html"
+    },
+    {
+      "text": "FDA leadership and policy uncertainty: vaccine chief to step down; recent FDA reversals are spooking biotech investors about regulatory unpredictability.",
+      "tags": [
+        "markets",
+        "science"
+      ],
+      "link": "https://www.cnbc.com/2026/03/06/fda-vaccine-head-prasad-step-down.html"
+    },
+    {
+      "text": "Anthropic\u2019s Claude turbulence: cloud giants say it remains available outside defense work; Claude helped find 22 Firefox vulnerabilities, boosting security credibility.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/"
+    },
+    {
+      "text": "NASA\u2019s DART impact measurably changed an asteroid\u2019s orbit around the sun, strengthening the scientific basis for planetary-defense deflection strategies.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2026/03/06/science/nasa-dart-asteroid-sun-orbit.html"
+    },
+    {
+      "text": "New research argues global warming has accelerated significantly, implying faster-moving climate risks for policy, insurance, infrastructure, and energy transitions.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.researchsquare.com/article/rs-6079807/v1"
+    }
+  ]
+}
