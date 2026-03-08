@@ -1,0 +1,206 @@
+{
+  "date": "2026-03-08",
+  "predictions": [
+    {
+      "text": "War-risk insurance for tankers transiting the Strait of Hormuz will be quoted at or above 2.0% of hull value for at least one voyage.",
+      "category": "energy",
+      "horizon_days": 114,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if Reuters, Lloyd\u2019s List, The Times (UK)/Splash247, or a major marine insurance broker (e.g., Marsh, Aon, Willis) reports war-risk premium/additional premium for a Hormuz transit quoted >=2.0% of hull value (or explicitly equivalent) for tanker shipping at least once by the deadline.",
+      "evidence": [
+        "U.S. announced a $20B oil-tanker reinsurance program, indicating elevated and policy-relevant maritime risk pricing.",
+        "Ongoing U.S.\u2013Israel strikes on Iran raise the probability of shipping disruptions and insurer repricing."
+      ],
+      "monitoring_signals": [
+        "Reuters/Lloyd\u2019s List reports on Gulf war-risk additional premiums",
+        "Joint War Committee market commentary and broker client notes (Marsh/Aon/Willis)",
+        "Announcements of attacks, seizures, or missile/drone incidents near Hormuz"
+      ],
+      "rationale": "Sustained conflict can rapidly reprice marine war risk; a 2% quote is high but achievable during acute escalation.",
+      "id": "483c9c5e-8d2f-43cb-8511-319908bfd6ec",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. government will increase the announced oil-tanker reinsurance backstop from $20B to at least $30B (ceiling/authorization).",
+      "category": "markets",
+      "horizon_days": 84,
+      "deadline": "2026-05-31",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves YES if an official U.S. government release/document (White House, Treasury, DOT/MARAD, FEMA, or Federal Register notice) states the reinsurance facility/backstop ceiling/authorization is increased to >=$30B by the deadline.",
+      "evidence": [
+        "CNBC reports a $20B tanker reinsurance program was announced, implying active policy management of maritime risk."
+      ],
+      "monitoring_signals": [
+        "Treasury/DOT/MARAD press releases and Federal Register notices",
+        "Statements from major shippers/insurers about capacity shortfalls",
+        "Congressional letters/hearings referencing tanker insurance capacity"
+      ],
+      "rationale": "If premiums spike or coverage gaps persist, policymakers may scale the backstop to stabilize flows.",
+      "id": "009fa1c7-08bb-4abb-99cf-3ea537b694dc",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Iran\u2019s nationwide internet disruption will substantially ease, with connectivity returning to at least 70% of baseline for 48 consecutive hours.",
+      "category": "tech",
+      "horizon_days": 53,
+      "deadline": "2026-04-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if NetBlocks (or a similarly cited major internet observatory used by Reuters/AP/major outlets) reports Iran\u2019s national connectivity reaches >=70% of pre-blackout baseline and remains at or above that level for at least 48 consecutive hours by the deadline.",
+      "evidence": [
+        "Iran\u2019s internet blackout has extended into a second week, per NetBlocks reporting cited by CNBC."
+      ],
+      "monitoring_signals": [
+        "NetBlocks time series and incident updates",
+        "Cloudflare Radar country-level connectivity signals",
+        "Reports of easing curfews/security measures or restoration of mobile networks"
+      ],
+      "rationale": "Extended blackouts are costly and difficult to sustain; partial restoration is plausible even if controls remain.",
+      "id": "10f98c28-8850-4d42-804b-8a45f3538901",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A bill to prohibit members of Congress and/or senior federal officials from profiting from prediction markets will receive a recorded committee vote in either chamber.",
+      "category": "geopolitics",
+      "horizon_days": 298,
+      "deadline": "2026-12-31",
+      "confidence_pct": 28,
+      "verification_criteria": "Resolves YES if an official committee record shows a recorded vote (roll-call or recorded voice vote) on reporting/advancing a bill that bans or materially restricts members of Congress and/or senior executive-branch officials from trading/profiting on prediction markets (including event contracts) by the deadline.",
+      "evidence": [
+        "Senators publicly launched an effort to bar federal officials from profiting via prediction markets."
+      ],
+      "monitoring_signals": [
+        "Senate/House committee calendars (Rules, Homeland Security & Governmental Affairs, Ethics, Administration)",
+        "Bill text/companion introductions and co-sponsor growth",
+        "Media coverage of prediction-market controversies involving public officials"
+      ],
+      "rationale": "There is visible sponsor attention, but floor time is scarce; committee action is the more likely near-term milestone.",
+      "id": "842029c1-d22a-4680-ace3-c9e5dd953a1f",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The CFTC will publish formal proposed guidance or a notice of proposed rulemaking addressing the permissibility of political/war-related event contracts.",
+      "category": "markets",
+      "horizon_days": 206,
+      "deadline": "2026-09-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Resolves YES if the CFTC posts on its website or in the Federal Register either (a) a notice of proposed rulemaking, (b) interpretive guidance, or (c) a policy statement explicitly addressing political event contracts and/or contracts tied to war/assassination/armed conflict (as a class) by the deadline.",
+      "evidence": [
+        "Growing political attention to prediction markets increases pressure for clearer federal derivatives policy."
+      ],
+      "monitoring_signals": [
+        "CFTC meeting agendas and open commission votes",
+        "Federal Register CFTC notices referencing event contracts",
+        "Public comment requests or staff advisories on contract certification"
+      ],
+      "rationale": "Higher market visibility and political scrutiny raise the odds of CFTC clarification beyond case-by-case enforcement.",
+      "id": "07ae6aee-e19d-4f1a-80ea-92860c4f5984",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "OFAC will designate at least 10 Iran-linked individuals and/or entities for cyber activity targeting U.S. critical infrastructure.",
+      "category": "geopolitics",
+      "horizon_days": 114,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if the U.S. Treasury (OFAC) announces sanctions adding >=10 individuals/entities in a single action (or same-day package) where the press release/fact sheet explicitly cites Iran-linked cyber activity targeting U.S. critical infrastructure (energy, water, transportation, financial, healthcare) by the deadline.",
+      "evidence": [
+        "Ongoing Iran conflict environment elevates the likelihood of cyber retaliation and U.S. attribution/sanctions responses."
+      ],
+      "monitoring_signals": [
+        "Treasury/OFAC press releases and SDN list updates",
+        "CISA/FBI attribution statements that often precede sanctions",
+        "Major incident reporting affecting U.S. infrastructure operators"
+      ],
+      "rationale": "Sanctions are a common, fast-turn policy response if cyber activity is attributed amid heightened conflict.",
+      "id": "1d6d0a48-320b-4d55-9262-2e28c9e7bc86",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. will publicly confirm deployment of an additional THAAD battery or at least two Patriot batteries to the Gulf region tied to Iran escalation.",
+      "category": "geopolitics",
+      "horizon_days": 53,
+      "deadline": "2026-04-30",
+      "confidence_pct": 48,
+      "verification_criteria": "Resolves YES if DoD/CENTCOM, or a major outlet citing DoD officials, reports deployment/positioning in the Gulf region of either (a) one additional THAAD battery or (b) >=2 Patriot batteries, explicitly linked to Iran escalation/force protection, by the deadline.",
+      "evidence": [
+        "Conflict has entered a second week with elevated regional spillover risk, increasing force-protection measures."
+      ],
+      "monitoring_signals": [
+        "DoD/CENTCOM press briefings and posture statements",
+        "Airlift tracking and host-nation announcements",
+        "Reports of ballistic missile/drone threats to bases or partners"
+      ],
+      "rationale": "Air defense deployments are a standard and visible escalation-control tool during regional conflict.",
+      "id": "2561f715-8018-40b9-8ce3-6c750572cacf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent front-month will experience a 30-day realized volatility of at least 55% annualized.",
+      "category": "energy",
+      "horizon_days": 114,
+      "deadline": "2026-06-30",
+      "confidence_pct": 36,
+      "verification_criteria": "Resolves YES if, using daily settlement prices for ICE Brent front-month, the annualized standard deviation of daily log returns over any rolling 30-trading-day window reaches or exceeds 55% by the deadline (as calculated by a major data provider or reproducibly from public settlement data).",
+      "evidence": [
+        "Second-week continuation of Iran conflict increases tail-risk repricing in oil and shipping markets."
+      ],
+      "monitoring_signals": [
+        "Daily Brent settlement moves and implied volatility (options)",
+        "News on Hormuz security incidents and export disruptions",
+        "IEA/OPEC+ emergency communications"
+      ],
+      "rationale": "Even without sustained price spikes, conflict-driven uncertainty can push realized volatility above crisis-like thresholds.",
+      "id": "dd042251-8c17-4bc9-8394-c4f895b2f9e2",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "OpenAI will publish an updated public policy document that explicitly permits some defense/national-security use cases while adding new constraints on weaponization.",
+      "category": "tech",
+      "horizon_days": 145,
+      "deadline": "2026-07-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if OpenAI publishes a dated update to its publicly accessible policies (e.g., Usage Policies, Safety/Preparedness, or similar) that (a) explicitly references defense, military, national security, or government military agencies as permitted in some form, and (b) also adds or clarifies prohibitions/constraints related to weaponization/targeting, by the deadline.",
+      "evidence": [
+        "Reported internal friction around a Pentagon deal suggests pressure to clarify public-facing defense-use boundaries."
+      ],
+      "monitoring_signals": [
+        "OpenAI policy changelogs and blog posts",
+        "DoD/OpenAI public contracting announcements and FAQs",
+        "Additional high-profile staff departures tied to defense work"
+      ],
+      "rationale": "Public scrutiny plus internal dissent often leads to policy clarifications that balance commercialization with safety constraints.",
+      "id": "358ef76b-7f81-4a48-aed1-21e769b14dd7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "China will publicly confirm at least one successful recovery (landing or splashdown retrieval) of an orbital-class reusable rocket first stage.",
+      "category": "geopolitics",
+      "horizon_days": 298,
+      "deadline": "2026-12-31",
+      "confidence_pct": 24,
+      "verification_criteria": "Resolves YES if Chinese state media (e.g., Xinhua/CCTV) or an official Chinese aerospace entity announces and provides evidence of recovery of an orbital-capable launch vehicle first stage (landing on pad/ship or recovered from sea) after a launch by the deadline.",
+      "evidence": [
+        "Reports highlight China accelerating investments in rockets amid U.S.\u2013China space-power competition."
+      ],
+      "monitoring_signals": [
+        "Chinese launch manifests and test campaign cadence",
+        "State media coverage of reusability milestones",
+        "NOTAMs and maritime hazard zones consistent with recovery operations"
+      ],
+      "rationale": "Strategic focus on launch capacity and cost could accelerate a first publicly acknowledged orbital-class recovery, but technical and disclosure uncertainty remain high.",
+      "id": "4f67db57-3582-4180-aba9-d94040fa9466",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

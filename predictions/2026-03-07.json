@@ -20,7 +20,7 @@
       ],
       "rationale": "A sustained energy shock often lifts headline CPI rapidly; the question is persistence through at least one CPI reference month by late summer.",
       "id": "0764b1eb-3a7d-4ced-87c7-c770e2beb152",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "UMich expectations are highly sensitive to gasoline price spikes; current oil move makes a >=6% print plausible within a few months.",
       "id": "c5cda6ef-67ea-4aea-a281-22f84392db57",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Energy-driven inflation risk can re-steepen breakevens; 3% is a high but reachable threshold during acute oil shocks.",
       "id": "998561fd-67e6-47a7-b465-e77d1b68307c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Brent at $110 requires either further escalation or sustained transit disruption; current price momentum makes it possible but still sub-50%.",
       "id": "7bf8b6e4-31e2-4d4f-aa7a-71130bc32de9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Conflict-driven tightening plus seasonal refinery demand can generate sharp multi-week draws, though supply response could blunt the move.",
       "id": "2071cb18-1aba-4597-a6f1-81d4fafbb869",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "rationale": "Major conflicts typically accelerate large ceiling IDIQs and replenishment buys; explicit linkage in the award text is the key uncertainty.",
       "id": "be720d7c-d65b-42ba-8ebd-13cedfac1ee4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -143,7 +143,7 @@
       ],
       "rationale": "Roll-call passage requires cross-party alignment and procedural prioritization; plausible amid escalation but historically difficult to clear the House.",
       "id": "53a865d5-68ba-4d45-8520-f536a442bea8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "Material disruptions often get quantified once carriers report quarterly results; $100M is a high bar unless cancellations persist or rerouting costs surge.",
       "id": "9c4cb00e-862a-45b7-9195-9201c85bef93",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "Wartime demand can pull forward large analytics/tasking contracts; explicit Iran/Middle East linkage in public text is the main gating factor.",
       "id": "b525aef2-69a2-45da-b91a-e3967cc96db0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -204,7 +204,7 @@
       ],
       "rationale": "Operational pressure and litigation timelines usually force CBP to publish interim instructions quickly, even if subject to change pending appeal.",
       "id": "cf5ec279-a138-4847-a299-6c2f4787fd62",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

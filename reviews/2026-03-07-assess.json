@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-07",
+  "assessments": [
+    {
+      "id": "0764b1eb-3a7d-4ced-87c7-c770e2beb152",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not include any new BLS CPI release or a reported CPI-U year-over-year figure; no evidence the threshold has been met or missed."
+    },
+    {
+      "id": "c5cda6ef-67ea-4aea-a281-22f84392db57",
+      "status": "pending",
+      "status_rationale": "No University of Michigan inflation-expectations reading (prelim or final) is cited in today\u2019s news bullets."
+    },
+    {
+      "id": "998561fd-67e6-47a7-b465-e77d1b68307c",
+      "status": "pending",
+      "status_rationale": "The news bullets do not provide a closing value for the 5-year TIPS breakeven (FRED T5YIE) on any business day."
+    },
+    {
+      "id": "7bf8b6e4-31e2-4d4f-aa7a-71130bc32de9",
+      "status": "pending",
+      "status_rationale": "While the Iran war and oil-market policy (tanker reinsurance) are discussed, there is no cited Brent front-month futures settlement price at or above $110."
+    },
+    {
+      "id": "2071cb18-1aba-4597-a6f1-81d4fafbb869",
+      "status": "pending",
+      "status_rationale": "No EIA weekly petroleum status data or 4-week inventory-change figure is included in today\u2019s bullets."
+    },
+    {
+      "id": "be720d7c-d65b-42ba-8ebd-13cedfac1ee4",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items discuss the Iran conflict broadly, but do not report a DoD contract award meeting the specified $1.5B size and explicit urgent replenishment/force-protection linkage."
+    },
+    {
+      "id": "53a865d5-68ba-4d45-8520-f536a442bea8",
+      "status": "pending",
+      "status_rationale": "No reporting in the bullets indicates House final passage (roll-call) of a War Powers-related bill/joint resolution restricting or conditioning action against Iran."
+    },
+    {
+      "id": "9c4cb00e-862a-45b7-9195-9201c85bef93",
+      "status": "pending",
+      "status_rationale": "There is no referenced SEC filing (10-Q/8-K) or airline earnings material quantifying a \u2265$100M revenue impact from Middle East route disruptions."
+    },
+    {
+      "id": "b525aef2-69a2-45da-b91a-e3967cc96db0",
+      "status": "pending",
+      "status_rationale": "No bullet identifies Palantir as awardee of a new \u2265$250M DoD/IC award explicitly tied to Middle East/Iran operational requirements or Gulf maritime security."
+    },
+    {
+      "id": "cf5ec279-a138-4847-a299-6c2f4787fd62",
+      "status": "pending",
+      "status_rationale": "No CBP CSMS message, Federal Register notice, or equivalent public operational guidance about court-ordered refunds for a new global 15% tariff is cited today."
+    }
+  ]
+}
