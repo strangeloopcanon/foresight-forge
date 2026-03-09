@@ -2111,3 +2111,12 @@ In particular, none of the macro/market indicators (CPI headline YoY, University
 
 ---
 
+
+## 2026-03-08
+
+Today’s news materially increases the salience of the Iran-war-driven forecasts: oil has surged above $110, and reporting points to active strikes and broader regional instability. That backdrop is directionally consistent with higher probabilities for outcomes tied to conflict spillovers—particularly tanker war-risk pricing, tanker backstops/reinsurance discussions, and elevated Brent volatility—because these tend to respond quickly to perceived transit risk and supply disruption.
+
+However, none of the provided bullets contain the specific confirmatory signals required to close any of the listed predictions. The remaining items are primarily policy- and regulator-action dependent (CFTC guidance, OFAC designations, U.S. air defense deployments, congressional committee activity, and OpenAI policy updates) or require specialized operational/technical confirmation (Iran connectivity metrics; China first-stage recovery). As a result, all predictions remain pending on the evidence available today, even though the conflict context suggests several may have increased likelihood relative to baseline.
+
+---
+

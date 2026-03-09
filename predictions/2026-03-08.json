@@ -19,7 +19,7 @@
       ],
       "rationale": "Sustained conflict can rapidly reprice marine war risk; a 2% quote is high but achievable during acute escalation.",
       "id": "483c9c5e-8d2f-43cb-8511-319908bfd6ec",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "If premiums spike or coverage gaps persist, policymakers may scale the backstop to stabilize flows.",
       "id": "009fa1c7-08bb-4abb-99cf-3ea537b694dc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Extended blackouts are costly and difficult to sustain; partial restoration is plausible even if controls remain.",
       "id": "10f98c28-8850-4d42-804b-8a45f3538901",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "There is visible sponsor attention, but floor time is scarce; committee action is the more likely near-term milestone.",
       "id": "842029c1-d22a-4680-ace3-c9e5dd953a1f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "Higher market visibility and political scrutiny raise the odds of CFTC clarification beyond case-by-case enforcement.",
       "id": "07ae6aee-e19d-4f1a-80ea-92860c4f5984",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Sanctions are a common, fast-turn policy response if cyber activity is attributed amid heightened conflict.",
       "id": "1d6d0a48-320b-4d55-9262-2e28c9e7bc86",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Air defense deployments are a standard and visible escalation-control tool during regional conflict.",
       "id": "2561f715-8018-40b9-8ce3-6c750572cacf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Even without sustained price spikes, conflict-driven uncertainty can push realized volatility above crisis-like thresholds.",
       "id": "dd042251-8c17-4bc9-8394-c4f895b2f9e2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Public scrutiny plus internal dissent often leads to policy clarifications that balance commercialization with safety constraints.",
       "id": "358ef76b-7f81-4a48-aed1-21e769b14dd7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "Strategic focus on launch capacity and cost could accelerate a first publicly acknowledged orbital-class recovery, but technical and disclosure uncertainty remain high.",
       "id": "4f67db57-3582-4180-aba9-d94040fa9466",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

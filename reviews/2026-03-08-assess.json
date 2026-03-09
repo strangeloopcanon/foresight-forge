@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-08",
+  "assessments": [
+    {
+      "id": "483c9c5e-8d2f-43cb-8511-319908bfd6ec",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items note major Iran-war escalation and oil prices above $110, but provide no explicit evidence of war-risk insurance quotes for Hormuz transits reaching \u22652.0% of hull value for any voyage."
+    },
+    {
+      "id": "009fa1c7-08bb-4abb-99cf-3ea537b694dc",
+      "status": "pending",
+      "status_rationale": "No news bullet references a U.S. government announcement changing an oil-tanker reinsurance backstop from $20B to \u2265$30B."
+    },
+    {
+      "id": "10f98c28-8850-4d42-804b-8a45f3538901",
+      "status": "pending",
+      "status_rationale": "The provided headlines do not report metrics on Iran\u2019s nationwide internet connectivity returning to \u226570% of baseline for 48 consecutive hours."
+    },
+    {
+      "id": "842029c1-d22a-4680-ace3-c9e5dd953a1f",
+      "status": "pending",
+      "status_rationale": "No item indicates a recorded committee vote on a bill prohibiting members of Congress/senior officials from profiting from prediction markets."
+    },
+    {
+      "id": "07ae6aee-e19d-4f1a-80ea-92860c4f5984",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s bullets that the CFTC published proposed guidance or an NPRM on political/war-related event contracts."
+    },
+    {
+      "id": "1d6d0a48-320b-4d55-9262-2e28c9e7bc86",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news list does not mention any new OFAC cyber-related designations, let alone \u226510 Iran-linked individuals/entities targeting U.S. critical infrastructure."
+    },
+    {
+      "id": "2561f715-8018-40b9-8ce3-6c750572cacf",
+      "status": "pending",
+      "status_rationale": "While the news reflects heightened Iran conflict, none of the bullets show a U.S. public confirmation of deploying an additional THAAD battery or at least two Patriot batteries to the Gulf tied to the escalation."
+    },
+    {
+      "id": "dd042251-8c17-4bc9-8394-c4f895b2f9e2",
+      "status": "pending",
+      "status_rationale": "Headlines indicate oil has surged above $110 and markets are volatile, but they do not provide the quantitative 30-day realized volatility for ICE Brent needed to confirm \u226555% annualized."
+    },
+    {
+      "id": "358ef76b-7f81-4a48-aed1-21e769b14dd7",
+      "status": "pending",
+      "status_rationale": "No item references OpenAI publishing an updated public policy document on defense/national-security use cases and weaponization constraints."
+    },
+    {
+      "id": "4f67db57-3582-4180-aba9-d94040fa9466",
+      "status": "pending",
+      "status_rationale": "No item mentions China confirming a successful recovery of an orbital-class reusable rocket first stage."
+    }
+  ]
+}

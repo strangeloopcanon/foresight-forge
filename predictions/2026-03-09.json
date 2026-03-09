@@ -1,0 +1,189 @@
+{
+  "date": "2026-03-09",
+  "predictions": [
+    {
+      "text": "Iran will issue an official, state-media-confirmed announcement recognizing Mojtaba Khamenei as Supreme Leader (or 'Leader of the Islamic Revolution'), following a formal decision by a competent body (e.g., Assembly of Experts).",
+      "category": "geopolitics",
+      "horizon_days": 52,
+      "deadline": "2026-04-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Resolves YES if IRNA/PressTV/Khamenei.ir (or an official Iranian government statement) explicitly announces/recognizes Mojtaba Khamenei as Supreme Leader/Leader, with attribution to a formal decision/selection process (e.g., Assembly of Experts). Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/08/iranian-projectiles-continue-to-strike-gulf-countries-infrastructure.html"
+      ],
+      "monitoring_signals": [
+        "IRNA/PressTV/Khamenei.ir leadership announcements",
+        "Assembly of Experts meeting reports or communiques",
+        "Statements from senior Iranian officials (President/Speaker/IRGC) recognizing the new leader"
+      ],
+      "rationale": "If succession has effectively occurred, the regime typically seeks formalization to reduce uncertainty and consolidate authority, especially amid conflict.",
+      "id": "406d85d5-e351-4ed2-bff5-fb6de0de9e3f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent front-month futures will settle at or above $150.00 per barrel on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 113,
+      "deadline": "2026-06-30",
+      "confidence_pct": 22,
+      "log_odds": -1.27,
+      "verification_criteria": "Resolves YES if ICE Brent front-month settlement price is >= 150.00 USD/bbl on any trading day by the deadline (exchange settlement). Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+        "https://www.cnbc.com/2026/03/08/jim-cramers-advice-for-investors-during-us-iran-war-oil-surge.html"
+      ],
+      "monitoring_signals": [
+        "Confirmed damage/attacks on Gulf export infrastructure",
+        "Sustained disruption to Hormuz traffic or insurance pricing spikes",
+        "IEA/OPEC emergency actions and public risk warnings"
+      ],
+      "rationale": "With oil already above $110, a further escalation or material shipping disruption could produce a tail-risk spike into the $150 area.",
+      "id": "cecf35b9-464c-4ad8-89d7-7188006c74c5",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The CBOE Volatility Index (VIX) will close at or above 40.00 on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 113,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.62,
+      "verification_criteria": "Resolves YES if VIX close (official Cboe close) is >= 40.00 on any trading day by the deadline. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/09/nikkei-225-hang-seng-index-kospi-crude-wti-brent-oil-futures-iran-war-gulf-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Equity index limit moves/circuit breakers in major markets",
+        "Large daily moves in Brent/WTI and credit spreads",
+        "Major escalation headlines involving Gulf infrastructure or U.S./Iran direct engagement"
+      ],
+      "rationale": "Oil-shock plus geopolitics can rapidly reprice risk; VIX>=40 is plausible if volatility propagates from Asia to U.S. equities.",
+      "id": "ae962df7-6e86-48c6-9d05-12ab35997f41",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "U.S. Treasury\u2019s TBAC materials will explicitly discuss stablecoins as a Treasury-market factor (holdings/flows/liquidity), with at least one dedicated slide or section titled with 'stablecoin(s)'.",
+      "category": "rates",
+      "horizon_days": 113,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if any TBAC presentation/report published on Treasury.gov by the deadline contains a dedicated slide or section header including the word 'stablecoin'/'stablecoins' and discusses their impact on Treasury bills/markets (not just passing mention). Otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/08/business/stablecoins-crypto-treasuries-risks.html"
+      ],
+      "monitoring_signals": [
+        "TBAC quarterly presentations/agendas on Treasury.gov",
+        "Treasury/OFR remarks on nonbank buyers of T-bills",
+        "Stablecoin supply changes and disclosed reserve composition shifts"
+      ],
+      "rationale": "Growing stablecoin Treasury holdings are increasingly system-relevant, making TBAC discussion likely as Treasury monitors marginal buyers and liquidity dynamics.",
+      "id": "a33b93a3-6254-4b07-930f-6b350642ef19",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "South Korea will announce a new market-stabilization measure that includes equity-purchase capacity of at least 20 trillion won (\u20a920T) in total headline size.",
+      "category": "markets",
+      "horizon_days": 52,
+      "deadline": "2026-04-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if an official statement (Ministry of Economy and Finance, FSC/FSS, Bank of Korea, Korea Exchange, or government press release) announces a stabilization fund/program with stated capacity >= \u20a920 trillion that includes stock/equity purchases (directly or via funds). Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/09/nikkei-225-hang-seng-index-kospi-crude-wti-brent-oil-futures-iran-war-gulf-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "FSC/FSS emergency market measures announcements",
+        "Korea Exchange (KRX) volatility controls and short-selling policy changes",
+        "Government statements on stabilization funds or pension fund (NPS) actions"
+      ],
+      "rationale": "A sharp risk-off episode often triggers policy backstops; Korea has precedents for sizable stabilization vehicles after market stress.",
+      "id": "f0c4d1a9-e02b-4e9a-8867-339abf1adf89",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "China will announce additional national-level fiscal stimulus totaling at least 1.0 trillion yuan (CNY 1T) in incremental deficit, special treasury bonds, or local-government special bond quota increases beyond previously announced 2026 plans.",
+      "category": "macro",
+      "horizon_days": 205,
+      "deadline": "2026-09-30",
+      "confidence_pct": 48,
+      "verification_criteria": "Resolves YES if an official announcement (State Council, Ministry of Finance, NPC Standing Committee decision, or Government Work Report addendum) specifies incremental 2026 fiscal measures >= CNY 1.0 trillion beyond the baseline 2026 plan, clearly described as additional/extra. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/09/china-february-inflation-cpi-producer-prices-stimulus-economy-ppi-factory-consumer.html"
+      ],
+      "monitoring_signals": [
+        "NPC Standing Committee budget/deficit decisions",
+        "MOF announcements on special treasury bonds and LGFV special bond quotas",
+        "Credit impulse and property-market stabilization policy escalation"
+      ],
+      "rationale": "Higher CPI and easing PPI deflation complicate monetary easing, increasing the odds of fiscal levers if growth or confidence deteriorates.",
+      "id": "95781493-51ae-49a2-b124-b809aea64c9d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. federal government will experience a funding lapse (shutdown) lasting at least 24 consecutive hours.",
+      "category": "macro",
+      "horizon_days": 236,
+      "deadline": "2026-10-31",
+      "confidence_pct": 30,
+      "verification_criteria": "Resolves YES if OMB, Treasury, or major wire services (e.g., AP/Reuters) report a federal funding lapse/shutdown lasting >=24 hours (partial or full) by the deadline. Otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/08/trump-save-america-act-voter-id.html"
+      ],
+      "monitoring_signals": [
+        "Continuing resolution negotiations and deadline countdowns",
+        "White House/Congress leadership statements conditioning funding on voter-ID legislation",
+        "CBO/OMB shutdown guidance or agency contingency plans"
+      ],
+      "rationale": "Heightened brinkmanship signals (tying funding to elections legislation) increase shutdown risk versus a typical appropriations cycle.",
+      "id": "5c919082-6887-42a2-9153-f31e6611721a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "USDOT/FHWA will launch or award a multi-state pilot using satellite-based InSAR (or equivalent satellite deformation monitoring) for bridge or critical-structure monitoring covering at least 5 U.S. states.",
+      "category": "tech",
+      "horizon_days": 297,
+      "deadline": "2026-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if USDOT/FHWA publishes a press release, NOFO award list, or official program page by the deadline describing a satellite InSAR (or explicitly 'satellite deformation') monitoring pilot for bridges/structures spanning >=5 states (named or count stated). Otherwise NO.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/03/260307213350.htm"
+      ],
+      "monitoring_signals": [
+        "FHWA NOFOs and award announcements for bridge/asset monitoring tech",
+        "State DOT procurement notices referencing InSAR or satellite deformation analytics",
+        "Vendor announcements of FHWA/statewide deployments"
+      ],
+      "rationale": "Demonstrated capability and strong safety ROI make near-term adoption in public infrastructure programs plausible.",
+      "id": "5e7834f4-0e27-40b1-8dfd-896d0d977db0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A major academic publisher will publicly announce a single batch retraction of at least 200 papers citing 'paper mills', 'fake peer review', or 'fabricated' research/records as a primary reason.",
+      "category": "other",
+      "horizon_days": 297,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if a publisher (e.g., Wiley, Elsevier, Springer Nature, Taylor & Francis, SAGE, IEEE) issues a public statement/press release by the deadline announcing >=200 retractions in one batch/event and explicitly cites paper mills/fake peer review/fabrication. Otherwise NO.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/03/260306224235.htm"
+      ],
+      "monitoring_signals": [
+        "Publisher research-integrity announcements and investigation updates",
+        "Retraction Watch reports of mass retraction events",
+        "COPE statements and large-scale journal audit disclosures"
+      ],
+      "rationale": "Ongoing integrity crackdowns and accumulated investigations make another high-count mass retraction event likely within a year.",
+      "id": "eea68920-4351-4b31-8db0-e1533918966e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
