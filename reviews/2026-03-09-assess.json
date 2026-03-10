@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-09",
+  "assessments": [
+    {
+      "id": "406d85d5-e351-4ed2-bff5-fb6de0de9e3f",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets focus on the Iran war and its economic/geopolitical effects; there is no state-media-confirmed announcement or indication of a formal succession decision recognizing Mojtaba Khamenei as Supreme Leader."
+    },
+    {
+      "id": "cecf35b9-464c-4ad8-89d7-7188006c74c5",
+      "status": "pending",
+      "status_rationale": "News mentions an oil spike to around $100 and then a sharp drop (CNBC notes oil plunging ~10%), but nothing indicates Brent front-month settling at or above $150 on any day."
+    },
+    {
+      "id": "ae962df7-6e86-48c6-9d05-12ab35997f41",
+      "status": "pending",
+      "status_rationale": "No market-volatility datapoint is provided in the bullets (no VIX close values), so there\u2019s no clear evidence that VIX has closed at or above 40."
+    },
+    {
+      "id": "a33b93a3-6254-4b07-930f-6b350642ef19",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s items references TBAC materials or any explicit TBAC slide/section titled with 'stablecoin(s)'."
+    },
+    {
+      "id": "f0c4d1a9-e02b-4e9a-8867-339abf1adf89",
+      "status": "pending",
+      "status_rationale": "The Asia-related coverage concerns regional economic fallout from the Middle East conflict, but does not report a South Korea market-stabilization package with \u2265\u20a920T equity-purchase capacity."
+    },
+    {
+      "id": "95781493-51ae-49a2-b124-b809aea64c9d",
+      "status": "pending",
+      "status_rationale": "No bullet reports China announcing additional national-level fiscal stimulus of \u2265CNY 1T beyond previously announced 2026 plans."
+    },
+    {
+      "id": "5c919082-6887-42a2-9153-f31e6611721a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news does not indicate a U.S. federal funding lapse/shutdown lasting at least 24 consecutive hours."
+    },
+    {
+      "id": "5e7834f4-0e27-40b1-8dfd-896d0d977db0",
+      "status": "pending",
+      "status_rationale": "No mention of USDOT/FHWA launching or awarding a multi-state satellite InSAR (or equivalent) pilot across at least five states."
+    },
+    {
+      "id": "eea68920-4351-4b31-8db0-e1533918966e",
+      "status": "pending",
+      "status_rationale": "None of the bullets report a major academic publisher announcing a single batch retraction of \u2265200 papers tied to paper mills/fake peer review/fabrication."
+    }
+  ]
+}

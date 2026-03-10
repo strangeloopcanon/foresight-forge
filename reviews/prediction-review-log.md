@@ -2120,3 +2120,12 @@ However, none of the provided bullets contain the specific confirmatory signals 
 
 ---
 
+
+## 2026-03-09
+
+Today’s news flow is dominated by the Iran war and its second-order effects—oil-price volatility, concerns about supply disruption, policy responses (e.g., potential reserve releases), and broader macro spillovers (stagflation fears, travel disruption, Asian economic containment efforts). That cluster is relevant to the energy- and volatility-linked forecasts, but it does not itself satisfy any of the specific threshold-based triggers (e.g., Brent ≥$150 settlement; VIX ≥40 close). In fact, the reported intraday swing (spike toward ~$100 followed by a sharp plunge) underscores elevated volatility without confirming an extreme level.
+
+For the institutional/policy predictions (TBAC stablecoin discussion; South Korea stabilization package; China ≥CNY1T incremental fiscal action; U.S. shutdown; USDOT/FHWA InSAR pilot; mass publisher retractions; Iranian leadership succession), today’s bullets provide no direct evidence. Net: all items remain pending, with the Iran-war backdrop arguably increasing the path-dependence for oil/volatility outcomes while leaving the rest unaffected based on the provided sources.
+
+---
+

@@ -19,7 +19,7 @@
       ],
       "rationale": "If succession has effectively occurred, the regime typically seeks formalization to reduce uncertainty and consolidate authority, especially amid conflict.",
       "id": "406d85d5-e351-4ed2-bff5-fb6de0de9e3f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "With oil already above $110, a further escalation or material shipping disruption could produce a tail-risk spike into the $150 area.",
       "id": "cecf35b9-464c-4ad8-89d7-7188006c74c5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Oil-shock plus geopolitics can rapidly reprice risk; VIX>=40 is plausible if volatility propagates from Asia to U.S. equities.",
       "id": "ae962df7-6e86-48c6-9d05-12ab35997f41",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Growing stablecoin Treasury holdings are increasingly system-relevant, making TBAC discussion likely as Treasury monitors marginal buyers and liquidity dynamics.",
       "id": "a33b93a3-6254-4b07-930f-6b350642ef19",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -102,7 +102,7 @@
       ],
       "rationale": "A sharp risk-off episode often triggers policy backstops; Korea has precedents for sizable stabilization vehicles after market stress.",
       "id": "f0c4d1a9-e02b-4e9a-8867-339abf1adf89",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -122,7 +122,7 @@
       ],
       "rationale": "Higher CPI and easing PPI deflation complicate monetary easing, increasing the odds of fiscal levers if growth or confidence deteriorates.",
       "id": "95781493-51ae-49a2-b124-b809aea64c9d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -142,7 +142,7 @@
       ],
       "rationale": "Heightened brinkmanship signals (tying funding to elections legislation) increase shutdown risk versus a typical appropriations cycle.",
       "id": "5c919082-6887-42a2-9153-f31e6611721a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -162,7 +162,7 @@
       ],
       "rationale": "Demonstrated capability and strong safety ROI make near-term adoption in public infrastructure programs plausible.",
       "id": "5e7834f4-0e27-40b1-8dfd-896d0d977db0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -182,7 +182,7 @@
       ],
       "rationale": "Ongoing integrity crackdowns and accumulated investigations make another high-count mass retraction event likely within a year.",
       "id": "eea68920-4351-4b31-8db0-e1533918966e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

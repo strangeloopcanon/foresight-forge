@@ -1,0 +1,207 @@
+{
+  "date": "2026-03-10",
+  "predictions": [
+    {
+      "text": "Platts/S&P Global will assess the JKM LNG spot price at or above $25.00 per MMBtu on at least one publication day.",
+      "category": "energy",
+      "horizon_days": 112,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084062235,
+      "verification_criteria": "Resolves YES if S&P Global Commodity Insights (Platts) publishes a JKM (Japan-Korea Marker) daily assessment >= 25.00 USD/MMBtu at least once on or before 2026-06-30; otherwise NO.",
+      "evidence": [
+        "Current conflict elevates Hormuz risk; LNG is flagged as potentially more vulnerable than oil if shipping is disrupted.",
+        "Energy markets are already repricing stagflation risk and supply disruption tail outcomes."
+      ],
+      "monitoring_signals": [
+        "Any announced or observed disruptions to LNG transits near Hormuz",
+        "JKM forward curve steepening/backwardation and widening prompt spreads",
+        "Asian spot procurement tenders and emergency cargo re-routing",
+        "Reports of higher LNG shipping insurance premia"
+      ],
+      "rationale": "If Hormuz risk intensifies, marginal LNG cargoes can reprice sharply due to limited short-run flexibility. Threshold chosen to be meaningfully above typical non-crisis levels but plausible under sustained disruption.",
+      "id": "96c3037d-0764-4ceb-9543-2695fe4d5bd4",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Baltic Exchange will publish a VLCC Middle East Gulf\u2013China (TD3C) time-charter equivalent (TCE) rate at or above $100,000/day on at least one day.",
+      "category": "energy",
+      "horizon_days": 112,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081081643,
+      "verification_criteria": "Resolves YES if the Baltic Exchange\u2019s published TD3C (VLCC MEG\u2013China) TCE is reported >= 100000 USD/day at least once on or before 2026-06-30; otherwise NO.",
+      "evidence": [
+        "Largest-ever oil supply disruption framing implies strong tanker demand and rerouting risk.",
+        "War-risk concerns and potential convoying/avoidance can reduce effective tanker supply."
+      ],
+      "monitoring_signals": [
+        "Baltic TD3C TCE and Worldscale prints trend",
+        "War-risk insurance quotes and listed-area expansions",
+        "Diversions via Cape of Good Hope and longer voyage distances",
+        "Port congestion and floating storage indicators"
+      ],
+      "rationale": "Even without full closure, heightened risk can create a scarcity premium in effective tonnage and spike spot earnings; $100k/day is a high but achievable stress-level print.",
+      "id": "e01c1406-0314-40f9-90dd-ebabe5bf61a4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The International Energy Agency (IEA) will announce a coordinated member release totaling at least 60 million barrels (oil and/or products) explicitly tied to the Middle East conflict.",
+      "category": "energy",
+      "horizon_days": 82,
+      "deadline": "2026-05-31",
+      "confidence_pct": 38,
+      "log_odds": -0.4895482253187058,
+      "verification_criteria": "Resolves YES if the IEA issues an official statement/press release announcing a 'collective action' (or equivalent coordinated release) with a stated total volume >= 60 million barrels and explicitly cites the Middle East conflict/supply disruption as a driver, by 2026-05-31; otherwise NO.",
+      "evidence": [
+        "G7 energy ministers are reported to be considering coordinated strategic reserve releases to stabilize prices."
+      ],
+      "monitoring_signals": [
+        "IEA/G7 energy minister communiqu\u00e9s and meeting readouts",
+        "Sharp rise in crude/product benchmarks and physical differentials",
+        "Political statements on inflation relief and supply stabilization",
+        "Member-country announcements that reference IEA coordination"
+      ],
+      "rationale": "Coordination risk is elevated when price spikes threaten macro stability; 60mb is large enough to be distinguishable from small national actions and consistent with prior IEA collective actions.",
+      "id": "03d239ba-039a-4c86-9e14-df5ad2d835e9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ICE Endex Dutch TTF natural gas front-month futures will settle at or above \u20ac80.00/MWh on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 112,
+      "deadline": "2026-06-30",
+      "confidence_pct": 32,
+      "log_odds": -0.7537718023763802,
+      "verification_criteria": "Resolves YES if the ICE Endex Dutch TTF Gas Futures front-month contract has an official daily settlement price >= 80.00 EUR/MWh at least once on or before 2026-06-30; otherwise NO.",
+      "evidence": [
+        "Analysts flag LNG vulnerability under Hormuz disruption, which can transmit to European gas balances via LNG competition.",
+        "Broader energy-market whipsaws and supply-shock narratives are active."
+      ],
+      "monitoring_signals": [
+        "European LNG send-out and cargo arrival cancellations/delays",
+        "TTF prompt spreads widening and implied volatility",
+        "EU storage trajectory versus seasonal norms",
+        "Asian LNG price spikes pulling cargoes away from Europe"
+      ],
+      "rationale": "Europe is exposed through global LNG competition; a sustained risk premium could lift TTF materially. \u20ac80/MWh is a stress marker that indicates significant global LNG tightness.",
+      "id": "0266a5c2-f749-40e3-8032-9b226644b22f",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The ICE BofA MOVE Index will close at or above 160 on at least one trading day.",
+      "category": "rates",
+      "horizon_days": 112,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "log_odds": -0.708185057924485,
+      "verification_criteria": "Resolves YES if the ICE BofA MOVE Index (ticker MOVE) official close is >= 160.00 on any trading day on or before 2026-06-30; otherwise NO.",
+      "evidence": [
+        "Treasury yields are reacting sharply to war news and de-escalation signals, highlighting geopolitical dominance over macro data."
+      ],
+      "monitoring_signals": [
+        "Large intraday rate swings on headlines (ceasefire/blockade/attacks)",
+        "Skew/vol in Treasury options markets",
+        "Funding/liquidity stress in UST market functioning indicators",
+        "Inflation swap volatility and breakeven volatility measures"
+      ],
+      "rationale": "Geopolitical headline risk can create episodic rate-vol spikes; 160 is a historically elevated level consistent with acute macro/geopolitical uncertainty but not an extreme tail like crisis peaks.",
+      "id": "affbafdd-9634-40bc-a7c8-4d4451b244df",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The S&P 500 Index (SPX) will experience a peak-to-trough drawdown of at least 15.0% measured from the 2026-03-03 closing level to any subsequent intraday low.",
+      "category": "markets",
+      "horizon_days": 112,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "log_odds": -0.8472978603872037,
+      "verification_criteria": "Let C be the official SPX close on 2026-03-03. Resolves YES if SPX trades intraday at or below C*(1-0.15) at any time on or before 2026-06-30 (using official index levels); otherwise NO.",
+      "evidence": [
+        "Market narratives cite stagflation/recession fears linked to the oil shock and supply disruption.",
+        "Equities are reacting to war-end signals and blockade threats with sharp repricing."
+      ],
+      "monitoring_signals": [
+        "Oil and gas spikes alongside widening credit spreads",
+        "VIX term structure inversion and equity downside skew",
+        "Earnings pre-announcements citing energy/transport disruptions",
+        "Macro surprise indices turning sharply negative"
+      ],
+      "rationale": "A large energy shock combined with geopolitical uncertainty can plausibly push equities into a correction. The 15% threshold is meaningful and avoids trivial volatility while remaining plausible within a few months.",
+      "id": "f1b2acd8-5044-448b-84ae-00f8caa8c43f",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Lloyd\u2019s Market Association (Joint War Committee) will issue a listed-areas update adding at least one new area in the Persian Gulf/Strait of Hormuz region or materially expanding the boundaries of an existing listed area there.",
+      "category": "energy",
+      "horizon_days": 36,
+      "deadline": "2026-04-15",
+      "confidence_pct": 36,
+      "log_odds": -0.5753641449035618,
+      "verification_criteria": "Resolves YES if the LMA Joint War Committee publishes an official circular/update before 2026-04-15 that (a) newly lists any area within the Persian Gulf/Strait of Hormuz OR (b) expands boundary coordinates of an already-listed area in that region; otherwise NO.",
+      "evidence": [
+        "Tanker traffic warnings and blockade threats imply elevated maritime risk that typically propagates into insurance and listed-area actions."
+      ],
+      "monitoring_signals": [
+        "Reported attacks/seizures near shipping lanes",
+        "War-risk premium spikes reported by brokers",
+        "Naval advisories and changes to recommended transit practices",
+        "LMA/JWC circular frequency and wording changes"
+      ],
+      "rationale": "Listed-area changes are a common institutional response when risks rise fast. The near-term deadline captures the likelihood of insurance-market repricing if threat conditions worsen.",
+      "id": "99b6fdb9-2e27-4372-8e32-f5faeae13688",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least three European countries will jointly announce (single coordinated statement or simultaneous official releases) a new or expanded maritime security operation explicitly aimed at protecting commercial shipping in/near the Strait of Hormuz.",
+      "category": "geopolitics",
+      "horizon_days": 51,
+      "deadline": "2026-04-30",
+      "confidence_pct": 45,
+      "log_odds": -0.20067069546215124,
+      "verification_criteria": "Resolves YES if, by 2026-04-30, official government/defense ministry statements show at least three European countries (e.g., France/UK/Italy/Spain/Netherlands/Germany) jointly announcing a new or expanded operation/mission with an explicit mandate to protect/escort commercial shipping in/near the Strait of Hormuz (operation name/command structure not required but must be explicit); otherwise NO.",
+      "evidence": [
+        "France has deployed a major naval force to the Middle East, signaling heightened European engagement in sea-lane protection."
+      ],
+      "monitoring_signals": [
+        "EU/UK/French MoD briefings and parliamentary statements",
+        "Merchant shipping advisories requesting naval coordination",
+        "Announcements of escort/convoy protocols",
+        "Increases in European naval deployments and basing arrangements"
+      ],
+      "rationale": "European naval deployments often crystallize into formalized missions when commercial risk and insurance costs surge. Three-country threshold avoids counting purely national deployments while remaining feasible under acute sea-lane risk.",
+      "id": "28d64eca-f338-46a9-86fc-8512acbe4f8d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The UN Security Council will adopt a resolution (not merely a statement) calling for de-escalation/ceasefire related to the U.S.\u2013Iran conflict, passing with at least 10 votes in favor.",
+      "category": "geopolitics",
+      "horizon_days": 112,
+      "deadline": "2026-06-30",
+      "confidence_pct": 25,
+      "log_odds": -1.0986122886681098,
+      "verification_criteria": "Resolves YES if, on or before 2026-06-30, the UN Security Council adopts a resolution referencing the U.S.\u2013Iran conflict (or hostilities involving Iran and the U.S./allies) that includes operative language calling for ceasefire/de-escalation, and the official voting record shows >=10 votes in favor; otherwise NO.",
+      "evidence": [
+        "Escalation and sea-lane risk have increased international pressure for formal de-escalation mechanisms."
+      ],
+      "monitoring_signals": [
+        "Draft resolutions circulated by UNSC members",
+        "Public positions by P5 members and veto threats",
+        "Emergency UNSC sessions and readouts",
+        "Ceasefire mediation efforts by third parties"
+      ],
+      "rationale": "A UNSC resolution is plausible under severe global spillovers but constrained by veto politics. A low-to-moderate probability reflects institutional friction despite strong incentives to reduce energy and maritime disruption.",
+      "id": "d2c48d10-7460-460d-b969-94ebe063f784",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}
