@@ -1,0 +1,206 @@
+{
+  "date": "2026-03-11",
+  "predictions": [
+    {
+      "text": "Amazon will price and settle an investment-grade bond offering with aggregate principal amount of at least $35.0 billion.",
+      "category": "markets",
+      "horizon_days": 50,
+      "deadline": "2026-04-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Confirmed by (a) Amazon/AWS press release, (b) SEC filing (8-K, prospectus supplement, or 10-Q disclosure), or (c) lead-manager transaction terms reported by Bloomberg/WSJ/FT showing total issued principal >= $35.0B and settlement completed by the deadline.",
+      "evidence": [
+        "https://www.marketwatch.com/story/amazon-joins-meta-google-in-jumbo-bond-club-with-up-to-42-billion-issuance-8a640bf1"
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR: AMZN 8-K / prospectus supplements",
+        "Lead-manager announcements and deal-pricing headlines",
+        "Credit-spread and new-issue concession commentary in IG primary market recaps"
+      ],
+      "rationale": "A large announced financing window plus ongoing capex/AI spending makes a jumbo IG issuance likely; the threshold is set below the reported 'up to' amount to reflect partial take-down risk.",
+      "id": "a7529584-fb84-4d26-afb5-141f678771de",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Amazon (or AWS) will publish a public post-incident update for the March 2026 outage that explicitly introduces a new control requiring two-person approval (or senior-engineer signoff) for production deployments involving AI-assisted code changes.",
+      "category": "tech",
+      "horizon_days": 81,
+      "deadline": "2026-05-31",
+      "confidence_pct": 45,
+      "verification_criteria": "A publicly accessible Amazon/AWS statement (official blog, postmortem, press release, or updated public engineering policy) that (i) references the March 2026 outage and (ii) states a new deployment control requiring two-person approval or senior signoff specifically tied to AI-assisted changes.",
+      "evidence": [
+        "https://www.marketwatch.com/story/amazon-joins-meta-google-in-jumbo-bond-club-with-up-to-42-billion-issuance-8a640bf1"
+      ],
+      "monitoring_signals": [
+        "AWS 'Security Bulletins' / 'Service health' postmortems",
+        "Amazon engineering/blog posts referencing change-management controls",
+        "Earnings-call prepared remarks mentioning process changes after the outage"
+      ],
+      "rationale": "Reported internal tightening often becomes formalized after high-profile outages, but public disclosure is less consistent, lowering confidence.",
+      "id": "7cf3bb1f-f62b-4f33-8207-29a296f10fe8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Oracle will report year-over-year growth of at least 35% in its Cloud Infrastructure (IaaS) revenue in at least one quarterly earnings release.",
+      "category": "tech",
+      "horizon_days": 203,
+      "deadline": "2026-09-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Oracle quarterly earnings release and/or accompanying 10-Q/10-K explicitly reporting OCI/IaaS revenue growth >= 35% YoY for the reported quarter (as stated by Oracle).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html"
+      ],
+      "monitoring_signals": [
+        "Oracle earnings releases and transcripts",
+        "OCI capacity expansion announcements (datacenters, GPU clusters)",
+        "Large OCI customer wins tied to AI training/inference"
+      ],
+      "rationale": "Recent AI-driven acceleration supports high growth, but base effects and capacity constraints can cause quarter-to-quarter variability.",
+      "id": "ffc8de29-956e-4e5e-9c71-f65a4a7fc4a2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Meta will publish a transparency/integrity or threat report that includes a dedicated section discussing 'AI agents' or 'synthetic accounts' and discloses removal/actioning of at least 10,000 accounts for coordinated inauthentic behavior involving AI-generated personas.",
+      "category": "tech",
+      "horizon_days": 203,
+      "deadline": "2026-09-30",
+      "confidence_pct": 40,
+      "verification_criteria": "A publicly posted Meta report (e.g., CIB report, Integrity/Transparency report, threat report) that (i) contains an explicit section discussing AI agents/synthetic accounts and (ii) states Meta removed/disabled/actioned >= 10,000 accounts tied to the described behavior/campaign(s).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/10/meta-social-networks-ai-agents-moltbook-acquisition.html"
+      ],
+      "monitoring_signals": [
+        "Meta newsroom posts and quarterly integrity reports",
+        "Disclosures from Meta\u2019s threat-intel teams",
+        "Platform policy updates on labeling AI-controlled accounts"
+      ],
+      "rationale": "Meta\u2019s increased exposure to agent ecosystems raises reporting pressure, but numeric thresholds and topic-specific disclosure are uncertain.",
+      "id": "51d1e606-e51b-4565-9a27-357c8a7e3353",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Social Security Administration (SSA) will issue a public breach notification (or report to Congress publicly summarized) stating that at least 500,000 individuals were affected by unauthorized access/exfiltration of Social Security data tied to the reported thumb-drive incident.",
+      "category": "tech",
+      "horizon_days": 111,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "verification_criteria": "SSA (or an official federal notice) publicly confirms an incident consistent with the reported event and provides an affected-individuals count >= 500,000, via SSA statements, OIG report, congressional notification summary, or a formal breach notice.",
+      "evidence": [
+        "https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/"
+      ],
+      "monitoring_signals": [
+        "SSA and SSA-OIG press releases",
+        "Congressional letters/hearings referencing affected counts",
+        "HHS OCR / federal breach notifications (if applicable) and major outlet confirmations"
+      ],
+      "rationale": "Large-scale federal data incidents sometimes lead to quantified notifications, but investigations can stay non-public or omit counts.",
+      "id": "07a5d5b9-f1c1-4fb1-a674-a452b42de167",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Department of Education will publish a Notice of Proposed Rulemaking (NPRM) in the Federal Register proposing a new or substantially revised income-driven repayment framework following the termination of the SAVE plan.",
+      "category": "macro",
+      "horizon_days": 203,
+      "deadline": "2026-09-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Federal Register publication of an NPRM by the Department of Education that explicitly proposes (i) a new IDR plan or (ii) material revisions to IDR rules, and references replacing/responding to the end of SAVE or related court decisions.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/10/save-plan-for-student-loan-borrowers-is-over-federal-appeals-court-.html"
+      ],
+      "monitoring_signals": [
+        "Unified Agenda / OMB regulatory docket entries for ED",
+        "Federal Register rulemaking publications",
+        "ED press releases and guidance updates to servicers"
+      ],
+      "rationale": "Policy pressure to offer an IDR alternative is high, but timelines for drafting and clearing rulemaking are uncertain.",
+      "id": "3c34f360-e210-46c7-9749-0471568c50fa",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one of Blackstone, Apollo, Ares, or KKR will disclose a quarterly net asset value (NAV) decline of at least 2.0% in a flagship private-credit vehicle primarily due to credit marks/spread widening (not distributions), in an investor report or public filing.",
+      "category": "markets",
+      "horizon_days": 157,
+      "deadline": "2026-08-15",
+      "confidence_pct": 40,
+      "verification_criteria": "An investor report, fund quarterly report, or the sponsor\u2019s public disclosure (10-Q/10-K, earnings deck) stating NAV (or NAV per share) fell by >= 2.0% over the quarter and attributing the decline primarily to mark-to-market/valuation changes on credit holdings (rather than net distributions).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/10/saba-capitals-boaz-weinstein-warns-private-credit-problems-are-multiplying.html"
+      ],
+      "monitoring_signals": [
+        "Quarterly reports for BDCs/credit interval funds affiliated with these sponsors",
+        "Manager earnings calls discussing valuation marks and non-accruals",
+        "Secondary-market pricing for private-credit vehicles and CLO mezz tranches"
+      ],
+      "rationale": "If volatility persists, valuation pressure is plausible; however, reporting lags and smoothing practices reduce near-term probability.",
+      "id": "71ca59b1-f148-4c2c-ad92-0b3f026b864b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one top-5 global container shipping line (by capacity) will publicly announce suspension/avoidance of transits through the Strait of Hormuz for at least 7 consecutive days due to security risk.",
+      "category": "geopolitics",
+      "horizon_days": 111,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Official company statement (press release, advisory, verified social media, or customer notice reported by major media) from a top-5 carrier stating Hormuz transits are suspended/avoided for security reasons, with the suspension lasting >= 7 consecutive days (as indicated by dated advisories).",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html",
+        "https://www.cnbc.com/2026/03/10/iea-g7-oil-iran-war-strait-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Carrier customer advisories and route updates",
+        "AIS-based route deviations reported by maritime analytics firms",
+        "UKMTO/IMSC incident bulletins and threat-level changes"
+      ],
+      "rationale": "Escalation raises maritime risk, but container lines may reroute selectively without formal multi-day suspensions, keeping confidence moderate.",
+      "id": "692f7859-fc64-4731-a928-3db03df69586",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The Federal Reserve will terminate (or announce termination of) at least one additional formal enforcement action against a top-20 foreign banking organization\u2019s U.S. operations.",
+      "category": "rates",
+      "horizon_days": 295,
+      "deadline": "2026-12-31",
+      "confidence_pct": 50,
+      "verification_criteria": "Federal Reserve 'Enforcement Actions' press release or listing showing termination of an action involving a top-20 foreign banking organization\u2019s U.S. operations, dated on or before the deadline.",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm"
+      ],
+      "monitoring_signals": [
+        "Federal Reserve enforcement-action updates",
+        "Bank disclosures about remediation milestones and consent-order terminations",
+        "Regulatory exam-cycle and MRAs/MRIs commentary in filings"
+      ],
+      "rationale": "Recent terminations suggest a broader cleanup cycle, but the pace depends on supervisory findings and remediation verification.",
+      "id": "28637741-5aa6-4aa2-9065-392bfd7b0045",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Intel will announce at least one paid commercial deployment (customer purchase, contracted pilot, or revenue-generating product availability) for a fully homomorphic encryption (FHE) hardware accelerator or FHE-enabled chip feature, with a named customer or partner.",
+      "category": "tech",
+      "horizon_days": 295,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "Intel press release, earnings materials, or partner/customer announcement stating (i) a commercial deployment/paid pilot or product availability for FHE acceleration and (ii) naming at least one customer or ecosystem partner involved.",
+      "evidence": [
+        "https://spectrum.ieee.org/fhe-intel"
+      ],
+      "monitoring_signals": [
+        "Intel product announcements and roadmap events",
+        "Hyperscaler/security-vendor partnership releases",
+        "Mentions of FHE acceleration in Intel earnings calls or product briefs"
+      ],
+      "rationale": "Technical demos can take time to productize; a named, paid deployment is plausible but not assured within the year.",
+      "id": "ddfe5da8-5434-411d-8b02-b3668399873a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

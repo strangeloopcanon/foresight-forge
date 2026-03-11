@@ -1,0 +1,117 @@
+{
+  "bullets": [
+    {
+      "text": "Fed ends enforcement actions against ICBC and Standard Chartered, signaling compliance remediation and reduced regulatory overhang for global banks\u2019 U.S. operations.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260310a.htm"
+    },
+    {
+      "text": "U.S. officials say Iran\u2019s military is adapting as strikes intensify; unclear war timeline raises escalation and regional-spillover risks.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html"
+    },
+    {
+      "text": "IEA countries weigh releasing oil reserves amid Hormuz disruption fears; potential supply boost could cap crude spikes and ease inflation pressures.",
+      "tags": [
+        "energy",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/10/iea-g7-oil-iran-war-strait-hormuz.html"
+    },
+    {
+      "text": "Iran conflict adds a portfolio \u2018risk tax\u2019\u2014higher volatility and defense/cyber demand; investors rotate toward resilient cash flows and security vendors.",
+      "tags": [
+        "markets",
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/trumps-new-world-order-is-taxing-your-portfolio-as-diplomacy-fades-and-uncertainty-reigns-268d48ae"
+    },
+    {
+      "text": "Oracle hits strongest earnings momentum in 15 years; AI-driven cloud growth (44%) lifts guidance, highlighting hyperscaler compute demand and new chip suppliers.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html"
+    },
+    {
+      "text": "Amazon plans up to $42B bond sale, joining mega issuers; separately tightens controls after AI-related outages, requiring senior-engineer signoff on AI-assisted changes.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.marketwatch.com/story/amazon-joins-meta-google-in-jumbo-bond-club-with-up-to-42-billion-issuance-8a640bf1"
+    },
+    {
+      "text": "Sen. Tillis blocks Fed-chair nominee Kevin Warsh pending Powell probe; leadership uncertainty collides with \u2018perfect storm\u2019 of inflation, deficits, and geopolitical shocks.",
+      "tags": [
+        "rates",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/10/fed-kevin-warsh-thom-tillis-trump.html"
+    },
+    {
+      "text": "Senate advances sweeping housing bill as home sales modestly rebound; sluggish supply growth keeps affordability tight, leaving rates and construction policy central.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/03/10/february-home-sales-see-small-rebound-but-supply-growth-is-sluggish.html"
+    },
+    {
+      "text": "Boaz Weinstein warns private credit \u2018financial alchemy\u2019 is worsening quarterly; opacity and leverage could amplify a downturn and force repricing in leveraged finance.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/10/saba-capitals-boaz-weinstein-warns-private-credit-problems-are-multiplying.html"
+    },
+    {
+      "text": "Meta buys Moltbook, a viral AI-bot social network; signals push toward agent ecosystems while raising integrity and misinformation risks from synthetic activity.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/10/meta-social-networks-ai-agents-moltbook-acquisition.html"
+    },
+    {
+      "text": "Whistleblower alleges DOGE-linked worker improperly accessed and exported Social Security data; incident underscores critical infrastructure cyber risk and potential regulatory fallout.",
+      "tags": [
+        "macro",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2026/03/10/doge-employee-stole-social-security-data-and-put-it-on-a-thumb-drive-report-says/"
+    },
+    {
+      "text": "Federal appeals court ends SAVE student-loan repayment plan for millions; higher required payments may pressure household budgets and weigh on consumer spending.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/10/save-plan-for-student-loan-borrowers-is-over-federal-appeals-court-.html"
+    },
+    {
+      "text": "Vertex\u2019s povetacicept passes key IgA nephropathy trial test, strengthening pipeline for kidney disease and supporting biotech valuations in immunology.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/10/vertex-kidney-drug-povetacicept-succeeds-trial-igan.html"
+    },
+    {
+      "text": "Intel demonstrates fully homomorphic encryption chip enabling computation on encrypted data, potentially unlocking privacy-preserving cloud analytics and regulated AI workloads.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://spectrum.ieee.org/fhe-intel"
+    }
+  ]
+}

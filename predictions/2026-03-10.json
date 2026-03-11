@@ -21,7 +21,7 @@
       ],
       "rationale": "If Hormuz risk intensifies, marginal LNG cargoes can reprice sharply due to limited short-run flexibility. Threshold chosen to be meaningfully above typical non-crisis levels but plausible under sustained disruption.",
       "id": "96c3037d-0764-4ceb-9543-2695fe4d5bd4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -44,7 +44,7 @@
       ],
       "rationale": "Even without full closure, heightened risk can create a scarcity premium in effective tonnage and spike spot earnings; $100k/day is a high but achievable stress-level print.",
       "id": "e01c1406-0314-40f9-90dd-ebabe5bf61a4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -66,7 +66,7 @@
       ],
       "rationale": "Coordination risk is elevated when price spikes threaten macro stability; 60mb is large enough to be distinguishable from small national actions and consistent with prior IEA collective actions.",
       "id": "03d239ba-039a-4c86-9e14-df5ad2d835e9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -89,7 +89,7 @@
       ],
       "rationale": "Europe is exposed through global LNG competition; a sustained risk premium could lift TTF materially. \u20ac80/MWh is a stress marker that indicates significant global LNG tightness.",
       "id": "0266a5c2-f749-40e3-8032-9b226644b22f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -111,7 +111,7 @@
       ],
       "rationale": "Geopolitical headline risk can create episodic rate-vol spikes; 160 is a historically elevated level consistent with acute macro/geopolitical uncertainty but not an extreme tail like crisis peaks.",
       "id": "affbafdd-9634-40bc-a7c8-4d4451b244df",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -134,7 +134,7 @@
       ],
       "rationale": "A large energy shock combined with geopolitical uncertainty can plausibly push equities into a correction. The 15% threshold is meaningful and avoids trivial volatility while remaining plausible within a few months.",
       "id": "f1b2acd8-5044-448b-84ae-00f8caa8c43f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -156,7 +156,7 @@
       ],
       "rationale": "Listed-area changes are a common institutional response when risks rise fast. The near-term deadline captures the likelihood of insurance-market repricing if threat conditions worsen.",
       "id": "99b6fdb9-2e27-4372-8e32-f5faeae13688",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -178,7 +178,7 @@
       ],
       "rationale": "European naval deployments often crystallize into formalized missions when commercial risk and insurance costs surge. Three-country threshold avoids counting purely national deployments while remaining feasible under acute sea-lane risk.",
       "id": "28d64eca-f338-46a9-86fc-8512acbe4f8d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -200,7 +200,7 @@
       ],
       "rationale": "A UNSC resolution is plausible under severe global spillovers but constrained by veto politics. A low-to-moderate probability reflects institutional friction despite strong incentives to reduce energy and maritime disruption.",
       "id": "d2c48d10-7460-460d-b969-94ebe063f784",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

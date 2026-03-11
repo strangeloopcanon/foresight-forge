@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-10",
+  "assessments": [
+    {
+      "id": "96c3037d-0764-4ceb-9543-2695fe4d5bd4",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no reporting about Platts/S&P Global JKM assessments reaching \u2265$25.00/MMBtu on any publication day; no confirming price print is provided."
+    },
+    {
+      "id": "e01c1406-0314-40f9-90dd-ebabe5bf61a4",
+      "status": "pending",
+      "status_rationale": "No Baltic Exchange TD3C VLCC MEG\u2013China TCE data (or a \u2265$100,000/day print) is mentioned in today\u2019s news bullets."
+    },
+    {
+      "id": "03d239ba-039a-4c86-9e14-df5ad2d835e9",
+      "status": "pending",
+      "status_rationale": "CNBC reports IEA countries are meeting on a possible reserves release but explicitly says 'no decision made yet'; this is not an announced coordinated release of \u226560 million barrels tied to the conflict."
+    },
+    {
+      "id": "0266a5c2-f749-40e3-8032-9b226644b22f",
+      "status": "pending",
+      "status_rationale": "No ICE Endex Dutch TTF front-month settlement level is provided in the bullets; there is no evidence of a \u2265\u20ac80.00/MWh settlement."
+    },
+    {
+      "id": "affbafdd-9634-40bc-a7c8-4d4451b244df",
+      "status": "pending",
+      "status_rationale": "The bullets do not report the ICE BofA MOVE Index closing at or above 160 (or any specific MOVE close)."
+    },
+    {
+      "id": "f1b2acd8-5044-448b-84ae-00f8caa8c43f",
+      "status": "pending",
+      "status_rationale": "No information is provided on the S&P 500\u2019s peak-to-trough drawdown from the 2026-03-03 close to any subsequent intraday low; the threshold (\u226515%) cannot be verified from today\u2019s bullets."
+    },
+    {
+      "id": "99b6fdb9-2e27-4372-8e32-f5faeae13688",
+      "status": "pending",
+      "status_rationale": "There is no mention of Lloyd\u2019s Market Association/JWC listed-areas updates affecting the Persian Gulf/Strait of Hormuz region in today\u2019s bullets."
+    },
+    {
+      "id": "28d64eca-f338-46a9-86fc-8512acbe4f8d",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not describe a joint announcement by at least three European countries of a new/expanded maritime security operation aimed at protecting Strait of Hormuz commercial shipping."
+    },
+    {
+      "id": "d2c48d10-7460-460d-b969-94ebe063f784",
+      "status": "pending",
+      "status_rationale": "No UN Security Council adopted resolution (with \u226510 votes in favor) calling for de-escalation/ceasefire related to the U.S.\u2013Iran conflict is reported in today\u2019s bullets."
+    }
+  ]
+}
