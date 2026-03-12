@@ -1,0 +1,124 @@
+{
+  "bullets": [
+    {
+      "text": "February CPI rose 0.3% m/m; annual inflation 2.4%. Shelter remained a key driver, keeping core inflation pressures elevated.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/cpi_03112026.htm"
+    },
+    {
+      "text": "Real average hourly earnings rose 0.2% in February, suggesting modest wage gains after inflation and supporting consumer purchasing power.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/realer_03112026.htm"
+    },
+    {
+      "text": "Fed approved applications by Associated Banc-Corp and FirstSun Capital Bancorp, signaling continued regulatory greenlights for bank corporate actions.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260311b.htm"
+    },
+    {
+      "text": "Preliminary U.S. inquiry found the U.S. at fault in an Iran school strike, raising escalation risks and potential diplomatic fallout.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html"
+    },
+    {
+      "text": "Multiple cargo ships were struck near Iran, including in the Strait of Hormuz, highlighting shipping disruption risk for global oil and trade flows.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html"
+    },
+    {
+      "text": "IEA agreed to a record 400M-barrel release; U.S. planned 172M barrels from the SPR. Despite this, crude prices rose on supply-risk fears.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/11/iea-oil-reserves-crude-prices-iran-g7-energy.html"
+    },
+    {
+      "text": "Equity futures fell sharply as oil climbed, with options markets pricing elevated tail risk from Iran conflict\u2014raising recession/stagflation concerns.",
+      "tags": [
+        "markets",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/dow-futures-down-nearly-500-points-as-oil-prices-continue-to-climb-9affa0b8?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Trump administration launched Section 301 trade probes into major partners (Mexico, China, EU and others), reviving tariff risk and supply-chain uncertainty.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/11/trump-trade-investigations-ieepa-tariffs.html"
+    },
+    {
+      "text": "U.S. deficit topped $1T through February but ran below last year\u2019s pace, implying slightly improved near-term fiscal trajectory despite large borrowing needs.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/11/us-deficit-tops-1-trillion-through-february-but-runs-below-year-ago-pace.html"
+    },
+    {
+      "text": "India eased rules allowing Chinese investment after years of restrictions, signaling a potential thaw that could reshape regional capital flows and supply chains.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/11/india-china-investments-fdi-ties-business.html"
+    },
+    {
+      "text": "Google closed its acquisition of Wiz, reinforcing consolidation in cloud security amid rising enterprise cybersecurity spending and geopolitical hacking risks.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz"
+    },
+    {
+      "text": "Atlassian cut roughly 10% of staff to self-fund AI and enterprise sales investments, reflecting broader tech reallocation from headcount toward AI capex.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html"
+    },
+    {
+      "text": "Oracle shares jumped on strong results easing AI build-out concerns; filings showed a TikTok stake just over $2B, linking performance to major platform exposure.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/11/oracle-orcl-stock-q3-earnings-ai-data-center.html"
+    },
+    {
+      "text": "Research suggested a massive ancient asteroid impact in the North Sea triggered a 330-foot tsunami, informing tail-risk assessments for coastal hazards.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260311004836.htm"
+    },
+    {
+      "text": "Scientists reported a potential pill for sleep apnea, which could disrupt the large CPAP/device market if efficacy and safety hold in larger clinical trials.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260311004816.htm"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-11",
+  "assessments": [
+    {
+      "id": "a7529584-fb84-4d26-afb5-141f678771de",
+      "status": "pending",
+      "status_rationale": "Today\u2019s headlines include an Amazon robotaxi partnership mention, but no evidence that Amazon priced/settled an investment-grade bond offering of at least $35B."
+    },
+    {
+      "id": "7cf3bb1f-f62b-4f33-8207-29a296f10fe8",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates Amazon/AWS published a post-incident update about a March 2026 outage, nor any new two-person approval control for AI-assisted production deployments."
+    },
+    {
+      "id": "ffc8de29-956e-4e5e-9c71-f65a4a7fc4a2",
+      "status": "pending",
+      "status_rationale": "Today\u2019s Oracle coverage discusses stock movement and a filing about its TikTok stake, but does not report quarterly OCI (IaaS) year-over-year revenue growth figures \u226535% in an earnings release."
+    },
+    {
+      "id": "51d1e606-e51b-4565-9a27-357c8a7e3353",
+      "status": "pending",
+      "status_rationale": "No Meta transparency/integrity/threat report is referenced today, and there is no disclosed actioning/removal of \u226510,000 AI-agent/synthetic accounts for coordinated inauthentic behavior."
+    },
+    {
+      "id": "07a5d5b9-f1c1-4fb1-a674-a452b42de167",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news does not include any SSA breach notification or public congressional summary about the reported thumb-drive incident affecting \u2265500,000 individuals."
+    },
+    {
+      "id": "3c34f360-e210-46c7-9749-0471568c50fa",
+      "status": "pending",
+      "status_rationale": "While today\u2019s political coverage references the SAVE Act, there is no evidence of a Department of Education NPRM in the Federal Register proposing a new/substantially revised income-driven repayment framework following SAVE plan termination."
+    },
+    {
+      "id": "71ca59b1-f148-4c2c-ad92-0b3f026b864b",
+      "status": "pending",
+      "status_rationale": "No investor report or public filing is cited today showing a \u22652.0% NAV decline in a flagship private-credit vehicle (Blackstone/Apollo/Ares/KKR) primarily due to credit marks/spread widening."
+    },
+    {
+      "id": "692f7859-fc64-4731-a928-3db03df69586",
+      "status": "pending",
+      "status_rationale": "There is reporting that the Iran war is choking the Strait of Hormuz and affecting flows, but no public announcement is cited from a top-5 container shipping line suspending/avoiding Hormuz transits for \u22657 consecutive days."
+    },
+    {
+      "id": "28637741-5aa6-4aa2-9065-392bfd7b0045",
+      "status": "pending",
+      "status_rationale": "No Federal Reserve announcement or documentation is referenced today indicating termination of an additional formal enforcement action against a top-20 foreign banking organization\u2019s U.S. operations."
+    },
+    {
+      "id": "ddfe5da8-5434-411d-8b02-b3668399873a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s chip/AI news is general (e.g., memory stock cycle) and does not include an Intel announcement of a paid commercial deployment for an FHE hardware accelerator or FHE-enabled chip feature with a named customer/partner."
+    }
+  ]
+}

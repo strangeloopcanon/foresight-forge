@@ -1,0 +1,240 @@
+{
+  "date": "2026-03-12",
+  "predictions": [
+    {
+      "text": "IEA member countries will publicly report (IEA statement, member government releases, or IEA Monthly Oil Market Report) that cumulative crude/product releases executed and/or firmly scheduled for delivery total at least 300 million barrels under the March 2026 coordinated release plan.",
+      "category": "energy",
+      "horizon_days": 80,
+      "deadline": "2026-05-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves TRUE if the IEA or a compiled set of official member announcements explicitly sums to \u2265300,000,000 barrels executed and/or scheduled for delivery under the coordinated March 2026 action by 2026-05-31. Otherwise FALSE.",
+      "evidence": [
+        "IEA agreed to a record 400M-barrel release; U.S. planned 172M barrels from the SPR (CNBC, 2026-03-11): https://www.cnbc.com/2026/03/11/iea-oil-reserves-crude-prices-iran-g7-energy.html"
+      ],
+      "monitoring_signals": [
+        "IEA press releases and statements on emergency stockdraws",
+        "IEA Monthly Oil Market Report references to coordinated releases",
+        "U.S. DOE/SPR tender awards and delivery schedules",
+        "Official energy ministry announcements from IEA members"
+      ],
+      "supersedes_id": "03d239ba-039a-4c86-9e14-df5ad2d835e9",
+      "rationale": "A coordinated release is already agreed; the key uncertainty is execution/scheduling at scale. A 300M threshold tests follow-through without requiring full 400M completion by May.",
+      "id": "0371b3fa-bd54-4a5e-8f71-d73f48a39ee3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ICE Brent front-month futures will settle at or above $130.00 per barrel on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 110,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "verification_criteria": "Resolves TRUE if the official ICE Brent front-month settlement price is \u2265$130.00/bbl on any trading day from 2026-03-12 through 2026-06-30. Otherwise FALSE.",
+      "evidence": [
+        "Crude prices rose despite the IEA agreeing to a record release, reflecting elevated supply-risk fears (CNBC, 2026-03-11): https://www.cnbc.com/2026/03/11/iea-oil-reserves-crude-prices-iran-g7-energy.html",
+        "Equity futures fell sharply as oil climbed and tail risk was repriced (MarketWatch, 2026-03-11): https://www.marketwatch.com/story/dow-futures-down-nearly-500-points-as-oil-prices-continue-to-climb-9affa0b8?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "ICE Brent settlements (front-month) daily",
+        "News on Strait of Hormuz transit risk and outages",
+        "OPEC+ communications and any emergency policy shifts",
+        "IEA/SPR release pace vs. disruption headlines"
+      ],
+      "rationale": "Geopolitical disruption risk can overwhelm releases, but $130 requires substantial escalation and/or sustained outages; hence moderate-low probability.",
+      "id": "cf60e256-d444-40c0-a970-d9a9b8c95853",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "EIA will report U.S. regular gasoline retail prices (weekly, all formulations) at or above $4.25 per gallon for at least one week.",
+      "category": "energy",
+      "horizon_days": 110,
+      "deadline": "2026-06-30",
+      "confidence_pct": 37,
+      "verification_criteria": "Resolves TRUE if the U.S. EIA Weekly Retail Gasoline and Diesel Prices report shows 'Regular All Formulations' at \u2265$4.25/gal for any publication dated on or before 2026-06-30. Otherwise FALSE.",
+      "evidence": [
+        "Oil price spike and shipping risk in/near the Strait of Hormuz increases downstream fuel price pass-through risk (CNBC, 2026-03-11): https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html",
+        "Crude prices rose on supply-risk fears despite planned releases (CNBC, 2026-03-11): https://www.cnbc.com/2026/03/11/iea-oil-reserves-crude-prices-iran-g7-energy.html"
+      ],
+      "monitoring_signals": [
+        "EIA weekly retail gasoline series",
+        "RBOB gasoline futures and crack spreads",
+        "U.S. refinery utilization and outage reports",
+        "State-level price spikes (AAA) indicating national lift"
+      ],
+      "rationale": "Retail gasoline can lag crude; reaching $4.25 typically needs sustained crude strength and/or refinery constraints.",
+      "id": "d4408365-9d61-4bda-a421-2f7caf3aecd8",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "UKMTO and/or the International Maritime Bureau (IMB) will report at least 10 distinct security incidents affecting commercial vessels in the Strait of Hormuz or Gulf of Oman within any rolling 30-day window.",
+      "category": "geopolitics",
+      "horizon_days": 49,
+      "deadline": "2026-04-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves TRUE if UKMTO advisories/incident logs and/or IMB piracy/incident reports document \u226510 separate incidents (attacks, boardings, missile/drone strikes, or confirmed security events) in the Strait of Hormuz or Gulf of Oman during any consecutive 30-day period ending by 2026-04-30. Otherwise FALSE.",
+      "evidence": [
+        "Multiple cargo ships were struck near Iran, including in the Strait of Hormuz (CNBC, 2026-03-11): https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html"
+      ],
+      "monitoring_signals": [
+        "UKMTO advisories and incident reports",
+        "IMB Piracy Reporting Centre updates",
+        "AIS-based reporting of disruptions/deviations",
+        "Insurance market bulletins referencing incident frequency"
+      ],
+      "rationale": "Incident tempo is already elevated; a 10-in-30-days threshold is aggressive but plausible if strikes and harassment continue.",
+      "id": "8738b365-efa6-4b5b-adc0-4c2c1c18adb5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Drewry World Container Index (WCI) will print at or above $5,000 per 40-foot container (FEU) in at least one weekly release.",
+      "category": "markets",
+      "horizon_days": 80,
+      "deadline": "2026-05-31",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves TRUE if any Drewry WCI weekly publication dated on or before 2026-05-31 reports the composite index \u2265$5,000/FEU. Otherwise FALSE.",
+      "evidence": [
+        "Shipping disruption risk is rising around Iran/Hormuz, increasing freight and rerouting pressures (CNBC, 2026-03-11): https://www.cnbc.com/2026/03/11/cargo-ship-struck-strait-of-hormuz-uk-iran-war.html"
+      ],
+      "monitoring_signals": [
+        "Drewry WCI weekly releases",
+        "Freightos Baltic Index as a cross-check",
+        "Carrier general rate increase (GRI) announcements",
+        "Rerouting/port congestion indicators (AIS, port wait times)"
+      ],
+      "rationale": "WCI can spike quickly under severe disruption, but reaching $5k requires broad capacity dislocation beyond a localized security flare-up.",
+      "id": "dba55a82-83f6-4393-82ef-109bd3ef8132",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The Federal Reserve (Board or FOMC) will announce a new or expanded liquidity backstop explicitly citing market functioning or funding stress (e.g., expanded standing swap lines terms, new repo operations, or a temporary facility) in an official press release.",
+      "category": "rates",
+      "horizon_days": 80,
+      "deadline": "2026-05-31",
+      "confidence_pct": 24,
+      "verification_criteria": "Resolves TRUE if a Federal Reserve press release, FOMC statement, or FRB New York statement by 2026-05-31 announces a new liquidity facility or a material expansion (size/terms/counterparties/frequency) of an existing backstop and explicitly references market functioning, funding stress, or similar. Otherwise FALSE.",
+      "evidence": [
+        "Options markets pricing elevated tail risk and equity futures falling sharply amid oil spike suggests potential for funding/vol stress transmission (MarketWatch, 2026-03-11): https://www.marketwatch.com/story/dow-futures-down-nearly-500-points-as-oil-prices-continue-to-climb-9affa0b8?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "FRB and FRBNY press releases on operations/facilities",
+        "SOFR-OIS spread and Treasury market depth metrics",
+        "FX basis and cross-currency funding stress indicators",
+        "Primary dealer survey mentions of market functioning"
+      ],
+      "rationale": "The bar for new facilities is high; this triggers mainly if volatility impairs funding/market functioning rather than just risk-off.",
+      "id": "910682ad-ee17-4601-b72f-2279ff1bcdb0",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "The S&P 500 (SPX) will close down by at least 5.0% in a single trading day.",
+      "category": "markets",
+      "horizon_days": 110,
+      "deadline": "2026-06-30",
+      "confidence_pct": 28,
+      "verification_criteria": "Resolves TRUE if SPX official close-to-close daily return is \u2264 -5.0% on any trading day from 2026-03-12 through 2026-06-30. Otherwise FALSE.",
+      "evidence": [
+        "Equity futures fell sharply as oil climbed, with tail-risk repricing tied to Iran conflict escalation (MarketWatch, 2026-03-11): https://www.marketwatch.com/story/dow-futures-down-nearly-500-points-as-oil-prices-continue-to-climb-9affa0b8?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "VIX term structure and SPX skew",
+        "Intraday oil spikes and conflict headlines",
+        "Credit spreads (CDX IG/HY) and liquidity conditions",
+        "Large-cap earnings guidance revisions tied to energy/shipping"
+      ],
+      "rationale": "A -5% day is uncommon but becomes more plausible under abrupt escalation, disorderly energy move, or sudden policy shock.",
+      "id": "aca8e8c6-638d-49fe-abad-6b296d27d878",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "USTR will publish a Federal Register notice under Section 301 proposing new or increased tariffs of at least 10% on goods from at least one of: Mexico or the European Union, covering at least $50 billion in annual import value (as stated in the notice or accompanying release).",
+      "category": "macro",
+      "horizon_days": 110,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves TRUE if by 2026-06-30 USTR publishes a Section 301 Federal Register notice proposing additional tariffs meeting: (i) rate \u226510% (headline rate), (ii) applies to Mexico and/or EU-origin goods, and (iii) the notice or official USTR release states coverage of \u2265$50B annual import value. Otherwise FALSE.",
+      "evidence": [
+        "Trump administration launched Section 301 trade probes into major partners including Mexico and the EU (CNBC, 2026-03-11): https://www.cnbc.com/2026/03/11/trump-trade-investigations-ieepa-tariffs.html"
+      ],
+      "monitoring_signals": [
+        "USTR Federal Register notices and press releases",
+        "USITC/USTR docket postings and hearing schedules",
+        "Trade press reporting on proposed tariff lists and coverage totals",
+        "White House proclamations or fact sheets referencing Section 301"
+      ],
+      "rationale": "Investigations create a pathway to tariffs, but large, fast implementation against Mexico/EU depends on political calculus and negotiation dynamics.",
+      "id": "dbcada2c-05c9-4031-ba4f-4bb12de7785e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one U.S. Big Tech firm (Alphabet, Microsoft, Amazon, Meta, or Apple) will disclose in an SEC filing that it expects incremental 2026 capex to increase by at least $10 billion (company-specific) versus its prior guidance, explicitly citing AI infrastructure or data-center build-out.",
+      "category": "tech",
+      "horizon_days": 294,
+      "deadline": "2026-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Resolves TRUE if an SEC filing (10-Q/10-K/8-K) by any listed firm states a revised 2026 capex plan/guidance \u2265$10B higher than its previously communicated guidance (as referenced in the filing) and the filing explicitly attributes the increase to AI infrastructure and/or data centers. Otherwise FALSE.",
+      "evidence": [
+        "Tech firms are reallocating and investing around AI; e.g., Atlassian cutting ~10% to self-fund AI and enterprise investments (CNBC, 2026-03-11): https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html",
+        "Google closed acquisition of Wiz, indicating continued scaling in cloud/security offerings (Wiz blog, 2026-03-11): https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz"
+      ],
+      "monitoring_signals": [
+        "10-Q/10-K capex disclosures and earnings call transcripts",
+        "Data-center lease announcements and power procurement deals",
+        "Supplier capex commentary (server, networking, cooling)",
+        "AI training/inference demand indicators (GPU orders, utilization)"
+      ],
+      "rationale": "AI build-outs remain capex-intensive; a \u2265$10B upward revision is sizable but plausible if demand/competition accelerates or supply constraints ease.",
+      "id": "e27aa609-cbaa-4c8d-84ec-63ec27faa2c8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Oracle will disclose in an earnings release or 10-Q/10-K that remaining performance obligations (RPO) are at least $150 billion.",
+      "category": "tech",
+      "horizon_days": 294,
+      "deadline": "2026-12-31",
+      "confidence_pct": 32,
+      "verification_criteria": "Resolves TRUE if Oracle, in any earnings release or SEC filing dated on or before 2026-12-31, reports Remaining Performance Obligations (or equivalent contracted backlog metric explicitly labeled RPO) \u2265$150B. Otherwise FALSE.",
+      "evidence": [
+        "Oracle shares jumped on strong results easing AI build-out concerns (CNBC, 2026-03-11): https://www.cnbc.com/2026/03/11/oracle-orcl-stock-q3-earnings-ai-data-center.html"
+      ],
+      "monitoring_signals": [
+        "Oracle quarterly earnings releases and 10-Q/10-K filings",
+        "Commentary on cloud bookings/backlog and large AI contracts",
+        "Capex guidance for OCI expansion",
+        "Enterprise AI infrastructure demand indicators"
+      ],
+      "rationale": "If OCI demand and large multi-year AI contracts accelerate, backlog can compound; $150B is a high bar requiring sustained mega-deals.",
+      "id": "b223174f-86bb-4cbe-98b7-3166d24b1344",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A Phase 3 clinical trial for an oral pharmacologic treatment for obstructive sleep apnea will be registered on ClinicalTrials.gov, with planned enrollment of at least 500 participants.",
+      "category": "other",
+      "horizon_days": 294,
+      "deadline": "2026-12-31",
+      "confidence_pct": 27,
+      "verification_criteria": "Resolves TRUE if ClinicalTrials.gov posts a new study record by 2026-12-31 labeled Phase 3 for an oral drug targeting obstructive sleep apnea with anticipated enrollment \u2265500. Otherwise FALSE.",
+      "evidence": [
+        "Scientists reported a potential pill for sleep apnea, suggesting pipeline momentum toward larger trials (ScienceDaily, 2026-03-11): https://www.sciencedaily.com/releases/2026/03/260311004816.htm"
+      ],
+      "monitoring_signals": [
+        "ClinicalTrials.gov new registrations and updates for OSA oral drugs",
+        "Company press releases on Phase 3 initiations",
+        "FDA meeting/fast-track/breakthrough announcements for OSA drugs",
+        "Key opinion leader conference abstracts (ATS, SLEEP)"
+      ],
+      "rationale": "Many promising early results fail to scale; requiring a large (\u2265500) Phase 3 trial keeps this anchored to meaningful development commitment.",
+      "id": "43be39a3-03c3-4b47-8ecf-a9ca4efbdf80",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

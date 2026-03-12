@@ -18,7 +18,7 @@
       ],
       "rationale": "A large announced financing window plus ongoing capex/AI spending makes a jumbo IG issuance likely; the threshold is set below the reported 'up to' amount to reflect partial take-down risk.",
       "id": "a7529584-fb84-4d26-afb5-141f678771de",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "Reported internal tightening often becomes formalized after high-profile outages, but public disclosure is less consistent, lowering confidence.",
       "id": "7cf3bb1f-f62b-4f33-8207-29a296f10fe8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "rationale": "Recent AI-driven acceleration supports high growth, but base effects and capacity constraints can cause quarter-to-quarter variability.",
       "id": "ffc8de29-956e-4e5e-9c71-f65a4a7fc4a2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -78,7 +78,7 @@
       ],
       "rationale": "Meta\u2019s increased exposure to agent ecosystems raises reporting pressure, but numeric thresholds and topic-specific disclosure are uncertain.",
       "id": "51d1e606-e51b-4565-9a27-357c8a7e3353",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -98,7 +98,7 @@
       ],
       "rationale": "Large-scale federal data incidents sometimes lead to quantified notifications, but investigations can stay non-public or omit counts.",
       "id": "07a5d5b9-f1c1-4fb1-a674-a452b42de167",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -118,7 +118,7 @@
       ],
       "rationale": "Policy pressure to offer an IDR alternative is high, but timelines for drafting and clearing rulemaking are uncertain.",
       "id": "3c34f360-e210-46c7-9749-0471568c50fa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -138,7 +138,7 @@
       ],
       "rationale": "If volatility persists, valuation pressure is plausible; however, reporting lags and smoothing practices reduce near-term probability.",
       "id": "71ca59b1-f148-4c2c-ad92-0b3f026b864b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Escalation raises maritime risk, but container lines may reroute selectively without formal multi-day suspensions, keeping confidence moderate.",
       "id": "692f7859-fc64-4731-a928-3db03df69586",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Recent terminations suggest a broader cleanup cycle, but the pace depends on supervisory findings and remediation verification.",
       "id": "28637741-5aa6-4aa2-9065-392bfd7b0045",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "Technical demos can take time to productize; a named, paid deployment is plausible but not assured within the year.",
       "id": "ddfe5da8-5434-411d-8b02-b3668399873a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
