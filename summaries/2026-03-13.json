@@ -1,0 +1,126 @@
+{
+  "bullets": [
+    {
+      "text": "Brent crude hits $100 as Iran\u2019s new leader vows Strait of Hormuz stays closed, intensifying global supply risk and inflation pressures.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/12/oil-prices-jump-iea-record-reserve-release-markets-doubt-relief.html"
+    },
+    {
+      "text": "U.S. Navy plans tanker escorts through Hormuz when feasible, signaling heightened militarization of energy trade routes and persistent disruption risk.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/03/12/iran-war-us-navy-strait-of-hormuz-oil-bessent.html"
+    },
+    {
+      "text": "U.S. temporarily allows purchases of Russian oil already at sea to stabilize markets, effectively easing enforcement amid a Middle East supply shock.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/13/bessent-us-allows-purchase-russian-oil-stranded-sea-energy-markets.html"
+    },
+    {
+      "text": "Oil shock from Iran conflict adds another hit to global growth, worsening inflation-versus-recession tradeoffs for central banks and governments.",
+      "tags": [
+        "macro",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html"
+    },
+    {
+      "text": "Markets are rapidly repricing: expectations for near-term Fed rate cuts fade, raising the bar for risk assets as inflation risks re-emerge.",
+      "tags": [
+        "rates",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html"
+    },
+    {
+      "text": "Private credit stress deepens: defaults hit a record 9.2% in 2025, amplifying worries about leveraged borrowers and spillovers to banks and markets.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d"
+    },
+    {
+      "text": "U.S. launches fresh Section 301 probes into 60 economies over forced-labor practices, signaling broader trade friction and potential new tariffs.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/13/us-section-301-probe-trade-trump-labor-practices.html"
+    },
+    {
+      "text": "Fed approves Home BancShares application, highlighting ongoing supervisory gatekeeping for bank expansion amid tighter funding and credit conditions.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm"
+    },
+    {
+      "text": "Adobe CEO Shantanu Narayen to step down after successor installed, adding leadership-transition risk during intense AI-driven product and pricing shifts.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/12/adobe-ceo-shantanu-narayen-step-down.html"
+    },
+    {
+      "text": "Meta delays rollout of a new AI model over performance concerns, underscoring reliability bottlenecks and rising competitive pressure in frontier model releases.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html"
+    },
+    {
+      "text": "Ukraine will provide drone-combat videos for AI training, accelerating military AI development while raising data-governance and escalation concerns.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-drones-ai-models-training.html"
+    },
+    {
+      "text": "NASA says Artemis II remains on track for April 1, a key milestone for crewed lunar operations and for validating deep-space mission systems.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2026/03/12/science/nasa-moon-artemis-launch-april.html"
+    },
+    {
+      "text": "Researchers identify blood-protein patterns that may detect Alzheimer\u2019s earlier, potentially enabling scalable screening and earlier intervention trials.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260312020104.htm"
+    },
+    {
+      "text": "A new \u201csuper antibiotic\u201d targets deadly gut infection without wiping out the microbiome, a potential breakthrough against resistance and collateral damage.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260311004824.htm"
+    },
+    {
+      "text": "NASA\u2019s DART mission altered an asteroid\u2019s orbit around the Sun, strengthening planetary-defense feasibility beyond binary impact tests.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa"
+    }
+  ]
+}

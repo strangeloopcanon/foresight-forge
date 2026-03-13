@@ -1,0 +1,60 @@
+{
+  "date": "2026-03-12",
+  "assessments": [
+    {
+      "id": "0371b3fa-bd54-4a5e-8f71-d73f48a39ee3",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items discuss steps to increase Russian oil flows amid the Iran conflict, but provide no IEA statement/MOMR or member-country releases quantifying cumulative coordinated release volumes under a March 2026 plan."
+    },
+    {
+      "id": "cf60e256-d444-40c0-a970-d9a9b8c95853",
+      "status": "pending",
+      "status_rationale": "News references elevated oil prices (around $100) and policy responses, but does not report an ICE Brent front-month settlement at or above $130 on any day."
+    },
+    {
+      "id": "d4408365-9d61-4bda-a421-2f7caf3aecd8",
+      "status": "pending",
+      "status_rationale": "No EIA weekly retail gasoline price data is cited in the provided news indicating prices at or above $4.25/gal for any week."
+    },
+    {
+      "id": "8738b365-efa6-4b5b-adc0-4c2c1c18adb5",
+      "status": "pending",
+      "status_rationale": "Articles describe Iran constricting/targeting the Strait of Hormuz and U.S. Navy escort plans, but do not provide UKMTO/IMB incident counts or confirm a 30-day window with 10+ distinct security incidents."
+    },
+    {
+      "id": "dba55a82-83f6-4393-82ef-109bd3ef8132",
+      "status": "pending",
+      "status_rationale": "No Drewry World Container Index print level is reported in the provided items, so the $5,000/FEU threshold cannot be assessed."
+    },
+    {
+      "id": "910682ad-ee17-4601-b72f-2279ff1bcdb0",
+      "status": "pending",
+      "status_rationale": "Despite market-stress themed coverage (risk-off moves, fading rate-cut expectations), there is no official Fed (Board/FOMC) press release announcing a new or expanded liquidity backstop."
+    },
+    {
+      "id": "aca8e8c6-638d-49fe-abad-6b296d27d878",
+      "status": "pending",
+      "status_rationale": "Market commentary suggests equity weakness and possible further declines, but the news does not document a specific day where the S&P 500 closed down 5.0% or more."
+    },
+    {
+      "id": "dbcada2c-05c9-4031-ba4f-4bb12de7785e",
+      "status": "needs-clarification",
+      "status_rationale": "CNBC reports new Section 301 probes into 60 economies, but the prediction requires a USTR Federal Register notice proposing new/increased tariffs (\u226510%) on Mexico and/or the EU covering \u2265$50B in annual import value. The provided headline does not establish that such a tariff proposal notice has been published or that it meets the scope/coverage thresholds."
+    },
+    {
+      "id": "e27aa609-cbaa-4c8d-84ec-63ec27faa2c8",
+      "status": "pending",
+      "status_rationale": "No SEC filing disclosure is cited showing Alphabet/Microsoft/Amazon/Meta/Apple raising 2026 capex guidance by \u2265$10B specifically due to AI infrastructure/data centers."
+    },
+    {
+      "id": "b223174f-86bb-4cbe-98b7-3166d24b1344",
+      "status": "pending",
+      "status_rationale": "No Oracle earnings release or 10-Q/10-K figure is provided indicating remaining performance obligations of at least $150B."
+    },
+    {
+      "id": "43be39a3-03c3-4b47-8ecf-a9ca4efbdf80",
+      "status": "pending",
+      "status_rationale": "No ClinicalTrials.gov registration is referenced for a Phase 3 oral obstructive sleep apnea treatment trial with planned enrollment \u2265500."
+    }
+  ]
+}

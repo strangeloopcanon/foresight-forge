@@ -1,0 +1,206 @@
+{
+  "date": "2026-03-13",
+  "predictions": [
+    {
+      "text": "NASA will launch Artemis II (crewed mission) by 2026-04-05 (inclusive).",
+      "category": "other",
+      "horizon_days": 23,
+      "deadline": "2026-04-05",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if NASA (or NASA TV/webcast archive) confirms Artemis II liftoff by 2026-04-05 23:59 ET; otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/12/science/nasa-moon-artemis-launch-april.html"
+      ],
+      "monitoring_signals": [
+        "NASA Artemis II official schedule updates",
+        "Launch readiness review (LRR) outcomes",
+        "Weather/technical scrub announcements at Kennedy Space Center"
+      ],
+      "rationale": "NASA states April 1 is on track, but crewed launches often slip due to technical and range constraints.",
+      "id": "bd1551e0-509a-46e6-beb5-7c5cdfb36428",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Adobe will file an 8-K (or publish an equivalent investor release) formally naming its next CEO by 2026-06-30.",
+      "category": "tech",
+      "horizon_days": 109,
+      "deadline": "2026-06-30",
+      "confidence_pct": 65,
+      "verification_criteria": "YES if Adobe files an SEC 8-K/10-Q/10-K or issues an investor press release naming a successor CEO (not merely interim) by the deadline; otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/12/adobe-ceo-shantanu-narayen-step-down.html"
+      ],
+      "monitoring_signals": [
+        "Adobe SEC filings (8-K) for leadership changes",
+        "Adobe investor relations press releases",
+        "Board/executive announcements in earnings materials"
+      ],
+      "rationale": "Publicly announced step-downs typically coincide with an identified successor within 1\u20132 quarters.",
+      "id": "27ea96cc-5e56-41e0-b688-8ac244ec142e",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "Meta will publicly launch a new flagship Llama major-version model (marketed as a new generation beyond its current flagship) by 2026-06-30.",
+      "category": "tech",
+      "horizon_days": 109,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "verification_criteria": "YES if Meta releases a new major-version Llama model (e.g., 'Llama 4' or equivalent explicitly positioned as the next flagship generation) via official Meta/Meta AI channels by the deadline; otherwise NO.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html"
+      ],
+      "monitoring_signals": [
+        "Meta AI blog announcements",
+        "GitHub/model card releases under Meta branding",
+        "Conference keynotes and Meta earnings-call statements on model release timing"
+      ],
+      "rationale": "Delay signals execution risk, but competitive pressure makes a flagship release within months plausible.",
+      "id": "e04f3af1-c481-43a7-abc2-eb575f6aac11",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The FOMC will not cut the federal funds target range at any meeting through (and including) the 2026-06-17 FOMC decision.",
+      "category": "rates",
+      "horizon_days": 96,
+      "deadline": "2026-06-17",
+      "confidence_pct": 55,
+      "verification_criteria": "YES if every FOMC decision from 2026-03-18 through 2026-06-17 leaves the target range unchanged or higher versus the prior meeting; NO if any cut occurs by 2026-06-17.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html",
+        "https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html"
+      ],
+      "monitoring_signals": [
+        "CME FedWatch probabilities for 2026 meetings",
+        "Monthly CPI/PCE prints and inflation expectations surveys",
+        "Energy price pass-through indicators (gasoline, airline fares)"
+      ],
+      "rationale": "Oil-supply shock and inflation risk reduce near-term easing odds unless growth deteriorates rapidly.",
+      "id": "d6619695-d139-4dce-92ca-cbf424f7337a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. Navy (or DoD) will publicly confirm at least one escorted transit of a commercial oil tanker through the Strait of Hormuz by 2026-04-30.",
+      "category": "geopolitics",
+      "horizon_days": 48,
+      "deadline": "2026-04-30",
+      "confidence_pct": 60,
+      "verification_criteria": "YES if a DoD/Navy press release, briefing transcript, or official social media statement confirms an escort operation for a named (or clearly identified) commercial oil tanker through Hormuz by the deadline; otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/12/iran-war-us-navy-strait-of-hormuz-oil-bessent.html"
+      ],
+      "monitoring_signals": [
+        "CENTCOM/5th Fleet press briefings",
+        "AIS tracking of convoys and reported naval escorts",
+        "Statements from major tanker owners/charterers about escorted voyages"
+      ],
+      "rationale": "Announced intent plus high disruption risk makes at least one confirmed escort likely within weeks.",
+      "id": "575ffcc8-fe37-4d94-becf-487e6047b497",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "OFAC (or U.S. Treasury) will extend or expand written authorization allowing purchases/transactions involving Russian-origin crude oil already loaded ('at sea') for market-stabilization purposes by 2026-05-15.",
+      "category": "geopolitics",
+      "horizon_days": 63,
+      "deadline": "2026-05-15",
+      "confidence_pct": 35,
+      "verification_criteria": "YES if OFAC issues a new/updated General License, FAQ, or formal guidance after 2026-03-13 that explicitly extends eligibility (time window, counterparties, or scope) for Russian crude already loaded/at sea; otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/13/bessent-us-allows-purchase-russian-oil-stranded-sea-energy-markets.html"
+      ],
+      "monitoring_signals": [
+        "OFAC General Licenses and FAQ updates",
+        "Treasury/State press briefings on sanctions enforcement flexibility",
+        "Reporting on stranded cargo volumes and price dislocations"
+      ],
+      "rationale": "Emergency flexibility is plausible but politically sensitive; extension depends on market stress severity.",
+      "id": "f7092b1d-9ea2-4ec5-bc86-d38eb45cff55",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "USTR will publish at least one Federal Register notice proposing Section 301 trade remedies (additional duties and/or import restrictions) explicitly tied to the March 2026 forced-labor probes, covering at least 3 named economies and at least $10B in total referenced annual import value by 2026-06-30.",
+      "category": "macro",
+      "horizon_days": 109,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "verification_criteria": "YES if a Federal Register notice (or USTR notice) proposes remedies under Section 301 that explicitly reference the forced-labor probes and lists \u22653 economies with combined cited annual import value \u2265$10B; otherwise NO.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/13/us-section-301-probe-trade-trump-labor-practices.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register searches for USTR Section 301 notices",
+        "USTR press releases on investigation timelines",
+        "Industry comment periods and hearing schedules"
+      ],
+      "rationale": "Launching broad probes raises odds of remedies, but procedural steps can push actions past June.",
+      "id": "ee505d36-224f-4f96-a6f2-931b5148928e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Fitch Ratings will publish a report/press release stating that the U.S. private credit default rate (as defined by Fitch) reached or exceeded 10.0% for any trailing-12-month period ending by 2026-06-30.",
+      "category": "markets",
+      "horizon_days": 109,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "YES if Fitch explicitly reports a U.S. private credit default rate \u226510.0% for a trailing-12-month period with an end date on or before 2026-06-30; otherwise NO.",
+      "evidence": [
+        "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d"
+      ],
+      "monitoring_signals": [
+        "Fitch private credit default updates",
+        "BDC/credit fund earnings with non-accrual increases",
+        "Refinancing volumes and distressed-exchange activity"
+      ],
+      "rationale": "Defaults were already near record levels in 2025; further tightening and slowdown could push into double digits.",
+      "id": "289f53d5-b17d-4196-830c-770a75f65e1c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "FDA will grant Breakthrough Device Designation to at least one blood-based test intended to detect or aid early detection of Alzheimer\u2019s disease by 2026-12-31.",
+      "category": "other",
+      "horizon_days": 293,
+      "deadline": "2026-12-31",
+      "confidence_pct": 25,
+      "verification_criteria": "YES if an FDA database update or company press release confirms Breakthrough Device Designation for a blood-based Alzheimer\u2019s detection test by the deadline; otherwise NO.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/03/260312020104.htm"
+      ],
+      "monitoring_signals": [
+        "Company PRs from major diagnostics firms",
+        "FDA Breakthrough Devices program announcements",
+        "Large prospective validation study readouts for blood biomarkers"
+      ],
+      "rationale": "Scientific momentum is strong, but regulatory designation timing depends on sponsor submissions and evidence packages.",
+      "id": "4940f3c9-0357-48b2-8b87-849a11da7259",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "A Phase 1 or Phase 2 interventional clinical trial of a narrow-spectrum antibiotic specifically for Clostridioides difficile (C. diff) infection that claims microbiome-sparing properties will be newly registered on ClinicalTrials.gov by 2026-12-31.",
+      "category": "other",
+      "horizon_days": 293,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "verification_criteria": "YES if ClinicalTrials.gov posts a new Phase 1/2 interventional study for a C. diff antibiotic with sponsor materials describing microbiome-sparing/narrow-spectrum intent by the deadline; otherwise NO.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/03/260311004824.htm"
+      ],
+      "monitoring_signals": [
+        "ClinicalTrials.gov new registrations mentioning C. difficile and microbiome-sparing",
+        "Biotech pipeline announcements in anti-infectives",
+        "NIH/BARDA funding awards for C. diff therapeutics"
+      ],
+      "rationale": "Promising preclinical/early results often translate into early-phase trials within a year, but financing and tox packages can delay.",
+      "id": "5fa6ed94-ddbb-447a-af28-f66a48a765d7",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
