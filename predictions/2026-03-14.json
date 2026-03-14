@@ -1,0 +1,210 @@
+{
+  "date": "2026-03-14",
+  "predictions": [
+    {
+      "text": "Freddie Mac\u2019s weekly Primary Mortgage Market Survey will report the 30-year fixed-rate mortgage average at or above 7.75% in at least one weekly release.",
+      "category": "rates",
+      "horizon_days": 78,
+      "deadline": "2026-05-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if any Freddie Mac PMMS weekly release dated on/before 2026-05-31 lists the 30-year FRM average rate >= 7.75%. Otherwise NO.",
+      "evidence": [
+        "Mortgage rates jumped to a 7-month high, threatening spring home sales and affordability as financing costs re-accelerate. (CNBC, 2026-03-13)"
+      ],
+      "monitoring_signals": [
+        "Freddie Mac PMMS weekly 30-year FRM level",
+        "10-year Treasury yield level and volatility",
+        "MBS current-coupon spreads and rate-lock volumes"
+      ],
+      "rationale": "Rates have recently re-accelerated; a further move higher is plausible if term premia stay elevated and inflation progress stalls.",
+      "id": "aed10fab-743c-4dc4-8cc6-711bf9154d8c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "MBA\u2019s weekly Purchase Index (4-week moving average) will be down at least 20% year-over-year in at least one weekly release.",
+      "category": "macro",
+      "horizon_days": 108,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if, in any Mortgage Bankers Association weekly applications report dated on/before 2026-06-30, the purchase index 4-week moving average is <= -20% YoY (as stated or computable from published YoY figure). Otherwise NO.",
+      "evidence": [
+        "Mortgage rates jumped to a 7-month high, threatening spring home sales and affordability as financing costs re-accelerate. (CNBC, 2026-03-13)"
+      ],
+      "monitoring_signals": [
+        "MBA Weekly Applications Survey (purchase index YoY, 4-week avg)",
+        "Freddie Mac PMMS mortgage rates",
+        "Homebuilder incentives and inventory measures"
+      ],
+      "rationale": "Higher financing costs typically transmit quickly to purchase applications, especially during the spring selling season.",
+      "id": "df34f291-5f63-4e86-8a35-3c269e13b4d2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "NAR will report existing-home sales at or below 3.80 million SAAR in at least one monthly release.",
+      "category": "macro",
+      "horizon_days": 139,
+      "deadline": "2026-07-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if any National Association of Realtors Existing-Home Sales release dated on/before 2026-07-31 reports SAAR <= 3.80 million for the reported month. Otherwise NO.",
+      "evidence": [
+        "Mortgage rates jumped to a 7-month high, threatening spring home sales and affordability as financing costs re-accelerate. (CNBC, 2026-03-13)",
+        "U.S. Q4 GDP revised down to 0.7% annualized while January core inflation ran 3.1%. (CNBC, 2026-03-13)"
+      ],
+      "monitoring_signals": [
+        "NAR pending-home-sales index and existing-home sales SAAR",
+        "Mortgage purchase applications and rate-lock data",
+        "Months\u2019 supply and median price trends"
+      ],
+      "rationale": "Affordability strain plus softer growth increases odds of a weak existing-sales print before peak season ends.",
+      "id": "bd8b9f52-4458-4d06-890b-0b640035f06a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The 10-year U.S. Treasury yield will close at or above 5.25% on at least one trading day (UST 10Y constant maturity, market close).",
+      "category": "rates",
+      "horizon_days": 108,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if the 10-year Treasury yield (e.g., Treasury.gov daily yield or widely cited 10Y benchmark close) is reported at a market close >= 5.25% on any trading day on/before 2026-06-30. Otherwise NO.",
+      "evidence": [
+        "Investors are reportedly shunning U.S. debt as a safe haven during the Iran conflict, implying rising risk/term premia. (MarketWatch, 2026-03-13)",
+        "U.S. Q4 GDP revised down to 0.7% annualized while January core inflation ran 3.1%. (CNBC, 2026-03-13)"
+      ],
+      "monitoring_signals": [
+        "10Y yield daily closes; term premium estimates",
+        "Inflation surprise indices; CPI/PCE releases",
+        "Auction demand metrics and foreign official flows"
+      ],
+      "rationale": "If haven demand is impaired and inflation remains sticky, term premia could push 10Y yields to new highs despite slower growth.",
+      "id": "61cef913-616c-46d0-b58b-e3d7f2d67ef5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one U.S. Treasury nominal coupon auction (10-year or 30-year) will show both a high-yield tail of at least 2.0 bps and a bid-to-cover ratio of 2.25 or lower.",
+      "category": "markets",
+      "horizon_days": 108,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if any Treasury 10Y or 30Y nominal auction result published on TreasuryDirect on/before 2026-06-30 has (i) high yield minus when-issued yield >= 0.020% (2.0 bps) and (ii) bid-to-cover <= 2.25. Otherwise NO.",
+      "evidence": [
+        "Investors are reportedly shunning U.S. debt as a safe haven during the Iran conflict, implying rising risk/term premia. (MarketWatch, 2026-03-13)",
+        "Mortgage rates jumped to a 7-month high, consistent with rising long-end yields. (CNBC, 2026-03-13)"
+      ],
+      "monitoring_signals": [
+        "Treasury auction tails, bid-to-cover, indirect/direct bidder shares",
+        "Dealer balance-sheet usage and repo specialness",
+        "MOVE index and rate-vol levels"
+      ],
+      "rationale": "Weaker marginal demand plus higher rate volatility raises the probability of a poorly absorbed long-end auction.",
+      "id": "418c79ac-8f97-49fd-81bb-470553b41a62",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE BofA US High Yield Index Option-Adjusted Spread (OAS) will close at or above 600 bps on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 108,
+      "deadline": "2026-06-30",
+      "confidence_pct": 32,
+      "verification_criteria": "Resolves YES if ICE BofA US High Yield Index OAS (e.g., FRED series BAMLH0A0HYM2) is reported at a daily close >= 6.00 (600 bps) on/before 2026-06-30. Otherwise NO.",
+      "evidence": [
+        "Oil closed above $100 for a second day, up ~40% since the war began; supply-risk premiums persist. (CNBC, 2026-03-13)",
+        "U.S. Q4 GDP revised down to 0.7% annualized. (CNBC, 2026-03-13)"
+      ],
+      "monitoring_signals": [
+        "HY OAS (FRED/ICE) and CCC spreads",
+        "Default-rate trackers and distressed-debt ratios",
+        "Equity volatility and funding spreads"
+      ],
+      "rationale": "Geopolitical energy shock plus slowing growth increases downside tail risk for credit, though base case remains below major stress levels.",
+      "id": "d9014f48-ff8f-4dda-b1b6-95d8fb5309b2",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one major semiconductor manufacturer (Intel, TSMC, Samsung Electronics, SK hynix, Micron, Texas Instruments, or GlobalFoundries) will explicitly cite helium supply disruption/constraints tied to Qatar in an earnings call transcript or SEC filing.",
+      "category": "tech",
+      "horizon_days": 78,
+      "deadline": "2026-05-31",
+      "confidence_pct": 30,
+      "verification_criteria": "Resolves YES if, on/before 2026-05-31, an earnings call transcript or an SEC filing (10-Q/10-K/8-K or equivalent) from any named firm explicitly mentions helium supply disruption/constraints and links it to Qatar (e.g., 'Qatar helium', 'Qatari helium shutdown'). Otherwise NO.",
+      "evidence": [
+        "Qatar helium shutdown could disrupt semiconductor supply chains within weeks. (Tom's Hardware, 2026-03-13)"
+      ],
+      "monitoring_signals": [
+        "Company earnings-call transcripts (keyword: helium, Qatar)",
+        "Industrial gas supplier updates (Air Liquide, Linde, Air Products)",
+        "Semiconductor fab utilization and lead-time commentary"
+      ],
+      "rationale": "If the shutdown persists, it is likely to show up quickly in supply-chain risk disclosures or Q&A.",
+      "id": "4881b340-a1b9-4862-a038-8dec91723901",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "A U.S. hyperscaler (Alphabet/Google, Amazon/AWS, Microsoft, Meta, or Apple) will publicly announce a nuclear-power offtake agreement for data centers with contracted capacity of at least 300 MW (nameplate or contracted).",
+      "category": "tech",
+      "horizon_days": 292,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if, on/before 2026-12-31, any named firm issues a press release, SEC filing, or official blog post announcing a nuclear energy offtake/PPA (existing nuclear or SMR) for data centers with stated contracted capacity >= 300 MW. Otherwise NO.",
+      "evidence": [
+        "AI data-center infrastructure expansion is accelerating (Eaton acquisition; Nvidia GTC focus on compute/memory/network constraints). (CNBC, 2026-03-13)"
+      ],
+      "monitoring_signals": [
+        "Company sustainability/energy procurement announcements",
+        "Utility/IPP press releases and interconnection filings",
+        "Data-center load forecasts and regional grid constraints"
+      ],
+      "rationale": "AI-driven power demand and grid constraints make large, firm clean power contracts increasingly attractive and politically supportable.",
+      "id": "6d5465f1-69d2-4357-89ba-3336823f84b6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Iran\u2019s crude oil exports will average at least 1.0 million barrels per day lower than their February 2026 average for a continuous 4-week period, as estimated by at least one major tanker-tracking provider (Kpler or Vortexa) or the IEA.",
+      "category": "energy",
+      "horizon_days": 108,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Resolves YES if Kpler, Vortexa, or IEA publications/data cited publicly on/before 2026-06-30 show a continuous 4-week average Iran crude export level that is >=1.0 mb/d below the provider\u2019s stated/derived February 2026 average. Otherwise NO.",
+      "evidence": [
+        "U.S. strikes hit Iran\u2019s Kharg Island military targets; escalation risk around shipping lanes persists. (NYT, 2026-03-13)",
+        "Oil up ~40% since the war began; supply-risk premiums persist. (CNBC, 2026-03-13)"
+      ],
+      "monitoring_signals": [
+        "Kpler/Vortexa Iran export estimates and loading activity near Kharg",
+        "AIS disruptions, insurance and shipping route changes",
+        "OPEC/IEA monthly supply commentary"
+      ],
+      "rationale": "Kharg-related disruption or heightened sanctions/interdictions could materially reduce exports for at least a month.",
+      "id": "57c2fa2a-775d-44b6-bc3f-f1ca49ad0a8f",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "BLS CPI will show CPI Shelter (seasonally adjusted) rising less than 3.0% year-over-year in at least one monthly CPI release.",
+      "category": "macro",
+      "horizon_days": 292,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "Resolves YES if any BLS CPI release dated on/before 2026-12-31 reports CPI-U Shelter index (or Shelter component) YoY inflation < 3.0% (not rounded up). Otherwise NO.",
+      "evidence": [
+        "Growth has softened (Q4 GDP revised down), while inflation remains a policy constraint. (CNBC, 2026-03-13)"
+      ],
+      "monitoring_signals": [
+        "BLS CPI shelter and OER month-over-month trends",
+        "Zillow/Apartment List rent indices (lead indicators)",
+        "Vacancy rates and new lease rent growth"
+      ],
+      "rationale": "New-lease rent measures have tended to lead CPI shelter; slower growth and affordability pressure increase odds of continued shelter disinflation.",
+      "id": "49aa3bed-3d2e-413d-b68f-ecb6b52441aa",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

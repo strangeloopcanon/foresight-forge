@@ -1,0 +1,118 @@
+{
+  "bullets": [
+    {
+      "text": "BLS JOLTS: January job openings and separations changed little; hires flat\u2014labor market cooling but not collapsing.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/jolts_03132026.htm"
+    },
+    {
+      "text": "U.S. Q4 GDP revised down to 0.7% annualized while January core inflation ran 3.1%, complicating near-term easing.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html"
+    },
+    {
+      "text": "Mortgage rates jumped to a 7\u2011month high, threatening spring home sales and affordability as financing costs re-accelerate.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/13/mortgage-rates-7-month-high.html"
+    },
+    {
+      "text": "Oil closed above $100 for a second day, up ~40% since the war began; supply-risk premiums persist despite U.S. price-relief measures.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html"
+    },
+    {
+      "text": "During the Iran conflict, investors are reportedly shunning U.S. debt as a safe haven, implying rising risk/term premia.",
+      "tags": [
+        "markets",
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/investors-are-shunning-u-s-debt-as-a-haven-play-during-the-iran-conflict-f84c9f4e"
+    },
+    {
+      "text": "U.S. is sending additional Marines and warships to the Middle East; strikes hit Iran\u2019s Kharg Island military targets, raising escalation risk around shipping lanes.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/03/13/world/middleeast/us-marines-warships-middle-east.html"
+    },
+    {
+      "text": "Seizing oil tankers has cost the U.S. tens of millions, highlighting fiscal and legal blowback from coercive energy-security tactics.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/13/us/politics/trump-seized-oil-tankers-cost.html"
+    },
+    {
+      "text": "A judge quashed DOJ subpoenas seeking Fed records in a Powell probe; DOJ appeal keeps uncertainty over Fed independence and executive-branch pressure.",
+      "tags": [
+        "rates",
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/13/fed-jerome-powell-investigation-trump-pirro-doj.html"
+    },
+    {
+      "text": "Nvidia\u2019s GTC signals an AI-hardware shift: CPUs take center stage alongside GPUs as models and inference push memory and networking constraints.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html"
+    },
+    {
+      "text": "Eaton finalized an acquisition to expand AI data-center power and electrical infrastructure capabilities, reinforcing the capex cycle around AI buildouts.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/13/eaton-finalizes-a-smart-acquisition-to-advance-its-ai-data-center-ambitions.html"
+    },
+    {
+      "text": "Qatar helium shutdown could disrupt semiconductor supply chains within weeks, underscoring fragility in critical industrial-gas inputs for chip manufacturing.",
+      "tags": [
+        "tech",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock"
+    },
+    {
+      "text": "Research links microplastics exposure to potential brain damage pathways tied to Alzheimer\u2019s and Parkinson\u2019s, strengthening the case for tighter plastics regulation and monitoring.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260313002637.htm"
+    },
+    {
+      "text": "Scientists resolved a 20\u2011year nuclear-physics mystery in how heavy elements like gold form, refining models of r\u2011process nucleosynthesis from extreme cosmic events.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260313002633.htm"
+    },
+    {
+      "text": "Fed issued enforcement actions involving former employees of two banks, a reminder of ongoing supervisory scrutiny on misconduct, compliance failures, and personal accountability.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm"
+    }
+  ]
+}

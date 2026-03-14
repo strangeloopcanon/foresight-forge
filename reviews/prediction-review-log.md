@@ -2158,3 +2158,12 @@ On markets and policy, the headlines point to risk-off conditions (equity techni
 
 ---
 
+
+## 2026-03-13
+
+Today’s news flow is dominated by escalation and market impacts related to the Iran conflict (oil above $100, U.S. deployments, tanker seizures, Strait of Hormuz focus). This meaningfully increases the salience of the Strait-of-Hormuz escort forecast and the OFAC/Russian-crude-authorization forecast, but the provided headlines do not contain the specific, confirmatory language required to resolve either prediction.
+
+Most other predictions are long-horizon corporate, AI, healthcare, and macro items with deadlines in mid-to-late 2026, and today’s bullets don’t provide relevant decision or release evidence. The Fed-related legal stories (subpoenas/probe) are orthogonal to the forecast about FOMC rate cuts; without explicit meeting outcomes, that forecast remains unresolved.
+
+---
+
