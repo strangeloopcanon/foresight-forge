@@ -1,0 +1,193 @@
+{
+  "date": "2026-03-15",
+  "predictions": [
+    {
+      "text": "Meta will publicly announce (press release, SEC filing, or CEO post) a workforce reduction totaling at least 10% of its employees.",
+      "category": "tech",
+      "horizon_days": 107,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if Meta discloses layoffs/force reduction explicitly stated as >=10% of employees (or equivalent count implying >=10% using latest reported headcount) in an SEC filing (8-K/10-Q/10-K) or an official company announcement by the deadline.",
+      "evidence": [
+        "TechCrunch reports Meta considering layoffs affecting up to 20% (2026-03-14)."
+      ],
+      "monitoring_signals": [
+        "Meta 8-K filings and internal memo leaks later confirmed by company",
+        "Earnings-call restructuring/expense commentary",
+        "WARN notices in key states (CA/WA/NY)",
+        "Hiring-freeze or org consolidation announcements"
+      ],
+      "rationale": "Cost-cutting/AI restructuring themes make a sizable reduction plausible, but timing and scale remain uncertain.",
+      "id": "d05ab056-021f-42b8-8589-c4a009124bc2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Berkshire Hathaway will report more than $5.0 billion of common-stock repurchases in at least one fiscal quarter.",
+      "category": "markets",
+      "horizon_days": 245,
+      "deadline": "2026-11-15",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if Berkshire\u2019s Form 10-Q/10-K (or earnings release) shows quarterly common-stock repurchases >$5.0B for any quarter with results released by the deadline.",
+      "evidence": [
+        "CNBC notes Berkshire filing hints at possible share buyback resumption (2026-03-14)."
+      ],
+      "monitoring_signals": [
+        "Berkshire quarterly filings: repurchase line item",
+        "Cash balance and T-bill holdings trends in 10-Q/10-K",
+        "Management commentary on valuation and capital deployment"
+      ],
+      "rationale": "Buybacks tend to resume when Buffett/Munger successors view shares as attractive; magnitude depends on market drawdowns and cash needs.",
+      "id": "09e0a8f5-a809-49ff-80e6-68a7ebb4fa7c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Caesars Entertainment will announce a definitive transaction agreement for an acquisition involving Tilman Fertitta (or a Fertitta-controlled entity).",
+      "category": "markets",
+      "horizon_days": 138,
+      "deadline": "2026-07-31",
+      "confidence_pct": 28,
+      "verification_criteria": "Resolves YES if Caesars files an 8-K and/or issues a press release announcing a signed definitive merger/acquisition agreement with Tilman Fertitta or a Fertitta-controlled buyer by the deadline.",
+      "evidence": [
+        "CNBC reports Fertitta in talks to acquire Caesars (2026-03-14)."
+      ],
+      "monitoring_signals": [
+        "Caesars 8-Ks, deal-rumor confirmations/denials",
+        "Regulatory filings (HSR, state gaming approvals) chatter",
+        "Financing package rumors (banks/term loans/bonds)",
+        "Icahn/public shareholder activity"
+      ],
+      "rationale": "Talks can fail due to financing/regulatory complexity; probability reflects deal risk despite strategic interest.",
+      "id": "7dd112ef-55b5-47ef-b9fe-6f0ebe0f9bbb",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Bitcoin (BTC) will record at least one daily close at or above $90,000 (USD).",
+      "category": "markets",
+      "horizon_days": 107,
+      "deadline": "2026-06-30",
+      "confidence_pct": 37,
+      "verification_criteria": "Resolves YES if CoinMarketCap (or another major aggregator such as CoinGecko) shows BTC-USD daily close >= 90,000 on any day by the deadline.",
+      "evidence": [
+        "CNBC notes bitcoin has outperformed major assets since the war began (2026-03-14)."
+      ],
+      "monitoring_signals": [
+        "Spot BTC ETF net inflows/outflows",
+        "Risk sentiment (VIX, credit spreads) and liquidity conditions",
+        "Dollar index (DXY) and real yields",
+        "Crypto exchange stablecoin supply growth"
+      ],
+      "rationale": "War-risk and liquidity swings can catalyze sharp moves, but crypto remains highly path-dependent.",
+      "id": "a52eb102-433f-4154-9ba3-0806c774b596",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "OPEC+ will announce a single meeting decision that increases the group\u2019s aggregate production targets/quotas by at least 1.5 million barrels per day versus the immediately prior schedule.",
+      "category": "energy",
+      "horizon_days": 107,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if an official OPEC/OPEC+ communique shows a net increase in stated production targets/quotas totaling >=1.5 mb/d relative to the previously published schedule, decided at one meeting by the deadline.",
+      "evidence": [
+        "News cycle highlights sustained Hormuz risk and large coordinated stock releases, raising pressure for supply responses."
+      ],
+      "monitoring_signals": [
+        "OPEC+ meeting calendar and draft communiques",
+        "Saudi/UAE signals about spare capacity deployment",
+        "Oil price levels and time-spread stress (backwardation)",
+        "IEA/OPEC monthly reports on balances"
+      ],
+      "rationale": "If prices/volatility stay elevated, producers may choose a large quota response, though cohesion and politics constrain action.",
+      "id": "b45ba063-70b2-4d99-a83c-2f09268caab4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE Brent will show tight prompt fundamentals: the Brent front-month minus second-month settlement spread will be at least $3.00 per barrel (backwardation) on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 107,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if ICE Brent futures settlements show (Front-month settlement \u2212 Second-month settlement) >= $3.00/bbl on any trading day by the deadline.",
+      "evidence": [
+        "War-risk and shipping disruption concerns have driven risk premia and tighter near-term supply conditions in recent cycles."
+      ],
+      "monitoring_signals": [
+        "Brent 1-2 and 1-6 spreads daily settlements",
+        "Physical differentials (Dated Brent, Dubai) and refinery margins",
+        "Tanker rates/insurance costs affecting effective supply",
+        "SPR/IEA release delivery timing vs demand"
+      ],
+      "rationale": "Even if headline prices are capped, disruptions often express first in prompt spreads.",
+      "id": "1e8cc9cb-1973-42e9-ad65-95852000d984",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "The U.S. will enact a supplemental appropriation or emergency spending package that provides at least $50 billion in incremental Department of Defense budget authority explicitly justified by the Iran conflict/escalation.",
+      "category": "geopolitics",
+      "horizon_days": 199,
+      "deadline": "2026-09-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if a bill becomes law by the deadline and the statutory text/official summary provides >=$50B incremental DoD budget authority with stated purpose tied to the Iran conflict/escalation (e.g., operations, munitions replenishment, deployments).",
+      "evidence": [
+        "NYT highlights war spending pressures and fiscal trade-offs (2026-03-14)."
+      ],
+      "monitoring_signals": [
+        "OMB/White House supplemental requests",
+        "House/Senate Armed Services and Appropriations markups",
+        "CR/omnibus negotiations including emergency defense titles",
+        "DoD reprogramming and readiness/munitions shortfall statements"
+      ],
+      "rationale": "Sustained operations and replenishment needs often drive large supplementals, but politics and deficit concerns may limit size.",
+      "id": "b8b886b2-40c9-43fe-9616-a26c31b9278a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "U.S. initial jobless claims (seasonally adjusted) will show a 4-week moving average at or above 300,000 for at least one weekly release.",
+      "category": "macro",
+      "horizon_days": 107,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves YES if the U.S. Department of Labor weekly claims release reports the 4-week moving average of seasonally adjusted initial claims >=300,000 in any week by the deadline.",
+      "evidence": [
+        "Risk-off and oil-shock conditions frequently feed into broader financial tightening and hiring slowdown with a lag."
+      ],
+      "monitoring_signals": [
+        "Continuing claims trend and insured unemployment rate",
+        "Layoff announcements and WARN notices",
+        "NFIB hiring plans and PMI employment subcomponents",
+        "Credit conditions (SLOOS) and HY spreads"
+      ],
+      "rationale": "A moderate probability reflects the possibility of war/oil-driven tightening, offset by resilience in services and fiscal support.",
+      "id": "e60e711d-d271-445c-bb7d-ebdd0ce4c1ed",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Airbus will report the first flight of at least one of the two Airbus-prepared uncrewed combat aircraft (from Kratos) referenced in its March 2026 announcement.",
+      "category": "tech",
+      "horizon_days": 291,
+      "deadline": "2026-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "Resolves YES if Airbus (or an official partner/government source) issues a press release or public statement confirming first flight of at least one of the two uncrewed combat aircraft referenced in the March 2026 Airbus announcement, by the deadline.",
+      "evidence": [
+        "Airbus stated it is preparing two uncrewed combat aircraft from Kratos for first flight with a European customer (2026-03-14)."
+      ],
+      "monitoring_signals": [
+        "Airbus Defence & Space press releases",
+        "European MoD procurement updates and test-range notices",
+        "Airworthiness/test permits and flight-tracking sightings",
+        "Program milestone slides in Airbus investor materials"
+      ],
+      "rationale": "Programs often slip, but stated preparation for first flight suggests a reasonable chance within the year.",
+      "id": "be4e50f3-5268-4d6b-8c54-092f1c8b8b49",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

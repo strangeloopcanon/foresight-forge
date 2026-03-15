@@ -18,7 +18,7 @@
       ],
       "rationale": "Rates have recently re-accelerated; a further move higher is plausible if term premia stay elevated and inflation progress stalls.",
       "id": "aed10fab-743c-4dc4-8cc6-711bf9154d8c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "Higher financing costs typically transmit quickly to purchase applications, especially during the spring selling season.",
       "id": "df34f291-5f63-4e86-8a35-3c269e13b4d2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Affordability strain plus softer growth increases odds of a weak existing-sales print before peak season ends.",
       "id": "bd8b9f52-4458-4d06-890b-0b640035f06a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -80,7 +80,7 @@
       ],
       "rationale": "If haven demand is impaired and inflation remains sticky, term premia could push 10Y yields to new highs despite slower growth.",
       "id": "61cef913-616c-46d0-b58b-e3d7f2d67ef5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -101,7 +101,7 @@
       ],
       "rationale": "Weaker marginal demand plus higher rate volatility raises the probability of a poorly absorbed long-end auction.",
       "id": "418c79ac-8f97-49fd-81bb-470553b41a62",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -122,7 +122,7 @@
       ],
       "rationale": "Geopolitical energy shock plus slowing growth increases downside tail risk for credit, though base case remains below major stress levels.",
       "id": "d9014f48-ff8f-4dda-b1b6-95d8fb5309b2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -142,7 +142,7 @@
       ],
       "rationale": "If the shutdown persists, it is likely to show up quickly in supply-chain risk disclosures or Q&A.",
       "id": "4881b340-a1b9-4862-a038-8dec91723901",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -162,7 +162,7 @@
       ],
       "rationale": "AI-driven power demand and grid constraints make large, firm clean power contracts increasingly attractive and politically supportable.",
       "id": "6d5465f1-69d2-4357-89ba-3336823f84b6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -183,7 +183,7 @@
       ],
       "rationale": "Kharg-related disruption or heightened sanctions/interdictions could materially reduce exports for at least a month.",
       "id": "57c2fa2a-775d-44b6-bc3f-f1ca49ad0a8f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -203,7 +203,7 @@
       ],
       "rationale": "New-lease rent measures have tended to lead CPI shelter; slower growth and affordability pressure increase odds of continued shelter disinflation.",
       "id": "49aa3bed-3d2e-413d-b68f-ecb6b52441aa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

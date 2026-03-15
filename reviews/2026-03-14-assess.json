@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-14",
+  "assessments": [
+    {
+      "id": "aed10fab-743c-4dc4-8cc6-711bf9154d8c",
+      "status": "pending",
+      "status_rationale": "Today\u2019s headlines include macro/war-related economic coverage but do not report the Freddie Mac PMMS 30-year fixed-rate level (or any weekly release value). No direct evidence to mark the threshold as hit or missed."
+    },
+    {
+      "id": "df34f291-5f63-4e86-8a35-3c269e13b4d2",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets provides MBA Purchase Index (4-week moving average) year-over-year data. Without the weekly index print, the -20% YoY condition cannot be evaluated."
+    },
+    {
+      "id": "bd8b9f52-4458-4d06-890b-0b640035f06a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets do not include a NAR existing-home sales SAAR release or any numeric print that would confirm \u22643.80 million in a given month."
+    },
+    {
+      "id": "61cef913-616c-46d0-b58b-e3d7f2d67ef5",
+      "status": "pending",
+      "status_rationale": "While markets are discussed in connection with the Iran war, the bullets do not state a specific 10-year U.S. Treasury closing yield (nor a close \u22655.25%)."
+    },
+    {
+      "id": "418c79ac-8f97-49fd-81bb-470553b41a62",
+      "status": "pending",
+      "status_rationale": "No Treasury auction results (tail and bid-to-cover for 10Y/30Y nominal coupon auctions) are cited in today\u2019s bullets, so the combined condition cannot be verified."
+    },
+    {
+      "id": "d9014f48-ff8f-4dda-b1b6-95d8fb5309b2",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s items reports the ICE BofA US High Yield OAS closing level; market commentary alone is insufficient to confirm a \u2265600 bps close."
+    },
+    {
+      "id": "4881b340-a1b9-4862-a038-8dec91723901",
+      "status": "pending",
+      "status_rationale": "No earnings call transcript or SEC filing excerpt is included that mentions helium supply disruption/constraints tied to Qatar by any listed semiconductor manufacturer."
+    },
+    {
+      "id": "6d5465f1-69d2-4357-89ba-3336823f84b6",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not include an announcement by a hyperscaler of a nuclear-power offtake agreement for data centers with contracted capacity \u2265300 MW."
+    },
+    {
+      "id": "57c2fa2a-775d-44b6-bc3f-f1ca49ad0a8f",
+      "status": "pending",
+      "status_rationale": "Although multiple items address the Iran war and oil/stockpile releases, none provides Kpler/Vortexa/IEA estimates showing Iran crude exports averaging \u22651.0 mb/d below the February 2026 baseline for a continuous 4-week period."
+    },
+    {
+      "id": "49aa3bed-3d2e-413d-b68f-ecb6b52441aa",
+      "status": "pending",
+      "status_rationale": "No CPI release details are provided in today\u2019s bullets, and there is no mention of CPI Shelter (SA) running below 3.0% YoY in any monthly print."
+    }
+  ]
+}

@@ -2167,3 +2167,12 @@ Most other predictions are long-horizon corporate, AI, healthcare, and macro ite
 
 ---
 
+
+## 2026-03-14
+
+Today’s news flow is dominated by the Iran war and its second-order economic and market impacts (oil, equities, portfolio positioning), plus unrelated politics/culture/science items. That backdrop is relevant contextually to several of the financial/energy predictions (rates, credit spreads, Treasury auctions, oil-related export disruptions), but the bullet list does not contain the specific quantitative releases needed to adjudicate any of them.
+
+As a result, every forecast remains pending: none is directly confirmed or falsified by an explicit data print (e.g., Freddie Mac PMMS rate, MBA Purchase Index YoY, NAR SAAR, 10Y close, auction tail/BTC, HY OAS, CPI Shelter YoY) or by the required documentary evidence (earnings-call/SEC filing citation on Qatar-related helium constraints; hyperscaler nuclear offtake announcement with ≥300 MW; tanker-tracking/IEA export estimates over a four-week window). To progress these, the next step is to pair each prediction with the relevant primary releases (Freddie Mac/MBA/NAR/BLS), market close data (UST 10Y, ICE BofA HY OAS), Treasury auction statistics, and (for Iran exports) Kpler/Vortexa/IEA weekly estimates.
+
+---
+
