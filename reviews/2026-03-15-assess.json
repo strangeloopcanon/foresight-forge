@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-15",
+  "assessments": [
+    {
+      "id": "d05ab056-021f-42b8-8589-c4a009124bc2",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets contain no Meta press release/SEC filing/CEO post about a \u226510% workforce reduction, so the prediction cannot be marked correct or incorrect yet."
+    },
+    {
+      "id": "09e0a8f5-a809-49ff-80e6-68a7ebb4fa7c",
+      "status": "pending",
+      "status_rationale": "No Berkshire Hathaway quarterly reporting or buyback disclosure is included in today\u2019s items; there\u2019s no evidence of a >$5B common-stock repurchase quarter."
+    },
+    {
+      "id": "7dd112ef-55b5-47ef-b9fe-6f0ebe0f9bbb",
+      "status": "pending",
+      "status_rationale": "No coverage in today\u2019s bullets mentions Caesars Entertainment or any Fertitta-related definitive acquisition agreement."
+    },
+    {
+      "id": "a52eb102-433f-4154-9ba3-0806c774b596",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news list does not provide Bitcoin price/close data, so there is no clear evidence that BTC has had a daily close \u2265$90,000."
+    },
+    {
+      "id": "b45ba063-70b2-4d99-a83c-2f09268caab4",
+      "status": "pending",
+      "status_rationale": "No item reports an OPEC+ meeting decision raising aggregate quotas/targets by \u22651.5 million bpd versus the prior schedule."
+    },
+    {
+      "id": "1e8cc9cb-1973-42e9-ad65-95852000d984",
+      "status": "pending",
+      "status_rationale": "While several stories discuss elevated oil prices amid the Iran conflict, none provides the specific ICE Brent front-minus-second month settlement spread reaching \u2265$3.00 backwardation on a given day."
+    },
+    {
+      "id": "b8b886b2-40c9-43fe-9616-a26c31b9278a",
+      "status": "pending",
+      "status_rationale": "The news reflects an ongoing Iran conflict and related U.S. policy deliberations, but it does not report enactment of a supplemental/emergency appropriation providing \u2265$50B in incremental DoD budget authority explicitly justified by the Iran conflict."
+    },
+    {
+      "id": "e60e711d-d271-445c-bb7d-ebdd0ce4c1ed",
+      "status": "pending",
+      "status_rationale": "No release or discussion of U.S. initial jobless claims or the 4-week moving average appears in today\u2019s bullets."
+    },
+    {
+      "id": "be4e50f3-5268-4d6b-8c54-092f1c8b8b49",
+      "status": "pending",
+      "status_rationale": "There is no report today about Airbus or any first flight of the referenced Airbus-prepared uncrewed combat aircraft."
+    }
+  ]
+}

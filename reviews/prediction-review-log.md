@@ -2176,3 +2176,12 @@ As a result, every forecast remains pending: none is directly confirmed or falsi
 
 ---
 
+
+## 2026-03-15
+
+None of the listed predictions can be conclusively validated or falsified from today’s headlines; they largely cover geopolitics (Iran conflict), oil/markets reactions, and assorted domestic/international stories, without the specific corporate filings, price/market microstructure datapoints, or government legislative actions needed to close out the forecast questions.
+
+The main signal relevant to the forecast set is continued escalation risk around Iran and the Strait of Hormuz, with multiple items highlighting elevated oil prices and U.S. deliberations over striking Iranian oil infrastructure. That backdrop increases the plausibility of the oil-market–linked predictions (Brent prompt backwardation; potential OPEC+ responses) and could raise the chance of U.S. defense-related supplemental spending later—but today’s coverage stops short of any concrete OPEC+ quota decision or enacted U.S. appropriation. Monitoring official OPEC+ communiqués, ICE Brent settlement spreads, and U.S. legislative text/votes would be the fastest path to resolving the most news-sensitive forecasts.
+
+---
+

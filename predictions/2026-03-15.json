@@ -19,7 +19,7 @@
       ],
       "rationale": "Cost-cutting/AI restructuring themes make a sizable reduction plausible, but timing and scale remain uncertain.",
       "id": "d05ab056-021f-42b8-8589-c4a009124bc2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Buybacks tend to resume when Buffett/Munger successors view shares as attractive; magnitude depends on market drawdowns and cash needs.",
       "id": "09e0a8f5-a809-49ff-80e6-68a7ebb4fa7c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Talks can fail due to financing/regulatory complexity; probability reflects deal risk despite strategic interest.",
       "id": "7dd112ef-55b5-47ef-b9fe-6f0ebe0f9bbb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -81,7 +81,7 @@
       ],
       "rationale": "War-risk and liquidity swings can catalyze sharp moves, but crypto remains highly path-dependent.",
       "id": "a52eb102-433f-4154-9ba3-0806c774b596",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -102,7 +102,7 @@
       ],
       "rationale": "If prices/volatility stay elevated, producers may choose a large quota response, though cohesion and politics constrain action.",
       "id": "b45ba063-70b2-4d99-a83c-2f09268caab4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "rationale": "Even if headline prices are capped, disruptions often express first in prompt spreads.",
       "id": "1e8cc9cb-1973-42e9-ad65-95852000d984",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -144,7 +144,7 @@
       ],
       "rationale": "Sustained operations and replenishment needs often drive large supplementals, but politics and deficit concerns may limit size.",
       "id": "b8b886b2-40c9-43fe-9616-a26c31b9278a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -165,7 +165,7 @@
       ],
       "rationale": "A moderate probability reflects the possibility of war/oil-driven tightening, offset by resilience in services and fiscal support.",
       "id": "e60e711d-d271-445c-bb7d-ebdd0ce4c1ed",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -186,7 +186,7 @@
       ],
       "rationale": "Programs often slip, but stated preparation for first flight suggests a reasonable chance within the year.",
       "id": "be4e50f3-5268-4d6b-8c54-092f1c8b8b49",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]

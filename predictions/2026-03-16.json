@@ -1,0 +1,207 @@
+{
+  "date": "2026-03-16",
+  "predictions": [
+    {
+      "text": "Canada\u2019s Bill C-22 (lawful access / metadata surveillance bill) will receive Royal Assent and become law.",
+      "category": "geopolitics",
+      "horizon_days": 290,
+      "deadline": "2026-12-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Parl.gc.ca bill status (or Canada Gazette) shows Bill C-22 has received Royal Assent on or before the deadline.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON notes Bill C-22 would mandate mass metadata surveillance and is active in Canadian policy debate.",
+        "Canadian security/telecom policy bills often advance during heightened security narratives."
+      ],
+      "monitoring_signals": [
+        "House of Commons second/third reading votes scheduled or completed",
+        "Senate committee hearings and amendments reported",
+        "Government news releases prioritizing 'lawful access' legislation"
+      ],
+      "rationale": "The bill is already salient and framed as a security necessity; legislative momentum is plausible within 2026, but Senate scrutiny and civil-liberties resistance reduce odds of enactment by year-end.",
+      "id": "b80c0555-94f8-4ce0-82ba-e5b0d71fd6c3",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "DHS will expand the H-2A eligible-country list by adding at least 5 countries relative to the most recent prior designation list.",
+      "category": "macro",
+      "horizon_days": 198,
+      "deadline": "2026-09-30",
+      "confidence_pct": 46,
+      "verification_criteria": "A DHS Federal Register notice (or DHS press release) updating H-2A eligible countries shows net additions of \u22655 countries versus the immediately preceding official list.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON highlights U.S. reliance on migrant labor programs to address farm-worker shortages.",
+        "Eligible-country lists are periodically updated via formal notices."
+      ],
+      "monitoring_signals": [
+        "DHS/State Department consultations on seasonal worker programs",
+        "Farm-state lobbying and USDA statements on labor gaps",
+        "Draft or proposed Federal Register notices related to H-2 programs"
+      ],
+      "rationale": "Labor shortages increase incentives to broaden recruitment channels, and list updates are an administratively straightforward lever compared with major statutory reform.",
+      "id": "179f06f0-c365-4be6-9e31-4e7d1f6d1cac",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Cuba will experience a nationwide disruption of internet access lasting at least 12 consecutive hours, as measured by a major internet-monitoring group.",
+      "category": "geopolitics",
+      "horizon_days": 106,
+      "deadline": "2026-06-30",
+      "confidence_pct": 34,
+      "verification_criteria": "NetBlocks (or Access Now / IODA) reports a nationwide Cuba internet shutdown/disruption persisting \u226512 consecutive hours on or before the deadline.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON describes deepening hardship and unusual public defiance in Cuba, increasing regime-control incentives."
+      ],
+      "monitoring_signals": [
+        "Reports of large protests, strikes, or unrest in multiple provinces",
+        "State media messaging about 'security' and 'public order'",
+        "Real-time connectivity anomalies flagged by NetBlocks/IODA"
+      ],
+      "rationale": "Cuba has precedent for restricting connectivity during unrest; worsening economic stress raises shutdown risk, but the economic and diplomatic costs keep probability moderate.",
+      "id": "bf5646e7-12ba-4443-949b-6d426187c469",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one reputable French polling firm will show a National Rally (RN) or RN-aligned candidate in first place for first-round voting intention in the 2026 Marseille mayoral race.",
+      "category": "geopolitics",
+      "horizon_days": 290,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "A publicly released poll by IFOP, Ipsos, Harris Interactive, Elabe, or OpinionWay reports RN (or explicit RN-allied slate) leading first-round vote intention for Marseille mayor by percentage points (ranked #1) on or before the deadline.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON frames the Marseille mayoral race as a bellwether for France\u2019s trajectory including far-right strength."
+      ],
+      "monitoring_signals": [
+        "National RN polling momentum and local candidate announcements",
+        "Polling releases specifically for Marseille municipal election",
+        "Coalition/endorsement shifts among center-right local lists"
+      ],
+      "rationale": "If the race is increasingly nationalized, RN\u2019s chance to top a first-round poll rises; however, municipal dynamics and fragmented slates make sustained #1 polling uncertain.",
+      "id": "1b5509a2-40b5-4aef-8730-9453cf25e406",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "CDC (or ACIP documentation) will announce a new or expanded active surveillance effort for COVID vaccine adverse events that explicitly states coverage of at least 5 million vaccinated individuals via linked EHR/claims/registry data.",
+      "category": "other",
+      "horizon_days": 198,
+      "deadline": "2026-09-30",
+      "confidence_pct": 29,
+      "verification_criteria": "CDC/ACIP meeting materials, MMWR, or an official CDC press release describes an active surveillance program/pilot for COVID vaccine safety with stated population coverage \u22655,000,000 individuals using linked healthcare data.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON notes a report urging sweeping changes to detect and monitor Covid vaccine harms, increasing institutional pressure for upgrades."
+      ],
+      "monitoring_signals": [
+        "ACIP agenda items on post-market surveillance reform",
+        "HHS/CDC procurement or funding notices for surveillance analytics",
+        "MMWR publications describing new safety-monitoring methods"
+      ],
+      "rationale": "Public trust and policy pressure can drive measurable surveillance expansions, but implementation timelines, privacy constraints, and inter-agency data-linking complexity reduce near-term likelihood.",
+      "id": "4fea64fc-60e9-4fe0-8ef1-89e6bc531f69",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "A 2026 quarterly U.S. \u2018Names of Persons Who Have Chosen to Expatriate\u2019 Federal Register list will contain at least 3,500 names.",
+      "category": "macro",
+      "horizon_days": 290,
+      "deadline": "2026-12-31",
+      "confidence_pct": 37,
+      "verification_criteria": "Any quarterly Federal Register publication in 2026 titled \u2018Names of Persons Who Have Chosen to Expatriate\u2019 lists \u22653,500 individuals (counting names) by the deadline.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON reports the State Department cut the citizenship renunciation fee to $450, potentially lowering barriers."
+      ],
+      "monitoring_signals": [
+        "Federal Register quarterly expatriation lists and counts",
+        "Tax/expatriation advisory firm commentary on demand surge",
+        "Consular appointment backlogs for renunciation services"
+      ],
+      "rationale": "Lower fees and administrative accessibility can lift the tail of renunciation volumes, but the process remains burdensome and driven by broader tax/immigration factors.",
+      "id": "747de6a4-c9ba-4618-ae89-b05e81079ae5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "China will announce a nationwide reduction setting the minimum down payment ratio for first-home mortgages to 15% or lower.",
+      "category": "macro",
+      "horizon_days": 106,
+      "deadline": "2026-06-30",
+      "confidence_pct": 44,
+      "verification_criteria": "A PBoC, State Council, or national financial regulator announcement (or authoritative Xinhua/People\u2019s Daily report of such a policy) states a nationwide first-home minimum down payment ratio \u226415% by the deadline.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON notes China data beating forecasts and easing property contraction, consistent with incremental stabilization policy."
+      ],
+      "monitoring_signals": [
+        "PBoC/NRFC statements on housing support",
+        "Major-city mortgage policy changes later standardized nationally",
+        "Developer funding/support announcements linked to homebuyer demand"
+      ],
+      "rationale": "Authorities have strong incentives to support housing demand and confidence; lowering down payments is a high-impact, administratively direct tool, though policymakers may prefer more targeted local measures.",
+      "id": "1c28f9de-2abb-4f96-9454-8d452ddb559f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At some point, CME FedWatch (or an equivalent widely used futures-implied tool) will show at least a 50% probability of a Fed rate hike at the next scheduled FOMC meeting.",
+      "category": "rates",
+      "horizon_days": 106,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "A timestamped capture from CME FedWatch (or Refinitiv/Bloomberg equivalent probabilities derived from fed funds futures) shows P(hike at next meeting) \u2265 50% on any day on or before the deadline.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON notes growing chatter that the Fed\u2019s next move could be a hike amid sticky inflation risk."
+      ],
+      "monitoring_signals": [
+        "Core inflation surprises and near-term inflation expectations",
+        "Fedspeak emphasizing upside inflation risks",
+        "Front-end rates repricing (SOFR/fed funds futures) after CPI/PCE prints"
+      ],
+      "rationale": "Even without an actual hike, market-implied odds can swing quickly under energy/inflation shocks; however, the hurdle to reach \u226550% for the next meeting remains substantial.",
+      "id": "0a9d58c3-7d3b-4042-8a44-8f1cdedafb93",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "FAO\u2019s global Food Price Index will print at least 10% year-over-year higher in at least one monthly release.",
+      "category": "macro",
+      "horizon_days": 106,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "FAO Food Price Index (headline) YoY change is \u2265 +10.0% in any monthly FAO release dated on or before the deadline.",
+      "evidence": [
+        "STRUCTURED_SUMMARY_JSON emphasizes elevated oil prices from the Iran conflict, which can feed through to fertilizer, freight, and food costs."
+      ],
+      "monitoring_signals": [
+        "Crude/freight cost persistence and fertilizer price indices",
+        "Wheat/corn/rice futures and export restrictions",
+        "FAO sub-index trends (cereals, oils, sugar) accelerating upward"
+      ],
+      "rationale": "Energy and shipping disruptions can amplify food inflation quickly, but harvest outcomes and policy interventions (stock releases/export policies) could cap the YoY rise.",
+      "id": "a3355f58-aac6-48a2-99f5-0f66ac06952b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one of WhatsApp, Signal, Telegram, iMessage, or Meta Messenger will publicly ship post-quantum cryptography (PQC) for end-to-end encryption in a production release (not a research blog only).",
+      "category": "tech",
+      "horizon_days": 290,
+      "deadline": "2026-12-31",
+      "confidence_pct": 48,
+      "verification_criteria": "Official release notes, security documentation, or a vendor blog post tied to a production rollout states that PQC (e.g., ML-KEM/Kyber or other NIST PQC) is deployed for E2EE key establishment/handshake for at least some users by the deadline.",
+      "evidence": [
+        "Broader industry migration toward PQC is accelerating as NIST standards mature and large platforms harden E2EE against long-term threats."
+      ],
+      "monitoring_signals": [
+        "Client release notes mentioning PQC/ML-KEM/Kyber",
+        "Open-source code commits enabling PQC in protocol libraries",
+        "Third-party cryptography audits referencing PQC deployment"
+      ],
+      "rationale": "Large messaging platforms are among the most motivated to adopt PQC for E2EE at scale; timelines are plausible within 2026, though rollout risk and compatibility constraints can delay broad deployment.",
+      "id": "757714bc-41ab-4db4-9d54-39ca46a0728f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

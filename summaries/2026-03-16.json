@@ -1,0 +1,124 @@
+{
+  "bullets": [
+    {
+      "text": "U.S.-Iran war enters third week; Trump faces escalation vs containment decisions with major spillovers for oil supply, allies, and domestic politics.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html"
+    },
+    {
+      "text": "Trump weighs strikes on Iran\u2019s crude-export infrastructure; oil prices remain elevated, amplifying global inflation and recession risks via energy pass-through.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/15/oil-prices-today-iran-war.html"
+    },
+    {
+      "text": "U.S. pressures China to help reopen the Strait of Hormuz; potential Beijing summit delay signals diplomacy being tied to energy-security outcomes.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html"
+    },
+    {
+      "text": "Equities volatile as investors price Iran escalation risk; oil pullbacks spark rebounds in futures, while Asia-Pacific markets slide on sustained energy shock.",
+      "tags": [
+        "markets",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/16/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html"
+    },
+    {
+      "text": "Growing chatter that the Fed\u2019s next move could be a hike highlights sticky inflation risk, potentially keeping financial conditions tight longer than expected.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/it-was-unthinkable-a-couple-of-weeks-ago-but-could-the-next-move-by-the-fed-be-a-rate-hike-dc5e1edb"
+    },
+    {
+      "text": "Bank/financial-sector technicals and drawdowns are flashing stress signals, raising downside tail-risk concerns for broader equities and credit despite mixed fundamentals.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/the-financial-sector-is-sending-some-spooky-technical-signals-about-the-stock-market-683d1343"
+    },
+    {
+      "text": "China\u2019s industrial output and consumption beat forecasts; property investment contraction eases, supporting near-term growth even as structural real-estate risks persist.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html"
+    },
+    {
+      "text": "U.S. turns to migrant labor programs to address farm-worker shortages, underscoring supply-side constraints that can lift food prices and pressure immigration policy.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/15/us/politics/farm-labor-trump-migrant-workers-h2a.html"
+    },
+    {
+      "text": "State Department cuts U.S. citizenship renunciation fee to $450, potentially lowering barriers for tax/expatriation decisions and increasing administrative caseload.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.nytimes.com/2026/03/15/us/us-citizenship-renounce-price-cut.html"
+    },
+    {
+      "text": "Report urges sweeping changes to detect and monitor Covid vaccine harms, signaling renewed focus on pharmacovigilance systems, data quality, and public trust.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/15/health/covid-vaccine-side-effects-cdc-acip.html"
+    },
+    {
+      "text": "Cuba\u2019s deepening hardship fuels unusual public defiance; regional political shifts raise risk of reduced Latin American support, worsening Havana\u2019s economic isolation.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/15/world/americas/desperation-in-cuba-ignites-unusual-acts-of-defiance.html"
+    },
+    {
+      "text": "Marseille\u2019s mayoral race seen as a bellwether for France\u2019s trajectory, including far-right strength and implications for EU politics and investment sentiment.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/15/world/europe/france-marseille-mayor-election-far-right.html"
+    },
+    {
+      "text": "Mars science advances: evidence of hidden subsurface water and twin NASA spacecraft to study atmospheric loss, sharpening targets for habitability and exploration planning.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260314030452.htm"
+    },
+    {
+      "text": "Astronomers identify the source of the brightest fast radio burst, improving models of extreme astrophysical engines and enabling FRBs as cosmological probes.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260315004348.htm"
+    },
+    {
+      "text": "Canada\u2019s Bill C-22 would mandate mass metadata surveillance, raising privacy, civil-liberties, and cross-border data-governance concerns for firms and citizens.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/"
+    }
+  ]
+}
