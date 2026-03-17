@@ -19,7 +19,7 @@
       ],
       "rationale": "The bill is already salient and framed as a security necessity; legislative momentum is plausible within 2026, but Senate scrutiny and civil-liberties resistance reduce odds of enactment by year-end.",
       "id": "b80c0555-94f8-4ce0-82ba-e5b0d71fd6c3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Labor shortages increase incentives to broaden recruitment channels, and list updates are an administratively straightforward lever compared with major statutory reform.",
       "id": "179f06f0-c365-4be6-9e31-4e7d1f6d1cac",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Cuba has precedent for restricting connectivity during unrest; worsening economic stress raises shutdown risk, but the economic and diplomatic costs keep probability moderate.",
       "id": "bf5646e7-12ba-4443-949b-6d426187c469",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -80,7 +80,7 @@
       ],
       "rationale": "If the race is increasingly nationalized, RN\u2019s chance to top a first-round poll rises; however, municipal dynamics and fragmented slates make sustained #1 polling uncertain.",
       "id": "1b5509a2-40b5-4aef-8730-9453cf25e406",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -100,7 +100,7 @@
       ],
       "rationale": "Public trust and policy pressure can drive measurable surveillance expansions, but implementation timelines, privacy constraints, and inter-agency data-linking complexity reduce near-term likelihood.",
       "id": "4fea64fc-60e9-4fe0-8ef1-89e6bc531f69",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "rationale": "Lower fees and administrative accessibility can lift the tail of renunciation volumes, but the process remains burdensome and driven by broader tax/immigration factors.",
       "id": "747de6a4-c9ba-4618-ae89-b05e81079ae5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "Authorities have strong incentives to support housing demand and confidence; lowering down payments is a high-impact, administratively direct tool, though policymakers may prefer more targeted local measures.",
       "id": "1c28f9de-2abb-4f96-9454-8d452ddb559f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "Even without an actual hike, market-implied odds can swing quickly under energy/inflation shocks; however, the hurdle to reach \u226550% for the next meeting remains substantial.",
       "id": "0a9d58c3-7d3b-4042-8a44-8f1cdedafb93",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -180,7 +180,7 @@
       ],
       "rationale": "Energy and shipping disruptions can amplify food inflation quickly, but harvest outcomes and policy interventions (stock releases/export policies) could cap the YoY rise.",
       "id": "a3355f58-aac6-48a2-99f5-0f66ac06952b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -200,7 +200,7 @@
       ],
       "rationale": "Large messaging platforms are among the most motivated to adopt PQC for E2EE at scale; timelines are plausible within 2026, though rollout risk and compatibility constraints can delay broad deployment.",
       "id": "757714bc-41ab-4db4-9d54-39ca46a0728f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

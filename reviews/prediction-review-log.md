@@ -2185,3 +2185,12 @@ The main signal relevant to the forecast set is continued escalation risk around
 
 ---
 
+
+## 2026-03-16
+
+None of the listed predictions are decisively validated or falsified by today’s headlines. The dominant themes in the news set are U.S. domestic politics (including court action against RFK Jr.-associated vaccine policies), geopolitical tension around Iran (oil, travel disruption risk, Hormuz shipping), and several Cuba-related political statements and reporting—none of which directly touch the specific forecast resolution criteria.
+
+The closest topical overlap is the vaccine-policy court ruling, but the relevant forecast is about CDC/ACIP announcing a large-scale (5M+) active adverse-event surveillance expansion via linked administrative/clinical data; the court story is about legality/administration of vaccine policies rather than surveillance infrastructure announcements. Similarly, multiple Cuba stories increase salience for Cuba-related forecasts, but they do not report (nor cite internet monitoring confirmation of) a nationwide 12+ hour internet outage, so the outage prediction remains open.
+
+---
+

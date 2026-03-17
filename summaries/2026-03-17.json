@@ -1,0 +1,126 @@
+{
+  "bullets": [
+    {
+      "text": "Iran conflict elevates tail risks to global growth via shipping disruptions; U.S.-backed Hormuz protection coalition not yet formed, keeping markets on edge.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html"
+    },
+    {
+      "text": "Oil prices jump as Hormuz security doubts persist; higher energy costs could quickly feed inflation and recession risks if sustained.",
+      "tags": [
+        "energy",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html"
+    },
+    {
+      "text": "Moody\u2019s warns recession becomes hard to avoid if oil remains elevated for weeks, highlighting energy-driven downside risk to consumer demand and margins.",
+      "tags": [
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198"
+    },
+    {
+      "text": "Despite geopolitical shock, U.S. equities remain relatively resilient; positioning suggests investors still expect contained economic spillovers or policy backstops.",
+      "tags": [
+        "markets",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.marketwatch.com/story/u-s-stocks-have-been-surprisingly-resilient-as-the-iran-conflict-threatens-global-economic-disruption-thank-industry-analysts-fba3b2ca"
+    },
+    {
+      "text": "Dollar strengthens amid Iran-related inflation fears and risk-off demand, reinforcing the dollar\u2019s safe-haven role even when the shock is oil-price driven.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/the-u-s-dollar-and-crypto-are-both-benefiting-from-the-iran-crisis-in-an-unusual-move-85873834"
+    },
+    {
+      "text": "Nvidia projects up to $1T in Blackwell and Vera Rubin orders through 2027, underscoring hyperscaler capex strength and AI infrastructure demand concentration.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html"
+    },
+    {
+      "text": "Nvidia launches Vera CPU tailored for agentic AI, signaling vertical integration beyond GPUs as AI workloads shift toward full-stack, security, and efficiency constraints.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
+    },
+    {
+      "text": "Prominent investors warn of an AI bubble and valuation reset; private equity also questions software marks, implying potential write-down and funding tightening risk.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html"
+    },
+    {
+      "text": "SEC reportedly preparing to scrap quarterly reporting (shift to semiannual), potentially reducing short-termism but lowering disclosure frequency for public-market investors.",
+      "tags": [
+        "markets",
+        "macro",
+        "other"
+      ],
+      "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/"
+    },
+    {
+      "text": "U.S. weighs conditioning HIV aid to Zambia on greater minerals access, tying health assistance to critical-minerals strategy and raising ethical and diplomatic risks.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/16/health/zambia-hiv-aid-minerals-trump.html"
+    },
+    {
+      "text": "Cuba signals readiness for outside investment while U.S. pressure targets leadership change during negotiations\u2014creating high political risk for any foreign capital.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html"
+    },
+    {
+      "text": "Partial U.S. shutdown leaves TSA unpaid, lengthening airport security lines and increasing travel friction\u2014an incremental drag on services activity and consumer sentiment.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html"
+    },
+    {
+      "text": "New biotech efforts aim for oral GLP-1 obesity drugs potentially competitive with current injectables, raising stakes in weight-loss pharmacology and payer cost dynamics.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/this-biotech-is-working-on-an-glp-1-drug-that-could-be-better-than-the-wegovy-pill-94c8572c"
+    },
+    {
+      "text": "Study links common pesticide exposure to more than doubled Parkinson\u2019s risk, intensifying regulatory and liability pressure around agricultural chemicals.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260315225125.htm"
+    },
+    {
+      "text": "Researchers report systemic cancer regression after injecting a single tumor, supporting next-generation immunotherapy concepts that could broaden efficacy beyond treated sites.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260315225121.htm"
+    }
+  ]
+}

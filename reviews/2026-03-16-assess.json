@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-16",
+  "assessments": [
+    {
+      "id": "b80c0555-94f8-4ce0-82ba-e5b0d71fd6c3",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention Canada\u2019s Bill C-22 advancing to Royal Assent or becoming law. No direct legislative status update is provided."
+    },
+    {
+      "id": "179f06f0-c365-4be6-9e31-4e7d1f6d1cac",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news references DHS changes to the H-2A eligible-country list or a new Federal Register designation adding countries."
+    },
+    {
+      "id": "bf5646e7-12ba-4443-949b-6d426187c469",
+      "status": "pending",
+      "status_rationale": "While there is Cuba-related geopolitical/business coverage, none of the bullets report a nationwide internet disruption in Cuba (let alone confirmation by a major monitoring group) lasting 12+ consecutive hours."
+    },
+    {
+      "id": "1b5509a2-40b5-4aef-8730-9453cf25e406",
+      "status": "pending",
+      "status_rationale": "No polling or Marseille municipal-race polling coverage appears in today\u2019s bullets, and nothing indicates an RN/RN-aligned first-place first-round voting intention in that contest."
+    },
+    {
+      "id": "4fea64fc-60e9-4fe0-8ef1-89e6bc531f69",
+      "status": "pending",
+      "status_rationale": "The vaccine-related story concerns a judge striking down RFK Jr.\u2019s policies, not CDC/ACIP documentation announcing a new/expanded active safety surveillance effort covering 5+ million vaccinated people via linked data."
+    },
+    {
+      "id": "747de6a4-c9ba-4618-ae89-b05e81079ae5",
+      "status": "pending",
+      "status_rationale": "No Federal Register \u2018Names of Persons Who Have Chosen to Expatriate\u2019 list is referenced in today\u2019s news, and there is no evidence about list size (3,500+ names)."
+    },
+    {
+      "id": "1c28f9de-2abb-4f96-9454-8d452ddb559f",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no China housing-finance policy announcement, and nothing about a nationwide first-home minimum down payment ratio being set to 15% or lower."
+    },
+    {
+      "id": "0a9d58c3-7d3b-4042-8a44-8f1cdedafb93",
+      "status": "pending",
+      "status_rationale": "The market coverage mentioned (oil, stocks, dollar, recession risk) does not include any cited CME FedWatch (or equivalent) reading showing a 50%+ probability of a rate hike at the next FOMC meeting."
+    },
+    {
+      "id": "a3355f58-aac6-48a2-99f5-0f66ac06952b",
+      "status": "pending",
+      "status_rationale": "No FAO Food Price Index release is referenced, and there is no evidence in today\u2019s bullets of a 10%+ year-over-year print in any monthly release."
+    },
+    {
+      "id": "757714bc-41ab-4db4-9d54-39ca46a0728f",
+      "status": "pending",
+      "status_rationale": "None of the bullets indicate that WhatsApp, Signal, Telegram, iMessage, or Meta Messenger has shipped post-quantum cryptography for end-to-end encryption in a production release."
+    }
+  ]
+}

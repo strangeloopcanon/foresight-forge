@@ -1,0 +1,208 @@
+{
+  "date": "2026-03-17",
+  "predictions": [
+    {
+      "text": "SEC will publicly propose eliminating the U.S. quarterly (Form 10-Q) reporting requirement in favor of semiannual reporting (via a proposed rule release, Federal Register notice, or formal SEC press release).",
+      "category": "markets",
+      "horizon_days": 197,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if the SEC publishes a proposed rule (Release No. or Federal Register notice) explicitly proposing removal/replacement of the quarterly reporting requirement for domestic issuers (Form 10-Q) with semiannual reporting, or an SEC press release stating the Commission has voted to propose such a change, by the deadline.",
+      "evidence": [
+        "Reuters reports the SEC is preparing to eliminate the quarterly reporting requirement (shift to semiannual). https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/"
+      ],
+      "monitoring_signals": [
+        "SEC rulemaking agenda / spring 2026 unified agenda entries mentioning periodic reporting frequency",
+        "SEC open meeting agendas and webcast dockets referencing Exchange Act periodic reporting modernization",
+        "Federal Register postings for SEC proposed rules mentioning Form 10-Q"
+      ],
+      "rationale": "Media reporting suggests active internal work; however, formal proposal requires Commission action and can be delayed by political/legal pushback and prioritization of other rules.",
+      "id": "33dc2688-f82b-4c96-9573-b29ed27ac08b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The current U.S. federal government shutdown (lapse in appropriations) will last at least 14 consecutive calendar days affecting at least one major department with furloughs or unpaid essential staff.",
+      "category": "macro",
+      "horizon_days": 44,
+      "deadline": "2026-04-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if there is a documented lapse in appropriations lasting >=14 consecutive days, as tracked by CRFB and/or OMB/agency contingency-operation notices, with at least one major department/agency reporting furloughs or unpaid essential staff during that interval, by the deadline.",
+      "evidence": [
+        "NYT reports TSA unpaid during a partial shutdown, implying an ongoing lapse in appropriations with operational impacts. https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html"
+      ],
+      "monitoring_signals": [
+        "CRFB shutdown tracker duration and start/end dates",
+        "OMB/agency shutdown contingency plan updates and payroll statements",
+        "Congressional leadership statements on CR/appropriations timing"
+      ],
+      "rationale": "Operational impacts are already visible, but shutdowns often end quickly once pressure rises; 14 days is a meaningful threshold with moderate odds.",
+      "id": "9473b924-4f93-4f77-beac-a53c4d61aea5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. (DoD/Navy/White House) will announce a named multinational maritime security mission specifically for the Strait of Hormuz/Gulf of Oman with at least 5 participating countries publicly confirmed.",
+      "category": "geopolitics",
+      "horizon_days": 105,
+      "deadline": "2026-06-30",
+      "confidence_pct": 47,
+      "verification_criteria": "Resolves YES if an official U.S. government release (DoD, Navy, CENTCOM, or White House) announces a Hormuz/Gulf of Oman-focused maritime security mission/task force/operation and at least 5 countries are publicly listed/confirmed as participants (in the same release or within 7 days in official partner-government statements) by the deadline.",
+      "evidence": [
+        "Reporting indicates a coalition to protect tankers is 'not ready yet,' implying ongoing effort that could culminate in a formal mission announcement. https://www.cnbc.com/2026/03/16/strait-of-hormuz-trump-says-coalition-to-protect-oil-tankers-not-ready-yet.html"
+      ],
+      "monitoring_signals": [
+        "CENTCOM/Navy press releases mentioning Hormuz convoying/escorts",
+        "Partner defense ministry statements (UK, France, Italy, GCC states, India, etc.)",
+        "NOTAMs/NOTMARs and public briefings indicating coordinated escort operations"
+      ],
+      "rationale": "Escalation risk and commercial pressure increase incentives to formalize a coalition; friction over rules-of-engagement and partner politics remains a key delay factor.",
+      "id": "f809e7ea-b313-4dd5-91e8-590e72991a56",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "ICE WTI (NYMEX) crude oil front-month futures will settle at or above $120.00 per barrel on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 105,
+      "deadline": "2026-06-30",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves YES if the official NYMEX/ICE settlement price for the WTI front-month contract is >= $120.00/bbl on any trading day by the deadline.",
+      "evidence": [
+        "Oil prices are responding sharply to Hormuz security concerns, increasing tail risk of price spikes. https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+        "Moody\u2019s warns recession becomes hard to avoid if oil stays elevated, consistent with scenarios involving sustained high crude. https://www.marketwatch.com/story/moodys-says-a-recession-will-be-hard-to-avoid-if-oil-prices-stay-elevated-for-even-a-few-more-weeks-cd53a198"
+      ],
+      "monitoring_signals": [
+        "Reported incidents/closures/insurance restrictions in Hormuz",
+        "WTI implied volatility and front spreads (backwardation spikes)",
+        "SPR/IEA release announcements and compliance"
+      ],
+      "rationale": "A $120 WTI settle requires either sustained disruption fears or an actual supply interruption; plausible but still a tail outcome within a ~3.5 month window.",
+      "id": "f94cbc08-465d-4c71-b379-b4ffe82c831b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The Philadelphia Semiconductor Index (SOX) will close at least 25% below its 2026-03-03 close on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 105,
+      "deadline": "2026-06-30",
+      "confidence_pct": 36,
+      "verification_criteria": "Resolves YES if the SOX index official close on any trading day is <= 0.75 \u00d7 (SOX close on 2026-03-03), using data from Nasdaq/ICE/major market data vendors, by the deadline.",
+      "evidence": [
+        "Investors warn of an AI bubble/valuation reset risk, which would likely hit semiconductors disproportionately. https://www.cnbc.com/2026/03/16/bill-gurley-ai-bubble-get-rich-quick.html",
+        "Despite resilience so far, macro/geopolitical shocks can still propagate to high-beta sectors. https://www.marketwatch.com/story/u-s-stocks-have-been-surprisingly-resilient-as-the-iran-conflict-threatens-global-economic-disruption-thank-industry-analysts-fba3b2ca"
+      ],
+      "monitoring_signals": [
+        "Semiconductor earnings guidance and hyperscaler capex revisions",
+        "Credit spreads / liquidity stress indicators affecting high-duration equities",
+        "SOX constituents\u2019 daily downside gaps and volatility regime shifts"
+      ],
+      "rationale": "Semis are leveraged to AI capex sentiment and risk-off moves; 25% from a fixed reference close is material but feasible in a volatility spike.",
+      "id": "afabf54e-d365-4be3-b920-35c7b07e139c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one U.S. hyperscaler (Alphabet, Amazon, Microsoft, Meta, or Apple) will announce an incremental AI infrastructure capex increase of at least $5B for its next fiscal year versus prior guidance, explicitly citing Nvidia Blackwell/Vera Rubin (or next-gen Nvidia platform) supply/orders as a driver.",
+      "category": "tech",
+      "horizon_days": 289,
+      "deadline": "2026-12-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Resolves YES if a hyperscaler, in an earnings release/call transcript, investor presentation, or SEC filing, raises its stated capex outlook for the next fiscal year by >=$5B versus a prior published outlook, and explicitly mentions Nvidia Blackwell/Vera Rubin (or named next-gen Nvidia platform) orders/supply/availability as a reason, by the deadline.",
+      "evidence": [
+        "Nvidia projects up to $1T in Blackwell and Vera Rubin orders through 2027, suggesting hyperscaler scale-up and potential guidance changes. https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html",
+        "Nvidia is expanding beyond GPUs (Vera CPU) for agentic AI, reinforcing platform-level procurement narratives. https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
+      ],
+      "monitoring_signals": [
+        "Hyperscaler earnings calls: capex outlook changes and vendor mentions",
+        "Nvidia supply/allocation updates and major customer references",
+        "Datacenter build announcements and procurement lead-time commentary"
+      ],
+      "rationale": "Capex likely grows, but explicit attribution to specific Nvidia platforms is less common in formal guidance, lowering probability.",
+      "id": "cc70d518-92df-4cb8-8b83-1b7d93a91e97",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ClinicalTrials.gov will newly register a Phase 3 trial for an oral GLP-1 (or GLP-1/GIP) agonist for obesity/weight management with planned enrollment of at least 1,500 participants.",
+      "category": "other",
+      "horizon_days": 289,
+      "deadline": "2026-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if a new ClinicalTrials.gov record first posted in 2026 lists: Phase 3; oral administration; indication obesity/weight management (with or without T2D); and planned enrollment >=1,500, by the deadline.",
+      "evidence": [
+        "Reporting highlights intensified development of oral GLP-1 obesity drugs potentially competitive with injectables. https://www.marketwatch.com/story/this-biotech-is-working-on-an-glp-1-drug-that-could-be-better-than-the-wegovy-pill-94c8572c"
+      ],
+      "monitoring_signals": [
+        "ClinicalTrials.gov new registrations containing 'oral' AND 'GLP-1' AND 'obesity'",
+        "Company pipeline updates (Novo Nordisk, Eli Lilly, Pfizer, smaller biotechs)",
+        "FDA meeting/fast-track announcements for oral incretins"
+      ],
+      "rationale": "Competitive pressure and market size support late-stage advancement; the enrollment threshold is high but consistent with obesity outcomes programs.",
+      "id": "9fb7258d-3e15-4b7a-a48c-334f2ff19eab",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "EPA will publish (Federal Register) a proposed rule or registration action that materially restricts use (cancellation, phaseout, or major label restrictions) of at least one widely used agricultural pesticide, explicitly citing epidemiological evidence related to Parkinson\u2019s disease risk.",
+      "category": "macro",
+      "horizon_days": 289,
+      "deadline": "2026-12-31",
+      "confidence_pct": 28,
+      "verification_criteria": "Resolves YES if the U.S. EPA publishes a Federal Register notice proposing cancellation/phaseout/major restriction for an agricultural pesticide and the notice (or linked EPA docket summary) explicitly cites Parkinson\u2019s disease risk evidence as a basis, by the deadline.",
+      "evidence": [
+        "Study reports common pesticide exposure linked to more than doubled Parkinson\u2019s risk, increasing regulatory and liability pressure. https://www.sciencedaily.com/releases/2026/03/260315225125.htm"
+      ],
+      "monitoring_signals": [
+        "EPA docket openings and risk assessments referencing Parkinson\u2019s",
+        "State-level restrictions (e.g., CA DPR) that precede federal actions",
+        "Litigation/settlement news increasing regulatory momentum"
+      ],
+      "rationale": "Health evidence can drive action, but EPA restriction timelines are often slow and legally contested, making a 2026 proposal possible but not likely.",
+      "id": "b0c5954a-9334-4f93-b349-01b198682ba1",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "ClinicalTrials.gov will newly register an interventional oncology trial whose protocol explicitly includes the term 'abscopal' as an endpoint or outcome measure (any phase).",
+      "category": "other",
+      "horizon_days": 289,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if a ClinicalTrials.gov interventional cancer trial first posted in 2026 contains the word 'abscopal' in the endpoints/outcome measures or detailed description fields, by the deadline.",
+      "evidence": [
+        "Researchers report systemic cancer regression after injecting a single tumor, supporting immunotherapy approaches that target abscopal/systemic effects. https://www.sciencedaily.com/releases/2026/03/260315225121.htm"
+      ],
+      "monitoring_signals": [
+        "ClinicalTrials.gov keyword search alerts for 'abscopal'",
+        "Conference abstracts (AACR/ASCO/ESMO) describing intratumoral + systemic response designs",
+        "Company/academic press releases for intratumoral immunotherapy platforms"
+      ],
+      "rationale": "Abscopal effects are a recurring concept and often named directly; the main uncertainty is whether new registrations use the specific term in structured fields.",
+      "id": "6b1bd599-be00-4e36-8b6d-ab220c10003f",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. and Zambia will sign (and publicly release) a bilateral MoU or agreement on critical minerals cooperation that is explicitly referenced in the same announcement as U.S. health/HIV aid continuation or conditions.",
+      "category": "geopolitics",
+      "horizon_days": 197,
+      "deadline": "2026-09-30",
+      "confidence_pct": 30,
+      "verification_criteria": "Resolves YES if an official U.S. government release (State/USAID/DFC/DoC/White House) and/or Zambian government release announces a signed MoU/agreement on critical minerals cooperation and explicitly links it to U.S. health/HIV aid (continuation, conditionality, or negotiated package) in the same release or in cross-referenced official statements within 7 days, by the deadline.",
+      "evidence": [
+        "NYT reports the U.S. is weighing conditioning HIV aid to Zambia on greater minerals access, indicating active linkage discussions. https://www.nytimes.com/2026/03/16/health/zambia-hiv-aid-minerals-trump.html"
+      ],
+      "monitoring_signals": [
+        "State Department/USAID readouts from bilateral meetings",
+        "DFC/EXIM announcements tied to mining/refining projects in Zambia",
+        "Zambian ministry statements on minerals corridors and U.S. partnership"
+      ],
+      "rationale": "The linkage is politically sensitive and could face backlash, but strategic minerals incentives make a formalized package plausible within months.",
+      "id": "9a1cd843-a844-42c3-948e-d8943d926741",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
