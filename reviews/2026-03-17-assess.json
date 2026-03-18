@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-17",
+  "assessments": [
+    {
+      "id": "33dc2688-f82b-4c96-9573-b29ed27ac08b",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items include an SEC-related story (Musk/SEC settlement talks) but no indication of an SEC proposed rulemaking to eliminate Form 10-Q quarterly reporting in favor of semiannual reporting."
+    },
+    {
+      "id": "9473b924-4f93-4f77-beac-a53c4d61aea5",
+      "status": "pending",
+      "status_rationale": "No bulletin references a current U.S. federal shutdown, its duration, or furloughs/unpaid staffing impacts at major departments; the claim cannot be evaluated from today\u2019s news list."
+    },
+    {
+      "id": "f809e7ea-b313-4dd5-91e8-590e72991a56",
+      "status": "pending",
+      "status_rationale": "The news highlights escalatory events around Iran and the Strait of Hormuz (e.g., tanker struck near the Strait), but does not report a U.S./DoD/Navy/White House announcement of a named multinational maritime security mission with \u22655 publicly confirmed participating countries."
+    },
+    {
+      "id": "f94cbc08-465d-4c71-b379-b4ffe82c831b",
+      "status": "pending",
+      "status_rationale": "There are references to an 'Iran oil shock' and gas-price dynamics, but no explicit evidence that front-month ICE WTI settled at or above $120.00 on any trading day."
+    },
+    {
+      "id": "afabf54e-d365-4be3-b920-35c7b07e139c",
+      "status": "pending",
+      "status_rationale": "No market-close data for the Philadelphia Semiconductor Index (SOX) is provided today, so whether it closed \u226525% below its 2026-03-03 close cannot be confirmed."
+    },
+    {
+      "id": "cc70d518-92df-4cb8-8b83-1b7d93a91e97",
+      "status": "pending",
+      "status_rationale": "While Nvidia-related coverage appears (robotaxi deal, manufacturing restart, China orders), there is no announcement from a listed U.S. hyperscaler of an incremental \u2265$5B AI infrastructure capex increase explicitly citing Nvidia Blackwell/Vera Rubin (or next-gen) supply/orders."
+    },
+    {
+      "id": "9fb7258d-3e15-4b7a-a48c-334f2ff19eab",
+      "status": "pending",
+      "status_rationale": "The news includes commentary on GLP-1 pills (e.g., analyst downgrade discussion) but does not provide evidence of a newly registered Phase 3 oral GLP-1 (or GLP-1/GIP) obesity trial on ClinicalTrials.gov with planned enrollment \u22651,500."
+    },
+    {
+      "id": "b0c5954a-9334-4f93-b349-01b198682ba1",
+      "status": "pending",
+      "status_rationale": "No Federal Register/EPA action is cited today regarding restricting a widely used agricultural pesticide with an explicit epidemiological Parkinson\u2019s disease risk rationale."
+    },
+    {
+      "id": "6b1bd599-be00-4e36-8b6d-ab220c10003f",
+      "status": "pending",
+      "status_rationale": "No information is provided about new ClinicalTrials.gov oncology trial registrations or any protocol explicitly using 'abscopal' as an endpoint/outcome measure."
+    },
+    {
+      "id": "9a1cd843-a844-42c3-948e-d8943d926741",
+      "status": "pending",
+      "status_rationale": "No bulletin mentions a U.S.\u2013Zambia critical minerals MoU/agreement or any linkage in the same announcement to U.S. health/HIV aid continuation or conditions."
+    }
+  ]
+}

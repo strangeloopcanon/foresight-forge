@@ -1,0 +1,216 @@
+{
+  "date": "2026-03-18",
+  "predictions": [
+    {
+      "text": "U.S. Congress will enact and the President will sign legislation providing the USPS at least $10.0B in new direct financial support (appropriation, grant, or explicit debt-relief transfer) OR raising USPS\u2019s statutory Treasury borrowing limit by at least $10.0B.",
+      "category": "macro",
+      "horizon_days": 289,
+      "deadline": "2026-12-31",
+      "confidence_pct": 43,
+      "verification_criteria": "Verified if a public law (Congress.gov) and/or White House signing statement explicitly provides \u2265$10.0B net new USPS financial support or increases USPS borrowing authority by \u2265$10.0B.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/17/us/politics/usps-postal-service-finances.html"
+      ],
+      "monitoring_signals": [
+        "USPS OIG and GAO updates on liquidity and projected insolvency timelines",
+        "House/Senate committee markups on USPS reform/appropriations",
+        "Treasury/OMB statements about emergency support or borrowing authority changes",
+        "USPS announcements on service cuts, price increases, or liquidity measures"
+      ],
+      "rationale": "A stated 12-month cash runway increases odds of legislative intervention, but political friction and competing fiscal priorities make large-scale support uncertain.",
+      "id": "30b1ba80-6601-4109-bfea-eb3abc8650cb",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Kalshi will block or suspend offering event-contract trading to Arizona residents for at least 30 consecutive days due to the Arizona criminal case, a court order, or a formal settlement/undertaking.",
+      "category": "markets",
+      "horizon_days": 104,
+      "deadline": "2026-06-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Verified if Kalshi publicly announces geoblocking/suspension for Arizona for \u226530 consecutive days, or if a court filing/order/settlement requires or results in such a suspension (with dates).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/17/arizona-kalshi-criminal-misdemeanor-charges.html"
+      ],
+      "monitoring_signals": [
+        "Arizona court docket updates and hearing outcomes",
+        "Kalshi status page/blog/legal notices to users",
+        "CFTC statements or federal preemption litigation filings",
+        "App store / platform policy changes affecting event-contract apps"
+      ],
+      "rationale": "State-level criminal enforcement materially raises operational and legal risk, often leading to temporary geofencing while litigation plays out.",
+      "id": "3f08cf0c-d62c-4af6-9dd5-c1c7a5aca3b2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Mastercard will publicly announce completion (closing) of its acquisition of BVNK, with BVNK becoming a Mastercard subsidiary or integrated business unit.",
+      "category": "markets",
+      "horizon_days": 197,
+      "deadline": "2026-09-30",
+      "confidence_pct": 58,
+      "verification_criteria": "Verified if Mastercard issues a press release/8-K-equivalent announcement that the BVNK acquisition has closed (not merely announced), or if BVNK corporate filings/website confirm Mastercard ownership post-close.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html"
+      ],
+      "monitoring_signals": [
+        "Regulatory approvals (UK/EU/US competition or payments regulators)",
+        "Mastercard investor relations releases mentioning closing conditions",
+        "BVNK corporate registry changes and leadership/branding updates",
+        "Payments-industry trade press reporting on integration milestones"
+      ],
+      "rationale": "Most announced strategic fintech acquisitions close within 6\u20139 months absent major regulatory objections; payments/stablecoin scrutiny is the main swing factor.",
+      "id": "f3687ace-02fc-4ba1-afa4-0ad856bcfba5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "OpenAI will submit a draft registration statement to the SEC for an initial public offering (confidentially or publicly) and this submission will be reported by at least two major outlets (e.g., WSJ, FT, Bloomberg, Reuters) OR confirmed by OpenAI.",
+      "category": "markets",
+      "horizon_days": 289,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "Verified if (a) OpenAI publicly files an S-1 (or equivalent), or (b) at least two major reputable outlets independently report OpenAI has confidentially submitted a draft registration statement to the SEC, with timing within the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/17/openai-preps-for-ipo-in-2026-says-chatgpt-must-be-productivity-tool.html"
+      ],
+      "monitoring_signals": [
+        "SEC filing databases and EDGAR for any OpenAI-related registrant entity",
+        "OpenAI corporate restructuring announcements and audited financial disclosure prep",
+        "Lead underwriter rumors and mandate reports",
+        "Secondary market pricing and tender offers implying IPO readiness"
+      ],
+      "rationale": "Public IPO intent increases likelihood of SEC submission, but structure/governance complexity and market windows can delay filing.",
+      "id": "e0a1efe7-2051-4863-8d62-cf2ea5185481",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Nvidia will report in a quarterly filing (10-Q/10-K) that revenue attributed to China (including Hong Kong) is at least 20% of total revenue for that quarter.",
+      "category": "tech",
+      "horizon_days": 197,
+      "deadline": "2026-09-30",
+      "confidence_pct": 39,
+      "verification_criteria": "Verified if an Nvidia quarterly report includes a geographic revenue table showing China (incl. Hong Kong) share \u226520% of total revenue for the quarter.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/17/nvidia-ceo-jensen-huang-says-chipmaker-has-received-orders-from-china.html"
+      ],
+      "monitoring_signals": [
+        "Nvidia quarterly 10-Q disclosures on geographic revenue concentration",
+        "US export-control updates affecting advanced AI chips",
+        "Channel checks on China GPU/system demand and licensing outcomes",
+        "Earnings-call commentary on China shipment normalization"
+      ],
+      "rationale": "Reported order recovery suggests rebound potential, but export controls and compliance limits may cap the share below prior peaks.",
+      "id": "342738f9-8458-4da5-afee-5d447c9b20cd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "EIA will report U.S. on-highway retail diesel fuel prices (weekly, all types) at or above $5.50 per gallon in at least one weekly release.",
+      "category": "energy",
+      "horizon_days": 104,
+      "deadline": "2026-06-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Verified if the EIA weekly \u2018Retail Diesel Price\u2019 series for U.S. average posts a value \u2265 5.50 ($/gal) for any week by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Brent/WTI and diesel crack spreads (ULSD vs crude)",
+        "Middle East shipping disruption and insurance costs feeding product markets",
+        "US refinery utilization and unplanned outages",
+        "EIA weekly petroleum status report: distillate inventories"
+      ],
+      "rationale": "Current high diesel levels plus supply-risk headlines make a further spike plausible, though strategic releases/refinery response could blunt extremes.",
+      "id": "716116bf-5057-4252-990b-6516c250edd2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "In at least one FOMC meeting (statement, minutes, or Chair press conference transcript), the Fed will explicitly characterize higher energy prices as an 'upside risk' (or materially similar phrasing) to the inflation outlook.",
+      "category": "rates",
+      "horizon_days": 104,
+      "deadline": "2026-06-30",
+      "confidence_pct": 62,
+      "verification_criteria": "Verified if official Federal Reserve communications (statement, minutes, SEP/press conference transcript) include language that higher energy prices are an upside risk to inflation (or clearly equivalent wording).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/17/the-fed-issues-its-latest-interest-rate-decision-wednesday-heres-what-to-expect.html",
+        "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "FOMC statement and minutes text searches for 'energy' + 'risk' + 'inflation'",
+        "Fed speakers\u2019 remarks on second-round effects from oil",
+        "Breakevens and inflation swaps reacting to oil moves",
+        "Core inflation prints vs energy-driven headline surprises"
+      ],
+      "rationale": "With a visible energy shock, the Fed commonly frames energy-driven inflation as a risk even if it expects partial transience.",
+      "id": "744f0230-9c21-4dc0-9f37-1513d6843f3c",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "At least one major U.S. airline (Delta, United, American, Southwest, JetBlue, Alaska) will announce a systemwide fare increase or a fuel surcharge explicitly attributed to Middle East conflict risk and/or jet fuel price spikes.",
+      "category": "markets",
+      "horizon_days": 74,
+      "deadline": "2026-05-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Verified if a major U.S. airline issues a press release, SEC filing, investor presentation, or executive interview transcript stating it implemented a fare increase or fuel surcharge and explicitly links the action to Middle East conflict risk and/or jet fuel price increases.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html"
+      ],
+      "monitoring_signals": [
+        "Airline PR/IR updates and fare actions reported by major travel data services",
+        "Jet fuel spot prices and crack spreads",
+        "Capacity changes and load factor trends indicating pricing power",
+        "Competitor-matching behavior after one carrier raises fares"
+      ],
+      "rationale": "Guidance resilience suggests pricing power, but competitive dynamics often delay explicit surcharges unless fuel spikes persist.",
+      "id": "5f399d09-0866-4f31-9840-14bc0efa69e3",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Baltic Exchange Baltic Dirty Tanker Index (BDTI) will close at or above 2,500 on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 104,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Verified if published Baltic Exchange daily close for BDTI is \u2265 2,500 on any date by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/17/iran-war-uae-energy-gas-field-oil-fujairah-strait-of-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Tanker war-risk premiums and rerouting around Hormuz risk",
+        "MEG crude export volumes and floating storage levels",
+        "VLCC/AFRAMAX spot rate assessments (Clarksons, Braemar, etc.)",
+        "Port congestion and Suez/alternate route utilization"
+      ],
+      "rationale": "Conflict-driven dislocation can spike tonne-miles and risk premia, but coordinated releases and demand softness could cap rate surges.",
+      "id": "36b36a3a-315d-4a9f-a9d4-e3868bf45ace",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "U.S. bank regulators (Federal Reserve, FDIC, or OCC), alone or jointly, will publish formal guidance or a policy statement explicitly addressing permissible bank activities involving stablecoins or tokenized deposits (e.g., issuance, custody, settlement) with supervisory expectations.",
+      "category": "macro",
+      "horizon_days": 289,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Verified if the Fed/FDIC/OCC publishes an official guidance document (FIL, SR letter, interpretive letter, policy statement, or joint release) explicitly referencing stablecoins or tokenized deposits and detailing supervisory expectations for bank participation.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/17/mastercard-acquiring-stablecoin-startup-bvnk-in-crypto-bet.html"
+      ],
+      "monitoring_signals": [
+        "Regulator speeches and requests-for-information on tokenized money",
+        "Large-bank pilots for tokenized deposits/stablecoin settlement",
+        "Congressional movement on stablecoin legislation prompting supervisory alignment",
+        "FSOC or Treasury reports signaling a need for updated banking guidance"
+      ],
+      "rationale": "Mainstream payments firms moving deeper into stablecoin rails increases pressure for clearer supervisory rules, though interagency coordination can slow issuance.",
+      "id": "8ff1fc0e-24bb-4e79-97f5-b6d9132a3ea5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

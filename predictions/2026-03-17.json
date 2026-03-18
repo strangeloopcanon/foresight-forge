@@ -18,7 +18,7 @@
       ],
       "rationale": "Media reporting suggests active internal work; however, formal proposal requires Commission action and can be delayed by political/legal pushback and prioritization of other rules.",
       "id": "33dc2688-f82b-4c96-9573-b29ed27ac08b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "Operational impacts are already visible, but shutdowns often end quickly once pressure rises; 14 days is a meaningful threshold with moderate odds.",
       "id": "9473b924-4f93-4f77-beac-a53c4d61aea5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -58,7 +58,7 @@
       ],
       "rationale": "Escalation risk and commercial pressure increase incentives to formalize a coalition; friction over rules-of-engagement and partner politics remains a key delay factor.",
       "id": "f809e7ea-b313-4dd5-91e8-590e72991a56",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "A $120 WTI settle requires either sustained disruption fears or an actual supply interruption; plausible but still a tail outcome within a ~3.5 month window.",
       "id": "f94cbc08-465d-4c71-b379-b4ffe82c831b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -100,7 +100,7 @@
       ],
       "rationale": "Semis are leveraged to AI capex sentiment and risk-off moves; 25% from a fixed reference close is material but feasible in a volatility spike.",
       "id": "afabf54e-d365-4be3-b920-35c7b07e139c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -121,7 +121,7 @@
       ],
       "rationale": "Capex likely grows, but explicit attribution to specific Nvidia platforms is less common in formal guidance, lowering probability.",
       "id": "cc70d518-92df-4cb8-8b83-1b7d93a91e97",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rationale": "Competitive pressure and market size support late-stage advancement; the enrollment threshold is high but consistent with obesity outcomes programs.",
       "id": "9fb7258d-3e15-4b7a-a48c-334f2ff19eab",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -161,7 +161,7 @@
       ],
       "rationale": "Health evidence can drive action, but EPA restriction timelines are often slow and legally contested, making a 2026 proposal possible but not likely.",
       "id": "b0c5954a-9334-4f93-b349-01b198682ba1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "rationale": "Abscopal effects are a recurring concept and often named directly; the main uncertainty is whether new registrations use the specific term in structured fields.",
       "id": "6b1bd599-be00-4e36-8b6d-ab220c10003f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -201,7 +201,7 @@
       ],
       "rationale": "The linkage is politically sensitive and could face backlash, but strategic minerals incentives make a formalized package plausible within months.",
       "id": "9a1cd843-a844-42c3-948e-d8943d926741",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
