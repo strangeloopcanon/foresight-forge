@@ -2205,3 +2205,12 @@ The remaining forecasts (hyperscaler AI capex step-up citing Nvidia next-gen pla
 
 ---
 
+
+## 2026-03-18
+
+Today’s news flow is dominated by the Iran conflict’s spillovers into energy markets and macro policy: oil jumping on strikes affecting Qatar energy infrastructure, U.S. actions like a temporary Jones Act waiver, and extensive coverage of the Fed holding rates steady while acknowledging heightened uncertainty. That backdrop is potentially relevant to several energy-linked forecasts (diesel prices, airline surcharges, shipping indices, and FOMC characterization of energy-price risks), but the bullets provided do not contain the specific quantitative/primary-source triggers needed to score those predictions as resolved.
+
+The only forecast that is plausibly close to being verifiable from today’s developments is the FOMC-language claim about higher energy prices being called an upside risk to inflation; however, without the exact statement/minutes/transcript wording, it remains unscorable from the bullet list alone. Separately, the Amazon-USPS negotiation dispute is directionally related to USPS finances but does not constitute the legislative/borrowing-limit event required, leaving the USPS prediction clearly still pending.
+
+---
+

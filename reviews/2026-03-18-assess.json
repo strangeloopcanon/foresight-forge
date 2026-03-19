@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-18",
+  "assessments": [
+    {
+      "id": "30b1ba80-6601-4109-bfea-eb3abc8650cb",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items include a report about Amazon-USPS negotiations breaking down, but no evidence of Congress enacting (and the President signing) \u2265$10B direct USPS support or raising USPS\u2019s Treasury borrowing limit by \u2265$10B."
+    },
+    {
+      "id": "3f08cf0c-d62c-4af6-9dd5-c1c7a5aca3b2",
+      "status": "pending",
+      "status_rationale": "No news in the provided bullets indicates Kalshi blocked/suspended event-contract trading for Arizona residents for \u226530 consecutive days due to the Arizona case, a court order, or a settlement."
+    },
+    {
+      "id": "f3687ace-02fc-4ba1-afa4-0ad856bcfba5",
+      "status": "pending",
+      "status_rationale": "No bulletin reports Mastercard announcing the closing/completion of an acquisition of BVNK or BVNK becoming a Mastercard subsidiary/unit."
+    },
+    {
+      "id": "e0a1efe7-2051-4863-8d62-cf2ea5185481",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s bullets indicates OpenAI submitted a draft SEC registration statement for an IPO (confidentially or publicly), nor confirmation/reporting by two major outlets as specified."
+    },
+    {
+      "id": "342738f9-8458-4da5-afee-5d447c9b20cd",
+      "status": "pending",
+      "status_rationale": "No quarterly filing information is provided today regarding Nvidia\u2019s China (incl. Hong Kong) revenue share reaching \u226520% in any quarter."
+    },
+    {
+      "id": "716116bf-5057-4252-990b-6516c250edd2",
+      "status": "pending",
+      "status_rationale": "While oil prices are reported as jumping amid the Iran war, there is no cited EIA weekly retail on-highway diesel price release showing \u2265$5.50/gal."
+    },
+    {
+      "id": "744f0230-9c21-4dc0-9f37-1513d6843f3c",
+      "status": "needs-clarification",
+      "status_rationale": "Multiple stories cover the Fed holding rates steady amid the Iran war and spiking oil, but the provided bullets do not include the exact FOMC statement/minutes/press-conference language needed to confirm the Fed explicitly labeled higher energy prices an 'upside risk' (or materially similar phrasing) to the inflation outlook."
+    },
+    {
+      "id": "5f399d09-0866-4f31-9840-14bc0efa69e3",
+      "status": "pending",
+      "status_rationale": "No bulletin indicates any major U.S. airline announced a systemwide fare increase or fuel surcharge explicitly attributed to Middle East conflict risk and/or jet fuel price spikes."
+    },
+    {
+      "id": "36b36a3a-315d-4a9f-a9d4-e3868bf45ace",
+      "status": "pending",
+      "status_rationale": "No information is provided today about the Baltic Dirty Tanker Index (BDTI) closing at or above 2,500 on any trading day."
+    },
+    {
+      "id": "8ff1fc0e-24bb-4e79-97f5-b6d9132a3ea5",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s bullets indicates the Fed/FDIC/OCC issued formal guidance or a policy statement explicitly addressing permissible bank activities involving stablecoins or tokenized deposits with supervisory expectations."
+    }
+  ]
+}

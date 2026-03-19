@@ -1,0 +1,121 @@
+{
+  "bullets": [
+    {
+      "text": "Fed held rates steady; emphasized inflation focus and uncertainty from Iran war, signaling no rush to support markets.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm"
+    },
+    {
+      "text": "FOMC projections still imply one rate cut this year, despite energy-price shock risk; path remains data-dependent.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318b.htm"
+    },
+    {
+      "text": "Producer prices rose 0.7% in February (services +0.5%, goods +1.1%), reinforcing upstream inflation pressure.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/ppi_03182026.htm"
+    },
+    {
+      "text": "Iran missile strike damaged Qatar facility tied to major LNG complex; oil jumped on supply-risk fears.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/18/iran-war-qatar-ras-laffan-natural-gas-lng.html"
+    },
+    {
+      "text": "Strait of Hormuz traffic bottlenecks raise shipping and energy-risk premia; any disruption threatens global oil/LNG flows.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html"
+    },
+    {
+      "text": "U.S. waived Jones Act shipping rules for 60 days to ease domestic fuel logistics and stabilize prices amid conflict.",
+      "tags": [
+        "energy",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/18/trump-jones-act-oil-iran-war.html"
+    },
+    {
+      "text": "Powell said he\u2019ll remain Fed chair until successor is confirmed, reducing near-term leadership uncertainty for markets.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/18/powell-says-he-will-stay-on-as-head-of-the-fed-until-warsh-is-confirmed.html"
+    },
+    {
+      "text": "Micron revenue nearly tripled and beat estimates as memory demand surged, signaling AI-driven capex and pricing tailwinds in semiconductors.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html"
+    },
+    {
+      "text": "Pentagon AI contracting: DoD reportedly flagged Anthropic\u2019s constraints as national-security risk while rivals compete for defense workloads.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/"
+    },
+    {
+      "text": "Meta pivoted from metaverse: shutting Horizon Worlds while paying creators to post on Facebook to boost engagement versus TikTok/YouTube.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/18/meta-horizon-worlds-metaverse-vr.html"
+    },
+    {
+      "text": "Austin\u2019s housing construction surge pushed rents down, highlighting supply expansion as an effective lever against high housing costs.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents"
+    },
+    {
+      "text": "ACM Turing Award honored quantum cryptography/information pioneers, underscoring strategic momentum in secure communications and quantum tech ecosystems.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://awards.acm.org/about/2025-turing"
+    },
+    {
+      "text": "New analyses of Antarctic rocks suggest a hidden giant structure beneath the ice, reshaping understanding of continental geology and mantle dynamics.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260318033126.htm"
+    },
+    {
+      "text": "Qualys disclosed Snap local privilege-escalation flaw (CVE-2026-3888), highlighting persistent Linux packaging attack surface and patch urgency for enterprises.",
+      "tags": [
+        "tech",
+        "other"
+      ],
+      "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root"
+    }
+  ]
+}

@@ -19,7 +19,7 @@
       ],
       "rationale": "A stated 12-month cash runway increases odds of legislative intervention, but political friction and competing fiscal priorities make large-scale support uncertain.",
       "id": "30b1ba80-6601-4109-bfea-eb3abc8650cb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "State-level criminal enforcement materially raises operational and legal risk, often leading to temporary geofencing while litigation plays out.",
       "id": "3f08cf0c-d62c-4af6-9dd5-c1c7a5aca3b2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Most announced strategic fintech acquisitions close within 6\u20139 months absent major regulatory objections; payments/stablecoin scrutiny is the main swing factor.",
       "id": "f3687ace-02fc-4ba1-afa4-0ad856bcfba5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Public IPO intent increases likelihood of SEC submission, but structure/governance complexity and market windows can delay filing.",
       "id": "e0a1efe7-2051-4863-8d62-cf2ea5185481",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Reported order recovery suggests rebound potential, but export controls and compliance limits may cap the share below prior peaks.",
       "id": "342738f9-8458-4da5-afee-5d447c9b20cd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Current high diesel levels plus supply-risk headlines make a further spike plausible, though strategic releases/refinery response could blunt extremes.",
       "id": "716116bf-5057-4252-990b-6516c250edd2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "With a visible energy shock, the Fed commonly frames energy-driven inflation as a risk even if it expects partial transience.",
       "id": "744f0230-9c21-4dc0-9f37-1513d6843f3c",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "60-70"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "Guidance resilience suggests pricing power, but competitive dynamics often delay explicit surcharges unless fuel spikes persist.",
       "id": "5f399d09-0866-4f31-9840-14bc0efa69e3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Conflict-driven dislocation can spike tonne-miles and risk premia, but coordinated releases and demand softness could cap rate surges.",
       "id": "36b36a3a-315d-4a9f-a9d4-e3868bf45ace",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -209,7 +209,7 @@
       ],
       "rationale": "Mainstream payments firms moving deeper into stablecoin rails increases pressure for clearer supervisory rules, though interagency coordination can slow issuance.",
       "id": "8ff1fc0e-24bb-4e79-97f5-b6d9132a3ea5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

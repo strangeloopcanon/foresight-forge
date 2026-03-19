@@ -1,0 +1,196 @@
+{
+  "date": "2026-03-19",
+  "predictions": [
+    {
+      "text": "CISA will add CVE-2026-3888 (Snap local privilege-escalation) to the Known Exploited Vulnerabilities (KEV) Catalog.",
+      "category": "tech",
+      "horizon_days": 57,
+      "deadline": "2026-05-15",
+      "confidence_pct": 52,
+      "verification_criteria": "CVE-2026-3888 appears as a new entry in CISA\u2019s official KEV Catalog (current catalog or release notes) on or before the deadline.",
+      "evidence": [
+        "Qualys write-up describing Snap LPE to root (CVE-2026-3888): https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root"
+      ],
+      "monitoring_signals": [
+        "CISA KEV Catalog updates (diffs/feeds)",
+        "Vendor advisories for snapd/Snap packages",
+        "Public exploit/IOC reports linking CVE-2026-3888 to in-the-wild activity"
+      ],
+      "rationale": "High-impact LPEs with broad Linux footprint often get KEV if exploitation is reported; disclosure timing suggests a reasonable chance of downstream exploitation signals.",
+      "id": "14804966-29b9-4374-b1ef-886f5f5aebbd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Qatar LNG exports will experience a disruption: Ras Laffan-related LNG loadings/exports will be at least 20% below the February 2026 weekly average for at least 2 consecutive weeks.",
+      "category": "energy",
+      "horizon_days": 42,
+      "deadline": "2026-04-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Kpler or Vortexa (or an IEA report citing such tracking) shows Qatar LNG exports/loadings for two consecutive calendar weeks averaging >=20% below the February 2026 weekly average, with reporting clearly tying the disruption to Ras Laffan/Qatar facility impacts or security constraints.",
+      "evidence": [
+        "Report of damage to Qatar facility tied to major LNG complex amid Iran conflict: https://www.cnbc.com/2026/03/18/iran-war-qatar-ras-laffan-natural-gas-lng.html",
+        "Hormuz bottlenecks and shipping risk premia discussion: https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Kpler/Vortexa weekly Qatar LNG export estimates",
+        "Ras Laffan operational statements from QatarEnergy",
+        "LNG vessel AIS rerouting/queueing near Hormuz",
+        "JKM/TTF prompt price spikes tied to supply outage headlines"
+      ],
+      "rationale": "Physical damage plus heightened shipping/security risk raises near-term outage probability, though Qatar typically has redundancy and strong incentives to maintain flows.",
+      "id": "9e402cb8-a14b-400f-8528-d82313bb56f7",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ICE Endex Dutch TTF natural gas front-month will settle at or above \u20ac80/MWh on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 73,
+      "deadline": "2026-05-31",
+      "confidence_pct": 34,
+      "verification_criteria": "ICE Endex (or widely cited market data providers reporting ICE Endex settlements) shows the TTF front-month futures contract settlement price >= 80.00 EUR/MWh on any trading day by the deadline.",
+      "evidence": [
+        "Rising Strait of Hormuz bottleneck risk affecting global LNG flows: https://www.cnbc.com/2026/03/18/hormuz-bottleneck-vessel-tanker-tracker-shipping-strait-of-hormuz.html",
+        "Qatar LNG complex damage report: https://www.cnbc.com/2026/03/18/iran-war-qatar-ras-laffan-natural-gas-lng.html"
+      ],
+      "monitoring_signals": [
+        "TTF forward curve and implied volatility",
+        "EU LNG send-out and storage trajectory",
+        "News on Qatari LNG output, maintenance, or security incidents",
+        "JKM-TTF spread widening"
+      ],
+      "rationale": "European gas is highly sensitive to marginal LNG disruptions; \u20ac80 is a plausible stress print if outage/rerouting risk persists, but not a base case.",
+      "id": "b9721a0d-3e69-4907-ab9b-994ef4673fb4",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. will extend or re-issue a Jones Act waiver for petroleum product shipments for at least an additional 30 days beyond the initial 60-day period announced in March 2026.",
+      "category": "macro",
+      "horizon_days": 103,
+      "deadline": "2026-06-30",
+      "confidence_pct": 41,
+      "verification_criteria": "A formal U.S. government notice (DHS/MARAD/DOE or White House release) announces an extension/renewal of the March 2026 Jones Act waiver (or a substantively similar new waiver) for petroleum/crude movements, with the extension period being >=30 days.",
+      "evidence": [
+        "U.S. issued a 60-day Jones Act waiver to ease domestic fuel logistics: https://www.cnbc.com/2026/03/18/trump-jones-act-oil-iran-war.html"
+      ],
+      "monitoring_signals": [
+        "DHS/MARAD waiver postings and press releases",
+        "EIA PADD-to-PADD product flow tightness and regional price spreads",
+        "Political statements on fuel price stabilization",
+        "Refinery outages and inventory draws in key regions"
+      ],
+      "rationale": "If conflict-driven logistics and regional price dislocations persist, policymakers may roll the waiver to avoid renewed bottlenecks; if prices normalize quickly, extension is less likely.",
+      "id": "68998a30-a27d-4ddd-9f75-68e5b1078c12",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "BLS will report Final Demand Producer Price Index (PPI) year-over-year inflation at or above 4.5% in at least one monthly release.",
+      "category": "macro",
+      "horizon_days": 103,
+      "deadline": "2026-06-30",
+      "confidence_pct": 36,
+      "verification_criteria": "In any BLS monthly PPI news release through the deadline, the \u2018Final Demand\u2019 PPI (unadjusted 12-month percent change) is reported as >= 4.5%.",
+      "evidence": [
+        "February PPI rose 0.7% (services +0.5%, goods +1.1%), indicating upstream pressure: https://www.bls.gov/news.release/archives/ppi_03182026.htm"
+      ],
+      "monitoring_signals": [
+        "Monthly BLS PPI releases (final demand headline and details)",
+        "Energy and transportation input cost indicators",
+        "ISM prices paid components",
+        "Corporate commentary on pass-through pricing"
+      ],
+      "rationale": "A large monthly print plus energy shock risk increases odds of an elevated YoY reading, but base effects and normalization could keep YoY below 4.5%.",
+      "id": "b740745b-2d13-48c2-ad65-c58c98e90721",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "BLS CPI will show Core CPI (CPI less food and energy) month-over-month at or above 0.40% in at least one monthly release.",
+      "category": "macro",
+      "horizon_days": 103,
+      "deadline": "2026-06-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Any BLS CPI news release through the deadline reports seasonally adjusted Core CPI (CPI-U less food and energy) m/m change >= 0.40%.",
+      "evidence": [
+        "Fed emphasized inflation focus and uncertainty from the Iran war/energy shock: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
+        "Upstream inflation pressure indicated by elevated PPI: https://www.bls.gov/news.release/archives/ppi_03182026.htm"
+      ],
+      "monitoring_signals": [
+        "Monthly CPI releases (core m/m and key categories)",
+        "High-frequency rent and services inflation indicators",
+        "Energy-related pass-through into core services (transportation, insurance)",
+        "Fed communications highlighting inflation persistence"
+      ],
+      "rationale": "With services inflation sticky and upstream pressures elevated, a 0.40% core print is plausible at least once, though shelter cooling could offset.",
+      "id": "eb13bdde-f163-4b11-8439-5e4f838ff2b9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Micron will raise its FY2026 revenue guidance by at least $2.0 billion versus the immediately prior official company guidance range/point.",
+      "category": "tech",
+      "horizon_days": 134,
+      "deadline": "2026-07-31",
+      "confidence_pct": 40,
+      "verification_criteria": "In an earnings release, investor presentation, or 10-Q/10-K, Micron states updated FY2026 revenue guidance that is >= $2.0B higher than the most recent previously issued FY2026 revenue guidance (comparing midpoints if ranges are provided).",
+      "evidence": [
+        "Micron revenue nearly tripled and beat estimates on AI-driven memory demand: https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html"
+      ],
+      "monitoring_signals": [
+        "Micron earnings releases and call transcripts",
+        "DRAM/NAND contract and spot pricing trends",
+        "Hyperscaler AI capex revisions and memory content per server trends",
+        "Micron commentary on supply tightness and ASPs"
+      ],
+      "rationale": "Strong AI-linked demand can drive rapid upward revisions, but memory cycles remain volatile and supply responses could cap guidance upgrades.",
+      "id": "797652bd-61d8-443e-84fb-b568e122daed",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "DoD will publicly award (announce) a contract or OTA agreement worth at least $250 million for frontier AI model access/services where the prime recipient is Anthropic, Google, Microsoft, Amazon, or Meta (i.e., not OpenAI).",
+      "category": "geopolitics",
+      "horizon_days": 195,
+      "deadline": "2026-09-30",
+      "confidence_pct": 28,
+      "verification_criteria": "A DoD/Defense.gov contract announcement, press release, or official procurement disclosure (or a reputable outlet citing official award documents) confirms an award >= $250M for AI model access/inference/training/services to one of the named primes, excluding OpenAI as the prime.",
+      "evidence": [
+        "DoD reportedly flagged Anthropic constraints as national-security risk amid competition: https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/"
+      ],
+      "monitoring_signals": [
+        "Defense.gov daily contract announcements",
+        "SAM.gov/FPDS award entries for AI model services",
+        "DoD CDAO procurement updates and budget documents",
+        "Vendor public-sector partnership announcements"
+      ],
+      "rationale": "Competitive dynamics and procurement scaling make a large award possible, but $250M+ and public disclosure timing introduce meaningful uncertainty.",
+      "id": "d9a29a78-21ea-438d-b163-f9a1e8e97fd9",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Google Chrome will ship a stable release enabling a post-quantum/hybrid key exchange for TLS by default for at least 50% of Chrome stable users (as stated in a Chrome release note, Chromium blog, or Google security blog).",
+      "category": "tech",
+      "horizon_days": 195,
+      "deadline": "2026-09-30",
+      "confidence_pct": 33,
+      "verification_criteria": "Official Google/Chromium release communications explicitly state that a PQC/hybrid TLS key exchange is enabled by default and rolled out to >=50% of stable-channel users (or \u2018default for stable\u2019 with an accompanying statement implying majority rollout) by the deadline.",
+      "evidence": [
+        "Strategic momentum in quantum cryptography ecosystem highlighted by Turing Award focus: https://awards.acm.org/about/2025-turing"
+      ],
+      "monitoring_signals": [
+        "Chrome/Chromium release notes and security blog posts",
+        "IETF TLS PQC/hybrid standardization milestones",
+        "Telemetry or field reports on negotiated key shares",
+        "Major CDN announcements (Cloudflare/Akamai/Fastly) supporting PQC/hybrid at scale"
+      ],
+      "rationale": "PQC deployment has been progressing in stages; majority-by-default is plausible within months but depends on standardization, interoperability, and performance considerations.",
+      "id": "1899dceb-ab62-4680-8840-e5325b0de888",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
