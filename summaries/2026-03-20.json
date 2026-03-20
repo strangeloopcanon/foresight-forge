@@ -1,0 +1,125 @@
+{
+  "bullets": [
+    {
+      "text": "Fed agencies request comment on modernizing bank regulatory capital; could reshape risk-weighting, buffer levels, and lending capacity.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm"
+    },
+    {
+      "text": "Fed releases 2025 Q4 Financial Accounts (Z1) snapshot of household, corporate, and government balance sheets; key for leverage and credit-cycle tracking.",
+      "tags": [
+        "macro"
+      ],
+      "link": "http://www.federalreserve.gov/feeds/Z1.html#3871"
+    },
+    {
+      "text": "U.S.-Israel-Iran tensions: Trump criticizes Israeli strike on gas field; highlights divergent strategies and raises risk to regional energy infrastructure.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html"
+    },
+    {
+      "text": "U.S. weighs releasing sanctioned Iranian crude to cool prices; signals use of strategic/sanctions tools to manage inflation and oil shock.",
+      "tags": [
+        "energy",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html"
+    },
+    {
+      "text": "Iran conflict threatens helium supply; potential knock-on to medical imaging and semiconductor manufacturing costs.",
+      "tags": [
+        "energy",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/19/the-iran-war-is-threatening-supply-helium-what-it-means-for-markets.html"
+    },
+    {
+      "text": "Fertilizer shortages tied to Gulf disruption risk; could raise food prices and create political pressure in U.S. farm states.",
+      "tags": [
+        "macro",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/19/iran-war-fertilizer-shortage-2026-elections-strait-hormuz.html"
+    },
+    {
+      "text": "Commodities sell-off: copper and precious metals drop amid growth/inflation fears; risk-off tone spreads to Asia equities.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html"
+    },
+    {
+      "text": "European government bonds face \u201cperfect storm\u201d as war-driven inflation uncertainty complicates central bank policy paths; higher volatility and term premia.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/19/interest-rates-bonds-bank-of-england-european-central-bank-investors-iran-war-ecb-inflation.html"
+    },
+    {
+      "text": "Trump signals DOJ should continue Powell probe; increases perceived political pressure on Fed independence and complicates Fed chair succession.",
+      "tags": [
+        "rates",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/19/trump-powell-warsh-fed-doj-pirro.html"
+    },
+    {
+      "text": "U.S. prosecutors allege Super Micro employees diverted Nvidia chips to China; underscores tighter export-control enforcement and supply-chain compliance risks for AI hardware.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html"
+    },
+    {
+      "text": "Bezos reportedly seeks $100B AI-focused fund to modernize legacy manufacturers; signals mega-scale private capital pivot toward AI-driven industrial productivity.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html"
+    },
+    {
+      "text": "OpenAI plans desktop \u201csuper app\u201d merging ChatGPT, browser, and coding tools; intensifies platform competition for AI distribution and developer workflows.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html"
+    },
+    {
+      "text": "January new home sales plunge to lowest since 2022; points to housing demand weakness amid affordability and rates constraints.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/03/19/january-new-home-sales.html"
+    },
+    {
+      "text": "Fervo geothermal advances past the \u201cvalley of death\u201d; improves prospects for scalable, low-carbon baseload power supporting grid and data-center demand.",
+      "tags": [
+        "energy",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/"
+    },
+    {
+      "text": "Climate: tropical peatland wildfires hit 2000-year high; major carbon-release risk amplifying warming feedbacks.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260319005110.htm"
+    }
+  ]
+}

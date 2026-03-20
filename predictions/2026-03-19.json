@@ -18,7 +18,7 @@
       ],
       "rationale": "High-impact LPEs with broad Linux footprint often get KEV if exploitation is reported; disclosure timing suggests a reasonable chance of downstream exploitation signals.",
       "id": "14804966-29b9-4374-b1ef-886f5f5aebbd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Physical damage plus heightened shipping/security risk raises near-term outage probability, though Qatar typically has redundancy and strong incentives to maintain flows.",
       "id": "9e402cb8-a14b-400f-8528-d82313bb56f7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "European gas is highly sensitive to marginal LNG disruptions; \u20ac80 is a plausible stress print if outage/rerouting risk persists, but not a base case.",
       "id": "b9721a0d-3e69-4907-ab9b-994ef4673fb4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "If conflict-driven logistics and regional price dislocations persist, policymakers may roll the waiver to avoid renewed bottlenecks; if prices normalize quickly, extension is less likely.",
       "id": "68998a30-a27d-4ddd-9f75-68e5b1078c12",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "A large monthly print plus energy shock risk increases odds of an elevated YoY reading, but base effects and normalization could keep YoY below 4.5%.",
       "id": "b740745b-2d13-48c2-ad65-c58c98e90721",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "With services inflation sticky and upstream pressures elevated, a 0.40% core print is plausible at least once, though shelter cooling could offset.",
       "id": "eb13bdde-f163-4b11-8439-5e4f838ff2b9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -147,7 +147,7 @@
       ],
       "rationale": "Strong AI-linked demand can drive rapid upward revisions, but memory cycles remain volatile and supply responses could cap guidance upgrades.",
       "id": "797652bd-61d8-443e-84fb-b568e122daed",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -168,7 +168,7 @@
       ],
       "rationale": "Competitive dynamics and procurement scaling make a large award possible, but $250M+ and public disclosure timing introduce meaningful uncertainty.",
       "id": "d9a29a78-21ea-438d-b163-f9a1e8e97fd9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "rationale": "PQC deployment has been progressing in stages; majority-by-default is plausible within months but depends on standardization, interoperability, and performance considerations.",
       "id": "1899dceb-ab62-4680-8840-e5325b0de888",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

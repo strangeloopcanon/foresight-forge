@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-19",
+  "assessments": [
+    {
+      "id": "14804966-29b9-4374-b1ef-886f5f5aebbd",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets do not mention CISA, the KEV Catalog, CVE-2026-3888, or Snap-related exploitation activity. No clear evidence that the CVE has been added (or not) to KEV."
+    },
+    {
+      "id": "9e402cb8-a14b-400f-8528-d82313bb56f7",
+      "status": "pending",
+      "status_rationale": "While multiple items reference Middle East conflict and energy-market stress, the bullets provide no shipping/logistics data on Ras Laffan loadings/exports or a quantified multi-week drop versus the February 2026 weekly average."
+    },
+    {
+      "id": "b9721a0d-3e69-4907-ab9b-994ef4673fb4",
+      "status": "pending",
+      "status_rationale": "No bullet provides ICE Endex Dutch TTF front-month settlement prices or confirms a settlement at/above \u20ac80/MWh on any trading day."
+    },
+    {
+      "id": "68998a30-a27d-4ddd-9f75-68e5b1078c12",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no reference to a Jones Act waiver, its initial 60-day period announced in March 2026, or any extension/re-issuance beyond that."
+    },
+    {
+      "id": "b740745b-2d13-48c2-ad65-c58c98e90721",
+      "status": "pending",
+      "status_rationale": "No BLS PPI release figure is cited in today\u2019s bullets; there is no clear evidence that Final Demand PPI y/y reached or exceeded 4.5% in any monthly release."
+    },
+    {
+      "id": "eb13bdde-f163-4b11-8439-5e4f838ff2b9",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not report any BLS CPI print or core CPI m/m value; therefore there is no clear confirmation of a \u22650.40% core CPI m/m month."
+    },
+    {
+      "id": "797652bd-61d8-443e-84fb-b568e122daed",
+      "status": "pending",
+      "status_rationale": "No item references Micron\u2019s FY2026 revenue guidance or a revision versus prior guidance, so the forecast cannot be graded from today\u2019s bullets."
+    },
+    {
+      "id": "d9a29a78-21ea-438d-b163-f9a1e8e97fd9",
+      "status": "pending",
+      "status_rationale": "Although there is defense-related coverage (e.g., Iran war spending discussion), today\u2019s bullets do not mention a specific DoD award/announcement of a \u2265$250M frontier AI access/services contract/OTA to Anthropic, Google, Microsoft, Amazon, or Meta."
+    },
+    {
+      "id": "1899dceb-ab62-4680-8840-e5325b0de888",
+      "status": "pending",
+      "status_rationale": "No Chrome stable release note/blog reference is included indicating post-quantum/hybrid TLS key exchange enabled by default for \u226550% of stable users."
+    }
+  ]
+}

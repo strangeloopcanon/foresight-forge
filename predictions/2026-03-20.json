@@ -1,0 +1,187 @@
+{
+  "date": "2026-03-20",
+  "predictions": [
+    {
+      "text": "OFAC will issue a General License (or equivalent written authorization/FAQ) that explicitly allows U.S. persons to purchase, finance, insure, or transport Iranian-origin crude oil for market-stabilization purposes.",
+      "category": "geopolitics",
+      "horizon_days": 72,
+      "deadline": "2026-05-31",
+      "confidence_pct": 32,
+      "verification_criteria": "Resolved YES if OFAC publishes a General License, FAQ, or other written authorization explicitly permitting (not merely waiving enforcement) U.S.-person transactions involving Iranian-origin crude oil (purchase/financing/insurance/transport), citing stabilization/price relief. Otherwise NO.",
+      "evidence": [
+        "CNBC reports the U.S. is weighing releasing sanctioned Iranian crude to cool prices, implying possible sanctions-tool adjustments.",
+        "Heightened oil-price sensitivity amid Iran conflict increases incentive for targeted licensing tools."
+      ],
+      "monitoring_signals": [
+        "OFAC General License postings and Iran-related FAQ updates",
+        "Treasury press releases and sanctions guidance changes",
+        "Reuters/Bloomberg reporting on sanctions carve-outs for oil flows"
+      ],
+      "rationale": "A stabilization-motivated carve-out is plausible but politically and legally sensitive; more likely to be narrow/conditional than broad.",
+      "id": "ddbe3040-fca4-4735-b07e-99cd9e87e900",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The ECB will explicitly describe higher energy prices as an 'upside risk' (or clearly equivalent wording) to the inflation outlook in at least one monetary-policy statement, account, or press-conference transcript.",
+      "category": "rates",
+      "horizon_days": 102,
+      "deadline": "2026-06-30",
+      "confidence_pct": 57,
+      "verification_criteria": "Resolved YES if ECB communications (press release, introductory statement, accounts of the monetary policy meeting, or Lagarde Q&A transcript) explicitly label energy prices as an upside risk to inflation (or materially similar phrase like 'adds upside risks to inflation'). Otherwise NO.",
+      "evidence": [
+        "Reports of a 'perfect storm' in European bonds tied to war-driven inflation uncertainty suggest ECB will foreground energy risk.",
+        "Regional conflict risk is directly linked to energy supply and price volatility."
+      ],
+      "monitoring_signals": [
+        "ECB meeting-day press releases and Lagarde transcripts",
+        "ECB accounts (minutes) language on inflation risks",
+        "Energy-price volatility and euro-area inflation surprise indices"
+      ],
+      "rationale": "ECB commonly frames energy as an inflation risk; current conflict-driven uncertainty makes explicit wording likely within the next few meetings.",
+      "id": "8a2f8b11-fde8-46aa-8803-257a5fbe58aa",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "U.S. Census Bureau New Home Sales (SAAR) will print at or below 550,000 in at least one monthly release.",
+      "category": "macro",
+      "horizon_days": 102,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolved YES if any New Residential Sales release (covering Feb\u2013May 2026 sales, released by end of June) shows seasonally adjusted annual rate (SAAR) <= 550,000 (headline figure). Otherwise NO.",
+      "evidence": [
+        "Recent report notes January new home sales plunged to the lowest since 2022, consistent with continued affordability/rate pressure."
+      ],
+      "monitoring_signals": [
+        "Weekly mortgage-rate levels and purchase application trends",
+        "Homebuilder earnings commentary on cancellations and incentives",
+        "Monthly New Home Sales consensus vs actual surprises"
+      ],
+      "rationale": "Given recent weakness and high-rate environment, a sub-550k print is plausible, but monthly volatility and revisions keep odds near coin-flip.",
+      "id": "a87cce8b-70fb-4392-a692-a5961c375b65",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. DOJ will announce at least one additional criminal case (complaint/indictment) alleging illegal export or diversion of advanced AI GPUs (e.g., Nvidia A/H-series or successor) to China via smuggling, shell companies, or false end-users.",
+      "category": "tech",
+      "horizon_days": 164,
+      "deadline": "2026-08-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolved YES if DOJ (or a U.S. Attorney\u2019s Office) publicly releases an indictment/complaint naming defendants and alleging illegal export/diversion of advanced AI GPUs to China (including Hong Kong) beyond the already-reported Super Micro-related allegations. Otherwise NO.",
+      "evidence": [
+        "CNBC reports prosecutors allege Super Micro employees diverted Nvidia chips to China, highlighting an enforcement push."
+      ],
+      "monitoring_signals": [
+        "DOJ press releases on export-control and sanctions cases",
+        "BIS enforcement actions and entity-list additions",
+        "Seizure reports involving high-end GPUs and server shipments"
+      ],
+      "rationale": "Once one supply-chain is exposed, follow-on cases often emerge from shared intermediaries and logistics records.",
+      "id": "c3281870-3825-4001-9006-90b95e86b5ba",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OpenAI will ship a generally available (non-beta) desktop 'super app' update that includes an integrated web-browsing experience (browser-like tab/view inside the app) and a built-in coding workspace (editor/IDE-like interface), announced in OpenAI release notes or blog.",
+      "category": "tech",
+      "horizon_days": 194,
+      "deadline": "2026-09-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolved YES if OpenAI\u2019s official release notes/blog (or app store changelog clearly attributable to OpenAI) states the desktop app now includes an in-app browsing interface and an integrated coding workspace/editor available to all users (or all paid users) as GA. Otherwise NO.",
+      "evidence": [
+        "CNBC reports OpenAI plans a desktop 'super app' merging ChatGPT, browser, and coding tools, indicating near-term productization intent."
+      ],
+      "monitoring_signals": [
+        "OpenAI desktop app release notes and product announcements",
+        "Mentions of embedded browser, tabs, or webviews in app updates",
+        "Codex/IDE feature expansions and desktop distribution changes"
+      ],
+      "rationale": "Feature integration is aligned with distribution strategy, but GA timing depends on reliability, safety review, and platform constraints.",
+      "id": "7121370b-2a60-49d5-8dd7-2800b86d0e97",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A SEC Form D (or comparable filing) will be made for an AI-focused investment fund explicitly linked by major reporting to Jeff Bezos / his office / an affiliated entity (e.g., 'Project Prometheus'), and the same reporting will state a first close/committed capital of at least $5B.",
+      "category": "markets",
+      "horizon_days": 286,
+      "deadline": "2026-12-31",
+      "confidence_pct": 28,
+      "verification_criteria": "Resolved YES if (1) a Form D (or equivalent) is filed for such a fund/vehicle and (2) at least two major outlets (WSJ/FT/Bloomberg/Reuters/NYT) report it is linked to Bezos (or his investment office/affiliated entity) and report first close/commitments >= $5B. Otherwise NO.",
+      "evidence": [
+        "NYT reports Bezos is seeking a ~$100B AI-focused fund to modernize manufacturers, consistent with steps toward formal fundraising."
+      ],
+      "monitoring_signals": [
+        "SEC Form D filings by Bezos-affiliated entities",
+        "Institutional LP disclosures and placement agent activity",
+        "Follow-on reporting from Bloomberg/Reuters/FT/WSJ"
+      ],
+      "rationale": "Mega-funds often leak early, but formal filing plus verified first-close magnitude is a higher bar, keeping probability modest.",
+      "id": "65c203f5-cf70-4400-aa64-71e7b522cc0a",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Fervo (or a Fervo-led consortium) will announce a signed power purchase agreement (PPA) or capacity contract for geothermal electricity totaling at least 200 MW nameplate (or contracted capacity) for a single multi-year offtake.",
+      "category": "energy",
+      "horizon_days": 286,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolved YES if Fervo publicly announces (press release, blog, regulatory filing by counterparty, or utility procurement award) a PPA/capacity contract with contracted capacity >= 200 MW under one agreement/award. Otherwise NO.",
+      "evidence": [
+        "TechCrunch reports Fervo has advanced past the 'valley of death,' indicating improving bankability and scale-up prospects."
+      ],
+      "monitoring_signals": [
+        "Utility RFP awards and integrated resource plan (IRP) approvals",
+        "Fervo financing announcements and drilling/flow-rate updates",
+        "Data-center/utility offtake deals tied to firm clean power"
+      ],
+      "rationale": "Scaling geothermal to a single 200MW contract is feasible but depends on drilling performance, interconnection, and counterparty procurement timelines.",
+      "id": "fbbaeee0-c60c-416c-9a44-85ad4d3f267d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Reuters, Bloomberg, or FT will report that marine war-risk premiums (or equivalent additional insurance costs) for transiting the Strait of Hormuz increased by at least 50% versus the February 2026 average, citing insurers/brokers.",
+      "category": "markets",
+      "horizon_days": 72,
+      "deadline": "2026-05-31",
+      "confidence_pct": 43,
+      "verification_criteria": "Resolved YES if at least one of Reuters/Bloomberg/FT publishes a report explicitly quantifying that Hormuz transit war-risk premiums (or comparable add-on insurance cost) are up >=50% vs the Feb 2026 average (or 'last month' where 'last month' is Feb 2026). Otherwise NO.",
+      "evidence": [
+        "Ongoing U.S.-Israel-Iran tensions elevate perceived risk to regional energy infrastructure and shipping lanes."
+      ],
+      "monitoring_signals": [
+        "Insurer/broker market notes (Lloyd\u2019s market, Marsh, Aon) quoted in major media",
+        "Shipping rerouting or convoy/escort announcements",
+        "Documented incidents near Hormuz affecting commercial traffic"
+      ],
+      "rationale": "Insurance repricing is a common early-market response to conflict risk; threshold requires a clearly quantified and reported jump.",
+      "id": "4a5c38cc-c1ec-49ee-a639-01f6f980ae9d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Super Micro Computer (SMCI) will disclose in an SEC filing (10-Q, 10-K, or 8-K) that it received a subpoena, search warrant, or formal notice of investigation from a U.S. government authority relating to export controls/sanctions compliance involving AI GPUs or servers.",
+      "category": "tech",
+      "horizon_days": 102,
+      "deadline": "2026-06-30",
+      "confidence_pct": 34,
+      "verification_criteria": "Resolved YES if an SMCI SEC filing explicitly states receipt of a subpoena/search warrant/formal investigation notice from DOJ/BIS/OFAC/HSI/FBI (or similar) tied to export-control/sanctions compliance regarding AI GPUs/servers. Media-only reporting without SEC disclosure does not qualify. Otherwise NO.",
+      "evidence": [
+        "CNBC reports prosecutors allege SMCI employees diverted Nvidia chips to China, increasing odds of formal investigative steps that require disclosure."
+      ],
+      "monitoring_signals": [
+        "SMCI SEC filings and risk-factor/legal-proceedings updates",
+        "DOJ/BIS enforcement announcements naming corporate subjects",
+        "Auditor commentary and internal-control disclosures"
+      ],
+      "rationale": "Even with public allegations, SEC-disclosed investigative notices are not guaranteed (timing/materiality), making the near-term filing disclosure uncertain.",
+      "id": "133f00ad-0726-4ffc-a70c-671babafe59e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
