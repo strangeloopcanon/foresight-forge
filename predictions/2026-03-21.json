@@ -1,0 +1,219 @@
+{
+  "date": "2026-03-21",
+  "predictions": [
+    {
+      "text": "S&P 500 index will close at least 15% below its 2026-02-19 closing high on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 101,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Using official S&P Dow Jones Indices daily closes: identify the 2026-02-19 close as the reference high; prediction is true if any close through 2026-06-30 is <= 0.85 * (that reference close).",
+      "evidence": [
+        "A major U.S. stock index entered correction territory, signaling risk-off conditions and potential spillover declines.",
+        "Gold suffered its worst weekly drop since 2011, consistent with rapid cross-asset repositioning."
+      ],
+      "monitoring_signals": [
+        "Breadth deterioration (advance/decline, new lows) and credit spread widening",
+        "Earnings guidance cuts and analyst estimate downgrades",
+        "Real yields and USD strength remaining elevated"
+      ],
+      "rationale": "Correction dynamics often overshoot when positioning unwinds and macro/rates uncertainty persists.",
+      "id": "7fe5e750-62b9-4292-a1ab-a86e4c68c7e1",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "CBOE Volatility Index (VIX) will close at or above 35.0 on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 101,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "CBOE published VIX daily closing value is >= 35.0 on any trading day through 2026-06-30.",
+      "evidence": [
+        "A major U.S. stock index entered correction territory, indicating heightened volatility risk.",
+        "Oil rose amid intensified U.S. military activity around Iran/Strait of Hormuz, increasing tail-risk premia."
+      ],
+      "monitoring_signals": [
+        "SPX 1-month implied volatility and skew steepening",
+        "Large daily moves (>=2.5%) and gap openings",
+        "Geopolitical escalation headlines affecting energy and shipping"
+      ],
+      "rationale": "Equity drawdowns plus geopolitical energy shocks commonly push implied volatility into the mid-30s.",
+      "id": "3e45f82c-2754-4b3c-a534-64b8290d3d77",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "UK 10-year gilt yield will close at or above 5.00% on at least one trading day.",
+      "category": "rates",
+      "horizon_days": 101,
+      "deadline": "2026-06-30",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "Using Bank of England or widely cited benchmark market close (e.g., Tradeweb/Refinitiv as reported by major financial outlets): the UK 10-year government bond yield close is >= 5.00% on any trading day through 2026-06-30.",
+      "evidence": [
+        "UK government borrowing costs hit the highest since 2008 as inflation fears pressured gilts."
+      ],
+      "monitoring_signals": [
+        "UK CPI surprises and services inflation persistence",
+        "DM term premium repricing and U.S. yields moving higher",
+        "UK fiscal announcements and auction demand/cover ratios"
+      ],
+      "rationale": "With yields already at multi-decade highs, modest additional inflation/term-premium repricing could print 5%.",
+      "id": "647c933b-25d6-45f0-98c1-7409c28e8f62",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The Federal Reserve will not deliver any target-range cut to the federal funds rate (no reduction in the upper bound) by the end of the 2026-06-30 FOMC meeting.",
+      "category": "rates",
+      "horizon_days": 101,
+      "deadline": "2026-06-30",
+      "confidence_pct": 60,
+      "log_odds": 0.4055,
+      "verification_criteria": "Compare the federal funds target range upper bound on 2026-03-21 versus after each scheduled FOMC decision through 2026-06-30; prediction is true if the upper bound is never reduced.",
+      "evidence": [
+        "Fed Governor Waller urged caution near-term, with cuts only later if data cooperates."
+      ],
+      "monitoring_signals": [
+        "Core inflation prints (CPI/PCE) and wage growth measures",
+        "FOMC statements/minutes emphasizing patience or upside risks",
+        "Futures-implied cuts being pushed out beyond mid-year"
+      ],
+      "rationale": "Recent Fed communication implies a bias to wait for clearer disinflation before cutting.",
+      "id": "714290f9-361c-4cc7-8e22-100189b6938e",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "U.S. Core PCE inflation (price index excluding food and energy) will be reported at or above 3.0% year-over-year in at least one BEA release.",
+      "category": "macro",
+      "horizon_days": 101,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "log_odds": -0.3228,
+      "verification_criteria": "Any BEA Personal Income and Outlays release through 2026-06-30 shows Core PCE (excluding food and energy) YoY >= 3.0% (seasonally adjusted annual rates as published).",
+      "evidence": [
+        "Oil prices rose for a fifth straight week amid intensified Middle East activity, elevating inflation risk sentiment.",
+        "Fed commentary reflects caution until inflation cools convincingly."
+      ],
+      "monitoring_signals": [
+        "Core services inflation momentum (supercore proxies)",
+        "Oil and refined-product pass-through into transportation and goods",
+        "Monthly core PCE prints >= 0.25% m/m"
+      ],
+      "rationale": "Sticky services and energy-linked second-round effects could keep core PCE near/above 3% in at least one print.",
+      "id": "390e7e67-53da-4329-99cd-5991bf5a0fe4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one commercial vessel will be reported as struck/damaged by a missile, drone, mine, or explosive incident in (or immediately adjacent to) the Strait of Hormuz or Gulf of Oman, confirmed by UKMTO and/or U.S./UK official statements.",
+      "category": "geopolitics",
+      "horizon_days": 101,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "UKMTO incident report and/or U.S. Navy/UK MOD public statement confirms a commercial ship was struck/damaged in the defined area during the window through 2026-06-30.",
+      "evidence": [
+        "Oil prices rose amid intensified U.S. military activity around Iran/Strait of Hormuz, elevating shipping risk premia.",
+        "Trump signaled continued U.S. operations against Iran, widening escalation risks."
+      ],
+      "monitoring_signals": [
+        "UKMTO/IMB incident feeds and advisories",
+        "Satellite/OSINT reports of explosions or vessel distress calls",
+        "War-risk premium spikes and rerouting/convoy announcements"
+      ],
+      "rationale": "Escalatory dynamics in a constrained chokepoint increase the probability of at least one confirmed strike incident.",
+      "id": "3b9f72de-790f-4e7b-88bb-140b00442c1c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Cuba will announce nationwide emergency measures that explicitly cite fuel or electricity shortages and that close schools and/or non-essential workplaces for at least 3 consecutive days.",
+      "category": "macro",
+      "horizon_days": 101,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "log_odds": -0.8473,
+      "verification_criteria": "Cuban government (e.g., Council of Ministers, Ministry statements, Granma, or official decrees) publicly announces closures/stand-down affecting schools and/or non-essential workplaces nationwide for >=3 consecutive days, explicitly citing fuel/electricity shortages, by 2026-06-30.",
+      "evidence": [
+        "U.S. said Cuba is barred from receiving Russian oil as tankers head to the island; fuel shortages deepen."
+      ],
+      "monitoring_signals": [
+        "Reports of extended nationwide blackouts and diesel shortages",
+        "Official statements on fuel distribution/rationing",
+        "Port/arrival data for fuel cargoes and refinery utilization"
+      ],
+      "rationale": "Acute fuel constraints commonly force temporary nationwide shutdown measures to conserve diesel and stabilize the grid.",
+      "id": "ef846441-6f2f-40e4-8b63-5c40949eb4dc",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Nvidia will publicly announce a new data-center GPU (or GPU platform) explicitly described as compliant with then-current U.S. export controls for China, and at least one major server OEM will also publicly confirm availability/support for that product.",
+      "category": "tech",
+      "horizon_days": 132,
+      "deadline": "2026-07-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Nvidia press release/blog/earnings materials announce a China-compliant data-center GPU/platform, and a major OEM (e.g., Lenovo, Dell, HPE, Inspur, Supermicro, Gigabyte) issues a press release/product page/filing confirming systems supporting it, by 2026-07-31.",
+      "evidence": [
+        "Export-control compliance risks are being repriced across AI hardware supply chains following smuggling-related allegations."
+      ],
+      "monitoring_signals": [
+        "Nvidia product briefings and partner ecosystem announcements",
+        "OEM server launch pages referencing new compliant SKUs",
+        "U.S. BIS rule updates and licensing signals"
+      ],
+      "rationale": "Demand pull plus tightening controls incentivize a refreshed, explicitly compliant SKU cycle with rapid OEM support.",
+      "id": "52857e93-5cb5-485d-8bd2-6cf8cc510a12",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Super Micro Computer (SMCI) will disclose either (a) appointment of a new independent Chair of the Board or (b) addition of at least two new independent directors.",
+      "category": "markets",
+      "horizon_days": 223,
+      "deadline": "2026-09-30",
+      "confidence_pct": 38,
+      "log_odds": -0.4895,
+      "verification_criteria": "An SMCI SEC filing (8-K/DEF 14A/10-Q/10-K) through 2026-09-30 reports an independent chair appointment OR at least two new independent directors joining the board (as defined by listing rules/company disclosure).",
+      "evidence": [
+        "Super Micro shares plunged after governance-linked news tied to smuggling allegations, increasing pressure for governance changes."
+      ],
+      "monitoring_signals": [
+        "Board committee reshuffles and governance policy updates",
+        "Auditor, compliance, or export-control program enhancements disclosed",
+        "Proxy advisor commentary and shareholder activism signals"
+      ],
+      "rationale": "Market and regulatory pressure after compliance-linked headlines often catalyzes visible governance bolstering.",
+      "id": "4810eb45-2ca4-4546-ad62-cb2897469e99",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one U.S. House or Senate committee will hold a public hearing explicitly focused on federal preemption/limits on state-level AI regulation, with an official hearing notice and published record.",
+      "category": "geopolitics",
+      "horizon_days": 285,
+      "deadline": "2026-12-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2007,
+      "verification_criteria": "Congressional committee website posts a hearing notice/title/agenda explicitly referencing AI regulation preemption or limiting state AI rules, and a transcript/video/record is published, by 2026-12-31.",
+      "evidence": [
+        "Trump administration unveiled a national AI policy framework aimed at limiting state-level rules."
+      ],
+      "monitoring_signals": [
+        "Committee calendars (House Energy & Commerce, Judiciary; Senate Commerce, Judiciary)",
+        "Introduction of preemption-related AI bills or discussion drafts",
+        "State AG responses and industry coalition lobbying activity"
+      ],
+      "rationale": "A federal push to curb state AI rules is likely to trigger oversight hearings and legislative exploration.",
+      "id": "962ccc12-16ed-4b6c-b220-23b42293c072",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}

@@ -19,7 +19,7 @@
       ],
       "rationale": "A stabilization-motivated carve-out is plausible but politically and legally sensitive; more likely to be narrow/conditional than broad.",
       "id": "ddbe3040-fca4-4735-b07e-99cd9e87e900",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "ECB commonly frames energy as an inflation risk; current conflict-driven uncertainty makes explicit wording likely within the next few meetings.",
       "id": "8a2f8b11-fde8-46aa-8803-257a5fbe58aa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Given recent weakness and high-rate environment, a sub-550k print is plausible, but monthly volatility and revisions keep odds near coin-flip.",
       "id": "a87cce8b-70fb-4392-a692-a5961c375b65",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -80,7 +80,7 @@
       ],
       "rationale": "Once one supply-chain is exposed, follow-on cases often emerge from shared intermediaries and logistics records.",
       "id": "c3281870-3825-4001-9006-90b95e86b5ba",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "40-50"
     },
     {
@@ -100,7 +100,7 @@
       ],
       "rationale": "Feature integration is aligned with distribution strategy, but GA timing depends on reliability, safety review, and platform constraints.",
       "id": "7121370b-2a60-49d5-8dd7-2800b86d0e97",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "rationale": "Mega-funds often leak early, but formal filing plus verified first-close magnitude is a higher bar, keeping probability modest.",
       "id": "65c203f5-cf70-4400-aa64-71e7b522cc0a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "Scaling geothermal to a single 200MW contract is feasible but depends on drilling performance, interconnection, and counterparty procurement timelines.",
       "id": "fbbaeee0-c60c-416c-9a44-85ad4d3f267d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "Insurance repricing is a common early-market response to conflict risk; threshold requires a clearly quantified and reported jump.",
       "id": "4a5c38cc-c1ec-49ee-a639-01f6f980ae9d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -180,7 +180,7 @@
       ],
       "rationale": "Even with public allegations, SEC-disclosed investigative notices are not guaranteed (timing/materiality), making the near-term filing disclosure uncertain.",
       "id": "133f00ad-0726-4ffc-a70c-671babafe59e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

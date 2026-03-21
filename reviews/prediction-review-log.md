@@ -2225,3 +2225,12 @@ On the AI/defense side, the OpenAI product news and broader war-spending context
 
 ---
 
+
+## 2026-03-20
+
+Today’s news flow is most relevant to two of your forecast themes: (1) Middle East escalation around the Strait of Hormuz and associated oil-market stress, and (2) enforcement actions related to advanced GPU diversion/smuggling. The Hormuz items increase the salience of your war-risk-premiums prediction, but there is still no cited insurer/broker premium data from Reuters/Bloomberg/FT to adjudicate it yet.
+
+On export-control enforcement, the Super Micro co-founder “indicted on Nvidia smuggling charges” headline is the closest match to a forecasted DOJ GPU-diversion criminal case; however, the provided bullets don’t confirm the key resolution criteria (DOJ announcement; diversion specifically to China; and modus operandi such as shell companies/false end-users). Most other predictions remain unaddressed by today’s bullets (ECB language, OFAC licensing, housing prints, OpenAI desktop product details, Bezos-linked Form D, and Fervo PPA), so they appropriately stay pending.
+
+---
+

@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-20",
+  "assessments": [
+    {
+      "id": "ddbe3040-fca4-4735-b07e-99cd9e87e900",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets focus on U.S.-Iran military operations and oil prices, but provide no evidence that OFAC issued a General License/FAQ explicitly authorizing U.S. persons to purchase/finance/insure/transport Iranian-origin crude oil for market-stabilization purposes."
+    },
+    {
+      "id": "8a2f8b11-fde8-46aa-8803-257a5fbe58aa",
+      "status": "pending",
+      "status_rationale": "No ECB monetary-policy statement/account/press-conference language is included in today\u2019s bullets, so there is no basis to confirm or falsify the phrasing about higher energy prices being an upside risk to inflation."
+    },
+    {
+      "id": "a87cce8b-70fb-4392-a692-a5961c375b65",
+      "status": "pending",
+      "status_rationale": "No U.S. Census Bureau New Home Sales (SAAR) release or figure is referenced in today\u2019s bullets, so the threshold condition (\u2264 550,000) cannot be assessed."
+    },
+    {
+      "id": "c3281870-3825-4001-9006-90b95e86b5ba",
+      "status": "needs-clarification",
+      "status_rationale": "CNBC/MarketWatch report a Super Micro co-founder was indicted on Nvidia smuggling charges, which could match the predicted DOJ additional criminal case involving illegal export/diversion of advanced AI GPUs to China. However, the bullets do not clearly state (a) DOJ announced the case, (b) the destination was China, or (c) the conduct involved smuggling/shell companies/false end-users as specified."
+    },
+    {
+      "id": "7121370b-2a60-49d5-8dd7-2800b86d0e97",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items mention OpenAI ads testing and agentic shopping, but not a generally available desktop 'super app' update with integrated in-app web browsing and a built-in coding workspace announced via OpenAI release notes/blog."
+    },
+    {
+      "id": "65c203f5-cf70-4400-aa64-71e7b522cc0a",
+      "status": "pending",
+      "status_rationale": "No SEC Form D (or comparable filing) linked to Jeff Bezos/affiliates for an AI-focused fund, nor reporting of a \u2265$5B first close, appears in today\u2019s bullets."
+    },
+    {
+      "id": "fbbaeee0-c60c-416c-9a44-85ad4d3f267d",
+      "status": "pending",
+      "status_rationale": "No announcement is listed regarding Fervo (or a Fervo-led consortium) signing a \u2265200 MW geothermal PPA/capacity contract for a single multi-year offtake."
+    },
+    {
+      "id": "4a5c38cc-c1ec-49ee-a639-01f6f980ae9d",
+      "status": "pending",
+      "status_rationale": "Although there is significant Hormuz-related news (e.g., U.S. attacks to clear the Strait), none of the bullets indicate Reuters/Bloomberg/FT reporting that marine war-risk premiums for transiting Hormuz rose by \u226550% versus the February 2026 average."
+    },
+    {
+      "id": "133f00ad-0726-4ffc-a70c-671babafe59e",
+      "status": "pending",
+      "status_rationale": "The news highlights a co-founder\u2019s indictment and stock drop, but does not clearly state that SMCI disclosed in an SEC filing that it received a subpoena/search warrant/formal notice of investigation relating to export controls/sanctions compliance involving AI GPUs/servers."
+    }
+  ]
+}

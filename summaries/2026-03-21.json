@@ -1,0 +1,120 @@
+{
+  "bullets": [
+    {
+      "text": "Fed announced enforcement actions tied to former employees at Ally Bank and Regions Bank, underscoring ongoing supervisory focus on individual misconduct and compliance controls.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260320a.htm"
+    },
+    {
+      "text": "Fed Governor Waller urged caution near-term; rate cuts still possible later this year if data cooperates, reinforcing a higher-for-longer bias until inflation cools convincingly.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/20/fed-gov-waller-urges-caution-for-now-cuts-possible-later-in-the-year.html"
+    },
+    {
+      "text": "A major U.S. stock index entered correction territory, signaling broad risk-off conditions and raising odds of spillover declines across other benchmarks.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/the-first-major-stock-index-just-fell-into-correction-territory-will-others-follow-f4870713"
+    },
+    {
+      "text": "Gold suffered its worst weekly drop since 2011 (nearly 10%), suggesting rapid repositioning as yields, dollar strength, or risk sentiment shifted.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/20/gold-silver-price-metal-market-oil-brent-wti-futures-iran-war-inflation.html"
+    },
+    {
+      "text": "Oil prices rose for a fifth straight week amid intensified U.S. military activity around Iran/Strait of Hormuz, elevating energy inflation and supply-disruption risk premia.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/oil-prices-rise-as-trump-reportedly-mulls-new-measures-for-kharg-island-97ab0727"
+    },
+    {
+      "text": "Trump signaled continued U.S. operations against Iran to prevent rebuilding; escalation risks widen, with potential impacts on shipping, energy markets, and regional stability.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/03/20/trump-iran-war-troops-rebuild.html"
+    },
+    {
+      "text": "U.S. says Cuba is barred from receiving Russian oil as tankers head to the island; fuel shortages deepen, raising humanitarian and migration pressures.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/20/cuba-crisis-fuel-tankers-russia-oil-gas-energy-us-trump.html"
+    },
+    {
+      "text": "UK government borrowing costs hit highest since 2008 as inflation fears pressure gilts, tightening financial conditions and complicating fiscal plans.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/20/uk-gilt-market-interest-rates-boe-inflation-reeves.html"
+    },
+    {
+      "text": "Super Micro shares plunged after a co-founder\u2019s indictment tied to Nvidia smuggling allegations; governance and export-control compliance risks are repriced across AI hardware supply chains.",
+      "tags": [
+        "markets",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html"
+    },
+    {
+      "text": "Jury found Elon Musk liable for misleading Twitter investors, increasing legal overhang for high-profile deal communications and potentially raising disclosure and litigation risk for acquirers.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html"
+    },
+    {
+      "text": "Trump administration unveiled a national AI policy framework aimed at limiting state-level rules, reshaping regulatory uncertainty for AI firms while shifting some safety burdens to parents/users.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/20/trump-ai-policy-framework.html"
+    },
+    {
+      "text": "Breakthrough single-atom catalyst converts CO2 into fuel, a potential leap for carbon utilization and energy storage\u2014still dependent on scaling, cost, and clean electricity availability.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260319044703.htm"
+    },
+    {
+      "text": "Researchers solved a 12,800-year-old Greenland ice climate puzzle, improving understanding of abrupt climate shifts\u2014relevant for modeling future tipping points and risk assessment.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260319044714.htm"
+    },
+    {
+      "text": "Studies link age-related Y chromosome loss in men to higher mortality risk, pointing to a potential biomarker for targeted screening and preventive interventions.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260319044711.htm"
+    }
+  ]
+}
