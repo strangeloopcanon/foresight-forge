@@ -1,0 +1,195 @@
+{
+  "date": "2026-03-22",
+  "predictions": [
+    {
+      "text": "At least one major container carrier (Maersk, MSC, CMA CGM, Hapag-Lloyd, or ONE) will publicly announce suspension/avoidance of transits through the Strait of Hormuz for at least 7 consecutive days due to security risk.",
+      "category": "geopolitics",
+      "horizon_days": 100,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081,
+      "verification_criteria": "Company press release/operational update or an official customer advisory states Hormuz transits are suspended/avoided; the stated period of avoidance lasts >=7 consecutive days (as dated in the notices).",
+      "evidence": [
+        "Escalating contest over the Strait of Hormuz highlights vulnerability of a key oil-shipping chokepoint and sustained disruption risk: https://www.nytimes.com/2026/03/20/us/politics/battle-for-strait-of-hormuz.html",
+        "Off-ramp uncertain; threats and miscalculation risk increase chance of shipping reroutes: https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html"
+      ],
+      "monitoring_signals": [
+        "Carrier advisories on red-sea/hormuz routing and 'security situation' bulletins",
+        "Lloyd\u2019s List / TradeWinds reports of container line routing changes",
+        "AIS-based reports showing sharp decline in container ship transits near Hormuz"
+      ],
+      "rationale": "If risk perceptions rise, large liners often choose temporary avoidance to reduce insurance/crew risk; 7-day threshold filters out brief disruptions.",
+      "id": "35b99bc2-faa7-4551-b6dc-a1399be593be",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Iran will experience a nationwide internet disruption lasting at least 24 consecutive hours (mobile + fixed), as reported by at least one major monitoring group (e.g., NetBlocks, Cloudflare Radar, Kentik, IODA).",
+      "category": "geopolitics",
+      "horizon_days": 100,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2006706955,
+      "verification_criteria": "A monitoring organization publishes an incident report (or time-series) indicating Iran\u2019s connectivity dropped to shutdown/near-shutdown levels nationwide and remained severely degraded for >=24 continuous hours.",
+      "evidence": [
+        "Iranian internet blackout during Nowruz shows willingness/capability to impose outages: https://www.nytimes.com/2026/03/21/world/middleeast/iran-war-nowruz-internet-blackout.html"
+      ],
+      "monitoring_signals": [
+        "NetBlocks and Cloudflare Radar Iran country-level connectivity graphs",
+        "Reports of VPN disruptions and mobile network outages inside Iran",
+        "State media announcements about 'security' restrictions on communications"
+      ],
+      "rationale": "Recent blackout precedent plus conflict dynamics increase likelihood of renewed, longer nationwide shutdowns.",
+      "id": "b497df6a-5e79-40c3-a6ab-d1ec4bb3536d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The IEA (or a named group of IEA member states) will announce a coordinated emergency oil stock release totaling at least 60 million barrels, OR the U.S. will unilaterally announce an SPR release/sale totaling at least 30 million barrels.",
+      "category": "energy",
+      "horizon_days": 70,
+      "deadline": "2026-05-31",
+      "confidence_pct": 30,
+      "log_odds": -0.8472978604,
+      "verification_criteria": "Official IEA statement (or member-government releases) specifies aggregate volumes >=60M bbl; alternatively, U.S. DOE/White House announcement specifies SPR release/sale volume >=30M bbl (single program/announcement).",
+      "evidence": [
+        "Hormuz disruption risk could force market-stabilization actions by consuming countries: https://www.nytimes.com/2026/03/20/us/politics/battle-for-strait-of-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "IEA emergency meeting notices and communiques",
+        "DOE/White House briefings mentioning 'market stabilization' and stock releases",
+        "Sharp increases in crude time spreads and refinery run impacts"
+      ],
+      "rationale": "Large releases are politically costly and usually require acute price/supply stress; plausible but not the base case.",
+      "id": "2de7c030-12b4-43ea-be04-440498ff1eb8",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Russell 2000 Index (RUT) will close at least 20% below its 2026-03-20 closing level on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 100,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "log_odds": -0.3227733923,
+      "verification_criteria": "Using official index closes, at least one RUT close <= 0.80 * (RUT close on 2026-03-20).",
+      "evidence": [
+        "Small caps already in correction territory, signaling tightening financial conditions: https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html"
+      ],
+      "monitoring_signals": [
+        "Credit spreads (HY OAS) and regional bank stress indicators",
+        "Earnings revision breadth for small-cap constituents",
+        "VIX/RV spikes and broad risk-off flows"
+      ],
+      "rationale": "Small caps are more rate- and growth-sensitive; continued risk-off could push from correction to bear-market threshold.",
+      "id": "cb150252-ed33-4935-ab35-5d394d067007",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one of OpenAI, Anthropic, or Google will cut the posted list price of a flagship text-generation API by at least 30% on a per-1M-tokens (or equivalent) basis versus its 2026-03-22 price.",
+      "category": "tech",
+      "horizon_days": 192,
+      "deadline": "2026-09-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2006706955,
+      "verification_criteria": "Archived pricing (or public pricing history) shows a decrease >=30% for the same named model tier (or its direct replacement explicitly positioned as the flagship) measured in $/token (or $/1M tokens), confirmed by official pricing pages/blog posts.",
+      "evidence": [
+        "Concern that foundation models are commoditizing increases pressure for price competition: https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html"
+      ],
+      "monitoring_signals": [
+        "Provider pricing-page changes and release notes",
+        "Large customer deals referencing lower unit pricing",
+        "New open-source model releases driving substitution"
+      ],
+      "rationale": "Commoditization narratives typically accelerate price cuts as vendors defend share and increase usage-based revenue.",
+      "id": "97d35412-8d8f-49e2-978e-aed829a1284d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "ClinicalTrials.gov will newly register a Phase 3 randomized trial for an oral LDL-cholesterol\u2013lowering therapy (small-molecule or oral biologic) with planned enrollment of at least 2,000 participants.",
+      "category": "other",
+      "horizon_days": 284,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "log_odds": -0.6190392084,
+      "verification_criteria": "A new ClinicalTrials.gov registration (first posted date in 2026) lists Phase 3, oral route, LDL-C lowering indication (hypercholesterolemia/ASCVD risk), and planned enrollment >=2000.",
+      "evidence": [
+        "Report of a new pill cutting LDL ~60% suggests late-stage development momentum: https://www.sciencedaily.com/releases/2026/03/260321012659.htm"
+      ],
+      "monitoring_signals": [
+        "Company pipeline updates mentioning Phase 3 start for oral LDL agents",
+        "Cardiometabolic conference abstracts and investor presentations",
+        "ClinicalTrials.gov new postings for lipid-lowering drugs"
+      ],
+      "rationale": "Promising efficacy increases chance of pivotal trials, but Phase 3 scale/timing is uncertain.",
+      "id": "2b6c5381-74cf-44bd-8ab0-8b735f549f3e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "CDC will publish either (a) an MMWR report or (b) a Health Alert Network (HAN) advisory that explicitly mentions fentanyl (or fentanyl analogs) distributed on paper/blotter-like carriers (e.g., 'paper strips', 'blotter paper').",
+      "category": "macro",
+      "horizon_days": 284,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4054651081,
+      "verification_criteria": "An official CDC MMWR or CDC HAN document includes explicit wording tying fentanyl/analogs to paper/blotter-style carriers (not merely 'counterfeit pills').",
+      "evidence": [
+        "Ultra-potent drugs shifting to paper-like carriers complicate interdiction and raise overdose risk: https://www.nytimes.com/2026/03/21/world/deadly-drugs-paper.html"
+      ],
+      "monitoring_signals": [
+        "DEA/CBP public alerts about fentanyl paper strips",
+        "State health department bulletins on new fentanyl presentation forms",
+        "CDC overdose surveillance updates highlighting novel drug forms"
+      ],
+      "rationale": "If the distribution method spreads, CDC typically formalizes guidance/alerts for clinicians and public health agencies.",
+      "id": "cce8c33a-a858-4994-a3bb-ab55e83f65b8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Department of Defense will publish a revised written policy/guidance on Pentagon press access (credentialing and/or facility access) that explicitly references compliance with a court order/ruling issued in 2026.",
+      "category": "geopolitics",
+      "horizon_days": 131,
+      "deadline": "2026-07-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2006706955,
+      "verification_criteria": "DoD posts (or is reported and then posted) an updated instruction/memo/policy document on media access that explicitly cites a 2026 court decision/order as a driver for changes; document must be publicly accessible.",
+      "evidence": [
+        "Press access dispute after court ruling raises accountability and transparency stakes: https://www.nytimes.com/2026/03/21/business/media/pentagon-press-access.html"
+      ],
+      "monitoring_signals": [
+        "DoD public affairs releases and FOIA reading-room postings",
+        "Coverage by major outlets of new Pentagon credential rules",
+        "Court docket updates on compliance and remedies"
+      ],
+      "rationale": "Court-driven disputes commonly end with formalized policy updates rather than ad hoc reinstatements.",
+      "id": "d29e7da6-6d3e-4936-8768-39b7edee5daf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "At least one major airline (Delta, United, American, Southwest, JetBlue, Alaska) will report in an SEC filing or earnings call transcript that Middle East conflict risk increased its jet fuel hedging (or added/expanded fuel surcharges) versus the prior quarter.",
+      "category": "markets",
+      "horizon_days": 100,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "log_odds": -0.4895482253,
+      "verification_criteria": "An airline 10-Q/8-K, prepared remarks, or earnings-call Q&A transcript explicitly attributes increased hedging activity and/or surcharge expansion to Middle East conflict risk (not just 'market volatility').",
+      "evidence": [
+        "Hormuz-related escalation risk raises jet fuel price and operational uncertainty: https://www.nytimes.com/2026/03/20/us/politics/battle-for-strait-of-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Airline earnings season transcripts and risk-factor updates",
+        "Jet fuel crack spreads and spot price spikes",
+        "Announcements of surcharge/fare actions tied to conflict headlines"
+      ],
+      "rationale": "Airlines often adjust hedging and pricing when geopolitical risk threatens sustained fuel volatility.",
+      "id": "f0251b4c-3ec2-4aa6-ae51-c4cbec113ad0",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

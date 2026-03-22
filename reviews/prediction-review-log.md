@@ -2234,3 +2234,12 @@ On export-control enforcement, the Super Micro co-founder “indicted on Nvidia 
 
 ---
 
+
+## 2026-03-21
+
+Today’s news is dominated by escalating U.S.–Iran tensions and heightened focus on the Strait of Hormuz, including threats around reopening the strait and broader reporting on conflict conditions (e.g., connectivity disruptions). That backdrop is directionally relevant to several market-risk forecasts (equities drawdown, VIX spike, inflation persistence), but the provided bullets do not include the specific market closes, yield prints, or macro releases needed to score those predictions.
+
+On the geopolitical side, while the Strait of Hormuz situation appears to be intensifying, none of the headlines provided confirm the key condition required for the shipping-incident forecast: an identified commercial vessel struck/damaged with confirmation by UKMTO and/or U.S./UK officials. Similarly, Cuba is mentioned only in an opinion context, without evidence of a nationwide emergency shutdown. For tech/governance and U.S. policy-process predictions (Nvidia China-compliant GPU + OEM confirmation, SMCI board changes, and a congressional hearing on AI preemption), today’s bullets provide no direct corroboration, so all remain open.
+
+---
+

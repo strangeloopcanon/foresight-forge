@@ -1,0 +1,100 @@
+{
+  "bullets": [
+    {
+      "text": "U.S.-Iran off-ramp uncertain; Trump threatens strikes on Iranian power plants if Hormuz not reopened, raising miscalculation risk and regional escalation.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/03/21/iran-targeted-but-did-not-hit-diego-garcia-base-with-missiles-wsj.html"
+    },
+    {
+      "text": "Escalating contest over the Strait of Hormuz highlights vulnerability of a key oil-shipping chokepoint; sustained disruption could spike energy prices and marine insurance costs.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/20/us/politics/battle-for-strait-of-hormuz.html"
+    },
+    {
+      "text": "Iranian internet blackout during Nowruz underscores information-control tactics in conflict, degrading crisis communications and increasing domestic pressure and diaspora uncertainty.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.nytimes.com/2026/03/21/world/middleeast/iran-war-nowruz-internet-blackout.html"
+    },
+    {
+      "text": "DHS shutdown brinkmanship: Trump vows ICE deployments to airports; operational continuity and air-travel security remain sensitive to funding and political escalation.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/21/trump-ice-tsa-dhs.html"
+    },
+    {
+      "text": "Bipartisan talks to rein in immigration crackdown suggest congressional constraints, but DHS internal power dynamics point to increasingly politicized enforcement.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html"
+    },
+    {
+      "text": "Mueller\u2019s death reopens debate over Russia-investigation findings and deepens partisan conflict, reinforcing perceptions of U.S. institutional polarization.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/21/us/politics/robert-mueller-trump-russia-fbi-investigation.html"
+    },
+    {
+      "text": "Media pressure on Pentagon to restore access after a court ruling raises transparency and accountability stakes amid conflict and defense-spending scrutiny.",
+      "tags": [
+        "geopolitics",
+        "other"
+      ],
+      "link": "https://www.nytimes.com/2026/03/21/business/media/pentagon-press-access.html"
+    },
+    {
+      "text": "Ultra-potent drugs shifting to paper-like carriers complicate interdiction and raise overdose risk, implying higher long-run public-health and enforcement costs.",
+      "tags": [
+        "macro",
+        "science"
+      ],
+      "link": "https://www.nytimes.com/2026/03/21/world/deadly-drugs-paper.html"
+    },
+    {
+      "text": "Equities fall for a fourth straight week; Russell 2000 enters correction, signaling tighter financial conditions and growth anxiety even as oil shocks may matter less than assumed.",
+      "tags": [
+        "markets",
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html"
+    },
+    {
+      "text": "IRS 2026 rule changes plus rising \u2018tax resistance\u2019 rhetoric heighten compliance and penalty risks; households may need to recalibrate withholding and estimated payments.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.marketwatch.com/story/the-irs-has-changed-the-tax-rules-for-2026-heres-how-to-keep-more-money-and-not-overpay-da5a97bf"
+    },
+    {
+      "text": "\u2018OpenClaw\u2019 moment fuels concern foundation AI models are commoditizing; durable advantage shifts to proprietary data, distribution, and specialized workflows, pressuring vendor margins.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html"
+    },
+    {
+      "text": "Biomed advances: AI predicts cancer spread, engineered probiotics target tumors, and a new pill cuts LDL ~60%\u2014potentially reshaping oncology and cardiometabolic drug markets.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260321012659.htm"
+    }
+  ]
+}

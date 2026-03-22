@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-21",
+  "assessments": [
+    {
+      "id": "7fe5e750-62b9-4292-a1ab-a86e4c68c7e1",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items include commentary about stocks dropping for a fourth straight week, but provide no specific S&P 500 close relative to the 2026-02-19 closing high and no confirmation that a \u226515% drawdown threshold has been met on any trading day."
+    },
+    {
+      "id": "3e45f82c-2754-4b3c-a534-64b8290d3d77",
+      "status": "pending",
+      "status_rationale": "Geopolitical escalation and market weakness are discussed, but there is no cited VIX closing level and no explicit evidence that VIX closed at or above 35.0 on any day."
+    },
+    {
+      "id": "647c933b-25d6-45f0-98c1-7409c28e8f62",
+      "status": "pending",
+      "status_rationale": "No information in the provided news bullets reports UK 10-year gilt closing yields or indicates a close at or above 5.00%."
+    },
+    {
+      "id": "714290f9-361c-4cc7-8e22-100189b6938e",
+      "status": "pending",
+      "status_rationale": "The news mentions Trump, the economy, oil, and the Fed in analysis form, but does not provide an FOMC decision timeline or any confirmation of whether the Fed has cut (or not cut) by the end of the 2026-06-30 meeting."
+    },
+    {
+      "id": "390e7e67-53da-4329-99cd-5991bf5a0fe4",
+      "status": "pending",
+      "status_rationale": "No BEA Core PCE year-over-year release value is provided in today\u2019s bullets, so there is no evidence to confirm or falsify a \u22653.0% print by the deadline."
+    },
+    {
+      "id": "3b9f72de-790f-4e7b-88bb-140b00442c1c",
+      "status": "pending",
+      "status_rationale": "Coverage highlights an escalating battle around the Strait of Hormuz and threats regarding reopening the strait, but the bullets do not state that a commercial vessel was struck/damaged, nor do they cite UKMTO and/or U.S./UK official confirmation of such an incident."
+    },
+    {
+      "id": "ef846441-6f2f-40e4-8b63-5c40949eb4dc",
+      "status": "pending",
+      "status_rationale": "There is an opinion item mentioning Cuba in a political context, but no report of Cuba announcing nationwide emergency measures explicitly citing fuel/electricity shortages and closing schools and/or non-essential workplaces for \u22653 consecutive days."
+    },
+    {
+      "id": "52857e93-5cb5-485d-8bd2-6cf8cc510a12",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Nvidia has announced a new China export-control-compliant data-center GPU/platform, and no major server OEM confirmation of availability/support is cited."
+    },
+    {
+      "id": "4810eb45-2ca4-4546-ad62-cb2897469e99",
+      "status": "pending",
+      "status_rationale": "No provided news indicates SMCI disclosed appointment of a new independent Board Chair or the addition of at least two new independent directors."
+    },
+    {
+      "id": "962ccc12-16ed-4b6c-b220-23b42293c072",
+      "status": "pending",
+      "status_rationale": "The items include AI-related commentary and industry news, but do not mention a U.S. House or Senate committee hearing explicitly focused on federal preemption/limits on state-level AI regulation with an official notice and record."
+    }
+  ]
+}

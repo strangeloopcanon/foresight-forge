@@ -20,7 +20,7 @@
       ],
       "rationale": "Correction dynamics often overshoot when positioning unwinds and macro/rates uncertainty persists.",
       "id": "7fe5e750-62b9-4292-a1ab-a86e4c68c7e1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Equity drawdowns plus geopolitical energy shocks commonly push implied volatility into the mid-30s.",
       "id": "3e45f82c-2754-4b3c-a534-64b8290d3d77",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "With yields already at multi-decade highs, modest additional inflation/term-premium repricing could print 5%.",
       "id": "647c933b-25d6-45f0-98c1-7409c28e8f62",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "Recent Fed communication implies a bias to wait for clearer disinflation before cutting.",
       "id": "714290f9-361c-4cc7-8e22-100189b6938e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "rationale": "Sticky services and energy-linked second-round effects could keep core PCE near/above 3% in at least one print.",
       "id": "390e7e67-53da-4329-99cd-5991bf5a0fe4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -128,7 +128,7 @@
       ],
       "rationale": "Escalatory dynamics in a constrained chokepoint increase the probability of at least one confirmed strike incident.",
       "id": "3b9f72de-790f-4e7b-88bb-140b00442c1c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "rationale": "Acute fuel constraints commonly force temporary nationwide shutdown measures to conserve diesel and stabilize the grid.",
       "id": "ef846441-6f2f-40e4-8b63-5c40949eb4dc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -170,7 +170,7 @@
       ],
       "rationale": "Demand pull plus tightening controls incentivize a refreshed, explicitly compliant SKU cycle with rapid OEM support.",
       "id": "52857e93-5cb5-485d-8bd2-6cf8cc510a12",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -191,7 +191,7 @@
       ],
       "rationale": "Market and regulatory pressure after compliance-linked headlines often catalyzes visible governance bolstering.",
       "id": "4810eb45-2ca4-4546-ad62-cb2897469e99",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -212,7 +212,7 @@
       ],
       "rationale": "A federal push to curb state AI rules is likely to trigger oversight hearings and legislative exploration.",
       "id": "962ccc12-16ed-4b6c-b220-23b42293c072",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
