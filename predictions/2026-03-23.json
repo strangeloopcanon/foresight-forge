@@ -1,0 +1,211 @@
+{
+  "date": "2026-03-23",
+  "predictions": [
+    {
+      "text": "EIA weekly U.S. retail gasoline price (Regular, all formulations) will be reported at or above $4.00/gal in at least one weekly release.",
+      "category": "energy",
+      "horizon_days": 99,
+      "deadline": "2026-06-30",
+      "confidence_pct": 47,
+      "verification_criteria": "In EIA\u2019s weekly \u201cRetail Gasoline and Diesel Prices\u201d table, the U.S. average price for Regular gasoline (all formulations) is >= 4.00 in any week dated on/before 2026-06-30.",
+      "evidence": [
+        "Recent reporting highlights sharp gasoline-price increases tied to Iran conflict risk and potential supply disruption repricing.",
+        "Oil-market focus on Hormuz disruption risk can transmit quickly into refined product prices."
+      ],
+      "monitoring_signals": [
+        "EIA weekly retail gasoline series trend and regional spikes",
+        "NYMEX RBOB crack spreads and prompt RBOB futures levels",
+        "Refinery utilization/outage headlines and product inventory draws",
+        "Shipping/insurance costs in the Gulf region"
+      ],
+      "rationale": "Refined-product prices tend to react rapidly to geopolitical risk premia and supply fears; a $4 handle is plausible within weeks if crude and cracks stay elevated.",
+      "id": "746244fd-9b3b-4664-a6f4-edb95586d03a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "University of Michigan 1-year inflation expectations (final reading) will be at or above 5.0% in at least one monthly release.",
+      "category": "macro",
+      "horizon_days": 99,
+      "deadline": "2026-06-30",
+      "confidence_pct": 34,
+      "verification_criteria": "Any University of Michigan Surveys of Consumers release dated on/before 2026-06-30 shows the final 1-year inflation expectations value >= 5.0%.",
+      "evidence": [
+        "Energy-price spikes and tariff/supply-shock narratives are being reported as pushing everyday prices higher.",
+        "Gasoline price surges are politically salient and often feed near-term inflation expectations."
+      ],
+      "monitoring_signals": [
+        "Weekly retail gasoline price moves and local news coverage intensity",
+        "CPI/PPI surprises and inflation breakevens (5y/5y)",
+        "Consumer sentiment and inflation expectations preliminary releases"
+      ],
+      "rationale": "Short-horizon expectations are sensitive to gasoline and salient price shocks; hitting 5% is possible but not the base case without sustained pump-price pressure.",
+      "id": "641aaff0-efbb-4b0c-bdea-59b862b78b98",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ICE BofA US High Yield Index Option-Adjusted Spread (OAS) will close at or above 600 bps on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 99,
+      "deadline": "2026-06-30",
+      "confidence_pct": 43,
+      "verification_criteria": "The ICE BofA US High Yield OAS series (as published by ICE/BofA or via FRED) records a value >= 6.00 on any trading day on/before 2026-06-30.",
+      "evidence": [
+        "Market commentary notes elevated volatility and risk premia under geopolitical shocks.",
+        "Private credit and leveraged borrowers are discussed as vulnerable under higher-for-longer rates and defaults."
+      ],
+      "monitoring_signals": [
+        "Daily HY OAS levels and HY ETF (HYG/JNK) drawdowns",
+        "Default/distress ratios and downgrade/upgrade trends",
+        "VIX spikes and equity selloffs",
+        "Primary-market HY issuance cancellations/pricing concessions"
+      ],
+      "rationale": "A geopolitics-driven risk-off move plus credit deterioration could widen spreads into stress territory; 600 bps is a meaningful but reachable threshold.",
+      "id": "654fb5f0-2b85-48b3-b62f-d8cd1e60b371",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "The U.S. Congress will enact (passed by both chambers and signed) supplemental appropriations totaling at least $5.0B specifically for Israel-related air and missile defense (interceptors, batteries, radar, or replenishment) in a single law.",
+      "category": "geopolitics",
+      "horizon_days": 191,
+      "deadline": "2026-09-30",
+      "confidence_pct": 39,
+      "verification_criteria": "A public law enacted on/before 2026-09-30 contains budget authority >= $5.0B explicitly earmarked for Israel air/missile defense programs or replenishment, as shown in bill text, explanatory statement, or appropriations tables.",
+      "evidence": [
+        "Reporting emphasizes interceptor saturation concerns and implications for air-defense spending needs."
+      ],
+      "monitoring_signals": [
+        "White House supplemental requests and congressional leadership statements",
+        "CBO cost estimates and appropriations committee bill text",
+        "DoD notifications to Congress and DSCA/FMS announcements tied to interceptors"
+      ],
+      "rationale": "If conflict persists, interceptor replenishment becomes a visible constraint; Congress often responds via supplemental funding, but the $5B+ threshold is uncertain.",
+      "id": "43c8d461-f82e-4e8e-aadb-0fac7435bda8",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Supreme Court will issue (a) an order granting certiorari, or (b) an emergency docket order (stay/injunction) in a case primarily about vote-by-mail/absentee ballot rules (deadlines, signature requirements, curing, or eligibility) for federal elections.",
+      "category": "geopolitics",
+      "horizon_days": 99,
+      "deadline": "2026-06-30",
+      "confidence_pct": 41,
+      "verification_criteria": "SCOTUS docket on/before 2026-06-30 shows either a cert grant or an emergency order in a case where the central question concerns vote-by-mail/absentee ballot rules for federal elections; verified via SCOTUS orders list and case filings.",
+      "evidence": [
+        "Recent coverage highlights potential Supreme Court action affecting vote-by-mail and midterm election administration uncertainty."
+      ],
+      "monitoring_signals": [
+        "SCOTUS emergency applications and orders list",
+        "State election-law litigation in federal appellate courts",
+        "Amicus filings by DOJ/SG and major election-law groups"
+      ],
+      "rationale": "Election-administration disputes often accelerate on the emergency docket; timing is plausible ahead of midterm-related administrative deadlines.",
+      "id": "46d8d48f-a057-4ee7-964c-95f9c3772f1b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "CAISO will issue at least 5 Flex Alerts (or clearly equivalent public conservation/emergency alerts) between 2026-03-23 and 2026-09-30 inclusive.",
+      "category": "macro",
+      "horizon_days": 191,
+      "deadline": "2026-09-30",
+      "confidence_pct": 32,
+      "verification_criteria": "CAISO\u2019s public alert archive (or CAISO-verified press releases/social posts) shows >= 5 distinct Flex Alerts/equivalent grid conservation alerts dated between 2026-03-23 and 2026-09-30.",
+      "evidence": [
+        "Reporting notes extreme heat increasing air-conditioning load and grid stress, implying elevated risk of conservation alerts."
+      ],
+      "monitoring_signals": [
+        "NOAA heat forecasts for CA/Western states and degree-day anomalies",
+        "CAISO day-ahead reserve margins and peak demand forecasts",
+        "Unplanned generation outages and transmission constraints",
+        "Battery dispatch levels and evening ramp stress indicators"
+      ],
+      "rationale": "Heat-driven peaks and tighter reserve margins can trigger repeated alerts; five is a moderate count but depends on summer severity and system conditions.",
+      "id": "f250fc84-d8a3-488c-82d4-f6b3aedba69c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one large publicly traded U.S. BDC (Ares Capital, Blue Owl Capital Corp, FS KKR Capital, Golub Capital BDC, or Hercules Capital) will report non-accrual investments at fair value of at least 3.0% of its total portfolio at fair value in a quarterly filing.",
+      "category": "markets",
+      "horizon_days": 191,
+      "deadline": "2026-09-30",
+      "confidence_pct": 36,
+      "verification_criteria": "In any 10-Q/10-K filed on/before 2026-09-30 by one of the named BDCs, the disclosed ratio (non-accruals at fair value) / (total investments at fair value) is >= 3.0%, using the company\u2019s reported figures.",
+      "evidence": [
+        "Coverage points to growing concern about private credit opacity and stress under higher-for-longer rates and defaults."
+      ],
+      "monitoring_signals": [
+        "BDC earnings reports: non-accrual trends and credit marks",
+        "Leveraged-loan default rates and rating-agency actions",
+        "Refinancing calendars and covenant-lite stress headlines"
+      ],
+      "rationale": "If growth slows and rates remain restrictive, marginal borrowers in private/leveraged credit can tip into non-accrual; 3% is a stress but not crisis level.",
+      "id": "97d6f78c-e3f7-410f-b8e6-c39a9e66d51d",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "The U.S. Trade Representative (USTR) or the White House will announce a new tariff increase of at least 10 percentage points on at least $25B (annual import value basis, as stated in the announcement) of consumer-goods categories.",
+      "category": "macro",
+      "horizon_days": 99,
+      "deadline": "2026-06-30",
+      "confidence_pct": 24,
+      "verification_criteria": "An official USTR/White House release on/before 2026-06-30 specifies (i) tariff rate increases >= 10 percentage points and (ii) covered import value >= $25B annually (as cited) for consumer-goods categories; both must be explicit in the announcement or accompanying fact sheet.",
+      "evidence": [
+        "Recent reporting emphasizes tariffs and supply shocks lifting prices of everyday imports."
+      ],
+      "monitoring_signals": [
+        "USTR Federal Register notices and press releases",
+        "White House trade fact sheets and CBP implementation guidance",
+        "Retailer/importer earnings-call commentary on tariff pass-through"
+      ],
+      "rationale": "Tariff actions are politically attractive but procedurally heavy; the import-value and rate thresholds make this a lower-probability but material event.",
+      "id": "bfa53455-add6-4f04-b47e-7a8c68f1883e",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "OpenAI will publicly announce a new U.S.-located data-center/compute project (owned, leased, or through a named partner) with planned power capacity of at least 500 MW for AI workloads.",
+      "category": "tech",
+      "horizon_days": 283,
+      "deadline": "2026-12-31",
+      "confidence_pct": 33,
+      "verification_criteria": "OpenAI (or a named partner with OpenAI confirmation) publishes an announcement on/before 2026-12-31 describing a U.S. data-center/compute buildout for OpenAI with stated planned capacity >= 500 MW (or equivalent clearly stated as power capacity).",
+      "evidence": [
+        "Reporting highlights OpenAI\u2019s data-center strategy shift and intensified focus on AI infrastructure scale/cost."
+      ],
+      "monitoring_signals": [
+        "OpenAI blog/press releases and partner announcements (clouds, DC developers, utilities)",
+        "Utility interconnection filings and large-load requests near major hubs",
+        "Data-center real-estate and power procurement headlines"
+      ],
+      "rationale": "AI capex is scaling rapidly; 500 MW is large but increasingly common for next-wave AI campuses, especially if OpenAI pursues more verticalized infrastructure.",
+      "id": "76e694c7-9c2d-498b-a146-5c0793ca3f98",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Saudi Aramco will raise the Official Selling Price (OSP) for Arab Light crude to Asia by at least $2.00/bbl month-over-month for any monthly pricing cycle.",
+      "category": "energy",
+      "horizon_days": 69,
+      "deadline": "2026-05-31",
+      "confidence_pct": 31,
+      "verification_criteria": "In any monthly OSP announcement on/before 2026-05-31, the Arab Light OSP differential to Asia increases by >= $2.00/bbl versus the immediately prior month\u2019s announced level, as reported by at least two major outlets (e.g., Reuters, Bloomberg) or Aramco documentation.",
+      "evidence": [
+        "Market focus on Hormuz disruption risk can quickly tighten sour crude and regional balances, influencing OSPs."
+      ],
+      "monitoring_signals": [
+        "Reuters/Bloomberg reporting on OSP previews and Middle East differentials",
+        "Dubai/Oman benchmarks and Asia refining margins",
+        "Tanker rates and Gulf shipping risk premia"
+      ],
+      "rationale": "OSP adjustments can react sharply to regional tightness and risk premia, but a $2 step is substantial and requires pronounced market shift.",
+      "id": "ebd8f316-3f61-47ed-bd4d-eadebf91756e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

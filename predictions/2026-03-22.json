@@ -20,7 +20,7 @@
       ],
       "rationale": "If risk perceptions rise, large liners often choose temporary avoidance to reduce insurance/crew risk; 7-day threshold filters out brief disruptions.",
       "id": "35b99bc2-faa7-4551-b6dc-a1399be593be",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Recent blackout precedent plus conflict dynamics increase likelihood of renewed, longer nationwide shutdowns.",
       "id": "b497df6a-5e79-40c3-a6ab-d1ec4bb3536d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Large releases are politically costly and usually require acute price/supply stress; plausible but not the base case.",
       "id": "2de7c030-12b4-43ea-be04-440498ff1eb8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Small caps are more rate- and growth-sensitive; continued risk-off could push from correction to bear-market threshold.",
       "id": "cb150252-ed33-4935-ab35-5d394d067007",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "Commoditization narratives typically accelerate price cuts as vendors defend share and increase usage-based revenue.",
       "id": "97d35412-8d8f-49e2-978e-aed829a1284d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "Promising efficacy increases chance of pivotal trials, but Phase 3 scale/timing is uncertain.",
       "id": "2b6c5381-74cf-44bd-8ab0-8b735f549f3e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "If the distribution method spreads, CDC typically formalizes guidance/alerts for clinicians and public health agencies.",
       "id": "cce8c33a-a858-4994-a3bb-ab55e83f65b8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "Court-driven disputes commonly end with formalized policy updates rather than ad hoc reinstatements.",
       "id": "d29e7da6-6d3e-4936-8768-39b7edee5daf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "Airlines often adjust hedging and pricing when geopolitical risk threatens sustained fuel volatility.",
       "id": "f0251b4c-3ec2-4aa6-ae51-c4cbec113ad0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

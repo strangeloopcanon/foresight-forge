@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-22",
+  "assessments": [
+    {
+      "id": "35b99bc2-faa7-4551-b6dc-a1399be593be",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items discuss heightened Strait of Hormuz risk (e.g., CNBC framing an economic 'deadline'), but none show a named major container carrier (Maersk/MSC/CMA CGM/Hapag-Lloyd/ONE) publicly announcing a 7+ day suspension/avoidance of Hormuz transits."
+    },
+    {
+      "id": "b497df6a-5e79-40c3-a6ab-d1ec4bb3536d",
+      "status": "pending",
+      "status_rationale": "No bullet references a nationwide Iran internet outage or confirmation from monitoring groups such as NetBlocks, Cloudflare Radar, Kentik, or IODA."
+    },
+    {
+      "id": "2de7c030-12b4-43ea-be04-440498ff1eb8",
+      "status": "pending",
+      "status_rationale": "While gas prices and Iran-war-related oil risk are featured, there is no cited announcement of an IEA coordinated release (\u226560M bbl) or a U.S. SPR release/sale (\u226530M bbl)."
+    },
+    {
+      "id": "cb150252-ed33-4935-ab35-5d394d067007",
+      "status": "pending",
+      "status_rationale": "Market coverage notes volatility and regional equity drops (e.g., Nikkei/Kospi), but none provides the Russell 2000 close relative to its 2026-03-20 level or confirms a \u226520% drawdown threshold breach."
+    },
+    {
+      "id": "97d35412-8d8f-49e2-978e-aed829a1284d",
+      "status": "pending",
+      "status_rationale": "The OpenAI-linked CNBC piece is about data-center strategy and Wall Street concerns, not a posted list-price reduction of a flagship text-generation API by \u226530% versus 2026-03-22."
+    },
+    {
+      "id": "2b6c5381-74cf-44bd-8ab0-8b735f549f3e",
+      "status": "pending",
+      "status_rationale": "No bullet indicates a new ClinicalTrials.gov registration for a Phase 3 randomized oral LDL-lowering therapy trial with planned enrollment \u22652,000."
+    },
+    {
+      "id": "cce8c33a-a858-4994-a3bb-ab55e83f65b8",
+      "status": "pending",
+      "status_rationale": "No bullet references a CDC MMWR or HAN advisory mentioning fentanyl distributed on paper/blotter-like carriers (e.g., paper strips/blotter paper)."
+    },
+    {
+      "id": "d29e7da6-6d3e-4936-8768-39b7edee5daf",
+      "status": "pending",
+      "status_rationale": "No bullet reports the DoD publishing revised Pentagon press-access policy/guidance that explicitly references compliance with a 2026 court order/ruling."
+    },
+    {
+      "id": "f0251b4c-3ec2-4aa6-ae51-c4cbec113ad0",
+      "status": "pending",
+      "status_rationale": "Despite extensive coverage of conflict-driven fuel-price pressure, there is no cited SEC filing or earnings-call transcript from Delta/United/American/Southwest/JetBlue/Alaska stating increased jet-fuel hedging or added/expanded fuel surcharges versus the prior quarter due to Middle East conflict risk."
+    }
+  ]
+}
