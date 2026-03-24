@@ -1,0 +1,202 @@
+{
+  "date": "2026-03-24",
+  "predictions": [
+    {
+      "text": "By 2026-06-30, either the U.S. House or U.S. Senate will pass (simple majority) a bill that would restrict or prohibit offering prediction-market/event-contract trading on sporting events in the U.S.",
+      "category": "geopolitics",
+      "horizon_days": 98,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Verified true if Congress.gov (or official House/Senate roll-call record) shows final passage in either chamber of a bill whose text/title clearly restricts or bans event contracts/prediction markets on sports (e.g., Kalshi/Polymarket-style sports contracts).",
+      "evidence": [
+        "Recent bipartisan attention and introduced/announced legislation targeting sports betting on prediction markets.",
+        "Elevated media scrutiny and state/federal legal actions increasing legislative salience."
+      ],
+      "monitoring_signals": [
+        "Congress.gov bill text and status updates for prediction-market/sports contract legislation",
+        "House Financial Services / House Agriculture / Senate Agriculture committee calendars and markups",
+        "CBO cost estimates and committee reports indicating a bill is moving",
+        "Leadership floor scheduling announcements"
+      ],
+      "rationale": "High visibility raises odds of at least one-chamber passage, but bicameral hurdles and jurisdictional ambiguity lower confidence.",
+      "id": "12f45338-4223-45a2-839c-a6320738fc69",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, the CFTC will take a formal public action specifically addressing sports-related event contracts (e.g., an order, formal enforcement filing, or published Commission vote notice) referencing at least one named platform (e.g., Kalshi or Polymarket).",
+      "category": "markets",
+      "horizon_days": 98,
+      "deadline": "2026-06-30",
+      "confidence_pct": 60,
+      "verification_criteria": "Verified true if the CFTC publishes (on cftc.gov or in federal court docket) a formal order, enforcement complaint, settlement, or official Commission vote/action notice explicitly about sports event contracts and naming at least one platform/operator.",
+      "evidence": [
+        "Growing controversy over whether sports contracts are permissible under CEA/Commission rules.",
+        "Ongoing public policy debate and legal pressure around prediction markets expanding into sports."
+      ],
+      "monitoring_signals": [
+        "CFTC press releases and 'Litigation & Enforcement Actions' page",
+        "Federal court dockets involving CFTC vs event-contract operators",
+        "CFTC Commissioner statements and open meetings",
+        "Federal Register notices tied to CFTC event-contract policy"
+      ],
+      "rationale": "Regulatory attention is already elevated; a formal action is a common next step even if ultimate outcomes vary.",
+      "id": "95ced85a-678a-4200-99d7-48a8bb3c6275",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "The NTSB will publish a preliminary report for the LaGuardia aircraft\u2013ground-vehicle collision referenced in recent reporting by 2026-04-30.",
+      "category": "macro",
+      "horizon_days": 37,
+      "deadline": "2026-04-30",
+      "confidence_pct": 78,
+      "verification_criteria": "Verified true if ntsb.gov (or the NTSB CAROL docket) posts a 'Preliminary Report' document for the LaGuardia collision event (matching date/location and involved parties) on or before 2026-04-30.",
+      "evidence": [
+        "NTSB typically releases preliminary reports relatively quickly after major incidents.",
+        "High-fatality aviation incidents receive expedited public docketing."
+      ],
+      "monitoring_signals": [
+        "NTSB CAROL docket entries for LGA incident",
+        "NTSB 'Investigations' page and press releases",
+        "FAA incident summaries cross-referenced to NTSB case number"
+      ],
+      "rationale": "Procedural forecast: preliminary reports are routine and time-bounded, though exact posting date can slip.",
+      "id": "80d2e38e-58aa-4756-8dd5-fa656be88958",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "By 2026-05-31, the FAA will issue at least one formal safety communication (SAFO, Safety Alert, Order, or equivalent) addressing prevention of airport surface collisions/runway incursions involving ground vehicles, citing the LaGuardia collision or clearly connected circumstances.",
+      "category": "macro",
+      "horizon_days": 68,
+      "deadline": "2026-05-31",
+      "confidence_pct": 52,
+      "verification_criteria": "Verified true if faa.gov (or official FAA channels) publishes a SAFO/Safety Alert/Order/notice focused on surface safety for ground vehicles with explicit reference to the LaGuardia collision or language that clearly ties to that event and its causal scenario.",
+      "evidence": [
+        "Public reporting indicates FAA scrutiny of controller distraction/operational factors.",
+        "FAA commonly issues SAFOs/alerts after serious incidents to prompt immediate mitigations."
+      ],
+      "monitoring_signals": [
+        "FAA SAFO and Safety Alerts database",
+        "FAA press releases and Air Traffic bulletins",
+        "NOTAM changes and airport-surface operations directives",
+        "NTSB recommendations that prompt FAA responses"
+      ],
+      "rationale": "Moderate odds: FAA often acts quickly post-incident, but may wait for NTSB findings or issue only internal guidance.",
+      "id": "0c9764dc-c1e1-45e2-a4d2-eba18b6b2bb8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, Harvard University will enter into a publicly posted federal resolution agreement/settlement (e.g., DOE OCR resolution agreement, DOJ consent decree, or equivalent) requiring specific policy changes in response to a federal civil-rights investigation opened in 2026.",
+      "category": "geopolitics",
+      "horizon_days": 282,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "verification_criteria": "Verified true if DOE OCR, DOJ, or a federal court docket publicly posts a signed agreement with Harvard (resolution agreement/settlement/consent decree) linked to a 2026-opened investigation and containing mandated actions (policy changes, training, reporting, discipline processes, etc.).",
+      "evidence": [
+        "Administration has opened multiple investigations targeting Harvard.",
+        "OCR/DOJ investigations often resolve via negotiated agreements rather than trial."
+      ],
+      "monitoring_signals": [
+        "DOE OCR case listings and resolution letters",
+        "DOJ press releases (Civil Rights Division) and settlement announcements",
+        "Federal court dockets for any DOJ/Higher-Ed civil rights litigation",
+        "Harvard public compliance statements and policy update pages"
+      ],
+      "rationale": "Investigations can settle, but timelines are uncertain and universities may litigate; hence modest confidence.",
+      "id": "8fa10598-e001-4853-8685-fef41146721a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, the U.S. Department of the Interior (BOEM or another DOI bureau) will issue an official cancellation/suspension/termination decision affecting at least one named U.S. offshore wind project or lease area AND the federal government will publicly disclose compensation/settlement payments totaling at least $500 million tied to that action.",
+      "category": "energy",
+      "horizon_days": 190,
+      "deadline": "2026-09-30",
+      "confidence_pct": 30,
+      "verification_criteria": "Verified true if DOI/BOEM publishes an official decision document (or press release) naming a wind lease/project as cancelled/suspended/terminated and federal payment obligations/settlements tied to the action are publicly disclosed (agency statement, court filing, or company filing) totaling \u2265$500M.",
+      "evidence": [
+        "Recent reporting indicates ~ $1B payment discussions tied to ending offshore wind projects.",
+        "Policy posture suggests willingness to unwind projects through negotiated settlements."
+      ],
+      "monitoring_signals": [
+        "BOEM press releases, Records of Decision, lease status updates",
+        "DOI Federal Register notices related to offshore wind leases",
+        "Company 8-K/10-Q disclosures of termination fees/settlements",
+        "PACER dockets for settlement filings involving DOI and developers"
+      ],
+      "rationale": "Large settlements are plausible but depend on project-specific legal posture and negotiation outcomes.",
+      "id": "97cf7114-e78b-44c0-82f3-be77c0a12561",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, Apple will publicly announce the introduction of paid advertising placements in Apple Maps for U.S. businesses (e.g., sponsored search results or promoted listings), via an Apple newsroom post, developer documentation, or iOS release notes.",
+      "category": "tech",
+      "horizon_days": 282,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Verified true if Apple (newsroom.apple.com, developer.apple.com, or iOS release notes) explicitly announces or documents Apple Maps paid ads/sponsored placements for U.S. businesses with a launch or pilot availability in the U.S.",
+      "evidence": [
+        "Recent reporting suggests Apple Maps may add advertising.",
+        "Apple has precedent expanding services monetization and on-device commerce discovery."
+      ],
+      "monitoring_signals": [
+        "Apple Newsroom announcements and Apple Developer documentation updates",
+        "iOS release notes mentioning Maps 'sponsored' or 'ads'",
+        "Apple Search Ads documentation changes referencing Maps",
+        "WWDC sessions and App Store policy updates related to ads"
+      ],
+      "rationale": "Feasible product move with recurring rumors, but timing and scope (pilot vs broad rollout) remain uncertain.",
+      "id": "013b39c0-c320-47de-8f1f-d345b9e690bb",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, at least one large U.S. private-credit interval fund or tender-offer fund managed by Apollo, Blackstone, KKR, Ares, or Blue Owl will report fulfilling 50% or less of requested redemptions in two consecutive redemption windows.",
+      "category": "markets",
+      "horizon_days": 190,
+      "deadline": "2026-09-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Verified true if fund notices, shareholder reports, or manager disclosures state (for two consecutive windows) that the fund repurchased/redeemed \u226450% of shares/amount requested due to proration, gates, or liquidity limits.",
+      "evidence": [
+        "Recent reporting notes a major Apollo private-credit fund met only ~45% of withdrawal requests.",
+        "If rates/credit conditions tighten, redemption pressure and proration can persist."
+      ],
+      "monitoring_signals": [
+        "Interval fund repurchase notices and quarterly/semiannual reports",
+        "Manager investor letters and earnings transcripts discussing redemption queues",
+        "SEC filings (N-PORT/N-CEN, tender offer documents) mentioning proration",
+        "Financial press reports of gates/proration in private-credit vehicles"
+      ],
+      "rationale": "Liquidity mismatches are a known feature of these vehicles; repetition depends on broader market stress and investor behavior.",
+      "id": "e690b06a-f1c3-4707-b22e-a5cce0e1c39a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, at least two major U.S. airlines (Delta, United, American, Southwest, JetBlue, Alaska) will report in earnings call transcripts or SEC filings that air-traffic-control staffing/operational issues caused measurable schedule disruption, explicitly citing delays/cancellations tied to ATC constraints.",
+      "category": "macro",
+      "horizon_days": 98,
+      "deadline": "2026-06-30",
+      "confidence_pct": 48,
+      "verification_criteria": "Verified true if transcripts/filings from at least two listed airlines explicitly attribute measurable disruption (e.g., higher cancellations, delays, reduced capacity, schedule adjustments) to ATC staffing/constraints/FAA operational issues.",
+      "evidence": [
+        "Recent high-profile LaGuardia incident and FAA scrutiny could highlight ATC operational fragility.",
+        "Airlines frequently disclose operational constraints when they affect capacity and metrics."
+      ],
+      "monitoring_signals": [
+        "Airline quarterly earnings call transcripts (Seeking Alpha/FactSet/SEC exhibits)",
+        "Airline 10-Q/8-K risk factor and operations commentary",
+        "FAA ATC staffing and delay statistics; NAS status summaries",
+        "Carrier schedule change announcements tied to ATC constraints"
+      ],
+      "rationale": "ATC constraints are chronic and increasingly discussed; requiring two airlines and explicit attribution keeps this non-trivial.",
+      "id": "db22e562-4662-4db5-8980-0ea3be2c5afd",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

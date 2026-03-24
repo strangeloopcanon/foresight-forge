@@ -2252,3 +2252,12 @@ On markets, the coverage highlights heightened volatility and significant moves 
 
 ---
 
+
+## 2026-03-23
+
+Most of the listed forecasts are medium-horizon macro/market/policy triggers that today’s news does not directly resolve. The Iran-related headlines and oil volatility are directionally relevant to the gasoline-price and Aramco-OSP forecasts, and the private-credit/market commentary is directionally relevant to the high-yield-spread and BDC non-accrual forecasts, but none of the bullets includes the specific quantitative thresholds required to score those predictions as hit or missed.
+
+One item stands out as potentially close to resolution: the Supreme Court/mail-in ballot forecast. The headlines strongly suggest the Court is engaged on a dispute over late-arriving mail ballots, which fits the topic criteria. But because the prediction is explicitly about the Court issuing an order granting certiorari or an emergency-docket stay/injunction, the evidence in the bullets is not sufficient on its own to mark it correct; it requires confirmation from the article text or the official docket/order.
+
+---
+

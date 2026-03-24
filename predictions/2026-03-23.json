@@ -20,7 +20,7 @@
       ],
       "rationale": "Refined-product prices tend to react rapidly to geopolitical risk premia and supply fears; a $4 handle is plausible within weeks if crude and cracks stay elevated.",
       "id": "746244fd-9b3b-4664-a6f4-edb95586d03a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Short-horizon expectations are sensitive to gasoline and salient price shocks; hitting 5% is possible but not the base case without sustained pump-price pressure.",
       "id": "641aaff0-efbb-4b0c-bdea-59b862b78b98",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "A geopolitics-driven risk-off move plus credit deterioration could widen spreads into stress territory; 600 bps is a meaningful but reachable threshold.",
       "id": "654fb5f0-2b85-48b3-b62f-d8cd1e60b371",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "If conflict persists, interceptor replenishment becomes a visible constraint; Congress often responds via supplemental funding, but the $5B+ threshold is uncertain.",
       "id": "43c8d461-f82e-4e8e-aadb-0fac7435bda8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Election-administration disputes often accelerate on the emergency docket; timing is plausible ahead of midterm-related administrative deadlines.",
       "id": "46d8d48f-a057-4ee7-964c-95f9c3772f1b",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "40-50"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Heat-driven peaks and tighter reserve margins can trigger repeated alerts; five is a moderate count but depends on summer severity and system conditions.",
       "id": "f250fc84-d8a3-488c-82d4-f6b3aedba69c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -144,7 +144,7 @@
       ],
       "rationale": "If growth slows and rates remain restrictive, marginal borrowers in private/leveraged credit can tip into non-accrual; 3% is a stress but not crisis level.",
       "id": "97d6f78c-e3f7-410f-b8e6-c39a9e66d51d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "Tariff actions are politically attractive but procedurally heavy; the import-value and rate thresholds make this a lower-probability but material event.",
       "id": "bfa53455-add6-4f04-b47e-7a8c68f1883e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "AI capex is scaling rapidly; 500 MW is large but increasingly common for next-wave AI campuses, especially if OpenAI pursues more verticalized infrastructure.",
       "id": "76e694c7-9c2d-498b-a146-5c0793ca3f98",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -204,7 +204,7 @@
       ],
       "rationale": "OSP adjustments can react sharply to regional tightness and risk premia, but a $2 step is substantial and requires pronounced market shift.",
       "id": "ebd8f316-3f61-47ed-bd4d-eadebf91756e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

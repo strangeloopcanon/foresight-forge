@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-23",
+  "assessments": [
+    {
+      "id": "746244fd-9b3b-4664-a6f4-edb95586d03a",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items discuss oil-market moves and Iran-related risks, but do not provide an EIA weekly U.S. retail gasoline price release at/above $4.00/gal. No definitive datapoint confirming or falsifying the threshold crossing is included."
+    },
+    {
+      "id": "641aaff0-efbb-4b0c-bdea-59b862b78b98",
+      "status": "pending",
+      "status_rationale": "No University of Michigan 1-year inflation expectations (final reading) figure is reported in the provided news bullets."
+    },
+    {
+      "id": "654fb5f0-2b85-48b3-b62f-d8cd1e60b371",
+      "status": "pending",
+      "status_rationale": "No citation of the ICE BofA US High Yield Index OAS level (and specifically whether it closed at/above 600 bps) appears in today\u2019s bullets."
+    },
+    {
+      "id": "43c8d461-f82e-4e8e-aadb-0fac7435bda8",
+      "status": "pending",
+      "status_rationale": "No report of Congress enacting a single signed supplemental appropriations law totaling \u2265$5.0B specifically for Israel-related air and missile defense is included in today\u2019s bullets."
+    },
+    {
+      "id": "46d8d48f-a057-4ee7-964c-95f9c3772f1b",
+      "status": "needs-clarification",
+      "status_rationale": "Multiple headlines indicate the Supreme Court is actively considering a case about late-arriving mail-in ballots, which is within scope. However, the bullets do not clearly state whether the Court (a) granted certiorari or (b) issued an emergency-docket stay/injunction in such a case (the prediction\u2019s specific triggers). Confirmation would require the article details or the relevant SCOTUS docket order."
+    },
+    {
+      "id": "f250fc84-d8a3-488c-82d4-f6b3aedba69c",
+      "status": "pending",
+      "status_rationale": "No mention of CAISO issuing Flex Alerts (or equivalent public conservation/emergency alerts) is present in today\u2019s bullets, and the monitoring window has only just begun."
+    },
+    {
+      "id": "97d6f78c-e3f7-410f-b8e6-c39a9e66d51d",
+      "status": "pending",
+      "status_rationale": "No quarterly filing/earnings disclosure is cited for the named BDCs showing non-accrual investments at fair value reaching \u22653.0% of total portfolio fair value."
+    },
+    {
+      "id": "bfa53455-add6-4f04-b47e-7a8c68f1883e",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not describe a USTR/White House announcement of a new consumer-goods tariff increase of \u226510 percentage points covering \u2265$25B in annual import value."
+    },
+    {
+      "id": "76e694c7-9c2d-498b-a146-5c0793ca3f98",
+      "status": "pending",
+      "status_rationale": "The OpenAI-related news item concerns IPO-related risk disclosures and reliance on Microsoft, not an announcement of a new U.S.-located 500+ MW data-center/compute project."
+    },
+    {
+      "id": "ebd8f316-3f61-47ed-bd4d-eadebf91756e",
+      "status": "pending",
+      "status_rationale": "No information is provided about Saudi Aramco\u2019s month-over-month OSP change for Arab Light to Asia (and specifically a \u2265$2.00/bbl increase) in any monthly pricing cycle."
+    }
+  ]
+}
