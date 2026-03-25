@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-24",
+  "assessments": [
+    {
+      "id": "12f45338-4223-45a2-839c-a6320738fc69",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items do not mention any House or Senate passage of a bill restricting/prohibiting sports-related prediction markets/event contracts. No legislative action evidence is provided."
+    },
+    {
+      "id": "95ced85a-678a-4200-99d7-48a8bb3c6275",
+      "status": "pending",
+      "status_rationale": "No news bullet references a CFTC order, enforcement filing, Commission vote notice, or other formal public action naming a platform (e.g., Kalshi/Polymarket) about sports event contracts."
+    },
+    {
+      "id": "80d2e38e-58aa-4756-8dd5-fa656be88958",
+      "status": "pending",
+      "status_rationale": "Multiple stories discuss the LaGuardia crash/investigation, but the bullets do not clearly indicate that the NTSB has published a preliminary report. Without explicit confirmation, the prediction remains unresolved."
+    },
+    {
+      "id": "0c9764dc-c1e1-45e2-a4d2-eba18b6b2bb8",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage includes airport delay/TSA-line stories and LaGuardia crash reporting, but it does not cite any FAA SAFO/Safety Alert/Order (or equivalent) specifically addressing ground-vehicle runway/surface collision prevention tied to the LaGuardia incident."
+    },
+    {
+      "id": "8fa10598-e001-4853-8685-fef41146721a",
+      "status": "pending",
+      "status_rationale": "No bullet indicates Harvard entered a publicly posted federal resolution agreement/settlement tied to a 2026-opened civil-rights investigation. No relevant federal civil-rights settlement news is present."
+    },
+    {
+      "id": "97cf7114-e78b-44c0-82f3-be77c0a12561",
+      "status": "pending",
+      "status_rationale": "No items mention DOI/BOEM cancelling/suspending/terminating an offshore wind project/lease area, nor any disclosed compensation/settlement payments totaling $500M related to such action."
+    },
+    {
+      "id": "013b39c0-c320-47de-8f1f-d345b9e690bb",
+      "status": "pending",
+      "status_rationale": "There is no Apple-related announcement/newsroom post/developer documentation/iOS release note cited today regarding paid advertising placements in Apple Maps."
+    },
+    {
+      "id": "e690b06a-f1c3-4707-b22e-a5cce0e1c39a",
+      "status": "pending",
+      "status_rationale": "No bullet discusses private-credit interval or tender-offer funds (Apollo/Blackstone/KKR/Ares/Blue Owl) or reports of consecutive redemption windows with 50% or less fulfillment."
+    },
+    {
+      "id": "db22e562-4662-4db5-8980-0ea3be2c5afd",
+      "status": "pending",
+      "status_rationale": "While there is airline-related news (e.g., Delta services for Congress) and airport delay/TSA-line coverage, there is no evidence from earnings transcripts or SEC filings that at least two major airlines explicitly attributed measurable disruption to ATC staffing/operational constraints."
+    }
+  ]
+}

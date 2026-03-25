@@ -2261,3 +2261,12 @@ One item stands out as potentially close to resolution: the Supreme Court/mail-i
 
 ---
 
+
+## 2026-03-24
+
+Today’s news is dominated by detailed reporting on the LaGuardia crash and broader geopolitics (Iran/Strait of Hormuz) alongside assorted U.S. politics and tech/business headlines. This creates potential relevance for the aviation-safety forecasts, but the provided bullets do not clearly confirm the specific documentary milestones required (an NTSB preliminary report publication; an FAA formal safety communication tied to the incident). As a result, those aviation predictions gain salience but remain unresolved based on the evidence shown.
+
+None of the other forecasts (CFTC sports-event-contract action, congressional restriction bill, Harvard federal civil-rights settlement, offshore wind cancellation plus disclosed $500M+ compensation, Apple Maps ads announcement, private-credit redemption gating, or airline ATC-constraint disclosures in filings/calls) are directly addressed by today’s bullet list. Overall, there are no clear “correct/incorrect” resolutions in today’s items; all questions remain pending awaiting explicit, qualifying actions or disclosures.
+
+---
+

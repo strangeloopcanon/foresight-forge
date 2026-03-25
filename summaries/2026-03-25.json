@@ -1,0 +1,115 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. Q4 2025 productivity rose 1.8% annualized, but unit labor costs jumped 4.4%, reinforcing sticky services inflation risk.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/prod2_03242026.htm"
+    },
+    {
+      "text": "U.S. reportedly sent Iran a 15-point plan to end the Middle East war, signaling potential diplomatic off-ramp despite mixed public messages.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/24/trump-iran-war-negotiations.html"
+    },
+    {
+      "text": "Iran signaled \u201cnon-hostile\u201d ships can transit Hormuz, implying a selective disruption strategy that could still reprice global energy and shipping risk.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html"
+    },
+    {
+      "text": "Oil swung sharply (down ~5\u20136%, then back above $100 Brent) as markets alternated between de-escalation hopes and renewed conflict concerns.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/25/oil-price-wti-brent-gas-lng-trump-iran-talks-hormuz.html"
+    },
+    {
+      "text": "A weak Treasury auction highlighted rising term-premium anxiety and war-risk sensitivity, potentially tightening financial conditions even without Fed hikes.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/a-bad-treasury-auction-is-offering-a-glimpse-into-the-anxiety-on-wall-street-over-the-iran-war-fd17f7a6?mod=mw_rss_topstories"
+    },
+    {
+      "text": "TotalEnergies warned refining margins are at unprecedented highs, suggesting downstream bottlenecks\u2014not just crude supply\u2014are driving fuel price pressure.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/24/totalenergies-ceo-world-has-never-experienced-refining-margins-like-this-.html"
+    },
+    {
+      "text": "Russia launched a daytime strike with 500+ drones, underscoring accelerating drone-war scale and air-defense attrition dynamics in Ukraine.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html"
+    },
+    {
+      "text": "Denmark\u2019s prime minister gained politically after resisting U.S. pressure on Greenland, highlighting sovereignty disputes as an electoral force in Europe.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/24/world/europe/denmark-elections-mette-frederiksen.html"
+    },
+    {
+      "text": "Jury ordered Meta to pay $375M for child-safety violations, a landmark courtroom loss that may accelerate platform liability and compliance costs.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html"
+    },
+    {
+      "text": "OpenAI is shutting down Sora, showing rapid product churn and heightened safety/operational constraints around consumer AI video generation.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://twitter.com/soraofficialapp/status/2036532795984715896"
+    },
+    {
+      "text": "Arm launched its first in-house CPU with Meta as a debut customer, moving Arm into direct silicon competition and reshaping AI compute supply chains.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html"
+    },
+    {
+      "text": "AI hardware demand remains intense: SK Hynix filed confidentially for a U.S. listing, spotlighting investor appetite for memory suppliers.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/25/sk-hynix-confidential-us-listing-adr-ai-memory.html"
+    },
+    {
+      "text": "Moody\u2019s cut a KKR-linked private credit fund to junk amid rising bad loans, signaling growing stress in illiquid credit and refinancing risk.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/03/24/moodys-private-credit-fund-kkr-future-standard-junk.html"
+    },
+    {
+      "text": "Research suggests oral insulin pills may replace injections, potentially expanding adherence and reshaping diabetes drug delivery economics.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260324024302.htm"
+    }
+  ]
+}

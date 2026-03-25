@@ -1,0 +1,216 @@
+{
+  "date": "2026-03-25",
+  "predictions": [
+    {
+      "text": "U.S. 10-year Treasury yield (FRED series DGS10) will print at or above 5.00% on at least one business day.",
+      "category": "rates",
+      "horizon_days": 97,
+      "deadline": "2026-06-30",
+      "confidence_pct": 32,
+      "verification_criteria": "Resolves YES if the St. Louis Fed FRED daily observation for DGS10 is >= 5.00 for any date on or before 2026-06-30; otherwise NO.",
+      "evidence": [
+        "Weak U.S. Treasury auction highlighted rising term-premium anxiety and war-risk sensitivity (MarketWatch, 2026-03-25): https://www.marketwatch.com/story/a-bad-treasury-auction-is-offering-a-glimpse-into-the-anxiety-on-wall-street-over-the-iran-war-fd17f7a6?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Daily DGS10 level on FRED",
+        "Treasury auction tails and bid-to-cover ratios",
+        "MOVE index / rates volatility and term premium commentary",
+        "Inflation surprise (CPI/PPI) and energy price shocks"
+      ],
+      "rationale": "Recent auction stress suggests higher term premium risk. A 5% print is plausible if inflation surprises persist or geopolitical risk reprices duration, but still not the base case over ~3 months.",
+      "id": "24055d68-e90a-4eb6-942d-dc6d8b0f5b05",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "At least one U.S. nominal coupon Treasury auction (2y/3y/5y/7y/10y/20y/30y) will have BOTH (a) a tail of >= 5.0 bps versus the When-Issued yield at the 1:00pm ET deadline AND (b) bid-to-cover <= 2.30.",
+      "category": "rates",
+      "horizon_days": 97,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if TreasuryDirect/auction results (or Treasury press release) for any listed tenor show high yield minus WI yield at 1:00pm ET >= 0.050% AND bid-to-cover ratio <= 2.30 for an auction settling on/before 2026-06-30; otherwise NO.",
+      "evidence": [
+        "Weak Treasury auction highlighted term-premium anxiety (MarketWatch, 2026-03-25): https://www.marketwatch.com/story/a-bad-treasury-auction-is-offering-a-glimpse-into-the-anxiety-on-wall-street-over-the-iran-war-fd17f7a6?mod=mw_rss_topstories"
+      ],
+      "monitoring_signals": [
+        "Auction WI levels vs stop-out yields",
+        "Indirect bidder take-down and dealer share",
+        "Real-yield movements and inflation breakevens",
+        "Geopolitical escalation headlines impacting risk premia"
+      ],
+      "rationale": "Auction indigestion is already visible; the joint condition is stricter than a simple tail and should occur mainly in risk-off or supply-shock episodes.",
+      "id": "3fbcfa4d-e360-4ea6-b906-349c29fc9ee5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "EIA will report U.S. refinery utilization (operable utilization rate) at or above 95.0% for at least one week in the Weekly Petroleum Status Report.",
+      "category": "energy",
+      "horizon_days": 97,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if any EIA Weekly Petroleum Status Report published on/before 2026-06-30 shows 'Refinery utilization rate, operable' >= 95.0% for the reported week; otherwise NO.",
+      "evidence": [
+        "TotalEnergies warned refining margins are at unprecedented highs, implying downstream bottlenecks (CNBC, 2026-03-24): https://www.cnbc.com/2026/03/24/totalenergies-ceo-world-has-never-experienced-refining-margins-like-this-.html"
+      ],
+      "monitoring_signals": [
+        "Weekly EIA refinery utilization and crude runs",
+        "Unplanned refinery outages and maintenance deferrals",
+        "Crack spreads and gasoline/distillate inventory levels",
+        "Import/export flows of refined products"
+      ],
+      "rationale": "Exceptionally high refining margins tend to pull utilization toward operational limits unless outages intervene; a single 95%+ print is historically plausible into summer demand.",
+      "id": "e9533c17-3fd5-49d4-9b16-5362ab86718b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At least one major container carrier (Maersk, MSC, CMA CGM, Hapag-Lloyd, or ONE) will announce a new or increased security/war-risk surcharge for Middle East/Persian Gulf (incl. Hormuz-adjacent) container services of at least $500 per TEU (or $1,000 per FEU) effective within 30 days of the announcement.",
+      "category": "markets",
+      "horizon_days": 67,
+      "deadline": "2026-05-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if an official carrier notice/press release/tariff bulletin on/before 2026-05-31 specifies a new or increased surcharge meeting the threshold and explicitly tied to security/war risk for relevant Middle East/Persian Gulf routing; otherwise NO.",
+      "evidence": [
+        "Iran signaled 'non-hostile' ships can transit Hormuz, implying selective disruption strategy (NYT, 2026-03-24): https://www.nytimes.com/2026/03/24/world/middleeast/iran-strait-of-hormuz-ships.html",
+        "Oil swung sharply amid de-escalation hopes and renewed conflict concerns (CNBC, 2026-03-25): https://www.cnbc.com/2026/03/25/oil-price-wti-brent-gas-lng-trump-iran-talks-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Carrier customer advisories and tariff updates",
+        "War-risk insurance pricing and JWC listed areas",
+        "UKMTO advisories and incident reports",
+        "Freight indices and spot rate volatility"
+      ],
+      "rationale": "Even without full closure, selective interdiction risk often leads carriers to pass through higher insurance and operational costs via surcharges.",
+      "id": "14d95597-bdd3-40ef-acd7-a5a8fd681531",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "SK hynix will publicly file a U.S. SEC registration statement for a U.S.-listed ADR or other U.S. public listing (e.g., Form F-1, F-3, or equivalent) following its confidential submission.",
+      "category": "markets",
+      "horizon_days": 189,
+      "deadline": "2026-09-30",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if SEC EDGAR shows a publicly available registration statement filed by SK hynix (or depositary/issuer entity) for a U.S. listing/ADR on/before 2026-09-30; otherwise NO.",
+      "evidence": [
+        "SK Hynix filed confidentially for a U.S. listing, spotlighting investor appetite for AI memory suppliers (CNBC, 2026-03-25): https://www.cnbc.com/2026/03/25/sk-hynix-confidential-us-listing-adr-ai-memory.html"
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR new filings by SK hynix / depositary banks",
+        "Underwriter announcements and exchange listing notices",
+        "Korea and U.S. media reporting on timing and valuation",
+        "Semiconductor cycle indicators and HBM demand guidance"
+      ],
+      "rationale": "A confidential filing often precedes a public filing within months if market windows remain open; AI-memory demand supports proceeding, though volatility could delay.",
+      "id": "a8061265-79e8-440c-89ac-2c5c75abafc5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "Arm will report (in an earnings release, call transcript, or annual report) that it has recognized revenue from selling or providing its own in-house CPU/processor product (not just IP licensing), explicitly distinguishing it from standard IP licensing/royalties.",
+      "category": "tech",
+      "horizon_days": 281,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if Arm public communications on/before 2026-12-31 explicitly state it has booked/recognized revenue from Arm-produced in-house CPU/processor products (or equivalent product sales/services) distinct from IP licensing/royalties; otherwise NO.",
+      "evidence": [
+        "Arm launched its first in-house CPU with Meta as a debut customer (CNBC, 2026-03-24): https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html"
+      ],
+      "monitoring_signals": [
+        "Arm quarterly results and segment commentary",
+        "Meta procurement/roadmap disclosures",
+        "Foundry/packaging partner announcements",
+        "Analyst questions about productization and revenue mix"
+      ],
+      "rationale": "If Arm truly shifts into selling CPU products, revenue recognition should follow initial deployments; timing and classification could slip depending on delivery model and accounting.",
+      "id": "fa133477-6b29-4406-b66e-3a15181e05ff",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "OpenAI will publicly launch a paid, generally available text-to-video generation offering for developers (API or equivalent) with published pricing and documentation.",
+      "category": "tech",
+      "horizon_days": 281,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if OpenAI publishes official docs/blog/release notes on/before 2026-12-31 describing a generally available developer-facing video generation model with explicit pricing (per second/minute/output or equivalent); otherwise NO.",
+      "evidence": [
+        "OpenAI is shutting down Sora, showing rapid product churn and safety/operational constraints (X/Twitter post, 2026-03-24): https://twitter.com/soraofficialapp/status/2036532795984715896"
+      ],
+      "monitoring_signals": [
+        "OpenAI platform docs changes (models/pricing pages)",
+        "Developer newsletter / release notes",
+        "Compute capacity announcements and new safety policies",
+        "Competitive video model launches by peers"
+      ],
+      "rationale": "The shutdown suggests a reset, not abandonment; monetizable video generation is strategically valuable, but safety/compute constraints make timelines uncertain.",
+      "id": "a0605bd9-7bb4-4cba-8260-0cf33f35b4b8",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Meta will disclose a litigation settlement accrual or charge of at least $500 million specifically tied to child-safety/child sexual abuse material (CSAM) related lawsuits or investigations (including the New Mexico case), in a Form 10-Q/10-K or 8-K.",
+      "category": "markets",
+      "horizon_days": 281,
+      "deadline": "2026-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if Meta SEC filings on/before 2026-12-31 show a >=$500M litigation-related accrual/charge and the filing text links it to child-safety/CSAM-related matters; otherwise NO.",
+      "evidence": [
+        "Jury ordered Meta to pay $375M for child-safety violations, a landmark courtroom loss (CNBC, 2026-03-24): https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html"
+      ],
+      "monitoring_signals": [
+        "Meta 10-Q/10-K litigation footnotes and contingency disclosures",
+        "Appeal filings and settlement talks reported by major outlets",
+        "Other state AG actions and verdicts in related cases",
+        "Meta policy changes/engineering spend disclosures"
+      ],
+      "rationale": "A large verdict increases pressure for broader settlements/reserves, but appeals and aggregation across cases affect whether a single disclosed charge reaches the threshold.",
+      "id": "f70dae39-2232-45b9-85d4-fcb0f2f563de",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "A major rating agency (Moody\u2019s, S&P, or Fitch) will downgrade at least one U.S.-focused private-credit fund/vehicle managed by Apollo, Blackstone, KKR, Ares, or Blue Owl by at least 2 notches OR to below investment grade (whichever is easier), citing credit deterioration or rising non-performing loans.",
+      "category": "markets",
+      "horizon_days": 189,
+      "deadline": "2026-09-30",
+      "confidence_pct": 48,
+      "verification_criteria": "Resolves YES if a published rating action by Moody\u2019s/S&P/Fitch on/before 2026-09-30 meets the downgrade condition and names the manager/fund/vehicle; otherwise NO.",
+      "evidence": [
+        "Moody\u2019s cut a KKR-linked private credit fund to junk amid rising bad loans (CNBC, 2026-03-24): https://www.cnbc.com/2026/03/24/moodys-private-credit-fund-kkr-future-standard-junk.html"
+      ],
+      "monitoring_signals": [
+        "Rating agency surveillance reports and outlook changes",
+        "Private credit delinquency/non-accrual disclosures",
+        "Refinancing volumes and default rates in leveraged loans/high yield",
+        "Redemption pressure and NAV write-downs in semi-liquid vehicles"
+      ],
+      "rationale": "With stress already visible in at least one vehicle, additional downgrades are plausible if refinancing conditions stay tight or defaults rise.",
+      "id": "c3cf0c18-15a5-41c8-b657-be30bbc15569",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Ukraine\u2019s Air Force (or Reuters/NYT citing official Ukrainian statements) will report a single 24-hour period in which Russia launched at least 700 drones (UAVs) at Ukraine.",
+      "category": "geopolitics",
+      "horizon_days": 189,
+      "deadline": "2026-09-30",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves YES if an official Ukrainian Air Force statement (or Reuters/NYT report quoting it) on/before 2026-09-30 states >=700 drones launched in a 24-hour period; otherwise NO.",
+      "evidence": [
+        "Russia launched a daytime strike with 500+ drones, underscoring accelerating drone-war scale (NYT, 2026-03-24): https://www.nytimes.com/2026/03/24/world/europe/russia-attack-drones-ukraine-lviv.html"
+      ],
+      "monitoring_signals": [
+        "Daily Ukrainian Air Force attack summaries",
+        "Russian production capacity indicators (Shahed/Geran and equivalents)",
+        "Air defense interception rate trends and ammunition constraints",
+        "Major escalation events (new offensives, retaliation cycles)"
+      ],
+      "rationale": "Attack sizes are trending upward; 700 is a meaningful further step and may occur if mass-production and saturation tactics continue, but it\u2019s not yet routine.",
+      "id": "0d6e99dd-52ef-4145-8482-21bb7ec95ba9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

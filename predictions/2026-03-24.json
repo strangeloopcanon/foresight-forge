@@ -20,7 +20,7 @@
       ],
       "rationale": "High visibility raises odds of at least one-chamber passage, but bicameral hurdles and jurisdictional ambiguity lower confidence.",
       "id": "12f45338-4223-45a2-839c-a6320738fc69",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Regulatory attention is already elevated; a formal action is a common next step even if ultimate outcomes vary.",
       "id": "95ced85a-678a-4200-99d7-48a8bb3c6275",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Procedural forecast: preliminary reports are routine and time-bounded, though exact posting date can slip.",
       "id": "80d2e38e-58aa-4756-8dd5-fa656be88958",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "Moderate odds: FAA often acts quickly post-incident, but may wait for NTSB findings or issue only internal guidance.",
       "id": "0c9764dc-c1e1-45e2-a4d2-eba18b6b2bb8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -107,7 +107,7 @@
       ],
       "rationale": "Investigations can settle, but timelines are uncertain and universities may litigate; hence modest confidence.",
       "id": "8fa10598-e001-4853-8685-fef41146721a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -129,7 +129,7 @@
       ],
       "rationale": "Large settlements are plausible but depend on project-specific legal posture and negotiation outcomes.",
       "id": "97cf7114-e78b-44c0-82f3-be77c0a12561",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "rationale": "Feasible product move with recurring rumors, but timing and scope (pilot vs broad rollout) remain uncertain.",
       "id": "013b39c0-c320-47de-8f1f-d345b9e690bb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -173,7 +173,7 @@
       ],
       "rationale": "Liquidity mismatches are a known feature of these vehicles; repetition depends on broader market stress and investor behavior.",
       "id": "e690b06a-f1c3-4707-b22e-a5cce0e1c39a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -195,7 +195,7 @@
       ],
       "rationale": "ATC constraints are chronic and increasingly discussed; requiring two airlines and explicit attribution keeps this non-trivial.",
       "id": "db22e562-4662-4db5-8980-0ea3be2c5afd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
