@@ -1,0 +1,126 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. circulates an Iran peace proposal while increasing Middle East troop posture, signaling escalation risk alongside diplomacy.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/03/25/us/politics/iran-peace-plan-talks-trump.html"
+    },
+    {
+      "text": "Iran rejects direct U.S. talks but reviews proposals; crude prices rise on heightened Strait of Hormuz disruption risk.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html"
+    },
+    {
+      "text": "Asia faces a double hit from higher oil and a stronger dollar, pressuring currencies, import costs, and growth outlook.",
+      "tags": [
+        "macro",
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/03/25/business/iran-war-dollar-rupee-won.html"
+    },
+    {
+      "text": "U.S. waives gasoline regulations and USPS seeks an 8% fuel surcharge as oil-driven inflation spills into consumer and shipping costs.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/25/us-postal-fuel-surcharge-package-deliveries-iran-oil.html"
+    },
+    {
+      "text": "Mortgage rates near six-month highs cut demand; analysts warn the Iran war could further slow U.S. housing via rates, energy costs, and sentiment.",
+      "tags": [
+        "rates",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/25/mortgage-demand-drops-highest-level-since-october.html"
+    },
+    {
+      "text": "Freddie and Fannie bond buying is helping cap mortgage-rate increases; without it, borrowing costs would likely be materially higher.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/mortgage-rates-near-6-month-high-but-heres-how-much-worse-it-would-be-without-freddie-and-fannies-bond-buying-bd7a9a9e"
+    },
+    {
+      "text": "Fed releases audited annual financial statements, a key transparency check on earnings remittances, balance-sheet operations, and risk management during quantitative tightening.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260325a.htm"
+    },
+    {
+      "text": "BEA reports 2025 U.S. international transactions and investment position, framing current-account flows and net foreign asset dynamics relevant to dollar and financing conditions.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.bea.gov"
+    },
+    {
+      "text": "Wall Street recession odds rise as data show underlying cracks; some strategists warn markets underprice downside risks.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html"
+    },
+    {
+      "text": "Private credit\u2019s low-loss narrative is weakening as defaults and investor exits increase, raising refinancing and systemic spillover concerns.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/25/private-credit-defaults-loan-quality-debt-risk-systemic-ai-disruption.html"
+    },
+    {
+      "text": "Jury finds Meta and YouTube negligent in a landmark social-media addiction case, increasing regulatory, liability, and product-design risk for major platforms.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html"
+    },
+    {
+      "text": "Meta cuts several hundred jobs while pushing AI urgency, highlighting cost control and reallocation toward AI amid advertising and metaverse uncertainty.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/25/meta-layoffs-reality-labs-facebook.html"
+    },
+    {
+      "text": "White House says Trump will meet Xi in China in May, a major geopolitical signal for trade, tariffs, supply chains, and tech controls.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html"
+    },
+    {
+      "text": "Trump criticizes Justices after Supreme Court tariff ruling, spotlighting legal constraints on executive trade powers and adding policy uncertainty for markets and importers.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/26/trump-supreme-court-tariffs-barrett-gorsuch-trade-ieepa-ruling.html"
+    },
+    {
+      "text": "Antimatter transported for the first time, enabling new precision tests of fundamental physics and advancing capabilities relevant to particle research and instrumentation.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.nature.com/articles/d41586-026-00950-w"
+    }
+  ]
+}

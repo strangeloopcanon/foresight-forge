@@ -1,0 +1,176 @@
+{
+  "date": "2026-03-26",
+  "predictions": [
+    {
+      "text": "Donald Trump and Xi Jinping will hold an in-person bilateral meeting in China (mainland) that is publicly confirmed by the White House or China\u2019s MFA.",
+      "category": "geopolitics",
+      "horizon_days": 66,
+      "deadline": "2026-05-31",
+      "confidence_pct": 62,
+      "verification_criteria": "Resolves YES if, by 2026-05-31, an official White House readout/transcript/photos or an official China MFA/Xinhua report confirms an in-person Trump\u2013Xi meeting occurring on Chinese mainland territory. Virtual meetings do not count.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html"
+      ],
+      "monitoring_signals": [
+        "White House schedule releases; NSC/State travel announcements",
+        "China MFA press briefings; Xinhua/People\u2019s Daily confirmation",
+        "Air Force One tail-number movements; NOTAMs and VIP airport closures in Beijing/Shanghai",
+        "G20/APEC/major summit sideline scheduling (if applicable)"
+      ],
+      "rationale": "Public reporting indicates a planned May meeting; execution risk remains from security, scheduling, or escalation in trade/tech disputes.",
+      "id": "601dedd5-9d83-4659-84a8-8ba9893d51fc",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "USPS will implement (effective date reached) a fuel surcharge of at least 8% for at least one domestic package/shipping product, as stated in a USPS public notice or PRC filing.",
+      "category": "macro",
+      "horizon_days": 96,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if, by 2026-06-30, USPS publishes a notice (or Postal Regulatory Commission docket document) showing a fuel surcharge rate \u22658% that becomes effective for at least one USPS domestic package product (e.g., Ground Advantage, Priority Mail). Announcement without the effective date occurring by the deadline does not count.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/25/us-postal-fuel-surcharge-package-deliveries-iran-oil.html"
+      ],
+      "monitoring_signals": [
+        "Postal Regulatory Commission (PRC) dockets for USPS price changes",
+        "USPS Industry Alert emails and Postal Bulletin updates",
+        "USPS.com price notices and fuel surcharge tables",
+        "Major shipper commentary (Pitney Bowes, Stamps.com, Shippo) on USPS surcharge implementation"
+      ],
+      "rationale": "USPS has floated an 8% fuel surcharge amid oil-driven cost pressure; implementation timing is uncertain but plausible within a quarter.",
+      "id": "7e8794c1-764f-485d-b709-596fbe5f41f8",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "BLS CPI-U headline inflation (seasonally adjusted) will print at or above +0.60% month-over-month in at least one monthly CPI release.",
+      "category": "macro",
+      "horizon_days": 96,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Resolves YES if any CPI news release published by BLS with reference month April 2026, May 2026, or June 2026 reports CPI-U (all items) SA MoM \u2265 +0.60%. Use the first-published value (not revisions).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html",
+        "https://www.nytimes.com/2026/03/25/business/iran-war-dollar-rupee-won.html"
+      ],
+      "monitoring_signals": [
+        "Weekly gasoline prices and crack spreads",
+        "Cleveland Fed inflation nowcast; NY Fed CPI core goods/services trackers",
+        "Transportation services and energy index components in CPI previews",
+        "Dollar strength and import-price prints"
+      ],
+      "rationale": "Energy and shipping cost shocks can push a high headline print, but base effects and shelter disinflation could offset.",
+      "id": "527307a0-eca6-466b-be97-2aba24f3e870",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "ICE Brent front-month futures will settle at or above $115.00 per barrel on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 66,
+      "deadline": "2026-05-31",
+      "confidence_pct": 33,
+      "verification_criteria": "Resolves YES if, by 2026-05-31, the official ICE settlement price for Brent Crude Futures (front-month at the time) is \u2265 $115.00/bbl on any trading day.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/26/oil-price-wti-brent-crude-iran-rejects-direct-us-trump-talks-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "UKMTO/US Navy incident reports near Hormuz; tanker AIS anomalies",
+        "Brent time spreads (backwardation steepening) and implied vol",
+        "OPEC+ statements and emergency meetings",
+        "SPR policy signals; refinery outage news"
+      ],
+      "rationale": "Hormuz risk can generate sharp upside spikes, but demand weakness or de-escalation could cap prices.",
+      "id": "0be28aac-b889-4410-b71d-9ef2d72810eb",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "Freddie Mac\u2019s weekly Primary Mortgage Market Survey will report the 30-year fixed-rate mortgage average at or above 7.50% in at least one weekly release.",
+      "category": "rates",
+      "horizon_days": 96,
+      "deadline": "2026-06-30",
+      "confidence_pct": 41,
+      "verification_criteria": "Resolves YES if any Freddie Mac PMMS weekly release dated on or before 2026-06-30 reports the 30-year fixed-rate mortgage average \u2265 7.50%.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/25/mortgage-demand-drops-highest-level-since-october.html",
+        "https://www.marketwatch.com/story/mortgage-rates-near-6-month-high-but-heres-how-much-worse-it-would-be-without-freddie-and-fannies-bond-buying-bd7a9a9e"
+      ],
+      "monitoring_signals": [
+        "10-year Treasury yield and MBS OAS/basis moves",
+        "Agency MBS supply (Fed QT pace) and bank demand",
+        "Mortgage rate lock indices and lender rate sheets",
+        "Energy-driven inflation surprises affecting term premium"
+      ],
+      "rationale": "Rates are already elevated and sensitive to inflation/oil shocks, but agency buying and risk-off rallies could prevent a 7.5% print.",
+      "id": "21d4f871-a7d2-4b4d-921c-8f14e3b05b2b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "Federal Reserve H.4.1 will show the \u2018deferred asset\u2019 line item exceeding $250 billion on at least one weekly balance sheet release.",
+      "category": "rates",
+      "horizon_days": 96,
+      "deadline": "2026-06-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Resolves YES if any weekly Federal Reserve Statistical Release H.4.1 dated on or before 2026-06-30 reports \u2018Deferred asset\u2019 > $250,000,000,000 (strictly greater than $250B).",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/other20260325a.htm"
+      ],
+      "monitoring_signals": [
+        "Weekly H.4.1 releases (deferred asset trajectory)",
+        "IOER/SOFR levels vs System Open Market Account income",
+        "Fed earnings remittance commentary and QT pace changes",
+        "Money-market rate persistence and reserve levels"
+      ],
+      "rationale": "With high administered rates, deferred assets can keep rising; crossing $250B depends mainly on rate path and portfolio run-off speed.",
+      "id": "b492fe46-2d7b-49b8-9593-424b2e1d2e2e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "USTR will open (announce) a new Section 301 investigation into trade practices affecting U.S. imports, naming China and covering at least one consumer-goods category.",
+      "category": "geopolitics",
+      "horizon_days": 158,
+      "deadline": "2026-08-31",
+      "confidence_pct": 29,
+      "verification_criteria": "Resolves YES if, by 2026-08-31, USTR publishes a Federal Register notice or official USTR press release initiating a new Section 301 investigation that explicitly names China and indicates scope including at least one consumer-goods product category. Reviews of existing 301 actions do not count unless explicitly a new investigation initiation.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/26/trump-supreme-court-tariffs-barrett-gorsuch-trade-ieepa-ruling.html",
+        "https://www.cnbc.com/2026/03/25/trump-xi-beijing-china-summit.html"
+      ],
+      "monitoring_signals": [
+        "USTR Federal Register postings and press releases",
+        "White House trade policy statements post\u2013Supreme Court ruling",
+        "Industry petitions (e.g., steel, autos, consumer electronics)",
+        "Congressional hearings and letters advocating new trade actions"
+      ],
+      "rationale": "If executive tariff authority is constrained, shifting toward Section 301 is a plausible workaround, but diplomatic talks could delay escalation.",
+      "id": "9d66f0b5-b79f-4dd8-b491-d503e0a4a133",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "Meta or Alphabet will disclose a litigation settlement accrual/charge of at least $250 million specifically tied to social-media addiction/harm-to-minors lawsuits (not CSAM) in an SEC filing.",
+      "category": "markets",
+      "horizon_days": 280,
+      "deadline": "2026-12-31",
+      "confidence_pct": 37,
+      "verification_criteria": "Resolves YES if a 10-Q, 10-K, or 8-K filed by Meta Platforms, Inc. or Alphabet Inc. on or before 2026-12-31 includes a disclosed litigation accrual/charge \u2265 $250,000,000 explicitly tied to social-media addiction, design-related harm, or youth mental-health/addiction claims (excluding CSAM-specific matters).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html"
+      ],
+      "monitoring_signals": [
+        "Quarterly filings: legal contingencies and accrual footnotes",
+        "Appeal outcomes and post-trial motions in major addiction verdicts",
+        "Settlement announcements by state AG coalitions or plaintiffs\u2019 steering committees",
+        "Insurance coverage disputes and reserve-building commentary on earnings calls"
+      ],
+      "rationale": "A negligence verdict raises pressure to reserve or settle, but appeals and case fragmentation make timing and accounting recognition uncertain.",
+      "id": "6c85baf3-ea5c-4745-b8ba-b19b9a8c23d8",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

@@ -19,7 +19,7 @@
       ],
       "rationale": "Recent auction stress suggests higher term premium risk. A 5% print is plausible if inflation surprises persist or geopolitical risk reprices duration, but still not the base case over ~3 months.",
       "id": "24055d68-e90a-4eb6-942d-dc6d8b0f5b05",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Auction indigestion is already visible; the joint condition is stricter than a simple tail and should occur mainly in risk-off or supply-shock episodes.",
       "id": "3fbcfa4d-e360-4ea6-b906-349c29fc9ee5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Exceptionally high refining margins tend to pull utilization toward operational limits unless outages intervene; a single 95%+ print is historically plausible into summer demand.",
       "id": "e9533c17-3fd5-49d4-9b16-5362ab86718b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Even without full closure, selective interdiction risk often leads carriers to pass through higher insurance and operational costs via surcharges.",
       "id": "14d95597-bdd3-40ef-acd7-a5a8fd681531",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -104,7 +104,7 @@
       ],
       "rationale": "A confidential filing often precedes a public filing within months if market windows remain open; AI-memory demand supports proceeding, though volatility could delay.",
       "id": "a8061265-79e8-440c-89ac-2c5c75abafc5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "rationale": "If Arm truly shifts into selling CPU products, revenue recognition should follow initial deployments; timing and classification could slip depending on delivery model and accounting.",
       "id": "fa133477-6b29-4406-b66e-3a15181e05ff",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -146,7 +146,7 @@
       ],
       "rationale": "The shutdown suggests a reset, not abandonment; monetizable video generation is strategically valuable, but safety/compute constraints make timelines uncertain.",
       "id": "a0605bd9-7bb4-4cba-8260-0cf33f35b4b8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -167,7 +167,7 @@
       ],
       "rationale": "A large verdict increases pressure for broader settlements/reserves, but appeals and aggregation across cases affect whether a single disclosed charge reaches the threshold.",
       "id": "f70dae39-2232-45b9-85d4-fcb0f2f563de",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "With stress already visible in at least one vehicle, additional downgrades are plausible if refinancing conditions stay tight or defaults rise.",
       "id": "c3cf0c18-15a5-41c8-b657-be30bbc15569",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -209,7 +209,7 @@
       ],
       "rationale": "Attack sizes are trending upward; 700 is a meaningful further step and may occur if mass-production and saturation tactics continue, but it\u2019s not yet routine.",
       "id": "0d6e99dd-52ef-4145-8482-21bb7ec95ba9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

@@ -2270,3 +2270,12 @@ None of the other forecasts (CFTC sports-event-contract action, congressional re
 
 ---
 
+
+## 2026-03-25
+
+Today’s news flow is dominated by escalation and diplomacy signaling around the Iran conflict (U.S. troop movements, peace-plan circulation, Iran’s stance on talks) and macro spillovers (oil-price strength, dollar pressure on Asia, housing/mortgage-rate sensitivity). These themes are directionally relevant to the rates, energy, and shipping-surcharge forecasts, but the bullets provided do not contain the specific hard datapoints required to adjudicate those predictions (e.g., an actual DGS10 print ≥5.00%, an EIA utilization figure ≥95%, or a carrier surcharge announcement with explicit per-TEU/FEU amounts and effective dates).
+
+On the tech/legal side, the landmark jury verdict finding Meta and YouTube negligent in a social-media addiction trial increases the general litigation-risk backdrop for Meta, but it does not match the forecasted trigger (a disclosed ≥$500M accrual/charge tied specifically to CSAM matters). Similarly, an Arm stock-move headline is not evidence of Arm recognizing revenue from selling its own processor product, and there is no OpenAI text-to-video API launch evidence in the bullets. Overall, none of the listed items provide clear, rule-satisfying confirmation or falsification, so all forecasts remain pending based on today’s evidence.
+
+---
+
