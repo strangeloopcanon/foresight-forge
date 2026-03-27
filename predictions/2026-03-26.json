@@ -19,7 +19,7 @@
       ],
       "rationale": "Public reporting indicates a planned May meeting; execution risk remains from security, scheduling, or escalation in trade/tech disputes.",
       "id": "601dedd5-9d83-4659-84a8-8ba9893d51fc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "USPS has floated an 8% fuel surcharge amid oil-driven cost pressure; implementation timing is uncertain but plausible within a quarter.",
       "id": "7e8794c1-764f-485d-b709-596fbe5f41f8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "rationale": "Energy and shipping cost shocks can push a high headline print, but base effects and shelter disinflation could offset.",
       "id": "527307a0-eca6-466b-be97-2aba24f3e870",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -83,7 +83,7 @@
       ],
       "rationale": "Hormuz risk can generate sharp upside spikes, but demand weakness or de-escalation could cap prices.",
       "id": "0be28aac-b889-4410-b71d-9ef2d72810eb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "Rates are already elevated and sensitive to inflation/oil shocks, but agency buying and risk-off rallies could prevent a 7.5% print.",
       "id": "21d4f871-a7d2-4b4d-921c-8f14e3b05b2b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "With high administered rates, deferred assets can keep rising; crossing $250B depends mainly on rate path and portfolio run-off speed.",
       "id": "b492fe46-2d7b-49b8-9593-424b2e1d2e2e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -148,7 +148,7 @@
       ],
       "rationale": "If executive tariff authority is constrained, shifting toward Section 301 is a plausible workaround, but diplomatic talks could delay escalation.",
       "id": "9d66f0b5-b79f-4dd8-b491-d503e0a4a133",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "rationale": "A negligence verdict raises pressure to reserve or settle, but appeals and case fragmentation make timing and accounting recognition uncertain.",
       "id": "6c85baf3-ea5c-4745-b8ba-b19b9a8c23d8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

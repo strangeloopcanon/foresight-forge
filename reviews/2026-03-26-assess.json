@@ -1,0 +1,45 @@
+{
+  "date": "2026-03-26",
+  "assessments": [
+    {
+      "id": "601dedd5-9d83-4659-84a8-8ba9893d51fc",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items focus on U.S. domestic politics (DHS shutdown, TSA pay) and Iran/Hormuz tensions; there is no report of a Trump\u2013Xi in-person bilateral meeting in mainland China publicly confirmed by the White House or China\u2019s MFA."
+    },
+    {
+      "id": "7e8794c1-764f-485d-b709-596fbe5f41f8",
+      "status": "pending",
+      "status_rationale": "No USPS public notice or PRC filing mentioned today indicating implementation of an \u22658% fuel surcharge on any domestic product; nothing in the provided bullets resolves this."
+    },
+    {
+      "id": "527307a0-eca6-466b-be97-2aba24f3e870",
+      "status": "pending",
+      "status_rationale": "No CPI release result (headline CPI-U SA m/m) is referenced in today\u2019s bullets, so there is no evidence to mark the threshold event as having occurred."
+    },
+    {
+      "id": "0be28aac-b889-4410-b71d-9ef2d72810eb",
+      "status": "pending",
+      "status_rationale": "News discusses oil and Strait of Hormuz dynamics and notes oil prices falling, but provides no confirmation that ICE Brent front-month futures settled \u2265$115 on any trading day."
+    },
+    {
+      "id": "21d4f871-a7d2-4b4d-921c-8f14e3b05b2b",
+      "status": "pending",
+      "status_rationale": "No Freddie Mac PMMS weekly print is cited; nothing confirms a 30-year fixed average \u22657.50% in any weekly release."
+    },
+    {
+      "id": "b492fe46-2d7b-49b8-9593-424b2e1d2e2e",
+      "status": "pending",
+      "status_rationale": "No Federal Reserve H.4.1 balance-sheet data is mentioned today; there is no evidence that the deferred asset line exceeded $250B."
+    },
+    {
+      "id": "9d66f0b5-b79f-4dd8-b491-d503e0a4a133",
+      "status": "pending",
+      "status_rationale": "No announcement of a new USTR Section 301 investigation naming China and covering consumer-goods categories appears in today\u2019s bullets."
+    },
+    {
+      "id": "6c85baf3-ea5c-4745-b8ba-b19b9a8c23d8",
+      "status": "pending",
+      "status_rationale": "Meta is reported to have suffered court defeats, but there is no indication of an SEC-filed litigation settlement accrual/charge \u2265$250M tied specifically to social-media addiction/harm-to-minors lawsuits."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-03-27",
+  "predictions": [
+    {
+      "text": "By 2026-04-15, the White House will issue a formal executive action to ensure TSA agents are paid during the DHS funding lapse (e.g., Executive Order, Presidential Memorandum, or DHS/OMB directive publicly posted) explicitly referencing TSA pay.",
+      "category": "macro",
+      "horizon_days": 19,
+      "deadline": "2026-04-15",
+      "confidence_pct": 63,
+      "verification_criteria": "Verification if an Executive Order, Presidential Memorandum, or an official DHS/OMB public directive is issued by the White House/DHS/OMB stating TSA agents will be paid (or receive targeted pay/advance/exception) during the DHS funding lapse, with TSA explicitly named.",
+      "evidence": [
+        "DHS funding lapse becomes longest partial shutdown; Trump vows executive action to pay TSA agents. https://www.cnbc.com/2026/03/26/trump-tsa-shutdown-dhs.html"
+      ],
+      "monitoring_signals": [
+        "WhiteHouse.gov Presidential Actions page",
+        "DHS press releases and TSA newsroom updates",
+        "OMB memoranda or guidance posted on whitehouse.gov/omb",
+        "Major-wire reporting (Reuters/AP) confirming the mechanism"
+      ],
+      "rationale": "Public commitment plus operational risk at airports creates pressure for a narrowly tailored executive workaround even during a funding lapse.",
+      "id": "4550380d-dc65-4019-9f04-f9fb54c58682",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-04-30, Congress will enact (passed by both chambers and signed) a DHS appropriations measure or continuing resolution that restores DHS funding.",
+      "category": "macro",
+      "horizon_days": 34,
+      "deadline": "2026-04-30",
+      "confidence_pct": 58,
+      "verification_criteria": "Verification if a bill funding DHS (full-year appropriation or CR) becomes Public Law by 2026-04-30, evidenced by Congress.gov status showing 'Became Public Law' and the statute provides DHS budget authority.",
+      "evidence": [
+        "DHS funding lapse becomes longest partial shutdown, highlighting fiscal brinkmanship. https://www.cnbc.com/2026/03/26/trump-tsa-shutdown-dhs.html"
+      ],
+      "monitoring_signals": [
+        "Congress.gov bill status for DHS funding vehicles",
+        "House/Senate floor schedules and leadership statements",
+        "OMB apportionment/resumption notices",
+        "News alerts from Reuters/AP/CQ Roll Call"
+      ],
+      "rationale": "Extended shutdowns typically trigger mounting political and operational costs, increasing odds of a CR or compromise within weeks.",
+      "id": "6b6437b5-6aaa-46be-898e-db13549cb02a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "On or before 2026-04-06, the U.S. President will publicly extend the pause on strikes against Iranian energy facilities beyond 2026-04-06 (to a stated date at least 7 days later).",
+      "category": "geopolitics",
+      "horizon_days": 10,
+      "deadline": "2026-04-06",
+      "confidence_pct": 52,
+      "verification_criteria": "Verification if a White House/DoD statement, presidential remarks transcript, or official briefing explicitly extends the strike pause on Iranian energy facilities beyond April 6 and specifies a new end date at least 7 days after April 6.",
+      "evidence": [
+        "Trump extends pause on strikes on Iranian energy facilities to April 6 amid market stress. https://www.cnbc.com/2026/03/26/trump-iran-war-oil-energy-pause.html"
+      ],
+      "monitoring_signals": [
+        "White House press briefings and readouts",
+        "DoD press briefings and CENTCOM updates",
+        "Reuters/CNBC/NYT follow-up reporting on strike rules of engagement",
+        "Publicly stated timelines in presidential remarks"
+      ],
+      "rationale": "If markets are already discounting de-escalation messaging, an explicit extension offers a low-cost signal to limit oil shock risk.",
+      "id": "398f56a6-5cbd-441f-9f9a-ff2a8fdc5e4f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-04-25, the U.S. Department of Defense will file a notice of appeal (or seek an emergency stay) of the Anthropic-related preliminary injunction referenced in recent reporting.",
+      "category": "tech",
+      "horizon_days": 29,
+      "deadline": "2026-04-25",
+      "confidence_pct": 66,
+      "verification_criteria": "Verification if a notice of appeal is filed on the court docket (PACER/RECAP) by DoD (or DOJ on DoD\u2019s behalf), or if a motion for stay pending appeal/emergency stay is filed, explicitly tied to the injunction described in reporting.",
+      "evidence": [
+        "Court grants Anthropic a preliminary injunction blocking a Pentagon 'supply chain risk' label. https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html"
+      ],
+      "monitoring_signals": [
+        "PACER/RECAP docket entries for the case",
+        "DoJ Civil Division / DoD statements",
+        "Appellate docket in the relevant Circuit",
+        "Reporting citing government litigation strategy"
+      ],
+      "rationale": "Preliminary injunctions affecting procurement and labeling authority are commonly appealed quickly to preserve discretion and avoid precedent.",
+      "id": "5cf5311c-8845-4bdf-8fbe-37eadd64bff5",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-06-30, the FHFA will publish formal written guidance (advisory, directive, bulletin, or public letter) addressing underwriting/eligibility treatment of crypto-related collateral or crypto-backed mortgage structures for at least one GSE (Fannie Mae or Freddie Mac).",
+      "category": "markets",
+      "horizon_days": 95,
+      "deadline": "2026-06-30",
+      "confidence_pct": 49,
+      "verification_criteria": "Verification if FHFA posts a dated guidance document on FHFA.gov (or a public letter to the Enterprises) that explicitly discusses crypto-backed mortgage products, crypto as collateral, or crypto custody/valuation requirements for GSE underwriting/eligibility.",
+      "evidence": [
+        "Fannie Mae accepts its first crypto-backed mortgage product, signaling mainstreaming of digital assets in housing finance. https://www.cnbc.com/2026/03/26/fannie-mae-accepts-first-crypto-backed-mortgage-product.html"
+      ],
+      "monitoring_signals": [
+        "FHFA directives/advisories page and press releases",
+        "Fannie/Freddie selling guide update logs",
+        "Congressional inquiries/hearings mentioning GSE crypto exposure",
+        "Industry commentary from MBA/NAHB referencing FHFA rules"
+      ],
+      "rationale": "A first-of-kind GSE product tends to trigger supervisory clarification on valuation, custody, and liquidity assumptions.",
+      "id": "c21a0f99-2266-4aac-bef2-f45ce99d8eb0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, Freddie Mac will publicly confirm acceptance of at least one crypto-backed mortgage structure (or an approved pilot) via a Selling Guide bulletin, official press release, or FHFA-confirmed program update.",
+      "category": "markets",
+      "horizon_days": 279,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "Verification if Freddie Mac posts a Selling Guide Bulletin or official announcement explicitly stating that a crypto-backed mortgage product/structure is eligible/accepted (pilot or general), or FHFA publicly confirms such acceptance for Freddie Mac.",
+      "evidence": [
+        "Fannie Mae accepts its first crypto-backed mortgage product, raising the chance of competitive/parallel GSE adoption. https://www.cnbc.com/2026/03/26/fannie-mae-accepts-first-crypto-backed-mortgage-product.html"
+      ],
+      "monitoring_signals": [
+        "Freddie Mac Selling Guide Bulletins and updates",
+        "FHFA statements on GSE innovation and risk management",
+        "Mortgage fintech announcements naming Freddie participation",
+        "Trade press (Inside Mortgage Finance, HousingWire) confirmations"
+      ],
+      "rationale": "If FHFA tolerates the risk controls for one Enterprise, pressure increases for harmonized policy or a controlled Freddie pilot.",
+      "id": "e86ef619-cca5-4c4f-9dbd-8dd9cfcf06fd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, at least one U.S. city/county will enact a moratorium (temporary prohibition) on new data center construction or permits specifically citing grid/power, water, or environmental strain, and the moratorium will apply to facilities above 50 MW (or described as 'hyperscale' or 'large-load').",
+      "category": "tech",
+      "horizon_days": 187,
+      "deadline": "2026-09-30",
+      "confidence_pct": 41,
+      "verification_criteria": "Verification if an official local-government order/ordinance/resolution is posted (or covered by major local press) establishing a moratorium on new data center approvals, with the text or coverage explicitly citing infrastructure strain (power/water) and defining scope as >50 MW or hyperscale/large-load.",
+      "evidence": [
+        "AI data-center buildout faces local permitting backlash and looming power scrutiny; Meta\u2019s large Texas project highlights constraints. https://www.cnbc.com/2026/03/26/meta-to-spend-10-billion-on-ai-data-center-in-el-paso-1gw-by-2028.html"
+      ],
+      "monitoring_signals": [
+        "City/county council agendas in major data-center corridors (TX, VA, AZ, GA, OH)",
+        "Local utility interconnection queues and public hearings",
+        "State PUC filings referencing large-load impacts",
+        "Trade press tracking moratoria (Data Center Dynamics, WSJ/Reuters local angles)"
+      ],
+      "rationale": "Rapid hyperscale load growth commonly triggers short-term permitting pauses while jurisdictions update zoning, utility, and water requirements.",
+      "id": "4c268ce9-19de-49ba-812a-1eaefec9f858",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. Department of Energy will publish an RFI (Request for Information), formal study, or strategy document explicitly focused on data center electricity demand growth and grid impacts, with AI/data centers named prominently in the title or executive summary.",
+      "category": "energy",
+      "horizon_days": 279,
+      "deadline": "2026-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "Verification if DOE releases on energy.gov or Federal Register an RFI, report, or strategy document where 'data centers' and 'AI' (or 'artificial intelligence') are explicitly named as a major driver of electricity demand/grid planning challenges in the title, executive summary, or purpose section.",
+      "evidence": [
+        "AI data-center buildout faces looming power scrutiny; large projects highlight grid constraints. https://www.cnbc.com/2026/03/26/meta-to-spend-10-billion-on-ai-data-center-in-el-paso-1gw-by-2028.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register notices from DOE",
+        "DOE Office of Electricity and EIA releases mentioning data centers",
+        "Congressional letters directing DOE study work",
+        "Interagency grid reliability statements referencing large loads"
+      ],
+      "rationale": "Sustained public attention to large-load interconnections makes a DOE fact-finding process and guidance document politically and operationally likely.",
+      "id": "b723f9b4-647d-4945-864a-5c7b3f4d6f75",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. FDA will issue a public communication (Safety Communication, guidance, or workshop summary) explicitly warning about or addressing deepfake/manipulated medical images (e.g., X-rays/CT/MRI) in clinical workflows or fraud, naming 'deepfake' or 'synthetic' images as a risk.",
+      "category": "other",
+      "horizon_days": 279,
+      "deadline": "2026-12-31",
+      "confidence_pct": 29,
+      "verification_criteria": "Verification if FDA posts (FDA.gov) a safety communication, guidance, or official workshop/meeting output that explicitly mentions 'deepfake' or 'synthetic/manipulated medical images' as a clinical or fraud risk and discusses mitigation (provenance, detection, standards).",
+      "evidence": [
+        "Deepfake X-rays now look real even to doctors, raising fraud/misdiagnosis risks and need for provenance/detection standards. https://www.sciencedaily.com/releases/2026/03/260326011452.htm"
+      ],
+      "monitoring_signals": [
+        "FDA CDRH safety communications and AI/ML guidance updates",
+        "FDA public workshops on digital health or imaging devices",
+        "Major fraud case reporting involving synthetic radiology images",
+        "Standards activity (NIST, DICOM committees) referenced by FDA"
+      ],
+      "rationale": "As synthetic medical-image capability becomes widely documented, regulator attention to provenance and device-workflow safeguards tends to follow.",
+      "id": "26c296cf-ec45-4ff9-a928-f6503e09e6c5",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "By 2026-07-31, New York State will report year-to-date Personal Income Tax (PIT) collections at least $2.0B above the state budget forecast for the same period, attributed in part to Wall Street/finance income (bonuses, capital gains, or withholding).",
+      "category": "macro",
+      "horizon_days": 126,
+      "deadline": "2026-07-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Verification if an official NYS DOB monthly cash report, quarterly update, or Comptroller release shows PIT receipts >= $2.0B above forecast for the comparable period, and the narrative notes finance-sector/Wall Street-related drivers (bonuses/capital gains/withholding).",
+      "evidence": [
+        "Wall Street bonuses total $49.2B, implying near-term boost to New York tax receipts. https://www.nytimes.com/2026/03/26/nyregion/wall-street-bonus.html"
+      ],
+      "monitoring_signals": [
+        "NYS Division of the Budget monthly cash reports",
+        "NY State Comptroller revenue updates",
+        "NYC OMB revenue reports (for corroboration)",
+        "Bank earnings compensation disclosures and bonus pool estimates"
+      ],
+      "rationale": "Large bonus pools typically lift PIT withholding and estimated payments, though market volatility can offset via lower capital gains.",
+      "id": "9af5c137-cd8e-458b-aea7-2c8837a613d5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

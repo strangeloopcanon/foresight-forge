@@ -1,0 +1,120 @@
+{
+  "bullets": [
+    {
+      "text": "Fed/OCC findings clear Morgan Stanley Bank for a Section 23A exemption, easing limits on affiliate transactions and liquidity management.",
+      "tags": [
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260326a.htm"
+    },
+    {
+      "text": "DHS funding lapse becomes longest partial shutdown; Trump vows executive action to pay TSA agents, reducing airport disruptions but highlighting fiscal brinkmanship.",
+      "tags": [
+        "macro",
+        "other"
+      ],
+      "link": "https://www.cnbc.com/2026/03/26/trump-tsa-shutdown-dhs.html"
+    },
+    {
+      "text": "Iran\u2019s control of the Strait of Hormuz pressures shipping and energy; limited tanker transit keeps crude risk premium elevated, with OECD warning global spillovers.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/26/business/iran-war-ships-strait-of-hormuz.html"
+    },
+    {
+      "text": "Trump extends pause on strikes on Iranian energy facilities to April 6; equities slide into correction, suggesting investors discount de-escalation messaging.",
+      "tags": [
+        "markets",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/26/trump-iran-war-oil-energy-pause.html"
+    },
+    {
+      "text": "Israel says it killed Iran\u2019s naval chief overseeing the Hormuz blockade, raising escalation odds and potential supply shocks.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/03/26/strait-of-hormuz-israel-iran-alireza-tangsiri-middle-east-war.html"
+    },
+    {
+      "text": "China industrial profits rise 15% early-year, but officials and analysts flag oil-price shocks as a key downside risk to manufacturing margins.",
+      "tags": [
+        "macro",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/27/china-industrial-profits-jan-feb-surge-oil-price-shock-threatens-outlook.html"
+    },
+    {
+      "text": "A forecasting group projects U.S. inflation at 4.2% in 2026, above Fed estimates; political fights over Fed leadership add rate-path uncertainty.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html"
+    },
+    {
+      "text": "AI data-center buildout faces local permitting backlash and looming power scrutiny; Meta\u2019s $10B Texas project highlights grid, nuclear-fuel, and labor constraints.",
+      "tags": [
+        "tech",
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/03/26/meta-to-spend-10-billion-on-ai-data-center-in-el-paso-1gw-by-2028.html"
+    },
+    {
+      "text": "Court grants Anthropic a preliminary injunction blocking a Pentagon 'supply chain risk' label, citing possible retaliation\u2014important precedent for AI procurement and speech.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html"
+    },
+    {
+      "text": "Fannie Mae accepts its first crypto-backed mortgage product, signaling mainstreaming of digital assets in housing finance while introducing valuation and collateral-liquidity risks.",
+      "tags": [
+        "markets",
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/03/26/fannie-mae-accepts-first-crypto-backed-mortgage-product.html"
+    },
+    {
+      "text": "Wall Street bonuses total $49.2B, underscoring strong bank profitability and a near-term boost to New York tax receipts despite volatile markets.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/03/26/nyregion/wall-street-bonus.html"
+    },
+    {
+      "text": "Meta shares fall nearly 8% after two court defeats; Netflix raises prices across plans\u2014contrasting legal overhangs with continued consumer-subscription pricing power.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/03/26/meta-lawsuit-decision-zuckerberg-woes.html"
+    },
+    {
+      "text": "Deepfake X-rays now look real even to doctors, amplifying risks of medical fraud, misdiagnosis, and the need for provenance and detection standards.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260326011452.htm"
+    },
+    {
+      "text": "Researchers identify an immune cell linked to long-COVID fatigue, offering a potential biomarker and therapeutic target for persistent symptoms.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260325005922.htm"
+    }
+  ]
+}

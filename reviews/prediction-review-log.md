@@ -2279,3 +2279,12 @@ On the tech/legal side, the landmark jury verdict finding Meta and YouTube negli
 
 ---
 
+
+## 2026-03-26
+
+Today’s news is dominated by U.S. governance disruption (the DHS funding lapse/partial shutdown and proposed steps to pay TSA officers) and heightened Middle East risk around Iran and the Strait of Hormuz. That backdrop is relevant to the oil-price forecast directionally, but none of the provided items contains the specific market-close evidence needed to validate whether Brent has settled at or above $115.
+
+On the corporate/regulatory side, the main directly related datapoint is litigation pressure on Meta (court defeats), which increases plausibility of future material charges but does not meet the forecast’s strict criterion of a disclosed ≥$250M settlement accrual tied to addiction/harm-to-minors claims in an SEC filing. The remaining forecasts (Trump–Xi meeting, USPS fuel surcharge, CPI ≥0.60% m/m, Freddie Mac ≥7.50%, Fed deferred asset >$250B, new USTR 301 vs. China) are not addressed by today’s bullets and remain open ahead of their deadlines.
+
+---
+
