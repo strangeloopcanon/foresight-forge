@@ -1,0 +1,166 @@
+{
+  "date": "2026-03-28",
+  "predictions": [
+    {
+      "text": "By 2026-04-30, the U.S. (DoD/CENTCOM) or UK (MoD/Royal Navy) will publicly announce a specific naval escort/convoy or enhanced-protection operation for commercial shipping transiting the Strait of Hormuz or Gulf of Oman (named operation or clearly defined mission).",
+      "category": "geopolitics",
+      "horizon_days": 33,
+      "deadline": "2026-04-30",
+      "confidence_pct": 36,
+      "verification_criteria": "Resolves YES if an official U.S. or UK government/military press release, briefing transcript, or official social-media statement announces a defined escort/convoy/protection operation (beyond generic patrols) for merchant vessels in/near the Strait of Hormuz or Gulf of Oman on/before 2026-04-30.",
+      "evidence": [
+        "Structured summary highlights elevated Hormuz disruption risk and broader Iran-war escalation dynamics."
+      ],
+      "monitoring_signals": [
+        "CENTCOM press releases and briefings",
+        "UK Ministry of Defence/Royal Navy announcements",
+        "UKMTO advisories that reference escorts or coalition protection",
+        "Statements from major shipping associations (ICS, BIMCO) citing escorts"
+      ],
+      "rationale": "If risk to commercial shipping rises, governments often shift from advisories to explicit escort/protection missions to stabilize trade flows.",
+      "id": "7fc34cbc-5c3d-4b18-ac66-d1737cc0f699",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-05-31, at least one top-20 U.S. airport operator will publicly warn passengers of longer TSA security wait times specifically due to the DHS funding lapse/shutdown (or related TSA staffing/pay disruption).",
+      "category": "macro",
+      "horizon_days": 64,
+      "deadline": "2026-05-31",
+      "confidence_pct": 52,
+      "verification_criteria": "Resolves YES if an official airport statement (press release, airport website alert, or verified social-media post) from a top-20 U.S. airport by annual passengers explicitly attributes longer TSA/security lines to the DHS funding lapse/shutdown or TSA staffing/pay disruption, on/before 2026-05-31.",
+      "evidence": [
+        "Structured summary notes TSA disruption and airport friction during the partial shutdown."
+      ],
+      "monitoring_signals": [
+        "Airport official social channels and newsroom pages (ATL, LAX, ORD, DFW, DEN, JFK, etc.)",
+        "Local TV news quoting airport management statements",
+        "TSA public statements about staffing and screening times"
+      ],
+      "rationale": "Airports commonly issue proactive advisories when screening capacity is impaired, especially during widely reported funding disruptions.",
+      "id": "91d84eeb-0e3b-4a93-bcd3-3d1432e8f5dd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "On or before 2026-06-30, the S&P 500 will have at least one trading day with a close-to-close decline of 3.0% or more.",
+      "category": "markets",
+      "horizon_days": 94,
+      "deadline": "2026-06-30",
+      "confidence_pct": 54,
+      "verification_criteria": "Resolves YES if any trading day on/before 2026-06-30 has (S&P 500 close - prior close) / prior close <= -3.0%, using official index close values.",
+      "evidence": [
+        "Structured summary describes conflict-driven risk-off moves and heightened risk premia."
+      ],
+      "monitoring_signals": [
+        "Daily S&P 500 percent change",
+        "Intraday volatility spikes and VIX term structure steepening",
+        "Major conflict escalation headlines tied to Iran/Hormuz"
+      ],
+      "rationale": "Geopolitical shocks and oil-risk repricing increase the probability of single-day equity drawdowns.",
+      "id": "560a7095-a670-4f90-9f01-aacdcfcf2ab5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-06-30, the European Commission will publish an official update on its cyberattack that explicitly states whether data exfiltration occurred (e.g., 'no evidence' vs 'data accessed/exfiltrated'), and if yes, names at least one affected directorate/service or system.",
+      "category": "tech",
+      "horizon_days": 94,
+      "deadline": "2026-06-30",
+      "confidence_pct": 67,
+      "verification_criteria": "Resolves YES if an EC official communication (press release, spokesperson briefing, official Q&A, or published incident update) explicitly addresses data exfiltration status and, if exfiltration/unauthorized access is confirmed, names at least one impacted EC service/directorate or information system, on/before 2026-06-30.",
+      "evidence": [
+        "Structured summary notes the European Commission confirmed a cyberattack after breach claims."
+      ],
+      "monitoring_signals": [
+        "European Commission press corner and spokesperson briefings",
+        "EDPS (EU data protection supervisor) statements",
+        "CERT-EU advisories referencing EC incident"
+      ],
+      "rationale": "High-profile institutional breaches usually prompt follow-up disclosures after initial triage and forensic scoping.",
+      "id": "5d254ef2-ba80-4277-afd8-15a9dd5564bc",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-07-31, CISA will publish a public advisory/guidance document where the title or executive summary explicitly mentions 'generative AI' or 'LLM(s)' as a factor in phishing/social engineering threat activity.",
+      "category": "tech",
+      "horizon_days": 125,
+      "deadline": "2026-07-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Resolves YES if a CISA web-posted advisory/guidance/analysis report on/before 2026-07-31 has 'generative AI' or 'LLM'/'large language model' explicitly in the title or executive summary and ties it to phishing or social engineering tactics.",
+      "evidence": [
+        "Structured summary notes heightened concern about more powerful frontier models and shifting cyber attack/defense balance."
+      ],
+      "monitoring_signals": [
+        "CISA advisories and 'News & Events' posts",
+        "Joint Cybersecurity Advisories (CISA/FBI/NSA)",
+        "Phishing campaign reporting that highlights AI-assisted lures"
+      ],
+      "rationale": "As AI-assisted social engineering becomes routine, CISA tends to formalize the risk in guidance for critical infrastructure and government networks.",
+      "id": "245e6894-5bd0-42f2-8064-86cf4c013881",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-08-31, at least one U.S. state public utility commission (PUC) will open a formal docket (or equivalent proceeding) specifically focused on data center/AI-driven electricity load growth and cost allocation/interconnection impacts.",
+      "category": "energy",
+      "horizon_days": 156,
+      "deadline": "2026-08-31",
+      "confidence_pct": 44,
+      "verification_criteria": "Resolves YES if any state PUC posts an order/notice opening a new docket (or initiating a specific proceeding) where the stated purpose includes data centers and/or AI-related large loads and addresses planning, interconnection, tariffs, or cost allocation, on/before 2026-08-31.",
+      "evidence": [
+        "Structured summary highlights grid strain and energy-security tradeoffs amid rising AI/data-center demand concerns."
+      ],
+      "monitoring_signals": [
+        "PUC docket search pages in high data-center-growth states (VA, OH, TX, AZ, GA, NC, IA, OR)",
+        "Utility IRP filings referencing data center/AI load",
+        "Regional grid operator warnings about large-load queues"
+      ],
+      "rationale": "Rapid large-load additions are increasingly triggering regulatory proceedings on who pays for upgrades and how quickly interconnections can be approved.",
+      "id": "95a536d6-e7af-4993-b9fd-a5c9dd23d659",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, FERC will hold a technical conference OR issue a formal notice (e.g., NOPR, NOI, or order initiating inquiry) explicitly focused on reliability/planning challenges from large new loads such as data centers (including AI workloads).",
+      "category": "energy",
+      "horizon_days": 278,
+      "deadline": "2026-12-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Resolves YES if FERC, on/before 2026-12-31, (a) holds a technical conference whose agenda/notice explicitly references data centers/large loads/AI load growth and reliability/planning, or (b) issues a NOPR/NOI/order initiating inquiry explicitly on that topic.",
+      "evidence": [
+        "Structured summary discusses grid constraints and the energy transition\u2019s vulnerability amid rising electricity-demand anxiety."
+      ],
+      "monitoring_signals": [
+        "FERC eLibrary for 'large load', 'data center', 'AI' keywords",
+        "FERC meeting agendas and technical-conference notices",
+        "NERC reliability assessments citing large-load growth"
+      ],
+      "rationale": "If large-load growth continues to accelerate, federal reliability and interconnection policy attention is likely to formalize through conferences or rulemaking steps.",
+      "id": "049377bd-18e4-44b5-a291-174269adcf8a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, OpenAI will publicly confirm an IPO process milestone by either (a) filing an S-1 publicly, or (b) announcing it has confidentially submitted a draft registration statement to the SEC.",
+      "category": "markets",
+      "horizon_days": 278,
+      "deadline": "2026-12-31",
+      "confidence_pct": 28,
+      "verification_criteria": "Resolves YES if on/before 2026-12-31 OpenAI (or its parent entity) has a publicly available SEC S-1 filing, or OpenAI issues an official statement that it has confidentially submitted a draft registration statement for an IPO to the SEC.",
+      "evidence": [
+        "Structured summary notes reporting that large financing is interpreted as positioning for a 2026 OpenAI IPO."
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR searches for OpenAI-related registrants",
+        "OpenAI official blog/newsroom and major-wire confirmations (Reuters, WSJ, FT)",
+        "Underwriter/lead-left bank reporting tied to IPO preparation"
+      ],
+      "rationale": "Large-scale financing and infrastructure buildout can precede formal IPO steps, but timing remains uncertain and dependent on market and regulatory conditions.",
+      "id": "4a2d6e0b-9242-459b-8109-a433197c86f5",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

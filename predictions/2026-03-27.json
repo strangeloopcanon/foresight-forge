@@ -19,7 +19,7 @@
       ],
       "rationale": "Public commitment plus operational risk at airports creates pressure for a narrowly tailored executive workaround even during a funding lapse.",
       "id": "4550380d-dc65-4019-9f04-f9fb54c58682",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "60-70"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Extended shutdowns typically trigger mounting political and operational costs, increasing odds of a CR or compromise within weeks.",
       "id": "6b6437b5-6aaa-46be-898e-db13549cb02a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "If markets are already discounting de-escalation messaging, an explicit extension offers a low-cost signal to limit oil shock risk.",
       "id": "398f56a6-5cbd-441f-9f9a-ff2a8fdc5e4f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Preliminary injunctions affecting procurement and labeling authority are commonly appealed quickly to preserve discretion and avoid precedent.",
       "id": "5cf5311c-8845-4bdf-8fbe-37eadd64bff5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "A first-of-kind GSE product tends to trigger supervisory clarification on valuation, custody, and liquidity assumptions.",
       "id": "c21a0f99-2266-4aac-bef2-f45ce99d8eb0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "If FHFA tolerates the risk controls for one Enterprise, pressure increases for harmonized policy or a controlled Freddie pilot.",
       "id": "e86ef619-cca5-4c4f-9dbd-8dd9cfcf06fd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Rapid hyperscale load growth commonly triggers short-term permitting pauses while jurisdictions update zoning, utility, and water requirements.",
       "id": "4c268ce9-19de-49ba-812a-1eaefec9f858",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Sustained public attention to large-load interconnections makes a DOE fact-finding process and guidance document politically and operationally likely.",
       "id": "b723f9b4-647d-4945-864a-5c7b3f4d6f75",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "As synthetic medical-image capability becomes widely documented, regulator attention to provenance and device-workflow safeguards tends to follow.",
       "id": "26c296cf-ec45-4ff9-a928-f6503e09e6c5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "rationale": "Large bonus pools typically lift PIT withholding and estimated payments, though market volatility can offset via lower capital gains.",
       "id": "9af5c137-cd8e-458b-aea7-2c8837a613d5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

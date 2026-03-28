@@ -2288,3 +2288,12 @@ On the corporate/regulatory side, the main directly related datapoint is litigat
 
 ---
 
+
+## 2026-03-27
+
+Today’s news materially engages only the TSA/shutdown cluster of predictions. Headlines that the White House “vows to pay” TSA workers and that DHS expects paychecks to resume soon are supportive of the underlying thesis (administrative steps to keep TSA paid during a funding lapse), but they do not, on the evidence provided, meet the tighter verification criterion of a publicly posted formal executive action explicitly referencing TSA pay. As a result, that forecast moves into a “needs-clarification” state rather than being scored correct.
+
+The broader DHS funding restoration forecast remains live but currently looks less favorable on momentum: coverage suggests the shutdown continues and a House GOP funding proposal was spiked, implying continued legislative gridlock rather than imminent enactment. The remaining forecasts (Iran strike-pause extension, DoD appeal on the Anthropic injunction, FHFA/Freddie crypto-mortgage guidance, data-center moratoria/DOE demand study, FDA deepfake-image warning, and NY PIT upside) are not directly addressed by the provided news bullets and therefore remain pending.
+
+---
+

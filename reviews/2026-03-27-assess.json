@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-27",
+  "assessments": [
+    {
+      "id": "4550380d-dc65-4019-9f04-f9fb54c58682",
+      "status": "needs-clarification",
+      "status_rationale": "Today\u2019s coverage says the White House \u201cvows to pay T.S.A. workers\u201d during a partial shutdown and DHS says TSA officers will start receiving paychecks soon, which is directionally consistent. However, the prediction requires a publicly posted formal executive action (e.g., EO/presidential memorandum/DHS-OMB directive) explicitly referencing TSA pay; the provided bullets do not confirm that such a specific, public directive has been issued."
+    },
+    {
+      "id": "6b6437b5-6aaa-46be-898e-db13549cb02a",
+      "status": "pending",
+      "status_rationale": "Reporting indicates the DHS shutdown/partial shutdown continues and a House GOP funding proposal was spiked, implying no enacted (passed-and-signed) DHS appropriations measure or CR restoring funding yet."
+    },
+    {
+      "id": "398f56a6-5cbd-441f-9f9a-ff2a8fdc5e4f",
+      "status": "pending",
+      "status_rationale": "The news discusses the Iran war and U.S. domestic political reactions, but nothing in the bullets indicates the President publicly extended a pause on strikes against Iranian energy facilities beyond 2026-04-06."
+    },
+    {
+      "id": "5cf5311c-8845-4bdf-8fbe-37eadd64bff5",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets mentions a DoD notice of appeal or request for an emergency stay related to an Anthropic-related preliminary injunction."
+    },
+    {
+      "id": "c21a0f99-2266-4aac-bef2-f45ce99d8eb0",
+      "status": "pending",
+      "status_rationale": "No referenced news indicates FHFA has published formal written guidance on underwriting/eligibility treatment of crypto-related collateral or crypto-backed mortgage structures."
+    },
+    {
+      "id": "e86ef619-cca5-4c4f-9dbd-8dd9cfcf06fd",
+      "status": "pending",
+      "status_rationale": "No referenced news indicates Freddie Mac has publicly confirmed acceptance of any crypto-backed mortgage structure or pilot."
+    },
+    {
+      "id": "4c268ce9-19de-49ba-812a-1eaefec9f858",
+      "status": "pending",
+      "status_rationale": "No referenced news indicates any U.S. city/county enacted a moratorium on new large data center construction/permits citing grid/power, water, or environmental strain."
+    },
+    {
+      "id": "b723f9b4-647d-4945-864a-5c7b3f4d6f75",
+      "status": "pending",
+      "status_rationale": "No referenced news indicates DOE published an RFI, study, or strategy document explicitly focused on data center electricity demand growth and grid impacts."
+    },
+    {
+      "id": "26c296cf-ec45-4ff9-a928-f6503e09e6c5",
+      "status": "pending",
+      "status_rationale": "No referenced news indicates FDA issued a public communication explicitly warning about deepfake/manipulated medical images in clinical workflows or fraud."
+    },
+    {
+      "id": "9af5c137-cd8e-458b-aea7-2c8837a613d5",
+      "status": "pending",
+      "status_rationale": "No referenced news indicates New York State reported year-to-date PIT collections at least $2.0B above forecast and attributed in part to Wall Street/finance income."
+    }
+  ]
+}
