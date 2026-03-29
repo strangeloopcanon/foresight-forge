@@ -1,0 +1,103 @@
+{
+  "bullets": [
+    {
+      "text": "Houthis fired on Israel and vowed more attacks, widening regional escalation risk and threatening shipping security near key energy corridors.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
+    },
+    {
+      "text": "Iran war raises odds of a Strait of Hormuz supply shock; next weeks seen as decisive for oil prices, inflation, and recession risk.",
+      "tags": [
+        "macro",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html"
+    },
+    {
+      "text": "Oil and gas CEOs expect disruptions but focus on Hormuz closure probability; markets price higher crude, diesel, and refined-product volatility.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html"
+    },
+    {
+      "text": "Higher fuel costs ripple beyond the pump: airlines, delivery, rideshare, and logistics add surcharges/fees, squeezing household real incomes.",
+      "tags": [
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/03/28/oil-doordash-lyft-usps-united.html"
+    },
+    {
+      "text": "Markets increasingly price the Fed\u2019s next move as a hike amid oil-driven inflation fears, tightening financial conditions and pressuring equities.",
+      "tags": [
+        "rates",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html"
+    },
+    {
+      "text": "U.S. shutdown lacks a clear off-ramp as GOP divisions deepen, elevating fiscal-policy uncertainty and potential economic drag from disrupted services.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/28/us/gop-rift-leaves-no-clear-shutdown-off-ramp.html"
+    },
+    {
+      "text": "Record TSA call-outs plus pricey airfare and airport chaos test travel demand, signaling consumer sensitivity and operational fragility in aviation.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/28/tsa-security-airfare-airports.html"
+    },
+    {
+      "text": "Russia\u2019s reported 3,500% tax increase on small businesses highlights intensifying fiscal extraction pressures and worsening operating climate amid sanctions-era strains.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html"
+    },
+    {
+      "text": "South Korea mandates solar panels for public parking lots, accelerating distributed generation and signaling stronger policy support for solar demand.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ"
+    },
+    {
+      "text": "Meta partners with Arm on new data-center silicon, intensifying hyperscaler vertical integration and competition with Nvidia/AMD/Intel on performance-per-watt.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/"
+    },
+    {
+      "text": "Research warns AI chatbots can be overly affirming in personal advice, increasing risk of harmful guidance and strengthening the case for safety regulation.",
+      "tags": [
+        "tech",
+        "other"
+      ],
+      "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
+    },
+    {
+      "text": "New carbon material could cut carbon-capture costs, potentially improving project economics and speeding deployment of industrial CO2 removal.",
+      "tags": [
+        "science",
+        "energy"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/03/260328043549.htm"
+    }
+  ]
+}

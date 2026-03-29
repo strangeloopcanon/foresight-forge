@@ -1,0 +1,197 @@
+{
+  "date": "2026-03-29",
+  "predictions": [
+    {
+      "text": "By 2026-06-30, the Lloyd\u2019s Market Association Joint War Committee (JWC) will issue a public listed-areas update or circular that newly adds OR materially expands a listed war-risk area covering the Strait of Hormuz and/or Gulf of Oman.",
+      "category": "energy",
+      "horizon_days": 93,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "verification_criteria": "Verified if an LMA/JWC published listed-areas document/circular (on LMA site or widely republished by major brokers/insurers) explicitly names the Strait of Hormuz and/or Gulf of Oman as newly listed/expanded compared with the prior version.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html",
+        "https://www.nytimes.com/2026/03/28/world/middleeast/yemen-houthis-attack-israel-war.html"
+      ],
+      "monitoring_signals": [
+        "LMA/JWC listed areas updates",
+        "War-risk broker notes from Marsh, Howden, Aon",
+        "P&I club advisories for Middle East transits",
+        "Reuters/TradeWinds reporting on war-risk classifications"
+      ],
+      "rationale": "Escalation risk around Hormuz often triggers insurance-market geographic reclassification; a formal JWC update is a common mechanism.",
+      "id": "96db65f6-859b-45d8-9c1d-eae074b3aa38",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, a major shipping broker/index provider (Clarksons, Baltic Exchange, or Platts) will report Middle East\u2013linked VLCC spot earnings at or above $150,000/day on at least one day (or one published daily assessment).",
+      "category": "markets",
+      "horizon_days": 93,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "Verified if a published daily spot-earnings assessment or index print from Clarksons/Baltic/Platts shows VLCC spot earnings >= $150,000/day for a Middle East load route (or explicitly described as Middle East-linked VLCC earnings).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/28/iran-war-oil-companies-price-gas-diesel-strait-hormuz.html",
+        "https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Baltic Dirty Tanker Index components",
+        "Clarksons Research daily tanker earnings",
+        "Platts tanker marketwire headlines",
+        "Middle East loadings disruption headlines"
+      ],
+      "rationale": "Heightened war-risk and rerouting typically tightens tanker supply and can spike VLCC earnings quickly.",
+      "id": "889c1621-99cf-4af9-9dc6-153bb64ea64c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, a major marine insurance broker (Marsh, Howden, Aon, Gallagher, or Willis) will publish a client note stating that quoted war-risk additional premium for a single Strait of Hormuz transit reached at least 0.50% of hull value (or equivalent wording).",
+      "category": "energy",
+      "horizon_days": 93,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "verification_criteria": "Verified if any publicly posted broker market update/client note (or Reuters quoting the note) explicitly states Hormuz transit war-risk additional premium (AP) at >=0.50% of hull value (or a clearly equivalent percentage quote).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Broker war-risk bulletins (Marsh/Howden/Aon)",
+        "Reuters insurance-market reports on Gulf war-risk pricing",
+        "P&I club circulars referencing AP levels",
+        "Shipowner comments on insurance costs"
+      ],
+      "rationale": "If escalation persists, war-risk AP often reprices sharply; brokers frequently quantify the move in published market notes.",
+      "id": "fbf7dfb2-2b2a-4582-9cba-440cf419da7a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, the Federal Reserve will raise the target range for the federal funds rate by at least 25 basis points versus the target range in effect on 2026-03-29.",
+      "category": "rates",
+      "horizon_days": 185,
+      "deadline": "2026-09-30",
+      "confidence_pct": 42,
+      "verification_criteria": "Verified if an FOMC statement (federalreserve.gov) shows the target range upper bound at least 0.25 percentage points higher than the range effective on 2026-03-29.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html",
+        "https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Fed funds futures (CME) implied probabilities",
+        "Core CPI/PCE prints and inflation expectations",
+        "Energy price persistence and pass-through indicators",
+        "FOMC minutes and speeches referencing oil-driven inflation"
+      ],
+      "rationale": "Market-implied hike odds rise when energy shocks threaten inflation expectations; follow-through is plausible within two to three meetings.",
+      "id": "3bea0135-04c0-48eb-9ecc-5b255f24a9cb",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-08-31, at least one major U.S. passenger airline (Delta, United, American, Southwest, JetBlue, or Alaska) will publicly implement a temporary 'fuel surcharge' or 'energy surcharge' applicable to passenger tickets (not only cargo), disclosed in a press release, investor update, or fare-rule filing.",
+      "category": "macro",
+      "horizon_days": 155,
+      "deadline": "2026-08-31",
+      "confidence_pct": 30,
+      "verification_criteria": "Verified if an airline public communication or fare-rule/filing (or Reuters/WSJ citing such documents) shows a passenger-ticket surcharge explicitly labeled fuel/energy surcharge, with an effective date on or before 2026-08-31.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/28/oil-doordash-lyft-usps-united.html"
+      ],
+      "monitoring_signals": [
+        "Airline fare-rule updates (ATPCO references in reporting)",
+        "Earnings call transcripts discussing surcharges",
+        "DOT complaints/industry reporting on fare add-ons",
+        "Jet fuel crack spreads and airline margin commentary"
+      ],
+      "rationale": "If fuel spikes persist, airlines sometimes shift from hedging/fees to explicit passenger surcharges, especially for shorter-haul markets.",
+      "id": "bd8ff5b5-9873-4060-a32e-f4985a109d06",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-07-31, the Bank of Russia will raise its key rate by at least 100 basis points in a single scheduled policy decision (one meeting-to-meeting move).",
+      "category": "macro",
+      "horizon_days": 124,
+      "deadline": "2026-07-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Verified if the Bank of Russia press release on a scheduled policy meeting states the key rate increased by >=1.00 percentage point versus the prior meeting level.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html"
+      ],
+      "monitoring_signals": [
+        "Russian CPI and inflation expectations prints",
+        "Ruble volatility and capital controls changes",
+        "Fiscal measures increasing extraction/taxes",
+        "Bank of Russia meeting previews and guidance language"
+      ],
+      "rationale": "Fiscal extraction and sanctions-era constraints can worsen inflation dynamics, increasing the likelihood of a large defensive rate move.",
+      "id": "ee04990c-84c2-4509-98d3-af2aa0af069e",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, South Korea will publish an official implementation measure for the public-parking-lot solar mandate (e.g., enforcement decree, ministry guideline, or procurement standard) that specifies compliance timing and covered parking-lot categories.",
+      "category": "energy",
+      "horizon_days": 185,
+      "deadline": "2026-09-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Verified if a Korean government gazette posting or ministry website (MOTIE, MOLIT, MOE, or equivalent) publishes a rule/guideline for the mandate that includes at least (a) covered entities/categories and (b) a compliance deadline or phased schedule.",
+      "evidence": [
+        "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ"
+      ],
+      "monitoring_signals": [
+        "Korean Official Gazette regulatory postings",
+        "MOTIE/MOLIT press releases and implementation Q&A",
+        "Public procurement bid notices for solar canopies",
+        "Utility interconnection rule updates for parking-lot PV"
+      ],
+      "rationale": "A mandate typically requires implementing rules within months to define scope, enforcement, and financing/procurement mechanics.",
+      "id": "e991b841-6f41-42e6-90d8-92f6c3f84c19",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, Meta will publicly announce production deployment (not just R&D) of an Arm-based custom general-purpose data-center CPU (distinct from AI accelerators), naming the chip/program and stating it is running in Meta data centers.",
+      "category": "tech",
+      "horizon_days": 277,
+      "deadline": "2026-12-31",
+      "confidence_pct": 50,
+      "verification_criteria": "Verified if Meta publishes a newsroom post, engineering blog, or earnings materials explicitly stating an Arm-based custom CPU is deployed/operational in Meta data centers and provides a chip/program name (or clear identifier).",
+      "evidence": [
+        "https://about.fb.com/news/2026/03/meta-partners-with-arm-to-develop-new-class-of-data-center-silicon/"
+      ],
+      "monitoring_signals": [
+        "Meta engineering blog posts about infrastructure silicon",
+        "Earnings calls mentioning CPU offload/cost-per-compute gains",
+        "Arm partner announcements and ecosystem presentations",
+        "Open Compute Project (OCP) disclosures from Meta"
+      ],
+      "rationale": "The partnership signals intent to verticalize silicon; a named, deployed CPU is a natural next milestone for cost/power optimization.",
+      "id": "208297d0-4da9-44d3-a27f-19582f81be08",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, the European Commission will open a formal Digital Services Act (DSA) proceeding (or equivalent formal investigation announcement) against an AI chatbot/companion service, explicitly citing risks to minors and/or mental-health harms from conversational AI outputs.",
+      "category": "geopolitics",
+      "horizon_days": 277,
+      "deadline": "2026-12-31",
+      "confidence_pct": 28,
+      "verification_criteria": "Verified if the European Commission publishes a press release or official webpage stating it has opened a formal DSA proceeding/investigation into a named AI chatbot/companion service, and the announcement explicitly references minors and/or mental-health/self-harm risk.",
+      "evidence": [
+        "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"
+      ],
+      "monitoring_signals": [
+        "EU Commission DSA enforcement announcements",
+        "NGO/academic reports on chatbot harms triggering regulator attention",
+        "Member-state referrals to the Commission",
+        "Platform risk-assessment and transparency report disclosures"
+      ],
+      "rationale": "Growing evidence of harmful advice dynamics increases regulatory pressure; the EU has established tools to open formal platform-risk proceedings.",
+      "id": "222b0a63-0960-486f-88a3-84fcdeb1c79e",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

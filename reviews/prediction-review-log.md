@@ -2297,3 +2297,14 @@ The broader DHS funding restoration forecast remains live but currently looks le
 
 ---
 
+
+## 2026-03-28
+
+The day’s news most directly increases the plausibility of the Strait of Hormuz shipping-protection forecast: multiple items tie the Iran war to supply disruption and inflation risk, which is the kind of backdrop that often precedes formal escort or “enhanced protection” mission announcements. However, the threshold in the prediction is specific (public announcement of a defined operation), and no such announcement is evidenced in the provided headlines.
+
+Domestically, the shutdown/TSA disruption story is the closest to resolving one of the forecasts. The presence of a shutdown-related TSA staffing event and “airport chaos” reporting suggests conditions where major airport operators might issue passenger advisories about longer security lines. Still, the bullets do not clearly establish that a top-20 airport operator made an explicit, public warning attributing longer wait times to the DHS funding lapse/shutdown, so this remains unconfirmed without the article text.
+
+The remaining forecasts (S&P 500 ≥3% down day; EU Commission cyber exfiltration update; CISA generative-AI phishing guidance; state PUC and FERC large-load proceedings; OpenAI IPO milestone) are not directly addressed by today’s headlines and therefore stay pending.
+
+---
+

@@ -19,7 +19,7 @@
       ],
       "rationale": "If risk to commercial shipping rises, governments often shift from advisories to explicit escort/protection missions to stabilize trade flows.",
       "id": "7fc34cbc-5c3d-4b18-ac66-d1737cc0f699",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Airports commonly issue proactive advisories when screening capacity is impaired, especially during widely reported funding disruptions.",
       "id": "91d84eeb-0e3b-4a93-bcd3-3d1432e8f5dd",
-      "outcome": null,
+      "outcome": "needs-clarification",
       "confidence_bin": "50-60"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Geopolitical shocks and oil-risk repricing increase the probability of single-day equity drawdowns.",
       "id": "560a7095-a670-4f90-9f01-aacdcfcf2ab5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "High-profile institutional breaches usually prompt follow-up disclosures after initial triage and forensic scoping.",
       "id": "5d254ef2-ba80-4277-afd8-15a9dd5564bc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "As AI-assisted social engineering becomes routine, CISA tends to formalize the risk in guidance for critical infrastructure and government networks.",
       "id": "245e6894-5bd0-42f2-8064-86cf4c013881",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Rapid large-load additions are increasingly triggering regulatory proceedings on who pays for upgrades and how quickly interconnections can be approved.",
       "id": "95a536d6-e7af-4993-b9fd-a5c9dd23d659",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "If large-load growth continues to accelerate, federal reliability and interconnection policy attention is likely to formalize through conferences or rulemaking steps.",
       "id": "049377bd-18e4-44b5-a291-174269adcf8a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Large-scale financing and infrastructure buildout can precede formal IPO steps, but timing remains uncertain and dependent on market and regulatory conditions.",
       "id": "4a2d6e0b-9242-459b-8109-a433197c86f5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

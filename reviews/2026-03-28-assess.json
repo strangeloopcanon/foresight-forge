@@ -1,0 +1,45 @@
+{
+  "date": "2026-03-28",
+  "assessments": [
+    {
+      "id": "7fc34cbc-5c3d-4b18-ac66-d1737cc0f699",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage highlights escalating Iran/Houthi-related regional conflict and Strait of Hormuz disruption risk, but none of the listed items indicate a public DoD/CENTCOM or UK MoD/Royal Navy announcement of a named or clearly defined naval escort/convoy/enhanced-protection operation for commercial shipping in the Strait of Hormuz/Gulf of Oman."
+    },
+    {
+      "id": "91d84eeb-0e3b-4a93-bcd3-3d1432e8f5dd",
+      "status": "needs-clarification",
+      "status_rationale": "The news list includes \u201cRecord Number of T.S.A. Employees Called Out on Friday\u201d and broader airport chaos during a shutdown, which may involve airport operators messaging travelers about longer waits due to shutdown-related TSA disruption. However, the bullets alone do not confirm (a) a top-20 U.S. airport operator, (b) a public passenger warning, and (c) explicit attribution to a DHS funding lapse/shutdown or related pay/staffing disruption."
+    },
+    {
+      "id": "560a7095-a670-4f90-9f01-aacdcfcf2ab5",
+      "status": "pending",
+      "status_rationale": "No bullet provides an index move indicating the S&P 500 experienced a \u22653.0% close-to-close decline; the listed market stories are thematic rather than reporting a specific one-day 3%+ drop."
+    },
+    {
+      "id": "5d254ef2-ba80-4277-afd8-15a9dd5564bc",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s items reference an European Commission official update on its cyberattack that explicitly addresses data exfiltration and (if applicable) names an affected directorate/service or system."
+    },
+    {
+      "id": "245e6894-5bd0-42f2-8064-86cf4c013881",
+      "status": "pending",
+      "status_rationale": "No item indicates CISA published a public advisory/guidance document whose title or executive summary explicitly mentions generative AI or LLMs in the context of phishing/social engineering threats."
+    },
+    {
+      "id": "95a536d6-e7af-4993-b9fd-a5c9dd23d659",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention any state public utility commission opening a formal docket specifically focused on data center/AI-driven load growth and cost allocation/interconnection impacts."
+    },
+    {
+      "id": "049377bd-18e4-44b5-a291-174269adcf8a",
+      "status": "pending",
+      "status_rationale": "No bullet references FERC holding a technical conference or issuing a formal notice (NOPR/NOI/order initiating inquiry) explicitly focused on reliability/planning challenges from large new loads such as data centers/AI workloads."
+    },
+    {
+      "id": "4a2d6e0b-9242-459b-8109-a433197c86f5",
+      "status": "pending",
+      "status_rationale": "None of today\u2019s items indicate OpenAI publicly confirmed an IPO milestone (public S-1 filing or announcement of confidential draft submission to the SEC)."
+    }
+  ]
+}
