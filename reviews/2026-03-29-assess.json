@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-29",
+  "assessments": [
+    {
+      "id": "96db65f6-859b-45d8-9c1d-eae074b3aa38",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items discuss escalation in the Middle East/Iran conflict and oil price impacts, but none cite a Lloyd\u2019s Market Association Joint War Committee public listed-areas update/circular adding or materially expanding a war-risk listed area for the Strait of Hormuz and/or Gulf of Oman."
+    },
+    {
+      "id": "889c1621-99cf-4af9-9dc6-153bb64ea64c",
+      "status": "pending",
+      "status_rationale": "The news notes oil price surges and war escalation, but provides no broker/index assessment (Clarksons/Baltic Exchange/Platts) reporting Middle East\u2013linked VLCC spot earnings at or above $150,000/day on a specific day."
+    },
+    {
+      "id": "fbf7dfb2-2b2a-4582-9cba-440cf419da7a",
+      "status": "pending",
+      "status_rationale": "No cited marine insurance broker client note (Marsh/Howden/Aon/Gallagher/Willis) is included stating war-risk additional premium for a single Strait of Hormuz transit reached \u22650.50% of hull value."
+    },
+    {
+      "id": "3bea0135-04c0-48eb-9ecc-5b255f24a9cb",
+      "status": "pending",
+      "status_rationale": "There is no evidence in today\u2019s bullets about a Federal Reserve decision changing the federal funds target range relative to 2026-03-29 levels; the prediction\u2019s deadline is later in 2026."
+    },
+    {
+      "id": "bd8ff5b5-9873-4060-a32e-f4985a109d06",
+      "status": "pending",
+      "status_rationale": "Although gas prices and travel behavior are discussed, nothing indicates a major U.S. passenger airline has publicly implemented a temporary passenger-ticket fuel/energy surcharge via press release, investor update, or fare-rule filing."
+    },
+    {
+      "id": "ee04990c-84c2-4509-98d3-af2aa0af069e",
+      "status": "pending",
+      "status_rationale": "No reporting here mentions the Bank of Russia making a single scheduled 100 bps (or larger) key-rate hike."
+    },
+    {
+      "id": "e991b841-6f41-42e6-90d8-92f6c3f84c19",
+      "status": "pending",
+      "status_rationale": "One bullet references South Korean markets, but none mention South Korea publishing an official implementation measure (decree/guideline/standard) for a public-parking-lot solar mandate specifying timing and covered categories."
+    },
+    {
+      "id": "208297d0-4da9-44d3-a27f-19582f81be08",
+      "status": "pending",
+      "status_rationale": "A CNBC item mentions Meta court losses and AI research/safety issues, but there is no announcement of production deployment of an Arm-based custom general-purpose data-center CPU running in Meta data centers."
+    },
+    {
+      "id": "222b0a63-0960-486f-88a3-84fcdeb1c79e",
+      "status": "pending",
+      "status_rationale": "Opinion/analysis about chatbots and therapy appears, but there is no European Commission announcement opening a formal DSA proceeding (or equivalent) against an AI chatbot/companion service citing risks to minors and/or mental-health harms."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "date": "2026-03-30",
+  "predictions": [
+    {
+      "text": "By 2026-04-30, the U.S. Maritime Administration (MARAD) will issue at least one new public Maritime Advisory or Alert specifically for the Strait of Hormuz/Gulf of Oman that recommends avoiding transit OR explicitly states U.S.-flagged/commercial vessels should consider rerouting due to elevated threat.",
+      "category": "geopolitics",
+      "horizon_days": 31,
+      "deadline": "2026-04-30",
+      "confidence_pct": 44,
+      "verification_criteria": "A MARAD-posted Maritime Advisory/Alert (on marad.dot.gov) dated between 2026-03-30 and 2026-04-30 that explicitly mentions Strait of Hormuz and/or Gulf of Oman and includes an avoidance/rerouting recommendation (or equivalent directive language).",
+      "evidence": [
+        "Escalation risk and expanded regional attacks discussed in recent reporting (CNBC, 2026-03-30).",
+        "War entering week five with broad market repricing indicates sustained risk environment (CNBC, 2026-03-30)."
+      ],
+      "monitoring_signals": [
+        "MARAD Maritime Advisories/Alerts RSS/updates",
+        "UKMTO/MSC-HOA advisories mentioning Hormuz/Gulf of Oman",
+        "CENTCOM/DoD force-protection posture changes and public statements",
+        "Reports of drone/missile incidents near Gulf shipping lanes"
+      ],
+      "rationale": "If incidents continue or broaden, MARAD often escalates guidance quickly to reduce U.S.-linked shipping risk exposure.",
+      "id": "2b58d151-a158-4e5d-88e7-bf3a97114862",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-05-31, OPEC+ will publicly announce a near-term increase in collective crude oil production targets of at least 1.0 million barrels per day versus the prior month\u2019s stated target baseline (as stated in the announcement/communique).",
+      "category": "energy",
+      "horizon_days": 62,
+      "deadline": "2026-05-31",
+      "confidence_pct": 33,
+      "verification_criteria": "Official OPEC/OPEC+ communique or member-ministry statement (or Reuters report quoting it) that specifies an increase in group production targets/quotas totaling \u22651.0 mb/d relative to the immediately preceding stated target baseline, effective within 60 days.",
+      "evidence": [
+        "Oil shock and uncertainty-driven risk premium highlighted in coverage (NYT 2026-03-29; CNBC 2026-03-29)."
+      ],
+      "monitoring_signals": [
+        "OPEC meeting calendar / extraordinary meeting announcements",
+        "Saudi/UAE energy ministry statements",
+        "Backwardation/contango shifts in Brent curve indicating supply expectations",
+        "IEA/OPEC monthly oil market reports"
+      ],
+      "rationale": "A sustained spike and demand-destruction fears can trigger a stabilizing supply response, but politics and spare-capacity uncertainty lower odds.",
+      "id": "43a19875-d864-4a23-9098-05e33ddcbafd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-06-30, the U.S. Department of Energy will announce an emergency petroleum action totaling at least 20 million barrels (SPR release, exchange, or sale), explicitly citing gasoline prices, supply disruption risk, or Middle East conflict impacts.",
+      "category": "energy",
+      "horizon_days": 92,
+      "deadline": "2026-06-30",
+      "confidence_pct": 39,
+      "verification_criteria": "DOE/SPR official press release or Federal Register notice dated by 2026-06-30 stating a release/exchange/sale amount that sums to \u226520 million barrels and links the action to price/supply disruption or Middle East-related risk.",
+      "evidence": [
+        "Higher pump prices near $4 affecting consumer behavior (NYT, 2026-03-29).",
+        "Conflict-driven oil repricing and policy uncertainty (NYT/CNBC, 2026-03-29)."
+      ],
+      "monitoring_signals": [
+        "DOE press releases and SPR notices",
+        "White House energy/gasoline briefings",
+        "EIA weekly product inventories and refinery outages",
+        "National average gasoline price trend acceleration"
+      ],
+      "rationale": "If gasoline remains politically salient and supply-route risk persists, SPR tools are a common near-term stabilizer.",
+      "id": "354f76e2-1552-4023-ad31-7cb0e8cee6fc",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "On or before 2026-06-30, the CBOE Volatility Index (VIX) will close at or above 35.0 on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 92,
+      "deadline": "2026-06-30",
+      "confidence_pct": 52,
+      "verification_criteria": "CBOE-published VIX official close (end-of-day) \u2265 35.0 on any trading day through 2026-06-30.",
+      "evidence": [
+        "Broad risk-off described across equities and global markets amid war escalation (NYT 2026-03-29; CNBC 2026-03-30)."
+      ],
+      "monitoring_signals": [
+        "VIX term structure inversion (front > back)",
+        "Large intraday S&P 500 moves and gap opens",
+        "Credit spread widening and oil price volatility",
+        "Geopolitical incident frequency (shipping/energy infrastructure)"
+      ],
+      "rationale": "Sustained geopolitical shocks frequently produce at least one volatility spike; threshold is high but reachable in escalation scenarios.",
+      "id": "3fafe878-e381-4ebf-8349-58d9f9d71740",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "On or before 2026-06-30, the 10-year Treasury breakeven inflation rate (FRED series T10YIE) will close at or above 2.75% on at least one business day.",
+      "category": "rates",
+      "horizon_days": 92,
+      "deadline": "2026-06-30",
+      "confidence_pct": 41,
+      "verification_criteria": "FRED T10YIE daily value (close) \u2265 2.75 for any business day through 2026-06-30.",
+      "evidence": [
+        "Energy shock and cost-of-living pressures noted alongside inflation repricing (NYT 2026-03-29)."
+      ],
+      "monitoring_signals": [
+        "Brent/WTI sustained levels and gasoline pass-through",
+        "Michigan/Conference Board inflation expectation gauges",
+        "TIPS auction demand and breakeven curve steepening",
+        "Fed speakers emphasizing inflation risks from energy"
+      ],
+      "rationale": "A persistent energy-driven inflation narrative tends to lift longer-run breakevens, though growth fears can counteract.",
+      "id": "2d3c7085-2f77-4ae5-a1cb-6d28d89c75a7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, the U.S. Treasury (OFAC) will designate at least 15 total Iran-linked targets (entities, individuals, vessels, or aircraft) in sanctions actions explicitly tied to Iranian petroleum/oil exports or shipping networks.",
+      "category": "geopolitics",
+      "horizon_days": 92,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "verification_criteria": "OFAC SDN/Non-SDN list updates and/or Treasury press releases through 2026-06-30 that (in aggregate) add \u226515 Iran-linked targets, where the press release or designation notes cite petroleum/oil exports, shipping, or tanker facilitation.",
+      "evidence": [
+        "Reporting highlights U.S. consideration of controlling/seizing Iranian oil and expanded conflict options (CNBC, 2026-03-30)."
+      ],
+      "monitoring_signals": [
+        "OFAC press releases mentioning Iran/oil/shipping",
+        "Treasury statements on enforcement against 'shadow fleet'",
+        "Insurance/shipping compliance bulletins referencing new SDN risks",
+        "Congressional pressure for tighter Iran oil enforcement"
+      ],
+      "rationale": "Escalation and enforcement optics make stepped-up sanctions a likely instrument; the numeric threshold is moderate for a multi-action period.",
+      "id": "dcbb2659-e2ae-4668-ad7e-1fe0b24153d3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-06-30, Cuba\u2019s government (or the state utility UNE) will publicly publish a nationwide electricity rationing schedule that includes Havana and specifies planned daily outages for at least 7 consecutive days.",
+      "category": "macro",
+      "horizon_days": 92,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "verification_criteria": "Official Cuban government/UNE statement or posted schedule (or Reuters/AP report quoting it) that includes: (a) Havana included, (b) planned outage blocks by time/day, and (c) schedule covering \u22657 consecutive days.",
+      "evidence": [
+        "Cuba fuel dependency and acute energy crisis described in reporting (NYT, 2026-03-29; 2026-03-28)."
+      ],
+      "monitoring_signals": [
+        "UNE and Granma/Cubadebate announcements",
+        "Reports of fuel ship arrivals and generation unit outages",
+        "Frequency of emergency grid notices and school/work closures",
+        "Satellite/night-lights anomaly reporting and blackout trackers"
+      ],
+      "rationale": "Fuel scarcity and fragile generation capacity often force formal rationing; specifying Havana and a 7-day horizon makes it verifiable.",
+      "id": "f18c6364-c8e5-41cc-ac7b-a4b73c62affc",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, the U.S. Department of Defense will award (announce) at least one single counter-UAS (counter-drone) procurement contract/OTA with a total ceiling value of $1.0 billion or more, explicitly for deployed force protection or base defense.",
+      "category": "geopolitics",
+      "horizon_days": 184,
+      "deadline": "2026-09-30",
+      "confidence_pct": 43,
+      "verification_criteria": "A DoD contract announcement (e.g., defense.gov, SAM.gov synopsis, or service contract release) for counter-UAS/counter-drone systems with stated value/ceiling \u2265$1.0B and language indicating deployed force protection/base defense (e.g., CENTCOM AOR, expeditionary bases, or theater air defense).",
+      "evidence": [
+        "Coverage notes readiness gaps and scaling issues for drone/counter-drone systems amid conflict (CNBC, 2026-03-28).",
+        "Expanded regional conflict risk increases force-protection urgency (NYT, 2026-03-29)."
+      ],
+      "monitoring_signals": [
+        "DoD contract awards mentioning C-UAS, IFPC, directed energy, EW systems",
+        "Congressional reprogramming or supplemental funding lines for C-UAS",
+        "CENTCOM incident reports involving drones/loitering munitions",
+        "Industry earnings calls citing large C-UAS awards"
+      ],
+      "rationale": "Operational demand plus prior underinvestment makes large umbrella awards plausible, though acquisition timelines add uncertainty.",
+      "id": "b0f4c81d-df60-415a-8538-6103424e66b9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, at least one top-20 global pharmaceutical company will publicly announce an AI-driven drug-discovery collaboration with total potential deal value (upfront + milestones) of at least $1.0 billion.",
+      "category": "markets",
+      "horizon_days": 276,
+      "deadline": "2026-12-31",
+      "confidence_pct": 54,
+      "verification_criteria": "Press release or SEC filing from a top-20 pharma company (by market cap at time of announcement) stating an AI drug-discovery partnership and explicitly quoting total potential value \u2265$1.0B (or giving components that sum to \u2265$1.0B).",
+      "evidence": [
+        "Eli Lilly\u2013Insilico partnership signals rising spend on AI pipelines (CNBC, 2026-03-29)."
+      ],
+      "monitoring_signals": [
+        "Pharma partnering press releases (platform deals, target discovery, generative chemistry)",
+        "SEC 8-K filings for material collaborations",
+        "Biotech/pharma conference announcements (JPM, ASCO, DIA)",
+        "AI-drug discovery firms\u2019 deal pipelines and milestone structures"
+      ],
+      "rationale": "One large deal already indicates willingness to pay; replication by another major pharma within a year is more likely than not.",
+      "id": "d4eecbaa-dae7-4918-bafe-f6d7b7aa44d2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, at least one U.S. state will enact (bill signed into law) a statute requiring a judicial warrant (or court order) for law-enforcement use of facial recognition searches in criminal investigations, with the requirement applying statewide.",
+      "category": "tech",
+      "horizon_days": 276,
+      "deadline": "2026-12-31",
+      "confidence_pct": 28,
+      "verification_criteria": "A state-level enacted law (signed and chaptered) stating that law enforcement must obtain a warrant/court order before conducting a facial recognition search (not merely policy guidance), applicable statewide.",
+      "evidence": [
+        "Wrongful arrest linked to AI facial recognition increases governance pressure (CNN, 2026-03-29)."
+      ],
+      "monitoring_signals": [
+        "State legislative trackers for biometric/privacy and policing bills",
+        "ACLU and civil-rights coalition campaigns and endorsements",
+        "High-profile misidentification cases and settlement announcements",
+        "Attorney general opinions or statewide model policies that precede legislation"
+      ],
+      "rationale": "Publicized harms can catalyze legislation, but statewide warrant mandates face significant law-enforcement resistance and uneven state politics.",
+      "id": "40d8aa42-7cec-4aa0-a495-515c3af83f4a",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    }
+  ]
+}

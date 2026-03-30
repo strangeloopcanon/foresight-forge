@@ -20,7 +20,7 @@
       ],
       "rationale": "Escalation risk around Hormuz often triggers insurance-market geographic reclassification; a formal JWC update is a common mechanism.",
       "id": "96db65f6-859b-45d8-9c1d-eae074b3aa38",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Heightened war-risk and rerouting typically tightens tanker supply and can spike VLCC earnings quickly.",
       "id": "889c1621-99cf-4af9-9dc6-153bb64ea64c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "If escalation persists, war-risk AP often reprices sharply; brokers frequently quantify the move in published market notes.",
       "id": "fbf7dfb2-2b2a-4582-9cba-440cf419da7a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "Market-implied hike odds rise when energy shocks threaten inflation expectations; follow-through is plausible within two to three meetings.",
       "id": "3bea0135-04c0-48eb-9ecc-5b255f24a9cb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "rationale": "If fuel spikes persist, airlines sometimes shift from hedging/fees to explicit passenger surcharges, especially for shorter-haul markets.",
       "id": "bd8ff5b5-9873-4060-a32e-f4985a109d06",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "rationale": "Fiscal extraction and sanctions-era constraints can worsen inflation dynamics, increasing the likelihood of a large defensive rate move.",
       "id": "ee04990c-84c2-4509-98d3-af2aa0af069e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -148,7 +148,7 @@
       ],
       "rationale": "A mandate typically requires implementing rules within months to define scope, enforcement, and financing/procurement mechanics.",
       "id": "e991b841-6f41-42e6-90d8-92f6c3f84c19",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "rationale": "The partnership signals intent to verticalize silicon; a named, deployed CPU is a natural next milestone for cost/power optimization.",
       "id": "208297d0-4da9-44d3-a27f-19582f81be08",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -190,7 +190,7 @@
       ],
       "rationale": "Growing evidence of harmful advice dynamics increases regulatory pressure; the EU has established tools to open formal platform-risk proceedings.",
       "id": "222b0a63-0960-486f-88a3-84fcdeb1c79e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     }
   ]

@@ -2308,3 +2308,12 @@ The remaining forecasts (S&P 500 ≥3% down day; EU Commission cyber exfiltratio
 
 ---
 
+
+## 2026-03-29
+
+Today’s news is dominated by escalation signals around the Iran conflict and knock-on effects in energy markets (oil spiking, gasoline near $4, risk-off in markets) plus U.S. security moves in the region. This environment is directionally supportive for the maritime-risk cluster of forecasts (JWC listed-area changes, war-risk premiums, and tanker earnings), but none of the bullets provide the specific documentary evidence required to score any of them as correct yet.
+
+The remaining items (Fed hike, Bank of Russia large hike, U.S. airline fuel surcharge, South Korea solar-mandate implementation, Meta custom CPU deployment, and an EU DSA case against a chatbot) are not addressed by the cited headlines. Next checks to resolve these should focus on primary/authoritative artifacts: JWC circulars and listed-area notices; daily broker/index rate assessments for VLCC earnings; broker client bulletins quoting additional premiums; central bank decision statements; airline fare-rule filings/press releases; Korean ministry decrees/guidelines; Meta infra announcements; and European Commission DSA investigation press releases.
+
+---
+
