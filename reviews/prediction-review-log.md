@@ -2317,3 +2317,12 @@ The remaining items (Fed hike, Bank of Russia large hike, U.S. airline fuel surc
 
 ---
 
+
+## 2026-03-30
+
+Today’s news flow is dominated by escalation dynamics around Iran and the Gulf: U.S. strikes and leadership turmoil in Iran, reported tanker targeting, and explicit references to Strait of Hormuz closure risk. This environment is directionally supportive of forecasts tied to maritime security warnings, Iran-shipping-related sanctions, oil-market volatility, and potential emergency energy-policy actions—but none of the listed bullets provide the specific, official trigger events required to mark those predictions as resolved.
+
+Market and macro items point to heightened risk sentiment (oil-price moves, equity stress, and policy commentary from the Fed about oil-shock inflation), which plausibly increases the odds of near-term VIX spikes and inflation-compensation moves. Separately, domestic governance and tech-policy pieces (state AI regulation activity; facial recognition harms) are thematically relevant to the facial-recognition warrant-law forecast, but they stop short of confirming an enacted statewide statute. Overall, all items remain pending because the provided evidence does not clearly satisfy any prediction’s explicit verification criteria.
+
+---
+

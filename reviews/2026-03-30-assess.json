@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-30",
+  "assessments": [
+    {
+      "id": "2b58d151-a158-4e5d-88e7-bf3a97114862",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items reference Strait of Hormuz closure risk and tanker targeting, but none of the provided bullets indicate MARAD issued a new public Maritime Advisory/Alert that specifically recommends avoiding transit or rerouting for U.S.-flagged/commercial vessels."
+    },
+    {
+      "id": "43a19875-d864-4a23-9098-05e33ddcbafd",
+      "status": "pending",
+      "status_rationale": "No bullet indicates an OPEC+ communique/announcement of a near-term collective production-target increase of \u22651.0 million bpd versus the prior month\u2019s baseline."
+    },
+    {
+      "id": "354f76e2-1552-4023-ad31-7cb0e8cee6fc",
+      "status": "pending",
+      "status_rationale": "No bullet reports a DOE-announced emergency petroleum action totaling \u226520 million barrels (SPR release/exchange/sale) citing gasoline prices, supply disruption risk, or Middle East conflict impacts."
+    },
+    {
+      "id": "3fafe878-e381-4ebf-8349-58d9f9d71740",
+      "status": "pending",
+      "status_rationale": "The news list discusses market stress generally, but provides no specific evidence that the VIX closed at or above 35.0 on any trading day."
+    },
+    {
+      "id": "2d3c7085-2f77-4ae5-a1cb-6d28d89c75a7",
+      "status": "pending",
+      "status_rationale": "None of the bullets provide a confirmed close for the 10-year Treasury breakeven inflation rate (T10YIE), so the \u22652.75% threshold cannot be verified."
+    },
+    {
+      "id": "dcbb2659-e2ae-4668-ad7e-1fe0b24153d3",
+      "status": "pending",
+      "status_rationale": "No bullet indicates new OFAC designations totaling \u226515 Iran-linked targets explicitly tied to Iranian petroleum/oil exports or shipping networks."
+    },
+    {
+      "id": "f18c6364-c8e5-41cc-ac7b-a4b73c62affc",
+      "status": "pending",
+      "status_rationale": "A story references U.S. policy posture toward oil to Cuba, but there is no evidence here that Cuba/UNE published a nationwide rationing schedule including Havana with planned daily outages for \u22657 consecutive days."
+    },
+    {
+      "id": "b0f4c81d-df60-415a-8538-6103424e66b9",
+      "status": "pending",
+      "status_rationale": "No bullet mentions a DoD-awarded counter-UAS procurement contract/OTA with a ceiling value of $1.0B+ explicitly for deployed force protection or base defense."
+    },
+    {
+      "id": "d4eecbaa-dae7-4918-bafe-f6d7b7aa44d2",
+      "status": "pending",
+      "status_rationale": "No bullet indicates a top-20 global pharma company announced an AI drug-discovery collaboration with total potential value \u2265$1.0B."
+    },
+    {
+      "id": "40d8aa42-7cec-4aa0-a495-515c3af83f4a",
+      "status": "pending",
+      "status_rationale": "The bullets discuss state AI regulation and a facial-recognition-linked wrongful jailing case, but do not show that any U.S. state enacted a statewide warrant/court-order requirement for law-enforcement facial recognition searches."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2026-03-31",
+  "predictions": [
+    {
+      "text": "By 2026-05-31, the U.S. and Iran will both publicly confirm a bilateral ceasefire or pause in offensive military operations (e.g., White House/DoD statement AND Iranian government/IRGC-aligned official statement) with an effective date/time.",
+      "category": "geopolitics",
+      "horizon_days": 61,
+      "deadline": "2026-05-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if (1) a U.S. official statement (White House, DoD, State) confirms a ceasefire/pause with Iran AND (2) an Iranian official statement (government spokesperson, MFA, President/leader office, or IRGC official channel) confirms the same ceasefire/pause, both on/ before the deadline. Otherwise NO.",
+      "evidence": [
+        "Markets moved on reports Trump may end the war, implying active negotiations/de-escalation pathways (MarketWatch, 2026-03-31): https://www.marketwatch.com/story/stock-futures-jump-oil-prices-retreat-on-report-trump-willing-to-end-war-7ad7ae49",
+        "Reporting describes Iranian leadership coordination challenges, raising both escalation and deal-making volatility (NYT, 2026-03-30): https://www.nytimes.com/2026/03/30/us/politics/iran-leaders-trump-war.html"
+      ],
+      "monitoring_signals": [
+        "White House/DoD/State press briefings mentioning ceasefire terms, intermediaries (Oman/Qatar/Switzerland), or 'pause' language",
+        "Iran MFA and state media (IRNA/PressTV) announcements using ceasefire/truce terminology",
+        "UN/IAEA emergency diplomacy statements referencing cessation of hostilities"
+      ],
+      "rationale": "Price action and reporting indicate credible de-escalation signaling, but fractured Iranian decision-making and ongoing strikes make a mutually confirmed ceasefire uncertain within two months.",
+      "id": "c8527f24-6b31-49d2-8b08-52a33f4ea1e5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "On or before 2026-06-30, AAA will report the U.S. national average retail price for regular gasoline at or above $4.25 per gallon in at least one daily reading.",
+      "category": "energy",
+      "horizon_days": 91,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "verification_criteria": "YES if AAA Gas Prices (national average, regular) shows >= $4.25/gal for any date on/before the deadline. Otherwise NO.",
+      "evidence": [
+        "Threats of Strait of Hormuz disruption and tanker attacks lifted oil prices, with warnings of higher U.S. consumer prices via shipping/energy (CNBC, 2026-03-31): https://www.cnbc.com/2026/03/31/oil-price-today-wti-brent-trump-energy-sites-water-war-escalation-deal.html"
+      ],
+      "monitoring_signals": [
+        "ICE Brent/NYMEX RBOB and crack spreads",
+        "EIA weekly gasoline inventories and refinery outages",
+        "Reports of tanker attacks, Hormuz transit disruptions, or war-risk premia increases"
+      ],
+      "rationale": "Retail gasoline is highly sensitive to crude and refining constraints; current conflict risk supports upside, but demand elasticity and potential policy responses cap probability.",
+      "id": "18c8ed17-3438-4964-aff6-ea539bd07e18",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-04-30, the IMF will reduce its 2026 Euro Area real GDP growth forecast by at least 0.3 percentage points versus its prior published forecast (January 2026 WEO Update or the most recent pre-April baseline), as shown in the IMF WEO tables.",
+      "category": "macro",
+      "horizon_days": 30,
+      "deadline": "2026-04-30",
+      "confidence_pct": 60,
+      "verification_criteria": "YES if the IMF April 2026 World Economic Outlook (or WEO Update released by the deadline) shows Euro Area 2026 real GDP growth forecast at least 0.3pp lower than the IMF\u2019s immediately preceding published forecast for the same year. Otherwise NO.",
+      "evidence": [
+        "European economic and consumer confidence weakened sharply amid Iran-war uncertainty, increasing recession risks (CNBC, 2026-03-30): https://www.cnbc.com/2026/03/30/european-economic-sentiment-consumer-confidence-march-iran-war-trump.html"
+      ],
+      "monitoring_signals": [
+        "Euro Area PMIs and consumer confidence releases ahead of the IMF WEO",
+        "Natural gas and oil price persistence into mid-April",
+        "IMF staff remarks/briefings signaling downside risks for Europe"
+      ],
+      "rationale": "A sharp confidence hit plus energy-import exposure often translates into IMF forecast markdowns, especially when geopolitical uncertainty is the cited driver.",
+      "id": "991a25ac-a86a-411d-8f1e-312549fb42ad",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-09-30, the ECB will cut its Deposit Facility Rate by at least 25 basis points relative to the rate in effect on 2026-03-31.",
+      "category": "rates",
+      "horizon_days": 183,
+      "deadline": "2026-09-30",
+      "confidence_pct": 48,
+      "verification_criteria": "YES if an ECB monetary policy decision reduces the Deposit Facility Rate by >=25 bps versus the 2026-03-31 level, with the change effective on/before the deadline. Otherwise NO.",
+      "evidence": [
+        "Euro-area sentiment deterioration amid war uncertainty increases downside growth risks consistent with easier policy bias (CNBC, 2026-03-30): https://www.cnbc.com/2026/03/30/european-economic-sentiment-consumer-confidence-march-iran-war-trump.html"
+      ],
+      "monitoring_signals": [
+        "ECB meeting statements and staff projections revisions",
+        "Euro Area inflation prints and wage growth indicators",
+        "Financial conditions tightening (credit spreads, bank lending survey)"
+      ],
+      "rationale": "Weakening confidence and elevated recession risk raise the odds of easing, but energy-driven inflation risks and policy caution keep this below 50%.",
+      "id": "950aa801-916e-42e6-b319-2172422c63ba",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "On or before 2026-06-30, the EURO STOXX 50 index will close at least 10.0% below its 2026-03-31 close.",
+      "category": "markets",
+      "horizon_days": 91,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "YES if any official close of the EURO STOXX 50 on/before the deadline is <= 0.90 \u00d7 (EURO STOXX 50 close on 2026-03-31). Otherwise NO.",
+      "evidence": [
+        "European sentiment weakened sharply amid Iran-war uncertainty, raising recession risk (CNBC, 2026-03-30): https://www.cnbc.com/2026/03/30/european-economic-sentiment-consumer-confidence-march-iran-war-trump.html",
+        "Analysts warn U.S. equities may have further downside than past shocks, consistent with broader risk-off potential (MarketWatch, 2026-03-31): https://www.marketwatch.com/story/stock-futures-jump-oil-prices-retreat-on-report-trump-willing-to-end-war-7ad7ae49"
+      ],
+      "monitoring_signals": [
+        "Oil price level/volatility and European gas prices",
+        "European earnings guidance and margin commentary (energy-intensive sectors)",
+        "EUR credit spreads and bank funding stress measures"
+      ],
+      "rationale": "European equities are highly exposed to energy shocks and confidence-led demand weakness; a 10% drawdown is plausible in a volatile geopolitical backdrop.",
+      "id": "a9cded6d-5b18-4a30-941b-65b525dbcab7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-08-31, U.S. antitrust authorities (FTC or DOJ) will issue a formal Second Request (or equivalent compulsory information request) related to Sysco\u2019s announced ~$29B acquisition referenced in recent reporting.",
+      "category": "markets",
+      "horizon_days": 153,
+      "deadline": "2026-08-31",
+      "confidence_pct": 40,
+      "verification_criteria": "YES if Sysco, the target company, or the FTC/DOJ publicly discloses receipt of a Second Request (or substantively equivalent compulsory process) for the transaction on/before the deadline (via 8-K, earnings call, press release, or agency statement). Otherwise NO.",
+      "evidence": [
+        "Sysco\u2019s ~$29B buyout signals major consolidation in food-service distribution (MarketWatch, 2026-03-31): https://www.marketwatch.com/story/sysco-goes-all-in-on-the-cash-and-carry-food-service-business-with-a-29-billion-buyout-5e06c72c"
+      ],
+      "monitoring_signals": [
+        "HSR filing timing disclosures and regulatory risk factors in Sysco SEC filings",
+        "FTC/DOJ public speeches emphasizing food/ag distribution competition concerns",
+        "Deal timeline revisions, outside date extensions, or financing condition changes"
+      ],
+      "rationale": "Large horizontal/adjacent consolidation in distribution often triggers intensive review; however, product-market definition uncertainty and potential remedies keep probability moderate.",
+      "id": "cb9ed9fa-6ce7-4606-be7e-b5126d27476c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. Department of Justice will publish new or updated nationwide guidance/policy addressing law-enforcement use of facial recognition (or face recognition) that includes at least one explicit limitation or required safeguard (e.g., warrant/court order, supervisory approval, auditing, or corroboration requirement).",
+      "category": "tech",
+      "horizon_days": 275,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "verification_criteria": "YES if DOJ publishes (on DOJ.gov or an official DOJ component site) a policy/guidance document applicable to federal law-enforcement that explicitly addresses facial/face recognition usage and includes at least one stated safeguard/limitation requirement. Otherwise NO.",
+      "evidence": [
+        "A wrongful-jail case after an AI match highlights high-stakes error risks and oversight pressure for facial recognition (NYT, 2026-03-30): https://www.nytimes.com/2026/03/30/us/north-dakota-facial-recognition-ai-errors-bank-fraud.html"
+      ],
+      "monitoring_signals": [
+        "DOJ/OJP/NIJ solicitations or workshops on biometric oversight",
+        "Congressional hearings or IG reports on wrongful arrests tied to face recognition",
+        "State-level reforms creating momentum for federal standard-setting"
+      ],
+      "rationale": "Publicized error harms increase political and legal pressure for formal safeguards, but federal policymaking can be slow and fragmented across components.",
+      "id": "e15ffc23-0ce3-443d-bc8b-5ed12e676640",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-10-31, Mistral AI will publicly announce a major implementation milestone for its Paris-area data center project: either (a) start of construction, or (b) a signed grid-connection agreement, and will disclose planned IT load capacity of at least 50 MW (or an equivalent power/capacity figure).",
+      "category": "tech",
+      "horizon_days": 214,
+      "deadline": "2026-10-31",
+      "confidence_pct": 38,
+      "verification_criteria": "YES if Mistral (or its project SPV/partner utility) publicly states start of construction or a signed grid-connection agreement for the Paris-area project AND includes a planned capacity figure >=50 MW IT load (or clearly equivalent). Otherwise NO.",
+      "evidence": [
+        "Mistral raised $830M debt for a Paris-area data center cluster, indicating near-term project execution needs (CNBC, 2026-03-30): https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html"
+      ],
+      "monitoring_signals": [
+        "Mistral press releases, investor updates, or partner announcements (utilities, construction firms)",
+        "French permitting/public inquiry notices and grid-connection queue updates",
+        "Power procurement announcements (PPAs) tied to the site"
+      ],
+      "rationale": "Large debt financing suggests follow-through, but permitting, grid constraints, and community opposition can delay milestones beyond seven months.",
+      "id": "0f093c4c-7e61-4797-8d39-6bd8644f3fff",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, Rebellions (the Samsung-backed AI chip firm referenced in recent reporting) will publicly file an IPO prospectus/registration document with a securities regulator (e.g., Korea DART filing, SEC filing, or equivalent) seeking a public listing.",
+      "category": "markets",
+      "horizon_days": 275,
+      "deadline": "2026-12-31",
+      "confidence_pct": 33,
+      "verification_criteria": "YES if Rebellions (or an underwriter on its behalf) files an IPO registration/prospectus document with a public regulator database (Korea DART/Financial Supervisory Service, SEC EDGAR, or equivalent) on/before the deadline. Otherwise NO.",
+      "evidence": [
+        "Samsung-backed Rebellions raised $400M pre-IPO, implying an IPO pathway within a year is plausible (CNBC, 2026-03-30): https://www.cnbc.com/2026/03/30/mistral-ai-paris-data-center-cluster-debt-financing.html"
+      ],
+      "monitoring_signals": [
+        "Appointment of lead underwriters and press reports on listing venue/timing",
+        "Korea Exchange preliminary filings or FSS/DART pre-review notices",
+        "Auditor changes and governance preparations typical of IPO readiness"
+      ],
+      "rationale": "Pre-IPO fundraising often precedes formal filings, but equity market windows and semiconductor-cycle volatility can postpone registration.",
+      "id": "cdf82164-6946-4986-b75a-95c4df940d2a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, the 'mysterious explosion' observed by JWST referenced in recent reporting will be the subject of a peer-reviewed research article published in either Nature or Science (including their main journals, not subsidiary titles), explicitly naming JWST observations in the abstract.",
+      "category": "other",
+      "horizon_days": 275,
+      "deadline": "2026-12-31",
+      "confidence_pct": 50,
+      "verification_criteria": "YES if Nature or Science publishes a research article on/before the deadline about the referenced transient/explosion and the abstract explicitly mentions JWST (or James Webb Space Telescope). Otherwise NO.",
+      "evidence": [
+        "JWST observed a mysterious explosion that defies current models, a profile often leading to high-impact journal publication (ScienceDaily, 2026-03-30): https://www.sciencedaily.com/releases/2026/03/260330001156.htm"
+      ],
+      "monitoring_signals": [
+        "arXiv postings mentioning JWST + the event name/coordinates",
+        "Conference talks (AAS/ESO) highlighting the transient as a flagship result",
+        "Nature/Science 'In Press' or embargoed media briefings referencing JWST transient"
+      ],
+      "rationale": "High-novelty JWST transients frequently target top journals, but review timelines and competing interpretations make the within-year publication chance roughly even.",
+      "id": "d5d44460-1290-4d1e-a121-940935bdcbc5",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    }
+  ]
+}
