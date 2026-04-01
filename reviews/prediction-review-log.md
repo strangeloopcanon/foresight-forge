@@ -2326,3 +2326,12 @@ Market and macro items point to heightened risk sentiment (oil-price moves, equi
 
 ---
 
+
+## 2026-03-31
+
+Today’s news is dominated by the U.S.-Iran conflict and its immediate market implications (oil, stocks, and gasoline-price anxiety). This cluster increases the salience of two forecasts—(1) a publicly confirmed bilateral U.S.-Iran pause/ceasefire and (2) elevated gasoline prices—but the bullets do not provide the specific confirming evidence required by the resolution criteria (mutual official confirmations with an effective time for the former; an AAA national-average reading ≥$4.25 for the latter).
+
+All other forecasts remain unaddressed by today’s reporting: no IMF forecast-table revision is cited; no ECB rate action is mentioned; no documented Euro STOXX 50 threshold close is provided; and there is no relevant update on Sysco antitrust process, DOJ facial-recognition guidance, Mistral’s data-center milestone, Rebellions’ IPO filing, or a Nature/Science JWST paper. Net: no clear wins/losses can be scored from today’s bullets; the correct status for all items is still pending.
+
+---
+

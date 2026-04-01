@@ -1,0 +1,105 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. labor demand cooled: February hires fell while job openings and separations were little changed, signaling slower churn rather than broad layoffs.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/jolts_03312026.htm"
+    },
+    {
+      "text": "Markets rallied on expectations the U.S.\u2013Iran conflict could de-escalate; risk-on bounce highlights how geopolitical headlines are driving short-term equity pricing.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/31/business/oil-stocks-gas-prices-iran.html"
+    },
+    {
+      "text": "Oil extended gains after a record monthly rally as war-related disruption risks persist; energy prices remain the key inflation and sentiment transmission channel.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/01/oil-prices-today-brent-wti.html"
+    },
+    {
+      "text": "Policy risk: Trump signed an executive order limiting mail-in voting, potentially reshaping 2026 election administration and intensifying federal\u2013state governance conflict.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html"
+    },
+    {
+      "text": "DHS shutdown and attempts to fund the agency via reconciliation/backdoor mechanisms raise operational and constitutional frictions, potentially weakening congressional budget control.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/31/us/politics/republicans-reconciliation-homeland-security-funding.html"
+    },
+    {
+      "text": "OpenAI reported ~$2B monthly revenue and closed a record $122B funding round, underscoring AI capital intensity, IPO expectations, and potential valuation froth.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"
+    },
+    {
+      "text": "Big Tech divergence: Microsoft logged its worst quarter since 2008 on AI concerns, showing investors are reassessing monetization timelines and AI-related capex risk.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html"
+    },
+    {
+      "text": "Oracle reportedly began thousands of job cuts while ramping AI spending, a sign of cost reallocation toward compute and model infrastructure.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html"
+    },
+    {
+      "text": "Nike projected further sales declines, including ~20% expected drop in China; weak outlook signals ongoing consumer softness and China demand risk for global brands.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html"
+    },
+    {
+      "text": "Supply-chain security shock: Axios package compromise on NPM delivered a remote-access trojan; highlights systemic risk in open-source dependencies and software procurement.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+    },
+    {
+      "text": "Social Security financing gap is widening; impending trust-fund pressure forces choices between higher taxes, benefit reductions, or broader fiscal borrowing.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/03/31/social-security-shortfall-who-will-pay.html"
+    },
+    {
+      "text": "Science-methods warning: common lab gloves may have contaminated microplastics samples, implying some prior measurements could be biased upward and need replication.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
+    },
+    {
+      "text": "Geopolitical risk in Lebanon rose after UN peacekeepers were killed by a roadside bomb, potentially affecting regional stability and escalation dynamics.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/03/31/world/middleeast/un-peacekeepers-lebanon-killed-security-council.html"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "date": "2026-04-01",
+  "predictions": [
+    {
+      "text": "By 2026-06-30, a U.S. federal court will issue a preliminary injunction (or temporary restraining order) that blocks enforcement of the President\u2019s executive order limiting mail-in voting in at least one material provision.",
+      "category": "geopolitics",
+      "horizon_days": 90,
+      "deadline": "2026-06-30",
+      "confidence_pct": 57,
+      "log_odds": 0.28,
+      "verification_criteria": "A publicly accessible federal court order (district court or appellate) explicitly grants a TRO or preliminary injunction against the executive order (or implementing federal action) and states that enforcement is enjoined/suspended for at least one substantive requirement related to mail-in voting.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html"
+      ],
+      "monitoring_signals": [
+        "PACER filings naming the EO in complaints by states/NGOs",
+        "DOJ Civil Division filings defending the EO",
+        "Emergency motions for TRO/PI in D.D.C. or circuit courts",
+        "Press releases from state AG coalitions"
+      ],
+      "rationale": "High-salience election administration actions commonly draw rapid litigation and early injunctive relief when plaintiffs show likely irreparable harm before elections.",
+      "id": "b34048fc-011e-4fec-b0a1-4935bab43993",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-04-30, at least 15 U.S. states will have joined (as plaintiffs or intervenors) at least one lawsuit challenging the federal executive order limiting mail-in voting.",
+      "category": "geopolitics",
+      "horizon_days": 29,
+      "deadline": "2026-04-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Court docket(s) show 15+ distinct U.S. states listed as plaintiffs and/or granted intervenor status in a case whose complaint explicitly challenges the mail-in voting executive order (or its implementing federal directives).",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html"
+      ],
+      "monitoring_signals": [
+        "Multi-state AG press conferences/complaints",
+        "Amended complaints adding additional states",
+        "Motions to intervene filed by states",
+        "Major election-law organizations announcing coordinated suits"
+      ],
+      "rationale": "Multi-state coalitions are a common tactic for high-profile federal actions affecting state-run election administration.",
+      "id": "df97c0a2-a9ec-4a49-8050-46a2d23ef81a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-05-31, CISA will publish a public alert/advisory (AA, CSA, or equivalent) that explicitly references the malicious NPM 'axios' package compromise and provides defensive guidance (IOCs, mitigations, or detection steps).",
+      "category": "tech",
+      "horizon_days": 60,
+      "deadline": "2026-05-31",
+      "confidence_pct": 61,
+      "log_odds": 0.45,
+      "verification_criteria": "A CISA web-posted advisory or alert explicitly includes the words 'axios' and 'npm' (or 'Node Package Manager') and describes the compromise as malicious/trojanized, with actionable mitigations or indicators.",
+      "evidence": [
+        "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+      ],
+      "monitoring_signals": [
+        "CISA Known Exploited Vulnerabilities (KEV) entries related to Node supply chain incidents",
+        "Joint CSA publications (CISA/FBI/NSA) on software supply chain",
+        "GitHub Security Advisories referencing axios incident",
+        "Major EDR vendors publishing IOCs tied to axios RAT behavior"
+      ],
+      "rationale": "Large-scale, widely used dependency compromises frequently trigger government advisories due to broad downstream exposure.",
+      "id": "85db1090-8413-46bd-b5fa-fbf05adffb9f",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-12-31, NPM (npmjs.com) or GitHub will announce and implement a new default supply-chain security control for JavaScript packages: either mandatory provenance attestation/signing for new releases OR mandatory 2FA for all maintainers of packages above 1 million weekly downloads.",
+      "category": "tech",
+      "horizon_days": 274,
+      "deadline": "2026-12-31",
+      "confidence_pct": 39,
+      "verification_criteria": "A public announcement and corresponding policy/docs update from NPM or GitHub states a new requirement (provenance/attestation or 2FA) and indicates it is enforced (blocked publishes or account requirements) for the specified scope (new releases or >1M weekly downloads).",
+      "evidence": [
+        "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"
+      ],
+      "monitoring_signals": [
+        "NPM/GitHub blog posts on provenance, Sigstore, or account security",
+        "Changes to npm CLI publish error messages regarding provenance/2FA",
+        "Policy updates in GitHub Actions / trusted publishing docs",
+        "Post-incident reports from NPM on ecosystem security"
+      ],
+      "rationale": "High-profile package compromises often accelerate platform-wide hardening measures, especially for the most-downloaded packages.",
+      "id": "e06f0c79-37fc-4164-9c87-8a1122ad071e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, Oracle will report a restructuring-related charge of at least $1.0 billion in a single quarter (GAAP), explicitly tied to layoffs/reorganization, in a Form 10-Q/10-K or earnings release.",
+      "category": "markets",
+      "horizon_days": 274,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "Oracle quarterly/annual filings or earnings materials disclose restructuring/reorganization charges (or severance/termination costs) of >=$1.0B for a quarter, with narrative linking to workforce reduction or organizational restructuring.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/31/oracle-layoffs-ai-spending.html"
+      ],
+      "monitoring_signals": [
+        "Oracle 10-Q footnotes on restructuring accruals",
+        "Earnings-call comments on workforce actions and cost realignment",
+        "Large WARN notices or aggregated layoff trackers confirming scale",
+        "Analyst notes flagging one-time charges"
+      ],
+      "rationale": "If layoffs are broad and tied to major strategic reallocation toward AI capex, disclosed charges can become large and concentrated in a quarter.",
+      "id": "c58539fc-bbbe-4fc4-82fd-e3a6dd68a7a9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-07-31, Microsoft will announce an increase of at least $10 billion in its full-year capex guidance (or expected capex range midpoint) versus its most recently stated full-year capex guidance as of 2026-03-31, explicitly citing AI/data-center capacity needs.",
+      "category": "markets",
+      "horizon_days": 121,
+      "deadline": "2026-07-31",
+      "confidence_pct": 41,
+      "verification_criteria": "In an earnings release, investor presentation, or call transcript, Microsoft provides an updated full-year capex expectation that is >=$10B higher than the most recent full-year guidance/expectation stated on or before 2026-03-31, and management attributes the change to AI/data-center buildout.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html"
+      ],
+      "monitoring_signals": [
+        "MSFT earnings call capex commentary and updated ranges",
+        "Azure capacity constraint commentary and lead times",
+        "Supplier capex and server/accelerator procurement signals",
+        "Data-center lease and power procurement announcements"
+      ],
+      "rationale": "Investor focus on AI infrastructure and margins raises the odds Microsoft will clarify or expand capex plans within the next two quarters.",
+      "id": "5222dd31-0f85-433b-a445-76936ea78f97",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, the 2026 U.S. Social Security Trustees Report will project the OASI trust fund depletion year as 2033 or earlier (i.e., \u22642033).",
+      "category": "macro",
+      "horizon_days": 90,
+      "deadline": "2026-06-30",
+      "confidence_pct": 64,
+      "log_odds": 0.58,
+      "verification_criteria": "The 2026 Trustees Report (PDF or tables) lists the OASI trust fund 'depletion' (or 'exhaustion') year, and the stated year is 2033 or earlier.",
+      "evidence": [
+        "https://www.cnbc.com/2026/03/31/social-security-shortfall-who-will-pay.html"
+      ],
+      "monitoring_signals": [
+        "SSA/Trustees publication date announcements",
+        "CBO long-term budget outlook updates",
+        "Revisions to wage growth, immigration, or interest-rate assumptions",
+        "Media pre-briefs on trustees projections"
+      ],
+      "rationale": "Recent reporting emphasizes a widening financing gap; modest adverse assumption shifts can keep depletion timing at or earlier than recent baselines.",
+      "id": "dd0d934e-b83d-4ff9-911e-edef7b10bc82",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-08-31, the UN Security Council will adopt a resolution renewing UNIFIL that includes at least one new or strengthened operative paragraph on countering IED/roadside-bomb threats or improving UNIFIL force protection/freedom of movement compared with the prior renewal resolution.",
+      "category": "geopolitics",
+      "horizon_days": 152,
+      "deadline": "2026-08-31",
+      "confidence_pct": 44,
+      "verification_criteria": "A UN Security Council resolution renewing UNIFIL (adopted by 2026-08-31) contains operative language explicitly referencing IEDs/roadside bombs (or 'explosive devices') and/or specifies enhanced force-protection measures or reporting requirements that are not present (or are materially expanded) versus the immediately preceding UNIFIL renewal resolution.",
+      "evidence": [
+        "https://www.nytimes.com/2026/03/31/world/middleeast/un-peacekeepers-lebanon-killed-security-council.html"
+      ],
+      "monitoring_signals": [
+        "UNSC draft resolution negotiations and press statements",
+        "UN Secretary-General reports on UNIFIL incidents",
+        "Lebanon/Israel diplomatic notes about UNIFIL mandate",
+        "Subsequent attacks or increased incident tempo"
+      ],
+      "rationale": "Fatal attacks on peacekeepers often catalyze mandate language changes emphasizing protection and mobility, especially at scheduled renewal points.",
+      "id": "de638465-3da0-4cfa-b487-5261210ce5d5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, ASTM or ISO will publish a publicly accessible guidance document (standard, technical report, or committee draft) on microplastics sampling/analysis that explicitly warns that common lab gloves can contaminate samples and recommends mitigation (e.g., glove material choice, rinsing, or procedural blanks).",
+      "category": "other",
+      "horizon_days": 274,
+      "deadline": "2026-12-31",
+      "confidence_pct": 36,
+      "verification_criteria": "An ASTM or ISO document (published or publicly posted draft) on microplastics includes explicit language linking gloves to microplastic contamination risk and provides at least one recommended procedural mitigation; the document must be identifiable by standard number or ISO/ASTM committee posting.",
+      "evidence": [
+        "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386"
+      ],
+      "monitoring_signals": [
+        "ASTM/ISO committee agendas and draft postings on microplastics methods",
+        "Method-validation studies replicating glove contamination findings",
+        "Funding calls or interlaboratory comparisons (ILCs) referencing glove artifacts",
+        "Journal methods editorials recommending procedural blanks/material controls"
+      ],
+      "rationale": "If glove-derived contamination is a meaningful systematic error, standards bodies typically incorporate mitigation guidance as methods mature and replication accumulates.",
+      "id": "7e56d7d6-8dbc-46e3-b1ac-01250f190dc6",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

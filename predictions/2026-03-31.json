@@ -19,7 +19,7 @@
       ],
       "rationale": "Price action and reporting indicate credible de-escalation signaling, but fractured Iranian decision-making and ongoing strikes make a mutually confirmed ceasefire uncertain within two months.",
       "id": "c8527f24-6b31-49d2-8b08-52a33f4ea1e5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Retail gasoline is highly sensitive to crude and refining constraints; current conflict risk supports upside, but demand elasticity and potential policy responses cap probability.",
       "id": "18c8ed17-3438-4964-aff6-ea539bd07e18",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "A sharp confidence hit plus energy-import exposure often translates into IMF forecast markdowns, especially when geopolitical uncertainty is the cited driver.",
       "id": "991a25ac-a86a-411d-8f1e-312549fb42ad",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "Weakening confidence and elevated recession risk raise the odds of easing, but energy-driven inflation risks and policy caution keep this below 50%.",
       "id": "950aa801-916e-42e6-b319-2172422c63ba",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -100,7 +100,7 @@
       ],
       "rationale": "European equities are highly exposed to energy shocks and confidence-led demand weakness; a 10% drawdown is plausible in a volatile geopolitical backdrop.",
       "id": "a9cded6d-5b18-4a30-941b-65b525dbcab7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "rationale": "Large horizontal/adjacent consolidation in distribution often triggers intensive review; however, product-market definition uncertainty and potential remedies keep probability moderate.",
       "id": "cb9ed9fa-6ce7-4606-be7e-b5126d27476c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "Publicized error harms increase political and legal pressure for formal safeguards, but federal policymaking can be slow and fragmented across components.",
       "id": "e15ffc23-0ce3-443d-bc8b-5ed12e676640",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "Large debt financing suggests follow-through, but permitting, grid constraints, and community opposition can delay milestones beyond seven months.",
       "id": "0f093c4c-7e61-4797-8d39-6bd8644f3fff",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -180,7 +180,7 @@
       ],
       "rationale": "Pre-IPO fundraising often precedes formal filings, but equity market windows and semiconductor-cycle volatility can postpone registration.",
       "id": "cdf82164-6946-4986-b75a-95c4df940d2a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -200,7 +200,7 @@
       ],
       "rationale": "High-novelty JWST transients frequently target top journals, but review timelines and competing interpretations make the within-year publication chance roughly even.",
       "id": "d5d44460-1290-4d1e-a121-940935bdcbc5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
