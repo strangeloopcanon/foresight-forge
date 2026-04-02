@@ -2335,3 +2335,12 @@ All other forecasts remain unaddressed by today’s reporting: no IMF forecast-t
 
 ---
 
+
+## 2026-04-01
+
+Today’s news does not directly resolve any of the nine forecasts. The dominant themes are geopolitics (Iran war objectives and market/oil implications), U.S. domestic politics (DHS shutdown deal), and Supreme Court coverage (birthright citizenship arguments). None of these items contain the specific, verifiable triggers needed to mark the voting-EO litigation, CISA advisory, supply-chain control changes, Trustees Report projection, UNIFIL language changes, or microplastics standards publication as correct/incorrect.
+
+The only bullet that meaningfully interacts with a forecast is the report of large Oracle layoffs. That development is directionally relevant to the Oracle restructuring-charge prediction, but the forecast requires a documented GAAP restructuring-related charge ≥$1.0B in a single quarter, explicitly tied to layoffs/reorganization, in an SEC filing or earnings release—evidence not present in the news bullets. Overall, the day’s updates shift context (and may affect priors for certain corporate/government actions), but they do not provide clear adjudication points.
+
+---
+

@@ -1,0 +1,194 @@
+{
+  "date": "2026-04-02",
+  "predictions": [
+    {
+      "text": "By 2026-12-31, SpaceX will publicly file an IPO registration statement (S-1 or F-1) on SEC EDGAR for a U.S. listing.",
+      "category": "markets",
+      "horizon_days": 273,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Resolve YES if an S-1/F-1 registration statement for Space Exploration Technologies Corp. (SpaceX) is publicly available on SEC EDGAR on or before the deadline; otherwise NO.",
+      "evidence": [
+        "Recent reporting indicates SpaceX confidentially filed for an IPO, setting up a potential record offering: https://www.cnbc.com/2026/04/01/spacex-confidentially-files-for-ipo-setting-stage-for-record-offering.html"
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR new filings search for SpaceX / Space Exploration Technologies",
+        "Exchange (NYSE/Nasdaq) listing announcements and underwriting bank press releases",
+        "Secondary-market pricing (Forge/EquityZen) and SpaceX tender offer notices"
+      ],
+      "rationale": "Confidential filings often precede a public S-1 within months, but timing is sensitive to market volatility, geopolitical risk, and readiness of audited disclosures.",
+      "id": "81dbd56c-fdfc-4c47-a5b8-734c93357feb",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-06-30, the IAEA Board of Governors will adopt a resolution that formally censures Iran for non-compliance (or failure to cooperate) with safeguards obligations.",
+      "category": "geopolitics",
+      "horizon_days": 89,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Resolve YES if an IAEA Board of Governors meeting outcome includes an adopted resolution (IAEA press release/official document) that explicitly condemns/censures Iran for non-compliance or lack of cooperation with safeguards; otherwise NO.",
+      "evidence": [
+        "Escalating U.S.-Iran conflict and heightened diplomatic strain increase likelihood of formal multilateral action: https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war.html"
+      ],
+      "monitoring_signals": [
+        "IAEA BoG meeting agendas (March/June cycles) and Director General reports",
+        "EU3/U.S. draft resolution reporting (Reuters/AP) and IAEA press releases",
+        "Iranian Atomic Energy Organization/Foreign Ministry responses"
+      ],
+      "rationale": "In periods of heightened confrontation, the Board more often turns to formal resolutions to increase pressure, though consensus politics and member-state bargaining add uncertainty.",
+      "id": "458d3842-b8e3-4db5-bea9-7494ea773e4a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, NASA will publish an official Artemis program schedule update that sets Artemis III (first crewed lunar landing of the Artemis program) as NET 2028 or later.",
+      "category": "other",
+      "horizon_days": 273,
+      "deadline": "2026-12-31",
+      "confidence_pct": 62,
+      "log_odds": 0.489,
+      "verification_criteria": "Resolve YES if NASA (e.g., NASA.gov press release, official Artemis pages, or a NASA program update) states Artemis III is \u201cNET 2028\u201d or later; otherwise NO.",
+      "evidence": [
+        "Artemis II launched and mission details highlight engineering and schedule sensitivity: https://www.sciencenews.org/article/nasa-artemis-launch-humans-moon"
+      ],
+      "monitoring_signals": [
+        "NASA Artemis timeline page updates and Administrator briefings",
+        "GAO/NASA OIG reports on Artemis/SLS/Orion/HLS readiness",
+        "Starship HLS milestones and contract modification notices"
+      ],
+      "rationale": "Complex integration (HLS readiness, suits, landing systems) historically drives rightward schedule moves; a formal update pushing Artemis III beyond 2027 is more likely than on-time landing.",
+      "id": "3e4831e4-a4fb-417d-817c-fc53e3f96b0a",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-07-31, TrendForce (or an equivalent major memory-market analyst) will report that average PC DRAM contract prices are up at least 20% year-over-year in a monthly or quarterly update.",
+      "category": "tech",
+      "horizon_days": 120,
+      "deadline": "2026-07-31",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "Resolve YES if a TrendForce report (or comparable analyst update explicitly presenting YoY PC DRAM contract pricing) states YoY change is \u2265 +20% at any point on/before the deadline; otherwise NO.",
+      "evidence": [
+        "Recent commentary notes surging memory prices and hardware BOM pressure: https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/"
+      ],
+      "monitoring_signals": [
+        "TrendForce DRAM contract price monthly/quarterly reports",
+        "DRAMeXchange spot vs contract divergence and OEM commentary",
+        "Samsung/SK hynix/Micron earnings and supply guidance"
+      ],
+      "rationale": "Memory cycles can move quickly; a 20% YoY jump is plausible if supply remains tight and AI/HBM capacity crowds out commodity DRAM, but contract pricing is stickier than spot.",
+      "id": "78d37d6b-4b42-450c-bf66-7b4bd02a23e4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-08-31, U.S. state WARN disclosures will show at least 10,000 total planned layoffs at Oracle (sum across all Oracle-related WARN notices dated in 2026).",
+      "category": "macro",
+      "horizon_days": 151,
+      "deadline": "2026-08-31",
+      "confidence_pct": 34,
+      "log_odds": -0.663,
+      "verification_criteria": "Resolve YES if aggregating publicly posted WARN notices across U.S. states for 2026 (by notice date) yields \u226510,000 affected workers where the employer is Oracle/Oracle America/Oracle Cloud or clearly Oracle-branded subsidiaries; otherwise NO.",
+      "evidence": [
+        "Reporting describes large Oracle layoffs and cost-cutting behavior: https://www.marketwatch.com/story/fired-via-email-some-of-the-30-000-workers-cut-by-oracle-woke-up-to-a-morning-message-saying-they-were-laid-off-89a7af94"
+      ],
+      "monitoring_signals": [
+        "California/NY/TX/WA WARN databases for Oracle entries",
+        "Oracle headcount/disclosures in quarterly filings and earnings calls",
+        "Local media reports of site-level reductions"
+      ],
+      "rationale": "WARN captures only some layoffs and thresholds vary by structure, but sustained reductions across multiple sites could plausibly exceed 10k in disclosed planned cuts by late summer.",
+      "id": "8e193a1b-5ea2-4b4c-8a02-7d65b5ad6bcb",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, Google will announce that stable-channel Chrome enables a post-quantum (or hybrid post-quantum) TLS key exchange by default for at least a majority of connections (\u226550%) on supported platforms.",
+      "category": "tech",
+      "horizon_days": 273,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Resolve YES if Google/Chrome (blog post, release notes, or Chromium announcement) states that PQC or hybrid PQC key exchange is enabled by default in stable Chrome and is deployed to \u226550% of eligible TLS connections (or equivalent majority wording) by the deadline; otherwise NO.",
+      "evidence": [
+        "Recent coverage highlights growing concern that fewer qubits may threaten widely used encryption, increasing migration urgency: https://www.sciencenews.org/article/quantum-bits-crack-internet-encryption"
+      ],
+      "monitoring_signals": [
+        "Chrome Security/Chromium blog posts mentioning Kyber/ML-KEM or hybrid TLS",
+        "IETF TLS WG updates and major CDN deployment notes (Cloudflare/Akamai/Fastly)",
+        "Telemetry or rollout percentage statements in Chrome release communications"
+      ],
+      "rationale": "Chrome has incentives to lead PQC migration, but compatibility and ecosystem readiness constrain a majority-by-default rollout timeline.",
+      "id": "13433340-9e1a-495c-8fc0-fd0a7049444f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, at least one major European NATO member (Germany, France, UK, Italy, Poland, Spain, or the Netherlands) will publish an official budget plan increasing annual defense spending by at least \u20ac10 billion (or \u00a38.5 billion for the UK) versus its 2025 enacted level, explicitly citing U.S./NATO commitment uncertainty.",
+      "category": "geopolitics",
+      "horizon_days": 181,
+      "deadline": "2026-09-30",
+      "confidence_pct": 42,
+      "log_odds": -0.323,
+      "verification_criteria": "Resolve YES if an official government budget document/press release or parliamentary budget submission specifies an annual defense outlay increase meeting the threshold and explicitly references U.S. policy uncertainty, NATO reliability, or U.S. withdrawal threats as a motivating factor; otherwise NO.",
+      "evidence": [
+        "Trump publicly floated leaving NATO, increasing alliance uncertainty: https://www.cnbc.com/2026/04/01/trump-says-hes-considering-pulling-us-out-of-paper-tiger-nato.html"
+      ],
+      "monitoring_signals": [
+        "European budget releases and defense white papers",
+        "NATO summit communiqu\u00e9s and national statements on burden-sharing",
+        "Major procurement announcements tied to higher toplines"
+      ],
+      "rationale": "European rearmament is already underway; explicit linkage to U.S./NATO uncertainty is the gating factor, but political incentives make public justification increasingly likely.",
+      "id": "13935b8e-09d4-401a-8a87-e7b90db71439",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-10-31, at least one of CVS Caremark, Express Scripts, or Optum Rx will publish a formulary update indicating coverage (preferred or non-preferred) for Eli Lilly\u2019s newly approved oral GLP-1 obesity pill for the 2027 plan year.",
+      "category": "markets",
+      "horizon_days": 212,
+      "deadline": "2026-10-31",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Resolve YES if a publicly accessible PBM formulary document, press release, or official payer/PBM update states the product is covered for obesity/weight management (not only diabetes) for 2027 plan designs by the deadline; otherwise NO.",
+      "evidence": [
+        "FDA approval of Eli Lilly\u2019s GLP-1 weight-loss pill expands competitive and payer dynamics: https://www.cnbc.com/2026/04/01/eli-lilly-glp-1-pill-foundayo-approved-for-obesity.html"
+      ],
+      "monitoring_signals": [
+        "PBM formulary preview releases (typically mid-year through fall)",
+        "Lilly earnings commentary on access, rebates, and payer wins",
+        "Large insurer medical-policy updates referencing the oral GLP-1"
+      ],
+      "rationale": "PBMs are pressured on obesity-drug spend but competition and oral convenience support at least some coverage inclusion by the next major plan-year cycle.",
+      "id": "2ae2cf63-f86b-4f45-9024-4567f1357dfb",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, the University of Michigan 1-year-ahead inflation expectations (final reading) will be at or above 5.0% in at least one monthly release.",
+      "category": "rates",
+      "horizon_days": 89,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "log_odds": -0.847,
+      "verification_criteria": "Resolve YES if the U. Michigan Surveys of Consumers reports 1-year inflation expectations \u22655.0% in any final monthly release dated on/before the deadline; otherwise NO.",
+      "evidence": [
+        "Oil price spike tied to Iran conflict increases near-term inflation salience: https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html"
+      ],
+      "monitoring_signals": [
+        "Preliminary and final Michigan survey releases",
+        "Retail gasoline moves and headline CPI surprises",
+        "Inflation expectations in NY Fed survey and market breakevens"
+      ],
+      "rationale": "Energy shocks can push survey expectations higher, but anchoring and rapid mean reversion are common; hitting 5% is plausible yet still a tail event over a short window.",
+      "id": "c3bcb548-52a1-4d7f-a1da-90a9e5eec6d6",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

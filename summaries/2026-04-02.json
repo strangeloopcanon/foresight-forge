@@ -1,0 +1,122 @@
+{
+  "bullets": [
+    {
+      "text": "U.S.-Iran war escalation is driving risk-off sentiment; Trump says objectives will be met soon, but intelligence signals Iran skeptical of diplomacy.",
+      "tags": [
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war.html"
+    },
+    {
+      "text": "Oil spikes on Iran conflict risk: Brent jumped ~5% after Trump vowed to hit Iran \u201cextremely hard,\u201d raising inflation and recession tail risks.",
+      "tags": [
+        "energy",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html"
+    },
+    {
+      "text": "Equities wobble globally: U.S. futures sank and Asia markets reversed gains as investors repriced geopolitical risk and energy-driven margin/inflation pressure.",
+      "tags": [
+        "markets",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/02/asia-markets-today-live-trump-address-iran-war.html"
+    },
+    {
+      "text": "Trump floats leaving NATO, increasing alliance uncertainty and potentially shifting European defense burdens and procurement toward higher domestic spending.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/01/trump-says-hes-considering-pulling-us-out-of-paper-tiger-nato.html"
+    },
+    {
+      "text": "Congressional Republicans struck a deal to end the DHS shutdown, reducing near-term travel/security disruption and removing a fiscal-policy overhang.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/01/us/politics/senate-house-homeland-security-shutdown.html"
+    },
+    {
+      "text": "Supreme Court justices appear skeptical of limiting birthright citizenship; a loss could still normalize restrictive immigration messaging and policy experimentation.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/04/01/us/politics/supreme-court-birthright-citizenship-arguments.html"
+    },
+    {
+      "text": "SpaceX reportedly filed confidentially for an IPO, potentially a record listing and major liquidity event that could reset valuations across late-stage private markets.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/04/01/spacex-confidentially-files-for-ipo-setting-stage-for-record-offering.html"
+    },
+    {
+      "text": "Oracle\u2019s large layoffs highlight ongoing cost-cutting even in \u201cAI-driven\u201d tech, signaling uneven labor demand and margin-defense priorities across software incumbents.",
+      "tags": [
+        "tech",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/fired-via-email-some-of-the-30-000-workers-cut-by-oracle-woke-up-to-a-morning-message-saying-they-were-laid-off-89a7af94"
+    },
+    {
+      "text": "Intel shares jumped after buying back an Ireland fab stake, read as balance-sheet confidence and a potential inflection in the company\u2019s turnaround narrative.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/01/intel-stock-ireland-stake-chip-factory.html"
+    },
+    {
+      "text": "ADP reports 62,000 private-sector jobs added in March\u2014better than expected but still subdued\u2014supporting a \u201cslower growth\u201d view rather than reacceleration.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/01/private-sector-hiring-totaled-62000-in-march-better-than-expected-adp-says.html"
+    },
+    {
+      "text": "Memory prices are surging, squeezing hobbyist SBCs and broader hardware BOMs; sustained DRAM inflation could ripple into consumer electronics pricing and margins.",
+      "tags": [
+        "tech",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/"
+    },
+    {
+      "text": "FDA approved Eli Lilly\u2019s GLP-1 weight-loss pill, likely expanding access beyond injectables and intensifying competition, payer negotiations, and capacity/price dynamics.",
+      "tags": [
+        "markets",
+        "science"
+      ],
+      "link": "https://www.cnbc.com/2026/04/01/eli-lilly-glp-1-pill-foundayo-approved-for-obesity.html"
+    },
+    {
+      "text": "Artemis II launched humans around the Moon; mission details underline schedule/engineering sensitivity (even small subsystems) but mark a major lunar program milestone.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencenews.org/article/nasa-artemis-launch-humans-moon"
+    },
+    {
+      "text": "Quantum research suggests fewer qubits may threaten widely used encryption; advances in quantum-safe cryptography and migration planning are becoming more urgent.",
+      "tags": [
+        "science",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.sciencenews.org/article/quantum-bits-crack-internet-encryption"
+    }
+  ]
+}

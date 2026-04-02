@@ -20,7 +20,7 @@
       ],
       "rationale": "High-salience election administration actions commonly draw rapid litigation and early injunctive relief when plaintiffs show likely irreparable harm before elections.",
       "id": "b34048fc-011e-4fec-b0a1-4935bab43993",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "rationale": "Multi-state coalitions are a common tactic for high-profile federal actions affecting state-run election administration.",
       "id": "df97c0a2-a9ec-4a49-8050-46a2d23ef81a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -63,7 +63,7 @@
       ],
       "rationale": "Large-scale, widely used dependency compromises frequently trigger government advisories due to broad downstream exposure.",
       "id": "85db1090-8413-46bd-b5fa-fbf05adffb9f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -84,7 +84,7 @@
       ],
       "rationale": "High-profile package compromises often accelerate platform-wide hardening measures, especially for the most-downloaded packages.",
       "id": "e06f0c79-37fc-4164-9c87-8a1122ad071e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -105,7 +105,7 @@
       ],
       "rationale": "If layoffs are broad and tied to major strategic reallocation toward AI capex, disclosed charges can become large and concentrated in a quarter.",
       "id": "c58539fc-bbbe-4fc4-82fd-e3a6dd68a7a9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -126,7 +126,7 @@
       ],
       "rationale": "Investor focus on AI infrastructure and margins raises the odds Microsoft will clarify or expand capex plans within the next two quarters.",
       "id": "5222dd31-0f85-433b-a445-76936ea78f97",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -148,7 +148,7 @@
       ],
       "rationale": "Recent reporting emphasizes a widening financing gap; modest adverse assumption shifts can keep depletion timing at or earlier than recent baselines.",
       "id": "dd0d934e-b83d-4ff9-911e-edef7b10bc82",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -169,7 +169,7 @@
       ],
       "rationale": "Fatal attacks on peacekeepers often catalyze mandate language changes emphasizing protection and mobility, especially at scheduled renewal points.",
       "id": "de638465-3da0-4cfa-b487-5261210ce5d5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -190,7 +190,7 @@
       ],
       "rationale": "If glove-derived contamination is a meaningful systematic error, standards bodies typically incorporate mitigation guidance as methods mature and replication accumulates.",
       "id": "7e56d7d6-8dbc-46e3-b1ac-01250f190dc6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
