@@ -1,0 +1,104 @@
+{
+  "bullets": [
+    {
+      "text": "Iran-Oman protocol to \u201cmonitor\u201d Hormuz traffic signals partial de-escalation; markets price in reopening but shipping/oil disruption risk persists.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html"
+    },
+    {
+      "text": "Rival states leverage strategic choke points (shipping lanes, minerals, data routes) to retaliate against U.S. pressure, raising supply-chain and trade-risk premia.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/04/02/business/economy/trump-iran-china-choke-points.html"
+    },
+    {
+      "text": "Mortgage rates rise for a fifth straight week; Iran-war energy shock feeds inflation expectations and increases homebuyer monthly payments.",
+      "tags": [
+        "rates",
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.marketwatch.com/story/mortgage-rates-rise-for-the-fifth-week-in-a-row-heres-how-much-more-homebuyers-are-paying-since-the-iran-wars-start-910bd100"
+    },
+    {
+      "text": "U.S. sets up to 100% tariffs on some imported drugs with many exemptions; could lift prices, spur reshoring, and intensify pharma supply-chain geopolitics.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html"
+    },
+    {
+      "text": "Equity-market \u201ccracks\u201d widen as leadership narrows and volatility rises; positioning looks fragile into key data like the March jobs report.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/these-charts-show-the-cracks-in-the-stock-market-are-widening-9ee6a281"
+    },
+    {
+      "text": "Tesla posts steep 2026 drop after weak deliveries; price cuts and \u201ccheaper\u201d models aren\u2019t arresting demand, pressuring EV margins and growth narrative.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/04/02/tesla-tsla-q1-2026-vehicle-delivery-production.html"
+    },
+    {
+      "text": "Private credit liquidity stress: Blue Owl caps fund redemptions at 5% after heavy requests, highlighting mismatch between illiquid loans and investor withdrawals.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html"
+    },
+    {
+      "text": "War-driven energy costs pass through: Amazon adds 3.5% seller fuel/logistics surcharge; United hikes checked-bag fees as fuel stays elevated.",
+      "tags": [
+        "energy",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/02/amazon-add-3point5percent-fuel-and-logistics-surcharge-for-sellers-amid-iran-war.html"
+    },
+    {
+      "text": "OpenAI buys business show/podcast TBPN to shape AI narrative; signals rising competition for public trust and distribution, not just model performance.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://openai.com/index/openai-acquires-tbpn/"
+    },
+    {
+      "text": "Microsoft pushes three new foundation models while touting Copilot traction; investors weigh monetization against AI spend and broader \u201cAI anxiety\u201d over valuation.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/"
+    },
+    {
+      "text": "NASA launches Artemis II, first crewed Moon flyby in 50 years; reinforces U.S. space-leadership signaling and spurs downstream demand for aerospace/space-tech supply chains.",
+      "tags": [
+        "science",
+        "geopolitics"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/04/260402004721.htm"
+    },
+    {
+      "text": "Cyber/operational risk rising: axios NPM supply-chain compromise plus hacks/exposures at health and fintech apps underscore systemic software dependency vulnerabilities.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://github.com/axios/axios/issues/10636"
+    }
+  ]
+}

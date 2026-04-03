@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-02",
+  "assessments": [
+    {
+      "id": "81dbd56c-fdfc-4c47-a5b8-734c93357feb",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no indication that SpaceX filed (or is about to file) an S-1/F-1 IPO registration statement on SEC EDGAR. No direct evidence to resolve the claim."
+    },
+    {
+      "id": "458d3842-b8e3-4db5-bea9-7494ea773e4a",
+      "status": "pending",
+      "status_rationale": "While multiple items reference Iran and Hormuz-related developments, none mention an IAEA Board of Governors censure resolution or a safeguards non-compliance finding. No decisive evidence either way."
+    },
+    {
+      "id": "3e4831e4-a4fb-417d-817c-fc53e3f96b0a",
+      "status": "pending",
+      "status_rationale": "An article references an Artemis II launch, but the prediction concerns an official NASA Artemis program schedule update explicitly setting Artemis III to NET 2028 or later. No such schedule update is cited in the bullets."
+    },
+    {
+      "id": "78d37d6b-4b42-450c-bf66-7b4bd02a23e4",
+      "status": "pending",
+      "status_rationale": "No TrendForce (or similar) memory-market update is included, and nothing in the bullets substantiates a \u226520% YoY increase in average PC DRAM contract prices."
+    },
+    {
+      "id": "8e193a1b-5ea2-4b4c-8a02-7d65b5ad6bcb",
+      "status": "pending",
+      "status_rationale": "No mention of Oracle WARN notices or aggregated 2026 planned layoffs appears in today\u2019s bullets. Insufficient evidence to update outcome."
+    },
+    {
+      "id": "13433340-9e1a-495c-8fc0-fd0a7049444f",
+      "status": "pending",
+      "status_rationale": "No Chrome stable-channel announcement or telemetry/rollout note about default post-quantum (or hybrid) TLS key exchange for \u226550% of connections is referenced."
+    },
+    {
+      "id": "13935b8e-09d4-401a-8a87-e7b90db71439",
+      "status": "pending",
+      "status_rationale": "Although geopolitical tensions are a theme in the news, there is no specific item about a major European NATO member publishing a budget plan with a \u2265\u20ac10B (or \u2265\u00a38.5B) defense increase explicitly citing U.S./NATO commitment uncertainty."
+    },
+    {
+      "id": "2ae2cf63-f86b-4f45-9024-4567f1357dfb",
+      "status": "pending",
+      "status_rationale": "No formulary update from CVS Caremark, Express Scripts, or Optum Rx is cited, and there is no mention of coverage decisions for Lilly\u2019s newly approved oral GLP-1 obesity pill for the 2027 plan year."
+    },
+    {
+      "id": "c3bcb548-52a1-4d7f-a1da-90a9e5eec6d6",
+      "status": "pending",
+      "status_rationale": "The bullets do not include University of Michigan inflation-expectations readings; therefore there is no evidence that the final 1-year-ahead measure has reached \u22655.0% in any month."
+    }
+  ]
+}

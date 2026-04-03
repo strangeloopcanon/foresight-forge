@@ -2344,3 +2344,12 @@ The only bullet that meaningfully interacts with a forecast is the report of lar
 
 ---
 
+
+## 2026-04-02
+
+None of the listed predictions are directly resolved by today’s headlines. The news set is dominated by U.S. domestic political turmoil (e.g., changes in the Attorney General role), continued attention to the Iran conflict and Hormuz Strait dynamics, and a notable space-program narrative around an Artemis II launch. However, the specific resolution criteria for the forecasts (SEC filing, IAEA Board resolution, NASA schedule document, analyst pricing report, WARN totals, Chrome security-default announcement, European defense budget plan details, PBM formulary publication, and UMich inflation expectations print) are not evidenced in the provided bullets.
+
+That said, the current news environment plausibly shifts base rates for several pending items even without resolving them. Iran/Hormuz-related disruption and higher fuel costs (e.g., airlines and Amazon surcharges; mortgage-rate pressure) could raise odds for higher inflation expectations and defense-spending increases in Europe, while heightened geopolitical and budget uncertainty could affect Artemis scheduling decisions. These are directional signals only; the predictions remain pending until the specified official documents/metrics are observed.
+
+---
+

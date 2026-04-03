@@ -1,0 +1,203 @@
+{
+  "date": "2026-04-03",
+  "predictions": [
+    {
+      "text": "By 2026-04-18, NASA will publicly confirm that Artemis II completed its planned mission and that the crewed Orion capsule splashed down safely with all crew recovered.",
+      "category": "other",
+      "horizon_days": 15,
+      "deadline": "2026-04-18",
+      "confidence_pct": 85,
+      "log_odds": 1.73,
+      "verification_criteria": "NASA (or U.S. government partner agency) publishes an official mission-completion statement/press release confirming splashdown and crew recovery for Artemis II on or before 2026-04-18.",
+      "evidence": [
+        "Structured summary notes Artemis II has launched, implying near-term mission completion and recovery milestones.",
+        "Recent NASA crewed missions typically publish same-day recovery confirmations via NASA.gov and social channels."
+      ],
+      "monitoring_signals": [
+        "NASA Artemis blog updates and NASA.gov press releases",
+        "NASA TV mission coverage schedule and post-splashdown briefings",
+        "DoD recovery assets/public affairs updates (if involved)"
+      ],
+      "rationale": "Given the reported launch, the main remaining uncertainty is an in-mission anomaly; NASA usually confirms splashdown and crew recovery promptly if nominal.",
+      "id": "b3fd1fbf-286e-487a-b9ce-871d8508eb84",
+      "outcome": null,
+      "confidence_bin": "80-90"
+    },
+    {
+      "text": "By 2026-06-30, the EIA daily Europe Brent spot price (series DCOILBRENTEU) will be at or above $110 per barrel on at least one day.",
+      "category": "energy",
+      "horizon_days": 88,
+      "deadline": "2026-06-30",
+      "confidence_pct": 37,
+      "log_odds": -0.53,
+      "verification_criteria": "EIA series DCOILBRENTEU shows a daily observation >= 110.00 (USD/bbl) dated on or before 2026-06-30.",
+      "evidence": [
+        "Structured summary highlights Hormuz-related risk and war-driven energy cost pass-through (Amazon surcharge; airline fees).",
+        "Chokepoint geopolitics historically increases crude risk premia and price volatility."
+      ],
+      "monitoring_signals": [
+        "EIA DCOILBRENTEU daily updates",
+        "OPEC+ meeting statements and compliance estimates",
+        "Tankers/insurance war-risk pricing and transit disruptions tied to Hormuz"
+      ],
+      "rationale": "Prices are sensitive to any renewed shipping disruption; threshold is high but reachable under a risk-premium spike.",
+      "id": "ff9bb555-4ce7-4e5e-958d-963b1317ff88",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-06-30, at least one additional major U.S. marketplace/e-commerce platform (eBay, Etsy, Shopify, Walmart Marketplace, or Target Plus) will announce a temporary seller fee surcharge of at least 2.0% explicitly citing fuel and/or logistics costs.",
+      "category": "macro",
+      "horizon_days": 88,
+      "deadline": "2026-06-30",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "An official platform communication (press release, seller update, policy page, or investor filing) states a time-bounded surcharge/fee increase >=2.0% applied to sellers and explicitly attributes it to fuel/logistics/energy costs, dated on or before 2026-06-30.",
+      "evidence": [
+        "Structured summary reports Amazon added a 3.5% seller fuel/logistics surcharge amid elevated fuel costs.",
+        "Energy shocks often lead to near-term surcharges rather than permanent fee resets."
+      ],
+      "monitoring_signals": [
+        "Seller newsletters/policy change logs for the named platforms",
+        "Earnings call transcripts referencing 'fuel surcharge' or 'energy surcharge'",
+        "Freight indices and jet/diesel price moves that trigger surcharges"
+      ],
+      "rationale": "Amazon\u2019s move can create competitive permission for similar pass-through, but platforms may resist to protect seller growth.",
+      "id": "4e96bf3c-951c-45c2-885d-398296a75803",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-07-31, Freddie Mac\u2019s Primary Mortgage Market Survey (PMMS) will report the 30-year fixed-rate mortgage average at or above 7.50% in at least one weekly release.",
+      "category": "rates",
+      "horizon_days": 119,
+      "deadline": "2026-07-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2,
+      "verification_criteria": "At least one weekly PMMS release dated on or before 2026-07-31 lists the 30-year fixed-rate mortgage average >= 7.50%.",
+      "evidence": [
+        "Structured summary notes mortgage rates rising for a fifth straight week amid an energy-driven inflation shock.",
+        "Rate volatility tends to rise alongside inflation expectations and oil-price uncertainty."
+      ],
+      "monitoring_signals": [
+        "Weekly Freddie Mac PMMS releases",
+        "10-year Treasury yields and inflation breakevens",
+        "CPI/PCE surprises and energy price moves"
+      ],
+      "rationale": "A further rate spike is plausible if inflation expectations stay elevated, but growth/financial-stress dynamics could cap yields.",
+      "id": "0c124b02-65da-4671-bdac-564a7d0c7e39",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-08-31, at least one major U.S. pharma industry group (PhRMA, the Association for Accessible Medicines, or BIO) will file a lawsuit in U.S. federal court challenging the legality of the newly announced U.S. pharmaceutical tariffs.",
+      "category": "geopolitics",
+      "horizon_days": 150,
+      "deadline": "2026-08-31",
+      "confidence_pct": 40,
+      "log_odds": -0.41,
+      "verification_criteria": "A federal court complaint appears on PACER (or is publicly posted by the plaintiff) naming one of the listed groups as a plaintiff and challenging the pharma tariffs, filed on or before 2026-08-31.",
+      "evidence": [
+        "Structured summary reports up to 100% tariffs on some imported drugs with many exemptions, implying high stakes and contested scope.",
+        "Trade measures with large sector impacts frequently prompt industry litigation."
+      ],
+      "monitoring_signals": [
+        "PACER searches and plaintiff press releases",
+        "USTR/Federal Register implementation notices and tariff codes covered",
+        "Public statements from PhRMA/AAM/BIO about legal options"
+      ],
+      "rationale": "Industry may prefer negotiation, but large tariff levels increase incentives to litigate, especially if exemptions are narrow or unclear.",
+      "id": "32fe7f91-6c3f-4634-9df9-deb22f96ab97",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, at least one major U.S. retail private-credit fund (interval fund or tender-offer fund) managed by Blackstone, Apollo, Ares, KKR, or Carlyle will limit redemptions/tenders so that investors receive no more than 50% of the amount requested in a single offer period.",
+      "category": "markets",
+      "horizon_days": 180,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2,
+      "verification_criteria": "A fund notice, tender-offer results announcement, shareholder letter, or SEC filing for an eligible fund states that proration/limits were applied and that accepted repurchases were <=50% of requests for that offer period, dated on or before 2026-09-30.",
+      "evidence": [
+        "Structured summary reports Blue Owl capped private credit fund redemptions at 5% after heavy requests, highlighting liquidity mismatch stress.",
+        "Similar products share structural liquidity constraints that can propagate gating behavior."
+      ],
+      "monitoring_signals": [
+        "SEC filings (N-CSR, N-PORT, tender-offer docs) and fund websites for repurchase results",
+        "Press coverage of 'proration' and 'repurchase offer' outcomes",
+        "Credit spreads and default/distress indicators that trigger withdrawal demand"
+      ],
+      "rationale": "Stress can spread through retail private credit, but large managers may use credit lines/cash buffers to avoid severe proration.",
+      "id": "64417a4c-ccb1-4f8b-9985-4251e042418d",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-10-31, Tesla will report automotive gross margin excluding regulatory credits at or below 15.0% in at least one quarterly earnings release (10-Q/10-K and shareholder deck) filed on or before that date.",
+      "category": "markets",
+      "horizon_days": 211,
+      "deadline": "2026-10-31",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Tesla\u2019s quarterly reporting (earnings release/shareholder deck and/or 10-Q/10-K) explicitly reports automotive gross margin ex regulatory credits <=15.0% for the quarter, with the filing/release dated on or before 2026-10-31.",
+      "evidence": [
+        "Structured summary cites steep 2026 drop after weak deliveries, continued price cuts, and demand pressure\u2014typically margin-negative.",
+        "Competitive EV pricing and incentives often compress margins during volume slowdowns."
+      ],
+      "monitoring_signals": [
+        "Tesla quarterly earnings materials and 10-Q/10-K filings",
+        "Vehicle ASP trends, incentive levels, and inventory days",
+        "Battery/raw-material cost trends and China/US pricing actions"
+      ],
+      "rationale": "Weak demand plus continued discounting makes a <=15% quarter plausible, though cost-downs or mix shift could offset.",
+      "id": "415af327-ad95-4dc4-972d-88d282271448",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, China\u2019s government will announce new export licensing restrictions or controls on at least one additional critical mineral/material (not already restricted as of 2026-03-31) that is used in semiconductors, batteries, or defense manufacturing.",
+      "category": "geopolitics",
+      "horizon_days": 272,
+      "deadline": "2026-12-31",
+      "confidence_pct": 50,
+      "log_odds": 0,
+      "verification_criteria": "A PRC government body (e.g., MOFCOM) publishes an official notice adding export controls/licensing to at least one newly covered mineral/material category (new relative to 2026-03-31), on or before 2026-12-31.",
+      "evidence": [
+        "Structured summary notes rival states leveraging strategic choke points (minerals/data routes/shipping lanes) in retaliation dynamics.",
+        "Recent years show iterative tightening of controls in response to sanctions/tariffs."
+      ],
+      "monitoring_signals": [
+        "MOFCOM export control announcements and catalog updates",
+        "Chinese state media commentary on 'countermeasures' and supply-chain security",
+        "Industry alerts from semiconductor/battery supply-chain groups"
+      ],
+      "rationale": "Chokepoint retaliation is a common tool, but China may calibrate to avoid accelerating reshoring and substitution.",
+      "id": "e011cd81-cd8c-439e-95e3-0aad4f2a4e57",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, OpenAI will publish at least 20 episodes of a recurring podcast or video show under an OpenAI or TBPN brand (counting only full episodes, excluding short clips).",
+      "category": "tech",
+      "horizon_days": 272,
+      "deadline": "2026-12-31",
+      "confidence_pct": 60,
+      "log_odds": 0.41,
+      "verification_criteria": "An OpenAI- or TBPN-branded show has >=20 distinct episode entries publicly available (RSS feed, YouTube playlist, or major podcast platform listing) with publication dates on or before 2026-12-31.",
+      "evidence": [
+        "Structured summary notes OpenAI acquired TBPN to shape AI narrative, implying intent to scale media output.",
+        "Corporate media acquisitions typically target steady programming rather than one-off specials."
+      ],
+      "monitoring_signals": [
+        "OpenAI/TBPN announcements and show feeds on major platforms",
+        "Hiring for producers/editors/hosts and content calendars",
+        "Cross-promotion in OpenAI product updates and newsletters"
+      ],
+      "rationale": "If OpenAI prioritizes trust and distribution, producing 20 episodes in nine months is operationally feasible; strategic shifts could slow cadence.",
+      "id": "5f4880f8-531f-4954-8efa-6d3732f8b5bd",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}

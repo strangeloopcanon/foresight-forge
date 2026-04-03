@@ -19,7 +19,7 @@
       ],
       "rationale": "Confidential filings often precede a public S-1 within months, but timing is sensitive to market volatility, geopolitical risk, and readiness of audited disclosures.",
       "id": "81dbd56c-fdfc-4c47-a5b8-734c93357feb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "In periods of heightened confrontation, the Board more often turns to formal resolutions to increase pressure, though consensus politics and member-state bargaining add uncertainty.",
       "id": "458d3842-b8e3-4db5-bea9-7494ea773e4a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Complex integration (HLS readiness, suits, landing systems) historically drives rightward schedule moves; a formal update pushing Artemis III beyond 2027 is more likely than on-time landing.",
       "id": "3e4831e4-a4fb-417d-817c-fc53e3f96b0a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Memory cycles can move quickly; a 20% YoY jump is plausible if supply remains tight and AI/HBM capacity crowds out commodity DRAM, but contract pricing is stickier than spot.",
       "id": "78d37d6b-4b42-450c-bf66-7b4bd02a23e4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "WARN captures only some layoffs and thresholds vary by structure, but sustained reductions across multiple sites could plausibly exceed 10k in disclosed planned cuts by late summer.",
       "id": "8e193a1b-5ea2-4b4c-8a02-7d65b5ad6bcb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Chrome has incentives to lead PQC migration, but compatibility and ecosystem readiness constrain a majority-by-default rollout timeline.",
       "id": "13433340-9e1a-495c-8fc0-fd0a7049444f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "European rearmament is already underway; explicit linkage to U.S./NATO uncertainty is the gating factor, but political incentives make public justification increasingly likely.",
       "id": "13935b8e-09d4-401a-8a87-e7b90db71439",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "PBMs are pressured on obesity-drug spend but competition and oral convenience support at least some coverage inclusion by the next major plan-year cycle.",
       "id": "2ae2cf63-f86b-4f45-9024-4567f1357dfb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Energy shocks can push survey expectations higher, but anchoring and rapid mean reversion are common; hitting 5% is plausible yet still a tail event over a short window.",
       "id": "c3bcb548-52a1-4d7f-a1da-90a9e5eec6d6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
