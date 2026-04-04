@@ -1,0 +1,132 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. March payrolls +178k; unemployment 4.3%, signaling resilient labor market and complicating near-term rate-cut expectations.",
+      "tags": [
+        "macro",
+        "rates",
+        "markets"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/empsit_04032026.htm"
+    },
+    {
+      "text": "Federal Reserve issued an enforcement action tied to a former United Bank employee, underscoring ongoing supervisory scrutiny and compliance risk for banks.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260403a.htm"
+    },
+    {
+      "text": "Fed posted a notice to H.8 users, highlighting changes/clarifications to bank balance-sheet data that can affect analysis of credit conditions.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "http://www.federalreserve.gov/feeds/H8.html#3884"
+    },
+    {
+      "text": "Iran shot down a U.S. F-15E; escalation raises regional conflict risk and potential market sensitivity to Middle East supply disruptions.",
+      "tags": [
+        "geopolitics",
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html"
+    },
+    {
+      "text": "U.S. intelligence says Iran is rapidly repairing missile bunkers, implying sustained strike capacity and prolonged escalation dynamics.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html"
+    },
+    {
+      "text": "Iran strikes reportedly left Amazon availability zones in Bahrain and Dubai \u201chard down,\u201d showing geopolitical shocks can directly disrupt cloud infrastructure and commerce.",
+      "tags": [
+        "geopolitics",
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability"
+    },
+    {
+      "text": "Trump requested $1.5T in military spending, pointing to a higher defense outlay path with fiscal and debt-issuance implications.",
+      "tags": [
+        "macro",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html"
+    },
+    {
+      "text": "Rising fuel prices are curbing travel in the Philippines and pushing private-jet costs up to 20%, signaling persistent energy-driven inflation pressures.",
+      "tags": [
+        "energy",
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/03/private-jet-travel-costs-rise-fuel-prices.html"
+    },
+    {
+      "text": "Courts are increasingly bypassing long-standing online liability protections, raising litigation and compliance risk for platforms like Meta and Google.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/03/meta-google-under-attack-court-cases-bypass-30-year-old-legal-shield.html"
+    },
+    {
+      "text": "OpenAI leadership changes alongside the TBPN acquisition highlight rapid organizational churn and unclear M&A strategy amid intense competition in frontier AI.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html"
+    },
+    {
+      "text": "Chinese chip firms hit record revenue as AI demand rises despite U.S. curbs, suggesting industrial policy and export controls are reshaping global semiconductor supply chains.",
+      "tags": [
+        "tech",
+        "geopolitics",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html"
+    },
+    {
+      "text": "Microsoft planning a $10B AI push with SoftBank lifted Japan\u2019s Sakura Internet, reflecting accelerating hyperscaler capex and rising demand for AI-ready data-center capacity.",
+      "tags": [
+        "tech",
+        "markets",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/04/03/sakura-internet-microsoft-ai-japan-softbank-investment.html"
+    },
+    {
+      "text": "AI firms building dedicated natural-gas plants for data centers underscores power constraints as a binding limiter on AI scaling, with emissions, permitting, and grid risks.",
+      "tags": [
+        "tech",
+        "energy",
+        "macro"
+      ],
+      "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/"
+    },
+    {
+      "text": "One-shot gene therapy restored hearing within weeks in early results, signaling potential high-impact biotech innovation with sizable future healthcare and commercialization stakes.",
+      "tags": [
+        "science",
+        "markets"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/04/260403044651.htm"
+    },
+    {
+      "text": "New advances suggest practical quantum computing is nearer, raising strategic stakes for cryptography, national security, and next-wave compute-intensive industries.",
+      "tags": [
+        "science",
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-03",
+  "assessments": [
+    {
+      "id": "b3fd1fbf-286e-487a-b9ce-871d8508eb84",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage discusses Artemis II in-flight activities (e.g., first Earth photos from the mission, astronauts taking iPhones, piloting/demonstration details) but does not clearly state that Artemis II has completed its planned mission or that Orion has splashed down with all crew recovered. The prediction\u2019s verification condition (public confirmation of mission completion + safe splashdown) is not yet evidenced in the provided news."
+    },
+    {
+      "id": "ff9bb555-4ce7-4e5e-958d-963b1317ff88",
+      "status": "pending",
+      "status_rationale": "The news mentions rising fuel prices and higher private-jet costs, but provides no specific EIA DCOILBRENTEU daily print at/above $110, nor a cited date meeting the threshold. No decisive evidence yet."
+    },
+    {
+      "id": "4e96bf3c-951c-45c2-885d-398296a75803",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s bullets indicates eBay/Etsy/Shopify/Walmart Marketplace/Target Plus announcing a temporary seller fee surcharge of \u22652% explicitly citing fuel/logistics costs."
+    },
+    {
+      "id": "0c124b02-65da-4671-bdac-564a7d0c7e39",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets include housing/mortgage-related commentary but do not provide a Freddie Mac PMMS weekly release showing the 30-year fixed-rate average at or above 7.50%."
+    },
+    {
+      "id": "32fe7f91-6c3f-4634-9df9-deb22f96ab97",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s bullets that PhRMA, AAM, or BIO filed a federal lawsuit challenging newly announced U.S. pharmaceutical tariffs."
+    },
+    {
+      "id": "64417a4c-ccb1-4f8b-9985-4251e042418d",
+      "status": "pending",
+      "status_rationale": "No reporting here indicates a major retail private-credit interval/tender-offer fund (Blackstone/Apollo/Ares/KKR/Carlyle) imposing redemption limits resulting in payouts \u226450% of requested amounts in an offer period."
+    },
+    {
+      "id": "415af327-ad95-4dc4-972d-88d282271448",
+      "status": "pending",
+      "status_rationale": "No Tesla earnings release details (10-Q/10-K/shareholder deck) are included in today\u2019s bullets, and no automotive gross margin ex-credits figure at/under 15.0% is cited."
+    },
+    {
+      "id": "e011cd81-cd8c-439e-95e3-0aad4f2a4e57",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not mention China announcing new export licensing restrictions/controls on an additional critical mineral/material beyond what was restricted as of 2026-03-31."
+    },
+    {
+      "id": "5f4880f8-531f-4954-8efa-6d3732f8b5bd",
+      "status": "pending",
+      "status_rationale": "While today\u2019s news notes OpenAI\u2019s acquisition of TBPN and discusses strategy/branding, it does not establish that OpenAI will publish (or has published) at least 20 full episodes of a recurring podcast/video show under an OpenAI or TBPN brand by 2026-12-31."
+    }
+  ]
+}

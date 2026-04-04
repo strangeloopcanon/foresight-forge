@@ -20,7 +20,7 @@
       ],
       "rationale": "Given the reported launch, the main remaining uncertainty is an in-mission anomaly; NASA usually confirms splashdown and crew recovery promptly if nominal.",
       "id": "b3fd1fbf-286e-487a-b9ce-871d8508eb84",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "80-90"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Prices are sensitive to any renewed shipping disruption; threshold is high but reachable under a risk-premium spike.",
       "id": "ff9bb555-4ce7-4e5e-958d-963b1317ff88",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Amazon\u2019s move can create competitive permission for similar pass-through, but platforms may resist to protect seller growth.",
       "id": "4e96bf3c-951c-45c2-885d-398296a75803",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "A further rate spike is plausible if inflation expectations stay elevated, but growth/financial-stress dynamics could cap yields.",
       "id": "0c124b02-65da-4671-bdac-564a7d0c7e39",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Industry may prefer negotiation, but large tariff levels increase incentives to litigate, especially if exemptions are narrow or unclear.",
       "id": "32fe7f91-6c3f-4634-9df9-deb22f96ab97",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "Stress can spread through retail private credit, but large managers may use credit lines/cash buffers to avoid severe proration.",
       "id": "64417a4c-ccb1-4f8b-9985-4251e042418d",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Weak demand plus continued discounting makes a <=15% quarter plausible, though cost-downs or mix shift could offset.",
       "id": "415af327-ad95-4dc4-972d-88d282271448",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Chokepoint retaliation is a common tool, but China may calibrate to avoid accelerating reshoring and substitution.",
       "id": "e011cd81-cd8c-439e-95e3-0aad4f2a4e57",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "If OpenAI prioritizes trust and distribution, producing 20 episodes in nine months is operationally feasible; strategic shifts could slow cadence.",
       "id": "5f4880f8-531f-4954-8efa-6d3732f8b5bd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]

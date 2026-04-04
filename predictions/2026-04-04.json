@@ -1,0 +1,186 @@
+{
+  "date": "2026-04-04",
+  "predictions": [
+    {
+      "text": "By 2026-04-30, AWS will publish a public post-incident report (e.g., Status Page/Health Dashboard summary or AWS blog) explicitly attributing recent service disruption affecting at least one Middle East availability zone/region (including Bahrain or UAE) to conflict-related physical attacks and/or regional military strikes.",
+      "category": "tech",
+      "horizon_days": 26,
+      "deadline": "2026-04-30",
+      "confidence_pct": 55,
+      "verification_criteria": "A publicly accessible AWS communication (Status Page, AWS blog, or official AWS statement) published on/before 2026-04-30 that (1) references Bahrain and/or UAE availability zones/region disruption and (2) explicitly links cause to conflict-related strikes/attacks (not merely 'network issues' or 'power issues' without attribution).",
+      "evidence": [
+        "Recent reporting claims Iran strikes left Amazon availability zones in Bahrain and Dubai \u201chard down,\u201d implying a significant incident likely to trigger an official provider write-up: https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability"
+      ],
+      "monitoring_signals": [
+        "AWS Service Health Dashboard incident entries mentioning me-south-1 and/or UAE region",
+        "AWS Post Event Summaries/Status Page updates referencing 'security incident' or 'regional conflict'",
+        "Customer advisories to enterprise support accounts referencing force majeure or conflict impacts"
+      ],
+      "rationale": "If outages were conflict-linked and large, AWS typically issues some public summary; attribution wording is the key uncertainty.",
+      "id": "0914c829-352e-4efa-acfa-3c5b6c2dfc12",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-05-15, at least one publicly traded company will file an 8-K, 6-K, or equivalent regulatory disclosure stating that cloud service disruption in the Gulf/Middle East (including Bahrain or UAE) materially disrupted operations, customer access, or revenue recognition for at least one day.",
+      "category": "markets",
+      "horizon_days": 41,
+      "deadline": "2026-05-15",
+      "confidence_pct": 40,
+      "verification_criteria": "A company regulatory filing on/before 2026-05-15 (SEC EDGAR or non-U.S. equivalent) that explicitly mentions cloud outage/disruption in Bahrain/UAE/Middle East region and describes operational or financial materiality (e.g., 'material impact,' 'significant disruption,' quantified downtime, or quantified revenue/booking impact).",
+      "evidence": [
+        "Reporting indicates serious regional cloud disruption affecting AWS availability zones in Bahrain and Dubai, increasing odds of downstream enterprise disclosures: https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability"
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR 8-K filings mentioning 'AWS', 'Bahrain', 'UAE', 'region outage', 'availability zone'",
+        "Company status pages and incident retrospectives by major SaaS vendors serving MENA",
+        "Earnings pre-announcements citing hosting-region disruptions"
+      ],
+      "rationale": "Large cloud outages often propagate into public-company disclosure when they affect regulated reporting, SLAs, or customer access.",
+      "id": "13fe3fe0-7f95-4669-9112-405806142756",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, the U.S. Department of Defense (DoD) or CENTCOM will publicly announce deployment (newly arrived or repositioned) of at least one additional named air-and-missile defense asset to the Persian Gulf region (e.g., Patriot battery, THAAD battery, Aegis-equipped ship assigned for BMD, or a comparable system), explicitly citing Iranian missile/drone threats.",
+      "category": "geopolitics",
+      "horizon_days": 87,
+      "deadline": "2026-06-30",
+      "confidence_pct": 52,
+      "verification_criteria": "An official DoD/CENTCOM press release, transcript, or spokesperson statement on/before 2026-06-30 that (1) states an additional deployment/repositioning of a specific air/missile defense system to the Gulf/CENTCOM AOR and (2) ties rationale to Iranian missile/drone threats or ongoing Iran-related escalation.",
+      "evidence": [
+        "Escalation: Iran reportedly shot down a U.S. F-15E, raising force-protection and air-defense urgency: https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html",
+        "U.S. intelligence reporting says Iran is rapidly repairing missile bunkers, implying sustained strike capacity: https://www.nytimes.com/2026/04/03/us/politics/iran-missiles-launchers.html"
+      ],
+      "monitoring_signals": [
+        "CENTCOM daily press releases and press briefings",
+        "Pentagon press conferences and DoD 'Contracts/Deployments' announcements",
+        "NOTAMs, ship-tracking patterns, and open-source imagery indicating BMD deployments"
+      ],
+      "rationale": "Sustained missile threat usually drives visible defensive deployments; disclosure timing is uncertain.",
+      "id": "66891f95-fa69-423b-b8f1-6fae3def64f7",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-07-31, at least one of Amazon, Microsoft, or Google will announce a Middle East cloud resilience change explicitly referencing recent conflict risk (e.g., new cross-region DR option, region pairings, accelerated new zones, or customer guidance to shift workloads), and the announcement will name at least one Gulf/Middle East region (Bahrain, UAE, Qatar, etc.).",
+      "category": "tech",
+      "horizon_days": 118,
+      "deadline": "2026-07-31",
+      "confidence_pct": 48,
+      "verification_criteria": "A public blog post, press release, or documentation update by AWS/Azure/GCP on/before 2026-07-31 that (1) announces a resilience/DR-related product or guidance change and (2) explicitly references conflict/security risk as a driver and (3) names a Middle East region.",
+      "evidence": [
+        "Reported strike-linked outages in Bahrain/Dubai increase incentives for cloud providers to highlight regional resilience options: https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability"
+      ],
+      "monitoring_signals": [
+        "AWS/Azure/GCP regional news feeds and architecture blogs",
+        "Updates to region-pair documentation for Azure and multi-region guidance pages for AWS/GCP",
+        "Enterprise customer advisories emphasizing cross-region failover in MENA"
+      ],
+      "rationale": "After high-profile outages, providers often message new resilience features; explicit conflict attribution is the uncertainty.",
+      "id": "90f25732-fd2e-41bc-8653-f2f1cc715769",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, the U.S. Department of Commerce (BIS) will publish at least one new Final Rule or updated export-control guidance that further restricts exports or re-exports of AI accelerators/AI server systems (beyond the rules in effect on 2026-03-31), and the rule/guidance will explicitly reference China as a primary target jurisdiction.",
+      "category": "geopolitics",
+      "horizon_days": 179,
+      "deadline": "2026-09-30",
+      "confidence_pct": 57,
+      "verification_criteria": "A BIS Federal Register publication (Final Rule) or BIS official guidance document on/before 2026-09-30 that (1) tightens controls on AI accelerators/AI servers (thresholds, performance metrics, or licensing scope) and (2) explicitly references China policy objectives or China destination controls.",
+      "evidence": [
+        "Chinese chip firms report record revenue amid AI demand despite U.S. curbs, increasing political pressure for additional tightening: https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register BIS rulemaking notices",
+        "BIS press releases and 'Export Administration Regulations' updates",
+        "Congressional letters/hearings calling for tighter AI chip controls"
+      ],
+      "rationale": "Revenue growth under existing curbs often triggers calls to close loopholes; timing depends on interagency process.",
+      "id": "333e0cac-04d4-4744-ae3f-1d9da942314f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-10-31, the U.S. Supreme Court will grant certiorari in at least one case materially involving Section 230 (or analogous online intermediary immunity) where the petition questions immunity for algorithmic recommendations or platform product/design choices (not merely user-posted content).",
+      "category": "tech",
+      "horizon_days": 210,
+      "deadline": "2026-10-31",
+      "confidence_pct": 32,
+      "verification_criteria": "A Supreme Court order list on/before 2026-10-31 showing cert granted in a case where the Questions Presented (or lower-court framing) expressly involves Section 230 and algorithmic recommendation/design liability (e.g., recommendations, ranking, feeds).",
+      "evidence": [
+        "Reporting notes courts increasingly bypass long-standing online liability protections, raising the odds of SCOTUS intervention: https://www.cnbc.com/2026/04/03/meta-google-under-attack-court-cases-bypass-30-year-old-legal-shield.html"
+      ],
+      "monitoring_signals": [
+        "SCOTUS docket for Section 230-related cert petitions",
+        "Circuit splits on recommendation/algorithm liability theories",
+        "Amicus activity by major platforms and civil-society groups"
+      ],
+      "rationale": "Lower-court divergence is rising, but cert grants are selective and timing is hard to predict.",
+      "id": "2feb9938-7d4c-4557-87b0-4c80f100c44b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, at least one U.S.-based data-center/AI infrastructure developer will announce a signed power-supply agreement or project FID for dedicated on-site natural-gas generation of at least 500 MW (nameplate) intended primarily to power AI/data-center loads, naming a specific U.S. site and counterparties (utility, ISO/RTO, or turbine EPC).",
+      "category": "energy",
+      "horizon_days": 271,
+      "deadline": "2026-12-31",
+      "confidence_pct": 46,
+      "verification_criteria": "A public announcement on/before 2026-12-31 (press release, investor deck, regulatory filing, or utility/ISO document) that (1) identifies a dedicated on-site gas generation project \u2265500 MW, (2) states primary purpose is data centers/AI compute, and (3) names location and at least one counterparty.",
+      "evidence": [
+        "Reporting highlights AI firms building huge natural-gas plants for data centers, suggesting more large announcements are likely: https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/"
+      ],
+      "monitoring_signals": [
+        "State siting/permitting dockets for new gas plants linked to data centers",
+        "ISO/RTO interconnection queues tied to large behind-the-meter generation",
+        "Announcements from turbine OEMs (GE Vernova, Siemens Energy) naming hyperscaler/AI customers"
+      ],
+      "rationale": "Power constraints are binding; 500 MW is achievable but disclosure may be partial or delayed.",
+      "id": "80fdadcc-e5bd-4661-a7b8-ca6522455481",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. FDA will grant at least one Breakthrough Therapy Designation (BTD) or Regenerative Medicine Advanced Therapy (RMAT) designation to a gene therapy explicitly intended to restore or improve hearing in patients with sensorineural hearing loss.",
+      "category": "other",
+      "horizon_days": 271,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "verification_criteria": "An FDA designation announcement (FDA press release, sponsor press release citing FDA action, or clinicaltrials/SEC filing quoting FDA BTD/RMAT grant) on/before 2026-12-31 where the indicated condition is hearing loss and the therapy modality is gene therapy.",
+      "evidence": [
+        "Early results reported for one-shot gene therapy restoring hearing within weeks, increasing probability of regulatory acceleration steps: https://www.sciencedaily.com/releases/2026/04/260403044651.htm"
+      ],
+      "monitoring_signals": [
+        "Sponsor press releases from hearing-loss gene therapy developers",
+        "SEC filings (10-Q/8-K) mentioning FDA BTD/RMAT interactions",
+        "Clinical trial expansions to pivotal or registrational study language"
+      ],
+      "rationale": "Promising early clinical signals can trigger FDA expedited designations, but sponsor timing and FDA thresholds add uncertainty.",
+      "id": "64736acb-5dde-4ce3-b612-8ea71053e2cd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, at least one G7 government (U.S., UK, Canada, France, Germany, Italy, Japan) will publish an official national security or defense strategy update that explicitly names 'quantum computing' as a near-term threat to cryptography and commits to a deadline to migrate critical government systems to post-quantum cryptography by 2030 or earlier.",
+      "category": "geopolitics",
+      "horizon_days": 271,
+      "deadline": "2026-12-31",
+      "confidence_pct": 41,
+      "verification_criteria": "An official government document published on/before 2026-12-31 (strategy, directive, or cabinet-level plan) that (1) explicitly links quantum computing to cryptographic risk and (2) includes a stated deadline for government/critical systems PQC migration of 2030 or earlier.",
+      "evidence": [
+        "Recent coverage argues practical quantum computing is nearer, raising strategic stakes for cryptography and national security: https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/"
+      ],
+      "monitoring_signals": [
+        "National cybersecurity strategy updates and defense white papers",
+        "Government CIO/CISO directives on cryptographic agility and PQC",
+        "Procurement language requiring PQC-capable products"
+      ],
+      "rationale": "Quantum risk is increasingly cited, but committing to a specific migration deadline is politically and operationally harder.",
+      "id": "69034efc-7364-4741-a8c3-a8d79877dec0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

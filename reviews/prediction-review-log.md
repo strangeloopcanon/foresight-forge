@@ -2353,3 +2353,12 @@ That said, the current news environment plausibly shifts base rates for several 
 
 ---
 
+
+## 2026-04-03
+
+The biggest direct touchpoint with the forecast set is Artemis II: today’s headlines strongly suggest the mission is underway and generating notable public outputs (Earth photos, iPhone usage, piloting/test details). However, the specific resolution criterion in the prediction—NASA publicly confirming successful completion and safe splashdown with all crew recovered—has not occurred (or at least is not evidenced) in today’s items, so it remains pending.
+
+Several macro themes in the news (Iran conflict escalation, higher fuel costs, jobs data, and broader inflation concerns) are directionally relevant to forecasts tied to oil prices, logistics-driven surcharges, and interest rates. But none of the bullets provide the explicit measurable triggers needed (e.g., EIA Brent ≥$110 on a specific day; a named marketplace fee surcharge ≥2% citing fuel/logistics; a PMMS weekly print ≥7.50%). Likewise, the OpenAI–TBPN acquisition increases salience for the “20 episodes” prediction but does not yet supply countable evidence that the episode threshold has been met or will be met by the deadline.
+
+---
+
