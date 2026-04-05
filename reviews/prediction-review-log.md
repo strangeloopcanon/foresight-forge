@@ -2362,3 +2362,12 @@ Several macro themes in the news (Iran conflict escalation, higher fuel costs, j
 
 ---
 
+
+## 2026-04-04
+
+None of the listed predictions are resolved by today’s headlines; all remain pending with deadlines months away. The dominant signal in today’s news is escalation risk and operational spillovers from the U.S.-Iran conflict (e.g., incident effects in Dubai and broader economic impacts), which increases the plausibility of future cloud-resilience actions and post-incident attributions, but does not yet provide the explicit, formal artifacts these predictions require (AWS postmortems, regulatory filings, or official DoD/CENTCOM deployment announcements).
+
+Several predictions are “structured-evidence” dependent: they require specific kinds of documents (8-K/6-K, BIS Final Rule, Supreme Court cert grant, FDA designation letter/announcement, national strategy text). Today’s coverage is largely journalistic reporting and commentary, not the primary-source releases that would trigger a status change to correct/incorrect. The most relevant watchpoints suggested by today’s news are (1) whether Gulf-region physical incidents lead to documented cloud outages with explicit attribution, and (2) whether the Pentagon publicly characterizes and responds to Iranian missile/drone threats with named air-and-missile defense deployments.
+
+---
+

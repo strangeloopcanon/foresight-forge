@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-04",
+  "assessments": [
+    {
+      "id": "0914c829-352e-4efa-acfa-3c5b6c2dfc12",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items discuss U.S.-Iran conflict developments (including effects in UAE/Dubai), but there is no AWS public post-incident report attributing a Middle East region/AZ disruption to conflict-related physical attack or strikes."
+    },
+    {
+      "id": "13fe3fe0-7f95-4669-9112-405806142756",
+      "status": "pending",
+      "status_rationale": "No regulatory filing (8-K/6-K/equivalent) is cited in today\u2019s news stating that Gulf/Middle East cloud disruption materially disrupted a public company\u2019s operations or revenue recognition for at least one day."
+    },
+    {
+      "id": "66891f95-fa69-423b-b8f1-6fae3def64f7",
+      "status": "pending",
+      "status_rationale": "Today\u2019s reporting references military events (e.g., downed jet, threats), but there is no DoD/CENTCOM announcement of newly arrived or repositioned named air-and-missile defense assets to the Gulf explicitly citing Iranian missile/drone threats."
+    },
+    {
+      "id": "90f25732-fd2e-41bc-8653-f2f1cc715769",
+      "status": "pending",
+      "status_rationale": "No announcement from Amazon/Microsoft/Google is included today describing a Middle East cloud resilience change explicitly referencing conflict risk and naming a Gulf/Middle East region."
+    },
+    {
+      "id": "333e0cac-04d4-4744-ae3f-1d9da942314f",
+      "status": "pending",
+      "status_rationale": "There is no evidence in today\u2019s news of a BIS Final Rule or updated export-control guidance further restricting AI accelerator/server exports beyond the 2026-03-31 baseline, nor an explicit China-targeting reference."
+    },
+    {
+      "id": "2feb9938-7d4c-4557-87b0-4c80f100c44b",
+      "status": "pending",
+      "status_rationale": "No Supreme Court certiorari grant is reported today in a Section 230-related case focused on algorithmic recommendations or platform design choices."
+    },
+    {
+      "id": "80fdadcc-e5bd-4661-a7b8-ca6522455481",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items do not mention any U.S.-based data-center/AI infrastructure developer reaching FID or signing a power-supply agreement for \u2265500 MW of dedicated on-site natural-gas generation for AI/data-center loads."
+    },
+    {
+      "id": "64736acb-5dde-4ce3-b612-8ea71053e2cd",
+      "status": "pending",
+      "status_rationale": "No FDA action is reported today granting a Breakthrough Therapy Designation (BTD) or RMAT designation to a gene therapy intended to restore/improve hearing in sensorineural hearing loss."
+    },
+    {
+      "id": "69034efc-7364-4741-a8c3-a8d79877dec0",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets do not include a G7 national security/defense strategy update that names quantum computing as a near-term cryptographic threat and commits to a post-quantum migration deadline by 2030 or earlier."
+    }
+  ]
+}

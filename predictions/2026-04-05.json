@@ -1,0 +1,188 @@
+{
+  "date": "2026-04-05",
+  "predictions": [
+    {
+      "text": "By 2026-06-30, the U.S. FAA will issue a new or amended Special Federal Aviation Regulation (SFAR) or FAA formal flight restriction that explicitly expands or newly covers at least one Gulf state FIR/airspace area (UAE, Qatar, Bahrain, Kuwait, Oman, or Saudi Arabia), citing the U.S.-Iran conflict or heightened regional military risk.",
+      "category": "geopolitics",
+      "horizon_days": 86,
+      "deadline": "2026-06-30",
+      "confidence_pct": 63,
+      "verification_criteria": "FAA publishes an SFAR in the Federal Register (or an FAA formal restriction page) that (a) is newly issued or materially revised after 2026-04-05, (b) explicitly references conflict risk tied to Iran/U.S.-Iran hostilities, and (c) adds/expands covered airspace to include at least one named Gulf state FIR/airspace area.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html",
+        "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html"
+      ],
+      "monitoring_signals": [
+        "Federal Register: new FAA SFAR entries referencing Iran/region",
+        "FAA \u2018Prohibitions, Restrictions and Notices\u2019 page updates",
+        "Airlines issuing safety bulletins on Gulf routings",
+        "Eurocontrol conflict-zone advisories mentioning Gulf FIRs"
+      ],
+      "rationale": "FAA commonly escalates from advisories to SFARs when conflict creates sustained risk to civil aviation; reported interception/debris incidents near UAE increase odds of broader airspace risk actions.",
+      "id": "3bb8750e-1e9d-4fa0-b9df-ca704935fafd",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-05-31, at least one major commercial satellite imagery provider (Maxar, Planet, BlackSky, or Airbus) will publish a public statement (blog, transparency note, or press comment) confirming it restricted or delayed imagery/products for the Middle East due to a request or directive from the U.S. government (or a named U.S. agency).",
+      "category": "tech",
+      "horizon_days": 56,
+      "deadline": "2026-05-31",
+      "confidence_pct": 52,
+      "verification_criteria": "A provider-listed public webpage/post or on-the-record statement in a major outlet explicitly attributes Middle East imagery restriction/delay to a request/directive from the U.S. government (or a named U.S. agency). The provider must be one of: Maxar, Planet, BlackSky, or Airbus.",
+      "evidence": [
+        "https://www.nytimes.com/live/2026/04/04/world/iran-war-trump-news/satellite-image-company-restricts-mideast-content-citing-a-us-government-request"
+      ],
+      "monitoring_signals": [
+        "Provider blogs/newsrooms (Maxar/Planet/BlackSky/Airbus) for \u2018restriction\u2019, \u2018government request\u2019, \u2018Middle East\u2019",
+        "SEC filings or earnings-call Q&A mentioning government-imposed constraints",
+        "DoD/State comments on commercial remote sensing dissemination"
+      ],
+      "rationale": "Once a restriction becomes news, providers often formalize policy via public clarification to manage customer and investor expectations.",
+      "id": "0e85337b-83ab-4217-9b6e-6be95312326e",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-08-31, at least one of the five largest container carriers (Maersk, MSC, CMA CGM, COSCO, Hapag-Lloyd) will announce a new Middle East\u2013linked security/war-risk surcharge (or emergency operational surcharge) applicable to shipments transiting the Persian Gulf and/or Strait of Hormuz, explicitly citing conflict or security risk.",
+      "category": "markets",
+      "horizon_days": 148,
+      "deadline": "2026-08-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Carrier publishes a tariff/surcharge notice (website advisory or customer bulletin) that (a) introduces a new surcharge or reactivates one after 2026-04-05, (b) applies to Persian Gulf/Hormuz transits or named Gulf ports, and (c) explicitly cites security/war risk or the U.S.-Iran conflict as justification.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/04/us-iran-war-gas-prices-diesel-jet-fuel-economy-consumer-tax.html"
+      ],
+      "monitoring_signals": [
+        "Carrier customer advisories mentioning \u2018war risk\u2019, \u2018Hormuz\u2019, \u2018Persian Gulf\u2019",
+        "Freight rate indices showing sharp MEA premium moves",
+        "Marine insurers\u2019 war-risk pricing notes for Gulf transits"
+      ],
+      "rationale": "Surcharges are a standard pass-through mechanism when conflict raises insurance, routing, and delay risks in chokepoints.",
+      "id": "b13b5ee5-d89d-4e63-8b1b-2a1044617d0c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "On or before 2026-06-30, the EIA U.S. Gulf Coast kerosene-type jet fuel spot price will reach at least $3.75 per gallon on at least one business day.",
+      "category": "energy",
+      "horizon_days": 86,
+      "deadline": "2026-06-30",
+      "confidence_pct": 58,
+      "verification_criteria": "EIA (or FRED mirroring EIA) time series for U.S. Gulf Coast kerosene-type jet fuel spot price shows a daily value \u2265 3.75 (USD/gal) on any business day dated 2026-04-05 through 2026-06-30.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/04/us-iran-war-gas-prices-diesel-jet-fuel-economy-consumer-tax.html"
+      ],
+      "monitoring_signals": [
+        "EIA daily petroleum prices: jet fuel and ULSD spikes",
+        "Crack spread widening (jet/Brent)",
+        "Airline fuel-hedging commentary and route disruptions"
+      ],
+      "rationale": "Conflict-driven crude and middle-distillate tightness can transmit quickly into jet fuel pricing, especially if aviation rerouting increases burn.",
+      "id": "69f79df8-e5b9-436b-b516-f7d6d37783ee",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-06-30, the UK government (MoD/Foreign Office or a Minister in Parliament) will publicly confirm that U.S. combat operations related to the Iran conflict used RAF Lakenheath as a launch point or operational base (explicitly naming RAF Lakenheath).",
+      "category": "geopolitics",
+      "horizon_days": 86,
+      "deadline": "2026-06-30",
+      "confidence_pct": 44,
+      "verification_criteria": "Official UK source (Hansard transcript, MoD press release, or ministerial statement) explicitly states that operations related to the Iran conflict involved aircraft operating from RAF Lakenheath (or that RAF Lakenheath was used in that context). Must name \u2018RAF Lakenheath\u2019.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/04/world/middleeast/iran-war-fighter-jet-f15-raf-lakenheath.html"
+      ],
+      "monitoring_signals": [
+        "Hansard keyword searches: \u2018Lakenheath\u2019, \u2018Iran\u2019, \u2018sorties\u2019",
+        "MoD press briefings and written ministerial answers",
+        "UK parliamentary questions on basing and overflight permissions"
+      ],
+      "rationale": "High-profile reporting increases likelihood of parliamentary scrutiny and subsequent official acknowledgement or clarification.",
+      "id": "aba297e7-11c5-4e2b-b094-17361858b476",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, the U.S. Senate will confirm Kevin Warsh to a Federal Reserve leadership role (Chair, Vice Chair, or Governor) via a recorded confirmation vote.",
+      "category": "rates",
+      "horizon_days": 178,
+      "deadline": "2026-09-30",
+      "confidence_pct": 36,
+      "verification_criteria": "Senate roll-call vote (or voice vote recorded in Senate action log) shows confirmation of Kevin Warsh to a Federal Reserve Board seat or Chair/Vice Chair position on or before 2026-09-30; confirmation is publicly documented by the U.S. Senate and/or Federal Reserve.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/04/warsh-fed-nomination-hearing-set-for-mid-april.html"
+      ],
+      "monitoring_signals": [
+        "Senate Banking Committee executive session scheduling and vote",
+        "White House nomination paperwork and any re-nomination actions",
+        "Senate floor calendar placement for Warsh confirmation"
+      ],
+      "rationale": "A scheduled hearing suggests momentum, but Fed confirmations can stall due to politics and broader disputes over independence and policy direction.",
+      "id": "fb9aa4cc-be75-4db8-8a50-5dd9186e7306",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-05-15, the IRS \u2018Filing Season Statistics\u2019 weekly release will show the average tax refund amount (for the most recent week reported) is at least 10.0% higher than the comparable week in the prior year\u2019s filing season.",
+      "category": "macro",
+      "horizon_days": 40,
+      "deadline": "2026-05-15",
+      "confidence_pct": 41,
+      "verification_criteria": "IRS publishes a \u2018Filing Season Statistics\u2019 (or equivalent) table where the \u2018Average refund amount\u2019 for the latest week is \u2265 110% of the \u2018Average refund amount\u2019 shown for the comparable week in the prior year\u2019s series (as presented in the same release or IRS archive).",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html",
+        "https://www.nytimes.com/2026/02/27/your-money/irs-free-tax-filing.html"
+      ],
+      "monitoring_signals": [
+        "IRS weekly filing statistics (refunds, total dollars paid out)",
+        "Treasury/IRS statements on policy-driven refund changes",
+        "Tax prep firms\u2019 commentary on refund sizes and mix shift"
+      ],
+      "rationale": "Reported aggressive deduction strategies and tax changes can raise refund averages, but composition effects (income mix, EITC timing) add uncertainty.",
+      "id": "223c4679-e3d0-4980-892d-79a0b49a3d4a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, Apple will publicly announce at least one new named third-party generative-AI model provider integrated into Siri/Apple Intelligence (beyond any existing provider relationship), with the partner named in an Apple press release, keynote, or support documentation.",
+      "category": "tech",
+      "horizon_days": 178,
+      "deadline": "2026-09-30",
+      "confidence_pct": 43,
+      "verification_criteria": "Apple (apple.com newsroom, WWDC/iPhone event, or Apple Support documentation) explicitly names a new external AI model provider (company/brand) being integrated into Siri/Apple Intelligence features, where that provider was not previously publicly listed by Apple as an integrated model partner as of 2026-04-05.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html"
+      ],
+      "monitoring_signals": [
+        "WWDC/iOS 19 announcements and Apple Intelligence documentation updates",
+        "Apple support pages listing model providers/\u2018extensions\u2019",
+        "iOS beta release notes referencing new AI partners"
+      ],
+      "rationale": "If Apple is perceived as behind in AI, expanding partner models is a faster path than building full-stack capability alone, but Apple may prefer silent/limited disclosure.",
+      "id": "d2fde2df-3082-4188-a351-0840ff02e37b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, either Moody\u2019s or S&P will take a public negative credit-rating action (downgrade or outlook revision to Negative) on at least one publicly traded U.S. business development company (BDC) or alternative-credit manager, explicitly citing private-credit portfolio stress, refinancing risk, or valuation uncertainty.",
+      "category": "markets",
+      "horizon_days": 270,
+      "deadline": "2026-12-31",
+      "confidence_pct": 32,
+      "verification_criteria": "Moody\u2019s or S&P publishes a rating action where (a) the issuer is a publicly traded U.S. BDC or alternative-credit manager, (b) action is downgrade or outlook revised to Negative, and (c) rationale text explicitly mentions private-credit portfolio stress, refinancing risk, or valuation uncertainty as a key driver.",
+      "evidence": [
+        "https://www.marketwatch.com/story/private-credit-crisis-or-growing-pains-why-the-big-six-banks-are-a-safer-bet-ab4f5145"
+      ],
+      "monitoring_signals": [
+        "Rating-agency commentaries on direct lending and BDC NAV pressure",
+        "BDC quarterly reports showing non-accruals rising",
+        "Widening spreads in leveraged loans/private debt comparables"
+      ],
+      "rationale": "If the private-credit cycle turns, rating agencies often move first via outlook changes before broader market repricing, but timing is uncertain.",
+      "id": "43029767-6568-4bc2-a289-c59a871e95e4",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

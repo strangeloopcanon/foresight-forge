@@ -18,7 +18,7 @@
       ],
       "rationale": "If outages were conflict-linked and large, AWS typically issues some public summary; attribution wording is the key uncertainty.",
       "id": "0914c829-352e-4efa-acfa-3c5b6c2dfc12",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -38,7 +38,7 @@
       ],
       "rationale": "Large cloud outages often propagate into public-company disclosure when they affect regulated reporting, SLAs, or customer access.",
       "id": "13fe3fe0-7f95-4669-9112-405806142756",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Sustained missile threat usually drives visible defensive deployments; disclosure timing is uncertain.",
       "id": "66891f95-fa69-423b-b8f1-6fae3def64f7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "After high-profile outages, providers often message new resilience features; explicit conflict attribution is the uncertainty.",
       "id": "90f25732-fd2e-41bc-8653-f2f1cc715769",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "Revenue growth under existing curbs often triggers calls to close loopholes; timing depends on interagency process.",
       "id": "333e0cac-04d4-4744-ae3f-1d9da942314f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Lower-court divergence is rising, but cert grants are selective and timing is hard to predict.",
       "id": "2feb9938-7d4c-4557-87b0-4c80f100c44b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Power constraints are binding; 500 MW is achievable but disclosure may be partial or delayed.",
       "id": "80fdadcc-e5bd-4661-a7b8-ca6522455481",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Promising early clinical signals can trigger FDA expedited designations, but sponsor timing and FDA thresholds add uncertainty.",
       "id": "64736acb-5dde-4ce3-b612-8ea71053e2cd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "Quantum risk is increasingly cited, but committing to a specific migration deadline is politically and operationally harder.",
       "id": "69034efc-7364-4741-a8c3-a8d79877dec0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]
