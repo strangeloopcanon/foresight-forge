@@ -2371,3 +2371,12 @@ Several predictions are “structured-evidence” dependent: they require specif
 
 ---
 
+
+## 2026-04-05
+
+Most forecasts remain unresolved because they target specific regulatory, corporate, market-data, or ratings events with deadlines extending through mid-to-late 2026. Today’s coverage is dominated by escalation and operational details of the U.S.-Iran conflict (including the rescue of a downed U.S. pilot and heightened Strait of Hormuz rhetoric), but it does not include the concrete documentary triggers these predictions require (e.g., FAA SFAR text, a satellite provider transparency statement, a carrier surcharge notice, or an EIA price series print). 
+
+That said, the news flow increases the plausibility of several Middle East risk-linked predictions (FAA restrictions, shipping surcharges, and jet fuel price spikes) by reinforcing that the conflict is active and economically salient (e.g., airlines discussing surging fuel costs). The main gap is verification: to update statuses, we would need primary-source artifacts (FAA notices/NOTAMs/SFAR publications; official statements from Maxar/Planet/BlackSky/Airbus; carrier tariff/surcharge advisories; EIA spot price data; UK ministerial statements; Senate roll-call votes; IRS weekly tables; Apple documentation; and ratings agency releases).
+
+---
+

@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-05",
+  "assessments": [
+    {
+      "id": "3bb8750e-1e9d-4fa0-b9df-ca704935fafd",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items describe active U.S.-Iran conflict dynamics (e.g., downed/rescued airman, Trump statements) but do not provide evidence that the FAA has issued a new/amended SFAR or formal flight restriction explicitly expanding coverage to a Gulf-state FIR/airspace area."
+    },
+    {
+      "id": "0e85337b-83ab-4217-9b6e-6be95312326e",
+      "status": "pending",
+      "status_rationale": "No news bullet indicates Maxar/Planet/BlackSky/Airbus publicly confirmed restricting or delaying Middle East imagery due to a U.S. government request/directive."
+    },
+    {
+      "id": "b13b5ee5-d89d-4e63-8b1b-2a1044617d0c",
+      "status": "pending",
+      "status_rationale": "While several bullets reference the Iran war and the Strait of Hormuz, none show a named top-5 container carrier announcing a new Gulf/Hormuz security or war-risk surcharge explicitly citing conflict/security risk."
+    },
+    {
+      "id": "69f79df8-e5b9-436b-b516-f7d6d37783ee",
+      "status": "pending",
+      "status_rationale": "MarketWatch mentions surging gas prices amid the Iran war, but there is no cited EIA U.S. Gulf Coast kerosene-type jet fuel spot price data demonstrating a business-day print at or above $3.75/gal."
+    },
+    {
+      "id": "aba297e7-11c5-4e2b-b094-17361858b476",
+      "status": "pending",
+      "status_rationale": "No bullet shows a UK MoD/FCDO/ministerial confirmation that U.S. combat operations related to the Iran conflict used RAF Lakenheath as a launch point or operational base."
+    },
+    {
+      "id": "fb9aa4cc-be75-4db8-8a50-5dd9186e7306",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s news indicates the U.S. Senate has held a recorded confirmation vote confirming Kevin Warsh to a Fed leadership role."
+    },
+    {
+      "id": "223c4679-e3d0-4980-892d-79a0b49a3d4a",
+      "status": "pending",
+      "status_rationale": "No IRS \u2018Filing Season Statistics\u2019 weekly release data is provided in today\u2019s items to verify whether the average refund is \u226510% higher year-over-year for the comparable week."
+    },
+    {
+      "id": "d2fde2df-3082-4188-a351-0840ff02e37b",
+      "status": "pending",
+      "status_rationale": "The bullets include Apple-adjacent/AI tooling items (e.g., an iPhone app for Gemma 4) but no Apple press release/keynote/support documentation announcing a new named third-party gen-AI model provider integrated into Siri/Apple Intelligence."
+    },
+    {
+      "id": "43029767-6568-4bc2-a289-c59a871e95e4",
+      "status": "pending",
+      "status_rationale": "No bullet reports Moody\u2019s or S&P taking a negative rating action on a publicly traded U.S. BDC or alternative-credit manager citing private-credit portfolio stress/refinancing/valuation uncertainty."
+    }
+  ]
+}

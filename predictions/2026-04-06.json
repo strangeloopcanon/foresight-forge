@@ -1,0 +1,187 @@
+{
+  "date": "2026-04-06",
+  "predictions": [
+    {
+      "text": "By 2026-06-30, at least one major U.S. passenger airline (Delta, United, American, or JetBlue) will publicly announce a temporary suspension of service (cancellation of scheduled flights for \u22657 consecutive days) to at least one Gulf hub airport (DXB, AUH, DOH, RUH, JED, BAH, or KWI), explicitly citing security risk or regional conflict.",
+      "category": "markets",
+      "horizon_days": 85,
+      "deadline": "2026-06-30",
+      "confidence_pct": 46,
+      "verification_criteria": "Airline press release, investor update, or official travel advisory page states suspension/cancellation window lasting at least 7 consecutive days for at least one listed airport, with stated reason tied to security risk/conflict.",
+      "evidence": [
+        "https://www.marketwatch.com/story/delta-kicks-off-an-earnings-season-focused-on-surging-gas-prices-and-the-iran-war-4a4226fc",
+        "https://www.cnbc.com/2026/04/06/asia-markets-nikkei-225-crude-oil-trump-iran-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "Airline IR press releases and route/service advisories",
+        "FAA NOTAMs and international conflict-zone advisories affecting Gulf airspace",
+        "Carrier schedule changes in OAG/FlightAware summaries"
+      ],
+      "rationale": "If threat perceptions rise around Gulf airspace/airports, airlines often preemptively suspend routes to reduce risk and operational uncertainty.",
+      "id": "4ebb0188-00b1-456d-aa8d-59be067598e7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-05-15, Delta Air Lines will reduce or withdraw previously issued quarterly or full-year financial guidance (or issue a material caution) in an SEC filing or earnings release, explicitly citing higher fuel costs and/or Middle East conflict-related demand/operations impacts.",
+      "category": "markets",
+      "horizon_days": 39,
+      "deadline": "2026-05-15",
+      "confidence_pct": 42,
+      "verification_criteria": "Delta 8-K, earnings release, or investor presentation states guidance is lowered/withdrawn or ranges are reduced versus prior guidance, and explicitly attributes the change to fuel-cost increases and/or Middle East conflict impacts.",
+      "evidence": [
+        "https://www.marketwatch.com/story/delta-kicks-off-an-earnings-season-focused-on-surging-gas-prices-and-the-iran-war-4a4226fc"
+      ],
+      "monitoring_signals": [
+        "Delta earnings calendar and 8-K filings",
+        "Jet fuel and crude price spikes paired with management commentary",
+        "Peer airline guidance changes referencing fuel/geopolitics"
+      ],
+      "rationale": "Airlines are highly exposed to fuel volatility; geopolitical shocks often force near-term guidance adjustments.",
+      "id": "43527fd6-45f5-45af-ad49-11eb96a68db7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-05-31, the Lloyd\u2019s Market Association Joint War Committee (or equivalent Lloyd\u2019s body) will add at least one new geographic entry covering the Strait of Hormuz and/or Persian Gulf approaches to its publicly posted 'Listed Areas' for hull war, strikes, terrorism and related perils.",
+      "category": "markets",
+      "horizon_days": 55,
+      "deadline": "2026-05-31",
+      "confidence_pct": 40,
+      "verification_criteria": "A dated Lloyd\u2019s/JWC 'Listed Areas' document update (or official announcement) newly lists an area explicitly including 'Strait of Hormuz' or clearly defined Persian Gulf approach coordinates/areas not present in the prior version.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
+        "https://www.cnbc.com/2026/04/06/asia-markets-nikkei-225-crude-oil-trump-iran-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "LMA/JWC 'Listed Areas' update postings",
+        "War-risk premium quotes reported by shipping/insurance press",
+        "Major shipping firms\u2019 risk advisories for Gulf transits"
+      ],
+      "rationale": "Escalation risk around Hormuz often transmits quickly into marine insurance risk classifications.",
+      "id": "ac4cf676-ae8c-4bd5-97f9-a8d66a8cfcc0",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, EASA will publish at least one Conflict Zone Information Bulletin (CZIB) or equivalent formal safety communication that advises European operators to avoid or mitigate risks in at least one Gulf state FIR/airspace area (UAE, Qatar, Bahrain, Kuwait, Oman, or Saudi Arabia) due to heightened military/security risk.",
+      "category": "geopolitics",
+      "horizon_days": 85,
+      "deadline": "2026-06-30",
+      "confidence_pct": 37,
+      "verification_criteria": "EASA website posts a CZIB (or successor product) naming at least one listed Gulf FIR/airspace with avoidance/mitigation recommendations, and the stated rationale references conflict/military/security risk in the region.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/06/asia-markets-nikkei-225-crude-oil-trump-iran-hormuz.html"
+      ],
+      "monitoring_signals": [
+        "EASA CZIB publication feed and updates",
+        "EU member-state aviation authority notices referencing Gulf routes",
+        "Airline reroutings increasing track miles over alternative corridors"
+      ],
+      "rationale": "If risk persists or grows, European regulators commonly issue CZIBs to harmonize operator risk mitigation.",
+      "id": "2291c2cd-3d85-4d8d-83e0-d5ecaa6e5bc9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, the U.S. Department of Defense will announce (via press release, contract award notice, or official program update) a single new contract/OTA award of at least $300 million total value to a venture-backed defense-technology company focused on drones, counter-drone, ISR, or AI-enabled targeting.",
+      "category": "geopolitics",
+      "horizon_days": 177,
+      "deadline": "2026-09-30",
+      "confidence_pct": 51,
+      "verification_criteria": "DoD (or a service/DIU/AFWERX) posts an award notice showing total contract/OTA ceiling or award value \u2265$300,000,000 to a defense-tech startup/company, with description tied to drones, counter-UAS, ISR, or AI targeting.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/03/the-tech-download-defense-startups-eye-iran-war-windfall.html"
+      ],
+      "monitoring_signals": [
+        "Defense contract award feeds (SAM.gov, service announcements, DIU news)",
+        "Budget reprogramming notices tied to urgent operational needs",
+        "Public statements from leading defense startups about large program wins"
+      ],
+      "rationale": "Wartime demand and rapid acquisition pathways increase odds of a large award to non-traditional defense vendors.",
+      "id": "4fb6e13a-a777-4039-8d98-fcf6032ce51f",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-08-31, China will publish a nationwide rule or administrative measure requiring remote identification (Remote ID/electronic ID) for civilian drones, including an implementation date and at least one compliance obligation on manufacturers or operators.",
+      "category": "geopolitics",
+      "horizon_days": 147,
+      "deadline": "2026-08-31",
+      "confidence_pct": 44,
+      "verification_criteria": "A central Chinese authority (e.g., CAAC, MIIT, CAC, or State Council) issues a published rule/measure mandating drone Remote ID/electronic ID nationwide, specifying effective/implementation timing and compliance requirements.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/05/world/asia/china-drone-regulations.html"
+      ],
+      "monitoring_signals": [
+        "CAAC/MIIT/CAC regulatory postings and draft consultations",
+        "DJI and other manufacturer compliance notices for China market",
+        "Chinese state media reporting on drone governance rollouts"
+      ],
+      "rationale": "Tightening airspace control and domestic security priorities make standardized identification requirements a likely next step.",
+      "id": "091dd219-ad09-4201-bc1c-db4f7ac8dfc2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, SpaceX will submit a public U.S. regulatory filing (FCC application, experimental authorization request, or similar) that explicitly proposes an on-orbit computing and/or 'data center' technology demonstration, naming either a payload type or a partner organization.",
+      "category": "tech",
+      "horizon_days": 269,
+      "deadline": "2026-12-31",
+      "confidence_pct": 33,
+      "verification_criteria": "An FCC (or comparable U.S. regulator) filing attributable to SpaceX includes language explicitly describing on-orbit compute/data-center capability (not merely communications), and identifies a demo, payload, or partner.",
+      "evidence": [
+        "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/"
+      ],
+      "monitoring_signals": [
+        "FCC SpaceX application database and experimental license filings",
+        "SpaceX RFPs/job postings referencing in-space compute",
+        "Partner announcements from cloud or defense primes about orbital compute"
+      ],
+      "rationale": "If orbital data-center narratives are pursued, regulatory filings for experiments are an early observable milestone.",
+      "id": "d74b6247-9de3-4d19-b590-5cedb0496bf8",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, Anthropic will announce a new funding round or strategic investment with disclosed total new capital raised of at least $5.0 billion in the round (single announcement), per a company post or major investor press release.",
+      "category": "markets",
+      "horizon_days": 177,
+      "deadline": "2026-09-30",
+      "confidence_pct": 48,
+      "verification_criteria": "Anthropic (or a lead investor) publicly announces a financing and states total capital raised in that round is \u2265$5.0B (not cumulative across multiple rounds), in a press release, blog, or SEC filing by an investor.",
+      "evidence": [
+        "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic"
+      ],
+      "monitoring_signals": [
+        "Company/investor press releases and filings",
+        "Credible reporting later confirmed by official announcement",
+        "Large cloud partnership expansions that commonly accompany mega-rounds"
+      ],
+      "rationale": "Investor rotation and escalating compute needs increase the likelihood of another very large capital raise.",
+      "id": "174b959b-d997-499c-a60b-d6292e8f92b6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, the NSIDC (or a comparable authoritative dataset, e.g., Copernicus/ECMWF summaries) will report that the 2026 Arctic sea-ice minimum (annual lowest daily extent) ranks within the five lowest minima in the satellite record since 1979.",
+      "category": "other",
+      "horizon_days": 177,
+      "deadline": "2026-09-30",
+      "confidence_pct": 34,
+      "verification_criteria": "NSIDC (or equivalent) publishes the 2026 annual minimum extent value and a ranking statement or data enabling ranking, showing 2026 is in the lowest five minima since 1979.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/04/260404191033.htm"
+      ],
+      "monitoring_signals": [
+        "NSIDC Sea Ice Index daily extent and seasonal analyses",
+        "Arctic temperature anomaly reports (NOAA, Copernicus)",
+        "Persistent low extent during July\u2013September 2026"
+      ],
+      "rationale": "Reported rapid Arctic thaw increases the chance that 2026 ends up among historically low sea-ice years, though interannual variability remains high.",
+      "id": "ceac99f0-8d89-42b5-bcc8-4deef1efe517",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

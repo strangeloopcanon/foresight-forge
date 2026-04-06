@@ -20,7 +20,7 @@
       ],
       "rationale": "FAA commonly escalates from advisories to SFARs when conflict creates sustained risk to civil aviation; reported interception/debris incidents near UAE increase odds of broader airspace risk actions.",
       "id": "3bb8750e-1e9d-4fa0-b9df-ca704935fafd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Once a restriction becomes news, providers often formalize policy via public clarification to manage customer and investor expectations.",
       "id": "0e85337b-83ab-4217-9b6e-6be95312326e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Surcharges are a standard pass-through mechanism when conflict raises insurance, routing, and delay risks in chokepoints.",
       "id": "b13b5ee5-d89d-4e63-8b1b-2a1044617d0c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -80,7 +80,7 @@
       ],
       "rationale": "Conflict-driven crude and middle-distillate tightness can transmit quickly into jet fuel pricing, especially if aviation rerouting increases burn.",
       "id": "69f79df8-e5b9-436b-b516-f7d6d37783ee",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -100,7 +100,7 @@
       ],
       "rationale": "High-profile reporting increases likelihood of parliamentary scrutiny and subsequent official acknowledgement or clarification.",
       "id": "aba297e7-11c5-4e2b-b094-17361858b476",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "rationale": "A scheduled hearing suggests momentum, but Fed confirmations can stall due to politics and broader disputes over independence and policy direction.",
       "id": "fb9aa4cc-be75-4db8-8a50-5dd9186e7306",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -141,7 +141,7 @@
       ],
       "rationale": "Reported aggressive deduction strategies and tax changes can raise refund averages, but composition effects (income mix, EITC timing) add uncertainty.",
       "id": "223c4679-e3d0-4980-892d-79a0b49a3d4a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -161,7 +161,7 @@
       ],
       "rationale": "If Apple is perceived as behind in AI, expanding partner models is a faster path than building full-stack capability alone, but Apple may prefer silent/limited disclosure.",
       "id": "d2fde2df-3082-4188-a351-0840ff02e37b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -181,7 +181,7 @@
       ],
       "rationale": "If the private-credit cycle turns, rating agencies often move first via outlook changes before broader market repricing, but timing is uncertain.",
       "id": "43029767-6568-4bc2-a289-c59a871e95e4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
