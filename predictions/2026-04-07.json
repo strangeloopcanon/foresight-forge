@@ -1,0 +1,206 @@
+{
+  "date": "2026-04-07",
+  "predictions": [
+    {
+      "text": "By 2026-09-30, the U.S. Treasury (OFAC) will designate at least one India-based company (including a refiner, shipowner, trader, or financial intermediary) under an Iran-related sanctions program for transactions involving Iranian crude oil or petroleum products.",
+      "category": "geopolitics",
+      "horizon_days": 176,
+      "deadline": "2026-09-30",
+      "confidence_pct": 34,
+      "verification_criteria": "An OFAC press release or SDN list update names an India-based entity and cites Iranian petroleum transactions (e.g., E.O. 13846, IFCA, or similar Iran sanctions authorities).",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/06/india-iran-oil-imports-strait-hormuz-us-tensions.html"
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN list updates mentioning India",
+        "U.S. State Department Iran sanctions announcements",
+        "Shipping/trade press reports on India-Iran crude flows and payment channels"
+      ],
+      "rationale": "Renewed India-Iran energy trade increases the odds of targeted U.S. enforcement to deter sanctioned petroleum flows, especially if diplomacy stalls.",
+      "id": "2a8ad688-e0b4-44fa-b52e-095a78e0c984",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-06-30, UKMTO (or the Combined Maritime Forces / U.S. Navy) will publish an incident update confirming at least one commercial vessel sustained physical damage (fire, flooding, or structural damage) from a missile/drone/mine attack in the Strait of Hormuz or within the Persian Gulf.",
+      "category": "geopolitics",
+      "horizon_days": 84,
+      "deadline": "2026-06-30",
+      "confidence_pct": 47,
+      "verification_criteria": "A UKMTO advisory/incident report or official CMF/U.S. Navy statement explicitly states a commercial ship was struck and damaged in the specified geography.",
+      "evidence": [
+        "https://www.marketwatch.com/story/strait-of-hormuz-sees-increased-ship-traffic-ahead-of-trumps-deadline-heres-why-oil-prices-are-not-budging-25a8c2f2",
+        "https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html"
+      ],
+      "monitoring_signals": [
+        "UKMTO daily advisories and incident updates",
+        "CMF/CENTCOM maritime statements",
+        "Lloyd\u2019s List / Tradewinds reports corroborating damage and location"
+      ],
+      "rationale": "Escalation risk around Hormuz increases the chance of kinetic incidents affecting shipping even if markets initially underprice disruption.",
+      "id": "185c9053-d87b-4fd3-9213-77445096ed03",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, at least one of Marsh, Aon, or WTW will publish a public market update stating U.S. data-center property insurance pricing increased by at least 20% year-over-year, with AI/GPU concentration cited as a key driver.",
+      "category": "markets",
+      "horizon_days": 268,
+      "deadline": "2026-12-31",
+      "confidence_pct": 52,
+      "verification_criteria": "A publicly accessible broker report (press release, index, or white paper) explicitly quantifies YoY pricing for U.S. data-center property coverage at \u226520% and attributes it in part to AI buildout/GPU risk.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html"
+      ],
+      "monitoring_signals": [
+        "Marsh Global Insurance Market Index and sector notes",
+        "Aon Market Dynamics / Reinsurance Market Outlook",
+        "WTW marketplace updates referencing data centers or digital infrastructure"
+      ],
+      "rationale": "Rapid AI data-center expansion and high-value equipment concentration should pressure underwriting and drive observable price hardening.",
+      "id": "c9269bae-824b-41b9-b262-74181444d68b",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, Broadcom will report (in an earnings release or investor presentation) quarterly AI-related revenue of at least $6.0 billion in at least one fiscal quarter.",
+      "category": "markets",
+      "horizon_days": 268,
+      "deadline": "2026-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "Broadcom explicitly discloses AI-related revenue (or AI semiconductor revenue) in a quarterly results release/presentation and the figure for a single quarter is \u2265$6.0B.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html"
+      ],
+      "monitoring_signals": [
+        "Broadcom quarterly earnings releases and transcripts",
+        "Investor presentations referencing AI revenue run-rate",
+        "Hyperscaler custom silicon program announcements naming Broadcom"
+      ],
+      "rationale": "Expanded hyperscaler engagements and custom compute demand make a step-up in disclosed AI revenue plausible within 2026.",
+      "id": "dfb3c2c3-bd51-4ed4-b0a5-41a845c1e80b",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-10-31, Samsung Electronics will report quarterly operating profit of at least 15 trillion KRW in at least one quarterly earnings release (preliminary or final).",
+      "category": "markets",
+      "horizon_days": 207,
+      "deadline": "2026-10-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Samsung\u2019s quarterly preliminary results or final earnings release shows operating profit (\uc601\uc5c5\uc774\uc775) \u2265 15T KRW for a single quarter reported on or before the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html"
+      ],
+      "monitoring_signals": [
+        "Samsung preliminary earnings announcements",
+        "Memory price/contract trend reports and HBM supply commentary",
+        "Major customer ramp news (AI accelerators, server OEMs)"
+      ],
+      "rationale": "AI-driven memory demand (including HBM) increases the odds of a profit surge reaching historically high quarterly levels.",
+      "id": "4a2a340b-904b-4a91-b73a-5393f9548caa",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. Office of Management and Budget (OMB) will issue a public memorandum setting government-wide deadlines for migration to NIST post-quantum cryptography (PQC), including at least one required milestone date in 2028 or earlier.",
+      "category": "tech",
+      "horizon_days": 268,
+      "deadline": "2026-12-31",
+      "confidence_pct": 50,
+      "verification_criteria": "An OMB memo published on whitehouse.gov/omb (or a Federal Register notice by OMB) mandates PQC migration steps and includes at least one dated milestone in 2028 or earlier (e.g., inventory, procurement constraints, or deployment deadlines).",
+      "evidence": [
+        "https://words.filippo.io/crqc-timeline/"
+      ],
+      "monitoring_signals": [
+        "OMB memoranda releases and cybersecurity policy updates",
+        "CISA/FedRAMP guidance updates referencing PQC",
+        "Agency procurement language requiring PQC-capable products"
+      ],
+      "rationale": "Long deployment cycles and rising policy urgency make an OMB-driven schedule likely even if practical quantum threats remain years out.",
+      "id": "a86bc64f-e9ec-46e6-b645-894e2400c0cb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. Department of Justice will unseal an indictment charging at least one individual with leadership or core operational roles in REvil or GandCrab, and the indictment will explicitly name the gang (REvil and/or GandCrab).",
+      "category": "tech",
+      "horizon_days": 268,
+      "deadline": "2026-12-31",
+      "confidence_pct": 39,
+      "verification_criteria": "A DOJ press release and accompanying court filing (complaint/indictment) names REvil and/or GandCrab and charges at least one defendant described as a leader/administrator/operator (not merely a low-level affiliate).",
+      "evidence": [
+        "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
+      ],
+      "monitoring_signals": [
+        "DOJ Cyber/District press releases and unsealed dockets",
+        "Europol/Interpol coordinated action announcements",
+        "Treasury cyber-related sanctions updates that precede indictments"
+      ],
+      "rationale": "Cross-border identification efforts increase the chance of coordinated indictments targeting higher-level ransomware operators.",
+      "id": "bdbf5ed2-94ce-4f06-8b11-bc117adcb6f3",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, at least one Salton Sea-region direct lithium extraction (DLE) project will announce either (a) final investment decision (FID) or (b) financial close for a commercial facility with planned capacity of at least 20,000 metric tons per year LCE.",
+      "category": "energy",
+      "horizon_days": 268,
+      "deadline": "2026-12-31",
+      "confidence_pct": 37,
+      "verification_criteria": "A company press release (or a DOE/LPO announcement) states FID/financial close for a Salton Sea-area DLE facility and specifies planned capacity \u226520,000 tpa LCE (or an equivalent lithium carbonate equivalent metric).",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/06/us/imperial-valley-salton-sea-lithium.html"
+      ],
+      "monitoring_signals": [
+        "DOE Loan Programs Office announcements",
+        "California permitting updates and local agency approvals",
+        "Project-level EPC contract awards and offtake announcements"
+      ],
+      "rationale": "Supply-chain urgency and policy support raise the probability of a bankable milestone, though permitting and technology risk remain constraints.",
+      "id": "f428581c-f2df-47da-a143-4db30adb6750",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, at least one top-20 U.S. investor-owned electric utility (by customers served) will disclose in a 10-Q/10-K that residential bad-debt expense increased by at least 25% year-over-year for a quarter, and it will cite reduced federal bill-assistance funding (e.g., LIHEAP or similar) as a contributing factor.",
+      "category": "macro",
+      "horizon_days": 268,
+      "deadline": "2026-12-31",
+      "confidence_pct": 42,
+      "verification_criteria": "A utility SEC filing explicitly reports a YoY residential bad-debt increase \u226525% for a quarter and links the increase to reduced federal energy assistance funding.",
+      "evidence": [
+        "https://www.marketwatch.com/story/trump-moves-to-scrap-utility-bill-aid-for-americans-as-soaring-energy-costs-hit-over-1-000-on-average-this-winter-1c486251"
+      ],
+      "monitoring_signals": [
+        "Utility 10-Q/10-K disclosures on uncollectibles and arrearages",
+        "State PUC dockets on disconnections and arrears",
+        "Federal budget/appropriations updates for energy assistance programs"
+      ],
+      "rationale": "If bill assistance is reduced amid high energy burdens, utilities are likely to report measurable increases in delinquencies and bad-debt expense.",
+      "id": "172f0447-9fc4-4df1-ba35-70dcd20a60ee",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-08-31, JPMorgan Chase will report (in a 10-Q, earnings release, or supplemental materials) that its total provision for credit losses (PCL) for a single quarter is at least 30% higher than the immediately preceding quarter, with commentary that explicitly references private-credit, private-market valuation, or leveraged lending risks as a factor.",
+      "category": "macro",
+      "horizon_days": 146,
+      "deadline": "2026-08-31",
+      "confidence_pct": 33,
+      "verification_criteria": "JPM\u2019s quarterly disclosure shows PCL up \u226530% QoQ and management commentary explicitly connects provisioning/risk outlook to private-credit/private-market valuation or leveraged lending stress.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html"
+      ],
+      "monitoring_signals": [
+        "JPM quarterly earnings releases and 10-Q filings",
+        "Management commentary on credit migration and mark-to-market exposures",
+        "Market indicators: CLO spreads, private-credit fund gating headlines, leveraged loan downgrades"
+      ],
+      "rationale": "If private-market liquidity and valuation concerns intensify, large banks may reflect it via higher provisioning and explicit risk-factor commentary.",
+      "id": "711defe6-8a62-4eb6-a7a0-953da3e26c9b",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

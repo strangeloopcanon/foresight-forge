@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-06",
+  "assessments": [
+    {
+      "id": "4ebb0188-00b1-456d-aa8d-59be067598e7",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items reference escalating Iran-related tensions and Strait of Hormuz dynamics, but do not report any major U.S. passenger airline publicly announcing a \u22657-day suspension of service to a listed Gulf hub explicitly citing security risk or regional conflict."
+    },
+    {
+      "id": "43527fd6-45f5-45af-ad49-11eb96a68db7",
+      "status": "pending",
+      "status_rationale": "No earnings release or SEC filing is cited in today\u2019s bullets indicating Delta reduced/withdrew guidance or issued a material caution explicitly tied to higher fuel costs and/or Middle East conflict impacts."
+    },
+    {
+      "id": "ac4cf676-ae8c-4bd5-97f9-a8d66a8cfcc0",
+      "status": "pending",
+      "status_rationale": "While several stories discuss the Strait of Hormuz and oil/shipping conditions, there is no evidence here that Lloyd\u2019s/JWC added a new 'Listed Areas' geographic entry covering the Strait of Hormuz/Persian Gulf approaches."
+    },
+    {
+      "id": "2291c2cd-3d85-4d8d-83e0-d5ecaa6e5bc9",
+      "status": "pending",
+      "status_rationale": "No referenced EASA Conflict Zone Information Bulletin (CZIB) or equivalent formal safety communication appears in today\u2019s bullets advising avoidance/mitigations in Gulf state airspace due to heightened security risk."
+    },
+    {
+      "id": "4fb6e13a-a777-4039-8d98-fcf6032ce51f",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage does not include a DoD announcement of a single new \u2265$300M contract/OTA to a venture-backed defense-tech company focused on drones/counter-drone/ISR/AI targeting."
+    },
+    {
+      "id": "091dd219-ad09-4201-bc1c-db4f7ac8dfc2",
+      "status": "pending",
+      "status_rationale": "No China nationwide rule/administrative measure on mandatory Remote ID for civilian drones is described in today\u2019s bullets."
+    },
+    {
+      "id": "d74b6247-9de3-4d19-b590-5cedb0496bf8",
+      "status": "pending",
+      "status_rationale": "There is no mention today of a SpaceX public U.S. regulatory filing (e.g., FCC) explicitly proposing an on-orbit computing/data-center technology demonstration with a named payload type or partner."
+    },
+    {
+      "id": "174b959b-d997-499c-a60b-d6292e8f92b6",
+      "status": "pending",
+      "status_rationale": "The Broadcom items mention expanded chip deals with Google and Anthropic, but do not indicate Anthropic announced a new funding round/strategic investment raising \u2265$5B in disclosed new capital."
+    },
+    {
+      "id": "ceac99f0-8d89-42b5-bcc8-4deef1efe517",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not include NSIDC (or comparable dataset) reporting about the 2026 Arctic sea-ice minimum ranking within the five lowest minima; this is also seasonally premature relative to the usual September minimum."
+    }
+  ]
+}

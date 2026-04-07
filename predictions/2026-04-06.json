@@ -19,7 +19,7 @@
       ],
       "rationale": "If threat perceptions rise around Gulf airspace/airports, airlines often preemptively suspend routes to reduce risk and operational uncertainty.",
       "id": "4ebb0188-00b1-456d-aa8d-59be067598e7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Airlines are highly exposed to fuel volatility; geopolitical shocks often force near-term guidance adjustments.",
       "id": "43527fd6-45f5-45af-ad49-11eb96a68db7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Escalation risk around Hormuz often transmits quickly into marine insurance risk classifications.",
       "id": "ac4cf676-ae8c-4bd5-97f9-a8d66a8cfcc0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -80,7 +80,7 @@
       ],
       "rationale": "If risk persists or grows, European regulators commonly issue CZIBs to harmonize operator risk mitigation.",
       "id": "2291c2cd-3d85-4d8d-83e0-d5ecaa6e5bc9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -100,7 +100,7 @@
       ],
       "rationale": "Wartime demand and rapid acquisition pathways increase odds of a large award to non-traditional defense vendors.",
       "id": "4fb6e13a-a777-4039-8d98-fcf6032ce51f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "rationale": "Tightening airspace control and domestic security priorities make standardized identification requirements a likely next step.",
       "id": "091dd219-ad09-4201-bc1c-db4f7ac8dfc2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "rationale": "If orbital data-center narratives are pursued, regulatory filings for experiments are an early observable milestone.",
       "id": "d74b6247-9de3-4d19-b590-5cedb0496bf8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -160,7 +160,7 @@
       ],
       "rationale": "Investor rotation and escalating compute needs increase the likelihood of another very large capital raise.",
       "id": "174b959b-d997-499c-a60b-d6292e8f92b6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -180,7 +180,7 @@
       ],
       "rationale": "Reported rapid Arctic thaw increases the chance that 2026 ends up among historically low sea-ice years, though interannual variability remains high.",
       "id": "ceac99f0-8d89-42b5-bcc8-4deef1efe517",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

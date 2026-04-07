@@ -1,0 +1,134 @@
+{
+  "bullets": [
+    {
+      "text": "Trump signals Iran cease-fire proposal is \u201csignificant\u201d but insufficient; deadline tied to potential strikes on Iranian infrastructure raises escalation risk.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/06/trump-iran-war-ceasefire-hormuz-strait.html"
+    },
+    {
+      "text": "Iran\u2019s 10-point proposal demands end to attacks and sanctions, highlighting sanctions relief as central bargaining chip for de-escalation.",
+      "tags": [
+        "geopolitics",
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/04/06/world/middleeast/iran-10-point-proposal.html"
+    },
+    {
+      "text": "Hormuz shipping traffic rises ahead of U.S. deadline, yet oil prices initially muted\u2014market pricing implies limited disruption or ample spare supply/stock buffers.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.marketwatch.com/story/strait-of-hormuz-sees-increased-ship-traffic-ahead-of-trumps-deadline-heres-why-oil-prices-are-not-budging-25a8c2f2"
+    },
+    {
+      "text": "Oil prices tick up as Trump reaffirms strike deadline, underscoring geopolitics-driven risk premium for crude and shipping insurance costs.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/07/crude-oil-prices-today-iran-war-strait-hormuz-tuesday-deadline.html"
+    },
+    {
+      "text": "India resumes Iran oil and gas buying after 7 years, signaling limits to U.S.-aligned energy policy and potential sanctions-compliance tensions.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/06/india-iran-oil-imports-strait-hormuz-us-tensions.html"
+    },
+    {
+      "text": "Broadcom expands chip/compute deals with Google and Anthropic, reinforcing custom silicon demand and supply-chain leverage amid AI infrastructure buildout.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html"
+    },
+    {
+      "text": "Samsung forecasts record earnings on AI memory/chip demand, supporting thesis that AI capex is sustaining semiconductor cycle despite macro uncertainty.",
+      "tags": [
+        "tech",
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/07/samsung-shares-rise-nearly-5percent-on-record-breaking-earnings-forecast-buoyed-by-ai-chip-demand.html"
+    },
+    {
+      "text": "AI data-center boom is \u201cstress testing\u201d insurers as private capital floods in, raising concerns about concentration, catastrophe exposure, and opaque private-market risk.",
+      "tags": [
+        "markets",
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html"
+    },
+    {
+      "text": "Jamie Dimon flags compounded risks from geopolitics, AI, and private markets\u2014echoing growing worries about liquidity mismatches in private credit.",
+      "tags": [
+        "macro",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/06/jpmorgan-ceo-jamie-dimon-annual-letter-risks.html"
+    },
+    {
+      "text": "Trump administration finalizes better-than-feared Medicare Advantage rate, a near-term earnings tailwind for health insurers and a signal of moderated reimbursement pressure.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/06/trump-medicare-advantage.html"
+    },
+    {
+      "text": "Move to scrap U.S. utility-bill aid amid high winter energy costs could worsen household energy burden and arrears, with knock-on effects for local economies and utilities.",
+      "tags": [
+        "macro",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.marketwatch.com/story/trump-moves-to-scrap-utility-bill-aid-for-americans-as-soaring-energy-costs-hit-over-1-000-on-average-this-winter-1c486251"
+    },
+    {
+      "text": "Germany identifies alleged leaders of major ransomware gangs (REvil/GandCrab), showing increased cross-border law-enforcement pressure on cybercrime ecosystems.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/"
+    },
+    {
+      "text": "Cryptography analysis argues practical quantum threats to widely used public-key systems likely remain years away, but migration planning is urgent due to long deployment cycles.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://words.filippo.io/crqc-timeline/"
+    },
+    {
+      "text": "Salton Sea region\u2019s lithium potential could strengthen U.S. battery supply chains, but scaling hinges on water, permitting, and extraction economics.",
+      "tags": [
+        "energy",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/06/us/imperial-valley-salton-sea-lithium.html"
+    },
+    {
+      "text": "Artemis II\u2019s lunar flyby advances deep-space operations experience, benefiting long-horizon science and space-industrial supply chains tied to NASA procurement.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencenews.org/article/nasa-artemis-astronauts-farside-moon-blog"
+    }
+  ]
+}
