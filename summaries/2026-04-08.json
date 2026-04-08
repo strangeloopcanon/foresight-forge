@@ -1,0 +1,109 @@
+{
+  "bullets": [
+    {
+      "text": "U.S. and Iran agree to a provisional two-week ceasefire and plan to reopen safe passage through the Strait of Hormuz, easing immediate global supply fears.",
+      "tags": [
+        "geopolitics",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/07/trump-iran-ceasefire-hormuz-strait.html"
+    },
+    {
+      "text": "Oil prices plunge below $100 on Hormuz safe-passage pledge; energy shock risk drops short term but remains hostage to ceasefire durability.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/07/oil-prices-iran-war-trump-deadline-strait-hormuz.html"
+    },
+    {
+      "text": "Risk assets rally on ceasefire news: stock futures rise as oil falls, highlighting how Middle East escalation primarily transmits via energy and shipping chokepoints.",
+      "tags": [
+        "markets",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories"
+    },
+    {
+      "text": "Investor calm may be fragile: commentary warns markets could reprice sharply if Iran conflict resumes or Hormuz is threatened again.",
+      "tags": [
+        "markets",
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.marketwatch.com/story/the-iran-conflict-isnt-panicking-investors-yet-thats-about-to-change-e7f51dad?mod=mw_rss_topstories"
+    },
+    {
+      "text": "U.S. domestic fallout: proposals to boost defense spending by cutting popular programs signal a shift in fiscal priorities and potential drag on households and state budgets.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/07/us/politics/trump-budget-cuts.html"
+    },
+    {
+      "text": "Administration plans to cut CISA\u2019s budget by $700M, potentially weakening federal cyber defense as geopolitically motivated hacking and critical-infrastructure targeting intensify.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/"
+    },
+    {
+      "text": "U.S. agencies warn Iranian hackers are targeting American critical infrastructure, elevating operational risk for utilities, transport, and cloud services during regional conflict.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://techcrunch.com/2026/04/07/iranian-hackers-are-targeting-american-critical-infrastructure-u-s-agencies-warn/"
+    },
+    {
+      "text": "Anthropic previews Mythos as a cybersecurity-focused model but limits rollout over misuse concerns, underscoring the tradeoff between capability deployment and security externalities.",
+      "tags": [
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/04/07/anthropic-claude-mythos-ai-hackers-cyberattacks.html"
+    },
+    {
+      "text": "Tariff escalation spurs trade fraud and accounting tricks, suggesting compliance/enforcement gaps that can distort import data, corporate margins, and tariff revenue expectations.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.nytimes.com/2026/04/07/us/politics/tariffs-trade-import-fraud.html"
+    },
+    {
+      "text": "Jet-fuel supply concerns ripple to consumers: airlines raise checked-bag fees and cut flights, showing how energy volatility quickly feeds into service-sector inflation.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/07/delta-checked-bag-fees.html"
+    },
+    {
+      "text": "Scientists map brain wiring using RNA barcodes, a major neuroscience methods advance that could accelerate circuit-level disease research and next-generation brain atlases.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm"
+    },
+    {
+      "text": "Reversible male birth control that halts sperm production is reported, potentially expanding contraceptive options and shifting public-health and pharma-market dynamics if validated in humans.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407193844.htm"
+    },
+    {
+      "text": "New chip survives 700\u00b0C (1300\u00b0F), enabling electronics in extreme environments and potentially improving data-center/AI hardware resilience and industrial sensing.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm"
+    }
+  ]
+}

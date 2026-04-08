@@ -18,7 +18,7 @@
       ],
       "rationale": "Renewed India-Iran energy trade increases the odds of targeted U.S. enforcement to deter sanctioned petroleum flows, especially if diplomacy stalls.",
       "id": "2a8ad688-e0b4-44fa-b52e-095a78e0c984",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Escalation risk around Hormuz increases the chance of kinetic incidents affecting shipping even if markets initially underprice disruption.",
       "id": "185c9053-d87b-4fd3-9213-77445096ed03",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -59,7 +59,7 @@
       ],
       "rationale": "Rapid AI data-center expansion and high-value equipment concentration should pressure underwriting and drive observable price hardening.",
       "id": "c9269bae-824b-41b9-b262-74181444d68b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "rationale": "Expanded hyperscaler engagements and custom compute demand make a step-up in disclosed AI revenue plausible within 2026.",
       "id": "dfb3c2c3-bd51-4ed4-b0a5-41a845c1e80b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -99,7 +99,7 @@
       ],
       "rationale": "AI-driven memory demand (including HBM) increases the odds of a profit surge reaching historically high quarterly levels.",
       "id": "4a2a340b-904b-4a91-b73a-5393f9548caa",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "rationale": "Long deployment cycles and rising policy urgency make an OMB-driven schedule likely even if practical quantum threats remain years out.",
       "id": "a86bc64f-e9ec-46e6-b645-894e2400c0cb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -139,7 +139,7 @@
       ],
       "rationale": "Cross-border identification efforts increase the chance of coordinated indictments targeting higher-level ransomware operators.",
       "id": "bdbf5ed2-94ce-4f06-8b11-bc117adcb6f3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -159,7 +159,7 @@
       ],
       "rationale": "Supply-chain urgency and policy support raise the probability of a bankable milestone, though permitting and technology risk remain constraints.",
       "id": "f428581c-f2df-47da-a143-4db30adb6750",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -179,7 +179,7 @@
       ],
       "rationale": "If bill assistance is reduced amid high energy burdens, utilities are likely to report measurable increases in delinquencies and bad-debt expense.",
       "id": "172f0447-9fc4-4df1-ba35-70dcd20a60ee",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -199,7 +199,7 @@
       ],
       "rationale": "If private-market liquidity and valuation concerns intensify, large banks may reflect it via higher provisioning and explicit risk-factor commentary.",
       "id": "711defe6-8a62-4eb6-a7a0-953da3e26c9b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

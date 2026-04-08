@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-07",
+  "assessments": [
+    {
+      "id": "2a8ad688-e0b4-44fa-b52e-095a78e0c984",
+      "status": "pending",
+      "status_rationale": "Today\u2019s items focus on U.S.-Iran conflict dynamics and market reactions, but do not report any OFAC designation of an India-based company under an Iran-related sanctions program for Iranian crude/petroleum transactions."
+    },
+    {
+      "id": "185c9053-d87b-4fd3-9213-77445096ed03",
+      "status": "pending",
+      "status_rationale": "Although multiple stories discuss the Strait of Hormuz and the Iran war, none of the provided bullets indicate a UKMTO/CMF/U.S. Navy incident update confirming physical damage to a commercial vessel from missile/drone/mine attack in the Strait or Persian Gulf."
+    },
+    {
+      "id": "c9269bae-824b-41b9-b262-74181444d68b",
+      "status": "pending",
+      "status_rationale": "No referenced Marsh, Aon, or WTW market update is included in today\u2019s bullets, and there is no evidence here of a \u226520% YoY increase in U.S. data-center property insurance pricing tied to AI/GPU concentration."
+    },
+    {
+      "id": "dfb3c2c3-bd51-4ed4-b0a5-41a845c1e80b",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news bullets do not include Broadcom earnings or investor materials, and provide no evidence of quarterly AI-related revenue reaching $6.0B."
+    },
+    {
+      "id": "4a2a340b-904b-4a91-b73a-5393f9548caa",
+      "status": "pending",
+      "status_rationale": "No Samsung quarterly earnings (preliminary or final) are cited in today\u2019s bullets; therefore there is no evidence regarding a \u226515 trillion KRW quarterly operating profit."
+    },
+    {
+      "id": "a86bc64f-e9ec-46e6-b645-894e2400c0cb",
+      "status": "pending",
+      "status_rationale": "None of the provided items mention an OMB memorandum establishing government-wide post-quantum cryptography migration deadlines or milestones in 2028 or earlier."
+    },
+    {
+      "id": "bdbf5ed2-94ce-4f06-8b11-bc117adcb6f3",
+      "status": "pending",
+      "status_rationale": "While there is a DOJ-related political/civil-rights headline in today\u2019s bullets, there is no reference to an unsealed indictment naming REvil and/or GandCrab leadership or core operators."
+    },
+    {
+      "id": "f428581c-f2df-47da-a143-4db30adb6750",
+      "status": "pending",
+      "status_rationale": "No Salton Sea-region DLE project announcement (FID or financial close) is mentioned in today\u2019s bullets, and there is no evidence of a \u226520,000 tpy LCE commercial facility commitment."
+    },
+    {
+      "id": "172f0447-9fc4-4df1-ba35-70dcd20a60ee",
+      "status": "pending",
+      "status_rationale": "The utility-related bullet is political (Phoenix activism) and not a utility 10-Q/10-K disclosure; there is no evidence here of a \u226525% YoY rise in residential bad-debt expense tied to reduced federal bill-assistance funding."
+    },
+    {
+      "id": "711defe6-8a62-4eb6-a7a0-953da3e26c9b",
+      "status": "pending",
+      "status_rationale": "No JPMorgan 10-Q/earnings/supplemental disclosure appears in today\u2019s bullets, and there is no evidence of a \u226530% quarter-over-quarter PCL jump explicitly referencing private-credit/private-market valuation/leveraged lending risks."
+    }
+  ]
+}

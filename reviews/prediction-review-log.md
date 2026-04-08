@@ -2389,3 +2389,12 @@ On the technology/defense side, the only directly adjacent item is the Broadcom 
 
 ---
 
+
+## 2026-04-07
+
+Today’s news flow is dominated by the Iran conflict and its implications for the Strait of Hormuz (including cease-fire/safe-passage framing) and immediate market impacts (oil down, futures up). This meaningfully increases the relevance of the maritime-incident forecast, but the provided coverage does not contain the specific confirming artifact required by the prediction (a UKMTO/CMF/U.S. Navy incident update confirming physical damage to a commercial vessel caused by missile/drone/mine attack).
+
+The remaining forecasts (OFAC designations involving India-based entities, cyber indictments naming REvil/GandCrab, OMB PQC deadlines, corporate/insurance metrics, lithium project financing, utility bad-debt disclosures, and JPMorgan provisioning dynamics) are not addressed by the supplied bullets. As a result, none can be moved to “correct” or “incorrect” based on clear evidence in today’s items; all remain pending awaiting qualifying disclosures or official releases.
+
+---
+

@@ -1,0 +1,203 @@
+{
+  "date": "2026-04-08",
+  "predictions": [
+    {
+      "text": "By 2026-04-22, the U.S. and Iran will publicly announce an extension of the provisional ceasefire (i.e., an explicit statement that the ceasefire continues beyond the initial two-week period).",
+      "category": "geopolitics",
+      "horizon_days": 14,
+      "deadline": "2026-04-22",
+      "confidence_pct": 43,
+      "log_odds": -0.282,
+      "verification_criteria": "Verified if an official U.S. government statement (White House/State Dept/DoD), an official Iranian government statement (e.g., MFA/IRGC/President\u2019s office), or a mutually acknowledged joint statement explicitly says the ceasefire is extended/renewed beyond the initial two-week window.",
+      "evidence": [
+        "Recent reporting indicates a provisional two-week ceasefire and a plan to reopen safe passage through the Strait of Hormuz.",
+        "Market reaction suggests high incentives to maintain de-escalation if possible, but durability is uncertain."
+      ],
+      "monitoring_signals": [
+        "White House and U.S. State Department press briefings mentioning an extension/renewal",
+        "Iran MFA statements carried by state media",
+        "Any announced new negotiation timeline tied to continued ceasefire"
+      ],
+      "rationale": "A provisional ceasefire often gets extended if initial compliance holds and economic pressure to stabilize shipping/oil remains high, but political/military spoilers keep this below 50%.",
+      "id": "a4d0fa9b-94dc-4676-9293-1a9f86b292c7",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-07-31, the U.S. House Appropriations Committee will release (bill text or committee report) a DHS appropriations proposal for FY2027 that reduces total enacted funding for CISA by at least $500 million versus FY2026 enacted funding.",
+      "category": "macro",
+      "horizon_days": 114,
+      "deadline": "2026-07-31",
+      "confidence_pct": 60,
+      "log_odds": 0.405,
+      "verification_criteria": "Verified if House Appropriations (or its Homeland Security subcommittee) publishes bill text and/or report language specifying FY2027 CISA budget authority at least $500M below FY2026 enacted level (using enacted appropriations as the comparator), as documented in official committee materials.",
+      "evidence": [
+        "Reporting indicates the Administration is planning significant CISA budget cuts (on the order of hundreds of millions).",
+        "Budget proposals frequently translate into early House markups even if final enactment differs."
+      ],
+      "monitoring_signals": [
+        "House Appropriations DHS subcommittee markup documents",
+        "CISA/OMB budget tables and congressional justification documents",
+        "DHS appropriations bill drafts and committee reports"
+      ],
+      "rationale": "Given the publicly discussed scale of proposed cuts, a House proposal with a large reduction is more likely than not, though final enacted funding could diverge.",
+      "id": "43c4c757-9ed2-4b9a-a5f9-ca2b977c93de",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-12-31, U.S. Treasury (OFAC) will designate at least one Iran-linked cyber actor (individual, group, or front company) for targeting U.S. critical infrastructure, with the designation notice explicitly referencing critical infrastructure (e.g., energy, water, transportation, or healthcare) as a target set.",
+      "category": "tech",
+      "horizon_days": 267,
+      "deadline": "2026-12-31",
+      "confidence_pct": 58,
+      "log_odds": 0.323,
+      "verification_criteria": "Verified if OFAC posts a designation action (SDN update and/or press release) naming an Iran-linked cyber actor and the accompanying description explicitly mentions targeting U.S. critical infrastructure sectors or named critical infrastructure victims.",
+      "evidence": [
+        "U.S. agencies have recently warned of Iranian hackers targeting American critical infrastructure amid elevated regional tensions.",
+        "OFAC has a history of using cyber-related designations during geopolitical escalations."
+      ],
+      "monitoring_signals": [
+        "OFAC press releases and SDN list updates",
+        "Treasury sanctions search updates referencing cyber activity",
+        "Joint CISA/FBI/NSA advisories that could precede sanctions"
+      ],
+      "rationale": "Escalating Iran-linked cyber activity and public warnings increase the odds of a sanctions response, though attribution and policy timing can delay designations.",
+      "id": "352902e0-3fae-4116-812c-ee0687c1d2d3",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-06-30, the EIA daily Europe Brent spot price (series DCOILBRENTEU) will print at or below $85.00 per barrel on at least one day.",
+      "category": "energy",
+      "horizon_days": 83,
+      "deadline": "2026-06-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Verified if EIA\u2019s published daily Brent series DCOILBRENTEU shows a value \u2264 85.00 for any date on or before 2026-06-30.",
+      "evidence": [
+        "Oil prices recently fell below $100 following ceasefire/safe-passage developments, indicating fast repricing when acute disruption risk eases.",
+        "Short-term oil prices remain highly sensitive to perceived shipping risk in Hormuz."
+      ],
+      "monitoring_signals": [
+        "EIA DCOILBRENTEU daily updates",
+        "Ceasefire compliance and Hormuz transit status",
+        "OPEC+ signaling and inventory/supply surprises"
+      ],
+      "rationale": "A dip to $85 requires sustained de-escalation plus benign supply/demand surprises; plausible but not the base case given volatility risk.",
+      "id": "dc99af7a-95bc-49d4-a149-76418f8d57a2",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, at least two major U.S. passenger airlines (Delta, United, American, JetBlue, Southwest, or Alaska) will increase their first checked-bag fee for U.S. domestic itineraries by at least $5 versus their fee level on 2026-03-31.",
+      "category": "markets",
+      "horizon_days": 175,
+      "deadline": "2026-09-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "Verified if at least two listed airlines publicly update fee schedules (website, press release, SEC filing, or major-media confirmation) showing the first checked-bag fee for domestic itineraries increased by \u2265$5 compared with the airline\u2019s stated fee as of 2026-03-31.",
+      "evidence": [
+        "Recent reporting notes airlines raising checked-bag fees and cutting flights, consistent with cost pass-through amid fuel volatility.",
+        "Airlines historically adjust ancillary fees when costs rise and demand is resilient."
+      ],
+      "monitoring_signals": [
+        "Airline fee schedule pages and fare/ancillary policy updates",
+        "Earnings calls citing fuel and capacity changes",
+        "DOT consumer fee disclosures and major travel media trackers"
+      ],
+      "rationale": "Ancillary-fee increases are a common margin lever, and fuel/logistics volatility increases the likelihood multiple carriers follow.",
+      "id": "eb65623d-6239-4a0b-9b5c-f723444bba21",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-08-31, Anthropic will make a cybersecurity-focused model branded under the 'Mythos' name available for general commercial use (self-serve API or standard enterprise offering), with public documentation showing how to access it.",
+      "category": "tech",
+      "horizon_days": 145,
+      "deadline": "2026-08-31",
+      "confidence_pct": 54,
+      "log_odds": 0.16,
+      "verification_criteria": "Verified if Anthropic publishes API docs, a product page, or a press release stating that a 'Mythos' model is generally available (not limited preview) and includes access instructions (API endpoint/model name, pricing tier, or enterprise order path).",
+      "evidence": [
+        "Anthropic has previewed Mythos as a cybersecurity-focused model but has limited rollout due to misuse concerns.",
+        "Commercial pressure exists to productize specialized security models."
+      ],
+      "monitoring_signals": [
+        "Anthropic documentation changelogs and model catalog updates",
+        "Anthropic blog/product announcements",
+        "Cloud marketplace listings (e.g., AWS/Azure/GCP model marketplaces) referencing Mythos"
+      ],
+      "rationale": "A limited preview often transitions to broader availability within months, but misuse-risk concerns could keep access restricted.",
+      "id": "08fc0a87-fe3d-46bf-858d-d60f4705f305",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-09-30, CISA (or DOE CESER) will publicly confirm at least one Iran-linked cyber incident that caused operational disruption (not just IT theft) at a U.S. critical infrastructure operator, where disruption is described as impacting service delivery for at least 4 hours.",
+      "category": "tech",
+      "horizon_days": 175,
+      "deadline": "2026-09-30",
+      "confidence_pct": 32,
+      "log_odds": -0.752,
+      "verification_criteria": "Verified if CISA, DOE CESER, or a joint U.S. government advisory publicly describes a specific incident attributed to an Iran-linked actor and states the incident caused operational/service disruption lasting \u22654 hours at a U.S. critical infrastructure operator (e.g., utility, pipeline, water system, transport operator).",
+      "evidence": [
+        "U.S. agencies have issued warnings that Iranian hackers are targeting American critical infrastructure during elevated tensions.",
+        "Historically, most activity is probing/IT-side; confirmed OT/service impacts are less frequent."
+      ],
+      "monitoring_signals": [
+        "CISA advisories/alerts and joint cybersecurity advisories",
+        "DOE CESER incident reporting and sector briefings",
+        "Public utility outage/investigation statements referencing cyber causality"
+      ],
+      "rationale": "Targeting is likely, but publicly confirmed, attributed incidents with operational disruption are rarer and may be withheld or delayed.",
+      "id": "2e3217ce-3eee-4ef3-914e-a29ea98bda9c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. Department of Justice will announce at least one criminal case (indictment/complaint/plea) alleging evasion of newly imposed U.S. tariffs via transshipment, misclassification, or false invoicing, where the DOJ states the attempted/evaded duties exceeded $50 million.",
+      "category": "macro",
+      "horizon_days": 267,
+      "deadline": "2026-12-31",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "Verified if DOJ press releases or unsealed court documents describe a tariff-evasion scheme tied to the new tariff regime and explicitly quantify attempted/evaded duties > $50,000,000 (or an equivalent figure clearly above $50M).",
+      "evidence": [
+        "Recent reporting highlights tariff escalation spurring trade fraud and accounting tricks, suggesting enforcement will follow.",
+        "DOJ and CBP/Homeland Security Investigations have prior patterns of high-dollar customs fraud prosecutions."
+      ],
+      "monitoring_signals": [
+        "DOJ press releases (tax, fraud, customs, and sanctions enforcement)",
+        "CBP/HSI announcements on trade enforcement operations",
+        "PACER filings in major ports-of-entry jurisdictions"
+      ],
+      "rationale": "Higher tariffs increase incentives for evasion; large cases take time to build but are plausible within the year given policy salience.",
+      "id": "61db4f80-8fe4-4ce1-9862-ab6c3ea16426",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, ClinicalTrials.gov will list a newly posted Phase 2 (or Phase 2/3) interventional trial for a reversible male contraceptive that halts or materially suppresses sperm production, with planned enrollment of at least 100 participants.",
+      "category": "other",
+      "horizon_days": 267,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "Verified if ClinicalTrials.gov shows a first-posted (initial posting date in 2026) Phase 2 or Phase 2/3 interventional study whose title/description indicates reversible male contraception via halting/suppressing spermatogenesis, and the 'Enrollment' field is \u2265100 (anticipated or actual).",
+      "evidence": [
+        "Recent scientific reporting describes a reversible male birth control approach that halts sperm production, suggesting pipeline movement toward human trials.",
+        "However, translation from early findings to Phase 2 scale is uncertain."
+      ],
+      "monitoring_signals": [
+        "ClinicalTrials.gov new postings containing 'male contraceptive', 'spermatogenesis', 'reversible', 'azoospermia'",
+        "Press releases from reproductive health biotech/pharma sponsors",
+        "Conference abstracts in reproductive medicine/endocrinology"
+      ],
+      "rationale": "The field is progressing, but Phase 2 enrollment-scale trials depend on funding, safety, and regulatory timelines, keeping confidence moderate.",
+      "id": "ab400647-7bba-4cd0-9980-b5c9e27e3e6a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}
