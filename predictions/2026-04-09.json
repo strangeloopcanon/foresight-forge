@@ -1,0 +1,195 @@
+{
+  "date": "2026-04-09",
+  "predictions": [
+    {
+      "text": "By 2026-12-31, the Federal Reserve will finalize (via Federal Register final rule or Fed press release) a policy change allowing banks/credit unions to access FedNow through approved intermediaries (i.e., indirect participation rather than only direct participants).",
+      "category": "macro",
+      "horizon_days": 266,
+      "deadline": "2026-12-31",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Resolves YES if a Fed/Board final rule, operating circular update, or Federal Register final rule explicitly authorizes indirect/intermediated access to FedNow (not merely a proposal or request for comment).",
+      "evidence": [
+        "Fed proposed allowing intermediaries for FedNow access (proposal stage). https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
+      ],
+      "monitoring_signals": [
+        "Federal Register docket movement from NPRM to final rule",
+        "FedNow Operating Procedures/Operating Circular updates",
+        "Fed press releases on payments/financial market infrastructures"
+      ],
+      "rationale": "The Fed has already publicly proposed the change, making a within-year finalization plausible, but implementation details and industry feedback could delay.",
+      "id": "14fd254f-d0d6-4022-aff6-711038342dcd",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, the FOMC will reduce the target range for the federal funds rate by at least 25 basis points versus the target range in effect on 2026-04-09.",
+      "category": "rates",
+      "horizon_days": 266,
+      "deadline": "2026-12-31",
+      "confidence_pct": 65,
+      "log_odds": 0.619,
+      "verification_criteria": "Resolves YES if at any scheduled or unscheduled FOMC decision before the deadline the published target range\u2019s upper bound is at least 0.25 percentage points lower than on 2026-04-09.",
+      "evidence": [
+        "Fed minutes indicate officials still expect at least one 2026 cut (baseline disinflation/cooling demand). https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE inflation trend and labor-market cooling indicators",
+        "FOMC meeting statements and SEP/dot plot updates",
+        "Market-implied cuts (OIS/fed funds futures)"
+      ],
+      "rationale": "Minutes point to at least one cut as baseline; the main risk is re-acceleration in inflation or renewed energy shock that delays easing.",
+      "id": "8fea41c2-d736-421d-b92b-b99ceeb461f0",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-06-30, Iran will publicly announce an official policy to levy a fee/toll on commercial shipping transiting the Strait of Hormuz (including either a schedule of charges or a stated mechanism for collection).",
+      "category": "geopolitics",
+      "horizon_days": 82,
+      "deadline": "2026-06-30",
+      "confidence_pct": 30,
+      "log_odds": -0.847,
+      "verification_criteria": "Resolves YES if an Iranian government body (e.g., Ministry of Roads/Ports, IRGC-linked authority, cabinet spokesperson) issues a public statement/decree explicitly establishing a transit fee/toll for Hormuz passage for commercial vessels, with at least one implementable detail (rate, eligibility, collection method, or start date).",
+      "evidence": [
+        "Reporting highlights Iran leverage via potential Hormuz tolls and U.S. demands for unrestricted passage. https://www.cnbc.com/2026/04/08/trump-iran-ceasefire-strait-of-hormuz-toll.html"
+      ],
+      "monitoring_signals": [
+        "Iranian cabinet/port authority announcements",
+        "UKMTO/CMF advisories referencing new Iranian transit requirements",
+        "Shipping/insurer circulars mentioning fees or required documentation"
+      ],
+      "rationale": "Tehran may keep the threat as leverage without formalizing it; implementing a toll invites legal/coalition pushback and enforcement challenges.",
+      "id": "869afd44-6602-45bb-a90b-cbb4eeeb4d9c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-07-31, the U.S. will impose (via presidential proclamation, USTR/Commerce notice, or Federal Register action) an additional 50% tariff on imports from at least one specific country explicitly justified as retaliation for supplying weapons to Iran.",
+      "category": "geopolitics",
+      "horizon_days": 113,
+      "deadline": "2026-07-31",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "Resolves YES if an official U.S. action sets an added 50% tariff rate (or 50 percentage-point surcharge) on imports from at least one named country, and the justification text explicitly cites supplying/providing weapons to Iran (or equivalent phrasing). Threats without enacted tariff action do not count.",
+      "evidence": [
+        "Trump threatened 50% tariffs on countries supplying weapons to Iran. https://www.cnbc.com/2026/04/08/trump-threatens-tariffs-countries-supplying-weapons-iran-ceasefire.html"
+      ],
+      "monitoring_signals": [
+        "White House tariff proclamations and USTR statements",
+        "Federal Register tariff actions and CBP guidance updates",
+        "Diplomatic reporting on identified 'supplier' countries"
+      ],
+      "rationale": "Threats often aim to deter rather than execute; execution depends on attribution confidence and broader trade-war considerations.",
+      "id": "dd4b5f7c-6dbc-46b6-ab95-b3c83768d0c3",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, OpenAI will publicly file an IPO registration statement (S-1 or F-1) on SEC EDGAR for a U.S. listing (confidential submissions do not count).",
+      "category": "markets",
+      "horizon_days": 266,
+      "deadline": "2026-12-31",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Resolves YES if SEC EDGAR shows an S-1/F-1 filing by an OpenAI-branded issuer for an initial public offering (not a debt shelf, not a subsidiary with unrelated business). A press report without an EDGAR filing does not count.",
+      "evidence": [
+        "Reporting says OpenAI plans an IPO with retail share allocation. https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html"
+      ],
+      "monitoring_signals": [
+        "EDGAR new issuer filings mentioning OpenAI",
+        "OpenAI official announcements about IPO timing/structure",
+        "Lead-underwriter rumors and S-1 drafting milestones in credible reporting"
+      ],
+      "rationale": "IPO intent is discussed, but governance, regulatory, and market-window constraints make a public filing within 2026 uncertain.",
+      "id": "91d7ef62-d496-4a44-9ce6-cfe4c8779907",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, the S&P 500 index will record a new all-time high closing level (strictly above its prior record close as of 2026-04-09).",
+      "category": "markets",
+      "horizon_days": 174,
+      "deadline": "2026-09-30",
+      "confidence_pct": 55,
+      "log_odds": 0.201,
+      "verification_criteria": "Resolves YES if the official S&P 500 closing value on any trading day on/before the deadline is higher than the highest prior official close observed up to 2026-04-09.",
+      "evidence": [
+        "Market commentary notes improved risk appetite after reclaiming key moving averages. https://www.marketwatch.com/story/the-s-p-500-smashed-back-above-2-key-moving-averages-in-a-rare-display-of-strength-heres-what-history-shows-happens-next-7141e5fe"
+      ],
+      "monitoring_signals": [
+        "S&P 500 breadth/earnings revision trends",
+        "Inflation/rates expectations (soft-landing vs re-acceleration)",
+        "Volatility regime (VIX) and credit spreads"
+      ],
+      "rationale": "Technical rebound and easing oil-shock fears help, but earnings downgrades or renewed conflict escalation could cap rallies.",
+      "id": "286d08b9-2fd2-41c4-8215-4f423e974a95",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, at least one U.S. state will enact (bill signed into law) a right-to-repair statute that explicitly covers agricultural equipment and requires OEMs to provide independent repair providers/owners with access to parts, tools, and/or repair documentation on fair terms.",
+      "category": "macro",
+      "horizon_days": 266,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "log_odds": -0.201,
+      "verification_criteria": "Resolves YES if a state-level law is enacted and its statutory text explicitly applies to agricultural/farm equipment and contains at least one access mandate (parts/tools/diagnostics/manuals) for owners/independent repairers.",
+      "evidence": [
+        "John Deere\u2019s $99M settlement signals rising pressure for right-to-repair access. https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement"
+      ],
+      "monitoring_signals": [
+        "State legislative trackers for right-to-repair bills (farm equipment scope)",
+        "Industry lobbying positions and OEM voluntary program announcements",
+        "AG/FTC actions that spur legislative momentum"
+      ],
+      "rationale": "The Deere settlement increases political salience; passage still depends on state calendars, committee dynamics, and OEM concessions.",
+      "id": "07923127-37c1-4326-bfc6-9d56b0d89d23",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, at least one major agricultural or construction equipment OEM other than John Deere (e.g., CNH Industrial, AGCO, Caterpillar, Komatsu) will announce a binding right-to-repair agreement/settlement with a U.S. state AG (or a multistate coalition) that includes providing diagnostic software/tools to equipment owners or independent repair shops.",
+      "category": "markets",
+      "horizon_days": 266,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "log_odds": -0.405,
+      "verification_criteria": "Resolves YES if a state AG office (or coalition) publishes a settlement/assurance-of-voluntary-compliance (or equivalent binding agreement), and the agreement explicitly commits the OEM to provide diagnostics/tools/software access beyond authorized dealers.",
+      "evidence": [
+        "Deere settlement increases sector-wide pressure and creates a template. https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement"
+      ],
+      "monitoring_signals": [
+        "State AG press releases and settlement databases",
+        "OEM policy updates on diagnostics/subscription tools",
+        "Repair advocacy group announcements (PIRG, Farm Action, etc.)"
+      ],
+      "rationale": "Once one OEM settles, others face copycat enforcement risk; however, firms may try voluntary programs to avoid binding settlements.",
+      "id": "f4dfdc0d-076b-4cab-8543-33b62879e0bd",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. 10-year Treasury constant maturity rate (FRED series DGS10) will print at or below 3.50% on at least one trading day.",
+      "category": "rates",
+      "horizon_days": 266,
+      "deadline": "2026-12-31",
+      "confidence_pct": 30,
+      "log_odds": -0.847,
+      "verification_criteria": "Resolves YES if the daily DGS10 value published by the St. Louis Fed is \u2264 3.50 for any date on/before 2026-12-31.",
+      "evidence": [
+        "Commentary suggests bonds may benefit as oil-shock fears ease and rate-cut expectations return. https://www.marketwatch.com/story/bonds-may-be-the-real-winner-now-that-the-world-economy-has-sidestepped-a-historic-oil-crisis-4797c6ff",
+        "Fed minutes still expect at least one 2026 cut. https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
+      ],
+      "monitoring_signals": [
+        "Core inflation trajectory and recession probability indicators",
+        "Term premium estimates and Treasury refunding/issuance surprises",
+        "Risk-off episodes tied to geopolitics or credit stress"
+      ],
+      "rationale": "A move to 3.5% likely requires clear disinflation and/or risk-off growth fears; supply/term-premium pressures are the main counterweight.",
+      "id": "a696f11a-d564-441c-bcf4-651c30668212",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

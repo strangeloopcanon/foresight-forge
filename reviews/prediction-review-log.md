@@ -2398,3 +2398,14 @@ The remaining forecasts (OFAC designations involving India-based entities, cyber
 
 ---
 
+
+## 2026-04-08
+
+Today’s news meaningfully updates the context for the U.S.-Iran ceasefire-related forecast, but not in a way that resolves it. Multiple pieces emphasize the ceasefire’s fragility, disagreements over scope (including Lebanon), and allegations of violations—signals that make a near-term public extension less certain, but they do not constitute the specific confirming event required (an explicit announcement extending beyond the initial two-week period).
+
+Most other forecasts remain untouched by the day’s reporting. The Anthropic items are about litigation and Pentagon risk labeling, not a product launch (so they don’t validate the 'Mythos' availability claim). Energy coverage indicates renewed oil-price pressure tied to ceasefire concerns, but without the specific EIA Brent print evidence needed to score the $85 threshold forecast. Likewise, the airline story is about broader pricing, not clearly documented checked-bag fee hikes among the specified carriers.
+
+Overall, the main actionable update is heightened uncertainty around the ceasefire’s durability; however, none of the listed predictions have crossed a clear verifiable trigger that would justify marking them correct or incorrect as of today’s bullets.
+
+---
+

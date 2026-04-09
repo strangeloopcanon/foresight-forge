@@ -20,7 +20,7 @@
       ],
       "rationale": "A provisional ceasefire often gets extended if initial compliance holds and economic pressure to stabilize shipping/oil remains high, but political/military spoilers keep this below 50%.",
       "id": "a4d0fa9b-94dc-4676-9293-1a9f86b292c7",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "Given the publicly discussed scale of proposed cuts, a House proposal with a large reduction is more likely than not, though final enacted funding could diverge.",
       "id": "43c4c757-9ed2-4b9a-a5f9-ca2b977c93de",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "Escalating Iran-linked cyber activity and public warnings increase the odds of a sanctions response, though attribution and policy timing can delay designations.",
       "id": "352902e0-3fae-4116-812c-ee0687c1d2d3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -86,7 +86,7 @@
       ],
       "rationale": "A dip to $85 requires sustained de-escalation plus benign supply/demand surprises; plausible but not the base case given volatility risk.",
       "id": "dc99af7a-95bc-49d4-a149-76418f8d57a2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -108,7 +108,7 @@
       ],
       "rationale": "Ancillary-fee increases are a common margin lever, and fuel/logistics volatility increases the likelihood multiple carriers follow.",
       "id": "eb65623d-6239-4a0b-9b5c-f723444bba21",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -130,7 +130,7 @@
       ],
       "rationale": "A limited preview often transitions to broader availability within months, but misuse-risk concerns could keep access restricted.",
       "id": "08fc0a87-fe3d-46bf-858d-d60f4705f305",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -152,7 +152,7 @@
       ],
       "rationale": "Targeting is likely, but publicly confirmed, attributed incidents with operational disruption are rarer and may be withheld or delayed.",
       "id": "2e3217ce-3eee-4ef3-914e-a29ea98bda9c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "rationale": "Higher tariffs increase incentives for evasion; large cases take time to build but are plausible within the year given policy salience.",
       "id": "61db4f80-8fe4-4ce1-9862-ab6c3ea16426",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "rationale": "The field is progressing, but Phase 2 enrollment-scale trials depend on funding, safety, and regulatory timelines, keeping confidence moderate.",
       "id": "ab400647-7bba-4cd0-9980-b5c9e27e3e6a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

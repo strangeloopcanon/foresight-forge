@@ -1,0 +1,115 @@
+{
+  "bullets": [
+    {
+      "text": "Fed minutes: officials still expect at least one 2026 rate cut; war adds uncertainty but baseline is disinflation and cooling demand.",
+      "tags": [
+        "macro",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm"
+    },
+    {
+      "text": "Fed proposes allowing banks/credit unions to use intermediaries to access FedNow, potentially accelerating instant-payments adoption and competition with private rails.",
+      "tags": [
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm"
+    },
+    {
+      "text": "U.S.\u2013Iran cease-fire remains fragile; disputes extend to Lebanon and alleged breaches, keeping regional escalation risk elevated.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/04/08/briefing/us-iran-cease-fire-bitcoin-creator.html"
+    },
+    {
+      "text": "Iran\u2019s leverage via potential Strait of Hormuz tolls keeps a risk premium in oil; U.S. demands unrestricted passage.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/08/trump-iran-ceasefire-strait-of-hormuz-toll.html"
+    },
+    {
+      "text": "Oil prices rebounded on cease-fire breach claims; analysts expect gasoline easing only if truce holds and shipping remains uninterrupted.",
+      "tags": [
+        "energy",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/09/oil-prices-today-wti-brent-iran-accuse-us-of-ceasefire-breach.html"
+    },
+    {
+      "text": "Trump threatens 50% tariffs on countries supplying weapons to Iran, raising broader trade-war and supply-chain risks beyond the Middle East conflict.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/08/trump-threatens-tariffs-countries-supplying-weapons-iran-ceasefire.html"
+    },
+    {
+      "text": "Equities: S&P 500 reclaimed key moving averages, signaling improved risk appetite; history implies better near-term returns but not guaranteed.",
+      "tags": [
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/the-s-p-500-smashed-back-above-2-key-moving-averages-in-a-rare-display-of-strength-heres-what-history-shows-happens-next-7141e5fe"
+    },
+    {
+      "text": "With an oil shock avoided, commentary shifts toward bonds benefiting from easing inflation fear and renewed rate-cut expectations.",
+      "tags": [
+        "markets",
+        "rates",
+        "energy"
+      ],
+      "link": "https://www.marketwatch.com/story/bonds-may-be-the-real-winner-now-that-the-world-economy-has-sidestepped-a-historic-oil-crisis-4797c6ff"
+    },
+    {
+      "text": "Consumer demand softening: Constellation Brands pulls 2028 guidance as shoppers trade down to cheaper beer/wine amid uncertainty.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/08/constellation-brands-stz-q4-2026-earnings.html"
+    },
+    {
+      "text": "AI race intensifies: Meta launches a major new model; OpenAI plans IPO with retail share allocation, signaling capital-market maturation for frontier AI.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html"
+    },
+    {
+      "text": "National-security tech scrutiny: appeals court keeps Pentagon 'supply chain risk' label on Anthropic, underscoring growing regulatory friction for AI vendors.",
+      "tags": [
+        "tech",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html"
+    },
+    {
+      "text": "Physics: new results strongly constrain sterile neutrinos, narrowing beyond-Standard-Model options and reshaping dark-matter-inspired particle hypotheses.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.quantamagazine.org/experiments-ring-the-death-knell-for-sterile-neutrinos-20260408/"
+    },
+    {
+      "text": "Quantum computing: researchers improved tracking of data loss, a step toward practical error correction and more reliable quantum processors.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/04/260407193857.htm"
+    },
+    {
+      "text": "Right-to-repair: John Deere\u2019s $99M settlement signals rising legal and economic pressure to open parts, manuals, and fixes across equipment ecosystems.",
+      "tags": [
+        "macro",
+        "tech"
+      ],
+      "link": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement"
+    }
+  ]
+}
