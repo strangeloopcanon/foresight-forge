@@ -1,0 +1,191 @@
+{
+  "date": "2026-04-10",
+  "predictions": [
+    {
+      "text": "By 2026-06-30, the U.S. Senate Banking Committee will hold a public confirmation hearing for Kevin Warsh for a Federal Reserve leadership role (Chair, Vice Chair, or Governor).",
+      "category": "rates",
+      "horizon_days": 81,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Senate Banking Committee publishes an official hearing notice and/or archived webcast showing a confirmation hearing where Warsh testifies for the specified Fed role on or before 2026-06-30.",
+      "evidence": [
+        "Warsh hearing has been delayed, increasing uncertainty but keeping the process active (https://www.cnbc.com/2026/04/10/warsh-fed-nomination-hearing-delayed.html)."
+      ],
+      "monitoring_signals": [
+        "Senate Banking Committee hearing schedule updates",
+        "Congress.gov nomination tracking for Warsh",
+        "Press releases from Senate Banking Committee leadership"
+      ],
+      "rationale": "A delayed hearing suggests scheduling friction, but nominees for high-profile roles typically receive a hearing within weeks to months if the nomination remains live.",
+      "id": "e83f73e5-34fb-4fed-bec2-9ee4291ef18c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-07-31, the FOMC will not reduce the target range for the federal funds rate compared with the target range in effect on 2026-04-09.",
+      "category": "rates",
+      "horizon_days": 112,
+      "deadline": "2026-07-31",
+      "confidence_pct": 70,
+      "verification_criteria": "All FOMC statements (including any intermeeting action) through 2026-07-31 show the target range is unchanged versus the range in effect on 2026-04-09.",
+      "evidence": [
+        "Core inflation remains sticky around 3%, complicating near-term easing (https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html).",
+        "Conflict-driven energy shocks risk second-round inflation effects, raising the bar for early cuts (https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html)."
+      ],
+      "monitoring_signals": [
+        "FOMC meeting statements and press conferences",
+        "CME FedWatch probabilities for June/July meetings",
+        "Monthly core PCE / CPI releases"
+      ],
+      "rationale": "Sticky underlying inflation plus war-related energy uncertainty makes near-term cuts less likely even if cuts remain plausible later in 2026.",
+      "id": "0dc0be6c-c326-4d39-864f-ecf3e1ed5f81",
+      "outcome": null,
+      "confidence_bin": "70-80"
+    },
+    {
+      "text": "By 2026-06-30, the CBOE Crude Oil Volatility Index (OVX) will close at or above 70.0 on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 81,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "verification_criteria": "CBOE OVX official close (end-of-day value) is \u2265 70.0 on any trading day on or before 2026-06-30.",
+      "evidence": [
+        "Hormuz traffic not normalizing keeps risk premia embedded in crude pricing (https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html).",
+        "Iran chokepoint leverage via potential tolls/fees could amplify uncertainty in transport costs (https://www.marketwatch.com/story/heres-how-much-money-iran-can-make-charging-tolls-on-one-fifth-of-the-worlds-seaborne-oil-46c05a8b)."
+      ],
+      "monitoring_signals": [
+        "Daily OVX closes from CBOE/market data terminals",
+        "Large moves in front-month Brent/WTI futures",
+        "UKMTO/CMF incident alerts affecting Gulf shipping"
+      ],
+      "rationale": "Geopolitical supply and transit risks often express first in implied volatility; OVX spikes are plausible if incidents recur.",
+      "id": "ff2452ef-7100-4327-82c8-bc8c42909d52",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, AAA\u2019s U.S. national average retail price for regular gasoline will be at or above $4.25 per gallon on at least one day.",
+      "category": "energy",
+      "horizon_days": 81,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "verification_criteria": "AAA Gas Prices daily U.S. national average for regular gasoline reaches \u2265 $4.25/gal on any date on or before 2026-06-30.",
+      "evidence": [
+        "Oil remains supported as Gulf shipping risk persists (https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html).",
+        "Attacks on Saudi infrastructure highlight renewed supply-shock risk (https://www.cnbc.com/2026/04/09/iran-war-oil-saudi-arabia-east-west-pipeline.html)."
+      ],
+      "monitoring_signals": [
+        "AAA Gas Prices national average series",
+        "EIA weekly gasoline price and inventory reports",
+        "Refinery utilization and crack spread indicators"
+      ],
+      "rationale": "Sustained crude risk premia and refinery constraints can quickly transmit to U.S. pump prices, especially into summer demand.",
+      "id": "08b9dd66-fdbc-4aac-88c6-1d013a6efc42",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-07-31, the U.S. Department of Energy will announce an emergency release/sale from the Strategic Petroleum Reserve totaling at least 15 million barrels (single announcement or cumulative within one announced action).",
+      "category": "macro",
+      "horizon_days": 112,
+      "deadline": "2026-07-31",
+      "confidence_pct": 35,
+      "verification_criteria": "DOE press release (or official DOE SPR announcement) on or before 2026-07-31 specifies a release/sale of \u226515,000,000 barrels due to market disruption/emergency conditions.",
+      "evidence": [
+        "Conflict-driven oil transit and infrastructure risks are supporting prices and could trigger policy responses (https://www.cnbc.com/2026/04/09/iran-war-oil-strait-hormuz-tanker-ship-uae.html).",
+        "Saudi production disruption underscores supply vulnerability (https://www.cnbc.com/2026/04/09/iran-war-oil-saudi-arabia-east-west-pipeline.html)."
+      ],
+      "monitoring_signals": [
+        "DOE press releases and SPR announcements",
+        "White House statements on fuel prices",
+        "EIA weekly petroleum status report (inventories, imports)"
+      ],
+      "rationale": "An SPR action is a common tool to counter acute price spikes or supply disruptions, but political and inventory constraints reduce probability.",
+      "id": "81a7ae33-4587-4eca-a719-d0e5c7cd62b5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-15, the FAO Food Price Index value for any month in 2026 (through August 2026) will be at least 10% higher year-over-year versus the same month in 2025.",
+      "category": "macro",
+      "horizon_days": 158,
+      "deadline": "2026-09-15",
+      "confidence_pct": 30,
+      "verification_criteria": "FAO\u2019s published Food Price Index (nominal index value) for at least one month from Jan\u2013Aug 2026 is \u2265 1.10 \u00d7 the index value for the corresponding month in 2025, based on FAO\u2019s official release tables.",
+      "evidence": [
+        "El Ni\u00f1o risk plus conflict-driven fertilizer and shipping disruptions could lift global food prices (https://www.cnbc.com/2026/04/09/el-nino-food-risks-iran-war-fertilizer-weather.html)."
+      ],
+      "monitoring_signals": [
+        "Monthly FAO Food Price Index releases",
+        "Global fertilizer benchmark prices (urea, DAP, potash)",
+        "Freight/insurance surcharges for Middle East routes"
+      ],
+      "rationale": "Food inflation requires multiple channels (weather + inputs + logistics); risk is meaningful but timing and magnitude are uncertain.",
+      "id": "0a2b2283-b315-4fc6-a884-7d1403e8f059",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-06-30, the S&P 500 will experience at least one single-day close-to-close decline of 3.5% or more.",
+      "category": "markets",
+      "horizon_days": 81,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "Using official S&P 500 index closes, there exists at least one trading day on or before 2026-06-30 where (Close_t / Close_{t-1} \u2212 1) \u2264 \u22120.035.",
+      "evidence": [
+        "Oil and shipping-risk uncertainty remains embedded post-cease-fire, elevating macro and market volatility (https://www.cnbc.com/2026/04/10/oil-price-wti-brent-saudi-pipeline-attack-middle-east-war.html).",
+        "Sticky inflation complicates the rates outlook, increasing risk of risk-asset repricing (https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html)."
+      ],
+      "monitoring_signals": [
+        "VIX level and term structure",
+        "Daily Brent/WTI price gaps on conflict headlines",
+        "Credit spreads (HY OAS) widening"
+      ],
+      "rationale": "Geopolitical shocks and rate uncertainty increase tail-risk of a large down day even without a sustained bear market.",
+      "id": "98982218-caa1-4861-92b6-c5d5eb921a42",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-06-30, at least one Gulf state (UAE, Qatar, Bahrain, Kuwait, Oman, or Saudi Arabia) will announce a full temporary closure of its national airspace lasting at least 12 consecutive hours, explicitly citing military/security risk.",
+      "category": "geopolitics",
+      "horizon_days": 81,
+      "deadline": "2026-06-30",
+      "confidence_pct": 25,
+      "verification_criteria": "An official aviation authority statement and/or NOTAMs show complete suspension of civilian overflight/operations for \u226512 consecutive hours, with public attribution to military/security risk, on or before 2026-06-30.",
+      "evidence": [
+        "Cease-fire appears fragile and regional military risk remains elevated around the Gulf (https://www.cnbc.com/2026/04/09/iran-war-oil-strait-hormuz-tanker-ship-uae.html)."
+      ],
+      "monitoring_signals": [
+        "NOTAM feeds and national civil aviation authority announcements",
+        "EASA/FAA conflict-zone advisories",
+        "Flight tracking deviations and mass cancellations at Gulf hubs"
+      ],
+      "rationale": "Airspace closures are extreme but have precedent during acute escalation; probability is limited by high economic cost and de-escalation incentives.",
+      "id": "42d47ce2-34ee-453a-8a48-095967ef7557",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "By 2026-12-31, the EU will adopt (via Council Decision/Regulation published in the Official Journal) a new Iran-related sanctions update that lists at least one shipping or maritime-logistics entity and at least five specific vessels (by name or IMO number).",
+      "category": "geopolitics",
+      "horizon_days": 265,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Official Journal of the European Union publication on or before 2026-12-31 includes an Iran-sanctions listing update that (a) adds at least one maritime/shipping entity and (b) identifies \u22655 vessels by name or IMO number in annexes.",
+      "evidence": [
+        "Hormuz transit leverage and persistent shipping risk raise pressure for maritime-focused policy responses (https://www.cnbc.com/2026/04/09/iran-war-oil-strait-hormuz-tanker-ship-uae.html).",
+        "Potential Iranian tolling/monetization of the chokepoint would increase incentives to target maritime networks (https://www.marketwatch.com/story/heres-how-much-money-iran-can-make-charging-tolls-on-one-fifth-of-the-worlds-seaborne-oil-46c05a8b)."
+      ],
+      "monitoring_signals": [
+        "EU Council press releases on Iran restrictive measures",
+        "Official Journal updates to Iran sanctions annexes",
+        "Announcements by EU member states on vessel seizures/designations"
+      ],
+      "rationale": "If tensions persist, EU packages often expand to maritime facilitation networks; vessel-level listings are a common enforcement mechanism.",
+      "id": "366ca371-09f5-48a8-b6d7-070f3239aaa6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

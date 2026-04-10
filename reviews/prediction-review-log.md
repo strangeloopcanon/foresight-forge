@@ -2409,3 +2409,14 @@ Overall, the main actionable update is heightened uncertainty around the ceasefi
 
 ---
 
+
+## 2026-04-09
+
+None of the listed predictions can be resolved from today’s articles; all deadlines are still in the future and the provided coverage does not include definitive policy actions or market/interest-rate prints needed to mark outcomes as correct or incorrect.
+
+The biggest near-term linkage is to the Strait of Hormuz toll prediction: multiple headlines reference the possibility of Iran charging fees and controlling access, which is directionally relevant. However, the prediction’s threshold is specific (an official, public Iranian policy announcement with charges/mechanism), and the current bullets appear to reflect speculation, third-party commentary, or conditional statements rather than a clear Iranian policy announcement.
+
+OpenAI appears in the news via a state-level investigation, which may affect the company’s strategic environment, but it does not bear directly on whether an SEC-filed IPO registration statement has been publicly posted to EDGAR. The remaining items (FedNow access changes, FOMC rate cuts, tariffs tied to weapons to Iran, right-to-repair legislation/settlements, S&P 500 ATH, and 10-year yields) are not substantiated by the provided headlines.
+
+---
+

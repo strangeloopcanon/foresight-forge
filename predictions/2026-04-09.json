@@ -19,7 +19,7 @@
       ],
       "rationale": "The Fed has already publicly proposed the change, making a within-year finalization plausible, but implementation details and industry feedback could delay.",
       "id": "14fd254f-d0d6-4022-aff6-711038342dcd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Minutes point to at least one cut as baseline; the main risk is re-acceleration in inflation or renewed energy shock that delays easing.",
       "id": "8fea41c2-d736-421d-b92b-b99ceeb461f0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Tehran may keep the threat as leverage without formalizing it; implementing a toll invites legal/coalition pushback and enforcement challenges.",
       "id": "869afd44-6602-45bb-a90b-cbb4eeeb4d9c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Threats often aim to deter rather than execute; execution depends on attribution confidence and broader trade-war considerations.",
       "id": "dd4b5f7c-6dbc-46b6-ab95-b3c83768d0c3",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "IPO intent is discussed, but governance, regulatory, and market-window constraints make a public filing within 2026 uncertain.",
       "id": "91d7ef62-d496-4a44-9ce6-cfe4c8779907",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Technical rebound and easing oil-shock fears help, but earnings downgrades or renewed conflict escalation could cap rallies.",
       "id": "286d08b9-2fd2-41c4-8215-4f423e974a95",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "The Deere settlement increases political salience; passage still depends on state calendars, committee dynamics, and OEM concessions.",
       "id": "07923127-37c1-4326-bfc6-9d56b0d89d23",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Once one OEM settles, others face copycat enforcement risk; however, firms may try voluntary programs to avoid binding settlements.",
       "id": "f4dfdc0d-076b-4cab-8543-33b62879e0bd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "rationale": "A move to 3.5% likely requires clear disinflation and/or risk-off growth fears; supply/term-premium pressures are the main counterweight.",
       "id": "a696f11a-d564-441c-bcf4-651c30668212",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
