@@ -1,0 +1,198 @@
+{
+  "date": "2026-04-11",
+  "predictions": [
+    {
+      "text": "By 2026-06-15, the BLS CPI report for May 2026 will show headline CPI inflation (CPI-U, U.S. city average) at or above 3.6% year-over-year.",
+      "category": "macro",
+      "horizon_days": 65,
+      "deadline": "2026-06-15",
+      "confidence_pct": 48,
+      "log_odds": -0.08004270767353637,
+      "verification_criteria": "Resolves YES if the BLS CPI news release covering May 2026 reports CPI-U (All items) 12-month percent change >= 3.6%. Otherwise NO.",
+      "evidence": [
+        "March CPI rose 0.9% m/m (3.3% y/y), with gasoline/energy surge tied to Iran conflict, complicating disinflation.",
+        "Real average hourly earnings fell 0.6% in March, consistent with inflation pressure outpacing wages."
+      ],
+      "monitoring_signals": [
+        "Weekly AAA gasoline price trend and EIA product supplied for gasoline/jet fuel",
+        "Cleveland Fed Inflation Nowcast for headline CPI",
+        "Brent/WTI and refined-product crack spreads into May"
+      ],
+      "rationale": "Energy-driven pass-through and elevated monthly prints make a modest upward drift in y/y plausible, but base effects still limit odds of a large move.",
+      "id": "6f173103-afbe-4c07-8f1f-f94dff128cf1",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-07-31, at least one major European hub airport (LHR, CDG, FRA, AMS, MAD, FCO, or DUB) will publicly confirm jet-fuel supply constraints that lead to either (a) fuel uplift limits for airlines or (b) cancellation of at least 50 departing flights within a 72-hour window, with the constraint explicitly linked to Middle East conflict/shipping disruption.",
+      "category": "energy",
+      "horizon_days": 111,
+      "deadline": "2026-07-31",
+      "confidence_pct": 33,
+      "log_odds": -0.7081850579244854,
+      "verification_criteria": "Resolves YES if an airport operator statement, regulator notice, or major airline statement names one of the listed airports and confirms jet-fuel supply constraints plus (a) explicit uplift limits OR (b) >=50 departures canceled in 72 hours, and explicitly links the constraint to Middle East conflict/shipping disruption. Otherwise NO.",
+      "evidence": [
+        "Europe faces potential jet-fuel crunch within weeks, highlighting war-driven energy shocks\u2019 spillovers to transport.",
+        "Hormuz security risks keep oil and jet-fuel supply fragile."
+      ],
+      "monitoring_signals": [
+        "IATA/ACI Europe advisories mentioning fuel supply",
+        "Airport operations notices (NOTAMs, airport press offices) referencing fuel constraints",
+        "European jet fuel spot prices and inventories (ARA region), tanker rates and insurance costs"
+      ],
+      "rationale": "A shortage is being discussed publicly, but translating into confirmed operational rationing/cancellation at a major hub requires a sharper logistics break.",
+      "id": "f668e99d-90c6-4f20-9031-c7cc2f1724d8",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-08-31, The Senior Citizens League (TSCL) or a comparably prominent U.S. public estimator will publish an estimate for the 2027 Social Security COLA of at least 3.8%.",
+      "category": "macro",
+      "horizon_days": 142,
+      "deadline": "2026-08-31",
+      "confidence_pct": 54,
+      "log_odds": 0.16034265007517945,
+      "verification_criteria": "Resolves YES if TSCL (preferred) or another widely cited public COLA estimator posts a 2027 COLA estimate >= 3.8% on its website or in a press release by the deadline. Otherwise NO.",
+      "evidence": [
+        "Higher gasoline prices pushed up early estimates for 2027 Social Security COLA, implying larger federal outlays and benefit adjustments.",
+        "March CPI showed a sharp monthly increase consistent with near-term inflation pressure."
+      ],
+      "monitoring_signals": [
+        "CPI-W trajectory for Jul\u2013Sep 2026 (key COLA reference months)",
+        "Gasoline and utility components within CPI-W",
+        "TSCL monthly COLA estimate updates"
+      ],
+      "rationale": "With energy volatile, a high-3% estimate is plausible, though sustained cooling in CPI-W would pull estimates back down.",
+      "id": "3bfd8bd6-fd36-4e3a-ba5b-a8f3c7176245",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-07-10, TSMC will report (via its monthly revenue press releases and quarterly aggregation) that Q2 2026 revenue increased by at least 25% year-over-year versus Q2 2025.",
+      "category": "markets",
+      "horizon_days": 90,
+      "deadline": "2026-07-10",
+      "confidence_pct": 62,
+      "log_odds": 0.4895482253187058,
+      "verification_criteria": "Resolves YES if the sum of TSMC\u2019s April+May+June 2026 monthly revenue (as reported by TSMC) is >= 1.25x the sum of April+May+June 2025 monthly revenue. Otherwise NO.",
+      "evidence": [
+        "TSMC reported record revenue up 35% y/y, reflecting sustained AI chip demand."
+      ],
+      "monitoring_signals": [
+        "TSMC monthly revenue releases for Apr/May/Jun 2026",
+        "Foundry pricing/utilization commentary from peers (Samsung, GlobalFoundries)",
+        "AI server shipment and HBM supply-chain indicators"
+      ],
+      "rationale": "Recent 35% y/y growth suggests strong momentum; 25% for Q2 is achievable unless a demand or supply shock hits late quarter.",
+      "id": "efd2639b-aa0d-4435-badd-4f76f8849d12",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-08-31, at least one of Walmart, Target, Home Depot, or Lowe\u2019s will explicitly cite higher gasoline/energy prices as a material headwind to U.S. discretionary consumer demand during an earnings call or in an earnings press release (verbatim mention of gasoline/fuel as a demand headwind).",
+      "category": "macro",
+      "horizon_days": 142,
+      "deadline": "2026-08-31",
+      "confidence_pct": 57,
+      "log_odds": 0.2818511521409874,
+      "verification_criteria": "Resolves YES if an earnings call transcript or earnings release from any listed retailer contains an explicit statement that higher gasoline/fuel/energy prices are (or were) a headwind to consumer spending/demand. Otherwise NO.",
+      "evidence": [
+        "Real average hourly earnings fell 0.6% in March, indicating inflation outpaced wages and squeezed purchasing power.",
+        "Gasoline/energy surge contributed materially to recent CPI increases."
+      ],
+      "monitoring_signals": [
+        "Retailer earnings calendars and prepared remarks",
+        "Gasoline price levels vs prior year and consumer sentiment readings",
+        "Credit card spending trackers by category (gas vs discretionary)"
+      ],
+      "rationale": "When fuel spikes and real earnings fall, large retailers commonly highlight gas as a squeeze on discretionary budgets.",
+      "id": "4fc10620-c804-44f8-8728-b4cfe3d09f40",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-11-30, at least two U.S. bank regulators (Federal Reserve, OCC, FDIC, or FFIEC) will issue a public guidance document (statement, bulletin, supervisory letter, or equivalent) that explicitly addresses governance/model risk for generative AI use in banking (must include the phrase 'generative AI' or 'GenAI').",
+      "category": "tech",
+      "horizon_days": 233,
+      "deadline": "2026-11-30",
+      "confidence_pct": 44,
+      "log_odds": -0.2411620568168881,
+      "verification_criteria": "Resolves YES if by the deadline two or more of: Fed, OCC, FDIC, FFIEC publish public guidance explicitly containing 'generative AI' or 'GenAI' and addressing governance/model risk/controls for banks. Otherwise NO.",
+      "evidence": [
+        "Anthropic\u2019s \u2018Mythos\u2019 prompted Powell/Bessent briefings with major banks on cyber/operational risk, signaling regulators\u2019 growing focus on frontier-model threats."
+      ],
+      "monitoring_signals": [
+        "FFIEC press releases and joint statements",
+        "OCC/Fed/FDIC supervisory bulletin pages",
+        "Conference speeches hinting at upcoming supervisory expectations on GenAI"
+      ],
+      "rationale": "Regulatory attention is rising, but agencies may prefer nonbinding speeches over formal guidance within this timeframe.",
+      "id": "7782d4c6-37b8-4fb4-9e14-93975582f3e9",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, CoreWeave will publicly file an IPO registration statement (S-1 or F-1) on SEC EDGAR for a U.S. listing (confidential submissions do not count).",
+      "category": "markets",
+      "horizon_days": 264,
+      "deadline": "2026-12-31",
+      "confidence_pct": 38,
+      "log_odds": -0.4895482253187058,
+      "verification_criteria": "Resolves YES if an S-1 or F-1 for CoreWeave appears publicly on SEC EDGAR by the deadline. Otherwise NO.",
+      "evidence": [
+        "CoreWeave shares jumped on a deal to power Anthropic\u2019s Claude, highlighting surging demand for GPU cloud capacity and AI infrastructure monetization."
+      ],
+      "monitoring_signals": [
+        "CoreWeave hiring for SEC reporting/IR roles",
+        "Underwriter rumors and media reports of IPO prep",
+        "Quarterly growth signals from AI infrastructure contracts"
+      ],
+      "rationale": "Strong demand could support an IPO, but market windows and financing alternatives (private rounds) may delay a public filing.",
+      "id": "151cc65d-9b1a-4e12-9a88-8ff376ee132c",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-10-31, France\u2019s central government digital authority (DINUM or an equivalent official body) will publish a national-level Windows-to-Linux migration roadmap that includes (a) at least one dated milestone in 2027 or earlier and (b) names at least three ministries/agencies participating.",
+      "category": "geopolitics",
+      "horizon_days": 203,
+      "deadline": "2026-10-31",
+      "confidence_pct": 41,
+      "log_odds": -0.3639653771716906,
+      "verification_criteria": "Resolves YES if an official French government publication (DINUM or equivalent) releases a roadmap/plan for replacing Windows with Linux that contains at least one milestone date in 2027 or earlier and explicitly names >=3 ministries/agencies. Otherwise NO.",
+      "evidence": [
+        "France plans to replace Windows with Linux to reduce dependence on U.S. tech vendors, accelerating \u2018digital sovereignty\u2019 procurement across governments."
+      ],
+      "monitoring_signals": [
+        "DINUM publications and procurement framework announcements",
+        "French Parliament questions/ministry responses on software sovereignty",
+        "Large French public-sector IT tenders specifying Linux requirements"
+      ],
+      "rationale": "Sovereignty push is real, but converting a headline into a detailed, dated, multi-ministry roadmap may take longer than several months.",
+      "id": "6aa9fe94-ed05-46be-853a-3d9bbc8806a2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, at least one additional EU national government (Germany, Italy, Spain, Netherlands, Belgium, or Austria) will announce a central-government initiative to migrate a significant share of desktops to Linux or an open-source OS, explicitly citing digital sovereignty or reduced dependence on U.S. vendors.",
+      "category": "geopolitics",
+      "horizon_days": 264,
+      "deadline": "2026-12-31",
+      "confidence_pct": 34,
+      "log_odds": -0.6632942174102642,
+      "verification_criteria": "Resolves YES if an official government press release/ministerial statement (not municipal) from any listed country announces a central-government Linux/open-source OS migration initiative and explicitly cites sovereignty/vendor-dependence as motivation. Otherwise NO.",
+      "evidence": [
+        "France\u2019s move to ditch Windows for Linux reflects rising \u2018digital sovereignty\u2019 procurement across governments."
+      ],
+      "monitoring_signals": [
+        "EU member state digital-ministry announcements and national procurement frameworks",
+        "Parliamentary committees on cybersecurity/sovereignty referencing OS choices",
+        "Major open-source vendors reporting new national contracts"
+      ],
+      "rationale": "France can catalyze imitation, but national-level OS migrations are politically and operationally heavy, limiting near-term follow-through.",
+      "id": "3e768287-f7fa-4f66-9ee6-e0d714ab6b98",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

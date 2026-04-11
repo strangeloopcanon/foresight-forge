@@ -18,7 +18,7 @@
       ],
       "rationale": "A delayed hearing suggests scheduling friction, but nominees for high-profile roles typically receive a hearing within weeks to months if the nomination remains live.",
       "id": "e83f73e5-34fb-4fed-bec2-9ee4291ef18c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -39,7 +39,7 @@
       ],
       "rationale": "Sticky underlying inflation plus war-related energy uncertainty makes near-term cuts less likely even if cuts remain plausible later in 2026.",
       "id": "0dc0be6c-c326-4d39-864f-ecf3e1ed5f81",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "70-80"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Geopolitical supply and transit risks often express first in implied volatility; OVX spikes are plausible if incidents recur.",
       "id": "ff2452ef-7100-4327-82c8-bc8c42909d52",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -81,7 +81,7 @@
       ],
       "rationale": "Sustained crude risk premia and refinery constraints can quickly transmit to U.S. pump prices, especially into summer demand.",
       "id": "08b9dd66-fdbc-4aac-88c6-1d013a6efc42",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -102,7 +102,7 @@
       ],
       "rationale": "An SPR action is a common tool to counter acute price spikes or supply disruptions, but political and inventory constraints reduce probability.",
       "id": "81a7ae33-4587-4eca-a719-d0e5c7cd62b5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -122,7 +122,7 @@
       ],
       "rationale": "Food inflation requires multiple channels (weather + inputs + logistics); risk is meaningful but timing and magnitude are uncertain.",
       "id": "0a2b2283-b315-4fc6-a884-7d1403e8f059",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -143,7 +143,7 @@
       ],
       "rationale": "Geopolitical shocks and rate uncertainty increase tail-risk of a large down day even without a sustained bear market.",
       "id": "98982218-caa1-4861-92b6-c5d5eb921a42",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -163,7 +163,7 @@
       ],
       "rationale": "Airspace closures are extreme but have precedent during acute escalation; probability is limited by high economic cost and de-escalation incentives.",
       "id": "42d47ce2-34ee-453a-8a48-095967ef7557",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "If tensions persist, EU packages often expand to maritime facilitation networks; vessel-level listings are a common enforcement mechanism.",
       "id": "366ca371-09f5-48a8-b6d7-070f3239aaa6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     }
   ]

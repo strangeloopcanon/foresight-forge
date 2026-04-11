@@ -1,0 +1,108 @@
+{
+  "bullets": [
+    {
+      "text": "March CPI rose 0.9% m/m (3.3% y/y); gasoline/energy surge tied to Iran conflict, complicating disinflation and Fed policy.",
+      "tags": [
+        "macro",
+        "energy",
+        "rates"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/cpi_04102026.htm"
+    },
+    {
+      "text": "Real average hourly earnings fell 0.6% in March, showing inflation outpaced wages and squeezing consumer purchasing power.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/realer_04102026.htm"
+    },
+    {
+      "text": "Higher gasoline prices push up early estimates for 2027 Social Security COLA, implying larger federal outlays and benefit adjustments.",
+      "tags": [
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/04/10/social-security-2027-cola-estimate-rises.html"
+    },
+    {
+      "text": "U.S.-Iran negotiations hinge on Lebanon ceasefire and Iranian asset releases; Hormuz security risks (mines, shipping) keep oil and jet-fuel supply fragile.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/04/10/iran-war-vance-negotiations-trump-oil-hormuz-strait.html"
+    },
+    {
+      "text": "Europe faces potential jet-fuel crunch within weeks and fuel-price protests (e.g., Ireland), highlighting war-driven energy shocks\u2019 spillovers to transport and politics.",
+      "tags": [
+        "energy",
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/10/jet-fuel-shortage-european-airports-strait-of-hormuz.html"
+    },
+    {
+      "text": "Federal Reserve approved Burke & Herbert Financial Services\u2019 application, signaling continued regulatory clearance for bank expansion/structural changes.",
+      "tags": [
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm"
+    },
+    {
+      "text": "Xi warned of \u2018Taiwan independence\u2019 threats in first cross-strait opposition talks in a decade, underscoring persistent geopolitical risk for Asia supply chains.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/04/10/china-taiwan-reunification-cross-strait-relations-trump-visit-may-.html"
+    },
+    {
+      "text": "Anthropic\u2019s \u2018Mythos\u2019 AI prompted Powell/Bessent briefings with major banks on cyber/operational risk, signaling regulators\u2019 growing focus on frontier-model threats.",
+      "tags": [
+        "tech",
+        "markets",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html"
+    },
+    {
+      "text": "TSMC reported record revenue up 35% y/y, reflecting sustained AI chip demand and reinforcing strength in advanced foundry capacity utilization.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/10/tsmc-q1-record-revenue-ai-chip-demand-strong.html"
+    },
+    {
+      "text": "CoreWeave shares jumped on a deal to power Anthropic\u2019s Claude, highlighting surging demand for GPU cloud capacity and AI infrastructure monetization.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/10/coreweave-anthropic-claude-ai-deal.html"
+    },
+    {
+      "text": "France plans to replace Windows with Linux to reduce dependence on U.S. tech vendors, accelerating \u2018digital sovereignty\u2019 procurement across governments.",
+      "tags": [
+        "geopolitics",
+        "tech"
+      ],
+      "link": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"
+    },
+    {
+      "text": "New stool-based screening test reportedly detects ~90% of colorectal cancers, potentially expanding early detection and reducing reliance on invasive colonoscopy.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm"
+    },
+    {
+      "text": "Researchers argue Alzheimer\u2019s therapies may target the wrong mechanisms, suggesting a paradigm shift that could redirect drug development after repeated trial failures.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm"
+    }
+  ]
+}

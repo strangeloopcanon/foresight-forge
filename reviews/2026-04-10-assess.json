@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-10",
+  "assessments": [
+    {
+      "id": "e83f73e5-34fb-4fed-bec2-9ee4291ef18c",
+      "status": "pending",
+      "status_rationale": "Today\u2019s coverage does not mention Kevin Warsh, a nomination, or any Senate Banking Committee confirmation hearing for a Federal Reserve leadership role. Deadline is 2026-06-30, so this remains unresolved."
+    },
+    {
+      "id": "0dc0be6c-c326-4d39-864f-ecf3e1ed5f81",
+      "status": "pending",
+      "status_rationale": "No news item states an FOMC rate cut or confirms the current target range versus 2026-04-09. With the deadline at 2026-07-31, this prediction cannot be judged yet."
+    },
+    {
+      "id": "ff2452ef-7100-4327-82c8-bc8c42909d52",
+      "status": "pending",
+      "status_rationale": "While Iran-related tensions are referenced, there is no cited OVX close level (or any confirmation of OVX \u2265 70 on a trading day). Deadline is 2026-06-30; unresolved."
+    },
+    {
+      "id": "08b9dd66-fdbc-4aac-88c6-1d013a6efc42",
+      "status": "pending",
+      "status_rationale": "Articles note fuel-price pressure (e.g., protests tied to higher fuel prices), but none provides AAA\u2019s U.S. national average regular gasoline price or confirms it reached \u2265 $4.25/gal. Deadline is 2026-06-30; unresolved."
+    },
+    {
+      "id": "81a7ae33-4587-4eca-a719-d0e5c7cd62b5",
+      "status": "pending",
+      "status_rationale": "No item reports that the U.S. Department of Energy announced an emergency SPR release/sale totaling at least 15 million barrels. Deadline is 2026-07-31; unresolved."
+    },
+    {
+      "id": "0a2b2283-b315-4fc6-a884-7d1403e8f059",
+      "status": "pending",
+      "status_rationale": "No bullet references the FAO Food Price Index or provides year-over-year comparisons for 2026 months. Deadline is 2026-09-15; unresolved."
+    },
+    {
+      "id": "98982218-caa1-4861-92b6-c5d5eb921a42",
+      "status": "pending",
+      "status_rationale": "Market-related bullets discuss sentiment and individual stocks but do not document an S&P 500 single-day close-to-close decline of \u2265 3.5%. Deadline is 2026-06-30; unresolved."
+    },
+    {
+      "id": "42d47ce2-34ee-453a-8a48-095967ef7557",
+      "status": "pending",
+      "status_rationale": "Despite Middle East security coverage, there is no report that any listed Gulf state announced a full temporary national airspace closure lasting \u2265 12 hours explicitly citing military/security risk. Deadline is 2026-06-30; unresolved."
+    },
+    {
+      "id": "366ca371-09f5-48a8-b6d7-070f3239aaa6",
+      "status": "pending",
+      "status_rationale": "No item indicates the EU adopted and published (in the Official Journal) a new Iran-related sanctions update listing shipping/maritime-logistics entities and at least five specific vessels. Deadline is 2026-12-31; unresolved."
+    }
+  ]
+}

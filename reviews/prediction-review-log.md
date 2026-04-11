@@ -2420,3 +2420,12 @@ OpenAI appears in the news via a state-level investigation, which may affect the
 
 ---
 
+
+## 2026-04-10
+
+Today’s news is dominated by Iran-related geopolitical developments (talks, cease-fire implications, and Strait of Hormuz security concerns) alongside market unease and reports of fuel-price impacts (e.g., protests abroad tied to higher prices). This cluster of developments is directionally relevant to the energy- and volatility-linked forecasts (OVX, gasoline prices, potential SPR actions, and broad equity drawdowns), but none of the bullets provides the specific quantitative triggers needed to mark any of those predictions as achieved.
+
+On the U.S. macro/policy side, the items include inflation coverage and references to senior officials engaging banks on AI/cyber risk, but nothing indicating a change in the FOMC target range, nor anything about Kevin Warsh and a Senate Banking confirmation hearing. Likewise, there is no concrete evidence here for the Gulf airspace-closure scenario or for an EU Official Journal sanctions package listing vessels; those remain watch items given the continued Middle East security backdrop but are still clearly unresolved on the evidence presented.
+
+---
+
