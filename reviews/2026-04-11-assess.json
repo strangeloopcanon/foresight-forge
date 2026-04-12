@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-11",
+  "assessments": [
+    {
+      "id": "6f173103-afbe-4c07-8f1f-f94dff128cf1",
+      "status": "pending",
+      "status_rationale": "The prediction is about the BLS CPI report for May 2026 (released by 2026-06-15). Today\u2019s news references inflation fears tied to the Iran war/cease-fire and consumer sentiment, but provides no May 2026 CPI print or BLS release confirming \u22653.6% y/y."
+    },
+    {
+      "id": "f668e99d-90c6-4f20-9031-c7cc2f1724d8",
+      "status": "pending",
+      "status_rationale": "News includes Iran war/cease-fire and implications for gas prices/airfares, but there is no report that any listed major European hub airport publicly confirmed jet-fuel supply constraints causing uplift limits or \u226550 departures canceled in a 72-hour window explicitly linked to Middle East conflict/shipping disruption."
+    },
+    {
+      "id": "3bfd8bd6-fd36-4e3a-ba5b-a8f3c7176245",
+      "status": "pending",
+      "status_rationale": "The claim concerns TSCL (or comparable estimator) publishing a 2027 Social Security COLA estimate \u22653.8% by 2026-08-31. Today\u2019s bullets include a Social Security benefits Q&A, but no COLA estimate publication meeting the stated threshold and source criteria."
+    },
+    {
+      "id": "efd2639b-aa0d-4435-badd-4f76f8849d12",
+      "status": "pending",
+      "status_rationale": "This requires TSMC reporting Q2 2026 revenue up \u226525% y/y by 2026-07-10. Today\u2019s news set contains no TSMC monthly revenue release or Q2 aggregation data."
+    },
+    {
+      "id": "4fc10620-c804-44f8-8728-b4cfe3d09f40",
+      "status": "pending",
+      "status_rationale": "The prediction requires an explicit citation by Walmart/Target/Home Depot/Lowe\u2019s (earnings call or release) that higher gasoline/energy prices are a material headwind to discretionary demand. While there are general articles about gas prices and inflation fears, there is no qualifying retailer earnings quote or disclosure in the provided news."
+    },
+    {
+      "id": "7782d4c6-37b8-4fb4-9e14-93975582f3e9",
+      "status": "pending",
+      "status_rationale": "This concerns public guidance from at least two U.S. bank regulators explicitly mentioning 'generative AI' or 'GenAI' by 2026-11-30. Today\u2019s items include market commentary on banks and AI-industry event coverage, but no regulator-issued guidance documents meeting the requirement."
+    },
+    {
+      "id": "151cc65d-9b1a-4e12-9a88-8ff376ee132c",
+      "status": "pending",
+      "status_rationale": "The event is CoreWeave publicly filing an IPO registration statement on SEC EDGAR by 2026-12-31. No EDGAR filing evidence or related reporting is included in today\u2019s bullets."
+    },
+    {
+      "id": "6aa9fe94-ed05-46be-853a-3d9bbc8806a2",
+      "status": "pending",
+      "status_rationale": "The prediction requires a French central-government digital authority roadmap for Windows-to-Linux migration with dated milestones (2027 or earlier) and at least three named ministries/agencies by 2026-10-31. Today\u2019s news includes some open-source/tech links but no official French government roadmap publication fitting these criteria."
+    },
+    {
+      "id": "3e768287-f7fa-4f66-9ee6-e0d714ab6b98",
+      "status": "pending",
+      "status_rationale": "This requires an EU national government announcement of a central-government desktop migration initiative to Linux/open-source OS citing digital sovereignty/reduced U.S. vendor dependence by 2026-12-31. No such government announcement appears in today\u2019s bullets."
+    }
+  ]
+}

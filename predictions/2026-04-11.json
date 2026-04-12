@@ -20,7 +20,7 @@
       ],
       "rationale": "Energy-driven pass-through and elevated monthly prints make a modest upward drift in y/y plausible, but base effects still limit odds of a large move.",
       "id": "6f173103-afbe-4c07-8f1f-f94dff128cf1",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -42,7 +42,7 @@
       ],
       "rationale": "A shortage is being discussed publicly, but translating into confirmed operational rationing/cancellation at a major hub requires a sharper logistics break.",
       "id": "f668e99d-90c6-4f20-9031-c7cc2f1724d8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -64,7 +64,7 @@
       ],
       "rationale": "With energy volatile, a high-3% estimate is plausible, though sustained cooling in CPI-W would pull estimates back down.",
       "id": "3bfd8bd6-fd36-4e3a-ba5b-a8f3c7176245",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -85,7 +85,7 @@
       ],
       "rationale": "Recent 35% y/y growth suggests strong momentum; 25% for Q2 is achievable unless a demand or supply shock hits late quarter.",
       "id": "efd2639b-aa0d-4435-badd-4f76f8849d12",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -107,7 +107,7 @@
       ],
       "rationale": "When fuel spikes and real earnings fall, large retailers commonly highlight gas as a squeeze on discretionary budgets.",
       "id": "4fc10620-c804-44f8-8728-b4cfe3d09f40",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -128,7 +128,7 @@
       ],
       "rationale": "Regulatory attention is rising, but agencies may prefer nonbinding speeches over formal guidance within this timeframe.",
       "id": "7782d4c6-37b8-4fb4-9e14-93975582f3e9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -149,7 +149,7 @@
       ],
       "rationale": "Strong demand could support an IPO, but market windows and financing alternatives (private rounds) may delay a public filing.",
       "id": "151cc65d-9b1a-4e12-9a88-8ff376ee132c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -170,7 +170,7 @@
       ],
       "rationale": "Sovereignty push is real, but converting a headline into a detailed, dated, multi-ministry roadmap may take longer than several months.",
       "id": "6aa9fe94-ed05-46be-853a-3d9bbc8806a2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -191,7 +191,7 @@
       ],
       "rationale": "France can catalyze imitation, but national-level OS migrations are politically and operationally heavy, limiting near-term follow-through.",
       "id": "3e768287-f7fa-4f66-9ee6-e0d714ab6b98",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

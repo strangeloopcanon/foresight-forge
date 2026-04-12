@@ -2429,3 +2429,12 @@ On the U.S. macro/policy side, the items include inflation coverage and referenc
 
 ---
 
+
+## 2026-04-11
+
+None of the forecasts can be conclusively scored from today’s news set: all deadlines are still in the future and no bullet provides the specific, attributable artifacts required (e.g., a BLS CPI release value, an airport operational notice, an earnings-call transcript quote, a regulator guidance document, an EDGAR filing, or an official government roadmap/initiative announcement).
+
+However, the news does add context relevant to several macro/energy-linked predictions. The Iran war/cease-fire coverage, Strait of Hormuz mine-clearing reports, and articles discussing gasoline prices, airfares, and inflation fears increase the salience of the CPI, retailer-demand headwind, and European jet-fuel constraint scenarios. These items are best treated as directional signals rather than resolution evidence, so all items remain pending.
+
+---
+
