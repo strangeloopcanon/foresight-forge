@@ -1,0 +1,100 @@
+{
+  "bullets": [
+    {
+      "text": "Hungary election upset: Viktor Orb\u00e1n concedes defeat to opposition leader P\u00e9ter Magyar, signaling major EU/NATO political realignment and potential shifts on rule-of-law and Ukraine policy.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html"
+    },
+    {
+      "text": "Orb\u00e1n\u2019s loss tied to corruption fatigue and local economic pressures, highlighting governance credibility as a decisive electoral variable in Central Europe.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/10/world/europe/hungary-corruption-orban-magyar-election.html"
+    },
+    {
+      "text": "U.S.\u2013Iran talks collapse amid trust deficit; escalation risk rises as diplomacy fails to contain conflict dynamics and sanctions/energy pressures.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/04/12/world/middleeast/us-iran-negotiations.html"
+    },
+    {
+      "text": "U.S. announces Strait of Hormuz blockade; oil jumps above $100 and risk-off hits global markets, underscoring chokepoint vulnerability for energy and shipping.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html"
+    },
+    {
+      "text": "Futures fall while oil surges after failed U.S.\u2013Iran weekend talks, illustrating how geopolitical supply shocks can overwhelm near-term macro narratives.",
+      "tags": [
+        "markets",
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/stock-market-futures-drop-oil-surges-back-above-100-after-failed-talks-between-u-s-and-iran-over-the-weekend-7b741637"
+    },
+    {
+      "text": "Trump warns gas prices may not drop by midterms, highlighting inflation sensitivity and electoral risk from energy-driven cost-of-living pressures.",
+      "tags": [
+        "macro",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/12/us/politics/trump-gas-prices-high-midterms-republicans.html"
+    },
+    {
+      "text": "South Korea\u2019s emergency-room refusals expose healthcare capacity strain and policy dysfunction, with potential labor-market and demographic consequences.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/12/world/asia/south-korea-emergency-room-medical-crisis.html"
+    },
+    {
+      "text": "Nigeria intensifies military strikes against militants; civilian casualties risk fueling insurgency recruitment and regional instability in West Africa.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/12/world/africa/snigerian-airstrike-insurgents-civilians.html"
+    },
+    {
+      "text": "Cuba signals defiance in U.S. standoff, suggesting prolonged sanctions-era economic stress and limited near-term bilateral thaw.",
+      "tags": [
+        "geopolitics",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/04/12/world/americas/cuba-president-meet-the-press.html"
+    },
+    {
+      "text": "Reports suggest U.S. officials push banks to test Anthropic\u2019s model, accelerating AI adoption in regulated finance and sharpening model-risk, compliance, and auditability demands.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/"
+    },
+    {
+      "text": "Apple testing multiple smart-glasses designs indicates renewed consumer AR push, potentially reshaping wearables supply chains and on-device AI competition.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/"
+    },
+    {
+      "text": "Science advances: evidence of Neanderthal\u2013Homo sapiens cooperation rewrites interaction history; GLP-1 response variability and tumor immune evasion findings guide precision medicine.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/04/260412071005.htm"
+    }
+  ]
+}

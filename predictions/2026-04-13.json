@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-13",
+  "predictions": [
+    {
+      "text": "By 2026-12-31, the European Commission will approve (via press release and/or official decision notice) the disbursement or unfreezing of at least \u20ac5.0 billion in EU funds to Hungary (cohesion and/or RRF), explicitly citing rule-of-law or anti-corruption remedial steps by the new government.",
+      "category": "geopolitics",
+      "horizon_days": 262,
+      "deadline": "2026-12-31",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "European Commission (or Council) public communication explicitly states that \u2265\u20ac5.0B of EU funds for Hungary are approved for disbursement/unfrozen after being previously withheld/blocked; amount must be stated or directly inferable from official documents.",
+      "evidence": [
+        "Hungary election upset indicates potential policy reorientation and governance reform momentum (NYT 2026-04-12).",
+        "Reporting ties Orb\u00e1n\u2019s loss to corruption fatigue, making rule-of-law concessions more politically plausible (NYT 2026-04-10)."
+      ],
+      "monitoring_signals": [
+        "European Commission rule-of-law/corruption conditionality updates on Hungary",
+        "Hungarian government announcements on judiciary/procurement reforms",
+        "EU Council/Commission RRF milestones and payment decisions",
+        "Major Hungarian anti-corruption legislative packages introduced/passed"
+      ],
+      "rationale": "A new Hungarian administration has incentives to trade reforms for cashflow; EU has incentives to stabilize a member state if credible compliance is offered.",
+      "id": "c8eb526d-8bf4-488a-a303-8fba1ec3e7f4",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-10-31, Hungary\u2019s government will submit a formal request to join the European Public Prosecutor\u2019s Office (EPPO), confirmed by an EPPO or Hungarian government press release.",
+      "category": "geopolitics",
+      "horizon_days": 201,
+      "deadline": "2026-10-31",
+      "confidence_pct": 28,
+      "log_odds": -0.94,
+      "verification_criteria": "EPPO website/press release or an official Hungarian government statement confirms Hungary has formally applied to participate in EPPO (not merely debating or studying).",
+      "evidence": [
+        "Election turnover linked to corruption concerns increases odds of high-credibility anti-corruption signaling (NYT 2026-04-10; 2026-04-12)."
+      ],
+      "monitoring_signals": [
+        "Hungarian justice ministry policy agenda and coalition agreement text",
+        "EPPO statements on enlargement/participation",
+        "Parliamentary votes on EU justice/cooperation instruments",
+        "EU fund conditionality discussions referencing prosecutorial independence"
+      ],
+      "rationale": "Joining EPPO is a strong, legible anti-corruption commitment, but faces domestic sovereignty pushback, keeping probability below 50%.",
+      "id": "8c3aa2a4-c929-4f90-a415-13a1b2a4ebf0",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "By 2026-06-15, the International Energy Agency (IEA) will announce a coordinated release of at least 30 million barrels of oil (or oil-equivalent) from member strategic stocks explicitly linked to disruption risk in/around the Strait of Hormuz.",
+      "category": "energy",
+      "horizon_days": 63,
+      "deadline": "2026-06-15",
+      "confidence_pct": 32,
+      "log_odds": -0.75,
+      "verification_criteria": "IEA public announcement (press release or statement) specifies a coordinated action totaling \u226530 million barrels and references Strait of Hormuz / Persian Gulf disruption as the motivating factor.",
+      "evidence": [
+        "Reports of a Strait of Hormuz blockade and oil jumping above $100 elevate coordinated stock-release plausibility (CNBC 2026-04-12; MarketWatch 2026-04-12)."
+      ],
+      "monitoring_signals": [
+        "IEA emergency meeting announcements",
+        "US/EU/Japan/Korea strategic stock policy statements",
+        "Brent/WTI price spikes and backwardation steepening",
+        "Public guidance on supply disruptions from major producers/shippers"
+      ],
+      "rationale": "Coordinated releases are a standard tool for acute chokepoint shocks, but require political alignment and clear disruption evidence.",
+      "id": "548da1c7-c8e7-4faf-9027-7668dffae530",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-06-30, the CBOE Volatility Index (VIX) will close at or above 35.0 on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 78,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "log_odds": 0.2,
+      "verification_criteria": "CBOE-published VIX historical close shows \u226535.0 for any date on or before 2026-06-30.",
+      "evidence": [
+        "Energy-driven risk-off dynamics reported following Middle East escalation and oil surge (MarketWatch 2026-04-12; CNBC 2026-04-12)."
+      ],
+      "monitoring_signals": [
+        "Daily VIX closes and SPX realized volatility",
+        "Oil price gap moves and OVX spikes",
+        "Credit spreads (CDX IG/HY) widening",
+        "War-risk/airspace restriction headlines affecting global transport"
+      ],
+      "rationale": "A major geopolitical supply shock plus fragile risk sentiment makes at least one VIX\u226535 close more likely than not within the next ~11 weeks.",
+      "id": "37d70fd4-3ef6-44fb-a09f-280cc4bcca0a",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-09-30, at least one U.S. GSIB (JPMorgan Chase, Bank of America, Citigroup, Wells Fargo, Goldman Sachs, or Morgan Stanley) will explicitly mention 'Anthropic' or 'Mythos' in an earnings call transcript or SEC filing in the context of evaluating, piloting, or deploying the model for internal use.",
+      "category": "tech",
+      "horizon_days": 170,
+      "deadline": "2026-09-30",
+      "confidence_pct": 38,
+      "log_odds": -0.49,
+      "verification_criteria": "Public earnings call transcript or 10-Q/8-K/10-K contains the term 'Anthropic' or 'Mythos' with surrounding text indicating model testing/pilot/deployment (not merely industry commentary).",
+      "evidence": [
+        "Reports suggest U.S. officials are encouraging banks to test Anthropic\u2019s model, increasing probability of public mention (TechCrunch 2026-04-12)."
+      ],
+      "monitoring_signals": [
+        "Big-bank earnings call transcripts (Q2/Q3 2026)",
+        "Procurement/vendor risk disclosures and AI governance sections in 10-Q/10-K",
+        "Regulator speeches pushing tested AI tools in compliance contexts",
+        "Bank AI model risk committee updates and vendor announcements"
+      ],
+      "rationale": "If pilots expand, disclosure risk rises via Q&A or risk/governance sections, but many banks avoid naming vendors publicly.",
+      "id": "2deae986-3654-49db-b552-159869141334",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, a USPTO-published Apple patent application will include the exact phrase 'smart glasses' and depict (in at least one figure) a glasses-like wearable with onboard sensors or cameras.",
+      "category": "tech",
+      "horizon_days": 262,
+      "deadline": "2026-12-31",
+      "confidence_pct": 65,
+      "log_odds": 0.62,
+      "verification_criteria": "USPTO Patent Application Publication assigned to Apple (Apple Inc.) contains the phrase 'smart glasses' and includes at least one figure clearly showing eyeglass frames with embedded electronics (sensors/cameras).",
+      "evidence": [
+        "Reporting that Apple is testing multiple smart-glasses designs suggests ongoing IP activity around such form factors (TechCrunch 2026-04-12)."
+      ],
+      "monitoring_signals": [
+        "Weekly USPTO publication searches for Apple + 'smart glasses'",
+        "Apple AR/wearables inventor filings and continuation patterns",
+        "Supplier/analyst reports of glasses component sourcing",
+        "Apple job postings referencing optical waveguides/eyewear"
+      ],
+      "rationale": "Apple consistently patents prospective hardware categories; public patent publication within the year is comparatively likely.",
+      "id": "429d31fa-b47a-4408-a223-49a2c5e5c318",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-08-31, South Korea\u2019s Ministry of Health and Welfare (MOHW) will issue a nationwide directive requiring hospitals to publicly report (at least weekly) emergency-room refusal/diversion statistics, with MOHW publishing the directive or a formal implementation notice.",
+      "category": "macro",
+      "horizon_days": 140,
+      "deadline": "2026-08-31",
+      "confidence_pct": 45,
+      "log_odds": -0.2,
+      "verification_criteria": "MOHW publishes a directive/notice (or equivalent official document) mandating public reporting of ER refusal/diversion metrics on a defined cadence (\u2265weekly) applicable nationwide.",
+      "evidence": [
+        "South Korea emergency-room refusals reported as a visible capacity strain, increasing likelihood of centralized reporting mandates (NYT 2026-04-12)."
+      ],
+      "monitoring_signals": [
+        "MOHW press briefings and policy circulars",
+        "National Assembly hearings on emergency care capacity",
+        "Hospital association responses to transparency mandates",
+        "Launch of a public dashboard for ER refusals/diversions"
+      ],
+      "rationale": "High-salience service failures often trigger transparency and reporting mandates as a first-line policy response.",
+      "id": "3dc4084a-8b9e-4c4b-975c-20e23fc32e2a",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, at least one of Maersk, MSC, CMA CGM, or Hapag-Lloyd will publicly announce a suspension of all container-vessel transits through the Strait of Hormuz lasting at least 7 consecutive days, citing security risk.",
+      "category": "markets",
+      "horizon_days": 78,
+      "deadline": "2026-06-30",
+      "confidence_pct": 42,
+      "log_odds": -0.32,
+      "verification_criteria": "Company advisory/notice or major-wire reporting quotes the carrier stating it will not route any of its container ships through the Strait of Hormuz for \u22657 consecutive days; announcement must cite security/conflict risk.",
+      "evidence": [
+        "Reporting of a Strait of Hormuz blockade and heightened regional risk implies rerouting/suspension decisions by major carriers (CNBC 2026-04-12)."
+      ],
+      "monitoring_signals": [
+        "Carrier customer advisories and routing updates",
+        "AIS-based observed route changes around the Gulf",
+        "UKMTO/CMF incident reports and threat advisories",
+        "War-risk premium announcements impacting voyage economics"
+      ],
+      "rationale": "If threat levels persist, at least one major carrier may pause Hormuz transits for crew and asset protection, though many will attempt mitigations first.",
+      "id": "5175a8bc-f4be-43f7-b9ce-f2daf6737194",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. State Department will announce new visa restrictions (e.g., under Section 7031(c) or a similar authority) on at least 5 named Cuban government officials, explicitly citing human-rights abuses or repression.",
+      "category": "geopolitics",
+      "horizon_days": 262,
+      "deadline": "2026-12-31",
+      "confidence_pct": 47,
+      "log_odds": -0.12,
+      "verification_criteria": "State Department press statement names \u22655 Cuban officials subject to new visa restrictions and explicitly states human-rights abuses/repression as the justification.",
+      "evidence": [
+        "Cuba signals defiance in an ongoing U.S. standoff, increasing odds of incremental punitive measures (NYT 2026-04-12)."
+      ],
+      "monitoring_signals": [
+        "State Department Cuba policy statements and human-rights reports",
+        "Congressional letters urging targeted sanctions/visa bans",
+        "Cuban internal crackdown reporting and NGO documentation",
+        "U.S. embassy/human rights bureau public advisories"
+      ],
+      "rationale": "Visa restrictions are a relatively low-cost escalatory tool; policy trajectory depends on domestic U.S. politics and Cuban internal repression levels.",
+      "id": "f864cadf-117a-4e96-8721-e8ff357c6571",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, Nigeria\u2019s federal government will announce the creation of an independent inquiry panel into civilian casualties from military airstrikes conducted in 2026, with a published chair/personnel list or formal terms of reference.",
+      "category": "geopolitics",
+      "horizon_days": 170,
+      "deadline": "2026-09-30",
+      "confidence_pct": 35,
+      "log_odds": -0.62,
+      "verification_criteria": "Official Nigerian government release (presidency/defense ministry) establishes an inquiry panel into 2026 airstrike civilian casualties and provides either membership/chair details or formal terms of reference.",
+      "evidence": [
+        "Reports of intensified Nigerian strikes with civilian-casualty risk increase pressure for accountability mechanisms (NYT 2026-04-12)."
+      ],
+      "monitoring_signals": [
+        "Defense ministry statements following reported civilian casualty incidents",
+        "National Assembly hearings or motions on airstrike rules of engagement",
+        "NGO/UN reporting prompting government responses",
+        "Legal challenges or media investigations gaining traction"
+      ],
+      "rationale": "Sustained civilian-casualty reporting can force politically necessary inquiries, though security establishments often resist independent review.",
+      "id": "a96f5c17-f830-4d5a-9bc0-8d001cafcba0",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

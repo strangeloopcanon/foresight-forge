@@ -2438,3 +2438,12 @@ However, the news does add context relevant to several macro/energy-linked predi
 
 ---
 
+
+## 2026-04-12
+
+Today’s news is dominated by geopolitical escalation around Iran (failed talks, blockade/closure rhetoric tied to the Strait of Hormuz, and oil surging above $100) and political developments (notably Hungary’s election result). This backdrop is directionally relevant to the maritime war-risk premium forecast and, more broadly, to inflation and macro-risk narratives, but it does not provide the specific institutional confirmations required by the stated prediction criteria.
+
+None of the listed predictions can be marked correct or incorrect based on the provided bullets: there are no explicit data releases (Michigan inflation expectations, Freddie Mac PMMS, CME FedWatch probabilities), no formal policy actions matching the sanctions/Section 232/USPS-legislation triggers, and no corporate filings or dividend-cut announcements for the named entities. The key takeaway is that while the Iran/Hormuz situation increases plausibility for several forecasts, the evidence threshold in the predictions is event-and-source specific, and that threshold is not met by today’s headlines alone.
+
+---
+

@@ -19,7 +19,7 @@
       ],
       "rationale": "If China-linked transfers become more visible or attributable, sanctions are a common U.S. escalation tool short of direct confrontation.",
       "id": "48920581-63fc-4c09-bc2c-dcc305319018",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Mine/drone risk and uncertain de-escalation often translate quickly into higher war-risk premia.",
       "id": "968e86a5-c764-41da-800b-6902e2c3a2ee",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "Energy shocks and heightened uncertainty can push short-run household expectations above prior ranges.",
       "id": "f62b2de6-bea3-4974-be99-8dfe3395cf3c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -80,7 +80,7 @@
       ],
       "rationale": "If markets continue pricing easing and term yields drift lower, mortgage rates can cross the 6% threshold.",
       "id": "f65a4416-c2c1-402c-99a9-832d683c8134",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -101,7 +101,7 @@
       ],
       "rationale": "If growth/inflation data soften or risk-off persists, the market may quickly price a deeper 2026 easing path.",
       "id": "412904f4-c9a2-4f55-928c-6aeeb2151f8e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -122,7 +122,7 @@
       ],
       "rationale": "A funding crunch plus operational mandates often force Congress to choose between liquidity support and service cuts.",
       "id": "d6235ecf-ce48-4161-bfb7-41b0bd0111f5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -143,7 +143,7 @@
       ],
       "rationale": "If private-credit stress rises, larger BDCs may protect balance sheets through dividend cuts tied to credit quality.",
       "id": "6fb191b3-f12c-4f0e-a9ea-832532a2a2c9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -164,7 +164,7 @@
       ],
       "rationale": "Strong AI-infra capital markets could reopen an IPO path, but timing remains uncertain.",
       "id": "f35187a0-e368-4e01-ae70-2428abe2f75b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -185,7 +185,7 @@
       ],
       "rationale": "Supply-chain security framing makes pharma a plausible next target for national-security trade actions.",
       "id": "8cc551a4-1728-4bf4-ab39-a46e879ebc61",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -206,7 +206,7 @@
       ],
       "rationale": "Persistent conflict risk and tighter financial conditions often lead the IMF to mark down forward global growth.",
       "id": "dfe266e0-41cd-4568-83a1-fd8614131b4c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     }
   ]
