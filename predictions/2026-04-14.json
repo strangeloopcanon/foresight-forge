@@ -1,0 +1,208 @@
+{
+  "date": "2026-04-14",
+  "predictions": [
+    {
+      "text": "By 2026-06-30, at least one major Asian oil-importing government (Japan, South Korea, India, or China) will announce a release of \u22655 million barrels (or oil-equivalent) from its national strategic petroleum reserves explicitly citing Middle East conflict and/or Strait of Hormuz disruption risk.",
+      "category": "energy",
+      "horizon_days": 77,
+      "deadline": "2026-06-30",
+      "confidence_pct": 34,
+      "verification_criteria": "Qualifies if an official government/agency press release (e.g., Japan METI, Korea MOTIE/KOGAS, India MoPNG/ISPRL, China NDRC) states an SPR release amount \u22655 million barrels (or clearly oil-equivalent) and links the action to Middle East conflict or Hormuz-related disruption risk.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html",
+        "https://www.cnbc.com/2026/04/13/iran-war-oil-opec-production-decline.html"
+      ],
+      "monitoring_signals": [
+        "Official statements from METI (Japan), MOTIE (Korea), MoPNG/ISPRL (India), NDRC (China) mentioning stock releases",
+        "IEA/OECD coordination language appearing in Asian government releases",
+        "Sharp spikes in Asian crude benchmarks (Dubai/Oman) and freight/insurance premia triggering policy response"
+      ],
+      "rationale": "If Hormuz tail-risk persists without full de-escalation, large importers may pre-emptively smooth supply and prices via national stock releases even absent a formal IEA action.",
+      "id": "932b4868-4fde-4837-a5d1-10af2f535ecc",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-07-31, AAA\u2019s California statewide average retail price for regular gasoline will be \u2265$6.00 per gallon on at least one day.",
+      "category": "energy",
+      "horizon_days": 108,
+      "deadline": "2026-07-31",
+      "confidence_pct": 41,
+      "verification_criteria": "Resolves YES if AAA\u2019s public Fuel Gauge Report (or AAA-published historical daily series) shows California regular gasoline state average \u2265 6.000 USD/gal for any date on or before 2026-07-31.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/13/the-iran-war-is-compounding-californias-energy-crunch.html",
+        "https://www.cnbc.com/2026/04/13/iran-war-oil-opec-production-decline.html"
+      ],
+      "monitoring_signals": [
+        "AAA Fuel Gauge CA trend approaching $5.75+",
+        "West Coast refining outages or inventory drawdowns (EIA PADD 5)",
+        "Brent/WTI rallies coinciding with widened California spot gasoline cracks"
+      ],
+      "rationale": "California pump prices are highly sensitive to supply tightness; a sustained geopolitical crude shock can push the CA average above $6 even if the U.S. national average stays below.",
+      "id": "df9f604e-7fea-4c22-b7da-a3cf34456735",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-08-31, the BEA will report headline PCE inflation (PCE Price Index) at \u22653.3% year-over-year in at least one monthly Personal Income and Outlays release (either preliminary or revised).",
+      "category": "macro",
+      "horizon_days": 139,
+      "deadline": "2026-08-31",
+      "confidence_pct": 39,
+      "verification_criteria": "YES if any BEA Personal Income and Outlays release dated on/before 2026-08-31 shows PCE Price Index year-over-year change \u2265 3.3% for the reported month.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/13/iran-war-oil-opec-production-decline.html",
+        "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html"
+      ],
+      "monitoring_signals": [
+        "Energy CPI acceleration feeding into PCE components",
+        "University of Michigan and other inflation expectations moving higher",
+        "BEA monthly PCE deflator running \u22650.3% m/m for multiple prints"
+      ],
+      "rationale": "Energy pass-through and risk premia from Middle East disruption can lift headline PCE even if core inflation moderates.",
+      "id": "dba4f46a-4e04-4150-8c32-c5869a4646ee",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, the FBI or DHS/CISA will issue a public advisory explicitly warning of physical threats (e.g., arson/violence) targeting AI companies, AI data centers, or AI executives in the U.S.",
+      "category": "tech",
+      "horizon_days": 169,
+      "deadline": "2026-09-30",
+      "confidence_pct": 52,
+      "verification_criteria": "YES if an FBI public service announcement, DHS bulletin, CISA advisory, or joint advisory (posted on an official .gov site) contains explicit language about physical attacks/threats against AI companies/facilities/executives.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html"
+      ],
+      "monitoring_signals": [
+        "Additional copycat incidents or arrests tied to AI-related ideology",
+        "Increased mentions of AI facilities/executives in federal threat briefings",
+        "Major AI firms publicly tightening access controls and security posture"
+      ],
+      "rationale": "A high-profile incident increases the odds of a standardized federal warning as agencies try to deter follow-on attacks and drive reporting.",
+      "id": "6e340d37-5277-4abf-9b9c-e9e651fa2dbb",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-09-30, Hungary\u2019s Parliament will pass and publish (in the official gazette) legislation that either abolishes the Sovereignty Protection Office (or equivalent) or removes at least two of its core powers (e.g., investigative authority, sanctioning/referral powers, or ability to target NGOs/media).",
+      "category": "geopolitics",
+      "horizon_days": 169,
+      "deadline": "2026-09-30",
+      "confidence_pct": 36,
+      "verification_criteria": "YES if a law is enacted and published in Magyar K\u00f6zl\u00f6ny that explicitly dissolves the office or amends the enabling statute to remove at least two major enumerated powers; government/Parliament documentation must clearly describe the change.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/13/hungary-election-orban-defeat-russia-putin-eu-win-reaction.html"
+      ],
+      "monitoring_signals": [
+        "EU Commission rule-of-law conditionality statements mentioning Hungary\u2019s institutional changes",
+        "Draft bills submitted by the new government targeting sovereignty/NGO oversight structures",
+        "Venice Commission / Council of Europe commentary on amended Hungarian laws"
+      ],
+      "rationale": "A post-Orb\u00e1n government seeking EU normalization has incentives to quickly unwind flagship rule-of-law flashpoints that block funding and political trust.",
+      "id": "de9542eb-1b2c-441d-a111-91eea34a49c9",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-10-31, AWS will publicly document that at least one OpenAI model is available to customers via Amazon Bedrock (or an equivalent first-party AWS managed model catalog).",
+      "category": "tech",
+      "horizon_days": 200,
+      "deadline": "2026-10-31",
+      "confidence_pct": 40,
+      "verification_criteria": "YES if AWS public documentation/blogs/press releases list OpenAI as a model provider on Bedrock (or successor service) with customer-access instructions; screenshots or archived pages acceptable if URL later changes.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html"
+      ],
+      "monitoring_signals": [
+        "OpenAI/AWS joint announcements on enterprise distribution",
+        "AWS re:Invent or major AWS launch events featuring OpenAI sessions",
+        "Contract/partnership news indicating reduced exclusivity with Azure"
+      ],
+      "rationale": "If OpenAI pushes multi-cloud distribution and AWS wants differentiated catalog breadth, Bedrock availability is a high-leverage, customer-visible integration.",
+      "id": "0ab3956e-b848-4e0c-96ae-d5534f5c7984",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-11-30, Canada\u2019s Department of Finance will table a Fall Economic Statement (or equivalent fiscal update) projecting a federal deficit of \u2265C$50 billion for FY2026\u201327 or FY2027\u201328.",
+      "category": "macro",
+      "horizon_days": 230,
+      "deadline": "2026-11-30",
+      "confidence_pct": 56,
+      "verification_criteria": "YES if an official Fall Economic Statement (or fiscal update) tabled in Parliament on/before 2026-11-30 includes a deficit line item \u2265 50.0 C$ billions for either FY2026\u201327 or FY2027\u201328 (as presented in the document tables).",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/13/world/canada/mark-carney-liberals-majority-conservatives-defect.html"
+      ],
+      "monitoring_signals": [
+        "Pre-FES briefings signaling larger spending envelopes or weaker revenue",
+        "Bond-market commentary on Canadian fiscal slippage",
+        "New industrial/energy/defense commitments expanding baseline outlays"
+      ],
+      "rationale": "A majority government has greater latitude for fiscal expansion; macro volatility and industrial-policy pressures make a \u2265C$50B deficit projection plausible.",
+      "id": "c67b5a3c-af00-4731-ac8f-ae00e721ca5d",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, Oracle and/or Bloom Energy will announce that Oracle\u2019s contracted Bloom on-site generation capacity for data centers totals \u22651.5 gigawatts (GW).",
+      "category": "energy",
+      "horizon_days": 261,
+      "deadline": "2026-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "YES if a company press release, earnings call transcript, or investor presentation explicitly states Oracle has contracted/committed Bloom capacity totaling \u22651.5 GW (cumulative, not necessarily operational), tied to Oracle data centers.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/13/oracle-expands-bloom-energy-deal-days-after-400-million-stock-warrant.html"
+      ],
+      "monitoring_signals": [
+        "Bloom backlog updates referencing Oracle expansions",
+        "Oracle cloud capex guidance mentioning on-site power buildouts",
+        "Local permitting/utility interconnection filings for large fuel-cell installations"
+      ],
+      "rationale": "AI-driven load growth is pushing hyperscalers toward dedicated generation; Oracle\u2019s pattern of expanding deals could scale contracted capacity into the multi-GW range.",
+      "id": "e425e2cb-2832-4aa9-83cc-96db2868b6d5",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, ClinicalTrials.gov will list a newly posted interventional Phase 1 (or Phase 1/2) clinical trial for Stanford\u2019s reported \u201cnatural Ozempic\u201d candidate (or its licensed code name) for obesity/weight loss or metabolic disease, with planned enrollment \u226540 participants.",
+      "category": "other",
+      "horizon_days": 261,
+      "deadline": "2026-12-31",
+      "confidence_pct": 21,
+      "verification_criteria": "YES if ClinicalTrials.gov posts a new trial entry on/before 2026-12-31 that (a) is Phase 1 or Phase 1/2, (b) is interventional, (c) targets obesity/weight loss/metabolic endpoints, (d) is attributable to Stanford or a named licensee from the Stanford work, and (e) lists planned enrollment \u226540.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/04/260412221946.htm"
+      ],
+      "monitoring_signals": [
+        "Stanford OTL licensing announcements or startup formation around the candidate",
+        "Preclinical-to-IND news, FDA IND clearance mentions",
+        "Conference abstracts describing first-in-human plans"
+      ],
+      "rationale": "Academic-to-clinic timelines are often slow; a Phase 1 listing within the year requires rapid funding, IND work, and trial-site readiness.",
+      "id": "8daa011a-79a1-4413-ac3a-f9bafab9aceb",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "By 2027-03-31, OpenAI or Microsoft will publicly confirm a material change to their partnership that explicitly allows OpenAI to train frontier models using non-Azure cloud infrastructure (beyond narrow exceptions), via a press release, blog post, or a Microsoft SEC filing.",
+      "category": "tech",
+      "horizon_days": 382,
+      "deadline": "2027-03-31",
+      "confidence_pct": 31,
+      "verification_criteria": "YES if OpenAI/Microsoft publicly states (in official communications or an SEC filing) that OpenAI is permitted to use non-Azure cloud for training frontier models as a general allowance (not only for limited redundancy or specific named carve-outs).",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html"
+      ],
+      "monitoring_signals": [
+        "Reports of OpenAI large compute commitments to AWS/Google/Oracle",
+        "Microsoft statements softening exclusivity language",
+        "Regulatory scrutiny or contract renegotiation reporting"
+      ],
+      "rationale": "Competitive dynamics and capacity constraints can pressure exclusivity. A public, explicit re-permission for broad non-Azure training would be a clear signal of a rebalanced relationship.",
+      "id": "c1e7a3b5-ac90-444b-bfec-7359d2a0ac2f",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

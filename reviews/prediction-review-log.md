@@ -2447,3 +2447,14 @@ None of the listed predictions can be marked correct or incorrect based on the p
 
 ---
 
+
+## 2026-04-13
+
+Today’s news materially strengthens the thematic backdrop for two clusters of forecasts without yet satisfying their verification criteria. First, the reporting on Orbán’s loss and a new Hungarian government increases the plausibility that EU–Hungary rule-of-law negotiations could unlock significant funds and potentially shift Hungary’s posture toward EU anti-corruption mechanisms, but no European Commission or EPPO-confirmed actions are cited in the bullets.
+
+Second, the Iran war and explicit discussion of a Strait of Hormuz blockade heighten the likelihood of downstream market and logistics responses that are central to two other forecasts (an IEA coordinated stock release and a major liner suspension through Hormuz). However, the bullets provided stop at describing the geopolitical and market situation (oil moves, blockade mechanics, production impacts) and do not report the specific institutional/firm announcements required to mark those predictions correct.
+
+The remaining items (VIX threshold, GSIB mentions of specific AI models, Apple patent language, South Korea ER reporting directive, U.S. Cuba visa sanctions, and Nigeria inquiry panel) have no direct confirming or disconfirming evidence in today’s bullets, so they remain pending.
+
+---
+

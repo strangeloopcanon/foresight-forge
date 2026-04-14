@@ -21,7 +21,7 @@
       ],
       "rationale": "A new Hungarian administration has incentives to trade reforms for cashflow; EU has incentives to stabilize a member state if credible compliance is offered.",
       "id": "c8eb526d-8bf4-488a-a303-8fba1ec3e7f4",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -43,7 +43,7 @@
       ],
       "rationale": "Joining EPPO is a strong, legible anti-corruption commitment, but faces domestic sovereignty pushback, keeping probability below 50%.",
       "id": "8c3aa2a4-c929-4f90-a415-13a1b2a4ebf0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -65,7 +65,7 @@
       ],
       "rationale": "Coordinated releases are a standard tool for acute chokepoint shocks, but require political alignment and clear disruption evidence.",
       "id": "548da1c7-c8e7-4faf-9027-7668dffae530",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -87,7 +87,7 @@
       ],
       "rationale": "A major geopolitical supply shock plus fragile risk sentiment makes at least one VIX\u226535 close more likely than not within the next ~11 weeks.",
       "id": "37d70fd4-3ef6-44fb-a09f-280cc4bcca0a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -109,7 +109,7 @@
       ],
       "rationale": "If pilots expand, disclosure risk rises via Q&A or risk/governance sections, but many banks avoid naming vendors publicly.",
       "id": "2deae986-3654-49db-b552-159869141334",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -131,7 +131,7 @@
       ],
       "rationale": "Apple consistently patents prospective hardware categories; public patent publication within the year is comparatively likely.",
       "id": "429d31fa-b47a-4408-a223-49a2c5e5c318",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -153,7 +153,7 @@
       ],
       "rationale": "High-salience service failures often trigger transparency and reporting mandates as a first-line policy response.",
       "id": "3dc4084a-8b9e-4c4b-975c-20e23fc32e2a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -175,7 +175,7 @@
       ],
       "rationale": "If threat levels persist, at least one major carrier may pause Hormuz transits for crew and asset protection, though many will attempt mitigations first.",
       "id": "5175a8bc-f4be-43f7-b9ce-f2daf6737194",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -197,7 +197,7 @@
       ],
       "rationale": "Visa restrictions are a relatively low-cost escalatory tool; policy trajectory depends on domestic U.S. politics and Cuban internal repression levels.",
       "id": "f864cadf-117a-4e96-8721-e8ff357c6571",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "rationale": "Sustained civilian-casualty reporting can force politically necessary inquiries, though security establishments often resist independent review.",
       "id": "a96f5c17-f830-4d5a-9bc0-8d001cafcba0",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]
