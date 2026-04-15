@@ -2458,3 +2458,14 @@ The remaining items (VIX threshold, GSIB mentions of specific AI models, Apple p
 
 ---
 
+
+## 2026-04-14
+
+Today’s coverage strongly reinforces the geopolitical catalyst embedded in the SPR-release forecast: the Strait of Hormuz is explicitly in the headlines (including a reported blockade) and U.S.–Iran war dynamics are central. That raises the salience of energy-security actions by major Asian importers, but the key criterion—an announced ≥5 million barrel strategic release explicitly citing conflict/Hormuz risk—has not yet appeared in the provided items.
+
+The other notable development is the reported arson/Molotov-related case involving Sam Altman, which is directionally consistent with concerns about physical threats to AI executives/companies. However, the prediction is specifically about a public FBI or DHS/CISA advisory; absent that, it remains unresolved. Political change in Hungary is also in the news, but there is no concrete evidence here of the specific legislative rollback required.
+
+Overall, none of the forecasts are clearly adjudicated by today’s bullets; they remain pending. Several themes (Hormuz disruption risk; physical threats around AI) have increased real-world relevance, suggesting these predictions could see informative signals sooner than their deadlines, but no decisive verification is present in today’s sources.
+
+---
+

@@ -1,0 +1,194 @@
+{
+  "date": "2026-04-15",
+  "predictions": [
+    {
+      "text": "By 2026-12-31, Kraken will publicly file an IPO registration statement (S-1 or F-1) on SEC EDGAR for a U.S. listing (confidential submissions do not count).",
+      "category": "markets",
+      "horizon_days": 260,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "SEC EDGAR shows a publicly available S-1 or F-1 filed by Payward, Inc. (Kraken) or a clearly identified Kraken listing entity.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/14/crypto-exchange-kraken-confirms-it-has-confidentially-filed-for-an-ipo.html"
+      ],
+      "monitoring_signals": [
+        "EDGAR new filers / S-1 feed for Payward/Kraken",
+        "Kraken hiring for SOX/SEC reporting and investor relations",
+        "Exchange/underwriter announcements and roadshow rumors",
+        "SEC comments or amended S-1 activity (if public)"
+      ],
+      "rationale": "A confidential filing signals intent, but timing depends on market window and regulatory posture toward crypto listings.",
+      "id": "07561002-065d-4175-bc41-a8942535ac99",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, Amazon will announce completion (deal close) of its acquisition of Globalstar (or Globalstar will file a Form 8-K stating the merger has closed).",
+      "category": "tech",
+      "horizon_days": 260,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Amazon press release and/or Globalstar SEC filing (8-K/10-Q/10-K) explicitly states the transaction has closed/been consummated.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html"
+      ],
+      "monitoring_signals": [
+        "FCC docket updates and license transfer approvals related to Globalstar spectrum",
+        "Globalstar 8-Ks about regulatory milestones and merger conditions",
+        "DOJ/FTC Hart-Scott-Rodino termination/second-request reporting",
+        "Financing/bridge loan announcements tied to the transaction"
+      ],
+      "rationale": "Closing is plausible within 2026 but could slip due to FCC/spectrum review and coordination with national-security processes.",
+      "id": "3ace8a4a-082d-4463-9ce8-d57a171e32fc",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-10-31, Meta will publicly state that in-house/custom accelerators (e.g., MTIA or a Broadcom co-developed chip) handle at least 25% of Meta\u2019s AI inference compute (by workload share or equivalent metric) in production.",
+      "category": "tech",
+      "horizon_days": 199,
+      "deadline": "2026-10-31",
+      "confidence_pct": 33,
+      "verification_criteria": "Meta earnings call transcript, investor presentation, blog post, or SEC filing includes an explicit quantitative claim that proprietary/custom accelerators are \u226525% of AI inference compute/workloads (or a clearly equivalent measure).",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html"
+      ],
+      "monitoring_signals": [
+        "Meta earnings call language on MTIA/custom silicon utilization",
+        "Supply-chain reports on accelerator procurement mix vs Nvidia/AMD",
+        "Meta engineering blogs on inference stack and chip deployments",
+        "Broadcom commentary on hyperscaler custom silicon ramps"
+      ],
+      "rationale": "Meta is investing heavily in custom silicon, but reaching a quarter of inference share by late 2026 requires rapid deployment and software maturity.",
+      "id": "d24ee6a8-1f7b-4f41-a51c-7e381f1111ef",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-11-30, the NY Fed Household Debt and Credit Report (2026 Q3 release) will show the share of U.S. auto loan balances that are 90+ days delinquent at or above 4.5%.",
+      "category": "macro",
+      "horizon_days": 229,
+      "deadline": "2026-11-30",
+      "confidence_pct": 47,
+      "verification_criteria": "NY Fed\u2019s quarterly Household Debt and Credit Report (or accompanying data tables) for 2026 Q3 reports 90+ days delinquent auto-loan balance share \u22654.5%.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/14/car-loan-terms.html"
+      ],
+      "monitoring_signals": [
+        "NY Fed quarterly delinquency trend updates (Q1/Q2 2026)",
+        "Subprime auto ABS performance and charge-off indicators",
+        "Used-car price indices and repossession volumes",
+        "Bank/credit-union consumer credit charge-off disclosures"
+      ],
+      "rationale": "Longer loan terms and affordability strain increase tail risk of delinquency drifting higher, though labor-market resilience could limit the move.",
+      "id": "1802b9a4-e500-4481-8ec4-f289a73e6e3f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-05-31, at least one publicly traded crude-oil tanker owner/operator (e.g., Frontline, Euronav, International Seaways, DHT, or Teekay Tankers) will announce a suspension/avoidance of transits through the Strait of Hormuz lasting at least 7 consecutive days due to security risk.",
+      "category": "energy",
+      "horizon_days": 46,
+      "deadline": "2026-05-31",
+      "confidence_pct": 38,
+      "verification_criteria": "Company press release, SEC filing, or quoted on-record statement explicitly says it will not transit the Strait of Hormuz for \u22657 consecutive days and cites security/war risk as the reason.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/14/china-us-strait-of-hormuz-war-donald-trump-oil-energy-crisis-conflict-middle-east-iran.html"
+      ],
+      "monitoring_signals": [
+        "Tanker company fleet routing advisories and investor updates",
+        "AIS-based reporting of tanker traffic reductions through Hormuz",
+        "War-risk insurance premium spikes and underwriter restrictions",
+        "Naval/security incident reports in/near the Strait"
+      ],
+      "rationale": "If perceived risk rises further, tanker operators may self-restrict routing; however, commercial pressure to keep flows moving is strong.",
+      "id": "18f7e30a-9807-4524-b2a4-495e10efbbf5",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-06-30, the UN Security Council will hold at least one formal meeting (open briefing or closed consultations) explicitly focused on the Strait of Hormuz shipping situation and/or the U.S. blockade/restrictions there, as reflected in the UNSC meeting schedule and/or an official UN press readout.",
+      "category": "geopolitics",
+      "horizon_days": 76,
+      "deadline": "2026-06-30",
+      "confidence_pct": 55,
+      "verification_criteria": "UNSC official calendar, meeting record, or UN press release identifies a meeting whose stated topic includes the Strait of Hormuz shipping situation or U.S./Iran measures affecting Hormuz transit.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/14/china-us-strait-of-hormuz-war-donald-trump-oil-energy-crisis-conflict-middle-east-iran.html"
+      ],
+      "monitoring_signals": [
+        "UNSC program of work updates and press stakeouts",
+        "Requests for meetings by China/Russia/Iran-aligned members",
+        "Statements from the UN Secretary-General/UN Department of Political and Peacebuilding Affairs",
+        "Major shipping disruption headlines prompting diplomatic action"
+      ],
+      "rationale": "Hormuz disruptions are globally salient; even if outcomes are limited, UNSC discussion is a common diplomatic step under acute shipping risk.",
+      "id": "834e5c7a-acff-4d72-a461-2d6097cdc1d6",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-08-31, OpenAI will reduce the listed price (USD per 1M input tokens) of its primary flagship general-purpose API model by at least 20% relative to its published pricing on 2026-04-15, as shown on OpenAI\u2019s pricing page or official docs.",
+      "category": "tech",
+      "horizon_days": 138,
+      "deadline": "2026-08-31",
+      "confidence_pct": 58,
+      "verification_criteria": "OpenAI\u2019s official pricing documentation shows a \u226520% reduction in the posted input-token price for the flagship model line (clearly identified as the primary general-purpose offering) compared with the archived 2026-04-15 price.",
+      "evidence": [
+        "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/"
+      ],
+      "monitoring_signals": [
+        "OpenAI pricing page changes (tracked via web archives)",
+        "Competitive pricing moves from Anthropic/Google/Microsoft",
+        "OpenAI announcements about efficiency, distillation, or new inference stack",
+        "Enterprise contract disclosures mentioning lower unit costs"
+      ],
+      "rationale": "Competitive pressure and scaling efficiencies have historically driven rapid token-price cuts, though premium positioning could slow reductions.",
+      "id": "caefd6a0-fc26-46e4-b30e-d657fd79ecf2",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, the CDC will report at least one confirmed U.S. human H5N1 case where the exposure narrative explicitly includes contact with dairy cattle or consumption/handling of raw (unpasteurized) milk from cattle.",
+      "category": "other",
+      "horizon_days": 260,
+      "deadline": "2026-12-31",
+      "confidence_pct": 44,
+      "verification_criteria": "CDC official update (case summary, MMWR, press release, or webpage) confirms a human H5N1 case and explicitly links exposure to dairy cattle and/or raw milk in the described risk factors.",
+      "evidence": [
+        "https://www.sciencenews.org/article/mutations-h5n1-bird-flu-adapt-cows"
+      ],
+      "monitoring_signals": [
+        "USDA/CDC joint updates on H5N1 in dairy herds",
+        "State health department case investigations involving farm workers",
+        "Changes in CDC testing guidance for influenza A/H5",
+        "Reports of clusters of conjunctivitis/respiratory illness among dairy workers"
+      ],
+      "rationale": "Cattle adaptation increases spillover pathways, but detection depends on surveillance intensity and actual transmission risk to humans.",
+      "id": "2bd66717-e8c0-4080-8aab-134c733237ef",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. Bureau of Reclamation will publish a draft public document on post-2026 Colorado River operations (e.g., draft EIS alternatives, draft operating framework, or comparable formal release) that includes at least one quantified accounting change for evaporation and/or system losses (e.g., explicit basin-wide evaporation volumes, loss factors, or 'consumptive use' definitions incorporating losses).",
+      "category": "macro",
+      "horizon_days": 260,
+      "deadline": "2026-12-31",
+      "confidence_pct": 65,
+      "verification_criteria": "A Reclamation-hosted or DOI-hosted official draft framework/EIS alternatives document for post-2026 operations contains explicit quantitative treatment (numbers or formulas) for evaporation/system losses as part of allocation/accounting.",
+      "evidence": [
+        "https://www.sciencedaily.com/releases/2026/04/260413232421.htm"
+      ],
+      "monitoring_signals": [
+        "DOI/Reclamation notices of intent and public meetings on post-2026 guidelines",
+        "Draft EIS timeline updates and scoping summaries",
+        "Statements from basin states acknowledging new loss-accounting methods",
+        "Peer-reviewed and agency science briefings on evaporation/groundwater losses"
+      ],
+      "rationale": "Mounting scientific clarity and allocation stress make explicit loss accounting more likely to appear in draft post-2026 operating alternatives.",
+      "id": "902cfbb4-b518-45b8-a832-2a019972bb5b",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    }
+  ]
+}

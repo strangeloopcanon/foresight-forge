@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-14",
+  "assessments": [
+    {
+      "id": "932b4868-4fde-4837-a5d1-10af2f535ecc",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news highlights heightened Strait of Hormuz disruption risk (including a reported U.S. blockade), but there is no cited announcement by Japan, South Korea, India, or China of a \u22655 million barrel (oil-equivalent) strategic reserve release explicitly tied to Middle East conflict/Hormuz risk."
+    },
+    {
+      "id": "df9f604e-7fea-4c22-b7da-a3cf34456735",
+      "status": "pending",
+      "status_rationale": "No evidence in today\u2019s items about AAA\u2019s California statewide average regular gasoline price reaching or exceeding $6.00/gal on any day."
+    },
+    {
+      "id": "dba4f46a-4e04-4150-8c32-c5869a4646ee",
+      "status": "pending",
+      "status_rationale": "No BEA Personal Income and Outlays release (or reported PCE YoY figure) in today\u2019s news establishes headline PCE inflation at \u22653.3% YoY."
+    },
+    {
+      "id": "6e340d37-5277-4abf-9b9c-e9e651fa2dbb",
+      "status": "pending",
+      "status_rationale": "Reporting includes an arson/Molotov-related case involving Sam Altman, but the prediction requires a public FBI or DHS/CISA advisory explicitly warning of physical threats targeting AI companies/data centers/executives; no such advisory is referenced."
+    },
+    {
+      "id": "de9542eb-1b2c-441d-a111-91eea34a49c9",
+      "status": "pending",
+      "status_rationale": "While there is news about Hungary\u2019s election and political shift, there is no clear evidence that Parliament has passed and published legislation abolishing the Sovereignty Protection Office (or removing at least two core powers) in the official gazette."
+    },
+    {
+      "id": "0ab3956e-b848-4e0c-96ae-d5534f5c7984",
+      "status": "pending",
+      "status_rationale": "No AWS documentation or announcement in today\u2019s news indicates an OpenAI model is available via Amazon Bedrock (or an equivalent first-party AWS managed model catalog)."
+    },
+    {
+      "id": "c67b5a3c-af00-4731-ac8f-ae00e721ca5d",
+      "status": "pending",
+      "status_rationale": "No Canadian Fall Economic Statement (or equivalent fiscal update) is referenced today, and no deficit projection of \u2265C$50B for FY2026\u201327 or FY2027\u201328 is evidenced."
+    },
+    {
+      "id": "e425e2cb-2832-4aa9-83cc-96db2868b6d5",
+      "status": "pending",
+      "status_rationale": "No announcement in today\u2019s news indicates Oracle and/or Bloom Energy have stated Oracle\u2019s contracted Bloom on-site generation capacity totals \u22651.5 GW."
+    },
+    {
+      "id": "8daa011a-79a1-4413-ac3a-f9bafab9aceb",
+      "status": "pending",
+      "status_rationale": "No ClinicalTrials.gov listing is cited today for a newly posted interventional Phase 1 (or Phase 1/2) trial of Stanford\u2019s reported \u201cnatural Ozempic\u201d candidate with planned enrollment \u226540."
+    },
+    {
+      "id": "c1e7a3b5-ac90-444b-bfec-7359d2a0ac2f",
+      "status": "pending",
+      "status_rationale": "No press release, blog post, or Microsoft SEC filing in today\u2019s news confirms a material partnership change allowing OpenAI to train frontier models using non-Azure cloud infrastructure beyond narrow exceptions."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "bullets": [
+    {
+      "text": "Fed discount-rate meeting minutes signal continued caution; emphasis on inflation risks and discount-window readiness amid wartime/market stress.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm"
+    },
+    {
+      "text": "March PPI final demand +0.5% m/m; goods +1.6% while services flat\u2014suggesting pipeline inflation concentrated in goods despite broader uncertainty.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.bls.gov/news.release/archives/ppi_04142026.htm"
+    },
+    {
+      "text": "U.S. blockade restricting Iran-linked shipping through Strait of Hormuz raises acute supply-chain and energy-security risk; China calls move \u201cdangerous and irresponsible.\u201d",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/04/14/china-us-strait-of-hormuz-war-donald-trump-oil-energy-crisis-conflict-middle-east-iran.html"
+    },
+    {
+      "text": "Oil prices fall on reports of possible U.S.-Iran talks, highlighting conflict-driven volatility and peace-deal optionality priced into crude.",
+      "tags": [
+        "energy",
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/15/oil-price-us-iran-talks-hormuz-trump.html"
+    },
+    {
+      "text": "Treasury Secretary Bessent backs rate cuts but signals deference if Fed waits, underscoring policy tension between growth support and inflation/energy shocks.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html"
+    },
+    {
+      "text": "JPMorgan beats estimates; Dimon warns of increasingly complex risks\u2014geopolitics, cyber, and macro uncertainty\u2014despite resilient bank earnings.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/14/jpmorgan-chase-jpm-earnings-1q-2026.html"
+    },
+    {
+      "text": "United\u2013American merger speculation would face heavy antitrust scrutiny; potential impacts include reduced competition and fare changes if approved.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/14/united-airlines-american-airlines-merger-report.html"
+    },
+    {
+      "text": "Amazon agrees to buy Globalstar (~$11.6B) to expand LEO satellite ambitions, signaling big-tech vertical integration into space connectivity infrastructure.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html"
+    },
+    {
+      "text": "Meta commits to large custom-chip capacity with Broadcom, reinforcing hyperscaler shift toward in-house silicon to control AI compute costs and supply.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html"
+    },
+    {
+      "text": "Kraken confidentially files for IPO, indicating crypto capital-markets reopening and increasing regulatory/compliance focus among major exchanges.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.cnbc.com/2026/04/14/crypto-exchange-kraken-confirms-it-has-confidentially-filed-for-an-ipo.html"
+    },
+    {
+      "text": "Auto buyers increasingly rely on 7-year loans, suggesting affordability strain and higher credit-duration risk as rates remain elevated.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/14/car-loan-terms.html"
+    },
+    {
+      "text": "Reports of OpenAI valuation scrutiny amid strategy shifts highlight investor sensitivity to AI monetization paths and intensifying competition from Anthropic.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/"
+    },
+    {
+      "text": "New research tracks where Colorado River \u201cmissing water\u201d goes, improving drought management and allocation policy in a critically stressed basin.",
+      "tags": [
+        "science",
+        "macro"
+      ],
+      "link": "https://www.sciencedaily.com/releases/2026/04/260413232421.htm"
+    },
+    {
+      "text": "H5N1 mutations improve infection in cows but not humans, suggesting rising livestock risk without clear evidence yet of increased human adaptation.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://www.sciencenews.org/article/mutations-h5n1-bird-flu-adapt-cows"
+    }
+  ]
+}
