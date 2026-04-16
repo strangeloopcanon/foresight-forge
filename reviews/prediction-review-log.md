@@ -2469,3 +2469,12 @@ Overall, none of the forecasts are clearly adjudicated by today’s bullets; the
 
 ---
 
+
+## 2026-04-15
+
+None of the listed forecasts can be resolved as correct or incorrect based on today’s provided headlines; all remain pending against deadlines that mostly extend into late 2026. The news mix is dominated by U.S. politics and geopolitics around the Iran war, plus market and business items, with little direct intersection with the specific, verifiable triggering conditions in the predictions (SEC filings, CDC case narratives, UN press readouts, Fed delinquency metrics, or Bureau of Reclamation draft frameworks).
+
+The closest “touchpoint” is the MarketWatch coverage discussing Amazon’s Globalstar purchase, which suggests ongoing attention to the transaction but does not establish the key criterion in the prediction: deal completion/closing evidenced by Amazon’s announcement or a Globalstar 8-K stating the merger has closed. Separately, the Iran-war coverage increases the salience of the Strait of Hormuz-related forecasts, but there is no explicit evidence here of tanker-operator transit suspensions or a UNSC meeting focused on Hormuz shipping restrictions.
+
+---
+

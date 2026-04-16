@@ -1,0 +1,125 @@
+{
+  "bullets": [
+    {
+      "text": "Iran war strains U.S. politics: Senate Republicans block efforts to curb Trump\u2019s war powers; Democrats split over Israel arms sales amid escalation.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/15/us/politics/trumps-iran-war-powers-vote-senate.html"
+    },
+    {
+      "text": "Markets largely look past conflict: S&P 500 hits record highs, suggesting investors expect limited spillover or quicker de-escalation.",
+      "tags": [
+        "markets",
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/15/business/stocks-record-iran-war.html"
+    },
+    {
+      "text": "War hits energy system: Rystad estimates up to $58B of energy infrastructure damaged; Hormuz disruption risk remains a key oil/shipping shock channel.",
+      "tags": [
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/15/iran-war-energy-facilities-refinery-pipeline-lng.html"
+    },
+    {
+      "text": "World Bank warns disruptions can persist for months even after the Strait of Hormuz reopens, implying prolonged supply-chain and price effects.",
+      "tags": [
+        "macro",
+        "energy",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/15/world-bank-ajay-banga-iran-war-hormuz-strait.html"
+    },
+    {
+      "text": "Fed Beige Book: U.S. firms slow hiring/spending as Iran war raises uncertainty, pointing to softer near-term growth despite strong equity markets.",
+      "tags": [
+        "macro",
+        "rates",
+        "geopolitics"
+      ],
+      "link": "https://www.marketwatch.com/story/iran-war-is-a-major-source-of-uncertainty-for-u-s-businesses-feds-beige-book-says-52d45d7b"
+    },
+    {
+      "text": "Trump threatens to fire Powell; push for greater Fed influence faces legal/political hurdles, raising perceived central-bank independence risk.",
+      "tags": [
+        "rates",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-doesnt-leave-office-on-his-own.html"
+    },
+    {
+      "text": "China growth beats expectations (~5% Q1) on exports, but domestic demand remains weaker; infrastructure spending increasingly offsets consumer pullback.",
+      "tags": [
+        "macro",
+        "geopolitics"
+      ],
+      "link": "https://www.cnbc.com/2026/04/16/china-gdp-growth-first-quarter-exports-property-retail-sales-iran-war.html"
+    },
+    {
+      "text": "Iran war implications for China center on energy security and shipping chokepoints, potentially accelerating diversification away from Middle East supply routes.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/video/us/100000010840169/what-the-iran-war-means-for-china.html"
+    },
+    {
+      "text": "AI backlash grows: public concern over data centers rises as big labs eye IPOs; regulators move toward requiring facilities to disclose power bills.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/"
+    },
+    {
+      "text": "Amazon marketplace tension: sellers boycott ads after policy/payment changes, signaling margin compression and platform-risk for third-party e-commerce businesses.",
+      "tags": [
+        "tech",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/15/amazon-sellers-boycott-ads-payment-changes.html"
+    },
+    {
+      "text": "Live Nation found to have illegally monopolized ticketing; next steps could include remedies up to structural separation, increasing regulatory risk for platform monopolies.",
+      "tags": [
+        "markets",
+        "tech"
+      ],
+      "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds"
+    },
+    {
+      "text": "Corporate stress signals: Spirit Airlines reportedly nears liquidation, underscoring fragility among highly leveraged travel firms amid fuel/geopolitical volatility.",
+      "tags": [
+        "markets",
+        "macro",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/04/15/spirit-airlines-could-liquidate-as-early-as-this-week-sources-say.html"
+    },
+    {
+      "text": "Food inflation pressure: U.S. cattle prices reach record highs ahead of grilling season, likely feeding through to consumer meat prices.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/15/beef-cattle-grilling-inflation.html"
+    },
+    {
+      "text": "Biomed divergence: anti-amyloid Alzheimer\u2019s drugs face renewed effectiveness debate; separately, CRISPR advances toward silencing Down syndrome\u2019s extra chromosome.",
+      "tags": [
+        "science"
+      ],
+      "link": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html"
+    },
+    {
+      "text": "Security risk: quantum-era threats to crypto increase urgency for quantum-safe cryptography, especially at exchanges and key-management layers.",
+      "tags": [
+        "tech",
+        "science"
+      ],
+      "link": "https://spectrum.ieee.org/quantum-safe-crypto"
+    }
+  ]
+}

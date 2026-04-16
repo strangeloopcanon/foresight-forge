@@ -1,0 +1,186 @@
+{
+  "date": "2026-04-16",
+  "predictions": [
+    {
+      "text": "By 2026-05-31, Spirit Airlines (SAVE) will either (a) file for Chapter 7 bankruptcy or (b) publicly announce a liquidation plan (asset wind-down and cessation of operations) in an SEC filing or court docket entry.",
+      "category": "markets",
+      "horizon_days": 45,
+      "deadline": "2026-05-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if Spirit files a Chapter 7 petition (PACER) OR files an 8-K/press release explicitly stating liquidation/wind-down with intent to cease operations. NO otherwise by deadline.",
+      "evidence": [
+        "CNBC reports Spirit Airlines could liquidate as early as this week (sources). https://www.cnbc.com/2026/04/15/spirit-airlines-could-liquidate-as-early-as-this-week-sources-say.html"
+      ],
+      "monitoring_signals": [
+        "Spirit 8-K filings mentioning going concern, restructuring support, DIP financing failure, or wind-down",
+        "Bankruptcy filings (PACER) for Spirit/major subsidiaries",
+        "Flight schedule reductions, aircraft return notices, vendor payment stoppages"
+      ],
+      "rationale": "Acute liquidity stress and credible liquidation reporting make near-term hard-outcomes plausible, but last-minute rescue financing or merger alternative could still avert Chapter 7/liquidation.",
+      "id": "3f45a2ce-8bce-498a-9dfd-e015f09e1a15",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-05-31, the White House will transmit to the U.S. Senate a formal nomination (PN number on Congress.gov) for a Federal Reserve Chair to succeed Jerome Powell as Chair (nominee can be the same person or a different person).",
+      "category": "rates",
+      "horizon_days": 45,
+      "deadline": "2026-05-31",
+      "confidence_pct": 60,
+      "verification_criteria": "YES if Congress.gov shows a presidential nomination (PN) explicitly for 'Chairman, Board of Governors of the Federal Reserve System' transmitted by the White House by the deadline. NO otherwise.",
+      "evidence": [
+        "Reporting highlights elevated political pressure on Fed leadership and Powell. https://www.cnbc.com/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-doesnt-leave-office-on-his-own.html"
+      ],
+      "monitoring_signals": [
+        "White House announcements/press briefings on Fed leadership",
+        "Senate nominations feed (Congress.gov) for Board of Governors roles",
+        "Major financial press reporting on shortlist/vetting"
+      ],
+      "rationale": "With heightened Fed-politics and a defined chair-transition window, a formal nomination by late May is more likely than not, though timing could slip for political/legislative reasons.",
+      "id": "37b30eda-a13a-4e58-b640-0fb040cda2b3",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-10-31, the U.S. federal government (DOE/EIA or another agency) will publish in the Federal Register a final or interim final rule (or mandatory survey notice under legal authority) requiring large data centers (\u226510 MW connected load or equivalent threshold stated) to report electricity consumption (kWh) at least monthly or quarterly.",
+      "category": "tech",
+      "horizon_days": 198,
+      "deadline": "2026-10-31",
+      "confidence_pct": 45,
+      "verification_criteria": "YES if a Federal Register document establishes mandatory reporting for data centers and specifies a reporting cadence (monthly/quarterly) for electricity consumption, with a threshold at or above 10 MW (or clearly comparable). NO otherwise.",
+      "evidence": [
+        "Coverage indicates U.S. regulators moving toward requiring data centers to disclose power bills/usage. https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/"
+      ],
+      "monitoring_signals": [
+        "Federal Register notices from DOE/EIA/OMB referencing 'data center' electricity reporting",
+        "OMB information-collection approvals (PRA) for new data-center energy surveys",
+        "Industry comments from Uptime Institute, hyperscalers, and utilities on reporting burdens"
+      ],
+      "rationale": "Policy momentum exists, but rulemaking can stall on scope, authority, and industry pushback; an interim final rule/mandatory survey is the most likely pathway.",
+      "id": "72a45f70-9cd1-481b-b12e-1cd4067fb824",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-11-30, Amazon will report 'Advertising services' revenue year-over-year growth below 10% in at least one quarterly earnings release (10-Q/press release) for a quarter ending after 2026-06-30.",
+      "category": "tech",
+      "horizon_days": 228,
+      "deadline": "2026-11-30",
+      "confidence_pct": 35,
+      "verification_criteria": "YES if Amazon quarterly results show Advertising services revenue YoY % growth <10% for any quarter with period-end after 2026-06-30, published by deadline. NO otherwise.",
+      "evidence": [
+        "Sellers reportedly boycott ads after Amazon policy/payment changes, risking ad demand. https://www.cnbc.com/2026/04/15/amazon-sellers-boycott-ads-payment-changes.html"
+      ],
+      "monitoring_signals": [
+        "Seller forum/agency reports of reduced Amazon ad spend (CPC/ROAS deterioration)",
+        "Amazon ads take-rate or ad-load commentary on earnings calls",
+        "Third-party analytics showing Amazon retail ad pricing softening"
+      ],
+      "rationale": "Ad revenue is diversified and resilient, but a sustained seller pullback or policy backlash could show up as a rare growth deceleration below 10%.",
+      "id": "7cf419f3-9ba9-4676-bf4f-ed0a6396c626",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, the U.S. Department of Justice will file a court document (or issue a DOJ press release) in the Live Nation/Ticketmaster antitrust matter explicitly seeking a structural remedy (divestiture/spin-off/breakup) rather than only behavioral remedies.",
+      "category": "geopolitics",
+      "horizon_days": 259,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "YES if DOJ publicly states it is seeking divestiture or structural separation in a filing or press release by deadline. NO otherwise.",
+      "evidence": [
+        "A jury found Live Nation illegally monopolized ticketing, setting up a remedies phase. https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds"
+      ],
+      "monitoring_signals": [
+        "Court scheduling orders for remedies briefing",
+        "DOJ Antitrust Division statements on remedies sought",
+        "Settlement talks reporting indicating behavioral vs structural remedy"
+      ],
+      "rationale": "A liability finding increases the chance DOJ presses for divestiture, but political/settlement dynamics often lead to behavioral commitments instead.",
+      "id": "75a528f3-c643-4b1f-a734-b82d50bc21d6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-10-15, the BLS CPI release for September 2026 will show the 'Beef and veal' CPI index at or above +12.0% year-over-year (not seasonally adjusted).",
+      "category": "macro",
+      "horizon_days": 182,
+      "deadline": "2026-10-15",
+      "confidence_pct": 45,
+      "verification_criteria": "YES if the BLS CPI detailed tables show 'Beef and veal' (item category) YoY change \u2265 +12.0% in the September 2026 CPI report. NO otherwise.",
+      "evidence": [
+        "U.S. cattle prices reached record highs, likely feeding into consumer meat prices. https://www.cnbc.com/2026/04/15/beef-cattle-grilling-inflation.html"
+      ],
+      "monitoring_signals": [
+        "USDA retail beef price series and wholesale boxed beef cutout prices",
+        "Cattle inventory reports and drought/forage conditions",
+        "Restaurant menu price inflation and grocery scanner data"
+      ],
+      "rationale": "Tight cattle supply and higher live-cattle prices can pass through to retail with lags; 12% YoY is achievable but requires sustained wholesale strength.",
+      "id": "bdb00092-b169-439b-bb44-9f89239d5183",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, the U.S. unemployment rate (U-3) will be at or above 5.0% in at least one monthly BLS Employment Situation release.",
+      "category": "macro",
+      "horizon_days": 167,
+      "deadline": "2026-09-30",
+      "confidence_pct": 35,
+      "verification_criteria": "YES if any BLS Employment Situation report for months through September 2026 shows U-3 unemployment rate \u2265 5.0%. NO otherwise by deadline.",
+      "evidence": [
+        "Beige Book reports firms slowing hiring/spending amid Iran-war uncertainty. https://www.marketwatch.com/story/iran-war-is-a-major-source-of-uncertainty-for-u-s-businesses-feds-beige-book-says-52d45d7b"
+      ],
+      "monitoring_signals": [
+        "Weekly initial and continuing unemployment claims",
+        "Job openings (JOLTS) and hiring-rate trends",
+        "Layoff announcements and temporary-help employment in payrolls"
+      ],
+      "rationale": "Labor markets can weaken quickly when uncertainty shocks capex/hiring, but a move to 5% still requires broader softening beyond isolated sectors.",
+      "id": "2892b1f7-99a3-4265-8e01-63da77a20666",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, Coinbase will publish an official security/engineering post or whitepaper that explicitly commits to adopting post-quantum cryptography (mentions 'post-quantum' and 'NIST') for at least one production security use case (e.g., TLS, key storage, wallet security) and includes a dated deployment milestone in 2027 or earlier.",
+      "category": "tech",
+      "horizon_days": 259,
+      "deadline": "2026-12-31",
+      "confidence_pct": 25,
+      "verification_criteria": "YES if an official Coinbase channel (blog/docs) contains the required terms and includes a dated milestone (month/quarter/year) in 2027 or earlier for a production PQC deployment. NO otherwise.",
+      "evidence": [
+        "Quantum-era threats to crypto heighten urgency for quantum-safe cryptography. https://spectrum.ieee.org/quantum-safe-crypto"
+      ],
+      "monitoring_signals": [
+        "Coinbase security blog and GitHub references to PQC/NIST algorithms",
+        "Industry announcements (ETSI/IETF) adopted by exchanges",
+        "Major wallet/key-management vendors shipping PQC features"
+      ],
+      "rationale": "Awareness is rising, but production commitments are often delayed due to performance, standards churn, and migration complexity; a dated milestone is a higher bar than generic intent.",
+      "id": "882e548e-fea5-4df1-a674-b13ad7c74974",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "By 2026-06-30, the ICE Brent crude front-month futures contract will have at least one daily settlement price at or above $110.00 per barrel.",
+      "category": "energy",
+      "horizon_days": 75,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "verification_criteria": "YES if ICE official settlement data shows Brent front-month settlement \u2265 $110.00/bbl on any trading day by deadline. NO otherwise.",
+      "evidence": [
+        "Iran-war infrastructure damage and Hormuz disruption risk are highlighted as key oil shock channels. https://www.cnbc.com/2026/04/15/iran-war-energy-facilities-refinery-pipeline-lng.html",
+        "World Bank warns disruptions can persist for months even after reopening. https://www.cnbc.com/2026/04/15/world-bank-ajay-banga-iran-war-hormuz-strait.html"
+      ],
+      "monitoring_signals": [
+        "Reported incidents or restrictions affecting Gulf exports/shipping insurance",
+        "Brent time spreads backwardation steepening and rising OVX",
+        "SPR/IEA release announcements and OPEC+ spare capacity messaging"
+      ],
+      "rationale": "A $110 print is plausible with sustained geopolitical risk premium, but significant spare capacity, demand softness, or credible de-escalation could cap prices below that threshold.",
+      "id": "85392a2e-597f-45d3-8c5b-e5fe80c95608",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    }
+  ]
+}

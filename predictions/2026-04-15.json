@@ -19,7 +19,7 @@
       ],
       "rationale": "A confidential filing signals intent, but timing depends on market window and regulatory posture toward crypto listings.",
       "id": "07561002-065d-4175-bc41-a8942535ac99",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Closing is plausible within 2026 but could slip due to FCC/spectrum review and coordination with national-security processes.",
       "id": "3ace8a4a-082d-4463-9ce8-d57a171e32fc",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Meta is investing heavily in custom silicon, but reaching a quarter of inference share by late 2026 requires rapid deployment and software maturity.",
       "id": "d24ee6a8-1f7b-4f41-a51c-7e381f1111ef",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "Longer loan terms and affordability strain increase tail risk of delinquency drifting higher, though labor-market resilience could limit the move.",
       "id": "1802b9a4-e500-4481-8ec4-f289a73e6e3f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "If perceived risk rises further, tanker operators may self-restrict routing; however, commercial pressure to keep flows moving is strong.",
       "id": "18f7e30a-9807-4524-b2a4-495e10efbbf5",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "Hormuz disruptions are globally salient; even if outcomes are limited, UNSC discussion is a common diplomatic step under acute shipping risk.",
       "id": "834e5c7a-acff-4d72-a461-2d6097cdc1d6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Competitive pressure and scaling efficiencies have historically driven rapid token-price cuts, though premium positioning could slow reductions.",
       "id": "caefd6a0-fc26-46e4-b30e-d657fd79ecf2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Cattle adaptation increases spillover pathways, but detection depends on surveillance intensity and actual transmission risk to humans.",
       "id": "2bd66717-e8c0-4080-8aab-134c733237ef",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Mounting scientific clarity and allocation stress make explicit loss accounting more likely to appear in draft post-2026 operating alternatives.",
       "id": "902cfbb4-b518-45b8-a832-2a019972bb5b",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     }
   ]
