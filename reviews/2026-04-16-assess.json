@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-16",
+  "assessments": [
+    {
+      "id": "3f45a2ce-8bce-498a-9dfd-e015f09e1a15",
+      "status": "pending",
+      "status_rationale": "No item in today\u2019s news indicates Spirit Airlines has filed for Chapter 7 or announced a liquidation/wind-down in an SEC filing or court docket. Deadline is 2026-05-31, so this remains unresolved."
+    },
+    {
+      "id": "37b30eda-a13a-4e58-b640-0fb040cda2b3",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets mention Fed-chair jockeying (e.g., a CNBC piece about Kevin Warsh), but do not provide evidence of a formal White House nomination transmitted to the Senate with a PN number on Congress.gov. Deadline is 2026-05-31."
+    },
+    {
+      "id": "72a45f70-9cd1-481b-b12e-1cd4067fb824",
+      "status": "pending",
+      "status_rationale": "No Federal Register final/interim final rule (or mandatory survey notice) is referenced today regarding large data centers reporting electricity consumption at least monthly/quarterly. Deadline is 2026-10-31."
+    },
+    {
+      "id": "7cf419f3-9ba9-4676-bf4f-ed0a6396c626",
+      "status": "pending",
+      "status_rationale": "Nothing in today\u2019s news addresses Amazon \u2018Advertising services\u2019 revenue growth in a specific quarterly release for quarters ending after 2026-06-30. Deadline is 2026-11-30."
+    },
+    {
+      "id": "75a528f3-c643-4b1f-a734-b82d50bc21d6",
+      "status": "pending",
+      "status_rationale": "MarketWatch reports a jury finding that Live Nation is an illegal monopoly and commentary that a breakup is unlikely, but this is not evidence that DOJ has filed/announced a court document explicitly seeking a structural remedy (divestiture/spin-off/breakup). Deadline is 2026-12-31."
+    },
+    {
+      "id": "bdb00092-b169-439b-bb44-9f89239d5183",
+      "status": "pending",
+      "status_rationale": "No CPI data for September 2026 (including \u2018Beef and veal\u2019 YoY) is available in today\u2019s news. Deadline is 2026-10-15."
+    },
+    {
+      "id": "2892b1f7-99a3-4265-8e01-63da77a20666",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets do not report a BLS Employment Situation release showing U-3 unemployment at or above 5.0%. Deadline is 2026-09-30."
+    },
+    {
+      "id": "882e548e-fea5-4df1-a674-b13ad7c74974",
+      "status": "pending",
+      "status_rationale": "No Coinbase security/engineering publication is referenced today committing to post-quantum cryptography with explicit \u2018post-quantum\u2019 + \u2018NIST\u2019 language and a dated deployment milestone in 2027 or earlier. Deadline is 2026-12-31."
+    },
+    {
+      "id": "85392a2e-597f-45d3-8c5b-e5fe80c95608",
+      "status": "pending",
+      "status_rationale": "Today\u2019s news notes oil prices falling amid Middle East ceasefire developments, but does not establish that ICE Brent front-month had a daily settlement at or above $110.00/bbl. Deadline is 2026-06-30."
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "date": "2026-04-17",
+  "predictions": [
+    {
+      "text": "By 2026-10-31, Charles Schwab will launch direct spot trading of both bitcoin (BTC) and ether (ETH) for U.S. retail brokerage customers (not via ETFs), publicly documented on Schwab.com and/or in a Schwab press release.",
+      "category": "markets",
+      "horizon_days": 197,
+      "deadline": "2026-10-31",
+      "confidence_pct": 60,
+      "verification_criteria": "Resolves YES if Schwab publishes a product page/help article or press release stating Schwab customers can buy/sell spot BTC and spot ETH directly in Schwab brokerage accounts (or equivalent), and the feature is available to U.S. retail customers. NO if only ETFs/ETPs are offered or if only one of BTC/ETH is supported by the deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/16/charles-schwab-to-launch-direct-bitcoin-ethereum-trading-to-compete-with-robinhood.html"
+      ],
+      "monitoring_signals": [
+        "Schwab press releases and product updates",
+        "Schwab crypto-related FAQs/help-center pages",
+        "App release notes mentioning crypto spot trading",
+        "SEC/FINRA filings or disclosures about crypto custody/partners"
+      ],
+      "rationale": "Schwab has publicly telegraphed intent; the main uncertainty is regulatory/custody execution and timing versus prior crypto cycles.",
+      "id": "dda9506e-3f65-48bf-9646-fd52a639d3cb",
+      "outcome": null,
+      "confidence_bin": "60-70"
+    },
+    {
+      "text": "By 2026-08-31, the U.S. Department of Justice will file a remedies brief/motion in the Live Nation/Ticketmaster antitrust case that explicitly requests a divestiture of Ticketmaster (or an equivalent structural separation), as shown in a court docket filing or DOJ press release.",
+      "category": "geopolitics",
+      "horizon_days": 136,
+      "deadline": "2026-08-31",
+      "confidence_pct": 30,
+      "verification_criteria": "Resolves YES if a DOJ filing (or DOJ press release) in the Live Nation/Ticketmaster matter explicitly seeks divestiture/spin-off/separation of Ticketmaster (or equivalent structural remedy). Resolves NO if no such explicit request appears by the deadline.",
+      "evidence": [
+        "https://www.marketwatch.com/story/jury-finds-that-live-nation-is-an-illegal-monopoly-but-a-breakup-with-ticketmaster-is-unlikely-analysts-say-b45f0c00"
+      ],
+      "monitoring_signals": [
+        "PACER/courtlistener docket entries for U.S. v. Live Nation/Ticketmaster",
+        "DOJ Antitrust Division press releases",
+        "Scheduling orders for remedies phase/trial"
+      ],
+      "supersedes_id": "75a528f3-c643-4b1f-a734-b82d50bc21d6",
+      "rationale": "A liability finding increases remedy leverage, but DOJ may still prefer behavioral relief or a slower remedies schedule, making an explicit divestiture request by August uncertain.",
+      "id": "b7ee726e-49d2-47ee-bba0-b60dd4c4f9d8",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, the European Commission will publicly propose an emergency amendment, derogation, or temporary flexibility to ReFuelEU Aviation (or a comparable EU SAF/aviation-fuel rule) explicitly citing jet-fuel supply constraints or disruption risk.",
+      "category": "energy",
+      "horizon_days": 166,
+      "deadline": "2026-09-30",
+      "confidence_pct": 27,
+      "verification_criteria": "Resolves YES if the European Commission publishes a formal proposal/communication (COM document, press release, or Official Journal-linked proposal) that adds a temporary flexibility/derogation to EU aviation fuel blending/supply requirements and explicitly cites jet-fuel shortage/supply constraints/disruption risk as rationale.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/16/europe-jet-fuel-shortage-6-weeks-iea.html"
+      ],
+      "monitoring_signals": [
+        "European Commission transport/energy press releases",
+        "EUR-Lex proposals referencing ReFuelEU Aviation",
+        "Airlines/airports lobbying statements about SAF/jet fuel availability"
+      ],
+      "rationale": "A severe jet-fuel squeeze can trigger temporary regulatory flexibility, but EU climate-policy stickiness makes this a low-to-moderate probability outcome.",
+      "id": "c443dcdd-dbbf-4f26-957e-5da17769293c",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "By 2026-07-31, at least one of Lufthansa, IAG, Air France-KLM, or Ryanair will issue an earnings-related profit warning or guidance cut that explicitly cites jet-fuel supply constraints and/or jet-fuel price spikes as a material driver.",
+      "category": "markets",
+      "horizon_days": 105,
+      "deadline": "2026-07-31",
+      "confidence_pct": 35,
+      "verification_criteria": "Resolves YES if a company press release, investor presentation, or earnings statement from one of the named airlines includes an explicit guidance cut/profit warning and explicitly mentions jet-fuel supply constraints, jet-fuel shortage, or jet-fuel price spikes as a material cause. NO otherwise.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/16/europe-jet-fuel-shortage-6-weeks-iea.html"
+      ],
+      "monitoring_signals": [
+        "Airline RNS/press releases and investor relations updates",
+        "Quarterly earnings calls/transcripts (jet fuel commentary)",
+        "IATA/A4E statements on fuel supply",
+        "Northwest Europe jet fuel crack spreads and airport NOTAMs about fuel availability"
+      ],
+      "rationale": "If the IEA-style shortage scenario materializes, airlines are likely to reflect it quickly via guidance, but carriers may hedge and frame impacts as price rather than physical constraints.",
+      "id": "49f2fd60-4802-4610-878b-9d2e7de9547e",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-05-31, the U.S. and Iran (directly or via an identified mediator such as Oman or Qatar) will publicly confirm the start of formal talks aimed at de-escalation/ceasefire, via a U.S. State Department/White House statement or Iran MFA statement.",
+      "category": "geopolitics",
+      "horizon_days": 44,
+      "deadline": "2026-05-31",
+      "confidence_pct": 55,
+      "verification_criteria": "Resolves YES if an official U.S. (State/White House) or Iranian MFA statement explicitly confirms formal talks have started (not merely 'open channels') and frames them as aimed at de-escalation/ceasefire. NO if only informal/anonymous reports appear or if no official confirmation by deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/16/trump-iran-war-predicts-end-soon.html"
+      ],
+      "monitoring_signals": [
+        "State Department briefings and readouts",
+        "Iran MFA statements and IRNA reporting citing official remarks",
+        "Oman/Qatar foreign ministry announcements",
+        "UN/Swiss channel diplomatic readouts"
+      ],
+      "rationale": "Public signals suggest an off-ramp is being sought; official confirmation depends on battlefield dynamics and domestic politics on both sides.",
+      "id": "427d06f0-0311-4bf7-bd63-ef3e6be5e4c9",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, Netflix will appoint and disclose a new Board Chair (or Executive Chair) distinct from the CEO in a formal filing (8-K, proxy statement) or press release, following Reed Hastings\u2019 exit from the chair/board role.",
+      "category": "markets",
+      "horizon_days": 258,
+      "deadline": "2026-12-31",
+      "confidence_pct": 50,
+      "verification_criteria": "Resolves YES if Netflix publicly discloses (8-K, DEF 14A, annual report, or press release) the appointment of a named Board Chair/Executive Chair who is not the CEO. NO if Netflix keeps no chair role filled/disclosed by deadline or merges it into the CEO role.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html"
+      ],
+      "monitoring_signals": [
+        "Netflix SEC filings (8-K, DEF 14A)",
+        "Netflix investor relations governance updates",
+        "Board committee/lead independent director disclosures"
+      ],
+      "rationale": "Governance transitions often lead to a formalized chair/leadership structure within a year, but Netflix could rely on a lead independent director model instead.",
+      "id": "fca0fb0e-8843-4c95-a663-7538576be067",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, there will be at least 4 U.S.-listed IPOs in the GICS Industrials sector (or clearly industrial/manufacturing businesses) that each raise at least $500 million in gross proceeds (base deal, excluding overallotment), indicating a sustained reopening of the industrial IPO window.",
+      "category": "markets",
+      "horizon_days": 258,
+      "deadline": "2026-12-31",
+      "confidence_pct": 40,
+      "verification_criteria": "Resolves YES if IPO databases (e.g., SEC prospectuses plus deal terms) show \u22654 NYSE/Nasdaq IPOs in 2026 that are classified as Industrials (or plainly industrial/manufacturing) and each has base gross proceeds \u2265$500M. NO otherwise.",
+      "evidence": [
+        "https://www.marketwatch.com/story/with-the-largest-industrial-ipo-since-1999-this-air-quality-giant-is-going-public-08a50184"
+      ],
+      "monitoring_signals": [
+        "IPO calendars and pricing announcements",
+        "S-1/F-1 filings for industrial issuers",
+        "Industrial IPO ETF/sector performance and volatility regime",
+        "Underwriter commentary on reopening issuance"
+      ],
+      "rationale": "A single blockbuster IPO can precede a broader reopening, but sustained industrial issuance depends on equity risk appetite and rates/volatility staying supportive.",
+      "id": "764c50c8-6ed9-41cf-ae9c-a8e62c76cfaf",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, the Federal Reserve will publish at least 15 enforcement-action press releases in 2026 involving banks or bank holding companies with total assets under $10 billion (at the time of action or as stated in the release).",
+      "category": "macro",
+      "horizon_days": 258,
+      "deadline": "2026-12-31",
+      "confidence_pct": 45,
+      "verification_criteria": "Resolves YES if counting 2026 Federal Reserve enforcement press releases yields \u226515 actions where the subject institution\u2019s total assets are < $10B (using assets disclosed in the release or the institution\u2019s most recent call report around the action date). NO otherwise.",
+      "evidence": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm"
+      ],
+      "monitoring_signals": [
+        "Federal Reserve enforcement press release feed",
+        "Call report assets for cited institutions",
+        "Trends in MRA/MRIA and governance-related supervisory messaging"
+      ],
+      "rationale": "Recent actions highlight continued supervisory intensity for smaller institutions, but the annual count is sensitive to enforcement cadence and bundling of actions.",
+      "id": "4a2a2a02-b7d0-4187-9408-8523b96aa4cd",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-08-15, the Federal Reserve\u2019s G.17 release will show U.S. capacity utilization (total industry) at or above 79.5% in at least one monthly report (either the headline series or a revision).",
+      "category": "macro",
+      "horizon_days": 120,
+      "deadline": "2026-08-15",
+      "confidence_pct": 42,
+      "verification_criteria": "Resolves YES if any G.17 Industrial Production and Capacity Utilization release published by 2026-08-15 reports total industry capacity utilization \u226579.5% (seasonally adjusted) for any month shown in the tables (including revised prior months).",
+      "evidence": [
+        "http://www.federalreserve.gov/feeds/G17.html#3889"
+      ],
+      "monitoring_signals": [
+        "Monthly G.17 releases and revisions",
+        "ISM manufacturing and regional Fed surveys",
+        "Industrial production subcomponents tied to energy/defense demand",
+        "Supply disruptions that constrain capacity while output holds up"
+      ],
+      "rationale": "Geopolitical supply stress can tighten utilization, but slowing growth could offset, making a near-term \u226579.5% print plausible but far from certain.",
+      "id": "ee34080a-51ee-4266-a920-2d8ad12a44a6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, Barry Callebaut will announce a restructuring action that includes either (a) a headcount reduction of at least 500 roles globally or (b) closure/sale of at least one production facility, with the announcement explicitly linked to demand weakness and/or cocoa price volatility.",
+      "category": "markets",
+      "horizon_days": 258,
+      "deadline": "2026-12-31",
+      "confidence_pct": 32,
+      "verification_criteria": "Resolves YES if Barry Callebaut releases a press statement/earnings release stating layoffs \u2265500 or closure/sale of a facility and explicitly cites demand weakness and/or cocoa price volatility/collapse as a driver. NO if no such quantified restructuring is announced by deadline.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/16/chocolate-barry-callebaut-profit-earnings-cocoa-prices-switzerland.html"
+      ],
+      "monitoring_signals": [
+        "Barry Callebaut earnings releases and investor presentations",
+        "Union/work council notices and local plant news",
+        "Cocoa futures level/volatility and customer order commentary",
+        "Chocolate/food manufacturer demand indicators"
+      ],
+      "rationale": "A sharp reversal in cocoa pricing can create a volume and pricing reset; restructuring is plausible but management may stabilize via commercial actions instead of large, quantifiable cuts.",
+      "id": "d31de649-8ca8-4d03-b684-5e547fbf0cb2",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

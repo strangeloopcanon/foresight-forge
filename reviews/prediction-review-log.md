@@ -2478,3 +2478,12 @@ The closest “touchpoint” is the MarketWatch coverage discussing Amazon’s G
 
 ---
 
+
+## 2026-04-16
+
+None of the tracked predictions are directly resolved by today’s headlines; all remain pending because the deadlines are still in the future and there is no definitive confirming or disconfirming evidence in the provided bullets. The only items that brush against the forecast set are (1) Fed leadership speculation (e.g., Kevin Warsh coverage) and (2) the Live Nation/Ticketmaster antitrust situation (jury finding monopoly), but neither constitutes the specific, forecasted trigger events (a Senate-transmitted Fed Chair nomination with a PN number; a DOJ filing/press release explicitly seeking a structural breakup remedy).
+
+The day’s news does, however, shift the “information environment” for a couple forecasts. Antitrust coverage increases salience of structural-remedy discussion but also includes skepticism about breakup likelihood—useful context, yet not an outcome update. Similarly, Middle East ceasefire/war-related oil volatility is relevant background for the Brent $110 settlement forecast, but today’s direction (oil down) does not adjudicate whether $110 has occurred during the measurement window.
+
+---
+
