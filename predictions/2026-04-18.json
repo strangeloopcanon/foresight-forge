@@ -1,0 +1,173 @@
+{
+  "date": "2026-04-18",
+  "predictions": [
+    {
+      "text": "By 2026-07-31, Meta will report total headcount at 2026-06-30 at least 8% lower than headcount reported for 2026-03-31, as shown in Meta\u2019s Q2 2026 Form 10-Q and Q1 2026 Form 10-Q (or the earnings release if headcount is disclosed there).",
+      "category": "tech",
+      "horizon_days": 104,
+      "deadline": "2026-07-31",
+      "confidence_pct": 44,
+      "log_odds": -0.241,
+      "verification_criteria": "Meta 2026 Q2 10-Q reports employees at 2026-06-30 and Meta 2026 Q1 10-Q reports employees at 2026-03-31; Q2 value <= 0.92 * Q1 value.",
+      "evidence": [
+        "https://www.marketwatch.com/story/meta-reportedly-eyes-more-layoffs-targeting-10-of-staff-c93503b9"
+      ],
+      "monitoring_signals": [
+        "Meta earnings date and 10-Q release",
+        "Public reporting of restructuring/layoff rounds at Meta",
+        "WARN notices in key U.S. states (e.g., CA) mentioning Meta Platforms"
+      ],
+      "rationale": "Reported plans for ~10% cuts suggest a measurable near-term headcount decline, but timing and scope could be staggered across quarters.",
+      "id": "795a805b-6163-471a-9029-4f804d067b45",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, Cerebras Systems will complete a U.S. IPO (NYSE or Nasdaq) with first day of regular-way trading, and the base deal (excluding greenshoe) will raise at least $300 million in gross proceeds as shown in the final prospectus (424B).",
+      "category": "markets",
+      "horizon_days": 257,
+      "deadline": "2026-12-31",
+      "confidence_pct": 42,
+      "log_odds": -0.322,
+      "verification_criteria": "Cerebras begins trading on NYSE/Nasdaq following an effective S-1; final prospectus shows gross proceeds (base deal) >= $300M.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html"
+      ],
+      "monitoring_signals": [
+        "SEC EDGAR: amended S-1 filings, effectiveness notice, 424B prospectus",
+        "Exchange listing announcements",
+        "IPO calendar/underwriter syndicate updates"
+      ],
+      "rationale": "Refiling signals intent, but AI-IPO windows can shut quickly if risk sentiment deteriorates.",
+      "id": "e408d74f-fe62-4229-91f3-69b2a18b30c6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-10-31, the White House (or OMB) will issue a binding federal directive (Executive Order, OMB memorandum, or equivalent) requiring U.S. federal agencies to apply specific pre-deployment testing/red-teaming requirements to \u201cfrontier\u201d generative AI models, where \u201cfrontier\u201d is defined in the directive by an explicit compute or capability threshold.",
+      "category": "tech",
+      "horizon_days": 196,
+      "deadline": "2026-10-31",
+      "confidence_pct": 33,
+      "log_odds": -0.708,
+      "verification_criteria": "Officially published EO/OMB memo includes (i) mandatory requirements (not voluntary guidance), (ii) applies to GenAI/frontier models, and (iii) defines frontier via an explicit threshold (compute/capability) plus required testing/red-teaming steps.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html"
+      ],
+      "monitoring_signals": [
+        "White House/OMB AI policy releases",
+        "NIST or Commerce references to federal compliance obligations",
+        "Agency procurement policy updates citing frontier-model evaluations"
+      ],
+      "rationale": "Active policy negotiations increase odds of a concrete federal standard, but industry pushback could keep measures voluntary or non-thresholded.",
+      "id": "dcf87215-6210-4944-a54b-198e75bd9e67",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-09-30, CISA will announce a new publicly accessible vulnerability-context program (product, service, or formal partnership) that provides enrichment/metadata for at least 50% of newly published CVEs, with a documented API or machine-readable feed.",
+      "category": "tech",
+      "horizon_days": 165,
+      "deadline": "2026-09-30",
+      "confidence_pct": 48,
+      "log_odds": -0.08,
+      "verification_criteria": "CISA publishes an announcement plus documentation for an API/feed offering enrichment; stated coverage target or measured coverage indicates >=50% of newly published CVEs enriched.",
+      "evidence": [
+        "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/"
+      ],
+      "monitoring_signals": [
+        "CISA Known Exploited Vulnerabilities (KEV) updates expanding scope",
+        "Budget/contract awards for vulnerability data services",
+        "Public API/documentation releases on cisa.gov or GitHub"
+      ],
+      "rationale": "If NVD enrichment degrades, pressure rises for CISA to fill the operational gap for prioritization, but coverage commitments may be limited.",
+      "id": "ad61aea6-1207-419d-8822-5dbac0be751f",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-12-31, the CFTC or DOJ will publicly announce at least one enforcement action (civil complaint, criminal charges, or settlement) involving alleged market manipulation/insider trading linked to crude oil or refined-product trading during the April 2026 Iran conflict period.",
+      "category": "markets",
+      "horizon_days": 257,
+      "deadline": "2026-12-31",
+      "confidence_pct": 24,
+      "log_odds": -1.153,
+      "verification_criteria": "CFTC/DOJ press release or court filing names at least one defendant/respondent and explicitly links the conduct to trading during the April 2026 Iran-conflict window (or references the conflict as the event context).",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/17/house-dem-probe-iran-war-trades-suspicious.html"
+      ],
+      "monitoring_signals": [
+        "CFTC enforcement press releases mentioning crude/oil products",
+        "DOJ/USAO indictments referencing oil futures/options",
+        "Congressional letters/referrals to CFTC/DOJ becoming public"
+      ],
+      "rationale": "Congressional scrutiny can catalyze enforcement, but proving intent and building cases often takes longer than a year.",
+      "id": "d671bef2-0b57-429a-816e-980ee372d790",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "By 2026-06-30, at least one major shipping analytics provider (e.g., Kpler, Vortexa, MarineTraffic, Lloyd\u2019s List Intelligence) will publish an article/note stating that Strait of Hormuz crude-oil tanker transits have returned to at least 90% of their pre-conflict baseline on a 14-day rolling basis.",
+      "category": "energy",
+      "horizon_days": 73,
+      "deadline": "2026-06-30",
+      "confidence_pct": 58,
+      "log_odds": 0.322,
+      "verification_criteria": "A publicly accessible report explicitly claims 14-day rolling crude tanker transits through Hormuz are >=90% of a defined pre-conflict baseline (e.g., February\u2013March 2026 average).",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/17/iran-trump-strait-hormuz-oil-tanker-traffic.html"
+      ],
+      "monitoring_signals": [
+        "Daily AIS-based transit counts from shipping analytics dashboards",
+        "War-risk premium and security-advisory changes for Hormuz",
+        "Announcements by major tanker operators on routing normalizations"
+      ],
+      "rationale": "\u2018Open\u2019 declarations often precede gradual normalization; a 90% threshold is plausible if no new attacks occur.",
+      "id": "ec2795c7-1b6d-4669-9d5f-d58b6a40b479",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "At the 2026-09-16 FOMC meeting, the Federal Reserve will keep the target range for the federal funds rate unchanged from the range in effect on 2026-04-18 (no cut and no hike), as shown in the official FOMC statement.",
+      "category": "rates",
+      "horizon_days": 151,
+      "deadline": "2026-09-16",
+      "confidence_pct": 52,
+      "log_odds": 0.08,
+      "verification_criteria": "Compare the federal funds target range in the 2026-09-16 FOMC statement to the target range in effect on 2026-04-18; they must match exactly.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/17/fed-governor-waller-says-iran-war-and-labor-market-risks-are-keeping-central-bank-on-hold.html"
+      ],
+      "monitoring_signals": [
+        "CPI/PCE inflation prints and revisions",
+        "Monthly payrolls/unemployment rate surprises",
+        "Fed speakers shifting from \u2018hold\u2019 to explicit easing/tightening bias"
+      ],
+      "rationale": "Two-sided inflation and growth risks favor policy inertia, but a sharp inflation or labor shock could force a move.",
+      "id": "b882a29b-05d2-4b04-8fcc-65429e69848c",
+      "outcome": null,
+      "confidence_bin": "50-60"
+    },
+    {
+      "text": "By 2026-12-31, the Government of Canada will table federal legislation to expand national-security review/screening for foreign investment in at least one explicitly named strategic sector (e.g., critical minerals, semiconductors/AI compute infrastructure, telecom/satcom), as shown by a bill introduced in Parliament and a corresponding government news release/backgrounder.",
+      "category": "geopolitics",
+      "horizon_days": 257,
+      "deadline": "2026-12-31",
+      "confidence_pct": 37,
+      "log_odds": -0.532,
+      "verification_criteria": "A Canadian federal bill is introduced (House of Commons) that amends the Investment Canada Act (or equivalent) to expand national-security screening, and the government explicitly cites at least one strategic sector in the bill text or official release.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/17/world/canada/carney-investors-summit-canada-us-trade.html"
+      ],
+      "monitoring_signals": [
+        "Innovation, Science and Economic Development Canada (ISED) announcements",
+        "Parliament bill introductions/amendments to the Investment Canada Act",
+        "High-profile blocked/conditioned foreign investment cases"
+      ],
+      "rationale": "Greater geopolitical friction and \u2018diversify from the U.S.\u2019 messaging make tighter screening plausible, but legislative bandwidth and political tradeoffs may delay action.",
+      "id": "e89fcbc9-feeb-4167-ace6-1b432d7c1b6a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}

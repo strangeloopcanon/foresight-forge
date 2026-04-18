@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-17",
+  "assessments": [
+    {
+      "id": "dda9506e-3f65-48bf-9646-fd52a639d3cb",
+      "status": "pending",
+      "status_rationale": "Today\u2019s bullets contain no indication that Charles Schwab has launched direct spot BTC/ETH trading for U.S. retail brokerage customers (outside ETFs), nor any referenced Schwab.com documentation/press release."
+    },
+    {
+      "id": "b7ee726e-49d2-47ee-bba0-b60dd4c4f9d8",
+      "status": "pending",
+      "status_rationale": "No items reference the Live Nation/Ticketmaster case or any DOJ remedies brief seeking a structural divestiture/separation."
+    },
+    {
+      "id": "c443dcdd-dbbf-4f26-957e-5da17769293c",
+      "status": "pending",
+      "status_rationale": "No coverage here indicates the European Commission proposed an emergency amendment/derogation/temporary flexibility to ReFuelEU Aviation (or comparable SAF rule) citing jet-fuel supply constraints/disruption risk."
+    },
+    {
+      "id": "49f2fd60-4802-4610-878b-9d2e7de9547e",
+      "status": "pending",
+      "status_rationale": "While several bullets discuss Iran/Strait of Hormuz and oil-market implications, none report an earnings-related profit warning or guidance cut by Lufthansa, IAG, Air France-KLM, or Ryanair explicitly citing jet-fuel supply constraints/price spikes."
+    },
+    {
+      "id": "427d06f0-0311-4bf7-bd63-ef3e6be5e4c9",
+      "status": "pending",
+      "status_rationale": "The news suggests eased tensions and optimism about a deal (e.g., Strait of Hormuz being declared 'open'), but it does not clearly document a public confirmation (by U.S. State/White House or Iran MFA) that formal U.S.-Iran de-escalation/ceasefire talks have started."
+    },
+    {
+      "id": "fca0fb0e-8843-4c95-a663-7538576be067",
+      "status": "pending",
+      "status_rationale": "A Netflix strategy/M&A piece appears, but nothing indicates Netflix has appointed/disclosed a new Board Chair distinct from the CEO via 8-K/proxy/press release."
+    },
+    {
+      "id": "764c50c8-6ed9-41cf-ae9c-a8e62c76cfaf",
+      "status": "pending",
+      "status_rationale": "Cerebras\u2019 IPO filing is mentioned, but it is a tech/semiconductor company and not evidence of multiple $500M+ U.S.-listed Industrials-sector IPOs meeting the specified threshold/count."
+    },
+    {
+      "id": "4a2a2a02-b7d0-4187-9408-8523b96aa4cd",
+      "status": "pending",
+      "status_rationale": "No bullets reference the Fed\u2019s 2026 enforcement-action press releases or a count of actions involving banks/BHCs under $10B in assets."
+    },
+    {
+      "id": "ee34080a-51ee-4266-a920-2d8ad12a44a6",
+      "status": "pending",
+      "status_rationale": "No information here references the Federal Reserve G.17 capacity utilization reading (total industry) reaching \u226579.5% in any monthly report."
+    },
+    {
+      "id": "d31de649-8ca8-4d03-b684-5e547fbf0cb2",
+      "status": "pending",
+      "status_rationale": "No mention of Barry Callebaut announcing a restructuring involving \u2265500 headcount reductions or a facility closure/sale linked to demand weakness and/or cocoa price volatility."
+    }
+  ]
+}

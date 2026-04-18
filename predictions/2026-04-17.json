@@ -19,7 +19,7 @@
       ],
       "rationale": "Schwab has publicly telegraphed intent; the main uncertainty is regulatory/custody execution and timing versus prior crypto cycles.",
       "id": "dda9506e-3f65-48bf-9646-fd52a639d3cb",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "60-70"
     },
     {
@@ -40,7 +40,7 @@
       "supersedes_id": "75a528f3-c643-4b1f-a734-b82d50bc21d6",
       "rationale": "A liability finding increases remedy leverage, but DOJ may still prefer behavioral relief or a slower remedies schedule, making an explicit divestiture request by August uncertain.",
       "id": "b7ee726e-49d2-47ee-bba0-b60dd4c4f9d8",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -60,7 +60,7 @@
       ],
       "rationale": "A severe jet-fuel squeeze can trigger temporary regulatory flexibility, but EU climate-policy stickiness makes this a low-to-moderate probability outcome.",
       "id": "c443dcdd-dbbf-4f26-957e-5da17769293c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -81,7 +81,7 @@
       ],
       "rationale": "If the IEA-style shortage scenario materializes, airlines are likely to reflect it quickly via guidance, but carriers may hedge and frame impacts as price rather than physical constraints.",
       "id": "49f2fd60-4802-4610-878b-9d2e7de9547e",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -102,7 +102,7 @@
       ],
       "rationale": "Public signals suggest an off-ramp is being sought; official confirmation depends on battlefield dynamics and domestic politics on both sides.",
       "id": "427d06f0-0311-4bf7-bd63-ef3e6be5e4c9",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -122,7 +122,7 @@
       ],
       "rationale": "Governance transitions often lead to a formalized chair/leadership structure within a year, but Netflix could rely on a lead independent director model instead.",
       "id": "fca0fb0e-8843-4c95-a663-7538576be067",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -143,7 +143,7 @@
       ],
       "rationale": "A single blockbuster IPO can precede a broader reopening, but sustained industrial issuance depends on equity risk appetite and rates/volatility staying supportive.",
       "id": "764c50c8-6ed9-41cf-ae9c-a8e62c76cfaf",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -163,7 +163,7 @@
       ],
       "rationale": "Recent actions highlight continued supervisory intensity for smaller institutions, but the annual count is sensitive to enforcement cadence and bundling of actions.",
       "id": "4a2a2a02-b7d0-4187-9408-8523b96aa4cd",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -184,7 +184,7 @@
       ],
       "rationale": "Geopolitical supply stress can tighten utilization, but slowing growth could offset, making a near-term \u226579.5% print plausible but far from certain.",
       "id": "ee34080a-51ee-4266-a920-2d8ad12a44a6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -205,7 +205,7 @@
       ],
       "rationale": "A sharp reversal in cocoa pricing can create a volume and pricing reset; restructuring is plausible but management may stabilize via commercial actions instead of large, quantifiable cuts.",
       "id": "d31de649-8ca8-4d03-b684-5e547fbf0cb2",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

@@ -2487,3 +2487,12 @@ The day’s news does, however, shift the “information environment” for a co
 
 ---
 
+
+## 2026-04-17
+
+Today’s news flow is dominated by the Iran conflict/de-escalation narrative (Strait of Hormuz status, market/risk sentiment, and political messaging). That cluster is directionally relevant to the U.S.–Iran talks prediction, but the specific, falsifiable trigger in the forecast—a public confirmation that formal talks have started, attributable to the State Department/White House or Iran’s MFA—does not appear in the provided bullets. So the forecast remains live but unverified.
+
+Separately, there are signals of capital-markets activity (Cerebras filing to go public) and Netflix corporate-strategy commentary, but neither maps cleanly onto the stated resolution criteria for the relevant predictions (industrials IPO count/size, or a disclosed new Netflix board chair). None of the other predictions (Schwab direct spot crypto trading, DOJ Live Nation remedies seeking divestiture, EU ReFuelEU emergency flexibility, airline profit warnings tied to jet fuel constraints, Fed enforcement-action count, G.17 capacity utilization threshold, or Barry Callebaut restructuring) are evidenced by today’s bullets, so all should remain pending.
+
+---
+
