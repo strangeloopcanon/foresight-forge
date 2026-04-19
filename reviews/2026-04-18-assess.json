@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-18",
+  "assessments": [
+    {
+      "id": "795a805b-6163-471a-9029-4f804d067b45",
+      "status": "pending",
+      "status_rationale": "Deadline is 2026-07-31 and the condition depends on Meta\u2019s Q1 2026 and Q2 2026 headcount disclosures (10-Q or earnings release). Today\u2019s news items do not provide the required headcount figures."
+    },
+    {
+      "id": "e408d74f-fe62-4229-91f3-69b2a18b30c6",
+      "status": "pending",
+      "status_rationale": "Deadline is 2026-12-31 and requires a completed U.S. IPO and proceeds verified in a final prospectus (424B). No IPO/prospectus evidence appears in today\u2019s news bullets."
+    },
+    {
+      "id": "dcf87215-6210-4944-a54b-198e75bd9e67",
+      "status": "pending",
+      "status_rationale": "Deadline is 2026-10-31 and requires a binding federal directive defining \u201cfrontier\u201d via explicit compute/capability thresholds plus pre-deployment testing/red-teaming requirements. Today\u2019s bullets do not mention any AI-testing directive; the noted executive order is unrelated (psychedelic drugs)."
+    },
+    {
+      "id": "ad61aea6-1207-419d-8822-5dbac0be751f",
+      "status": "pending",
+      "status_rationale": "Deadline is 2026-09-30 and requires a CISA announcement of a new vulnerability-context program with an API/feed covering \u226550% of newly published CVEs. No CISA/CVE program announcement appears in today\u2019s items."
+    },
+    {
+      "id": "d671bef2-0b57-429a-816e-980ee372d790",
+      "status": "pending",
+      "status_rationale": "Deadline is 2026-12-31 and requires a publicly announced CFTC/DOJ enforcement action tied to manipulation/insider trading in crude/refined products during the April 2026 Iran conflict period. Today\u2019s news includes conflict/oil-market coverage but no enforcement action announcement."
+    },
+    {
+      "id": "ec2795c7-1b6d-4669-9d5f-d58b6a40b479",
+      "status": "pending",
+      "status_rationale": "Deadline is 2026-06-30 and requires a major shipping analytics provider to publish that Hormuz crude-oil tanker transits returned to \u226590% of pre-conflict baseline on a 14-day rolling basis. Today\u2019s reporting (e.g., CNBC/NYT) discusses renewed closure and risks, which does not satisfy the specific analytics-provider publication requirement."
+    },
+    {
+      "id": "b882a29b-05d2-4b04-8fcc-65429e69848c",
+      "status": "pending",
+      "status_rationale": "Resolution depends on the 2026-09-16 FOMC statement relative to the target range in effect on 2026-04-18. No FOMC decision is reported in today\u2019s bullets."
+    },
+    {
+      "id": "e89fcbc9-feeb-4167-ace6-1b432d7c1b6a",
+      "status": "pending",
+      "status_rationale": "Deadline is 2026-12-31 and requires Canada to table federal legislation expanding national-security foreign-investment review in named strategic sectors, evidenced by a bill introduced plus a government release/backgrounder. No such Canadian legislative action is indicated in today\u2019s news bullets."
+    }
+  ]
+}

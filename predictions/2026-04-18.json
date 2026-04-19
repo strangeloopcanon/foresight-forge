@@ -19,7 +19,7 @@
       ],
       "rationale": "Reported plans for ~10% cuts suggest a measurable near-term headcount decline, but timing and scope could be staggered across quarters.",
       "id": "795a805b-6163-471a-9029-4f804d067b45",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -40,7 +40,7 @@
       ],
       "rationale": "Refiling signals intent, but AI-IPO windows can shut quickly if risk sentiment deteriorates.",
       "id": "e408d74f-fe62-4229-91f3-69b2a18b30c6",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "rationale": "Active policy negotiations increase odds of a concrete federal standard, but industry pushback could keep measures voluntary or non-thresholded.",
       "id": "dcf87215-6210-4944-a54b-198e75bd9e67",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     },
     {
@@ -82,7 +82,7 @@
       ],
       "rationale": "If NVD enrichment degrades, pressure rises for CISA to fill the operational gap for prioritization, but coverage commitments may be limited.",
       "id": "ad61aea6-1207-419d-8822-5dbac0be751f",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "40-50"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "rationale": "Congressional scrutiny can catalyze enforcement, but proving intent and building cases often takes longer than a year.",
       "id": "d671bef2-0b57-429a-816e-980ee372d790",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "20-30"
     },
     {
@@ -124,7 +124,7 @@
       ],
       "rationale": "\u2018Open\u2019 declarations often precede gradual normalization; a 90% threshold is plausible if no new attacks occur.",
       "id": "ec2795c7-1b6d-4669-9d5f-d58b6a40b479",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -145,7 +145,7 @@
       ],
       "rationale": "Two-sided inflation and growth risks favor policy inertia, but a sharp inflation or labor shock could force a move.",
       "id": "b882a29b-05d2-4b04-8fcc-65429e69848c",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "50-60"
     },
     {
@@ -166,7 +166,7 @@
       ],
       "rationale": "Greater geopolitical friction and \u2018diversify from the U.S.\u2019 messaging make tighter screening plausible, but legislative bandwidth and political tradeoffs may delay action.",
       "id": "e89fcbc9-feeb-4167-ace6-1b432d7c1b6a",
-      "outcome": null,
+      "outcome": "pending",
       "confidence_bin": "30-40"
     }
   ]

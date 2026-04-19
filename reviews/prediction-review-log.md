@@ -2496,3 +2496,12 @@ Separately, there are signals of capital-markets activity (Cerebras filing to go
 
 ---
 
+
+## 2026-04-18
+
+None of the predictions can be resolved from today’s headlines; all remain pending because their verification hinges on future filings (Meta), formal regulatory/legislative actions (White House/OMB directive; CISA program; Canada bill), a future scheduled decision (September 2026 FOMC), a potential enforcement announcement (CFTC/DOJ), or a specific third-party analytics publication (Hormuz transit normalization).
+
+The Iran/Strait of Hormuz coverage is directionally relevant to two oil/shipping-related forecasts, but it provides neither (a) the specific “≥90% of baseline on a 14-day rolling basis” statement from a named shipping analytics provider nor (b) any enforcement action tied to alleged manipulation/insider trading during the conflict period. In fact, reports of the strait being “closed again” suggest continued volatility, which may affect the likelihood of the transit-normalization forecast, but it does not yet confirm or refute it under the stated criteria.
+
+---
+

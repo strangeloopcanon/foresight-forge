@@ -1,0 +1,99 @@
+{
+  "bullets": [
+    {
+      "text": "Iran\u2019s renewed closure/fire in the Strait of Hormuz turns maritime disruption into a deterrent tool, raising tanker, insurance, and escalation risks.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html"
+    },
+    {
+      "text": "Even if Hormuz reopens, oil and LNG markets face lingering price pressure from shipping bottlenecks, precautionary inventories, and rerouting limits.",
+      "tags": [
+        "energy",
+        "macro"
+      ],
+      "link": "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html"
+    },
+    {
+      "text": "Energy shock is bleeding into the real economy: higher gasoline squeezes discretionary spending, while policymakers flag inflation, energy supply, and geopolitics as top risks.",
+      "tags": [
+        "macro",
+        "energy",
+        "rates"
+      ],
+      "link": "https://www.cnbc.com/2026/04/18/iran-war-inflation-prices-energy-trump-economy-end.html"
+    },
+    {
+      "text": "Markets hit record highs, but leadership is uneven (e.g., Berkshire lagging), highlighting dispersion risk as investors reprice winners/losers amid war-driven volatility.",
+      "tags": [
+        "markets",
+        "macro"
+      ],
+      "link": "https://www.cnbc.com/2026/04/18/berkshire-shares-left-behind-as-s-p-500-rallies-to-record-high.html"
+    },
+    {
+      "text": "Big Tech\u2019s AI spending boom is colliding with demands for fast monetization; chip ecosystem heats up as Cerebras files for an IPO.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
+    },
+    {
+      "text": "Nvidia faces consumer backlash as AI demand crowds out gaming priorities\u2014an early signal of reputational and product-allocation tradeoffs in the GPU supply chain.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html"
+    },
+    {
+      "text": "Tesla expands robotaxi operations to Dallas and Houston, testing regulatory, safety, and unit-economics questions central to autonomous-transport commercialization.",
+      "tags": [
+        "tech",
+        "markets"
+      ],
+      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/"
+    },
+    {
+      "text": "New York City\u2019s proposed second-home tax targets high-end real estate to raise ~$500M, but may pressure housing-linked industries and accelerate taxpayer mobility.",
+      "tags": [
+        "macro",
+        "markets"
+      ],
+      "link": "https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a"
+    },
+    {
+      "text": "U.S. household finances tighten: caregiving costs are becoming catastrophic; proposals to cap Social Security benefits for higher earners shift future entitlement politics.",
+      "tags": [
+        "macro"
+      ],
+      "link": "https://www.marketwatch.com/story/caregiving-is-now-so-crazy-expensive-that-its-financially-devastating-to-most-families-new-research-shows-989ba873"
+    },
+    {
+      "text": "Lebanon\u2019s cease-fire sees displaced people returning, but the truce remains fragile\u2014any relapse could revive cross-border conflict and regional risk premia.",
+      "tags": [
+        "geopolitics"
+      ],
+      "link": "https://www.nytimes.com/2026/04/18/world/middleeast/lebanon-israel-cease-fire-hezbollah-un.html"
+    },
+    {
+      "text": "Venezuela\u2019s leadership transition features purges of former allies, signaling heightened internal instability that could affect oil policy, sanctions dynamics, and migration flows.",
+      "tags": [
+        "geopolitics",
+        "energy"
+      ],
+      "link": "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html"
+    },
+    {
+      "text": "Science/tech frontier: artificial neurons communicating with brain cells and \u201cany-wavelength\u201d on-chip lasers could accelerate neuroprosthetics and photonics-driven computing.",
+      "tags": [
+        "science",
+        "tech"
+      ],
+      "link": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits"
+    }
+  ]
+}

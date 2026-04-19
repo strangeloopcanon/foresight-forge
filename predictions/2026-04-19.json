@@ -1,0 +1,235 @@
+{
+  "date": "2026-04-19",
+  "predictions": [
+    {
+      "text": "By 2026-06-30, Platts JKM (spot LNG Asia) will be assessed at or above $20.00/MMBtu on at least one trading day.",
+      "category": "energy",
+      "horizon_days": 72,
+      "deadline": "2026-06-30",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "Resolves YES if S&P Global Commodity Insights publishes a daily Platts JKM assessment (front-month/spot) \u2265 $20.00/MMBtu on any date between 2026-04-19 and 2026-06-30 inclusive.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html",
+        "S&P Global Platts JKM daily assessments (Commodity Insights)"
+      ],
+      "monitoring_signals": [
+        "Reports of LNG carrier rerouting/war-risk premiums in Hormuz/Arabian Gulf",
+        "Asian spot LNG tender activity (Japan/Korea/China/India)",
+        "North Asia weather anomalies (late cold/early heat)",
+        "Qatar/UAE LNG export disruption headlines"
+      ],
+      "rationale": "Hormuz risk can disproportionately lift LNG prices via shipping/insurance and precautionary restocking; $20/MMBtu is a meaningful but reachable stress level.",
+      "id": "1c355320-6217-496b-8711-e023bc0b0a79",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, ICE Endex Dutch TTF Natural Gas front-month futures will have at least one daily settlement price at or above \u20ac55.00/MWh.",
+      "category": "energy",
+      "horizon_days": 72,
+      "deadline": "2026-06-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Resolves YES if ICE Endex publishes any daily settlement for the front-month TTF futures contract \u2265 \u20ac55.00/MWh between 2026-04-19 and 2026-06-30 inclusive.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html",
+        "ICE Endex settlement data for Dutch TTF Natural Gas futures"
+      ],
+      "monitoring_signals": [
+        "European LNG send-out and storage injection pace vs seasonal norms",
+        "Unplanned outages at Norway gas fields or LNG liquefaction plants",
+        "Asian LNG price spikes pulling cargoes away from Europe",
+        "EU/UK gas security advisories"
+      ],
+      "rationale": "Even without a full cutoff, elevated Middle East risk and cargo diversion can tighten Atlantic LNG balance enough to push TTF into a higher stress band.",
+      "id": "cca7f890-e701-495c-8806-b88420d9afc2",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-06-30, the Baltic Exchange Dirty Tanker Index (BDTI) will close at or above 1,800 on at least one trading day.",
+      "category": "markets",
+      "horizon_days": 72,
+      "deadline": "2026-06-30",
+      "confidence_pct": 38,
+      "log_odds": -0.4895,
+      "verification_criteria": "Resolves YES if the Baltic Exchange publishes a BDTI close \u2265 1,800 on any date between 2026-04-19 and 2026-06-30 inclusive.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html",
+        "Baltic Exchange published BDTI daily close levels"
+      ],
+      "monitoring_signals": [
+        "War-risk premium changes for Gulf transits",
+        "Tanker re-routing (Cape of Good Hope) and increased voyage duration",
+        "VLCC fixture rates and ton-mile demand commentary",
+        "Any announced carrier avoidance of Hormuz beyond isolated days"
+      ],
+      "rationale": "Freight indices can jump quickly when routes lengthen and risk premia rise; 1,800 is a high but plausible spike level during acute disruption.",
+      "id": "14f738ce-5256-42bb-8520-b17115d4dd2a",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-07-31, AAA\u2019s U.S. national average retail price for regular gasoline will be at or above $4.50 per gallon on at least one day.",
+      "category": "energy",
+      "horizon_days": 103,
+      "deadline": "2026-07-31",
+      "confidence_pct": 42,
+      "log_odds": -0.3228,
+      "verification_criteria": "Resolves YES if AAA\u2019s Daily Fuel Gauge Report shows the U.S. national average for regular gasoline \u2265 $4.50/gal on any date between 2026-04-19 and 2026-07-31 inclusive.",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/18/iran-war-inflation-prices-energy-trump-economy-end.html",
+        "AAA Daily Fuel Gauge Report (U.S. national average regular)"
+      ],
+      "monitoring_signals": [
+        "Brent/WTI levels and refinery crack spreads",
+        "U.S. refinery outages and utilization rates",
+        "EIA weekly gasoline inventories and demand",
+        "State-level price acceleration (West Coast \u2192 national)"
+      ],
+      "rationale": "A sustained crude + refining margin shock during peak driving season can pull the national average into the mid-$4s even if the most extreme spikes remain regional.",
+      "id": "ffe0ae6a-4b5d-4893-99b6-ece1560d2b29",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, the S&P 500 (cap-weight, SPX) total return will exceed the S&P 500 Equal Weight Index (RSP) total return by at least 7.0 percentage points, measured from 2026-04-19 close to 2026-09-30 close.",
+      "category": "markets",
+      "horizon_days": 164,
+      "deadline": "2026-09-30",
+      "confidence_pct": 45,
+      "log_odds": -0.2007,
+      "verification_criteria": "Resolves YES if (SPX total return over the measurement window) \u2212 (S&P 500 Equal Weight total return over the same window) \u2265 7.0 percentage points using official index total return levels or widely-cited provider data (S&P Dow Jones Indices).",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/18/berkshire-shares-left-behind-as-s-p-500-rallies-to-record-high.html",
+        "S&P Dow Jones Indices: SPX and S&P 500 Equal Weight Index total return level data"
+      ],
+      "monitoring_signals": [
+        "Mega-cap earnings revisions vs rest-of-market revisions",
+        "Breadth indicators (advance/decline, % above 200DMA)",
+        "Concentration metrics (top-10 weight, Herfindahl)",
+        "AI-related winners/losers and energy-shock sector dispersion"
+      ],
+      "rationale": "A risk premium shock plus AI-led concentration can widen the gap between mega-cap leaders and the broader market; 7pp is a meaningful but achievable dispersion threshold.",
+      "id": "7f76f058-146c-42af-afe2-46671168cd9c",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-11-30, Nvidia will report year-over-year Gaming segment revenue down at least 10% in at least one quarterly earnings release for a quarter ending after 2026-06-30.",
+      "category": "tech",
+      "horizon_days": 225,
+      "deadline": "2026-11-30",
+      "confidence_pct": 33,
+      "log_odds": -0.708,
+      "verification_criteria": "Resolves YES if Nvidia\u2019s quarterly results (press release/10-Q) show Gaming segment revenue (or equivalent segment label) for any quarter with period end after 2026-06-30 is \u2264 90% of the same quarter\u2019s value one year earlier (YoY decline \u2265 10%).",
+      "evidence": [
+        "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
+        "Nvidia investor relations quarterly earnings releases and segment revenue tables"
+      ],
+      "monitoring_signals": [
+        "Channel checks on GeForce supply and pricing vs MSRP",
+        "PC/GPU market trackers (IDC/Gartner/JPR) shipment trends",
+        "Nvidia commentary on allocation between data center and gaming",
+        "Competitor GPU launches and pricing pressure"
+      ],
+      "rationale": "If AI demand crowds out consumer supply and/or pricing remains elevated, gaming revenue could slip YoY despite a strong overall Nvidia cycle.",
+      "id": "82a5191a-3bb2-4635-b961-fdbf975c0e61",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-10-31, NHTSA\u2019s Office of Defects Investigation (ODI) will open a publicly posted investigation (e.g., PE/EA) explicitly referencing Tesla\u2019s robotaxi service operations in Dallas or Houston.",
+      "category": "tech",
+      "horizon_days": 195,
+      "deadline": "2026-10-31",
+      "confidence_pct": 30,
+      "log_odds": -0.8473,
+      "verification_criteria": "Resolves YES if NHTSA ODI posts an investigation record (Preliminary Evaluation, Engineering Analysis, etc.) that explicitly mentions Tesla robotaxi service and Dallas or Houston in the investigation description or documents by 2026-10-31.",
+      "evidence": [
+        "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+        "NHTSA ODI public investigations database"
+      ],
+      "monitoring_signals": [
+        "Reported crashes/near-misses involving Tesla robotaxi vehicles in Texas",
+        "Local regulator/city inquiries and police incident reports",
+        "NHTSA information requests or standing general order updates",
+        "Tesla software update notes tied to robotaxi safety"
+      ],
+      "rationale": "Scaling robotaxi pilots increases exposure to edge-case incidents and regulatory scrutiny; ODI action is plausible but far from certain.",
+      "id": "563a7e98-0245-4115-9ac1-6773d6ce49fd",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    },
+    {
+      "text": "By 2026-12-31, New York City will enact (City Council passage + Mayor signature) a \u201csecond-home\u201d related tax or surcharge that explicitly applies to non-primary residences and is projected by the city to raise at least $300 million annually.",
+      "category": "macro",
+      "horizon_days": 256,
+      "deadline": "2026-12-31",
+      "confidence_pct": 25,
+      "log_odds": -1.0986,
+      "verification_criteria": "Resolves YES if NYC legislation is enacted (local law signed) that (a) explicitly targets non-primary/second homes (property tax surcharge, transfer surcharge, or equivalent) and (b) an official NYC fiscal note/press release/OMB estimate projects \u2265 $300M in annual revenue.",
+      "evidence": [
+        "https://www.marketwatch.com/story/mayor-mamdanis-500-million-war-on-the-rich-will-force-new-york-citys-top-taxpayers-to-florida-e179b49a",
+        "NYC Council legislative records + NYC Mayor/OMB fiscal impact documents"
+      ],
+      "monitoring_signals": [
+        "NYC Council committee hearings and bill text releases",
+        "NYC OMB fiscal notes and revenue projections",
+        "Real estate industry lobbying/coalition statements",
+        "State-level authorization discussions (if required)"
+      ],
+      "rationale": "The proposal is politically salient but faces legal, market, and implementation hurdles; enactment with a large revenue score is a lower-probability outcome.",
+      "id": "f6b0f93a-3fb7-4235-9fe6-cb280e4f74fe",
+      "outcome": null,
+      "confidence_bin": "20-30"
+    },
+    {
+      "text": "By 2026-10-31, U.S. Treasury/OFAC will issue a new or amended Venezuela-related General License that materially changes authorization for oil and gas transactions (either tightening or loosening compared with the version in effect on 2026-04-19).",
+      "category": "geopolitics",
+      "horizon_days": 195,
+      "deadline": "2026-10-31",
+      "confidence_pct": 40,
+      "log_odds": -0.4055,
+      "verification_criteria": "Resolves YES if OFAC publishes a Venezuela-related General License (new or amended) that explicitly changes permitted petroleum-related activities (scope, counterparties, duration, payment terms, etc.) relative to the license terms in effect on 2026-04-19.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/18/world/americas/delcy-rodriguez-maduro-allies-venezuela.html",
+        "OFAC: Venezuela Sanctions web page and General License PDFs"
+      ],
+      "monitoring_signals": [
+        "Venezuela political instability and purge/elite-fracture reporting",
+        "U.S.-Venezuela diplomatic statements and election-related developments",
+        "Oil market tightness and U.S. gasoline inflation politics",
+        "Chevron/partner compliance and export flow reporting"
+      ],
+      "rationale": "A shifting internal Venezuelan landscape plus energy-market pressures often drive OFAC recalibration; direction is uncertain, but a material license update is plausible.",
+      "id": "23d38501-e463-4a67-b5c4-de77df8453a6",
+      "outcome": null,
+      "confidence_bin": "40-50"
+    },
+    {
+      "text": "By 2026-09-30, ACLED will record at least one event-day of Israel\u2013Lebanon cross-border violence with a reported fatality count of 10 or more (combined fatalities in the event record).",
+      "category": "geopolitics",
+      "horizon_days": 164,
+      "deadline": "2026-09-30",
+      "confidence_pct": 35,
+      "log_odds": -0.619,
+      "verification_criteria": "Resolves YES if ACLED\u2019s publicly accessible dataset (or ACLED dashboard exports) includes at least one Israel\u2013Lebanon cross-border conflict event dated between 2026-04-19 and 2026-09-30 with fatalities \u2265 10 as recorded by ACLED.",
+      "evidence": [
+        "https://www.nytimes.com/2026/04/18/world/middleeast/lebanon-israel-cease-fire-hezbollah-un.html",
+        "ACLED (Armed Conflict Location & Event Data) dataset/dashboards"
+      ],
+      "monitoring_signals": [
+        "Ceasefire violation reports and UNIFIL incident updates",
+        "Rocket/drone exchanges and retaliation cycles",
+        "Political developments affecting Hezbollah/Israel posture",
+        "Evacuation orders or renewed displacement flows"
+      ],
+      "rationale": "A fragile ceasefire environment makes episodic lethal spikes possible, but the 10+ fatality threshold requires a significant flare-up.",
+      "id": "99b8752c-cb11-40e1-9857-e6132afe1357",
+      "outcome": null,
+      "confidence_bin": "30-40"
+    }
+  ]
+}
