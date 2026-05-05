@@ -1,0 +1,818 @@
+[
+  {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html",
+    "title": "Trump Tries to Downplay Economic Effects of the Iran War",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html",
+    "published": "Tue, 05 May 2026 01:40:06 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/us-china-iranian-oil-sanctions.html",
+    "title": "U.S. Warns China Over Iranian Oil as Sanctions Fight Intensifies",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/us-china-iranian-oil-sanctions.html",
+    "published": "Mon, 04 May 2026 17:32:17 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/briefing/iran-strait-of-hormuz-attacks-met-gala.html",
+    "title": "Attacks Threaten to Reignite Iran Conflict",
+    "link": "https://www.nytimes.com/2026/05/04/briefing/iran-strait-of-hormuz-attacks-met-gala.html",
+    "published": "Mon, 04 May 2026 23:13:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html",
+    "title": "Trump Administration Demands Names of 2020 Election Workers in Georgia",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-2020-georgia-election-workers.html",
+    "published": "Tue, 05 May 2026 02:26:17 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/climate/east-potomac-golf-debris-toxic.html",
+    "title": "Soil at D.C. Golf Course Where East Wing Debris Was Dumped Contains Toxic Metals",
+    "link": "https://www.nytimes.com/2026/05/04/climate/east-potomac-golf-debris-toxic.html",
+    "published": "Mon, 04 May 2026 22:48:03 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+    "title": "White House Considers Vetting A.I. Models Before They Are Released",
+    "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+    "published": "Mon, 04 May 2026 22:37:29 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html",
+    "title": "Met Gala 2026 Red Carpet Photos: All the Looks",
+    "link": "https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html",
+    "published": "Tue, 05 May 2026 02:38:19 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-abortion-pill.html",
+    "title": "Supreme Court Temporarily Restores Access to Abortion Pill by Mail",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-abortion-pill.html",
+    "published": "Mon, 04 May 2026 19:21:50 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-louisiana-voting-rights-act.html",
+    "title": "Supreme Court Agrees to Fast-Track Louisiana Voting Map Decision",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/supreme-court-louisiana-voting-rights-act.html",
+    "published": "Tue, 05 May 2026 00:57:23 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/business/media/pulitzer-prizes-2026.html",
+    "title": "New York Times Wins 3 Pulitzer Prizes",
+    "link": "https://www.nytimes.com/2026/05/04/business/media/pulitzer-prizes-2026.html",
+    "published": "Mon, 04 May 2026 20:32:32 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/business/pulitzer-prizes-2026-winners-list.html",
+    "title": "Pulitzer Prizes: 2026 Winners List",
+    "link": "https://www.nytimes.com/2026/05/04/business/pulitzer-prizes-2026-winners-list.html",
+    "published": "Mon, 04 May 2026 21:06:27 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/world/middleeast/pulitzer-saher-alghorra-breaking-news-photography.html",
+    "title": "A Portfolio of Work From The Times\u2019s Pulitzer Prize-Winning Photographer",
+    "link": "https://www.nytimes.com/2026/05/04/world/middleeast/pulitzer-saher-alghorra-breaking-news-photography.html",
+    "published": "Mon, 04 May 2026 19:31:20 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/us/politics/trump-buffalos-montana.html",
+    "title": "Home on the Range No More: Trump Wants Bison Gone",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-buffalos-montana.html",
+    "published": "Mon, 04 May 2026 18:41:13 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/climate/wind-power-delays-trump-pentagon.html",
+    "title": "More Than 150 Wind Projects Stall as Pentagon Delays Reviews",
+    "link": "https://www.nytimes.com/2026/05/04/climate/wind-power-delays-trump-pentagon.html",
+    "published": "Mon, 04 May 2026 19:30:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/world/asia/ejae-kpop-demon-hunters.html",
+    "title": "Chasing Stardom in Korea Nearly Destroyed Ejae. Then Came \u2018KPop Demon Hunters.\u2019",
+    "link": "https://www.nytimes.com/2026/05/04/world/asia/ejae-kpop-demon-hunters.html",
+    "published": "Tue, 05 May 2026 02:13:12 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/movies/blake-lively-justin-baldoni-settlement.html",
+    "title": "Blake Lively and Justin Baldoni Settle \u2018It Ends With Us\u2019 Lawsuit",
+    "link": "https://www.nytimes.com/2026/05/04/movies/blake-lively-justin-baldoni-settlement.html",
+    "published": "Tue, 05 May 2026 00:29:03 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/well/hantavirus-infection-symptoms.html",
+    "title": "How a Hantavirus Infection Feels: \u2018You Just Can\u2019t Get the Air In\u2019",
+    "link": "https://www.nytimes.com/2026/05/04/well/hantavirus-infection-symptoms.html",
+    "published": "Tue, 05 May 2026 00:35:20 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
+    "title": "What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship",
+    "link": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
+    "published": "Tue, 05 May 2026 01:04:49 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html",
+    "title": "Elon Musk\u2019s Lawyers Ask OpenAI\u2019s President Why He Is Worth $30 Billion",
+    "link": "https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html",
+    "published": "Mon, 04 May 2026 22:24:31 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/theater/streisand-holliday-broadway-michele-chenoweth-menzel.html",
+    "title": "Streisand, LuPone, Holliday, Menzel: Broadway\u2019s Biggest Voices",
+    "link": "https://www.nytimes.com/2026/05/04/theater/streisand-holliday-broadway-michele-chenoweth-menzel.html",
+    "published": "Mon, 04 May 2026 19:25:52 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/opinion/devil-wears-prada-feminism-girlboss.html",
+    "title": "A Movie About Women Who Love Their Work? Groundbreaking.",
+    "link": "https://www.nytimes.com/2026/05/04/opinion/devil-wears-prada-feminism-girlboss.html",
+    "published": "Tue, 05 May 2026 00:38:27 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/opinion/yuppies-merit-society-politics-cities.html",
+    "title": "Speak, Yuppie",
+    "link": "https://www.nytimes.com/2026/05/04/opinion/yuppies-merit-society-politics-cities.html",
+    "published": "Mon, 04 May 2026 22:36:49 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/us/beagles-ridglan-farms-wisconsin.html",
+    "title": "1,500 Beagles From Ridglan Farms in Wisconsin Are Getting New Homes",
+    "link": "https://www.nytimes.com/2026/05/04/us/beagles-ridglan-farms-wisconsin.html",
+    "published": "Mon, 04 May 2026 20:58:18 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
+    "title": "S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures",
+    "link": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
+    "published": "Tue, 05 May 2026 01:22:06 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/nyregion/epstein-victims-new-york.html",
+    "title": "Four Epstein Victims Ask N.Y. Lawmakers to Open His Estate to Lawsuits",
+    "link": "https://www.nytimes.com/2026/05/04/nyregion/epstein-victims-new-york.html",
+    "published": "Mon, 04 May 2026 21:12:36 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/05/04/weather/colorado-snow-forecast.html",
+    "title": "Colorado Snowstorm Could Be Its Biggest All Year",
+    "link": "https://www.nytimes.com/2026/05/04/weather/colorado-snow-forecast.html",
+    "published": "Mon, 04 May 2026 20:51:20 +0000"
+  },
+  {
+    "id": "WP-MKTW-0004971326",
+    "title": "Your Spirit loyalty points are probably worthless now \u2014 but these other airlines may match your rewards",
+    "link": "https://www.marketwatch.com/story/your-spirit-loyalty-points-are-probably-worthless-now-but-these-other-airlines-may-match-your-rewards-f70dcb91?mod=mw_rss_topstories",
+    "published": "Tue, 05 May 2026 02:46:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004970858",
+    "title": "\u2018If all six have hantavirus, that\u2019s very worrisome\u2019: This is the key question about the cruise-ship outbreak",
+    "link": "https://www.marketwatch.com/story/if-all-six-have-hantavirus-thats-very-worrisome-this-is-what-we-know-about-the-cruise-ship-outbreak-eb1df8d5?mod=mw_rss_topstories",
+    "published": "Tue, 05 May 2026 01:00:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004970552",
+    "title": "Palantir posts its fastest revenue growth ever while calling out \u2018AI slop\u2019",
+    "link": "https://www.marketwatch.com/story/palantir-posts-its-fastest-revenue-growth-ever-while-calling-out-ai-slop-03108298?mod=mw_rss_topstories",
+    "published": "Tue, 05 May 2026 00:20:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004969759",
+    "title": "\u2018I always did the graveyard shift\u2019: I worked for 54 years. Why on earth would I wait to claim Social Security at 70?",
+    "link": "https://www.marketwatch.com/story/i-always-did-the-graveyard-shift-i-worked-for-54-years-why-on-earth-would-i-wait-to-claim-social-security-at-70-d72ee944?mod=mw_rss_topstories",
+    "published": "Mon, 04 May 2026 23:30:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004970117",
+    "title": "Amazon is taking on FedEx and UPS. That may not be so simple.",
+    "link": "https://www.marketwatch.com/story/amazon-is-taking-on-fedex-and-ups-that-may-not-be-so-simple-101f1bcf?mod=mw_rss_topstories",
+    "published": "Mon, 04 May 2026 23:05:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004970180",
+    "title": "Tesla just hit a \u2018symbolic\u2019 self-driving milestone. Real-world success will be tougher.",
+    "link": "https://www.marketwatch.com/story/tesla-just-hit-a-symbolic-self-driving-milestone-real-world-success-will-be-tougher-5fb93525?mod=mw_rss_topstories",
+    "published": "Mon, 04 May 2026 23:02:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004970315",
+    "title": "Here\u2019s just how quickly Micron has risen up the ranks of the top U.S companies",
+    "link": "https://www.marketwatch.com/story/heres-just-how-quickly-micron-has-risen-up-the-ranks-of-the-top-u-s-companies-fd95ae8d?mod=mw_rss_topstories",
+    "published": "Mon, 04 May 2026 23:00:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004969820",
+    "title": "\u2018He is constantly criticizing her\u2019: My son-in-law told my daughter to give up her job. Do I intervene?",
+    "link": "https://www.marketwatch.com/story/he-is-constantly-criticizing-her-my-son-in-law-told-my-daughter-to-give-up-her-job-do-i-intervene-eaef801a?mod=mw_rss_topstories",
+    "published": "Mon, 04 May 2026 22:55:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004969678",
+    "title": "The silent crisis taxing your grocery bill could get a lot louder",
+    "link": "https://www.marketwatch.com/story/the-silent-crisis-taxing-your-grocery-bill-could-get-a-lot-louder-93ddd167?mod=mw_rss_topstories",
+    "published": "Mon, 04 May 2026 22:07:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0004957994",
+    "title": "\u2018I am her scapegoat\u2019: My mother-in-law squandered all her money. Do we buy her a house so she\u2019s not homeless?",
+    "link": "https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories",
+    "published": "Mon, 04 May 2026 22:01:00 GMT"
+  },
+  {
+    "id": "108301635",
+    "title": "Iran attacks UAE; U.S. says it sank boats in Strait of Hormuz",
+    "link": "https://www.cnbc.com/2026/05/04/iran-war-uae-trump-ceasefire-missiles.html",
+    "published": "Mon, 04 May 2026 21:42:35 GMT"
+  },
+  {
+    "id": "108301989",
+    "title": "Oil slides as traders assess Middle East developments with Iran attacks keeping markets jittery",
+    "link": "https://www.cnbc.com/2026/05/05/oil-prices-today-wti-brent-iran-war-trump-hormuz.html",
+    "published": "Tue, 05 May 2026 00:37:11 GMT"
+  },
+  {
+    "id": "108301327",
+    "title": "BYD's passenger EV sales drop for an eighth month as competition heats up",
+    "link": "https://www.cnbc.com/2026/05/05/byd-april-sales-exports-china-ev-rivals-leapmotor-zeekr.html",
+    "published": "Tue, 05 May 2026 02:27:32 GMT"
+  },
+  {
+    "id": "108301897",
+    "title": "Andy Jassy says Amazon investors will be rewarded by all its AI spending",
+    "link": "https://www.cnbc.com/2026/05/04/andy-jassy-amazon-investors-rewarded-ai-spending.html",
+    "published": "Tue, 05 May 2026 00:38:58 GMT"
+  },
+  {
+    "id": "108301941",
+    "title": "OpenAI sales leader leaves for role at Thrive Capital",
+    "link": "https://www.cnbc.com/2026/05/04/open-ai-executive-leaves-thrive-capital.html",
+    "published": "Mon, 04 May 2026 22:54:54 GMT"
+  },
+  {
+    "id": "108298049",
+    "title": "CNBC's The China Connection newsletter: China is rewiring the Silicon Valley model \u2014 starting in Hong Kong",
+    "link": "https://www.cnbc.com/2026/05/04/china-tech-financial-ecosystem-matures-as-hong-kong-ipos-boom.html",
+    "published": "Mon, 04 May 2026 23:00:01 GMT"
+  },
+  {
+    "id": "108301909",
+    "title": "'The Devil Wears Prada 2' kicks off summer movie season in style with $77 million opening",
+    "link": "https://www.cnbc.com/2026/05/04/the-devil-wears-prada-2-kicks-off-summer-box-office.html",
+    "published": "Mon, 04 May 2026 23:14:02 GMT"
+  },
+  {
+    "id": "108300288",
+    "title": "Trump said $465,000 in retirement savings is 'rich.' Is it?",
+    "link": "https://www.cnbc.com/2026/05/04/trump-retirement-savings-rich.html",
+    "published": "Mon, 04 May 2026 14:34:11 GMT"
+  },
+  {
+    "id": "108301717",
+    "title": "Palantir tops estimates on 85% revenue growth, fastest expansion since market debut in 2020",
+    "link": "https://www.cnbc.com/2026/05/04/palantir-pltr-q1-earnings-report-2026.html",
+    "published": "Mon, 04 May 2026 22:51:10 GMT"
+  },
+  {
+    "id": "108298886",
+    "title": "World Cup prize pool nears $900 million as FIFA boosts payouts. Here\u2019s who gets what",
+    "link": "https://www.cnbc.com/2026/05/04/fifa-world-cup-team-payouts-ticket-prices.html",
+    "published": "Mon, 04 May 2026 23:14:37 GMT"
+  },
+  {
+    "id": "108301794",
+    "title": "Spirit Airlines CEO on carrier's collapse: 'We just kind of ran out of runway'",
+    "link": "https://www.cnbc.com/2026/05/04/spirit-airlines-shut-down-ceo-dave-davis.html",
+    "published": "Mon, 04 May 2026 21:28:34 GMT"
+  },
+  {
+    "id": "108301708",
+    "title": "Pinterest surges 15% after earnings beat as company posts strong guidance",
+    "link": "https://www.cnbc.com/2026/05/04/pinterest-pins-q1-earnings-report-2026.html",
+    "published": "Tue, 05 May 2026 02:33:42 GMT"
+  },
+  {
+    "id": "108301791",
+    "title": "SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022",
+    "link": "https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html",
+    "published": "Mon, 04 May 2026 20:52:38 GMT"
+  },
+  {
+    "id": "108301724",
+    "title": "Paramount earnings, revenue beat expectations as streaming business offers a boost",
+    "link": "https://www.cnbc.com/2026/05/04/paramount-skydance-psky-earnings-q1-2026.html",
+    "published": "Mon, 04 May 2026 20:48:58 GMT"
+  },
+  {
+    "id": "108301765",
+    "title": "Top Democrat aims for New York redistricting after Supreme Court\u2019s Voting Rights ruling",
+    "link": "https://www.cnbc.com/2026/05/04/scotus-jeffries-redistrict-new-york.html",
+    "published": "Tue, 05 May 2026 02:08:37 GMT"
+  },
+  {
+    "id": "108301778",
+    "title": "What's behind Eli Lilly's down-and-up day after last week's post-earnings surge",
+    "link": "https://www.cnbc.com/2026/05/04/whats-behind-eli-lillys-down-and-up-day-after-last-weeks-surge.html",
+    "published": "Mon, 04 May 2026 18:29:36 GMT"
+  },
+  {
+    "id": "108301465",
+    "title": "Musk texted OpenAI's Brockman about settlement two days before trial began",
+    "link": "https://www.cnbc.com/2026/05/04/musk-altman-open-ai-settlement-trial-brockman.html",
+    "published": "Mon, 04 May 2026 21:17:18 GMT"
+  },
+  {
+    "id": "108301795",
+    "title": "Traders are doubtful Cohen's GameStop can pull off monster eBay acquisition",
+    "link": "https://www.cnbc.com/2026/05/04/traders-are-doubtful-cohens-gamestop-can-pull-off-monster-ebay-acquisition.html",
+    "published": "Mon, 04 May 2026 19:30:48 GMT"
+  },
+  {
+    "id": "108301564",
+    "title": "How Spirit Airlines' demise will benefit rivals \u2014 and raise airfares even more",
+    "link": "https://www.cnbc.com/2026/05/04/spirit-airlines-flights-rivals.html",
+    "published": "Mon, 04 May 2026 16:31:11 GMT"
+  },
+  {
+    "id": "108301514",
+    "title": "Novo Nordisk\u2019s head start on GLP-1 pills forces investors to rethink Eli Lilly's dominance",
+    "link": "https://www.cnbc.com/2026/05/04/novo-nordisk-wegovy-pill-beating-eli-lilly-foundayo-early.html",
+    "published": "Mon, 04 May 2026 21:13:28 GMT"
+  },
+  {
+    "id": "108301726",
+    "title": "Pirro rips judge in Trump attack case for apologizing to Cole Allen over jail conditions",
+    "link": "https://www.cnbc.com/2026/05/04/trump-cole-allen-jail-jan-6-judge-whcd.html",
+    "published": "Mon, 04 May 2026 20:44:51 GMT"
+  },
+  {
+    "id": "108301646",
+    "title": "Anthropic teams with Goldman, Blackstone and others on $1.5 billion AI venture targeting PE-owned firms",
+    "link": "https://www.cnbc.com/2026/05/04/anthropic-goldman-blackstone-ai-venture.html",
+    "published": "Mon, 04 May 2026 18:55:20 GMT"
+  },
+  {
+    "id": "108300270",
+    "title": "How Chinese carmaker Geely put roots in the U.S.",
+    "link": "https://www.cnbc.com/2026/05/04/chinese-carmaker-geely.html",
+    "published": "Mon, 04 May 2026 19:22:49 GMT"
+  },
+  {
+    "id": "108301686",
+    "title": "UPS, FedEx stocks sink after Amazon expands logistics network to other businesses",
+    "link": "https://www.cnbc.com/2026/05/04/ups-fedex-amazon-logistics.html",
+    "published": "Mon, 04 May 2026 20:03:20 GMT"
+  },
+  {
+    "id": "108301309",
+    "title": "GameStop stock sinks after surprise eBay takeover bid, Cohen's combative CNBC interview",
+    "link": "https://www.cnbc.com/2026/05/04/gamestop-ebay-takeover-bid-ryan-cohen-gaming-retail-ecommerce.html",
+    "published": "Mon, 04 May 2026 20:15:50 GMT"
+  },
+  {
+    "id": "108301565",
+    "title": "Circle jumps nearly 20% on Clarity Act compromise that preserves stablecoin rewards",
+    "link": "https://www.cnbc.com/2026/05/04/circle-jumps-16percent-on-clarity-act-compromise-that-preserves-stablecoin-rewards.html",
+    "published": "Mon, 04 May 2026 20:13:45 GMT"
+  },
+  {
+    "id": "108301613",
+    "title": "Supreme Court temporarily lifts mail ban on abortion pill mifepristone",
+    "link": "https://www.cnbc.com/2026/05/04/supreme-court-abortion-pill-mifepristone.html",
+    "published": "Mon, 04 May 2026 15:37:07 GMT"
+  },
+  {
+    "id": "108301276",
+    "title": "Bret Taylor's Sierra raises nearly $1 billion months after last capital push",
+    "link": "https://www.cnbc.com/2026/05/04/bret-taylor-sierra-fundraise-openai.html",
+    "published": "Mon, 04 May 2026 23:02:27 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
+    "title": "Scientists just created exotic new forms of matter that shouldn\u2019t exist",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm",
+    "published": "Mon, 04 May 2026 22:48:12 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504075512.htm",
+    "title": "This simple amino acid supplement greatly reduces Alzheimer\u2019s damage",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504075512.htm",
+    "published": "Mon, 04 May 2026 11:15:58 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504074826.htm",
+    "title": "The da Vinci bloodline is unlocking the genius\u2019s genetic secrets",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504074826.htm",
+    "published": "Mon, 04 May 2026 08:46:48 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504023841.htm",
+    "title": "Scientists turn plastic waste into clean hydrogen fuel using sunlight",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504023841.htm",
+    "published": "Mon, 04 May 2026 09:48:17 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm",
+    "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm",
+    "published": "Mon, 04 May 2026 09:14:10 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+    "title": "Scientists reveal creatine\u2019s hidden power beyond muscle gains",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504023828.htm",
+    "published": "Mon, 04 May 2026 04:13:48 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504023827.htm",
+    "title": "This simple blood test might detect depression before symptoms appear",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504023827.htm",
+    "published": "Mon, 04 May 2026 03:17:17 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260502233856.htm",
+    "title": "Evolution isn\u2019t random. Scientists find the same genes used for 120 million years",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260502233856.htm",
+    "published": "Mon, 04 May 2026 01:09:17 EDT"
+  },
+  {
+    "id": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+    "title": "Bun is being ported from Zig to Rust",
+    "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+    "published": "Tue, 05 May 2026 01:08:17 +0000"
+  },
+  {
+    "id": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "published": "Mon, 04 May 2026 19:42:47 +0000"
+  },
+  {
+    "id": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+    "title": "Talking to strangers at the gym",
+    "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+    "published": "Mon, 04 May 2026 11:41:02 +0000"
+  },
+  {
+    "id": "https://addyosmani.com/blog/agent-skills/",
+    "title": "Agent Skills",
+    "link": "https://addyosmani.com/blog/agent-skills/",
+    "published": "Mon, 04 May 2026 21:40:42 +0000"
+  },
+  {
+    "id": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+    "title": "What I'm Hearing About Cognitive Debt (So Far)",
+    "link": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+    "published": "Tue, 05 May 2026 02:08:21 +0000"
+  },
+  {
+    "id": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+    "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+    "link": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+    "published": "Mon, 04 May 2026 17:46:32 +0000"
+  },
+  {
+    "id": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+    "title": "When Networking Doesn't Work",
+    "link": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+    "published": "Mon, 04 May 2026 20:56:19 +0000"
+  },
+  {
+    "id": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+    "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+    "link": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+    "published": "Sun, 03 May 2026 15:49:33 +0000"
+  },
+  {
+    "id": "https://www.nber.org/papers/w35117",
+    "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+    "link": "https://www.nber.org/papers/w35117",
+    "published": "Mon, 04 May 2026 15:32:46 +0000"
+  },
+  {
+    "id": "https://antirez.com/news/164",
+    "title": "Redis array: short story of a long development process",
+    "link": "https://antirez.com/news/164",
+    "published": "Mon, 04 May 2026 14:23:07 +0000"
+  },
+  {
+    "id": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+    "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+    "published": "Mon, 04 May 2026 18:22:42 +0000"
+  },
+  {
+    "id": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
+    "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+    "link": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
+    "published": "Mon, 04 May 2026 15:22:53 +0000"
+  },
+  {
+    "id": "https://wwj.dev/posts/i-am-worried-about-bun/",
+    "title": "I am worried about Bun",
+    "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
+    "published": "Mon, 04 May 2026 16:45:00 +0000"
+  },
+  {
+    "id": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+    "title": "How Monero\u2019s proof of work works",
+    "link": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+    "published": "Mon, 04 May 2026 14:10:50 +0000"
+  },
+  {
+    "id": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke",
+    "title": "Jonathan Swift's Last Joke",
+    "link": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke",
+    "published": "Sat, 02 May 2026 19:27:30 +0000"
+  },
+  {
+    "id": "https://knhash.in/built-an-exhibit/",
+    "title": "Show HN: I Built a Museum Exhibit",
+    "link": "https://knhash.in/built-an-exhibit/",
+    "published": "Sat, 02 May 2026 21:07:41 +0000"
+  },
+  {
+    "id": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+    "title": "Formatting a 25M-line codebase overnight",
+    "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+    "published": "Mon, 04 May 2026 20:11:53 +0000"
+  },
+  {
+    "id": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+    "title": "PyInfra 3.8.0",
+    "link": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+    "published": "Mon, 04 May 2026 12:53:46 +0000"
+  },
+  {
+    "id": "https://pomiferous.com/",
+    "title": "Pomiferous: The most extensive apples (pommes) database",
+    "link": "https://pomiferous.com/",
+    "published": "Mon, 04 May 2026 14:47:41 +0000"
+  },
+  {
+    "id": "https://www.fuelinsight.co.uk",
+    "title": "UK Fuel Price Intelligence \u2013 Market analytics from reporting stations",
+    "link": "https://www.fuelinsight.co.uk",
+    "published": "Mon, 04 May 2026 15:15:21 +0000"
+  },
+  {
+    "id": "https://arxiv.org/abs/2510.19315",
+    "title": "Transformers Are Inherently Succinct (2025)",
+    "link": "https://arxiv.org/abs/2510.19315",
+    "published": "Mon, 04 May 2026 20:03:08 +0000"
+  },
+  {
+    "id": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+    "title": "GameStop makes $55.5B takeover offer for eBay",
+    "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+    "published": "Mon, 04 May 2026 09:31:12 +0000"
+  },
+  {
+    "id": "https://ivanludvig.dev/pi-needle/",
+    "title": "Buffon's needle problem visualized",
+    "link": "https://ivanludvig.dev/pi-needle/",
+    "published": "Sat, 02 May 2026 23:34:42 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+    "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+    "published": "Mon, 04 May 2026 17:16:36 +0000"
+  },
+  {
+    "id": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+    "title": "Sierra Raises $950M at $15B Valuation",
+    "link": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+    "published": "Mon, 04 May 2026 15:51:37 +0000"
+  },
+  {
+    "id": "https://github.com/lsferreira42/nfsdiag",
+    "title": "Show HN: nfsdiag \u2013 A NFS diagnostic application",
+    "link": "https://github.com/lsferreira42/nfsdiag",
+    "published": "Sat, 02 May 2026 12:48:01 +0000"
+  },
+  {
+    "id": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+    "title": "Y Combinator's Stake in OpenAI (0.6%)",
+    "link": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+    "published": "Tue, 05 May 2026 00:09:01 +0000"
+  },
+  {
+    "id": "https://marc.info/?l=util-linux-ng&m=126351534518733&w=2",
+    "title": "Re: Slow USB storage device? (util-Linux-ng, 2010)",
+    "link": "https://marc.info/?l=util-linux-ng&m=126351534518733&w=2",
+    "published": "Sat, 02 May 2026 20:13:30 +0000"
+  },
+  {
+    "id": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+    "title": "Stop big tech from making users behave in ways they don't want to",
+    "link": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
+    "published": "Mon, 04 May 2026 17:10:57 +0000"
+  },
+  {
+    "id": "https://eblong.com/infocom/visi/zork3/",
+    "title": "The Visible Zorker: Zork 3",
+    "link": "https://eblong.com/infocom/visi/zork3/",
+    "published": "Mon, 04 May 2026 16:59:28 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/ieee-smart-village-rei-cameroon",
+    "title": "IEEE Smart Village Is Helping to Electrify Rural Cameroon",
+    "link": "https://spectrum.ieee.org/ieee-smart-village-rei-cameroon",
+    "published": "Mon, 04 May 2026 18:00:01 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3119092",
+    "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+    "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+    "published": "Tue, 05 May 2026 00:13:30 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3119046",
+    "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+    "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+    "published": "Mon, 04 May 2026 22:21:32 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118909",
+    "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
+    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "published": "Mon, 04 May 2026 21:53:21 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118889",
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "published": "Mon, 04 May 2026 19:12:49 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118922",
+    "title": "Katie Haun raises $1B for new venture funds",
+    "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+    "published": "Mon, 04 May 2026 19:12:15 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118874",
+    "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+    "link": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+    "published": "Mon, 04 May 2026 18:02:18 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118775",
+    "title": "Elon Musk\u2019s only AI expert witness at the OpenAI trial fears an AGI arms race",
+    "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "published": "Mon, 04 May 2026 16:57:47 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118797",
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "published": "Mon, 04 May 2026 16:45:55 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118770",
+    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+    "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "published": "Mon, 04 May 2026 16:36:03 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118761",
+    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "published": "Mon, 04 May 2026 15:59:24 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118732",
+    "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
+    "link": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
+    "published": "Mon, 04 May 2026 15:33:01 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118733",
+    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+    "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+    "published": "Mon, 04 May 2026 14:30:23 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118731",
+    "title": "Amazon opens up its global logistics network to all businesses",
+    "link": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/",
+    "published": "Mon, 04 May 2026 14:13:53 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118686",
+    "title": "5 days only: Bring a\u00a0partner or\u00a0colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "link": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "published": "Mon, 04 May 2026 14:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118648",
+    "title": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals",
+    "link": "https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/",
+    "published": "Mon, 04 May 2026 13:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118710",
+    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+    "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+    "published": "Mon, 04 May 2026 13:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118469",
+    "title": "Ouster\u2019s new color lidar is coming to replace cameras",
+    "link": "https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/",
+    "published": "Mon, 04 May 2026 10:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3118651",
+    "title": "Nicolas Sauvage is betting on the boring parts of AI",
+    "link": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
+    "published": "Mon, 04 May 2026 07:10:18 +0000"
+  },
+  {
+    "id": "69f93ada05743e21c61f8095",
+    "title": "Chart of the Day: The U.S. Leads the World in Stock Ownership",
+    "link": "https://paulkedrosky.com/chart-of-the-day-the-u-s-leads-the-world-in-stock-ownership/",
+    "published": "Tue, 05 May 2026 00:48:00 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92953",
+    "title": "What should I ask Martha Nussbaum?",
+    "link": "https://feeds.feedblitz.com/~/955253192/0/marginalrevolution~What-should-I-ask-Martha-Nussbaum.html",
+    "published": "Mon, 04 May 2026 22:10:59 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92946",
+    "title": "Trade and the End of Antiquity",
+    "link": "https://feeds.feedblitz.com/~/955237652/0/marginalrevolution~Trade-and-the-End-of-Antiquity.html",
+    "published": "Mon, 04 May 2026 18:04:23 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92939",
+    "title": "Monday assorted links",
+    "link": "https://feeds.feedblitz.com/~/955227626/0/marginalrevolution~Monday-assorted-links.html",
+    "published": "Mon, 04 May 2026 15:29:37 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92938",
+    "title": "The Southern Poverty Law Center Indictment",
+    "link": "https://feeds.feedblitz.com/~/955210856/0/marginalrevolution~The-Southern-Poverty-Law-Center-Indictment.html",
+    "published": "Mon, 04 May 2026 11:17:55 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=92945",
+    "title": "What makes art great?",
+    "link": "https://feeds.feedblitz.com/~/955190186/0/marginalrevolution~What-makes-art-great.html",
+    "published": "Mon, 04 May 2026 04:58:16 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=161634",
+    "title": "The Hidden Mathematical Dance Inside Plant Cells",
+    "link": "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant-cells-20260504/",
+    "published": "Mon, 04 May 2026 14:39:38 +0000"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
+    "title": "Scientists say travel could slow aging and boost your health",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504211836.htm",
+    "published": "Mon, 04 May 2026 22:42:07 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504023852.htm",
+    "title": "Greenland ice melt has surged sixfold and scientists are alarmed",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504023852.htm",
+    "published": "Mon, 04 May 2026 10:23:46 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504023837.htm",
+    "title": "NASA just took a huge step toward the Moon after Artemis II success",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504023837.htm",
+    "published": "Mon, 04 May 2026 07:45:06 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260504023835.htm",
+    "title": "NASA shuts down 49-year-old Voyager 1 instrument to keep it alive",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260504023835.htm",
+    "published": "Mon, 04 May 2026 07:27:10 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260502233924.htm",
+    "title": "Weight loss drug Ozempic linked to lower depression and anxiety risk",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260502233924.htm",
+    "published": "Mon, 04 May 2026 02:14:05 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/05/260502233915.htm",
+    "title": "Alzheimer\u2019s drugs may not work and could raise brain risks",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260502233915.htm",
+    "published": "Mon, 04 May 2026 01:42:05 EDT"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3170510",
+    "title": "A small object past Pluto may have a thin atmosphere",
+    "link": "https://www.sciencenews.org/article/atmosphere-small-object-past-pluto",
+    "published": "Mon, 04 May 2026 15:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3170395",
+    "title": "Newly mapped brain networks link far-flung regions",
+    "link": "https://www.sciencenews.org/article/astrocytes-brain-networks-communicate",
+    "published": "Mon, 04 May 2026 13:00:00 +0000"
+  }
+]
