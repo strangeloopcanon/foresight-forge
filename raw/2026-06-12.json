@@ -1,0 +1,830 @@
+[
+  {
+    "id": "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html",
+    "title": "SpaceX Finalizes IPO Price at $135 a Share in World\u2019s Largest Public Offering",
+    "link": "https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html",
+    "published": "Thu, 11 Jun 2026 21:38:41 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html",
+    "title": "Skeptics Question Whether SpaceX Is Worth $1.77 Trillion",
+    "link": "https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html",
+    "published": "Thu, 11 Jun 2026 20:30:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/business/spacex-openai-ipo-china.html",
+    "title": "Absent From the SpaceX and OpenAI I.P.O.s? Chinese Investors.",
+    "link": "https://www.nytimes.com/2026/06/11/business/spacex-openai-ipo-china.html",
+    "published": "Thu, 11 Jun 2026 19:25:06 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/briefing/world-cup-trump-spy-chief.html",
+    "title": "The World Cup Is Officially Underway",
+    "link": "https://www.nytimes.com/2026/06/11/briefing/world-cup-trump-spy-chief.html",
+    "published": "Thu, 11 Jun 2026 21:51:03 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/us/politics/trump-jay-clayton-intelligence-chief.html",
+    "title": "Trump Picks Jay Clayton for Director of National Intelligence After Backlash Over Bill Pulte",
+    "link": "https://www.nytimes.com/2026/06/11/us/politics/trump-jay-clayton-intelligence-chief.html",
+    "published": "Thu, 11 Jun 2026 22:52:33 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/us/politics/what-to-know-jay-clayton.html",
+    "title": "What to Know About Jay Clayton, Trump\u2019s Pick for Intelligence Director",
+    "link": "https://www.nytimes.com/2026/06/11/us/politics/what-to-know-jay-clayton.html",
+    "published": "Fri, 12 Jun 2026 00:52:32 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html",
+    "title": "Kennedy Center Appeals Order to Remove Trump\u2019s Name",
+    "link": "https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html",
+    "published": "Fri, 12 Jun 2026 01:40:16 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/us/trump-los-angeles-homeless.html",
+    "title": "Trump Suspends Funding for Los Angeles Homeless Agency",
+    "link": "https://www.nytimes.com/2026/06/11/us/trump-los-angeles-homeless.html",
+    "published": "Fri, 12 Jun 2026 02:05:03 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/us/politics/trump-california-vote-elections-investigations.html",
+    "title": "Justice Dept. Pushes Limits of Its Power Over State Elections",
+    "link": "https://www.nytimes.com/2026/06/11/us/politics/trump-california-vote-elections-investigations.html",
+    "published": "Thu, 11 Jun 2026 19:44:50 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/us/politics/usps-mail-voting-democratic-resistance.html",
+    "title": "Postal Service Issues Proposal to Block Mail Ballots in States That Don\u2019t Turn Over Data",
+    "link": "https://www.nytimes.com/2026/06/11/us/politics/usps-mail-voting-democratic-resistance.html",
+    "published": "Thu, 11 Jun 2026 20:39:21 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-war-fear-hope.html",
+    "title": "Whipsawed Between Fear and Relief, Iranians Hope for War\u2019s End",
+    "link": "https://www.nytimes.com/2026/06/11/world/middleeast/iran-war-fear-hope.html",
+    "published": "Thu, 11 Jun 2026 22:10:37 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html",
+    "title": "After Senate Loss, Cornyn Predicts \u2018Miserable\u2019 Final Two Years for Trump",
+    "link": "https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html",
+    "published": "Thu, 11 Jun 2026 16:47:55 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/us/politics/conor-mcgregor-ufc-drugs.html",
+    "title": "Conor McGregor\u2019s Comeback: A Tale of Banned Drugs and a Famous Doctor",
+    "link": "https://www.nytimes.com/2026/06/11/us/politics/conor-mcgregor-ufc-drugs.html",
+    "published": "Thu, 11 Jun 2026 19:22:14 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/sports/baseball/baseball-doctor-steroids-mcgregor.html",
+    "title": "Major League Baseball Will Question the Dodgers\u2019s Doctor About Banned Drugs",
+    "link": "https://www.nytimes.com/2026/06/11/sports/baseball/baseball-doctor-steroids-mcgregor.html",
+    "published": "Thu, 11 Jun 2026 23:30:04 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/us/politics/trump-ufc-claw-white-house.html",
+    "title": "Trump Unveils UFC \u2018Claw\u2019 Ahead of Cage Match at the White House",
+    "link": "https://www.nytimes.com/2026/06/11/us/politics/trump-ufc-claw-white-house.html",
+    "published": "Thu, 11 Jun 2026 18:28:13 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/science/researcher-huntingtons-disease-wexler.html",
+    "title": "The Researcher Who Didn\u2019t Want to Know",
+    "link": "https://www.nytimes.com/2026/06/11/science/researcher-huntingtons-disease-wexler.html",
+    "published": "Thu, 11 Jun 2026 16:56:14 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/nyregion/mamdani-dolan-knicks-feud.html",
+    "title": "Mamdani Finds a Foil Familiar to New Yorkers: James Dolan",
+    "link": "https://www.nytimes.com/2026/06/11/nyregion/mamdani-dolan-knicks-feud.html",
+    "published": "Thu, 11 Jun 2026 22:38:45 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/nyregion/knicks-win-celebrations.html",
+    "title": "This Is What Joy Looks Like for Knicks Fans",
+    "link": "https://www.nytimes.com/2026/06/11/nyregion/knicks-win-celebrations.html",
+    "published": "Thu, 11 Jun 2026 17:55:07 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/insider/knicks-bad-season.html",
+    "title": "For a Knicks Reporter, Good Basketball Wasn\u2019t Always So Easy to Find",
+    "link": "https://www.nytimes.com/2026/06/11/insider/knicks-bad-season.html",
+    "published": "Fri, 12 Jun 2026 00:00:08 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/us/supreme-court-blocks-alabama-nitrogen-execution.html",
+    "title": "Supreme Court Blocks Alabama From Executing Inmate Using Nitrogen Gas",
+    "link": "https://www.nytimes.com/2026/06/11/us/supreme-court-blocks-alabama-nitrogen-execution.html",
+    "published": "Fri, 12 Jun 2026 03:37:24 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/climate/el-nino-noaa.html",
+    "title": "NOAA Issues El Nino Advisory",
+    "link": "https://www.nytimes.com/2026/06/11/climate/el-nino-noaa.html",
+    "published": "Thu, 11 Jun 2026 17:25:34 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/weather/chicago-illinois-tornado-storms.html",
+    "title": "Tornadoes Are Reported in Illinois as Storms Sweep the Midwest",
+    "link": "https://www.nytimes.com/2026/06/11/weather/chicago-illinois-tornado-storms.html",
+    "published": "Fri, 12 Jun 2026 03:03:27 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/science/ecology-mycorrhizal-fungus.html",
+    "title": "Scientists Measure Earth\u2019s Vast Underground Fungal Webs",
+    "link": "https://www.nytimes.com/2026/06/11/science/ecology-mycorrhizal-fungus.html",
+    "published": "Thu, 11 Jun 2026 18:00:09 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/opinion/tom-steyer-california-governor.html",
+    "title": "Tom Steyer Spent $558 Million. What a Waste.",
+    "link": "https://www.nytimes.com/2026/06/11/opinion/tom-steyer-california-governor.html",
+    "published": "Thu, 11 Jun 2026 20:44:10 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/opinion/inequality-musk-thiel-carvalho-billionaires.html",
+    "title": "\u2018All Men Are Created Equal\u2019? Not Everyone Agrees.",
+    "link": "https://www.nytimes.com/2026/06/11/opinion/inequality-musk-thiel-carvalho-billionaires.html",
+    "published": "Thu, 11 Jun 2026 19:41:34 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/06/11/world/asia/thai-princess-bajrakitiyabha-bha-dead-coma.html",
+    "title": "Princess Bha of Thailand, Second in Line to the Throne, Dies at 47",
+    "link": "https://www.nytimes.com/2026/06/11/world/asia/thai-princess-bajrakitiyabha-bha-dead-coma.html",
+    "published": "Fri, 12 Jun 2026 02:36:52 +0000"
+  },
+  {
+    "id": "WP-MKTW-0005058076",
+    "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings",
+    "link": "https://www.marketwatch.com/story/rocket-lab-and-these-four-stocks-are-joining-the-nasdaq-100-with-spacex-waiting-in-the-wings-0e8cc71b?mod=mw_rss_topstories",
+    "published": "Fri, 12 Jun 2026 01:56:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005055607",
+    "title": "I\u2019m 55 and earn $100,000. Should I take a $2,900 monthly pension \u2014 or $2,200 with 3% annual hikes?",
+    "link": "https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories",
+    "published": "Fri, 12 Jun 2026 00:00:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005050521",
+    "title": "I\u2019m 60, retired with $3 million. My fianc\u00e9e, 55, only has $1 million and plans to keep working. Are we compatible?",
+    "link": "https://www.marketwatch.com/story/im-60-retired-with-3-million-my-fiancee-55-has-1-million-but-plans-to-work-for-the-next-10-years-are-we-compatible-2ee04cf9?mod=mw_rss_topstories",
+    "published": "Thu, 11 Jun 2026 23:46:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005056290",
+    "title": "Social Security insolvency is \u2018entirely solvable,\u2019 says commissioner under Biden",
+    "link": "https://www.marketwatch.com/story/social-security-insolvency-is-entirely-solvable-says-commissioner-under-biden-9a37ecfd?mod=mw_rss_topstories",
+    "published": "Thu, 11 Jun 2026 23:46:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005057223",
+    "title": "Adobe is losing another top executive, and investors don\u2019t like it",
+    "link": "https://www.marketwatch.com/story/adobe-is-losing-another-top-executive-and-investors-dont-like-it-587603e9?mod=mw_rss_topstories",
+    "published": "Thu, 11 Jun 2026 22:00:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005057328",
+    "title": "The SpaceX IPO is drawing historic demand from foreign investors. But don\u2019t expect a dollar-buying frenzy.",
+    "link": "https://www.marketwatch.com/story/the-spacex-ipo-is-drawing-historic-demand-from-foreign-investors-but-dont-expect-a-dollar-buying-frenzy-ce66b056?mod=mw_rss_topstories",
+    "published": "Thu, 11 Jun 2026 21:59:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005057395",
+    "title": "We asked AI to predict the 2026 World Cup winner. It picked a team that\u2019s never won.",
+    "link": "https://www.marketwatch.com/story/we-asked-ai-to-predict-the-2026-world-cup-winner-it-picked-something-that-has-never-happened-53231520?mod=mw_rss_topstories",
+    "published": "Thu, 11 Jun 2026 21:37:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005057160",
+    "title": "Foster children are getting their own version of \u2018Trump accounts,\u2019 but major questions remain",
+    "link": "https://www.marketwatch.com/story/foster-children-are-getting-their-own-version-of-trump-accounts-but-major-questions-remain-a755290e?mod=mw_rss_topstories",
+    "published": "Thu, 11 Jun 2026 21:08:00 GMT"
+  },
+  {
+    "id": "108319660",
+    "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
+    "published": "Thu, 11 Jun 2026 22:53:14 GMT"
+  },
+  {
+    "id": "108320764",
+    "title": "Oil prices fall on hopes of U.S.-Iran deal despite Tehran pushback",
+    "link": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
+    "published": "Fri, 12 Jun 2026 00:53:28 GMT"
+  },
+  {
+    "id": "108319699",
+    "title": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
+    "link": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html",
+    "published": "Fri, 12 Jun 2026 01:21:00 GMT"
+  },
+  {
+    "id": "108320546",
+    "title": "SpaceX cuts retail IPO allocation to low 20% range, source says",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-cuts-retail-ipo-allocation-to-low-20percent-range-source-says.html",
+    "published": "Thu, 11 Jun 2026 22:21:47 GMT"
+  },
+  {
+    "id": "108320737",
+    "title": "SpaceX raising $75 billion in record-setting IPO as Nasdaq debut awaits",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-raises-75-billion-in-record-setting-ipo-ahead-of-nasdaq-debut.html",
+    "published": "Thu, 11 Jun 2026 23:35:43 GMT"
+  },
+  {
+    "id": "108320473",
+    "title": "Trump claims Iran war settled 'subject to finalization,' expects signing in 'next few days'",
+    "link": "https://www.cnbc.com/2026/06/11/trump-iran-strikes-deal.html",
+    "published": "Thu, 11 Jun 2026 20:49:53 GMT"
+  },
+  {
+    "id": "108320491",
+    "title": "Trump picks former SEC Chairman Jay Clayton as national intelligence director",
+    "link": "https://www.cnbc.com/2026/06/11/trump-jay-clayton-national-intelligence-pulte.html",
+    "published": "Thu, 11 Jun 2026 22:22:15 GMT"
+  },
+  {
+    "id": "108317916",
+    "title": "BTS-mania poised to boost South Korea's economy well into the future",
+    "link": "https://www.cnbc.com/2026/06/12/bts-busan-concert-taylor-swift-swiftnomics-south-korea-gdp.html",
+    "published": "Fri, 12 Jun 2026 02:39:11 GMT"
+  },
+  {
+    "id": "108319643",
+    "title": "SpaceX IPO won\u2019t \u2018break\u2019 the bull market. But investors are worried about what comes next",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-ipo-wont-break-the-bull-market-but-investors-are-worried-about-what-comes-next.html",
+    "published": "Thu, 11 Jun 2026 18:26:15 GMT"
+  },
+  {
+    "id": "108319488",
+    "title": "SpaceX soon-to-be millionaires are set to spend big on luxury homes, watches and private jet travel",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-millionaires-wealth-spending.html",
+    "published": "Thu, 11 Jun 2026 14:17:18 GMT"
+  },
+  {
+    "id": "108320601",
+    "title": "Warren questions SpaceX IPO oversight in new letter to stock indexes",
+    "link": "https://www.cnbc.com/2026/06/11/warren-spacex-ipo-exchanges.html",
+    "published": "Thu, 11 Jun 2026 22:26:44 GMT"
+  },
+  {
+    "id": "108320692",
+    "title": "What energy insiders in DC are saying about oil prices and a possible Iran deal",
+    "link": "https://www.cnbc.com/2026/06/11/what-energy-insiders-in-dc-are-saying-about-oil-prices-and-a-possible-iran-deal.html",
+    "published": "Thu, 11 Jun 2026 21:29:14 GMT"
+  },
+  {
+    "id": "108320266",
+    "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
+    "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
+    "published": "Thu, 11 Jun 2026 19:06:17 GMT"
+  },
+  {
+    "id": "108319046",
+    "title": "Oil tanker CEO sees Hormuz ship traffic quickly increasing if U.S. and Iran reach a deal",
+    "link": "https://www.cnbc.com/2026/06/11/iran-strait-hormuz-oil-tanker-traffic-frontline.html",
+    "published": "Thu, 11 Jun 2026 19:00:47 GMT"
+  },
+  {
+    "id": "108320720",
+    "title": "Pirro's losses in Fed investigation should stay on the books, judge rules",
+    "link": "https://www.cnbc.com/2026/06/11/pirro-fed-jerome-powell.html",
+    "published": "Fri, 12 Jun 2026 00:19:38 GMT"
+  },
+  {
+    "id": "108319974",
+    "title": "Ahead of SpaceX IPO, Elon Musk addresses ASML employees as part of push into chip manufacturing",
+    "link": "https://www.cnbc.com/2026/06/11/elon-musk-addresses-asml-employees-pushes-into-chip-manufacturing.html",
+    "published": "Thu, 11 Jun 2026 17:24:40 GMT"
+  },
+  {
+    "id": "108320504",
+    "title": "Ex-Andreessen Horowitz partner slams his old firm, other VCs for 'political infiltration' around AI",
+    "link": "https://www.cnbc.com/2026/06/11/ex-a16z-partner-slams-old-firm-othes-political-infiltration-in-ai.html",
+    "published": "Thu, 11 Jun 2026 20:43:22 GMT"
+  },
+  {
+    "id": "108320477",
+    "title": "Eaton moves one step closer to becoming a cleaner bet on the AI boom",
+    "link": "https://www.cnbc.com/2026/06/11/eaton-moves-one-step-closer-to-becoming-a-cleaner-bet-on-the-ai-boom.html",
+    "published": "Thu, 11 Jun 2026 20:05:57 GMT"
+  },
+  {
+    "id": "108320191",
+    "title": "Iran threatens Elon Musk's companies in Middle East: Iranian state media",
+    "link": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
+    "published": "Thu, 11 Jun 2026 15:18:33 GMT"
+  },
+  {
+    "id": "108320382",
+    "title": "Nearly 7 million student loan borrowers remain in defunct Biden-era payment plan: Trump official",
+    "link": "https://www.cnbc.com/2026/06/11/student-loan-borrowers-save-plan.html",
+    "published": "Thu, 11 Jun 2026 20:18:31 GMT"
+  },
+  {
+    "id": "108320537",
+    "title": "Healthy Returns: CVS Health executives on reducing healthcare's biggest pain points",
+    "link": "https://www.cnbc.com/2026/06/11/cvs-health-executives-on-reducing-health-cares-biggest-pain-points.html",
+    "published": "Thu, 11 Jun 2026 20:32:12 GMT"
+  },
+  {
+    "id": "108320448",
+    "title": "SpaceX to close above $2 trillion market cap on its debut, prediction market traders say",
+    "link": "https://www.cnbc.com/2026/06/11/spacex-to-close-above-2-trillion-market-cap-on-its-debut-traders-say.html",
+    "published": "Thu, 11 Jun 2026 21:44:43 GMT"
+  },
+  {
+    "id": "108320375",
+    "title": "OpenAI to acquire Ona to support its AI coding assistant, Codex",
+    "link": "https://www.cnbc.com/2026/06/11/open-ai-ona-acquisition-codex.html",
+    "published": "Thu, 11 Jun 2026 16:26:10 GMT"
+  },
+  {
+    "id": "108319371",
+    "title": "Coinbase launches tool to let AI agents manage trading and payments",
+    "link": "https://www.cnbc.com/2026/06/11/coinbase-launches-tool-to-let-ai-agents-manage-trading-and-payments.html",
+    "published": "Thu, 11 Jun 2026 17:00:38 GMT"
+  },
+  {
+    "id": "108320405",
+    "title": "Waymo launches premier subscription tier for $29.99 a month, starting in select cities",
+    "link": "https://www.cnbc.com/2026/06/11/waymo-launches-premier-subscription-tier-for-29point99-a-month.html",
+    "published": "Thu, 11 Jun 2026 16:57:05 GMT"
+  },
+  {
+    "id": "108320381",
+    "title": "Trump administration appeals ruling blocking $100,000 H-1B fee",
+    "link": "https://www.cnbc.com/2026/06/11/trump-h1b-visa-fee-appeal.html",
+    "published": "Thu, 11 Jun 2026 18:53:30 GMT"
+  },
+  {
+    "id": "108320328",
+    "title": "Oracle shares tumble 11% on increased capital raise, cash concerns",
+    "link": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-11percent-on-increased-capital-raise-cash-concerns.html",
+    "published": "Thu, 11 Jun 2026 20:25:16 GMT"
+  },
+  {
+    "id": "108320241",
+    "title": "Foreign surveillance program to expire Friday after House blocks extension",
+    "link": "https://www.cnbc.com/2026/06/11/trump-pulte-fisa-congress-foreign-surveillance-program-expiration.html",
+    "published": "Thu, 11 Jun 2026 19:22:08 GMT"
+  },
+  {
+    "id": "108319748",
+    "title": "Elections advertising spend for 2026 expected to reach record high, outpacing presidential years",
+    "link": "https://www.cnbc.com/2026/06/11/2026-elections-ad-spend-adimpact.html",
+    "published": "Thu, 11 Jun 2026 16:00:01 GMT"
+  },
+  {
+    "id": "108320349",
+    "title": "Some Pentagon workers ordered to shelter in place as air quality issue is investigated",
+    "link": "https://www.cnbc.com/2026/06/11/pentagon-lockdown-air-quality-issue.html",
+    "published": "Thu, 11 Jun 2026 15:55:00 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
+    "title": "Scientists discover a strange property in rice and turn it into a smart material",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
+    "published": "Thu, 11 Jun 2026 08:29:52 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm",
+    "title": "NASA reveals Artemis III crew for one of the most complex space missions ever",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260611024606.htm",
+    "published": "Thu, 11 Jun 2026 08:02:51 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
+    "title": "Scientists built a battery-free device that turns sunlight into fuel",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
+    "published": "Thu, 11 Jun 2026 09:44:58 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
+    "title": "James Webb reveals two completely different twilights on an alien world",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
+    "published": "Thu, 11 Jun 2026 07:47:04 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
+    "title": "AI could uncover new physics faster but there\u2019s a surprising catch",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
+    "published": "Thu, 11 Jun 2026 05:16:15 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260610003056.htm",
+    "title": "The 1,100-year-old mystery of Montana\u2019s lost bison hunting site finally solved",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260610003056.htm",
+    "published": "Thu, 11 Jun 2026 09:08:56 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm",
+    "title": "Scientists propose a radical new theory for how life began on Earth",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260610003054.htm",
+    "published": "Wed, 10 Jun 2026 11:01:00 EDT"
+  },
+  {
+    "id": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+    "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+    "link": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+    "published": "Fri, 12 Jun 2026 00:38:11 +0000"
+  },
+  {
+    "id": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "title": "Claude Fable is relentlessly proactive",
+    "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "published": "Fri, 12 Jun 2026 01:06:51 +0000"
+  },
+  {
+    "id": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "title": "Show HN: Homebrew 6.0.0",
+    "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "published": "Thu, 11 Jun 2026 13:24:29 +0000"
+  },
+  {
+    "id": "https://fablepool.com",
+    "title": "Show HN: FablePool \u2013 pool money behind a prompt, and Fable builds it in public",
+    "link": "https://fablepool.com",
+    "published": "Thu, 11 Jun 2026 21:17:30 +0000"
+  },
+  {
+    "id": "https://tombedor.dev/human-attention-and-human-effort/",
+    "title": "If you are asking for human attention, demonstrate human effort",
+    "link": "https://tombedor.dev/human-attention-and-human-effort/",
+    "published": "Thu, 11 Jun 2026 23:01:55 +0000"
+  },
+  {
+    "id": "https://mimo.xiaomi.com/mimocode",
+    "title": "MiMo Code is now released and open-source",
+    "link": "https://mimo.xiaomi.com/mimocode",
+    "published": "Thu, 11 Jun 2026 14:27:19 +0000"
+  },
+  {
+    "id": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "published": "Thu, 11 Jun 2026 12:05:02 +0000"
+  },
+  {
+    "id": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+    "title": "Petition to Withdraw Canada's Bill C-22",
+    "link": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+    "published": "Thu, 11 Jun 2026 15:37:23 +0000"
+  },
+  {
+    "id": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "title": "A jacket that harvests drinking water from the air",
+    "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "published": "Thu, 11 Jun 2026 22:59:22 +0000"
+  },
+  {
+    "id": "https://tonedear.com/",
+    "title": "Ear Training Practice",
+    "link": "https://tonedear.com/",
+    "published": "Mon, 08 Jun 2026 16:38:07 +0000"
+  },
+  {
+    "id": "https://zed.dev/blog/introducing-deltadb",
+    "title": "Software is made between commits",
+    "link": "https://zed.dev/blog/introducing-deltadb",
+    "published": "Thu, 11 Jun 2026 16:28:24 +0000"
+  },
+  {
+    "id": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+    "title": "macOS 27 Beta breaks the ability to boot Asahi Linux",
+    "link": "https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi",
+    "published": "Tue, 09 Jun 2026 15:01:43 +0000"
+  },
+  {
+    "id": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
+    "title": "A greyscale iPhone setup that works in everyday life",
+    "link": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
+    "published": "Thu, 11 Jun 2026 07:06:40 +0000"
+  },
+  {
+    "id": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "title": "Emacs appearances in pop culture",
+    "link": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+    "published": "Wed, 10 Jun 2026 10:37:45 +0000"
+  },
+  {
+    "id": "https://mrbruh.com/amd2/",
+    "title": "The RCE that AMD wouldn't fix",
+    "link": "https://mrbruh.com/amd2/",
+    "published": "Thu, 11 Jun 2026 16:03:40 +0000"
+  },
+  {
+    "id": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "title": "Lines of code got a better publicist",
+    "link": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "published": "Thu, 11 Jun 2026 12:26:42 +0000"
+  },
+  {
+    "id": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+    "title": "Claude Fable 5: mid-tier results on coding tasks",
+    "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+    "published": "Thu, 11 Jun 2026 16:03:21 +0000"
+  },
+  {
+    "id": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+    "title": "Developer gets Half-Life running at 30 FPS on a Nokia N95",
+    "link": "https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95",
+    "published": "Mon, 08 Jun 2026 21:02:01 +0000"
+  },
+  {
+    "id": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
+    "title": "Reading for pleasure is sharply down among schoolkids, report shows",
+    "link": "https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987",
+    "published": "Wed, 10 Jun 2026 17:03:48 +0000"
+  },
+  {
+    "id": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
+    "title": "Faking keyword arguments to functions in C++",
+    "link": "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html",
+    "published": "Tue, 09 Jun 2026 12:05:12 +0000"
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
+    "title": "WikiLambda the Ultimate",
+    "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research",
+    "published": "Thu, 11 Jun 2026 17:14:42 +0000"
+  },
+  {
+    "id": "https://github.com/coder/boo",
+    "title": "Show HN: Boo \u2013 Screen-style terminal multiplexer built on libghostty",
+    "link": "https://github.com/coder/boo",
+    "published": "Thu, 11 Jun 2026 20:52:26 +0000"
+  },
+  {
+    "id": "https://waymo.com/blog/2026/06/waymo-premier/",
+    "title": "Waymo Premier",
+    "link": "https://waymo.com/blog/2026/06/waymo-premier/",
+    "published": "Thu, 11 Jun 2026 16:10:02 +0000"
+  },
+  {
+    "id": "https://crlf.link/log/entries/260525-1/",
+    "title": "Making a vintage LLM from scratch",
+    "link": "https://crlf.link/log/entries/260525-1/",
+    "published": "Thu, 11 Jun 2026 08:38:00 +0000"
+  },
+  {
+    "id": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+    "title": "How a new DSL may survive in the era of LLMs",
+    "link": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+    "published": "Thu, 11 Jun 2026 14:35:41 +0000"
+  },
+  {
+    "id": "https://github.com/icitry/FPS.cob",
+    "title": "FPS.cob: A first person shooter in COBOL",
+    "link": "https://github.com/icitry/FPS.cob",
+    "published": "Thu, 11 Jun 2026 15:13:57 +0000"
+  },
+  {
+    "id": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+    "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+    "link": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+    "published": "Thu, 11 Jun 2026 17:35:19 +0000"
+  },
+  {
+    "id": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "title": "Removing 'um' from a recording is harder than it sounds",
+    "link": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+    "published": "Fri, 12 Jun 2026 00:42:11 +0000"
+  },
+  {
+    "id": "https://mtgautodeck.com/articles/mtg-bench/",
+    "title": "MTG Bench: Testing how well LLMs can play Magic",
+    "link": "https://mtgautodeck.com/articles/mtg-bench/",
+    "published": "Thu, 11 Jun 2026 16:01:01 +0000"
+  },
+  {
+    "id": "https://github.com/huggingface/open-r1",
+    "title": "Open Reproduction of DeepSeek-R1",
+    "link": "https://github.com/huggingface/open-r1",
+    "published": "Thu, 11 Jun 2026 13:14:31 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/orbital-data-centers-heat",
+    "title": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
+    "link": "https://spectrum.ieee.org/orbital-data-centers-heat",
+    "published": "Thu, 11 Jun 2026 13:00:02 +0000"
+  },
+  {
+    "id": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
+    "title": "Defining Autonomy for Wellness Robots in Senior Care",
+    "link": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
+    "published": "Thu, 11 Jun 2026 10:00:01 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132154",
+    "title": "Theker just raised $85M to build the factory robot that doesn\u2019t specialize in anything",
+    "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "published": "Fri, 12 Jun 2026 01:48:07 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132323",
+    "title": "Jeff Bezos\u2019s Prometheus raises $12B to build an \u2018artificial general engineer\u2019 for the physical world",
+    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "published": "Fri, 12 Jun 2026 01:04:38 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132274",
+    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+    "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+    "published": "Thu, 11 Jun 2026 20:33:10 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132251",
+    "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+    "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+    "published": "Thu, 11 Jun 2026 20:27:25 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132124",
+    "title": "SpaceX SPV investors won\u2019t know their true holdings until post-IPO lock-ups lift",
+    "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+    "published": "Thu, 11 Jun 2026 19:58:01 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132229",
+    "title": "Bluesky launches group chats, as company shifts focus to community features",
+    "link": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
+    "published": "Thu, 11 Jun 2026 19:41:05 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3131817",
+    "title": "Meta\u2019s Edits app is getting an AI assistant and a desktop version",
+    "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+    "published": "Thu, 11 Jun 2026 17:30:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132125",
+    "title": "Coinbase\u2019s new tool can help agents trade and pay for premium research",
+    "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+    "published": "Thu, 11 Jun 2026 17:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3131148",
+    "title": "Quantum Space\u2019s military SPAC is trying to catch SpaceX\u2019s IPO wave",
+    "link": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
+    "published": "Thu, 11 Jun 2026 16:59:28 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132190",
+    "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
+    "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+    "published": "Thu, 11 Jun 2026 16:36:20 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132151",
+    "title": "Waymo launches a loyalty program with 10% cash back and free cancellations",
+    "link": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
+    "published": "Thu, 11 Jun 2026 16:00:23 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3131809",
+    "title": "Pool\u2019s new app turns your screenshots into something useful",
+    "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+    "published": "Thu, 11 Jun 2026 15:30:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3131940",
+    "title": "Microsoft taps Alt Carbon in sign of India\u2019s growing role in carbon removal",
+    "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+    "published": "Thu, 11 Jun 2026 15:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132127",
+    "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
+    "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+    "published": "Thu, 11 Jun 2026 14:23:43 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3131928",
+    "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+    "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+    "published": "Thu, 11 Jun 2026 14:00:12 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132107",
+    "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
+    "link": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
+    "published": "Thu, 11 Jun 2026 13:18:51 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3132066",
+    "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+    "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+    "published": "Thu, 11 Jun 2026 11:48:55 +0000"
+  },
+  {
+    "id": "6a2a9fd038601fbbee75b081",
+    "title": "iPhones (and Maybe AI) as Birth Control",
+    "link": "https://paulkedrosky.com/iphones-and-maybe-ai-as-birth-control/",
+    "published": "Thu, 11 Jun 2026 11:52:33 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93193",
+    "title": "A simple reason for skepticism about the iPhones/fertility link",
+    "link": "https://feeds.feedblitz.com/~/957959780/0/marginalrevolution~A-simple-reason-for-skepticism-about-the-iPhonesfertility-link.html",
+    "published": "Thu, 11 Jun 2026 18:07:22 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93184",
+    "title": "Thursday assorted links",
+    "link": "https://feeds.feedblitz.com/~/957956906/0/marginalrevolution~Thursday-assorted-links.html",
+    "published": "Thu, 11 Jun 2026 15:45:52 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93188",
+    "title": "The Nationalization of American Science",
+    "link": "https://feeds.feedblitz.com/~/957948608/0/marginalrevolution~The-Nationalization-of-American-Science.html",
+    "published": "Thu, 11 Jun 2026 11:16:13 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93186",
+    "title": "My excellent Conversation with Katja Hoyer",
+    "link": "https://feeds.feedblitz.com/~/957941972/0/marginalrevolution~My-excellent-Conversation-with-Katja-Hoyer.html",
+    "published": "Thu, 11 Jun 2026 05:15:39 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=162989",
+    "title": "What\u2019s the Future of Gene Editing?",
+    "link": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/",
+    "published": "Thu, 11 Jun 2026 13:37:21 +0000"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260611024610.htm",
+    "title": "The deadly tapeworm spreading across America has reached the Pacific Northwest",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260611024610.htm",
+    "published": "Thu, 11 Jun 2026 09:31:42 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260611024555.htm",
+    "title": "Scientists turn tofu and cheese waste into tiny CO2-catching beads",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260611024555.htm",
+    "published": "Thu, 11 Jun 2026 03:21:12 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm",
+    "title": "Scientists discover a hidden cause of aging cells that can be reversed",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260610003119.htm",
+    "published": "Thu, 11 Jun 2026 02:25:29 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260610003116.htm",
+    "title": "That ringing in your ears could be an early warning sign of hearing loss",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260610003116.htm",
+    "published": "Wed, 10 Jun 2026 00:31:16 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/06/260610003052.htm",
+    "title": "Scientists shut down cancer DNA repair to overcome drug resistance",
+    "link": "https://www.sciencedaily.com/releases/2026/06/260610003052.htm",
+    "published": "Wed, 10 Jun 2026 08:53:21 EDT"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3173093",
+    "title": "Songs prep the brains of finches yet to hatch for a hot world",
+    "link": "https://www.sciencenews.org/article/songs-prep-unhatched-finches-hot-world",
+    "published": "Thu, 11 Jun 2026 22:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3173032",
+    "title": "Measles has no treatments. Getting some may not be easy",
+    "link": "https://www.sciencenews.org/article/measles-treatments-vaccine-clinical-trial",
+    "published": "Thu, 11 Jun 2026 19:04:23 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3172957",
+    "title": "Clocks made from an atomic nucleus just ticked on for the first time",
+    "link": "https://www.sciencenews.org/article/nuclear-clock-atomic-nucleus-first",
+    "published": "Thu, 11 Jun 2026 15:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3171953",
+    "title": "Neuroscientists left the lab to study memory loss. The results were surprising",
+    "link": "https://www.sciencenews.org/article/older-adults-memory-loss-outside-lab",
+    "published": "Thu, 11 Jun 2026 13:00:00 +0000"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
+    "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
+    "published": "Thu, 11 Jun 2026 15:00:00 GMT"
+  },
+  {
+    "id": "ppi-2026_06_11__08_30_00",
+    "title": "PPI for final demand advances 1.1% in May; goods rise 2.8%, services increase 0.3%",
+    "link": "https://www.bls.gov/news.release/archives/ppi_06112026.htm",
+    "published": "2026-06-11T08:30:00Z"
+  },
+  {
+    "id": "http://www.federalreserve.gov/feeds/Z1.html#3910",
+    "title": "2026:Q1 data now available for the Financial Accounts of the United States",
+    "link": "http://www.federalreserve.gov/feeds/Z1.html#3910",
+    "published": ""
+  }
+]
