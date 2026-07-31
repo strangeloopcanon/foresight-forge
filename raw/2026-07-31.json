@@ -1,0 +1,818 @@
+[
+  {
+    "id": "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html",
+    "title": "Trump Threatens to Withdraw Blanche as Attorney General, Dealing Blow to Nomination",
+    "link": "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html",
+    "published": "Thu, 30 Jul 2026 22:27:44 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html",
+    "title": "Defying Trump, Cornyn Uses His Lame-Duck Power",
+    "link": "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html",
+    "published": "Fri, 31 Jul 2026 00:23:01 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-confirmation-irs.html",
+    "title": "Why Todd Blanche\u2019s Attorney General Confirmation Is Stalled",
+    "link": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-confirmation-irs.html",
+    "published": "Thu, 30 Jul 2026 16:11:48 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html",
+    "title": "What Is the Board of Peace? The Trump-Backed Group, Explained.",
+    "link": "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html",
+    "published": "Fri, 31 Jul 2026 01:27:51 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
+    "title": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
+    "published": "Fri, 31 Jul 2026 00:25:24 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
+    "title": "What to Know About Ceuta",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
+    "published": "Fri, 31 Jul 2026 01:47:02 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/briefing/economy-blanche-iran.html",
+    "title": "The Economy Slows",
+    "link": "https://www.nytimes.com/2026/07/30/briefing/economy-blanche-iran.html",
+    "published": "Thu, 30 Jul 2026 22:16:31 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
+    "title": "Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations",
+    "link": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
+    "published": "Fri, 31 Jul 2026 01:10:12 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html",
+    "title": "Why an A.I. Bubble Might Not Be a Bad Thing",
+    "link": "https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html",
+    "published": "Thu, 30 Jul 2026 21:30:12 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
+    "title": "Big Tech\u2019s A.I. Spending Keeps Rising. So Do the Jitters.",
+    "link": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
+    "published": "Fri, 31 Jul 2026 02:20:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/technology/apple-earnings.html",
+    "title": "Apple\u2019s Profit Is Up 27%, but Expectations for Current Quarter Disappoint",
+    "link": "https://www.nytimes.com/2026/07/30/technology/apple-earnings.html",
+    "published": "Thu, 30 Jul 2026 22:27:24 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html",
+    "title": "A Bay Area Pastor Made an A.I. Twin to Talk About God at Any Time",
+    "link": "https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html",
+    "published": "Thu, 30 Jul 2026 17:11:59 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
+    "title": "Iran War Is Entangling a Growing List of Mideast Nations",
+    "link": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
+    "published": "Thu, 30 Jul 2026 22:25:37 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html",
+    "title": "Why Democrats Won\u2019t Stop Forcing Votes On Trump\u2019s Iran War Powers",
+    "link": "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html",
+    "published": "Thu, 30 Jul 2026 17:17:35 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/us/dulles-airport-people-movers-trump.html",
+    "title": "Dulles Airport\u2019s Reviled \u2018People Movers\u2019 May Be Lurching Into the Sunset",
+    "link": "https://www.nytimes.com/2026/07/30/us/dulles-airport-people-movers-trump.html",
+    "published": "Thu, 30 Jul 2026 21:47:17 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
+    "title": "After Claiming \u2018Bias\u2019 at Smithsonian, Trump Officials Stage Patriotic Exhibition",
+    "link": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
+    "published": "Thu, 30 Jul 2026 20:20:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/us/politics/kennedy-center-tours.html",
+    "title": "Kennedy Center Halts Free Public Tours After Five Decades of Service",
+    "link": "https://www.nytimes.com/2026/07/30/us/politics/kennedy-center-tours.html",
+    "published": "Fri, 31 Jul 2026 00:38:49 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/nyregion/mamdani-reparations-slavery.html",
+    "title": "Mamdani Leaves Door Open to Paying Reparations to Black New Yorkers",
+    "link": "https://www.nytimes.com/2026/07/30/nyregion/mamdani-reparations-slavery.html",
+    "published": "Thu, 30 Jul 2026 23:53:55 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html",
+    "title": "What We Know About Dr. Fauci Pleading the Fifth in Senate Hearing on Covid Origins",
+    "link": "https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html",
+    "published": "Fri, 31 Jul 2026 02:23:30 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/world/americas/mexico-sargassum-beach-cleanup.html",
+    "title": "Mexico\u2019s President Unveils Plan to Fight Seaweed That Is Choking Beaches",
+    "link": "https://www.nytimes.com/2026/07/30/world/americas/mexico-sargassum-beach-cleanup.html",
+    "published": "Fri, 31 Jul 2026 00:54:42 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/opinion/american-gerontocracy-samuel-moyn.html",
+    "title": "How Older Americans Hoard the Future",
+    "link": "https://www.nytimes.com/2026/07/30/opinion/american-gerontocracy-samuel-moyn.html",
+    "published": "Thu, 30 Jul 2026 13:45:21 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/07/30/us/pinot-noir-california-wine-sales-decline.html",
+    "title": "Sales Are So Low, California Wineries Are Burning Their Vineyards",
+    "link": "https://www.nytimes.com/2026/07/30/us/pinot-noir-california-wine-sales-decline.html",
+    "published": "Thu, 30 Jul 2026 18:41:27 +0000"
+  },
+  {
+    "id": "WP-MKTW-0005154722",
+    "title": "Corporate insiders are sending warning signals about the stock market",
+    "link": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories",
+    "published": "Fri, 31 Jul 2026 00:31:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005153246",
+    "title": "\u2018Don\u2019t get suckered like I did\u2019: I paid $185 to the wrong passport website. Can I get my money back?",
+    "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+    "published": "Fri, 31 Jul 2026 00:24:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005152828",
+    "title": "My friend and her husband own real estate. How can her children from a previous marriage get their fair share?",
+    "link": "https://www.marketwatch.com/story/my-friend-and-her-husband-own-extensive-real-estate-how-can-her-children-from-a-previous-marriage-get-their-fair-share-3eb17c20?mod=mw_rss_topstories",
+    "published": "Fri, 31 Jul 2026 00:16:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005155173",
+    "title": "Empty seats? Concert giant Live Nation says ticket sales are actually at record levels.",
+    "link": "https://www.marketwatch.com/story/empty-seats-concert-giant-live-nation-says-ticket-sales-are-actually-at-record-levels-461252db?mod=mw_rss_topstories",
+    "published": "Fri, 31 Jul 2026 00:14:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005154181",
+    "title": "Jersey Mike\u2019s spent almost \u2018zero dollars\u2019 on digital marketing. That\u2019s now changing.",
+    "link": "https://www.marketwatch.com/story/jersey-mikes-spent-almost-zero-dollars-on-digital-marketing-thats-now-changing-9738485d?mod=mw_rss_topstories",
+    "published": "Thu, 30 Jul 2026 22:24:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005153866",
+    "title": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
+    "link": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
+    "published": "Thu, 30 Jul 2026 22:09:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005153786",
+    "title": "Get ready to buy the dip in tech stocks. Why the recent selling won\u2019t break the bull market.",
+    "link": "https://www.marketwatch.com/story/get-ready-to-buy-the-dip-in-tech-stocks-why-the-recent-selling-wont-break-the-bull-market-900699f5?mod=mw_rss_topstories",
+    "published": "Thu, 30 Jul 2026 21:45:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005155410",
+    "title": "Can credit cards survive AI shopping? Why Mastercard\u2019s CEO says they\u2019ll \u2018prevail\u2019 in this new era.",
+    "link": "https://www.marketwatch.com/story/can-credit-cards-survive-ai-shopping-why-mastercards-ceo-says-theyll-prevail-in-this-new-era-8f8a660c?mod=mw_rss_topstories",
+    "published": "Thu, 30 Jul 2026 21:45:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005154159",
+    "title": "Software stocks are fading \u2014 but these 4 could shine through the rest of the year",
+    "link": "https://www.marketwatch.com/story/software-stocks-are-fading-but-these-4-could-shine-through-the-rest-of-the-year-2c4dbe22?mod=mw_rss_topstories",
+    "published": "Thu, 30 Jul 2026 21:24:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005153310",
+    "title": "Meta\u2019s stock falls hard. Here\u2019s why the company is in Wall Street\u2019s doghouse.",
+    "link": "https://www.marketwatch.com/story/metas-stock-is-falling-hard-heres-why-the-company-is-in-wall-streets-doghouse-afae2f55?mod=mw_rss_topstories",
+    "published": "Thu, 30 Jul 2026 20:31:00 GMT"
+  },
+  {
+    "id": "108341767",
+    "title": "Amazon hikes 2026 capex to $220 billion due to higher memory costs",
+    "link": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+    "published": "Thu, 30 Jul 2026 21:31:31 GMT"
+  },
+  {
+    "id": "108342141",
+    "title": "China\u2019s U.S.-bound shipments fall in July after brief recovery, survey shows",
+    "link": "https://www.cnbc.com/2026/07/30/china-us-exports-drop.html",
+    "published": "Thu, 30 Jul 2026 22:01:01 GMT"
+  },
+  {
+    "id": "108342867",
+    "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+    "link": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html",
+    "published": "Fri, 31 Jul 2026 00:23:53 GMT"
+  },
+  {
+    "id": "108342370",
+    "title": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+    "link": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+    "published": "Thu, 30 Jul 2026 21:29:19 GMT"
+  },
+  {
+    "id": "108342894",
+    "title": "China's factory activity unexpectedly contracts in July as export rush fades",
+    "link": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html",
+    "published": "Fri, 31 Jul 2026 02:06:06 GMT"
+  },
+  {
+    "id": "108342892",
+    "title": "SK Hynix shares surge 25%, while Samsung soars over 20% as AI rally roars back",
+    "link": "https://www.cnbc.com/2026/07/31/sk-hynix-samsung-ai-rally-chipmakers.html",
+    "published": "Fri, 31 Jul 2026 00:52:26 GMT"
+  },
+  {
+    "id": "108342629",
+    "title": "Reddit shares sink 11% on 'choppy' search referrals even as results blow past estimates",
+    "link": "https://www.cnbc.com/2026/07/30/reddit-rddt-q2-2026-earnings-report.html",
+    "published": "Thu, 30 Jul 2026 22:28:38 GMT"
+  },
+  {
+    "id": "108321371",
+    "title": "Trump promised a 'golden age' for agriculture. Farmers in Iowa say they're still waiting",
+    "link": "https://www.cnbc.com/2026/07/30/trump-iowa-farmers-agriculture.html",
+    "published": "Thu, 30 Jul 2026 10:45:01 GMT"
+  },
+  {
+    "id": "108340301",
+    "title": "Fast-fashion retailer Shein\u2019s 3-year IPO odyssey cost it the \u2018golden time\u2019 to go public",
+    "link": "https://www.cnbc.com/2026/07/31/shein-ipo-hong-kong-ftc-investigation-tariffs-fast-fashion-.html",
+    "published": "Thu, 30 Jul 2026 23:30:34 GMT"
+  },
+  {
+    "id": "108342239",
+    "title": "Meta sinks 8%, continuing record losing streak, while Microsoft jumps 15% as AI trade splits",
+    "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
+    "published": "Thu, 30 Jul 2026 22:28:58 GMT"
+  },
+  {
+    "id": "108342881",
+    "title": "Anthropic says its Claude models 'gained unauthorized access' to other organizations' systems",
+    "link": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html",
+    "published": "Fri, 31 Jul 2026 01:11:49 GMT"
+  },
+  {
+    "id": "108342857",
+    "title": "Amazon soars after CEO Andy Jassy makes the case for its massive AI investment",
+    "link": "https://www.cnbc.com/2026/07/30/amazon-soars-after-ceo-makes-the-case-for-its-massive-ai-investment.html",
+    "published": "Thu, 30 Jul 2026 23:27:04 GMT"
+  },
+  {
+    "id": "108342802",
+    "title": "Nexus Data Centers in advanced talks to secure $15B for Google-backed Anthropic data center",
+    "link": "https://www.cnbc.com/2026/07/30/nexus-data-centers-in-advanced-talks-to-secure-15b-for-google-backed-anthropic-data-center.html",
+    "published": "Thu, 30 Jul 2026 21:50:17 GMT"
+  },
+  {
+    "id": "108342720",
+    "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
+    "link": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
+    "published": "Thu, 30 Jul 2026 21:19:16 GMT"
+  },
+  {
+    "id": "108341828",
+    "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23",
+    "link": "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+    "published": "Thu, 30 Jul 2026 20:13:00 GMT"
+  },
+  {
+    "id": "108342644",
+    "title": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
+    "link": "https://www.cnbc.com/2026/07/30/jim-cramer-situational-awareness-blowup-reveals-hidden-risks-of-leverage.html",
+    "published": "Thu, 30 Jul 2026 22:37:02 GMT"
+  },
+  {
+    "id": "108337722",
+    "title": "Indonesian state telecom said to weigh sale of venture arm managing $830 million",
+    "link": "https://www.cnbc.com/2026/07/31/indonesia-venture-capital-corruption-danantara-mdi-ventures-tanihub.html",
+    "published": "Thu, 30 Jul 2026 22:50:12 GMT"
+  },
+  {
+    "id": "108338050",
+    "title": "China\u2019s open-weight model lead exposes America\u2019s AI blind spot",
+    "link": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
+    "published": "Thu, 30 Jul 2026 18:51:42 GMT"
+  },
+  {
+    "id": "108342455",
+    "title": "Coinbase shares fall after crypto exchange posts disappointing second-quarter results",
+    "link": "https://www.cnbc.com/2026/07/30/coinbase-coin-earnings-q2-2026.html",
+    "published": "Thu, 30 Jul 2026 21:53:07 GMT"
+  },
+  {
+    "id": "108342749",
+    "title": "Microsoft's Xbox chief lays out plan to pass rivals on margin by 2030 in memo to employees",
+    "link": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html",
+    "published": "Thu, 30 Jul 2026 22:48:30 GMT"
+  },
+  {
+    "id": "108342463",
+    "title": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
+    "link": "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
+    "published": "Thu, 30 Jul 2026 20:38:18 GMT"
+  },
+  {
+    "id": "108342550",
+    "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
+    "link": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
+    "published": "Thu, 30 Jul 2026 17:27:49 GMT"
+  },
+  {
+    "id": "108342447",
+    "title": "AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher",
+    "link": "https://www.cnbc.com/2026/07/30/chip-stock-rally-lam-research-micron-amd.html",
+    "published": "Thu, 30 Jul 2026 20:04:13 GMT"
+  },
+  {
+    "id": "108342537",
+    "title": "UEFA threatens World Cup boycott over FIFA private equity investment plan",
+    "link": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
+    "published": "Thu, 30 Jul 2026 19:59:12 GMT"
+  },
+  {
+    "id": "108342502",
+    "title": "'The Odyssey' extends stay in 70 mm Imax theaters as shows sell out weeks in advance",
+    "link": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+    "published": "Thu, 30 Jul 2026 20:51:02 GMT"
+  },
+  {
+    "id": "108342382",
+    "title": "Retailer Reformation closes flat in NYSE debut as CEO says company is 'ready to scale'",
+    "link": "https://www.cnbc.com/2026/07/30/reformation-ipo-public-nyse-listing.html",
+    "published": "Thu, 30 Jul 2026 20:08:13 GMT"
+  },
+  {
+    "id": "108342336",
+    "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+    "link": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+    "published": "Thu, 30 Jul 2026 15:04:43 GMT"
+  },
+  {
+    "id": "108342372",
+    "title": "New details in the OpenAI Hugging Face hack show how far agents will go: 'It's now remarkably easy'",
+    "link": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
+    "published": "Thu, 30 Jul 2026 14:09:36 GMT"
+  },
+  {
+    "id": "108342526",
+    "title": "Trump floats pulling Blanche's AG nomination until after GOP holdouts leave office",
+    "link": "https://www.cnbc.com/2026/07/30/trump-blanche-ag-doj-cornyn-tillis.html",
+    "published": "Thu, 30 Jul 2026 19:40:11 GMT"
+  },
+  {
+    "id": "108342258",
+    "title": "Jeep maker Stellantis swings to profit on rising demand in North America",
+    "link": "https://www.cnbc.com/2026/07/30/stellantis-q2-earnings-autos-jeep.html",
+    "published": "Thu, 30 Jul 2026 15:02:17 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+    "title": "Scientists found evolution repeating itself in the Gal\u00e1pagos Islands",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm",
+    "published": "Thu, 30 Jul 2026 08:13:37 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+    "title": "What if the brain does not create consciousness?",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm",
+    "published": "Thu, 30 Jul 2026 09:23:33 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+    "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
+    "published": "Thu, 30 Jul 2026 02:34:21 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
+    "title": "This 4,000-year-old city defied the rules of history",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
+    "published": "Thu, 30 Jul 2026 09:02:20 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+    "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+    "published": "Wed, 29 Jul 2026 22:18:28 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
+    "title": "AI reveals explosive bursts in bird evolution",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260729010709.htm",
+    "published": "Wed, 29 Jul 2026 21:01:26 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/07/260726015239.htm",
+    "title": "Alien signals may be hiding where we rarely listen",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260726015239.htm",
+    "published": "Thu, 30 Jul 2026 01:09:15 EDT"
+  },
+  {
+    "id": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "title": "The AI Aesthetic",
+    "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "published": "Thu, 30 Jul 2026 23:22:16 +0000"
+  },
+  {
+    "id": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "Read this before you buy that TV streaming stick",
+    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "published": "Thu, 30 Jul 2026 17:04:53 +0000"
+  },
+  {
+    "id": "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "title": "I flagged two research papers for fake authors and both were accepted as orals",
+    "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "published": "Thu, 30 Jul 2026 22:33:11 +0000"
+  },
+  {
+    "id": "https://github.com/AminBlg/SimpleEnglish",
+    "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+    "link": "https://github.com/AminBlg/SimpleEnglish",
+    "published": "Thu, 30 Jul 2026 19:34:27 +0000"
+  },
+  {
+    "id": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "title": "Stacked PRs are now live on GitHub",
+    "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "published": "Thu, 30 Jul 2026 16:26:16 +0000"
+  },
+  {
+    "id": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "published": "Thu, 30 Jul 2026 15:15:48 +0000"
+  },
+  {
+    "id": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+    "title": "The American Grilled Cheese Sandwich Essay (2024)",
+    "link": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+    "published": "Mon, 27 Jul 2026 17:37:32 +0000"
+  },
+  {
+    "id": "https://rune.build/blog/rune-1-1-release",
+    "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+    "link": "https://rune.build/blog/rune-1-1-release",
+    "published": "Thu, 30 Jul 2026 21:47:31 +0000"
+  },
+  {
+    "id": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+    "title": "CodePen 2.0",
+    "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+    "published": "Thu, 30 Jul 2026 17:52:51 +0000"
+  },
+  {
+    "id": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
+    "title": "Bad Apple but It's Traceroute",
+    "link": "https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html",
+    "published": "Mon, 27 Jul 2026 15:48:09 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+    "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+    "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+    "published": "Thu, 30 Jul 2026 15:22:46 +0000"
+  },
+  {
+    "id": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+    "title": "UEFA and its national associations will not participate in FIFA competitions",
+    "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+    "published": "Thu, 30 Jul 2026 18:40:52 +0000"
+  },
+  {
+    "id": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+    "title": "Google will expand age checks on Android worldwide till the end of the year",
+    "link": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+    "published": "Thu, 30 Jul 2026 10:13:46 +0000"
+  },
+  {
+    "id": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "title": "The Economic Benefit of Refactoring",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "published": "Thu, 30 Jul 2026 15:10:27 +0000"
+  },
+  {
+    "id": "https://obryant.dev/p/2x-not-10x/",
+    "title": "2x, not 10x: coding with LLMs in 2026",
+    "link": "https://obryant.dev/p/2x-not-10x/",
+    "published": "Sat, 25 Jul 2026 14:27:05 +0000"
+  },
+  {
+    "id": "https://github.com/MemoireMorte/Memo-1",
+    "title": "Memo-1: A 6502 computer built from scratch, using a Minitel as its terminal",
+    "link": "https://github.com/MemoireMorte/Memo-1",
+    "published": "Tue, 28 Jul 2026 13:56:27 +0000"
+  },
+  {
+    "id": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+    "title": "Saber-toothed cats became inbred\u2013and struggled to move\u2013before they went extinct",
+    "link": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+    "published": "Thu, 30 Jul 2026 21:31:03 +0000"
+  },
+  {
+    "id": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "title": "Advancing the price-performance frontier with GPT\u20115.6",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+    "published": "Thu, 30 Jul 2026 17:15:51 +0000"
+  },
+  {
+    "id": "https://graybeard.ing/the-religion-of-speed/",
+    "title": "The Religion of Speed",
+    "link": "https://graybeard.ing/the-religion-of-speed/",
+    "published": "Thu, 30 Jul 2026 23:43:22 +0000"
+  },
+  {
+    "id": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+    "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "published": "Thu, 30 Jul 2026 18:13:06 +0000"
+  },
+  {
+    "id": "https://lwn.net/Articles/1086041/",
+    "title": "GCC steering committee announces AI policy",
+    "link": "https://lwn.net/Articles/1086041/",
+    "published": "Thu, 30 Jul 2026 11:45:44 +0000"
+  },
+  {
+    "id": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+    "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+    "published": "Thu, 30 Jul 2026 17:31:07 +0000"
+  },
+  {
+    "id": "https://kedge.dev/",
+    "title": "Show HN: Kedge \u2013 Full-stack cloud with forkable VM snapshots and global SQLite",
+    "link": "https://kedge.dev/",
+    "published": "Wed, 29 Jul 2026 16:15:57 +0000"
+  },
+  {
+    "id": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+    "title": "Why is everyone trying to build a solid-state battery?",
+    "link": "https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a",
+    "published": "Thu, 30 Jul 2026 12:38:51 +0000"
+  },
+  {
+    "id": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+    "title": "The lost civic life of movie rental stores",
+    "link": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+    "published": "Thu, 30 Jul 2026 14:11:42 +0000"
+  },
+  {
+    "id": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
+    "title": "Rise Reforming (YC S26) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
+    "published": "Thu, 30 Jul 2026 17:00:21 +0000"
+  },
+  {
+    "id": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "link": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "published": "Thu, 30 Jul 2026 23:00:51 +0000"
+  },
+  {
+    "id": "https://www.projectpluto.com/25010d.htm",
+    "title": "Upper stage impacting the moon on 2026 August 5",
+    "link": "https://www.projectpluto.com/25010d.htm",
+    "published": "Thu, 30 Jul 2026 13:21:34 +0000"
+  },
+  {
+    "id": "https://hackerpublicradio.org/",
+    "title": "Hacker Public Radio",
+    "link": "https://hackerpublicradio.org/",
+    "published": "Thu, 30 Jul 2026 14:29:27 +0000"
+  },
+  {
+    "id": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
+    "title": "Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
+    "link": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
+    "published": "Mon, 27 Jul 2026 12:33:50 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/ieee-publishing-ethics-research-integrity",
+    "title": "IEEE Publishing Ethics Team Upholds Research Integrity",
+    "link": "https://spectrum.ieee.org/ieee-publishing-ethics-research-integrity",
+    "published": "Thu, 30 Jul 2026 18:00:03 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/dark-matter",
+    "title": "Detect Dark Matter\u2019s Mark From Your Backyard",
+    "link": "https://spectrum.ieee.org/dark-matter",
+    "published": "Thu, 30 Jul 2026 14:00:03 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/indigenous-fiber-network",
+    "title": "A Remote Indigenous Community Built One of Canada\u2019s Fastest Fiber Networks",
+    "link": "https://spectrum.ieee.org/indigenous-fiber-network",
+    "published": "Thu, 30 Jul 2026 13:00:01 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148621",
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "published": "Fri, 31 Jul 2026 01:06:54 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148575",
+    "title": "Apple stockpiles inventory as it braces for \u2018significant supply constraints\u2019",
+    "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+    "published": "Thu, 30 Jul 2026 23:28:05 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148482",
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "published": "Thu, 30 Jul 2026 23:25:58 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148540",
+    "title": "Reddit reports a solid quarter but shows signs of AI\u2019s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "published": "Thu, 30 Jul 2026 23:08:58 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148562",
+    "title": "Investors love AI, as long as you\u2019re a cloud host",
+    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "published": "Thu, 30 Jul 2026 22:41:41 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148556",
+    "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+    "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+    "published": "Thu, 30 Jul 2026 22:37:06 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148510",
+    "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply-chain risk\u2019 label",
+    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "published": "Thu, 30 Jul 2026 20:26:38 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148465",
+    "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
+    "link": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
+    "published": "Thu, 30 Jul 2026 20:13:12 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148423",
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "published": "Thu, 30 Jul 2026 19:44:16 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148357",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "published": "Thu, 30 Jul 2026 18:57:58 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148418",
+    "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+    "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+    "published": "Thu, 30 Jul 2026 18:38:12 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148364",
+    "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
+    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "published": "Thu, 30 Jul 2026 18:05:21 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148353",
+    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+    "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+    "published": "Thu, 30 Jul 2026 17:50:11 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148367",
+    "title": "Spotify launches \u2018User Notes\u2019 to let users add memories to songs",
+    "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
+    "published": "Thu, 30 Jul 2026 17:41:25 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148308",
+    "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "published": "Thu, 30 Jul 2026 16:09:42 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148225",
+    "title": "Tesla made its 10 millionth EV",
+    "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
+    "published": "Thu, 30 Jul 2026 16:00:25 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148224",
+    "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
+    "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
+    "published": "Thu, 30 Jul 2026 15:45:36 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148216",
+    "title": "Meta says AI is making it easier to build new apps \u2014 and more are coming",
+    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "published": "Thu, 30 Jul 2026 15:41:16 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148208",
+    "title": "Netflix lands global streaming deal for \u2018The Walking Dead\u2019",
+    "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
+    "published": "Thu, 30 Jul 2026 15:27:08 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3148209",
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "published": "Thu, 30 Jul 2026 15:19:15 +0000"
+  },
+  {
+    "id": "6a6b90edfc41ee1e4e02abc3",
+    "title": "Forget About It, Jake: It's Situational Awareness",
+    "link": "https://paulkedrosky.com/forthe-situational-awareness-thing/",
+    "published": "Thu, 30 Jul 2026 18:40:30 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93511",
+    "title": "The Anatomy of Cyber Risk",
+    "link": "https://feeds.feedblitz.com/~/964653974/0/marginalrevolution~The-Anatomy-of-Cyber-Risk.html",
+    "published": "Thu, 30 Jul 2026 18:06:08 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93506",
+    "title": "Thursday assorted links",
+    "link": "https://feeds.feedblitz.com/~/964625936/0/marginalrevolution~Thursday-assorted-links.html",
+    "published": "Thu, 30 Jul 2026 16:24:33 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93502",
+    "title": "The Endangered Species Act Reduces Housing",
+    "link": "https://feeds.feedblitz.com/~/964535777/0/marginalrevolution~The-Endangered-Species-Act-Reduces-Housing.html",
+    "published": "Thu, 30 Jul 2026 11:16:05 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93508",
+    "title": "An experiment for our schools",
+    "link": "https://feeds.feedblitz.com/~/964481804/0/marginalrevolution~An-experiment-for-our-schools.html",
+    "published": "Thu, 30 Jul 2026 08:07:55 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93500",
+    "title": "Forty interesting facts about Australia",
+    "link": "https://feeds.feedblitz.com/~/964436759/0/marginalrevolution~Forty-interesting-facts-about-Australia.html",
+    "published": "Thu, 30 Jul 2026 05:22:54 +0000"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
+    "title": "Rice bran compound may help ease irritable bowel symptoms",
+    "link": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
+    "published": "Thu, 30 Jul 2026 08:44:29 EDT"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3174778",
+    "title": "Mammals moving between the Americas stopped over in Mexico",
+    "link": "https://www.sciencenews.org/article/mammals-moving-americas-stopped-mexico",
+    "published": "Thu, 30 Jul 2026 19:09:15 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3174758",
+    "title": "How one amino acid might help fight colon cancer and infections",
+    "link": "https://www.sciencenews.org/article/amino-acid-argininine-colon-cancer-diet",
+    "published": "Thu, 30 Jul 2026 15:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3174614",
+    "title": "A new monkey species has been found deep in Congo\u2019s forests",
+    "link": "https://www.sciencenews.org/article/new-monkey-species-endangered",
+    "published": "Thu, 30 Jul 2026 13:00:00 +0000"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+    "published": "Thu, 30 Jul 2026 15:00:00 GMT"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+    "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+    "published": "Thu, 30 Jul 2026 15:00:00 GMT"
+  },
+  {
+    "id": "https://www.bea.gov/news/2026/gdp-advance-estimate-2nd-quarter-2026",
+    "title": "GDP (Advance Estimate), 2nd Quarter 2026",
+    "link": "https://www.bea.gov/news/2026/gdp-advance-estimate-2nd-quarter-2026",
+    "published": "Thu, 30 Jul 2026 08:30:00 EDT"
+  },
+  {
+    "id": "https://www.bea.gov/news/2026/personal-income-and-outlays-june-2026",
+    "title": "Personal Income and Outlays, June 2026",
+    "link": "https://www.bea.gov/news/2026/personal-income-and-outlays-june-2026",
+    "published": "Thu, 30 Jul 2026 08:30:00 EDT"
+  }
+]
