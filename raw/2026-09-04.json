@@ -1,0 +1,788 @@
+[
+  {
+    "id": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
+    "title": "How OpenAI Limited the Probe of Its Bots\u2019 Hack of Hugging Face",
+    "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
+    "published": "Fri, 04 Sep 2026 03:00:15 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+    "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+    "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+    "published": "Fri, 04 Sep 2026 00:06:04 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/briefing/colleges-tax-exemption-gloria-steinem.html",
+    "title": "Schools Aiding Minority Students Could Lose Tax-Exempt Status",
+    "link": "https://www.nytimes.com/2026/09/03/briefing/colleges-tax-exemption-gloria-steinem.html",
+    "published": "Thu, 03 Sep 2026 21:34:10 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/business/mortgage-rates-housing.html",
+    "title": "Mortgage Rates Hit 6.71%, Their Highest Level Since July 2025",
+    "link": "https://www.nytimes.com/2026/09/03/business/mortgage-rates-housing.html",
+    "published": "Thu, 03 Sep 2026 20:48:39 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html",
+    "title": "Bessent Blames Ukraine for High Energy Prices",
+    "link": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html",
+    "published": "Thu, 03 Sep 2026 19:56:44 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html",
+    "title": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing \u2018Geopolitical Unrest\u2019",
+    "link": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html",
+    "published": "Thu, 03 Sep 2026 20:07:38 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
+    "title": "Trump to Break Ground on Arch Before Getting Approval",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
+    "published": "Thu, 03 Sep 2026 23:44:26 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html",
+    "title": "JD Vance Says He Wouldn\u2019t Call Iran Conflict a War",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html",
+    "published": "Thu, 03 Sep 2026 21:51:49 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html",
+    "title": "Trump Taps Army Engineering Official as Acting Secretary",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html",
+    "published": "Fri, 04 Sep 2026 01:18:55 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
+    "title": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
+    "link": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
+    "published": "Fri, 04 Sep 2026 01:52:50 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html",
+    "title": "Volkswagen Plans to Cut 50,000 Jobs",
+    "link": "https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html",
+    "published": "Thu, 03 Sep 2026 23:32:22 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
+    "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
+    "published": "Thu, 03 Sep 2026 19:35:18 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/nyregion/gloria-steinem-home-new-york.html",
+    "title": "Steinem\u2019s N.Y.C. Brownstone Will Continue to Be a Sanctuary for Feminism",
+    "link": "https://www.nytimes.com/2026/09/03/nyregion/gloria-steinem-home-new-york.html",
+    "published": "Fri, 04 Sep 2026 01:00:06 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html",
+    "title": "Hillary Clinton, Meghan Markle, Lena Dunham and Others Pay Tribute to Gloria Steinem",
+    "link": "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html",
+    "published": "Thu, 03 Sep 2026 21:47:55 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/well/pig-kidney-bridge-transplant.html",
+    "title": "In a First, a Pig Kidney Kept a Patient Alive Until He Got a Human One",
+    "link": "https://www.nytimes.com/2026/09/03/well/pig-kidney-bridge-transplant.html",
+    "published": "Thu, 03 Sep 2026 22:30:07 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html",
+    "title": "Missouri Supreme Court Delivers Win for Democrats in Redistricting Case",
+    "link": "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html",
+    "published": "Thu, 03 Sep 2026 23:52:52 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html",
+    "title": "Trump Administration Asks Supreme Court to Allow Mail Voting Limits",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html",
+    "published": "Thu, 03 Sep 2026 22:24:09 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/nyregion/assisted-suicide-quietus-new-york.html",
+    "title": "The Start-Up That Helps People Die",
+    "link": "https://www.nytimes.com/2026/09/03/nyregion/assisted-suicide-quietus-new-york.html",
+    "published": "Thu, 03 Sep 2026 19:35:24 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html",
+    "title": "Maria Bartiromo Is Out at Fox News",
+    "link": "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html",
+    "published": "Fri, 04 Sep 2026 00:39:43 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/opinion/trump-trumpism-civics-education.html",
+    "title": "It\u2019s OK to Admit It. The State of the World Is Terrifying.",
+    "link": "https://www.nytimes.com/2026/09/03/opinion/trump-trumpism-civics-education.html",
+    "published": "Thu, 03 Sep 2026 18:44:47 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/opinion/gloria-steinem-feminism-abortion.html",
+    "title": "Why a Doctor Told Gloria Steinem: \u2018You Must Promise Me Two Things\u2019",
+    "link": "https://www.nytimes.com/2026/09/03/opinion/gloria-steinem-feminism-abortion.html",
+    "published": "Thu, 03 Sep 2026 19:56:23 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/03/business/tesla-cybercab-robotaxi-rides.html",
+    "title": "Tesla Begins Offering Rides in a Car Without a Steering Wheel",
+    "link": "https://www.nytimes.com/2026/09/03/business/tesla-cybercab-robotaxi-rides.html",
+    "published": "Thu, 03 Sep 2026 23:12:50 +0000"
+  },
+  {
+    "id": "WP-MKTW-0005214460",
+    "title": "Snowflake has a secret weapon that\u2019s powering its stock toward a huge gain",
+    "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+    "published": "Fri, 04 Sep 2026 00:35:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005216921",
+    "title": "Adobe just announced its next CEO. Here\u2019s why its stock is dropping.",
+    "link": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+    "published": "Fri, 04 Sep 2026 00:25:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005216369",
+    "title": "Lululemon bets on \u2018away from body\u2019 pants as customers sour on form-fitting leggings",
+    "link": "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories",
+    "published": "Fri, 04 Sep 2026 00:24:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005213044",
+    "title": "\u2018Please don\u2019t let this happen to you\u2019: My best friend died without a will \u2014 her neglectful family gets everything",
+    "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
+    "published": "Fri, 04 Sep 2026 00:00:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005215265",
+    "title": "Tesla investors await updates on Cybercab robotaxi touted as the \u2018future of transport\u2019",
+    "link": "https://www.marketwatch.com/story/teslas-stock-is-rallying-as-investors-prepare-for-a-storm-of-cybercabs-c738ac98?mod=mw_rss_topstories",
+    "published": "Thu, 03 Sep 2026 23:45:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005214578",
+    "title": "My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids?",
+    "link": "https://www.marketwatch.com/story/my-wife-and-i-are-in-our-70s-should-we-move-to-california-and-take-on-a-bigger-mortgage-to-be-near-our-kids-1d619084?mod=mw_rss_topstories",
+    "published": "Thu, 03 Sep 2026 23:36:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005215594",
+    "title": "Goldfish crackers are getting a makeover as new health trends reshape the snack aisle",
+    "link": "https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories",
+    "published": "Thu, 03 Sep 2026 21:54:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005214718",
+    "title": "Victoria\u2019s Secret sees strong sales for bras and Pink line, but not enough to satisfy investors",
+    "link": "https://www.marketwatch.com/story/victorias-secret-sees-strong-bras-and-pink-sales-but-not-enough-to-satisfy-investors-48bfe36c?mod=mw_rss_topstories",
+    "published": "Thu, 03 Sep 2026 21:52:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005216812",
+    "title": "Oura files for IPO amid Americans\u2019 obsession with tracking their sleep, steps and heart rates",
+    "link": "https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories",
+    "published": "Thu, 03 Sep 2026 21:49:00 GMT"
+  },
+  {
+    "id": "108358557",
+    "title": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
+    "link": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
+    "published": "Thu, 03 Sep 2026 19:18:59 GMT"
+  },
+  {
+    "id": "108358473",
+    "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+    "link": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+    "published": "Thu, 03 Sep 2026 19:38:09 GMT"
+  },
+  {
+    "id": "108358647",
+    "title": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
+    "link": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+    "published": "Thu, 03 Sep 2026 21:59:29 GMT"
+  },
+  {
+    "id": "108358642",
+    "title": "Lululemon stock plunges 15% on disappointing earnings and outlook",
+    "link": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+    "published": "Thu, 03 Sep 2026 20:52:03 GMT"
+  },
+  {
+    "id": "108358214",
+    "title": "Hugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+    "link": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+    "published": "Thu, 03 Sep 2026 16:43:22 GMT"
+  },
+  {
+    "id": "108357447",
+    "title": "A 'shakeout' in early-stage AI may be coming as VC money gets pickier on valuations",
+    "link": "https://www.cnbc.com/2026/09/04/ai-bubble-valuations-venture-capital.html",
+    "published": "Fri, 04 Sep 2026 00:44:33 GMT"
+  },
+  {
+    "id": "108355613",
+    "title": "South Korea's AI rally is reshaping romance, reality shows and academic preferences",
+    "link": "https://www.cnbc.com/2026/09/04/south-korea-ai-rally-society-impact.html",
+    "published": "Fri, 04 Sep 2026 00:55:30 GMT"
+  },
+  {
+    "id": "108358429",
+    "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
+    "link": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
+    "published": "Thu, 03 Sep 2026 20:42:29 GMT"
+  },
+  {
+    "id": "108358396",
+    "title": "NFL set for first-ever game in Melbourne, Australia, in international expansion",
+    "link": "https://www.cnbc.com/2026/09/03/nfl-rams-49ers-australia-international-expansion.html",
+    "published": "Thu, 03 Sep 2026 15:38:01 GMT"
+  },
+  {
+    "id": "108358472",
+    "title": "Trump admin targets tax-exempt status at private colleges \u2014 threatening a key tax break for donations",
+    "link": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
+    "published": "Thu, 03 Sep 2026 21:00:21 GMT"
+  },
+  {
+    "id": "108358514",
+    "title": "Zscaler stock rises on earnings beat, upbeat guidance",
+    "link": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
+    "published": "Thu, 03 Sep 2026 20:41:47 GMT"
+  },
+  {
+    "id": "108358347",
+    "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
+    "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+    "published": "Thu, 03 Sep 2026 21:52:38 GMT"
+  },
+  {
+    "id": "108358581",
+    "title": "Trump-promoted Freedom Fuel expands to Detroit as lawsuit over supplier's unpaid fuel heats up",
+    "link": "https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html",
+    "published": "Thu, 03 Sep 2026 23:21:28 GMT"
+  },
+  {
+    "id": "108358489",
+    "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
+    "link": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+    "published": "Thu, 03 Sep 2026 20:56:19 GMT"
+  },
+  {
+    "id": "108358535",
+    "title": "Piper Sandler expects Robinhood to kickstart football season with a win",
+    "link": "https://www.cnbc.com/2026/09/03/piper-sandler-expects-robinhood-to-start-football-season-with-a-win.html",
+    "published": "Thu, 03 Sep 2026 19:01:36 GMT"
+  },
+  {
+    "id": "108358495",
+    "title": "Here's why Jim Cramer is putting Costco stock in the penalty box",
+    "link": "https://www.cnbc.com/2026/09/03/heres-why-jim-cramer-is-putting-costco-stock-is-in-the-penalty-box-.html",
+    "published": "Thu, 03 Sep 2026 19:50:34 GMT"
+  },
+  {
+    "id": "108358530",
+    "title": "Options volume erupts in retail trading favorites as Robinhood, Tesla surge",
+    "link": "https://www.cnbc.com/2026/09/03/options-volume-erupts-in-retail-trading-favorites-as-robinhood-tesla-surge.html",
+    "published": "Thu, 03 Sep 2026 19:25:11 GMT"
+  },
+  {
+    "id": "108358408",
+    "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
+    "link": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
+    "published": "Thu, 03 Sep 2026 19:03:56 GMT"
+  },
+  {
+    "id": "108358196",
+    "title": "The world appears to be entering a higher-rate era. Here\u2019s who will pay the price",
+    "link": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+    "published": "Thu, 03 Sep 2026 04:20:20 GMT"
+  },
+  {
+    "id": "108358403",
+    "title": "ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'",
+    "link": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
+    "published": "Thu, 03 Sep 2026 20:09:22 GMT"
+  },
+  {
+    "id": "108358369",
+    "title": "Elon Musk starts spending his midterm election millions, revealing his key Senate targets",
+    "link": "https://www.cnbc.com/2026/09/03/elon-musk-america-pac-election-senate-races.html",
+    "published": "Thu, 03 Sep 2026 17:00:34 GMT"
+  },
+  {
+    "id": "108358348",
+    "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday",
+    "link": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
+    "published": "Thu, 03 Sep 2026 17:15:07 GMT"
+  },
+  {
+    "id": "108357967",
+    "title": "How Meta will pull off massive changes to its social media apps",
+    "link": "https://www.cnbc.com/2026/09/03/meta-teen-app-changes.html",
+    "published": "Thu, 03 Sep 2026 12:00:01 GMT"
+  },
+  {
+    "id": "108357139",
+    "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
+    "link": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
+    "published": "Thu, 03 Sep 2026 11:45:01 GMT"
+  },
+  {
+    "id": "108358076",
+    "title": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
+    "link": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
+    "published": "Thu, 03 Sep 2026 23:49:53 GMT"
+  },
+  {
+    "id": "108358323",
+    "title": "Oil prices little changed after Iran fires missiles at Kuwait",
+    "link": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html",
+    "published": "Thu, 03 Sep 2026 19:14:06 GMT"
+  },
+  {
+    "id": "108358036",
+    "title": "Average 401(k), IRA balances hit record highs \u2014 but more workers are raiding their accounts, Fidelity says",
+    "link": "https://www.cnbc.com/2026/09/03/401k-ira-retirement-balances-leakage-fidelity.html",
+    "published": "Thu, 03 Sep 2026 15:42:37 GMT"
+  },
+  {
+    "id": "108355145",
+    "title": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations",
+    "link": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html",
+    "published": "Wed, 02 Sep 2026 22:10:15 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
+    "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm",
+    "published": "Thu, 03 Sep 2026 08:41:39 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm",
+    "title": "Ancient \u201cliving fossils\u201d may reveal how complex life began",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm",
+    "published": "Thu, 03 Sep 2026 09:11:28 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm",
+    "title": "September brings a dazzling Venus and a glowing Harvest Moon",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm",
+    "published": "Thu, 03 Sep 2026 02:25:49 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
+    "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm",
+    "published": "Thu, 03 Sep 2026 03:48:14 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+    "title": "One immune switch may help drive aging across the body",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm",
+    "published": "Thu, 03 Sep 2026 06:29:04 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
+    "title": "Bats carry dangerous viruses without getting sick. This may be why",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
+    "published": "Thu, 03 Sep 2026 07:56:01 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm",
+    "title": "Scientists just overturned a century-old physics assumption",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm",
+    "published": "Thu, 03 Sep 2026 08:17:16 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm",
+    "title": "ADHD may have a surprising creative advantage",
+    "link": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm",
+    "published": "Wed, 02 Sep 2026 23:44:06 EDT"
+  },
+  {
+    "id": "https://openai.com/index/gpt-6-astra/",
+    "title": "GPT-6 Astra",
+    "link": "https://openai.com/index/gpt-6-astra/",
+    "published": "Thu, 03 Sep 2026 18:41:05 +0000"
+  },
+  {
+    "id": "https://neil.fraser.name/news/2026/09/03/",
+    "title": ".name Termination",
+    "link": "https://neil.fraser.name/news/2026/09/03/",
+    "published": "Thu, 03 Sep 2026 14:54:39 +0000"
+  },
+  {
+    "id": "https://inference-docs.cerebras.ai/models/overview",
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "link": "https://inference-docs.cerebras.ai/models/overview",
+    "published": "Thu, 03 Sep 2026 18:32:13 +0000"
+  },
+  {
+    "id": "https://gwern.net/xanadu",
+    "title": "Project Xanadu: Even More Hindsight",
+    "link": "https://gwern.net/xanadu",
+    "published": "Fri, 04 Sep 2026 01:45:23 +0000"
+  },
+  {
+    "id": "https://www.cbc.ca/lite/story/9.7328614",
+    "title": "New type of dice guarantees no tie when deciding who goes first",
+    "link": "https://www.cbc.ca/lite/story/9.7328614",
+    "published": "Wed, 02 Sep 2026 01:50:11 +0000"
+  },
+  {
+    "id": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+    "title": "The largest electric aircraft just flew [video]",
+    "link": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+    "published": "Tue, 01 Sep 2026 19:02:34 +0000"
+  },
+  {
+    "id": "https://armature.tech/blog/which-tools-coding-agents-install",
+    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+    "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+    "published": "Thu, 03 Sep 2026 21:20:34 +0000"
+  },
+  {
+    "id": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+    "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+    "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+    "published": "Thu, 03 Sep 2026 16:21:33 +0000"
+  },
+  {
+    "id": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+    "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "published": "Thu, 03 Sep 2026 14:28:18 +0000"
+  },
+  {
+    "id": "https://ifm.ai/blog/k2/",
+    "title": "K2 Horizon: A connected fleet of six open models",
+    "link": "https://ifm.ai/blog/k2/",
+    "published": "Thu, 03 Sep 2026 15:36:43 +0000"
+  },
+  {
+    "id": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+    "title": "GPS glitched across the US by as much as 33 feet",
+    "link": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+    "published": "Thu, 03 Sep 2026 00:49:07 +0000"
+  },
+  {
+    "id": "https://anyhumanever.com/",
+    "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
+    "link": "https://anyhumanever.com/",
+    "published": "Thu, 03 Sep 2026 14:51:10 +0000"
+  },
+  {
+    "id": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+    "title": "How an MIT research project became a global programming language",
+    "link": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+    "published": "Mon, 31 Aug 2026 08:26:09 +0000"
+  },
+  {
+    "id": "https://zed.dev/blog/agentic-xanadu",
+    "title": "Xanadu was waiting for agents",
+    "link": "https://zed.dev/blog/agentic-xanadu",
+    "published": "Tue, 01 Sep 2026 18:50:42 +0000"
+  },
+  {
+    "id": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+    "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "published": "Thu, 03 Sep 2026 01:11:22 +0000"
+  },
+  {
+    "id": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+    "title": "From Hookswitch to Grave",
+    "link": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+    "published": "Fri, 04 Sep 2026 02:40:12 +0000"
+  },
+  {
+    "id": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
+    "title": "Virtual Threads for a scripting language in Java 8 without Loom",
+    "link": "https://jactl.io/blog/2026/08/28/jactl-virtual-threads",
+    "published": "Tue, 01 Sep 2026 14:36:58 +0000"
+  },
+  {
+    "id": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+    "title": "GLP-1s are being linked to fewer serious infections, including TB",
+    "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+    "published": "Thu, 03 Sep 2026 22:37:31 +0000"
+  },
+  {
+    "id": "https://tasklet.ai/careers/customer-success-engineer",
+    "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+    "link": "https://tasklet.ai/careers/customer-success-engineer",
+    "published": "Thu, 03 Sep 2026 21:01:10 +0000"
+  },
+  {
+    "id": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+    "title": "Audacity 4.0",
+    "link": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+    "published": "Thu, 03 Sep 2026 10:53:08 +0000"
+  },
+  {
+    "id": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+    "title": "How concerned should we be about Astra's recurrent architecture?",
+    "link": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+    "published": "Thu, 03 Sep 2026 17:10:06 +0000"
+  },
+  {
+    "id": "https://neal.fun/unusual-suspects/",
+    "title": "Unusual Suspects",
+    "link": "https://neal.fun/unusual-suspects/",
+    "published": "Wed, 02 Sep 2026 15:48:13 +0000"
+  },
+  {
+    "id": "https://yalereview.org/article/emily-ogden-edgar-allan-poe",
+    "title": "The true horror of Edgar Allan Poe\u2019s stories lies in their confessions",
+    "link": "https://yalereview.org/article/emily-ogden-edgar-allan-poe",
+    "published": "Wed, 02 Sep 2026 15:18:59 +0000"
+  },
+  {
+    "id": "https://www.kevin.md/the-business-card-that-lights-up.md/",
+    "title": "A PCB business card with a batteryless LED, powered by the phone that taps it",
+    "link": "https://www.kevin.md/the-business-card-that-lights-up.md/",
+    "published": "Tue, 01 Sep 2026 20:46:03 +0000"
+  },
+  {
+    "id": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+    "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+    "link": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+    "published": "Thu, 03 Sep 2026 11:01:04 +0000"
+  },
+  {
+    "id": "https://arcprize.org/blog/astra",
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "link": "https://arcprize.org/blog/astra",
+    "published": "Thu, 03 Sep 2026 19:45:00 +0000"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49548600",
+    "title": "Ask HN: Who is using MCP in production?",
+    "link": "https://news.ycombinator.com/item?id=49548600",
+    "published": "Thu, 03 Sep 2026 11:21:18 +0000"
+  },
+  {
+    "id": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "title": "The asteroid currently hitting front end web development",
+    "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+    "published": "Thu, 03 Sep 2026 19:17:24 +0000"
+  },
+  {
+    "id": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "title": "How to get a free .arpa domain",
+    "link": "https://hawksley.dev/blog/get-free-arpa-domain",
+    "published": "Mon, 31 Aug 2026 22:21:58 +0000"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49551096",
+    "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+    "link": "https://news.ycombinator.com/item?id=49551096",
+    "published": "Thu, 03 Sep 2026 15:07:01 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+    "title": "Protecting Dynamic Industrial Robot Cable Carriers",
+    "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+    "published": "Thu, 03 Sep 2026 12:18:21 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160771",
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "published": "Fri, 04 Sep 2026 00:48:42 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160717",
+    "title": "Oura files to go public",
+    "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+    "published": "Thu, 03 Sep 2026 22:35:41 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160662",
+    "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+    "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+    "published": "Thu, 03 Sep 2026 22:18:30 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160602",
+    "title": "Startup ARR is less secure than ever, new research shows",
+    "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+    "published": "Thu, 03 Sep 2026 20:59:23 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160634",
+    "title": "The Cybercab is Tesla\u2019s \u2018fork in the road\u2019 moment",
+    "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+    "published": "Thu, 03 Sep 2026 19:42:48 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160633",
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "published": "Thu, 03 Sep 2026 19:36:29 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160557",
+    "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+    "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+    "published": "Thu, 03 Sep 2026 19:29:16 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160448",
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "published": "Thu, 03 Sep 2026 18:37:57 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160462",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "published": "Thu, 03 Sep 2026 18:19:56 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160480",
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "published": "Thu, 03 Sep 2026 18:01:45 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160409",
+    "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+    "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+    "published": "Thu, 03 Sep 2026 17:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160501",
+    "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+    "link": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+    "published": "Thu, 03 Sep 2026 16:42:54 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160393",
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "published": "Thu, 03 Sep 2026 16:09:01 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160341",
+    "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+    "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+    "published": "Thu, 03 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160336",
+    "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
+    "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "published": "Thu, 03 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3154440",
+    "title": "Volunteer at TechCrunch Founder Summit in Boston",
+    "link": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+    "published": "Thu, 03 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160127",
+    "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
+    "link": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+    "published": "Thu, 03 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160347",
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "published": "Thu, 03 Sep 2026 12:42:45 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3160334",
+    "title": "Amazon\u2019s Zoox expands its robotaxi service to Las Vegas airport",
+    "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+    "published": "Thu, 03 Sep 2026 12:12:56 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93742",
+    "title": "Astra, doing poetry",
+    "link": "https://feeds.feedblitz.com/~/968531282/0/marginalrevolution~Astra-doing-poetry.html",
+    "published": "Thu, 03 Sep 2026 22:11:50 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93735",
+    "title": "And it begins\u2026(a good start\u2026)",
+    "link": "https://feeds.feedblitz.com/~/968528852/0/marginalrevolution~And-it-beginsa-good-start.html",
+    "published": "Thu, 03 Sep 2026 18:42:21 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93734",
+    "title": "Numbers, numbers, numbers",
+    "link": "https://feeds.feedblitz.com/~/968524685/0/marginalrevolution~Numbers-numbers-numbers.html",
+    "published": "Thu, 03 Sep 2026 15:37:40 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93726",
+    "title": "How Much Redistribution Will AI Require?",
+    "link": "https://feeds.feedblitz.com/~/968520446/0/marginalrevolution~How-Much-Redistribution-Will-AI-Require.html",
+    "published": "Thu, 03 Sep 2026 11:18:00 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93729",
+    "title": "Thursday assorted links",
+    "link": "https://feeds.feedblitz.com/~/968517287/0/marginalrevolution~Thursday-assorted-links.html",
+    "published": "Thu, 03 Sep 2026 06:35:53 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93730",
+    "title": "My excellent Conversation with Michael Moritz",
+    "link": "https://feeds.feedblitz.com/~/968516324/0/marginalrevolution~My-excellent-Conversation-with-Michael-Moritz.html",
+    "published": "Thu, 03 Sep 2026 04:43:15 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=166452",
+    "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
+    "link": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
+    "published": "Thu, 03 Sep 2026 13:41:48 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=166521",
+    "title": "In an Age of AI, a Physicist Seeks What Endures",
+    "link": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/",
+    "published": "Thu, 03 Sep 2026 13:35:59 +0000"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260902234454.htm",
+    "title": "New Mexico\u2019s largest reservoir plunges to just 1.4% full",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260902234454.htm",
+    "published": "Wed, 02 Sep 2026 23:44:54 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260901070548.htm",
+    "title": "Each extra hour of prolonged sitting linked to 9% higher cancer death risk",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260901070548.htm",
+    "published": "Wed, 02 Sep 2026 23:06:57 EDT"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3178905",
+    "title": "AI agents aren\u2019t ready to replace humans in behavioral research",
+    "link": "https://www.sciencenews.org/article/ai-agents-replace-humans-research",
+    "published": "Thu, 03 Sep 2026 19:30:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3178874",
+    "title": "A culprit for corrosion may have been operating under our noses",
+    "link": "https://www.sciencenews.org/article/corrosion-water-droplets-charge",
+    "published": "Thu, 03 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "id": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-july-2026",
+    "title": "U.S. International Trade in Goods and Services, July 2026",
+    "link": "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-july-2026",
+    "published": "Thu, 03 Sep 2026 08:30:00 EDT"
+  },
+  {
+    "id": "prod2-2026_09_03__07_51_09",
+    "title": "Productivity increases 1.4% in Q2 2026; unit labor costs increase 1.2% (annualized rates)",
+    "link": "https://www.bls.gov/news.release/archives/prod2_09032026.htm",
+    "published": "2026-09-03T07:51:09.23-04:00"
+  }
+]
