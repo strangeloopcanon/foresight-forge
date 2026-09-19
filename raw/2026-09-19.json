@@ -1,0 +1,818 @@
+[
+  {
+    "id": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+    "title": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+    "published": "Fri, 18 Sep 2026 18:09:23 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html",
+    "title": "How Trump Became an A.I. Evangelist",
+    "link": "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html",
+    "published": "Fri, 18 Sep 2026 16:34:21 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+    "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+    "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+    "published": "Sat, 19 Sep 2026 00:23:01 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+    "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+    "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+    "published": "Sat, 19 Sep 2026 00:31:38 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/us/politics/faa-ai-dc-airports.html",
+    "title": "F.A.A. to Roll Out New A.I. Tool for Washington Airports",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/faa-ai-dc-airports.html",
+    "published": "Fri, 18 Sep 2026 20:21:00 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/briefing/russia-holds-stage-managed-elections.html",
+    "title": "Russia Holds Stage-Managed Elections",
+    "link": "https://www.nytimes.com/2026/09/18/briefing/russia-holds-stage-managed-elections.html",
+    "published": "Sat, 19 Sep 2026 00:53:59 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html",
+    "title": "Kennedy Center Supporters Rally Amid Fears of Trump\u2019s Demolition",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html",
+    "published": "Sat, 19 Sep 2026 02:22:10 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
+    "title": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
+    "published": "Sat, 19 Sep 2026 00:53:23 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html",
+    "title": "At Gettysburg, a Reporter Captured a Nation\u2019s Loss, and His Own",
+    "link": "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html",
+    "published": "Fri, 18 Sep 2026 20:49:49 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html",
+    "title": "New Species of Cat Discovered for First Time in a Century",
+    "link": "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html",
+    "published": "Fri, 18 Sep 2026 21:40:20 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html",
+    "title": "Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html",
+    "published": "Fri, 18 Sep 2026 21:03:01 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html",
+    "title": "James Talarico, Seeking Black Votes in Texas Senate Rate, Wins Crucial Endorsement",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html",
+    "published": "Fri, 18 Sep 2026 17:18:59 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/us/politics/republicans-elitist-party-voters-poll.html",
+    "title": "Republicans Are Now the \u2018Elitist\u2019 Party, Voters Say",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/republicans-elitist-party-voters-poll.html",
+    "published": "Fri, 18 Sep 2026 22:16:17 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+    "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+    "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+    "published": "Fri, 18 Sep 2026 23:38:22 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/us/politics/appeals-court-trump-third-country-deportation.html",
+    "title": "Appeals Court Restricts Trump Administration Deportation Effort",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/appeals-court-trump-third-country-deportation.html",
+    "published": "Fri, 18 Sep 2026 22:38:43 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html",
+    "title": "Two Centuries On, Smithsonian Connects Jefferson\u2019s Hair to Hemings\u2019s Children",
+    "link": "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html",
+    "published": "Fri, 18 Sep 2026 23:45:28 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html",
+    "title": "Holdout Juror in Lindsay Clancy Case Says He Didn\u2019t Doubt Her Guilt",
+    "link": "https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html",
+    "published": "Fri, 18 Sep 2026 20:15:49 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/business/paramount-warner-bros-settlement.html",
+    "title": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
+    "link": "https://www.nytimes.com/2026/09/18/business/paramount-warner-bros-settlement.html",
+    "published": "Sat, 19 Sep 2026 02:33:53 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/style/steven-kolb-cfda-resignation-peta.html",
+    "title": "Steven Kolb, CFDA Head, Resigns After Confrontation With PETA Protesters",
+    "link": "https://www.nytimes.com/2026/09/18/style/steven-kolb-cfda-resignation-peta.html",
+    "published": "Sat, 19 Sep 2026 02:19:07 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html",
+    "title": "Why Israel Fears This Searing New Documentary",
+    "link": "https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html",
+    "published": "Fri, 18 Sep 2026 20:12:30 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/opinion/culture/kennedy-center-trump.html",
+    "title": "The Kennedy Center Is Trump\u2019s Most Grotesque Obsession",
+    "link": "https://www.nytimes.com/2026/09/18/opinion/culture/kennedy-center-trump.html",
+    "published": "Sat, 19 Sep 2026 01:10:30 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
+    "title": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
+    "link": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
+    "published": "Fri, 18 Sep 2026 21:12:37 +0000"
+  },
+  {
+    "id": "WP-MKTW-0005238250",
+    "title": "I\u2019m in my 50s. My mother died from Alzheimer\u2019s. Do I need long-term-care insurance?",
+    "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+    "published": "Fri, 18 Sep 2026 23:30:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005236977",
+    "title": "\u2018I\u2019m burned out\u2019: I\u2019m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+    "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+    "published": "Fri, 18 Sep 2026 23:00:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005243372",
+    "title": "Why investors shouldn\u2019t be spooked by fears of an October stock-market crash",
+    "link": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+    "published": "Fri, 18 Sep 2026 22:41:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005241937",
+    "title": "It\u2019s almost impossible to sell a condo unit these days: \u2018I feel trapped\u2019",
+    "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+    "published": "Fri, 18 Sep 2026 21:16:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005241757",
+    "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+    "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+    "published": "Fri, 18 Sep 2026 21:14:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005242235",
+    "title": "Stocks are failing the \u2018breadth\u2019 test, but options traders still see reason to buy",
+    "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
+    "published": "Fri, 18 Sep 2026 20:48:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005242460",
+    "title": "Most of what you know about data centers is wrong",
+    "link": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
+    "published": "Fri, 18 Sep 2026 20:15:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005237157",
+    "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+    "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+    "published": "Fri, 18 Sep 2026 20:01:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005236158",
+    "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+    "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+    "published": "Fri, 18 Sep 2026 19:30:00 GMT"
+  },
+  {
+    "id": "108365119",
+    "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
+    "link": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
+    "published": "Fri, 18 Sep 2026 23:43:21 GMT"
+  },
+  {
+    "id": "108365210",
+    "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+    "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+    "published": "Fri, 18 Sep 2026 23:28:06 GMT"
+  },
+  {
+    "id": "108365229",
+    "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+    "link": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+    "published": "Sat, 19 Sep 2026 01:41:49 GMT"
+  },
+  {
+    "id": "108364890",
+    "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+    "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+    "published": "Fri, 18 Sep 2026 21:35:55 GMT"
+  },
+  {
+    "id": "108364865",
+    "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+    "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+    "published": "Fri, 18 Sep 2026 18:28:31 GMT"
+  },
+  {
+    "id": "108365158",
+    "title": "Anthropic selects Accenture\u00a0as first embedded evaluator to help implement Amodei's slowdown proposal",
+    "link": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html",
+    "published": "Fri, 18 Sep 2026 21:37:38 GMT"
+  },
+  {
+    "id": "108365054",
+    "title": "AI cloud provider Nscale files to go public",
+    "link": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+    "published": "Fri, 18 Sep 2026 21:08:28 GMT"
+  },
+  {
+    "id": "108364015",
+    "title": "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+    "link": "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+    "published": "Fri, 18 Sep 2026 19:15:24 GMT"
+  },
+  {
+    "id": "108364910",
+    "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+    "link": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+    "published": "Fri, 18 Sep 2026 17:34:49 GMT"
+  },
+  {
+    "id": "108364568",
+    "title": "Anthropic and OpenAI need truly independent safety evaluators, experts say in public letter",
+    "link": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
+    "published": "Fri, 18 Sep 2026 17:02:32 GMT"
+  },
+  {
+    "id": "108363758",
+    "title": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough",
+    "link": "https://www.cnbc.com/2026/09/18/at-dreamforce-business-leaders-say-older-ai-models-are-enough.html",
+    "published": "Fri, 18 Sep 2026 16:31:03 GMT"
+  },
+  {
+    "id": "108365145",
+    "title": "Cramer\u2019s week ahead: What to watch as Wall Street navigates a tough September",
+    "link": "https://www.cnbc.com/2026/09/18/jim-cramer-week-ahead-costco-okta.html",
+    "published": "Fri, 18 Sep 2026 22:17:16 GMT"
+  },
+  {
+    "id": "108365040",
+    "title": "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
+    "link": "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html",
+    "published": "Fri, 18 Sep 2026 17:41:45 GMT"
+  },
+  {
+    "id": "108364942",
+    "title": "Nike parts ways with Kylian Mbapp\u00e9; soccer superstar signs with On",
+    "link": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+    "published": "Fri, 18 Sep 2026 19:30:55 GMT"
+  },
+  {
+    "id": "108364965",
+    "title": "Auto industry urges Trump to bar Chinese automakers in U.S. ahead of Xi visit",
+    "link": "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
+    "published": "Fri, 18 Sep 2026 17:11:39 GMT"
+  },
+  {
+    "id": "108365068",
+    "title": "McDonald's is the new 'Value Meal,' says trader Mike Khouw",
+    "link": "https://www.cnbc.com/2026/09/18/mcdonalds-is-the-new-value-meal-says-trader-mike-khouw.html",
+    "published": "Fri, 18 Sep 2026 18:11:47 GMT"
+  },
+  {
+    "id": "108364685",
+    "title": "Warren Buffett steps down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+    "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+    "published": "Fri, 18 Sep 2026 12:04:02 GMT"
+  },
+  {
+    "id": "108365060",
+    "title": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks",
+    "link": "https://www.cnbc.com/2026/09/18/what-it-will-take-for-us-to-buy-the-dip-in-dupont-plus-profit-taking-hits-cyber-stocks.html",
+    "published": "Fri, 18 Sep 2026 18:32:55 GMT"
+  },
+  {
+    "id": "108363768",
+    "title": "Social Security reform plans could sway voters in battleground Senate races, survey finds",
+    "link": "https://www.cnbc.com/2026/09/18/social-security-senate-races-battleground-voters-survey.html",
+    "published": "Fri, 18 Sep 2026 13:15:01 GMT"
+  },
+  {
+    "id": "108364885",
+    "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+    "link": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
+    "published": "Fri, 18 Sep 2026 18:30:23 GMT"
+  },
+  {
+    "id": "108364911",
+    "title": "Disney names CTO for the first time as media giant expands tech push",
+    "link": "https://www.cnbc.com/2026/09/18/disney-cto-tech.html",
+    "published": "Fri, 18 Sep 2026 16:14:26 GMT"
+  },
+  {
+    "id": "108364924",
+    "title": "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
+    "link": "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
+    "published": "Fri, 18 Sep 2026 18:36:21 GMT"
+  },
+  {
+    "id": "108364921",
+    "title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
+    "link": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
+    "published": "Fri, 18 Sep 2026 16:13:00 GMT"
+  },
+  {
+    "id": "108364781",
+    "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets",
+    "link": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
+    "published": "Fri, 18 Sep 2026 12:18:55 GMT"
+  },
+  {
+    "id": "108364882",
+    "title": "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+    "link": "https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html",
+    "published": "Fri, 18 Sep 2026 14:20:46 GMT"
+  },
+  {
+    "id": "108364536",
+    "title": "Sportsbooks remain king this football season, but upstarts are making a run for the money",
+    "link": "https://www.cnbc.com/2026/09/18/sportsbooks-remain-king-this-football-season-but-upstarts-are-making-a-run-for-the-money.html",
+    "published": "Fri, 18 Sep 2026 15:16:44 GMT"
+  },
+  {
+    "id": "108364424",
+    "title": "Ticket prices rise for Macklemore solo concert after Ed Sheeran tour removal",
+    "link": "https://www.cnbc.com/2026/09/18/macklemore-ticket-prices-rise-amid-ed-sheeran-tour-fallout.html",
+    "published": "Fri, 18 Sep 2026 18:01:39 GMT"
+  },
+  {
+    "id": "108364893",
+    "title": "StubHub shares tick higher for third day in a row after Citi upgrade",
+    "link": "https://www.cnbc.com/2026/09/18/stubhub-shares-tick-higher-for-third-day-in-a-row-after-citi-upgrade.html",
+    "published": "Fri, 18 Sep 2026 15:09:10 GMT"
+  },
+  {
+    "id": "108364747",
+    "title": "Trump administration advances $24.3 billion fighter jet deal to Saudi Arabia as Houthis escalate attacks",
+    "link": "https://www.cnbc.com/2026/09/18/trump-saudi-arabia-f-35-houthis-iran-war.html",
+    "published": "Fri, 18 Sep 2026 08:02:20 GMT"
+  },
+  {
+    "id": "108364486",
+    "title": "AI stock swings could affect your 401(k). Here\u2019s what retirement savers need to know",
+    "link": "https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html",
+    "published": "Fri, 18 Sep 2026 12:52:14 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
+    "title": "Scientists just named a new snake after Guns N\u2019 Roses legend Slash",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
+    "published": "Fri, 18 Sep 2026 08:07:03 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
+    "title": "Scientists are about to test Einstein\u2019s gravity with exotic matter",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm",
+    "published": "Fri, 18 Sep 2026 07:07:25 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
+    "title": "NASA\u2019s Roman Space Telescope could last more than twice as long as planned",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
+    "published": "Fri, 18 Sep 2026 07:31:56 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
+    "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
+    "published": "Fri, 18 Sep 2026 00:25:45 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
+    "title": "These blood thinners may have an unexpected benefit for Alzheimer\u2019s patients",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm",
+    "published": "Fri, 18 Sep 2026 05:48:31 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm",
+    "title": "Ozempic can change your body. Can it change your life?",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm",
+    "published": "Thu, 17 Sep 2026 23:52:09 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
+    "title": "Scientists discover cells that cheat death and rebuild damaged tissue",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
+    "published": "Fri, 18 Sep 2026 08:30:43 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260917003718.htm",
+    "title": "Anak Krakatau blasts ash nearly 10 miles high",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260917003718.htm",
+    "published": "Thu, 17 Sep 2026 23:16:17 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
+    "title": "NASA\u2019s Moon orbiter finds a 728-foot crater that wasn\u2019t there before",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
+    "published": "Fri, 18 Sep 2026 06:18:54 EDT"
+  },
+  {
+    "id": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "published": "Fri, 18 Sep 2026 19:03:09 +0000"
+  },
+  {
+    "id": "https://jepedersen.dk/blog/202505_research/",
+    "title": "Science Is Open Software",
+    "link": "https://jepedersen.dk/blog/202505_research/",
+    "published": "Sat, 19 Sep 2026 02:21:35 +0000"
+  },
+  {
+    "id": "https://sdcc.sourceforge.net/",
+    "title": "SDCC \u2013 Small Device C Compiler",
+    "link": "https://sdcc.sourceforge.net/",
+    "published": "Sat, 19 Sep 2026 02:32:36 +0000"
+  },
+  {
+    "id": "https://try.cloudflare.com/",
+    "title": "Cloudflare Quick Tunnels",
+    "link": "https://try.cloudflare.com/",
+    "published": "Fri, 18 Sep 2026 14:18:41 +0000"
+  },
+  {
+    "id": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "title": "Saving another 100TB of RAM",
+    "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+    "published": "Fri, 18 Sep 2026 18:51:46 +0000"
+  },
+  {
+    "id": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "title": "How to Write with an LLM",
+    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "published": "Thu, 17 Sep 2026 21:48:38 +0000"
+  },
+  {
+    "id": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "title": "Why building a Rust LSP is hard",
+    "link": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+    "published": "Wed, 16 Sep 2026 22:51:16 +0000"
+  },
+  {
+    "id": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+    "title": "Xcode 27.1 Beta Release Notes",
+    "link": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+    "published": "Fri, 18 Sep 2026 18:39:31 +0000"
+  },
+  {
+    "id": "https://simonklee.dk/farnese-letter",
+    "title": "The Farnese letter",
+    "link": "https://simonklee.dk/farnese-letter",
+    "published": "Thu, 17 Sep 2026 17:39:01 +0000"
+  },
+  {
+    "id": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+    "link": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+    "published": "Fri, 18 Sep 2026 16:54:18 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/llms-for-chip-design",
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalape\u00f1o Chip",
+    "link": "https://spectrum.ieee.org/llms-for-chip-design",
+    "published": "Fri, 18 Sep 2026 23:04:17 +0000"
+  },
+  {
+    "id": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+    "title": "The first new cat species discovered in 100 years",
+    "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+    "published": "Thu, 17 Sep 2026 18:31:56 +0000"
+  },
+  {
+    "id": "https://go.dev/blog/goroutine-leak-profiles",
+    "title": "Goroutine Leak Profiles",
+    "link": "https://go.dev/blog/goroutine-leak-profiles",
+    "published": "Wed, 16 Sep 2026 13:30:30 +0000"
+  },
+  {
+    "id": "https://liveworld.info/",
+    "title": "Show HN: LiveWorld \u2013 Every 24/7 YouTube live camera on one globe",
+    "link": "https://liveworld.info/",
+    "published": "Sat, 19 Sep 2026 00:30:34 +0000"
+  },
+  {
+    "id": "https://openjev.com/",
+    "title": "OpenJev",
+    "link": "https://openjev.com/",
+    "published": "Fri, 18 Sep 2026 09:42:22 +0000"
+  },
+  {
+    "id": "https://arxiv.org/abs/2510.03215",
+    "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+    "link": "https://arxiv.org/abs/2510.03215",
+    "published": "Fri, 18 Sep 2026 18:55:35 +0000"
+  },
+  {
+    "id": "https://code.claude.com/docs/en/changelog",
+    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+    "link": "https://code.claude.com/docs/en/changelog",
+    "published": "Fri, 18 Sep 2026 21:00:32 +0000"
+  },
+  {
+    "id": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+    "title": "Cyclomatic Complexity in C#",
+    "link": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
+    "published": "Wed, 16 Sep 2026 19:01:09 +0000"
+  },
+  {
+    "id": "https://www.lispbm.com/",
+    "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+    "link": "https://www.lispbm.com/",
+    "published": "Wed, 16 Sep 2026 21:49:44 +0000"
+  },
+  {
+    "id": "https://minimalcompany.com/",
+    "title": "Minimal Phone 2",
+    "link": "https://minimalcompany.com/",
+    "published": "Fri, 18 Sep 2026 02:00:25 +0000"
+  },
+  {
+    "id": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+    "title": "Gemini hacked three companies in first known breakout by Google's AI",
+    "link": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+    "published": "Sat, 19 Sep 2026 01:40:35 +0000"
+  },
+  {
+    "id": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+    "link": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+    "published": "Fri, 18 Sep 2026 02:56:48 +0000"
+  },
+  {
+    "id": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+    "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+    "published": "Fri, 18 Sep 2026 23:54:42 +0000"
+  },
+  {
+    "id": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+    "published": "Fri, 18 Sep 2026 15:12:07 +0000"
+  },
+  {
+    "id": "https://arxiv.org/abs/2609.02852",
+    "title": "The Implications of Linguistic Illegibility for LLM Security",
+    "link": "https://arxiv.org/abs/2609.02852",
+    "published": "Fri, 18 Sep 2026 19:00:06 +0000"
+  },
+  {
+    "id": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+    "title": "How SpaceX streamlined the Raptor engine",
+    "link": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
+    "published": "Thu, 17 Sep 2026 21:14:19 +0000"
+  },
+  {
+    "id": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+    "link": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+    "published": "Fri, 18 Sep 2026 06:11:17 +0000"
+  },
+  {
+    "id": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+    "link": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+    "published": "Thu, 17 Sep 2026 20:52:33 +0000"
+  },
+  {
+    "id": "https://go.dev/blog/size-specialized-allocations",
+    "title": "Size-Specialized Memory Allocation",
+    "link": "https://go.dev/blog/size-specialized-allocations",
+    "published": "Thu, 17 Sep 2026 00:45:49 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+    "title": "Turning Tech Talent Into Leadership Legacy",
+    "link": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+    "published": "Fri, 18 Sep 2026 18:00:04 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166409",
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "published": "Sat, 19 Sep 2026 01:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166469",
+    "title": "Tilly Norwood\u2019s press tour is going about as well as you\u2019d expect for an AI",
+    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "published": "Sat, 19 Sep 2026 00:12:07 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166504",
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "published": "Fri, 18 Sep 2026 23:25:01 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166494",
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "published": "Fri, 18 Sep 2026 23:13:31 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166487",
+    "title": "AI hallucination nearly triggers US military operation",
+    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "published": "Fri, 18 Sep 2026 23:12:32 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166479",
+    "title": "Anthropic\u2019s first embedded evaluator is\u00a0\u2026 Accenture?",
+    "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "published": "Fri, 18 Sep 2026 21:44:33 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166396",
+    "title": "Automattic names interim CFO after exec departures",
+    "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+    "published": "Fri, 18 Sep 2026 20:25:22 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166337",
+    "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+    "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+    "published": "Fri, 18 Sep 2026 20:24:33 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166196",
+    "title": "World model companies are keeping a lot of secrets",
+    "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "published": "Fri, 18 Sep 2026 20:18:14 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3165837",
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "published": "Fri, 18 Sep 2026 18:49:30 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166240",
+    "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
+    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "published": "Fri, 18 Sep 2026 17:59:53 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166220",
+    "title": "In India, the new iPhone can arrive faster than a pizza",
+    "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+    "published": "Fri, 18 Sep 2026 17:45:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166205",
+    "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
+    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "published": "Fri, 18 Sep 2026 17:33:50 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166160",
+    "title": "Joby Aviation\u2019s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+    "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+    "published": "Fri, 18 Sep 2026 17:26:41 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3166249",
+    "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
+    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "published": "Fri, 18 Sep 2026 17:09:56 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166149",
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "published": "Fri, 18 Sep 2026 16:35:49 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3165239",
+    "title": "Family offices are clamoring for AI investments",
+    "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+    "published": "Fri, 18 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166151",
+    "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
+    "link": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+    "published": "Fri, 18 Sep 2026 15:44:09 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3165970",
+    "title": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "published": "Fri, 18 Sep 2026 15:30:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166065",
+    "title": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
+    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "published": "Fri, 18 Sep 2026 15:22:48 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93832",
+    "title": "Scott Beaulier interviews me, in part about Wyoming",
+    "link": "https://feeds.feedblitz.com/~/969276698/0/marginalrevolution~Scott-Beaulier-interviews-me-in-part-about-Wyoming.html",
+    "published": "Fri, 18 Sep 2026 18:10:55 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93827",
+    "title": "Friday assorted links",
+    "link": "https://feeds.feedblitz.com/~/969272903/0/marginalrevolution~Friday-assorted-links.html",
+    "published": "Fri, 18 Sep 2026 15:39:23 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93828",
+    "title": "Reimagining research papers as interactive and reliable AI agents",
+    "link": "https://feeds.feedblitz.com/~/969252467/0/marginalrevolution~Reimagining-research-papers-as-interactive-and-reliable-AI-agents.html",
+    "published": "Fri, 18 Sep 2026 07:07:11 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93811",
+    "title": "Why Papua New Guinea is so interesting",
+    "link": "https://feeds.feedblitz.com/~/969249014/0/marginalrevolution~Why-Papua-New-Guinea-is-so-interesting.html",
+    "published": "Fri, 18 Sep 2026 04:50:51 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=167212",
+    "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+    "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+    "published": "Fri, 18 Sep 2026 13:55:50 +0000"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
+    "title": "Caltech\u2019s tiny new chip can steer light in 74 quadrillionths of a second",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm",
+    "published": "Fri, 18 Sep 2026 07:50:13 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/09/260917003708.htm",
+    "title": "Scientists just discovered why Arctic sea ice moves so strangely",
+    "link": "https://www.sciencedaily.com/releases/2026/09/260917003708.htm",
+    "published": "Thu, 17 Sep 2026 22:13:16 EDT"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3179470",
+    "title": "Will the U.S. megadrought ever end?",
+    "link": "https://www.sciencenews.org/article/united-states-megadrought-climate",
+    "published": "Fri, 18 Sep 2026 17:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3179218",
+    "title": "This \u2018anti-vampiric\u2019 grave used two strategies to stop the undead",
+    "link": "https://www.sciencenews.org/article/ancient-anti-vampire-grave-undead",
+    "published": "Fri, 18 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3179156",
+    "title": "What\u2019s behind \u2018one of paleontology\u2019s most enduring enigmas\u2019?",
+    "link": "https://www.sciencenews.org/article/paleontology-enigma-honeycomb-fossil",
+    "published": "Fri, 18 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3179279",
+    "title": "Math puzzle: Shape-birding",
+    "link": "https://www.sciencenews.org/article/math-puzzle-shape-birding-polygons",
+    "published": "Fri, 18 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+    "published": "Fri, 18 Sep 2026 15:00:00 GMT"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+    "published": "Fri, 18 Sep 2026 15:00:00 GMT"
+  },
+  {
+    "id": "http://www.federalreserve.gov/feeds/G17.html#3951",
+    "title": "G.17 Data for August 2026 are now available",
+    "link": "http://www.federalreserve.gov/feeds/G17.html#3951",
+    "published": ""
+  },
+  {
+    "id": "http://www.federalreserve.gov/feeds/G17.html#3952",
+    "title": "G.17 Annual Revision Planned to be Released on November 24, 2026",
+    "link": "http://www.federalreserve.gov/feeds/G17.html#3952",
+    "published": ""
+  },
+  {
+    "id": "http://www.federalreserve.gov/feeds/Z1.html#3954",
+    "title": "Enhanced Financial Accounts projects updated",
+    "link": "http://www.federalreserve.gov/feeds/Z1.html#3954",
+    "published": ""
+  }
+]
