@@ -1,0 +1,944 @@
+[
+  {
+    "id": "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html",
+    "title": "As Xi Visits Washington, Trump Plays Down China\u2019s Actions Against U.S. Interests",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html",
+    "published": "Wed, 23 Sep 2026 21:14:18 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html",
+    "title": "U.S. and China Agree to Extend Trade Truce by 2 Months, Bessent Says",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html",
+    "published": "Thu, 24 Sep 2026 01:32:50 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html",
+    "title": "As Trump Welcomes Xi, More Americans Have a Positive View of China",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html",
+    "published": "Wed, 23 Sep 2026 22:09:12 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html",
+    "title": "At the U.N., Iran Says It Will Not Give Up Its Nuclear Program",
+    "link": "https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html",
+    "published": "Wed, 23 Sep 2026 21:57:16 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html",
+    "title": "Trump Invites Putin to Attend Group of 20 Summit in Miami",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html",
+    "published": "Wed, 23 Sep 2026 21:40:28 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html",
+    "title": "Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html",
+    "published": "Thu, 24 Sep 2026 03:17:09 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html",
+    "title": "Mary Peltola\u2019s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html",
+    "published": "Thu, 24 Sep 2026 03:24:57 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html",
+    "title": "Timothy Mellon, a G.O.P. Billionaire, Pulls Back His Money From Senate Republicans",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html",
+    "published": "Thu, 24 Sep 2026 01:42:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-ban-ruling.html",
+    "title": "Judge Holds Off on Immediate Ruling on White House\u2019s Media Ban",
+    "link": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-ban-ruling.html",
+    "published": "Thu, 24 Sep 2026 00:27:47 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html",
+    "title": "Iowa Judge Dismisses Trump\u2019s Lawsuit Against The Des Moines Register",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html",
+    "published": "Thu, 24 Sep 2026 02:07:27 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html",
+    "title": "Mark Carney Interview: Canada\u2019s Leader Lays Out Vision for Breaking Reliance on U.S.",
+    "link": "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html",
+    "published": "Thu, 24 Sep 2026 01:18:24 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html",
+    "title": "Trump\u2019s New Favorite Neighbor: Mexico",
+    "link": "https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html",
+    "published": "Wed, 23 Sep 2026 12:17:06 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html",
+    "title": "8 Sailors in U.S.S. Lincoln Strike Group Attempted Suicide, Navy Says",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/uss-lincoln-attempted-suicides.html",
+    "published": "Thu, 24 Sep 2026 01:54:53 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
+    "title": "OpenAI\u2019s A.I. Tried Breaching Four Other Targets, With No Prompting",
+    "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
+    "published": "Thu, 24 Sep 2026 02:50:25 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/world/asia/australia-openai-agent-infiltration.html",
+    "title": "Australia Says OpenAI \u2018Infiltrated\u2019 Public Health Care Portal",
+    "link": "https://www.nytimes.com/2026/09/23/world/asia/australia-openai-agent-infiltration.html",
+    "published": "Thu, 24 Sep 2026 02:42:32 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/well/heart-transplant-surgeon-pig-kidney.html",
+    "title": "He Changed the World of Organ Transplants. Would He Die Waiting for His Own?",
+    "link": "https://www.nytimes.com/2026/09/23/well/heart-transplant-surgeon-pig-kidney.html",
+    "published": "Wed, 23 Sep 2026 21:41:42 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/weather/noreaster-storm-new-york-boston-rain.html",
+    "title": "A Powerful Nor\u2019easter Is Taking Shape. How It Could Affect Your Forecast.",
+    "link": "https://www.nytimes.com/2026/09/23/weather/noreaster-storm-new-york-boston-rain.html",
+    "published": "Wed, 23 Sep 2026 20:04:01 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/us/politics/melania-trump-documentary-schedule.html",
+    "title": "Melania Trump\u2019s Busy Schedule: A New Show, a Foster-Care Bill and Reading Executive Orders",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/melania-trump-documentary-schedule.html",
+    "published": "Thu, 24 Sep 2026 01:23:01 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/opinion/iran-war-midterms-trump-republicans.html",
+    "title": "How Trump\u2019s Iran War May Sink Republican Midterm Chances",
+    "link": "https://www.nytimes.com/2026/09/23/opinion/iran-war-midterms-trump-republicans.html",
+    "published": "Wed, 23 Sep 2026 19:55:09 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
+    "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+    "link": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
+    "published": "Wed, 23 Sep 2026 22:47:28 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/09/23/arts/television/hayden-panettiere-death-cause-fentanyl-overdose.html",
+    "title": "Hayden Panettiere Was Found Surrounded by Drugs, Report Details",
+    "link": "https://www.nytimes.com/2026/09/23/arts/television/hayden-panettiere-death-cause-fentanyl-overdose.html",
+    "published": "Wed, 23 Sep 2026 20:23:38 +0000"
+  },
+  {
+    "id": "WP-MKTW-0005248592",
+    "title": "\u2018I don\u2019t begrudge them their money\u2019: My husband and I have friends who spend, spend, spend. How do we keep up?",
+    "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+    "published": "Wed, 23 Sep 2026 22:00:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005241673",
+    "title": "This test screens for 50 cancers \u2014 but whether Medicare and other health insurers will cover it hinges on FDA approval",
+    "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+    "published": "Wed, 23 Sep 2026 21:59:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005249885",
+    "title": "Micron\u2019s stock has become a \u2018battleground\u2019 as the AI narrative shifts",
+    "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
+    "published": "Wed, 23 Sep 2026 21:51:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005250932",
+    "title": "Is gridlock in Washington actually good for stocks? Here\u2019s what historical market data says.",
+    "link": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories",
+    "published": "Wed, 23 Sep 2026 21:44:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005250815",
+    "title": "OpenAI and Anthropic\u2019s CEOs just delivered this message to the U.N. as AI fears swirl",
+    "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
+    "published": "Wed, 23 Sep 2026 21:27:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005250563",
+    "title": "Inflation could cost Republicans the Senate \u2014 this chart shows how",
+    "link": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
+    "published": "Wed, 23 Sep 2026 21:13:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005249436",
+    "title": "Palantir\u2019s stock sees its highest close of the year, sealing a dramatic comeback",
+    "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
+    "published": "Wed, 23 Sep 2026 21:08:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005250640",
+    "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
+    "link": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
+    "published": "Wed, 23 Sep 2026 20:45:00 GMT"
+  },
+  {
+    "id": "108367204",
+    "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+    "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+    "published": "Thu, 24 Sep 2026 03:31:45 GMT"
+  },
+  {
+    "id": "108367206",
+    "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+    "link": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
+    "published": "Thu, 24 Sep 2026 01:16:34 GMT"
+  },
+  {
+    "id": "108367217",
+    "title": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
+    "link": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+    "published": "Thu, 24 Sep 2026 02:12:15 GMT"
+  },
+  {
+    "id": "108367219",
+    "title": "Japan's 10-year bond yield hits 30-year high following sell-off in Treasurys",
+    "link": "https://www.cnbc.com/2026/09/24/japan-jgb-bond-yield-treasurys.html",
+    "published": "Thu, 24 Sep 2026 02:53:11 GMT"
+  },
+  {
+    "id": "108366667",
+    "title": "10-year Treasury yield rockets to 19-year high. Here's what's driving the spike",
+    "link": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+    "published": "Wed, 23 Sep 2026 20:07:50 GMT"
+  },
+  {
+    "id": "108367188",
+    "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+    "link": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+    "published": "Thu, 24 Sep 2026 01:56:50 GMT"
+  },
+  {
+    "id": "108366022",
+    "title": "Inside India newsletter: Apple set to take a bigger bite of the world\u2019s second-largest smartphone market",
+    "link": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
+    "published": "Thu, 24 Sep 2026 00:01:54 GMT"
+  },
+  {
+    "id": "108366783",
+    "title": "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions",
+    "link": "https://www.cnbc.com/2026/09/23/trump-diesel-export-ban-gas-prices.html",
+    "published": "Wed, 23 Sep 2026 19:30:54 GMT"
+  },
+  {
+    "id": "108366982",
+    "title": "Why McDonald's is following Walmart and Amazon into the advertising business",
+    "link": "https://www.cnbc.com/2026/09/23/why-mcdonalds-is-building-an-advertising-business.html",
+    "published": "Wed, 23 Sep 2026 20:21:17 GMT"
+  },
+  {
+    "id": "108366914",
+    "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+    "link": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html",
+    "published": "Wed, 23 Sep 2026 20:29:20 GMT"
+  },
+  {
+    "id": "108367041",
+    "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+    "link": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
+    "published": "Thu, 24 Sep 2026 02:50:12 GMT"
+  },
+  {
+    "id": "108366853",
+    "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
+    "link": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
+    "published": "Wed, 23 Sep 2026 17:38:47 GMT"
+  },
+  {
+    "id": "108367066",
+    "title": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+    "link": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+    "published": "Wed, 23 Sep 2026 21:22:30 GMT"
+  },
+  {
+    "id": "108367011",
+    "title": "Tesla Roadster reveal is creating a unique options opportunity, says Mike Khouw",
+    "link": "https://www.cnbc.com/2026/09/23/tesla-roadster-reveal-is-creating-a-unique-options-opportunity-says-mike-khouw.html",
+    "published": "Wed, 23 Sep 2026 18:52:11 GMT"
+  },
+  {
+    "id": "108366836",
+    "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
+    "link": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
+    "published": "Wed, 23 Sep 2026 18:12:18 GMT"
+  },
+  {
+    "id": "108366922",
+    "title": "A rare Microsoft bear warms up to the stock. Here's what changed their mind",
+    "link": "https://www.cnbc.com/2026/09/23/a-rare-microsoft-bear-warms-up-to-the-stock-heres-what-changed-their-mind.html",
+    "published": "Wed, 23 Sep 2026 19:53:16 GMT"
+  },
+  {
+    "id": "108366792",
+    "title": "New Social Security bill would lower retirement age to 60 for some workers",
+    "link": "https://www.cnbc.com/2026/09/23/social-security-retirement-age-physical-jobs.html",
+    "published": "Wed, 23 Sep 2026 17:58:47 GMT"
+  },
+  {
+    "id": "108366801",
+    "title": "Higher interest rates squeeze younger and lower-income households. 'A rate hike is a blunt tool,' says expert",
+    "link": "https://www.cnbc.com/2026/09/23/fed-rate-hike-borrowing-costs.html",
+    "published": "Wed, 23 Sep 2026 19:31:08 GMT"
+  },
+  {
+    "id": "108366925",
+    "title": "Federal prosecutors probe Jeffrey Epstein estate executors, WSJ reports",
+    "link": "https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html",
+    "published": "Wed, 23 Sep 2026 18:41:23 GMT"
+  },
+  {
+    "id": "108366574",
+    "title": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
+    "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
+    "published": "Wed, 23 Sep 2026 20:23:52 GMT"
+  },
+  {
+    "id": "108365760",
+    "title": "72% of Americans would slow financial progress to enjoy life now, SoFi survey finds",
+    "link": "https://www.cnbc.com/2026/09/23/lifemaxxing-financial-goals-spending-saving.html",
+    "published": "Wed, 23 Sep 2026 13:19:37 GMT"
+  },
+  {
+    "id": "108366542",
+    "title": "Affordability concerns loom large for advisors' clients ahead of midterm elections, survey finds",
+    "link": "https://www.cnbc.com/2026/09/23/social-security-medicare-affordability-cfp-survey.html",
+    "published": "Wed, 23 Sep 2026 15:18:45 GMT"
+  },
+  {
+    "id": "108366793",
+    "title": "Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale",
+    "link": "https://www.cnbc.com/2026/09/23/activist-toms-capital-urges-devon-energy-in-letter-to-explore-alternatives-including-a-sale.html",
+    "published": "Wed, 23 Sep 2026 16:34:36 GMT"
+  },
+  {
+    "id": "108366743",
+    "title": "IonQ shares rise after company says it made a major quantum computing breakthrough",
+    "link": "https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html",
+    "published": "Wed, 23 Sep 2026 15:37:43 GMT"
+  },
+  {
+    "id": "108366345",
+    "title": "McDonald's stock falls as it unveils plan to spend big on restaurant upgrades",
+    "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
+    "published": "Wed, 23 Sep 2026 17:09:22 GMT"
+  },
+  {
+    "id": "108366341",
+    "title": "The timely tax strategy that can help bond investors make the best of runaway yields and big losses",
+    "link": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
+    "published": "Wed, 23 Sep 2026 23:47:41 GMT"
+  },
+  {
+    "id": "108366047",
+    "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+    "link": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+    "published": "Wed, 23 Sep 2026 17:39:36 GMT"
+  },
+  {
+    "id": "108366744",
+    "title": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty",
+    "link": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
+    "published": "Wed, 23 Sep 2026 18:06:25 GMT"
+  },
+  {
+    "id": "108366638",
+    "title": "Iran says Trump\u2019s threats a sign of \u2018strategic desperation,\u2019 floats conditions for Hormuz reopening",
+    "link": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+    "published": "Wed, 23 Sep 2026 14:47:28 GMT"
+  },
+  {
+    "id": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+    "title": "Feds Target AI Critics as \"Foreign Agents\"",
+    "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+    "published": "Thu, 24 Sep 2026 00:41:31 +0000"
+  },
+  {
+    "id": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+    "title": "Linux support is coming to Snapdragon X2 Series",
+    "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+    "published": "Wed, 23 Sep 2026 22:38:16 +0000"
+  },
+  {
+    "id": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "published": "Wed, 23 Sep 2026 18:06:47 +0000"
+  },
+  {
+    "id": "https://www.meta.com/vr-glasses/",
+    "title": "Meta VR Glasses",
+    "link": "https://www.meta.com/vr-glasses/",
+    "published": "Wed, 23 Sep 2026 23:47:56 +0000"
+  },
+  {
+    "id": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+    "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+    "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+    "published": "Wed, 23 Sep 2026 22:45:49 +0000"
+  },
+  {
+    "id": "https://fly.io/blog/vscode-ssh-wtf/",
+    "title": "VSCode's SSH Agent Is Bananas (2025)",
+    "link": "https://fly.io/blog/vscode-ssh-wtf/",
+    "published": "Wed, 23 Sep 2026 21:01:48 +0000"
+  },
+  {
+    "id": "https://github.com/nestrilabs/virtio-nvgpu",
+    "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+    "link": "https://github.com/nestrilabs/virtio-nvgpu",
+    "published": "Thu, 24 Sep 2026 01:02:23 +0000"
+  },
+  {
+    "id": "https://www.mini-itx.com/projects/windowsxpbox/",
+    "title": "The \"Windows XP Box\" (2003)",
+    "link": "https://www.mini-itx.com/projects/windowsxpbox/",
+    "published": "Tue, 22 Sep 2026 03:09:04 +0000"
+  },
+  {
+    "id": "https://pointinthecloud.com/2026-04-11-211700.html",
+    "title": "Fixing the Portobello Police Station Clock",
+    "link": "https://pointinthecloud.com/2026-04-11-211700.html",
+    "published": "Wed, 23 Sep 2026 15:18:53 +0000"
+  },
+  {
+    "id": "https://artificialanalysis.ai/models/mercury-2-5",
+    "title": "Mercury 2.5 LLM hits 770 tokens per second",
+    "link": "https://artificialanalysis.ai/models/mercury-2-5",
+    "published": "Wed, 23 Sep 2026 22:16:19 +0000"
+  },
+  {
+    "id": "https://blog.cloudflare.com/vary-support/",
+    "title": "We just shipped support for the ugliest part of HTTP: Vary",
+    "link": "https://blog.cloudflare.com/vary-support/",
+    "published": "Wed, 23 Sep 2026 22:03:21 +0000"
+  },
+  {
+    "id": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+    "title": "Italian parliament votes for return to nuclear energy",
+    "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+    "published": "Wed, 23 Sep 2026 17:06:16 +0000"
+  },
+  {
+    "id": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+    "title": "FLAWED's Flaws and What This Means for Industry Research",
+    "link": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
+    "published": "Thu, 24 Sep 2026 01:16:33 +0000"
+  },
+  {
+    "id": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+    "title": "The mystery animal on an ancient god's head",
+    "link": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+    "published": "Tue, 22 Sep 2026 12:00:11 +0000"
+  },
+  {
+    "id": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+    "title": "Australia says OpenAI agent hacked into government website",
+    "link": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+    "published": "Thu, 24 Sep 2026 01:24:00 +0000"
+  },
+  {
+    "id": "https://tailscale.com/blog/making-tailscale-faster",
+    "title": "Making Tailscale Faster",
+    "link": "https://tailscale.com/blog/making-tailscale-faster",
+    "published": "Wed, 23 Sep 2026 17:49:07 +0000"
+  },
+  {
+    "id": "https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/",
+    "title": "Show HN: Combinators in Array Languages",
+    "link": "https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/",
+    "published": "Mon, 21 Sep 2026 18:03:58 +0000"
+  },
+  {
+    "id": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+    "title": "A brief history of Windows scroll bar shortcuts",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+    "published": "Wed, 23 Sep 2026 18:02:08 +0000"
+  },
+  {
+    "id": "https://huggingface.co/apple/LensVLM-9B",
+    "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+    "link": "https://huggingface.co/apple/LensVLM-9B",
+    "published": "Wed, 23 Sep 2026 18:36:29 +0000"
+  },
+  {
+    "id": "https://carbon.ms/self-hosted",
+    "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
+    "link": "https://carbon.ms/self-hosted",
+    "published": "Thu, 24 Sep 2026 00:45:17 +0000"
+  },
+  {
+    "id": "https://jyn.dev/tokens-too-cheap-to-meter/",
+    "title": "Tokens too cheap to meter",
+    "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
+    "published": "Wed, 23 Sep 2026 09:21:17 +0000"
+  },
+  {
+    "id": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
+    "title": "The Curious Power of Punctuation",
+    "link": "https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review",
+    "published": "Tue, 22 Sep 2026 19:02:37 +0000"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "title": "Gemini 3.8 text-to-speech",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "published": "Wed, 23 Sep 2026 15:29:23 +0000"
+  },
+  {
+    "id": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+    "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+    "link": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+    "published": "Wed, 23 Sep 2026 15:23:05 +0000"
+  },
+  {
+    "id": "https://sam.dev/blog/faster-sha1-collision-detection",
+    "title": "Solving for faster SHA-1 collision detection",
+    "link": "https://sam.dev/blog/faster-sha1-collision-detection",
+    "published": "Mon, 21 Sep 2026 18:46:17 +0000"
+  },
+  {
+    "id": "https://augusto.at/augustosfaces/",
+    "title": "Augustofaces: Pareidolia Fine Art",
+    "link": "https://augusto.at/augustosfaces/",
+    "published": "Tue, 22 Sep 2026 22:52:11 +0000"
+  },
+  {
+    "id": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
+    "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+    "link": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
+    "published": "Wed, 23 Sep 2026 18:07:04 +0000"
+  },
+  {
+    "id": "https://michaelheap.com/i-dont-want-the-details/",
+    "title": "I don't want the details",
+    "link": "https://michaelheap.com/i-dont-want-the-details/",
+    "published": "Wed, 23 Sep 2026 13:04:44 +0000"
+  },
+  {
+    "id": "https://www.pnas.org/doi/10.1073/pnas.2534899123",
+    "title": "A refined phylochronology of the second plague pandemic in Western Eurasia",
+    "link": "https://www.pnas.org/doi/10.1073/pnas.2534899123",
+    "published": "Mon, 21 Sep 2026 00:06:21 +0000"
+  },
+  {
+    "id": "https://abagames.github.io/z80-repl/index.html",
+    "title": "Z80 REPL (2018)",
+    "link": "https://abagames.github.io/z80-repl/index.html",
+    "published": "Wed, 23 Sep 2026 11:04:52 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/top-engineering-skills",
+    "title": "3 Skills That Will Matter More in the Age of AI",
+    "link": "https://spectrum.ieee.org/top-engineering-skills",
+    "published": "Wed, 23 Sep 2026 15:40:04 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168527",
+    "title": "Everything new coming to Meta\u2019s AI agent Muse",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "published": "Thu, 24 Sep 2026 01:13:32 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168692",
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "published": "Thu, 24 Sep 2026 00:46:17 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168624",
+    "title": "Meta is trying VR glasses (again), this time with more IMAX",
+    "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+    "published": "Wed, 23 Sep 2026 23:47:35 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168626",
+    "title": "Meta introduces camera-free AI glasses",
+    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "published": "Wed, 23 Sep 2026 23:39:44 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168578",
+    "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+    "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+    "published": "Wed, 23 Sep 2026 23:33:22 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168463",
+    "title": "Anthropic says its biology lab has already found something big",
+    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "published": "Wed, 23 Sep 2026 22:17:39 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168477",
+    "title": "If Amazon doesn\u2019t know how to eliminate carbon emissions, then who does?",
+    "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+    "published": "Wed, 23 Sep 2026 21:21:33 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168347",
+    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+    "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+    "published": "Wed, 23 Sep 2026 20:35:17 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168393",
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "published": "Wed, 23 Sep 2026 19:31:28 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3167026",
+    "title": "Modal Motors is trying to cut China out of electric motors entirely",
+    "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+    "published": "Wed, 23 Sep 2026 19:05:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168365",
+    "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
+    "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+    "published": "Wed, 23 Sep 2026 18:06:27 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3168384",
+    "title": "The old cybersecurity model is breaking",
+    "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+    "published": "Wed, 23 Sep 2026 17:44:02 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168238",
+    "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+    "link": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+    "published": "Wed, 23 Sep 2026 17:28:38 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168173",
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "published": "Wed, 23 Sep 2026 17:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168123",
+    "title": "Even Americans who use AI every day are worried about it",
+    "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+    "published": "Wed, 23 Sep 2026 16:49:58 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168207",
+    "title": "YouTube is making comments more fun \u2014 and fandom more lucrative for creators",
+    "link": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+    "published": "Wed, 23 Sep 2026 16:03:44 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168202",
+    "title": "YouTube\u2019s conversational video editing tool lets creators make edits in natural language",
+    "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+    "published": "Wed, 23 Sep 2026 15:46:57 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3168211",
+    "title": "YouTube Music gets more conversational with new AI features",
+    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "published": "Wed, 23 Sep 2026 15:19:30 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3166881",
+    "title": "Eight Sleep\u2019s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
+    "link": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
+    "published": "Wed, 23 Sep 2026 14:45:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3167584",
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "published": "Wed, 23 Sep 2026 14:30:00 +0000"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
+    "title": "The problem(s) with utilitarianism",
+    "link": "https://www.noahpinion.blog/p/the-problems-with-utilitarianism",
+    "published": "Tue, 22 Sep 2026 08:53:46 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/how-we-can-beat-china",
+    "title": "How we can beat China",
+    "link": "https://www.noahpinion.blog/p/how-we-can-beat-china",
+    "published": "Sun, 20 Sep 2026 09:51:30 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/roundup-88-is-it-time-to-panic-yet",
+    "title": "Roundup #88: Is it time to panic yet?",
+    "link": "https://www.noahpinion.blog/p/roundup-88-is-it-time-to-panic-yet",
+    "published": "Fri, 18 Sep 2026 09:04:11 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/the-anti-american-right",
+    "title": "The anti-American Right",
+    "link": "https://www.noahpinion.blog/p/the-anti-american-right",
+    "published": "Wed, 16 Sep 2026 06:08:15 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/two-missing-pieces-in-the-ai-safety",
+    "title": "Two missing pieces in the AI safety discussion",
+    "link": "https://www.noahpinion.blog/p/two-missing-pieces-in-the-ai-safety",
+    "published": "Mon, 14 Sep 2026 01:43:28 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/get-the-middle-east-out-of-my-politics",
+    "title": "Get the Middle East out of my politics!",
+    "link": "https://www.noahpinion.blog/p/get-the-middle-east-out-of-my-politics",
+    "published": "Sat, 12 Sep 2026 08:44:47 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/liberalism-needs-a-new-philosophy",
+    "title": "Liberalism needs a new philosophy of immigration",
+    "link": "https://www.noahpinion.blog/p/liberalism-needs-a-new-philosophy",
+    "published": "Wed, 09 Sep 2026 08:39:04 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
+    "title": "AI keeps stubbornly refusing to take our jobs",
+    "link": "https://www.noahpinion.blog/p/ai-keeps-stubbornly-refusing-to-take",
+    "published": "Mon, 07 Sep 2026 08:13:49 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/america-is-still-beating-china-in",
+    "title": "America is still beating China in the AI race",
+    "link": "https://www.noahpinion.blog/p/america-is-still-beating-china-in",
+    "published": "Sat, 05 Sep 2026 07:36:17 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/why-you-wont-get-a-flying-car",
+    "title": "Why you won\u2019t get a flying car",
+    "link": "https://www.noahpinion.blog/p/why-you-wont-get-a-flying-car",
+    "published": "Thu, 03 Sep 2026 09:55:22 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/roundup-87-technology-bad",
+    "title": "Roundup #87: Technology BAD!!",
+    "link": "https://www.noahpinion.blog/p/roundup-87-technology-bad",
+    "published": "Tue, 01 Sep 2026 02:26:19 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/in-defense-of-asian-american-art",
+    "title": "In defense of Asian American art",
+    "link": "https://www.noahpinion.blog/p/in-defense-of-asian-american-art",
+    "published": "Sun, 30 Aug 2026 00:15:19 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
+    "title": "Here\u2019s how we\u2019re all going to die",
+    "link": "https://www.noahpinion.blog/p/heres-how-were-all-going-to-die",
+    "published": "Fri, 28 Aug 2026 09:48:43 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/the-death-of-market-street",
+    "title": "The death of Market Street",
+    "link": "https://www.noahpinion.blog/p/the-death-of-market-street",
+    "published": "Wed, 26 Aug 2026 09:12:35 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
+    "title": "What if our biggest problems aren\u2019t economic?",
+    "link": "https://www.noahpinion.blog/p/what-if-our-biggest-problems-arent",
+    "published": "Mon, 24 Aug 2026 08:46:48 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
+    "title": "Are we watching the U.S. go bankrupt?",
+    "link": "https://www.noahpinion.blog/p/are-we-watching-the-us-go-bankrupt",
+    "published": "Sat, 22 Aug 2026 01:47:17 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/economists-should-be-worried-about",
+    "title": "Economists should be worried about birth rates",
+    "link": "https://www.noahpinion.blog/p/economists-should-be-worried-about",
+    "published": "Wed, 19 Aug 2026 23:27:31 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
+    "title": "Where to eat in San Francisco",
+    "link": "https://www.noahpinion.blog/p/where-to-eat-in-san-francisco",
+    "published": "Tue, 18 Aug 2026 05:21:55 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/the-end-of-an-era-for-chinas-economy",
+    "title": "The end of an era for China's economy",
+    "link": "https://www.noahpinion.blog/p/the-end-of-an-era-for-chinas-economy",
+    "published": "Sun, 16 Aug 2026 07:26:51 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
+    "title": "23 low-regret recommendations for AI policy",
+    "link": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
+    "published": "Fri, 14 Aug 2026 01:39:37 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93874",
+    "title": "From the Master of Industrial Organization",
+    "link": "https://feeds.feedblitz.com/~/969660365/0/marginalrevolution~From-the-Master-of-Industrial-Organization.html",
+    "published": "Wed, 23 Sep 2026 21:40:20 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93867",
+    "title": "Optimal liability for offensive and defensive AI",
+    "link": "https://feeds.feedblitz.com/~/969622667/0/marginalrevolution~Optimal-liability-for-offensive-and-defensive-AI.html",
+    "published": "Wed, 23 Sep 2026 18:03:36 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93866",
+    "title": "Wednesday assorted links",
+    "link": "https://feeds.feedblitz.com/~/969601814/0/marginalrevolution~Wednesday-assorted-links.html",
+    "published": "Wed, 23 Sep 2026 15:48:52 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93870",
+    "title": "The Price of Intelligence is Falling Rapidly",
+    "link": "https://feeds.feedblitz.com/~/969549917/0/marginalrevolution~The-Price-of-Intelligence-is-Falling-Rapidly.html",
+    "published": "Wed, 23 Sep 2026 11:17:32 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=93835",
+    "title": "What I\u2019ve been reading",
+    "link": "https://feeds.feedblitz.com/~/969521099/0/marginalrevolution~What-Ive-been-reading.html",
+    "published": "Wed, 23 Sep 2026 04:40:51 +0000"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/the-business-of-building-god",
+    "title": "The Business of Building God",
+    "link": "https://www.strangeloopcanon.com/p/the-business-of-building-god",
+    "published": "Mon, 21 Sep 2026 19:07:03 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/how-to-control-an-agent-swarm",
+    "title": "How to control an agent swarm",
+    "link": "https://www.strangeloopcanon.com/p/how-to-control-an-agent-swarm",
+    "published": "Mon, 31 Aug 2026 19:45:36 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/who-wins-as-intelligence-commodifies",
+    "title": "Who Wins As Intelligence Commodifies?",
+    "link": "https://www.strangeloopcanon.com/p/who-wins-as-intelligence-commodifies",
+    "published": "Wed, 26 Aug 2026 19:44:54 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/ais-are-companies-my-friend",
+    "title": "AIs are companies, my friend",
+    "link": "https://www.strangeloopcanon.com/p/ais-are-companies-my-friend",
+    "published": "Fri, 21 Aug 2026 17:44:26 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/nobody-knows-anything",
+    "title": "Nobody Knows Anything",
+    "link": "https://www.strangeloopcanon.com/p/nobody-knows-anything",
+    "published": "Sun, 16 Aug 2026 18:08:46 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/llm-councils-show-groupthink",
+    "title": "LLM councils show groupthink",
+    "link": "https://www.strangeloopcanon.com/p/llm-councils-show-groupthink",
+    "published": "Mon, 15 Jun 2026 12:02:43 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/who-audits-the-auditors",
+    "title": "Who Audits the Auditors?",
+    "link": "https://www.strangeloopcanon.com/p/who-audits-the-auditors",
+    "published": "Tue, 26 May 2026 18:00:49 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/introducing-benchbench",
+    "title": "Introducing BenchBench",
+    "link": "https://www.strangeloopcanon.com/p/introducing-benchbench",
+    "published": "Mon, 25 May 2026 21:24:05 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/homo-agenticus",
+    "title": "Homo Agenticus",
+    "link": "https://www.strangeloopcanon.com/p/homo-agenticus",
+    "published": "Thu, 21 May 2026 18:01:21 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/artificial-life-artificial-intelligence",
+    "title": "Artificial Life, Artificial Intelligence",
+    "link": "https://www.strangeloopcanon.com/p/artificial-life-artificial-intelligence",
+    "published": "Thu, 14 May 2026 18:36:21 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/the-spinosaurus-problem-or-exploring",
+    "title": "Experiments with Vibe Science",
+    "link": "https://www.strangeloopcanon.com/p/the-spinosaurus-problem-or-exploring",
+    "published": "Sat, 09 May 2026 12:55:18 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/why-smart-planners-lose-to-simple",
+    "title": "Why Coase needs Hayek",
+    "link": "https://www.strangeloopcanon.com/p/why-smart-planners-lose-to-simple",
+    "published": "Sat, 02 May 2026 12:02:11 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/agent-know-thyself-and-bid-accordingly",
+    "title": "Agent, Know Thyself! (and bid accordingly)",
+    "link": "https://www.strangeloopcanon.com/p/agent-know-thyself-and-bid-accordingly",
+    "published": "Mon, 27 Apr 2026 15:03:23 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/when-aligned-agents-build-misaligned",
+    "title": "Aligned Agents Still Build Misaligned Organisations",
+    "link": "https://www.strangeloopcanon.com/p/when-aligned-agents-build-misaligned",
+    "published": "Fri, 24 Apr 2026 17:01:41 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/deciphering-papyri",
+    "title": "Deciphering Papyri",
+    "link": "https://www.strangeloopcanon.com/p/deciphering-papyri",
+    "published": "Fri, 24 Apr 2026 06:14:05 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/llm-enron-experiments-on-structure",
+    "title": "LLM Enron: experiments on structure vs scale",
+    "link": "https://www.strangeloopcanon.com/p/llm-enron-experiments-on-structure",
+    "published": "Fri, 24 Apr 2026 06:09:47 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/can-we-build-a-management-flight",
+    "title": "Can we build a management flight simulator?",
+    "link": "https://www.strangeloopcanon.com/p/can-we-build-a-management-flight",
+    "published": "Mon, 20 Apr 2026 12:02:56 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/notes-on-hong-kong",
+    "title": "Notes on Hong Kong",
+    "link": "https://www.strangeloopcanon.com/p/notes-on-hong-kong",
+    "published": "Sun, 12 Apr 2026 03:18:53 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/the-future-of-work-is-world-models",
+    "title": "The future of work is world models",
+    "link": "https://www.strangeloopcanon.com/p/the-future-of-work-is-world-models",
+    "published": "Sat, 21 Mar 2026 12:31:41 GMT"
+  },
+  {
+    "id": "https://www.strangeloopcanon.com/p/vignettes-from-the-takeoff",
+    "title": "Vignettes from the Takeoff",
+    "link": "https://www.strangeloopcanon.com/p/vignettes-from-the-takeoff",
+    "published": "Sat, 14 Mar 2026 11:31:41 GMT"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=167361",
+    "title": "Biology Might Not Be Quantum, but Its Math Is Quantumlike",
+    "link": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+    "published": "Wed, 23 Sep 2026 14:16:54 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3179498",
+    "title": "Finally, a true blue rose exists",
+    "link": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+    "published": "Wed, 23 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3179428",
+    "title": "First series of adult T. rex footprints hints at its walking speed",
+    "link": "https://www.sciencenews.org/article/t-rex-preserved-footprints-speed-first",
+    "published": "Wed, 23 Sep 2026 13:00:00 +0000"
+  }
+]
