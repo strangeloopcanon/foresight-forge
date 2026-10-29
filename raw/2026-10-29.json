@@ -1,0 +1,614 @@
+[
+  {
+    "id": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html",
+    "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
+    "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html",
+    "published": "Thu, 29 Oct 2026 04:30:48 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
+    "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
+    "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
+    "published": "Thu, 29 Oct 2026 01:01:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
+    "title": "Inside Democrats\u2019 Secret Effort to Stack Alaska\u2019s Midterm Ballot With Another Dan Sullivan",
+    "link": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
+    "published": "Wed, 28 Oct 2026 14:37:47 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/us/politics/stevens-el-sayed-senate-democrats-michigan.html",
+    "title": "In Michigan, El-Sayed Faces Heat From Former Primary Rival as Election Nears",
+    "link": "https://www.nytimes.com/2026/10/28/us/politics/stevens-el-sayed-senate-democrats-michigan.html",
+    "published": "Thu, 29 Oct 2026 03:39:13 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html",
+    "title": "Judge Rejects Trump Officials\u2019 Bid to Set Aside California Ballots",
+    "link": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html",
+    "published": "Thu, 29 Oct 2026 03:14:32 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+    "title": "Fl\u00e1vio Bolsonaro Lands in Miami After Fleeing Brazil",
+    "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
+    "published": "Wed, 28 Oct 2026 23:04:44 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
+    "title": "How Andr\u00e9 Janones Helped Turbocharge Lula\u2019s Comeback in Brazil\u2019s Election",
+    "link": "https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html",
+    "published": "Wed, 28 Oct 2026 20:35:54 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
+    "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
+    "link": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
+    "published": "Thu, 29 Oct 2026 00:53:39 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/29/world/europe/a-ukrainian-city-in-the-kill-zone-relishes-a-moment-of-peace.html",
+    "title": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
+    "link": "https://www.nytimes.com/2026/10/29/world/europe/a-ukrainian-city-in-the-kill-zone-relishes-a-moment-of-peace.html",
+    "published": "Thu, 29 Oct 2026 04:01:08 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
+    "title": "Spain Train Crash Kills at Least 68",
+    "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
+    "published": "Wed, 28 Oct 2026 20:26:04 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
+    "title": "Is There a \u2018Safest Seat\u2019 in a Train Crash? Experts Say It\u2019s Not So Simple.",
+    "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
+    "published": "Thu, 29 Oct 2026 03:16:41 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+    "title": "Israel\u2019s Parties Gird for Wrangling to Form a Government, With No Clear Path",
+    "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html",
+    "published": "Thu, 29 Oct 2026 02:27:45 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html",
+    "title": "Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight",
+    "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html",
+    "published": "Thu, 29 Oct 2026 00:25:15 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
+    "title": "Vance Proposes Restarting Peace Talks in Outreach to Iranian Official",
+    "link": "https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html",
+    "published": "Thu, 29 Oct 2026 02:15:19 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
+    "title": "Cuauht\u00e9moc C\u00e1rdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
+    "link": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
+    "published": "Thu, 29 Oct 2026 04:08:43 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html",
+    "title": "She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.",
+    "link": "https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html",
+    "published": "Thu, 29 Oct 2026 01:03:42 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
+    "title": "What Does the Cheesecake Factory\u2019s Designer Think of Obama and Trump\u2019s Jabs at His D\u00e9cor?",
+    "link": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
+    "published": "Wed, 28 Oct 2026 17:55:11 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/opinion/ai-job-replacement-unions-san-francisco.html",
+    "title": "Worried About A.I. Taking Your Job? This Is for You.",
+    "link": "https://www.nytimes.com/2026/10/28/opinion/ai-job-replacement-unions-san-francisco.html",
+    "published": "Wed, 28 Oct 2026 21:45:40 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-california-legacy.html",
+    "title": "In Her Final Months, Dolores Huerta Was Lauded for Revealing a Deep Secret",
+    "link": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-california-legacy.html",
+    "published": "Thu, 29 Oct 2026 01:47:04 +0000"
+  },
+  {
+    "id": "WP-MKTW-0005314047",
+    "title": "Why Alphabet\u2019s stock could see its worst drop in years after the latest results",
+    "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+    "published": "Thu, 29 Oct 2026 01:58:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005313959",
+    "title": "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell",
+    "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+    "published": "Thu, 29 Oct 2026 00:20:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005314239",
+    "title": "The major reason Microsoft\u2019s stock is heading higher after earnings",
+    "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+    "published": "Thu, 29 Oct 2026 00:10:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005313894",
+    "title": "Fortinet\u2019s stock is taking a dive after earnings. Here\u2019s why.",
+    "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+    "published": "Wed, 28 Oct 2026 23:18:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005311579",
+    "title": "ServiceNow\u2019s stock slides as earnings miss overshadows a raised AI outlook",
+    "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+    "published": "Wed, 28 Oct 2026 23:02:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005307492",
+    "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+    "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+    "published": "Wed, 28 Oct 2026 22:41:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005313125",
+    "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
+    "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+    "published": "Wed, 28 Oct 2026 22:25:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005306475",
+    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    "published": "Wed, 28 Oct 2026 21:45:00 GMT"
+  },
+  {
+    "id": "108466880",
+    "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+    "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+    "published": "Thu, 29 Oct 2026 04:00:51 GMT"
+  },
+  {
+    "id": "108477992",
+    "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+    "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+    "published": "Thu, 29 Oct 2026 04:29:32 GMT"
+  },
+  {
+    "id": "108470432",
+    "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+    "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+    "published": "Wed, 28 Oct 2026 22:07:17 GMT"
+  },
+  {
+    "id": "108470631",
+    "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+    "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+    "published": "Thu, 29 Oct 2026 02:49:39 GMT"
+  },
+  {
+    "id": "108477039",
+    "title": "As Waymo expands overseas, it remains a niche cash-burning business",
+    "link": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
+    "published": "Wed, 28 Oct 2026 23:53:58 GMT"
+  },
+  {
+    "id": "108476332",
+    "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+    "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+    "published": "Wed, 28 Oct 2026 21:31:46 GMT"
+  },
+  {
+    "id": "108470267",
+    "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+    "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+    "published": "Wed, 28 Oct 2026 22:34:56 GMT"
+  },
+  {
+    "id": "108472496",
+    "title": "China\u2019s tech darlings are losing their shine. Here\u2019s what\u2019s behind the sell-off",
+    "link": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+    "published": "Thu, 29 Oct 2026 02:14:14 GMT"
+  },
+  {
+    "id": "108473423",
+    "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+    "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
+    "published": "Wed, 28 Oct 2026 20:17:19 GMT"
+  },
+  {
+    "id": "108475125",
+    "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+    "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+    "published": "Wed, 28 Oct 2026 21:06:37 GMT"
+  },
+  {
+    "id": "108471785",
+    "title": "One passport isn\u2019t enough for some wealthy Chinese. Here\u2019s where they\u2019re looking next",
+    "link": "https://www.cnbc.com/2026/10/29/where-chinas-wealthy-are-turning-for-second-passports.html",
+    "published": "Wed, 28 Oct 2026 23:38:00 GMT"
+  },
+  {
+    "id": "108476025",
+    "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+    "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+    "published": "Thu, 29 Oct 2026 00:16:39 GMT"
+  },
+  {
+    "id": "108476072",
+    "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
+    "link": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
+    "published": "Wed, 28 Oct 2026 22:38:41 GMT"
+  },
+  {
+    "id": "108468414",
+    "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+    "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
+    "published": "Thu, 29 Oct 2026 00:11:14 GMT"
+  },
+  {
+    "id": "108475914",
+    "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
+    "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
+    "published": "Wed, 28 Oct 2026 19:53:50 GMT"
+  },
+  {
+    "id": "108476682",
+    "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
+    "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+    "published": "Wed, 28 Oct 2026 23:17:17 GMT"
+  },
+  {
+    "id": "108474734",
+    "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+    "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+    "published": "Wed, 28 Oct 2026 22:12:28 GMT"
+  },
+  {
+    "id": "108475927",
+    "title": "Three media outlets seek full White House access in amended lawsuit",
+    "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+    "published": "Wed, 28 Oct 2026 20:21:03 GMT"
+  },
+  {
+    "id": "108464432",
+    "title": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+    "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+    "published": "Wed, 28 Oct 2026 20:59:23 GMT"
+  },
+  {
+    "id": "108474339",
+    "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+    "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+    "published": "Wed, 28 Oct 2026 22:27:00 GMT"
+  },
+  {
+    "id": "108464225",
+    "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+    "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+    "published": "Wed, 28 Oct 2026 21:42:24 GMT"
+  },
+  {
+    "id": "108477597",
+    "title": "Microsoft\u2019s strong quarter backs up its stock rebound. Here's our new price target",
+    "link": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
+    "published": "Thu, 29 Oct 2026 00:32:02 GMT"
+  },
+  {
+    "id": "108476191",
+    "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+    "link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+    "published": "Wed, 28 Oct 2026 21:58:51 GMT"
+  },
+  {
+    "id": "108476044",
+    "title": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
+    "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
+    "published": "Wed, 28 Oct 2026 20:00:44 GMT"
+  },
+  {
+    "id": "108474400",
+    "title": "Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain",
+    "link": "https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html",
+    "published": "Wed, 28 Oct 2026 14:35:51 GMT"
+  },
+  {
+    "id": "108472832",
+    "title": "Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game",
+    "link": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
+    "published": "Wed, 28 Oct 2026 07:58:09 GMT"
+  },
+  {
+    "id": "108473432",
+    "title": "Luxury round-the-world cruise ends abruptly as fuel costs skyrocket",
+    "link": "https://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html",
+    "published": "Wed, 28 Oct 2026 11:39:44 GMT"
+  },
+  {
+    "id": "108475404",
+    "title": "Here is what changed in the new Fed statement",
+    "link": "https://www.cnbc.com/2026/10/28/fed-statement-redline-october-2026.html",
+    "published": "Wed, 28 Oct 2026 18:06:50 GMT"
+  },
+  {
+    "id": "108475140",
+    "title": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
+    "link": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
+    "published": "Wed, 28 Oct 2026 19:52:06 GMT"
+  },
+  {
+    "id": "108476039",
+    "title": "Fed chairman talks tough on inflation \u2014 plus, what's behind Micron's big rally",
+    "link": "https://www.cnbc.com/investingclub/2026/10/28/fed-chairman-talks-tough-on-inflation-plus-whats-behind-microns-big-rally.html",
+    "published": "Wed, 28 Oct 2026 19:17:35 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+    "title": "Your blood pressure could be dangerous even when your numbers look normal",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+    "published": "Wed, 28 Oct 2026 23:54:37 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+    "title": "Scientists just broke a textbook rule of physics",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+    "published": "Wed, 28 Oct 2026 23:39:27 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+    "title": "Meteors don't just burn up. What really happens is far more violent",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+    "published": "Wed, 28 Oct 2026 23:06:41 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+    "title": "Scientists discover a secret glow in toxic fire salamanders",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+    "published": "Wed, 28 Oct 2026 08:11:52 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+    "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+    "published": "Wed, 28 Oct 2026 21:13:05 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+    "title": "NASA\u2019s Artemis I mission reveals surprising radiation levels near the Moon",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+    "published": "Wed, 28 Oct 2026 06:29:36 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
+    "title": "Scientists discover a hidden 100-million-year-old volcanic system",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
+    "published": "Wed, 28 Oct 2026 08:00:17 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
+    "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
+    "published": "Wed, 28 Oct 2026 07:08:25 EDT"
+  },
+  {
+    "id": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+    "title": "Systems Thinking Is Vital in the Age of AI",
+    "link": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
+    "published": "Wed, 28 Oct 2026 18:00:02 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
+    "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
+    "link": "https://spectrum.ieee.org/beta-technologies-electric-aircraft",
+    "published": "Wed, 28 Oct 2026 13:00:03 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182918",
+    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "published": "Wed, 28 Oct 2026 23:15:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182920",
+    "title": "Apple\u2019s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+    "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+    "published": "Wed, 28 Oct 2026 22:47:50 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182841",
+    "title": "Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "published": "Wed, 28 Oct 2026 21:58:32 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182884",
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "published": "Wed, 28 Oct 2026 21:48:37 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182880",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "published": "Wed, 28 Oct 2026 21:34:30 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182838",
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "published": "Wed, 28 Oct 2026 21:25:30 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182746",
+    "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+    "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+    "published": "Wed, 28 Oct 2026 20:01:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182643",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "published": "Wed, 28 Oct 2026 19:19:58 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?post_type=tc_video&p=3182776",
+    "title": "Wiz\u2019s CTO on PHP2Shell and the coming \u2018vulnpocalypse\u2019",
+    "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "published": "Wed, 28 Oct 2026 19:05:46 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182446",
+    "title": "Apple launches its new touchscreen MacBook Pro",
+    "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+    "published": "Wed, 28 Oct 2026 17:26:10 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182477",
+    "title": "Xreal Aura is a new wired headset powered by Android XR",
+    "link": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182509",
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182578",
+    "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182510",
+    "title": "Reddit is the latest platform to embrace the \u2018For You\u2019 feed",
+    "link": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+    "published": "Wed, 28 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182042",
+    "title": "AI execs may be too out of touch to build for the general public",
+    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "published": "Wed, 28 Oct 2026 15:53:52 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182591",
+    "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+    "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+    "published": "Wed, 28 Oct 2026 15:53:21 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182513",
+    "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
+    "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "published": "Wed, 28 Oct 2026 15:41:18 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182159",
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "published": "Wed, 28 Oct 2026 15:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182490",
+    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+    "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "published": "Wed, 28 Oct 2026 14:34:25 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3182517",
+    "title": "TikTok expands into restaurant guides with \u2018Must Eat\u2019 feature",
+    "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+    "published": "Wed, 28 Oct 2026 14:26:36 +0000"
+  },
+  {
+    "id": "6ae225b423f007865389080e",
+    "title": "Post-Noise Notes on the Anthropic S-1",
+    "link": "https://paulkedrosky.com/post-noise-notes-on-the-anthropic-s-1/",
+    "published": "Wed, 28 Oct 2026 17:28:17 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94099",
+    "title": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
+    "link": "https://feeds.feedblitz.com/~/972063845/0/marginalrevolution~Errors-in-the-research-of-Emmanuel-Saez-and-Gabriel-Zucman.html",
+    "published": "Wed, 28 Oct 2026 18:56:51 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94092",
+    "title": "How is AI shaping economic research?",
+    "link": "https://feeds.feedblitz.com/~/972063848/0/marginalrevolution~How-is-AI-shaping-economic-research.html",
+    "published": "Wed, 28 Oct 2026 18:52:56 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94090",
+    "title": "Wednesday assorted links",
+    "link": "https://feeds.feedblitz.com/~/972059501/0/marginalrevolution~Wednesday-assorted-links.html",
+    "published": "Wed, 28 Oct 2026 15:55:58 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94088",
+    "title": "Inequality in Equal Land",
+    "link": "https://feeds.feedblitz.com/~/972047792/0/marginalrevolution~Inequality-in-Equal-Land.html",
+    "published": "Wed, 28 Oct 2026 11:18:28 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94091",
+    "title": "AI hacking risks",
+    "link": "https://feeds.feedblitz.com/~/972041051/0/marginalrevolution~AI-hacking-risks.html",
+    "published": "Wed, 28 Oct 2026 04:38:22 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=168359",
+    "title": "How Spiders Spin \u2018Silk Dope\u2019 Into Nature\u2019s Toughest Material",
+    "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+    "published": "Wed, 28 Oct 2026 16:04:18 +0000"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
+    "title": "A single sauna session sends immune cells surging through your body",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
+    "published": "Wed, 28 Oct 2026 08:37:31 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
+    "title": "Smaller EV batteries, longer range? Scientists may have found a way",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
+    "published": "Wed, 28 Oct 2026 08:25:43 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
+    "title": "Scientists discover a hidden reason why muscles weaken with age",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
+    "published": "Wed, 28 Oct 2026 09:04:55 EDT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
+    "title": "Antarctica\u2019s \u201cDoomsday Glacier\u201d could raise sea levels twice as much as predicted",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261027063701.htm",
+    "published": "Wed, 28 Oct 2026 05:22:09 EDT"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3180976",
+    "title": "Three-quarters of NFL football players may end up with CTE",
+    "link": "https://www.sciencenews.org/article/football-nfl-players-cte-brain-disease",
+    "published": "Wed, 28 Oct 2026 15:32:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3180763",
+    "title": "Why do flamingos dance while they eat? This scientist found out",
+    "link": "https://www.sciencenews.org/article/flamingos-dance-eat-scientist",
+    "published": "Wed, 28 Oct 2026 12:29:30 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3180959",
+    "title": "Comets probably didn\u2019t deliver life\u2019s building blocks to Earth",
+    "link": "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp",
+    "published": "Wed, 28 Oct 2026 10:00:00 +0000"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+    "title": "Federal Reserve issues FOMC statement",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+    "published": "Wed, 28 Oct 2026 18:00:00 GMT"
+  }
+]
