@@ -1,0 +1,806 @@
+[
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
+    "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
+    "link": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
+    "published": "Tue, 10 Nov 2026 05:47:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/congress-democratic-long-shots.html",
+    "title": "In a Democratic Wave, Even the Long Shots Defied the Odds",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-democratic-long-shots.html",
+    "published": "Mon, 09 Nov 2026 22:11:58 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+    "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
+    "published": "Mon, 09 Nov 2026 22:35:06 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
+    "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
+    "published": "Mon, 09 Nov 2026 18:37:12 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
+    "title": "Congress Has Reined In the Presidency Before. Here\u2019s How to Do It.",
+    "link": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
+    "published": "Mon, 09 Nov 2026 23:47:28 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+    "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+    "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+    "published": "Mon, 09 Nov 2026 23:27:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+    "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+    "published": "Tue, 10 Nov 2026 02:13:11 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
+    "title": "Democrats Demand Answers on Trump\u2019s A.I. Policy Amid Spy Plot",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
+    "published": "Mon, 09 Nov 2026 23:48:34 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/well/heds-eds-hypermobile.html",
+    "title": "For Years, She Felt Awful. Her Flexible Joints Held a Clue.",
+    "link": "https://www.nytimes.com/2026/11/09/well/heds-eds-hypermobile.html",
+    "published": "Mon, 09 Nov 2026 14:22:23 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
+    "title": "Iran War Unexpectedly Drove Down Carbon Emissions This Year",
+    "link": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
+    "published": "Tue, 10 Nov 2026 01:01:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+    "title": "What Is Congress\u2019s Plan to Speed Up Energy Permits?",
+    "link": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+    "published": "Tue, 10 Nov 2026 01:30:26 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+    "title": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+    "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+    "published": "Tue, 10 Nov 2026 00:51:53 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+    "title": "China\u2019s Trade Surplus Passes $1 Trillion at Record Pace",
+    "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+    "published": "Tue, 10 Nov 2026 04:00:06 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
+    "title": "\u2018We Used to Be a Wealthy City\u2019: Auto Woes Slam German Towns",
+    "link": "https://www.nytimes.com/2026/11/10/business/germany-auto-industry-cities.html",
+    "published": "Tue, 10 Nov 2026 05:00:10 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
+    "title": "M. John Harrison\u2019s \u2018The End of Everything\u2019 Wins Booker Prize",
+    "link": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
+    "published": "Tue, 10 Nov 2026 00:55:42 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/10/13/books/review/m-john-harrison-end-of-everything.html",
+    "title": "Book Review: \u2018The End of Everything,\u2019 by M. John Harrison",
+    "link": "https://www.nytimes.com/2026/10/13/books/review/m-john-harrison-end-of-everything.html",
+    "published": "Mon, 09 Nov 2026 23:20:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/opinion/paulina-porizkova-nyt-175.html",
+    "title": "Paulina Porizkova: Why I Now Call Myself a Feminist",
+    "link": "https://www.nytimes.com/2026/11/09/opinion/paulina-porizkova-nyt-175.html",
+    "published": "Mon, 09 Nov 2026 19:46:55 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/opinion/trump-republicans-maga-endgame.html",
+    "title": "JD Vance Needs to Stop Trying",
+    "link": "https://www.nytimes.com/2026/11/09/opinion/trump-republicans-maga-endgame.html",
+    "published": "Mon, 09 Nov 2026 16:10:32 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/09/obituaries/gary-fisketjon-dead.html",
+    "title": "Gary Fisketjon Has Died. He Edited Ellis, Tartt, McInerney and McCarthy.",
+    "link": "https://www.nytimes.com/2026/11/09/obituaries/gary-fisketjon-dead.html",
+    "published": "Tue, 10 Nov 2026 03:36:28 +0000"
+  },
+  {
+    "id": "WP-MKTW-0005336251",
+    "title": "\u2018We had the worst fight\u2019: I want my husband to retire at 65, but I don\u2019t want to lose his $280,000 salary. Is that unreasonable?",
+    "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "published": "Tue, 10 Nov 2026 03:38:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005336598",
+    "title": "The short seller who saw signs of Nvidia\u2019s China scandal months ago claims Megaspeed isn\u2019t the only company helping China access chips",
+    "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+    "published": "Tue, 10 Nov 2026 00:48:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005338192",
+    "title": "Rocket Lab shares dip after the company\u2019s \u2018defining\u2019 quarter misses the mark",
+    "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+    "published": "Mon, 09 Nov 2026 22:49:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005338360",
+    "title": "Here\u2019s how Bernie Sanders wants to keep Social Security solvent \u2018for generations\u2019",
+    "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "published": "Mon, 09 Nov 2026 22:49:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005336407",
+    "title": "As Nvidia\u2019s stock falls, here\u2019s what Wall Street has to say about the Jensen Huang scandal",
+    "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+    "published": "Mon, 09 Nov 2026 21:55:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005337527",
+    "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn\u2019t over yet.",
+    "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+    "published": "Mon, 09 Nov 2026 21:52:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005337030",
+    "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+    "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+    "published": "Mon, 09 Nov 2026 21:43:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005337096",
+    "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+    "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+    "published": "Mon, 09 Nov 2026 21:24:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005336715",
+    "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+    "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+    "published": "Mon, 09 Nov 2026 21:21:00 GMT"
+  },
+  {
+    "id": "108546439",
+    "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+    "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+    "published": "Mon, 09 Nov 2026 22:56:39 GMT"
+  },
+  {
+    "id": "108547187",
+    "title": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
+    "link": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html",
+    "published": "Tue, 10 Nov 2026 04:46:37 GMT"
+  },
+  {
+    "id": "108546729",
+    "title": "Hegseth impeachment articles introduced by Rep. Massie",
+    "link": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
+    "published": "Mon, 09 Nov 2026 22:41:12 GMT"
+  },
+  {
+    "id": "108547188",
+    "title": "TSMC's October sales jump as global chip boom rolls on",
+    "link": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+    "published": "Tue, 10 Nov 2026 05:42:42 GMT"
+  },
+  {
+    "id": "108547156",
+    "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
+    "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+    "published": "Tue, 10 Nov 2026 03:58:46 GMT"
+  },
+  {
+    "id": "108547145",
+    "title": "China\u2019s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
+    "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+    "published": "Tue, 10 Nov 2026 05:03:55 GMT"
+  },
+  {
+    "id": "108546693",
+    "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+    "published": "Mon, 09 Nov 2026 21:03:55 GMT"
+  },
+  {
+    "id": "108546444",
+    "title": "3 unexpected reasons the October jobs report was so strong",
+    "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+    "published": "Mon, 09 Nov 2026 22:23:56 GMT"
+  },
+  {
+    "id": "108546454",
+    "title": "Trump questions midterm election results, revives voting-machine conspiracy",
+    "link": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+    "published": "Mon, 09 Nov 2026 22:40:09 GMT"
+  },
+  {
+    "id": "108546774",
+    "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+    "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+    "published": "Mon, 09 Nov 2026 23:14:38 GMT"
+  },
+  {
+    "id": "108545283",
+    "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+    "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+    "published": "Mon, 09 Nov 2026 20:29:36 GMT"
+  },
+  {
+    "id": "108546758",
+    "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+    "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+    "published": "Mon, 09 Nov 2026 23:31:17 GMT"
+  },
+  {
+    "id": "108515223",
+    "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+    "link": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+    "published": "Mon, 09 Nov 2026 23:00:02 GMT"
+  },
+  {
+    "id": "108546728",
+    "title": "Children\u2019s Place files for bankruptcy protection, seeks buyer",
+    "link": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
+    "published": "Mon, 09 Nov 2026 20:57:46 GMT"
+  },
+  {
+    "id": "108546544",
+    "title": "Nvidia\u2019s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+    "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
+    "published": "Mon, 09 Nov 2026 23:54:21 GMT"
+  },
+  {
+    "id": "108546773",
+    "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
+    "link": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
+    "published": "Mon, 09 Nov 2026 21:24:13 GMT"
+  },
+  {
+    "id": "108546805",
+    "title": "Lucid misses Wall Street\u2019s earnings expectations, expands loan from Saudi Arabia fund",
+    "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+    "published": "Mon, 09 Nov 2026 23:05:53 GMT"
+  },
+  {
+    "id": "108546617",
+    "title": "A massive trade in Nvidia just went off \u2013 here are the details",
+    "link": "https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
+    "published": "Mon, 09 Nov 2026 18:37:59 GMT"
+  },
+  {
+    "id": "108546420",
+    "title": "This beaten-down data center stock could be worth a look, says Mike Khouw",
+    "link": "https://www.cnbc.com/2026/11/09/this-beaten-down-data-center-stock-could-be-worth-a-look-says-mike-khouw.html",
+    "published": "Mon, 09 Nov 2026 19:23:57 GMT"
+  },
+  {
+    "id": "108546589",
+    "title": "Trump administration proposes stricter work-search rules for unemployment benefits",
+    "link": "https://www.cnbc.com/2026/11/09/trump-unemployment-work-search-rule.html",
+    "published": "Mon, 09 Nov 2026 19:59:55 GMT"
+  },
+  {
+    "id": "108546596",
+    "title": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
+    "link": "https://www.cnbc.com/2026/11/09/elizabeth-warren-senate-banking-agenda.html",
+    "published": "Mon, 09 Nov 2026 19:34:43 GMT"
+  },
+  {
+    "id": "108546364",
+    "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+    "link": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+    "published": "Mon, 09 Nov 2026 19:00:01 GMT"
+  },
+  {
+    "id": "108526754",
+    "title": "These states are offering extra ACA premium subsidies in 2027",
+    "link": "https://www.cnbc.com/2026/11/09/aca-state-subsidies-2027.html",
+    "published": "Mon, 09 Nov 2026 13:00:01 GMT"
+  },
+  {
+    "id": "108546618",
+    "title": "Boeing to cut 5% of commercial airplane workers as production increase takes longer than expected",
+    "link": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+    "published": "Mon, 09 Nov 2026 19:35:58 GMT"
+  },
+  {
+    "id": "108546599",
+    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+    "published": "Mon, 09 Nov 2026 18:14:47 GMT"
+  },
+  {
+    "id": "108545367",
+    "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio",
+    "link": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+    "published": "Mon, 09 Nov 2026 18:59:43 GMT"
+  },
+  {
+    "id": "108546462",
+    "title": "Why Jim Cramer believes Nvidia is still valuable despite the CEO affair controversy",
+    "link": "https://www.cnbc.com/investingclub/2026/11/09/why-jim-cramer-believes-nvidia-is-still-valuable-despite-the-ceo-affair-controversy.html",
+    "published": "Mon, 09 Nov 2026 17:09:44 GMT"
+  },
+  {
+    "id": "108546612",
+    "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+    "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+    "published": "Mon, 09 Nov 2026 18:46:01 GMT"
+  },
+  {
+    "id": "108546547",
+    "title": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas governor's race",
+    "link": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
+    "published": "Mon, 09 Nov 2026 19:41:13 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+    "title": "Alzheimer\u2019s may have early warning signs outside the brain",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+    "published": "Mon, 09 Nov 2026 20:47:34 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+    "title": "Scientists finally discover why we learn to love bitter coffee",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+    "published": "Mon, 09 Nov 2026 18:19:35 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
+    "title": "NASA reveals bold new plan to return astronauts to the Moon in 2028",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm",
+    "published": "Mon, 09 Nov 2026 04:13:28 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+    "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+    "published": "Mon, 09 Nov 2026 19:42:52 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm",
+    "title": "DNA on the Shroud of Turin reveals centuries of hidden secrets",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108202703.htm",
+    "published": "Sun, 08 Nov 2026 21:48:24 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+    "title": "Scientists discover a surprising link between acorns and lyme disease",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+    "published": "Mon, 09 Nov 2026 05:59:35 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+    "title": "A quantum breakthrough makes light behave like both a solid and a liquid",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+    "published": "Mon, 09 Nov 2026 06:19:39 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
+    "title": "A simple supplement may help clear brain fog after cancer",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
+    "published": "Mon, 09 Nov 2026 05:33:23 EST"
+  },
+  {
+    "id": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "published": "Mon, 09 Nov 2026 18:01:10 +0000"
+  },
+  {
+    "id": "https://postalpro.usps.com/zcb",
+    "title": "USPS now offers official ZIP Code boundary polygons",
+    "link": "https://postalpro.usps.com/zcb",
+    "published": "Mon, 09 Nov 2026 19:58:59 +0000"
+  },
+  {
+    "id": "https://e-means.github.io/",
+    "title": "E-means: Outperforming k-means in one-tenth the epochs",
+    "link": "https://e-means.github.io/",
+    "published": "Mon, 09 Nov 2026 18:45:43 +0000"
+  },
+  {
+    "id": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "published": "Mon, 09 Nov 2026 16:00:45 +0000"
+  },
+  {
+    "id": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "title": "Locating the source of a mysterious beep",
+    "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "published": "Tue, 10 Nov 2026 00:10:46 +0000"
+  },
+  {
+    "id": "https://maurycyz.com/projects/badcert/",
+    "title": "Horible public key tricks",
+    "link": "https://maurycyz.com/projects/badcert/",
+    "published": "Tue, 10 Nov 2026 00:07:17 +0000"
+  },
+  {
+    "id": "https://www.foldableflight.com",
+    "title": "Foldable Flight: The Best Paper Airplanes",
+    "link": "https://www.foldableflight.com",
+    "published": "Mon, 09 Nov 2026 12:19:22 +0000"
+  },
+  {
+    "id": "https://maurycyz.com/projects/fading/",
+    "title": "Your TV can see through walls",
+    "link": "https://maurycyz.com/projects/fading/",
+    "published": "Tue, 10 Nov 2026 05:24:45 +0000"
+  },
+  {
+    "id": "https://www.ultorg.com/",
+    "title": "Ultorg: The User Interface for Relational Databases",
+    "link": "https://www.ultorg.com/",
+    "published": "Tue, 10 Nov 2026 03:59:39 +0000"
+  },
+  {
+    "id": "https://github.com/expo/exact",
+    "title": "Exact \u2013 a new cross platform UI framework",
+    "link": "https://github.com/expo/exact",
+    "published": "Mon, 09 Nov 2026 22:59:13 +0000"
+  },
+  {
+    "id": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+    "published": "Tue, 10 Nov 2026 03:20:06 +0000"
+  },
+  {
+    "id": "https://broyojo.com/python-formalization/",
+    "title": "Formalizing CPython",
+    "link": "https://broyojo.com/python-formalization/",
+    "published": "Tue, 10 Nov 2026 01:56:48 +0000"
+  },
+  {
+    "id": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+    "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+    "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+    "published": "Mon, 09 Nov 2026 14:31:39 +0000"
+  },
+  {
+    "id": "https://www.infineon.com/press-release/2026/infpr202611-028",
+    "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+    "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
+    "published": "Mon, 09 Nov 2026 18:25:01 +0000"
+  },
+  {
+    "id": "https://www.nabo.dev/blogs/kernel-primer",
+    "title": "A primer on GPUs and kernel optimization",
+    "link": "https://www.nabo.dev/blogs/kernel-primer",
+    "published": "Thu, 05 Nov 2026 23:48:04 +0000"
+  },
+  {
+    "id": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "title": "Fable 5.2 one-shotted my nephew's dream game",
+    "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+    "published": "Mon, 09 Nov 2026 23:08:13 +0000"
+  },
+  {
+    "id": "https://research.meta.ai/blog/muse-ember",
+    "title": "Muse Ember: Our smallest, most efficient model",
+    "link": "https://research.meta.ai/blog/muse-ember",
+    "published": "Mon, 09 Nov 2026 17:58:46 +0000"
+  },
+  {
+    "id": "https://www.watched.earth",
+    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+    "link": "https://www.watched.earth",
+    "published": "Mon, 09 Nov 2026 17:51:31 +0000"
+  },
+  {
+    "id": "https://dixken.de/blog/never-gonna-print-you-up",
+    "title": "Never Gonna Print You Up",
+    "link": "https://dixken.de/blog/never-gonna-print-you-up",
+    "published": "Sun, 08 Nov 2026 07:15:32 +0000"
+  },
+  {
+    "id": "https://github.com/thisisme6598/gemini_files/",
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "link": "https://github.com/thisisme6598/gemini_files/",
+    "published": "Mon, 09 Nov 2026 18:24:38 +0000"
+  },
+  {
+    "id": "https://parkgraph.com/parking-app-fees",
+    "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+    "link": "https://parkgraph.com/parking-app-fees",
+    "published": "Mon, 09 Nov 2026 19:55:53 +0000"
+  },
+  {
+    "id": "https://twitter.com/shaharglazner/status/2119796029256032278",
+    "title": "On Being an Engineer in 2026",
+    "link": "https://twitter.com/shaharglazner/status/2119796029256032278",
+    "published": "Mon, 09 Nov 2026 15:07:23 +0000"
+  },
+  {
+    "id": "https://www.wsj.com/business/airlines/they-can-barely-drive-but-theyre-flying-planes-the-surprising-rise-of-teen-pilots-28446f72",
+    "title": "They Can Barely Drive, They're Flying Planes: The Surprising Rise of Teen Pilots",
+    "link": "https://www.wsj.com/business/airlines/they-can-barely-drive-but-theyre-flying-planes-the-surprising-rise-of-teen-pilots-28446f72",
+    "published": "Sat, 07 Nov 2026 16:44:04 +0000"
+  },
+  {
+    "id": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+    "title": "Time for AVIF everywhere?",
+    "link": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+    "published": "Sat, 07 Nov 2026 17:34:07 +0000"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "title": "TPU 8tx and TPU 8i Max",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+    "published": "Mon, 09 Nov 2026 21:56:57 +0000"
+  },
+  {
+    "id": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+    "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+    "published": "Mon, 09 Nov 2026 20:04:55 +0000"
+  },
+  {
+    "id": "https://meowdisplay.app/",
+    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+    "link": "https://meowdisplay.app/",
+    "published": "Mon, 09 Nov 2026 18:39:22 +0000"
+  },
+  {
+    "id": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
+    "title": "An ode to livelyness analysis; SSA to registers",
+    "link": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
+    "published": "Sat, 07 Nov 2026 15:17:31 +0000"
+  },
+  {
+    "id": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+    "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+    "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+    "published": "Mon, 09 Nov 2026 17:00:06 +0000"
+  },
+  {
+    "id": "https://someonewashere.app/",
+    "title": "Show HN: Someone Was Here \u2013 Find out who used your Mac while you were away",
+    "link": "https://someonewashere.app/",
+    "published": "Mon, 09 Nov 2026 18:50:56 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+    "title": "AI Agents Are Testing the Limits of Zero-Trust Security",
+    "link": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+    "published": "Mon, 09 Nov 2026 16:25:06 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3183699",
+    "title": "California\u2019s proposed \u2018billionaire tax\u2019 fails to pass",
+    "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+    "published": "Tue, 10 Nov 2026 05:18:43 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186594",
+    "title": "Jensen Huang\u2019s alleged honeypot scandal has inspired some top-notch memes",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+    "published": "Tue, 10 Nov 2026 04:34:15 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186715",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "published": "Tue, 10 Nov 2026 01:27:12 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186628",
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "published": "Mon, 09 Nov 2026 23:28:37 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186559",
+    "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+    "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+    "published": "Mon, 09 Nov 2026 23:03:46 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186581",
+    "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+    "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+    "published": "Mon, 09 Nov 2026 22:46:09 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186479",
+    "title": "The race is on to sue Nvidia",
+    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "published": "Mon, 09 Nov 2026 22:23:42 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186406",
+    "title": "Fervo now has $12B in orders for its geothermal power tech",
+    "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+    "published": "Mon, 09 Nov 2026 20:55:34 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186477",
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "published": "Mon, 09 Nov 2026 20:09:06 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186464",
+    "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+    "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+    "published": "Mon, 09 Nov 2026 19:39:41 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186369",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "published": "Mon, 09 Nov 2026 19:24:51 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186344",
+    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+    "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+    "published": "Mon, 09 Nov 2026 19:21:46 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186412",
+    "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+    "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+    "published": "Mon, 09 Nov 2026 19:19:24 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186336",
+    "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "published": "Mon, 09 Nov 2026 18:09:52 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186298",
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "published": "Mon, 09 Nov 2026 18:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186165",
+    "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+    "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+    "published": "Mon, 09 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186273",
+    "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "published": "Mon, 09 Nov 2026 16:56:54 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186240",
+    "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
+    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "published": "Mon, 09 Nov 2026 16:12:28 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186230",
+    "title": "Meta expands Instagram\u2019s AI age-guessing tech globally",
+    "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+    "published": "Mon, 09 Nov 2026 15:32:27 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3186228",
+    "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+    "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+    "published": "Mon, 09 Nov 2026 15:24:59 +0000"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/noah-smith-and-azeem-azhar-discuss",
+    "title": "Noah Smith and Azeem Azhar discuss the AI boom",
+    "link": "https://www.noahpinion.blog/p/noah-smith-and-azeem-azhar-discuss",
+    "published": "Mon, 09 Nov 2026 23:01:29 GMT"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
+    "title": "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
+    "link": "https://www.noahpinion.blog/p/noah-brad-delong-and-dan-wang-discuss",
+    "published": "Mon, 09 Nov 2026 07:59:29 GMT"
+  },
+  {
+    "id": "6af1d6f23a2fa34b49e7928f",
+    "title": "Daily Brief \u2014 November 9, 2026",
+    "link": "https://paulkedrosky.com/daily-brief-november-9-2026/",
+    "published": "Mon, 09 Nov 2026 14:21:59 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94170",
+    "title": "*Unbeatable: The Brutally Honest Case for Free Markets*",
+    "link": "https://feeds.feedblitz.com/~/972741935/0/marginalrevolution~Unbeatable-The-Brutally-Honest-Case-for-Free-Markets.html",
+    "published": "Tue, 10 Nov 2026 05:39:10 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94150",
+    "title": "Monday assorted links",
+    "link": "https://feeds.feedblitz.com/~/972713141/0/marginalrevolution~Monday-assorted-links.html",
+    "published": "Mon, 09 Nov 2026 17:42:35 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94166",
+    "title": "End the State Veto on Power Lines",
+    "link": "https://feeds.feedblitz.com/~/972689024/0/marginalrevolution~End-the-State-Veto-on-Power-Lines.html",
+    "published": "Mon, 09 Nov 2026 12:18:45 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94168",
+    "title": "The economics of honeypots",
+    "link": "https://feeds.feedblitz.com/~/972688682/0/marginalrevolution~The-economics-of-honeypots.html",
+    "published": "Mon, 09 Nov 2026 11:35:02 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94162",
+    "title": "Seb Krier, Ricardian?",
+    "link": "https://feeds.feedblitz.com/~/972674996/0/marginalrevolution~Seb-Krier-Ricardian.html",
+    "published": "Mon, 09 Nov 2026 07:21:09 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94164",
+    "title": "The Paraguayan bank story",
+    "link": "https://feeds.feedblitz.com/~/972669662/0/marginalrevolution~The-Paraguayan-bank-story.html",
+    "published": "Mon, 09 Nov 2026 05:27:57 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=168601",
+    "title": "Did Life Begin in an RNA World?",
+    "link": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+    "published": "Mon, 09 Nov 2026 15:20:29 +0000"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+    "title": "Common supplement could help fight psoriasis, scientists discover",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+    "published": "Mon, 09 Nov 2026 06:44:20 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
+    "title": "Caltech robot makes history by building a structure in space",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
+    "published": "Mon, 09 Nov 2026 05:01:13 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261108233037.htm",
+    "title": "Common osteoporosis drugs linked to 24% lower dementia risk in major study",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261108233037.htm",
+    "published": "Mon, 09 Nov 2026 02:36:14 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
+    "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
+    "published": "Mon, 09 Nov 2026 06:32:00 EST"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3181447",
+    "title": "Fossil fuel emissions are down in 2026. Green energy isn\u2019t the reason",
+    "link": "https://www.sciencenews.org/article/fossil-fuel-emissions-down-2026-gas",
+    "published": "Tue, 10 Nov 2026 01:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3181257",
+    "title": "Drugs like Ozempic may help reverse chronic kidney disease",
+    "link": "https://www.sciencenews.org/article/semaglutide-chronic-kidney-disease",
+    "published": "Mon, 09 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3181183",
+    "title": "A high-fiber diet may clear away plastic in the gut",
+    "link": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health",
+    "published": "Mon, 09 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+    "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+    "published": "Mon, 9 Nov 2026 21:00:00 GMT"
+  }
+]
