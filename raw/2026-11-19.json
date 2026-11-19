@@ -1,0 +1,830 @@
+[
+  {
+    "id": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+    "title": "How Nvidia Chips Ended Up Within Reach of China\u2019s Military",
+    "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+    "published": "Thu, 19 Nov 2026 04:13:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
+    "title": "How We Broke Open the Nvidia Investigation",
+    "link": "https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html",
+    "published": "Wed, 18 Nov 2026 23:52:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+    "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+    "link": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+    "published": "Thu, 19 Nov 2026 00:41:26 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
+    "title": "Takeaways From the 2026 DealBook Summit",
+    "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html",
+    "published": "Thu, 19 Nov 2026 03:12:43 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html",
+    "title": "That \u2018SNL\u2019 Sister Sketch: It\u2019s More Like Nonfiction",
+    "link": "https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html",
+    "published": "Wed, 18 Nov 2026 21:13:15 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+    "title": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+    "published": "Thu, 19 Nov 2026 05:00:15 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+    "title": "What to Know About the Myanmar Genocide Case at the World Court",
+    "link": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
+    "published": "Wed, 18 Nov 2026 10:03:51 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
+    "title": "Ericka Lomick\u2019s Texas House Win Faces Challenge in State Supreme Court",
+    "link": "https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html",
+    "published": "Thu, 19 Nov 2026 03:42:19 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
+    "title": "Alaska Republican Narrowly Defeats Independent House Candidate",
+    "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html",
+    "published": "Thu, 19 Nov 2026 03:14:27 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
+    "title": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
+    "link": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
+    "published": "Thu, 19 Nov 2026 02:54:47 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
+    "title": "Trump Weighs New Strikes on Iran as Israel Presses for Action, Officials Say",
+    "link": "https://www.nytimes.com/2026/11/18/us/politics/trump-israel-iran-war.html",
+    "published": "Wed, 18 Nov 2026 23:13:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+    "title": "How the War in Iran Will Remake the Global Energy Order",
+    "link": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
+    "published": "Thu, 19 Nov 2026 05:00:06 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html",
+    "title": "Have High Gas Prices Made You Change How You Drive? Tell Us About It.",
+    "link": "https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html",
+    "published": "Thu, 19 Nov 2026 05:00:13 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
+    "title": "Trump Grows Frustrated With Vance Over Iran War Critique",
+    "link": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
+    "published": "Thu, 19 Nov 2026 01:23:01 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/books/national-book-award-for-nonfiction-goes-to-writer-denied-visa-to-attend.html",
+    "title": "National Book Award for Nonfiction Goes to Writer Denied Visa to Attend",
+    "link": "https://www.nytimes.com/2026/11/18/books/national-book-award-for-nonfiction-goes-to-writer-denied-visa-to-attend.html",
+    "published": "Thu, 19 Nov 2026 03:45:08 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
+    "title": "G.T.A. 6 Review: This Release Will Steal Your Heart",
+    "link": "https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html",
+    "published": "Wed, 18 Nov 2026 12:27:38 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
+    "title": "\u2018GTA Flu\u2019 Has Schools and Jobs Bracing for Sick Days",
+    "link": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
+    "published": "Thu, 19 Nov 2026 03:54:30 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
+    "title": "Grand Theft Auto: An American Icon, Born in Britain",
+    "link": "https://www.nytimes.com/2026/11/18/world/europe/grand-theft-auto-america-scotland-global-reaction.html",
+    "published": "Wed, 18 Nov 2026 22:05:43 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/style/gloria-steinem-memorial-photos.html",
+    "title": "At Gloria Steinem Memorial, Michelle Obama, Hillary Clinton and More Big Names Gather",
+    "link": "https://www.nytimes.com/2026/11/18/style/gloria-steinem-memorial-photos.html",
+    "published": "Thu, 19 Nov 2026 03:31:11 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/weather/florida-flooding-rain.html",
+    "title": "Florida\u2019s El Ni\u00f1o Rains Bring Hail and High Water",
+    "link": "https://www.nytimes.com/2026/11/18/weather/florida-flooding-rain.html",
+    "published": "Wed, 18 Nov 2026 21:55:08 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/weather/sf-flooding-rain-storm.html",
+    "title": "Storm Brings Torrential Rain and Floods to the San Francisco Bay Area",
+    "link": "https://www.nytimes.com/2026/11/18/weather/sf-flooding-rain-storm.html",
+    "published": "Thu, 19 Nov 2026 02:02:37 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/19/opinion/zvyagintsev-russia-minotaur-putin.html",
+    "title": "Andrey Zvyagintsev Is the Prophet of Putinism",
+    "link": "https://www.nytimes.com/2026/11/19/opinion/zvyagintsev-russia-minotaur-putin.html",
+    "published": "Thu, 19 Nov 2026 06:00:05 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html",
+    "title": "Trump \u2018Disappeared\u2019 Them in 2025. I Found Them, Locked Up and Famished.",
+    "link": "https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html",
+    "published": "Wed, 18 Nov 2026 22:15:23 +0000"
+  },
+  {
+    "id": "https://www.nytimes.com/2026/11/18/arts/design/van-gogh-painting-auction-sothebys.html",
+    "title": "Van Gogh Soars to $190.4 Million at Sotheby\u2019s After an 11th-Hour Settlement",
+    "link": "https://www.nytimes.com/2026/11/18/arts/design/van-gogh-painting-auction-sothebys.html",
+    "published": "Thu, 19 Nov 2026 02:45:05 +0000"
+  },
+  {
+    "id": "WP-MKTW-0005354400",
+    "title": "\u2018I\u2019ve been a stay-at-home mom\u2019: I\u2019m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "published": "Thu, 19 Nov 2026 03:30:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005356816",
+    "title": "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings",
+    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+    "published": "Thu, 19 Nov 2026 01:02:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005356538",
+    "title": "What the \u2018death cross\u2019 in small-cap stocks means for the rest of the market",
+    "link": "https://www.marketwatch.com/story/what-the-death-cross-in-small-cap-stocks-means-for-the-rest-of-the-stock-market-edd8e86e?mod=mw_rss_topstories",
+    "published": "Wed, 18 Nov 2026 23:12:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005353817",
+    "title": "How copper\u2019s plunge could hurt the AI buildout",
+    "link": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+    "published": "Wed, 18 Nov 2026 23:02:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005355781",
+    "title": "The stock market is being rocked by the biggest shake-up in a generation as tech falls behind",
+    "link": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
+    "published": "Wed, 18 Nov 2026 22:53:00 GMT"
+  },
+  {
+    "id": "WP-MKTW-0005355070",
+    "title": "Nvidia\u2019s booming demand is \u2018hard to ignore,\u2019 but these four questions loom over the stock",
+    "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+    "published": "Wed, 18 Nov 2026 22:31:00 GMT"
+  },
+  {
+    "id": "108552251",
+    "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+    "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+    "published": "Thu, 19 Nov 2026 01:13:20 GMT"
+  },
+  {
+    "id": "108554822",
+    "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+    "link": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
+    "published": "Thu, 19 Nov 2026 06:07:29 GMT"
+  },
+  {
+    "id": "108553767",
+    "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+    "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+    "published": "Wed, 18 Nov 2026 19:47:05 GMT"
+  },
+  {
+    "id": "108554430",
+    "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit",
+    "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+    "published": "Wed, 18 Nov 2026 23:45:50 GMT"
+  },
+  {
+    "id": "108554542",
+    "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+    "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+    "published": "Thu, 19 Nov 2026 00:07:06 GMT"
+  },
+  {
+    "id": "108554801",
+    "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+    "link": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+    "published": "Thu, 19 Nov 2026 02:49:35 GMT"
+  },
+  {
+    "id": "108554553",
+    "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+    "link": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+    "published": "Thu, 19 Nov 2026 00:08:14 GMT"
+  },
+  {
+    "id": "108554850",
+    "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+    "link": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+    "published": "Thu, 19 Nov 2026 03:43:38 GMT"
+  },
+  {
+    "id": "108553340",
+    "title": "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe",
+    "link": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html",
+    "published": "Wed, 18 Nov 2026 09:45:01 GMT"
+  },
+  {
+    "id": "108551977",
+    "title": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+    "link": "https://www.cnbc.com/2026/11/18/fda-canarx-case-informant.html",
+    "published": "Wed, 18 Nov 2026 21:07:14 GMT"
+  },
+  {
+    "id": "108554282",
+    "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+    "published": "Wed, 18 Nov 2026 19:41:59 GMT"
+  },
+  {
+    "id": "108528283",
+    "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+    "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+    "published": "Wed, 18 Nov 2026 23:38:55 GMT"
+  },
+  {
+    "id": "108553469",
+    "title": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
+    "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
+    "published": "Wed, 18 Nov 2026 22:37:00 GMT"
+  },
+  {
+    "id": "108554353",
+    "title": "Investigators make progress in hunt for cause of FAA ground stop",
+    "link": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
+    "published": "Wed, 18 Nov 2026 18:13:25 GMT"
+  },
+  {
+    "id": "108553678",
+    "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+    "link": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+    "published": "Thu, 19 Nov 2026 00:31:00 GMT"
+  },
+  {
+    "id": "108554498",
+    "title": "Why Anthropic's hot IPO is bringing out sellers \u2014 plus, a silver lining of the down market",
+    "link": "https://www.cnbc.com/investingclub/2026/11/18/why-anthropics-hot-ipo-is-bringing-out-sellers-plus-a-down-market-silver-lining.html",
+    "published": "Wed, 18 Nov 2026 19:46:12 GMT"
+  },
+  {
+    "id": "108554125",
+    "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+    "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+    "published": "Wed, 18 Nov 2026 19:17:27 GMT"
+  },
+  {
+    "id": "108552819",
+    "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+    "link": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+    "published": "Thu, 19 Nov 2026 00:01:23 GMT"
+  },
+  {
+    "id": "108553526",
+    "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
+    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "published": "Wed, 18 Nov 2026 15:13:39 GMT"
+  },
+  {
+    "id": "108554176",
+    "title": "Is Apple the safe haven investors think it is?\u00a0Here's a way to trade it with less risk",
+    "link": "https://www.cnbc.com/2026/11/18/is-apple-the-safe-haven-investors-think-it-is-heres-a-way-to-trade-it-with-less-risk.html",
+    "published": "Wed, 18 Nov 2026 18:10:21 GMT"
+  },
+  {
+    "id": "108554190",
+    "title": "Read Jim Cramer\u2019s full interview with Nvidia\u2019s Colette Kress: Demand, buybacks and China",
+    "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-colette-kress-talks-earnings-china-transcript.html",
+    "published": "Wed, 18 Nov 2026 18:14:42 GMT"
+  },
+  {
+    "id": "108554166",
+    "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+    "link": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+    "published": "Wed, 18 Nov 2026 17:02:53 GMT"
+  },
+  {
+    "id": "108554150",
+    "title": "Two new housing reports point to bleak winter ahead, with record low sales",
+    "link": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
+    "published": "Wed, 18 Nov 2026 15:09:45 GMT"
+  },
+  {
+    "id": "108554149",
+    "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+    "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+    "published": "Wed, 18 Nov 2026 16:33:14 GMT"
+  },
+  {
+    "id": "108553680",
+    "title": "Nvidia\u2019s Kress faces a divided workforce as some employees push for Huang\u2019s return",
+    "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+    "published": "Wed, 18 Nov 2026 18:11:41 GMT"
+  },
+  {
+    "id": "108554277",
+    "title": "Jeffries wins Democratic House speaker race, on track to make history in January",
+    "link": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
+    "published": "Wed, 18 Nov 2026 18:32:39 GMT"
+  },
+  {
+    "id": "108553057",
+    "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
+    "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+    "published": "Wed, 18 Nov 2026 17:56:50 GMT"
+  },
+  {
+    "id": "108549045",
+    "title": "Hims & Hers launches new peptide treatments \u2014 while admitting there's more to learn about efficacy",
+    "link": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
+    "published": "Wed, 18 Nov 2026 14:02:52 GMT"
+  },
+  {
+    "id": "108553642",
+    "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
+    "link": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+    "published": "Wed, 18 Nov 2026 03:15:00 GMT"
+  },
+  {
+    "id": "108553886",
+    "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
+    "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+    "published": "Wed, 18 Nov 2026 21:06:49 GMT"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm",
+    "title": "Bizarre deep-sea fish with a see-through head captured in stunning 4K",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261117033917.htm",
+    "published": "Tue, 17 Nov 2026 23:30:31 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
+    "title": "More than a billion years of Earth's history vanished. Scientists may finally know why",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261116023403.htm",
+    "published": "Wed, 18 Nov 2026 03:27:56 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+    "title": "New discovery reveals what may be holding back room-temperature superconductors",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+    "published": "Wed, 18 Nov 2026 07:16:46 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm",
+    "title": "Autistic brains look surprisingly similar on average. Then scientists looked closer.",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm",
+    "published": "Tue, 17 Nov 2026 20:10:14 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261115085537.htm",
+    "title": "125,000 years ago, hippos roamed what is now the vast Arabian Desert",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261115085537.htm",
+    "published": "Tue, 17 Nov 2026 20:52:47 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
+    "title": "A little-known protein could be a powerful weapon against Alzheimer\u2019s",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
+    "published": "Wed, 18 Nov 2026 06:53:30 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+    "title": "MIT discovers that aging weakens the brain\u2019s nighttime cleaning system",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+    "published": "Wed, 18 Nov 2026 07:06:44 EST"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "title": "Gemini 4 Neon",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "published": "Wed, 18 Nov 2026 21:34:07 +0000"
+  },
+  {
+    "id": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "title": "Unauthenticated remote code execution in Nginx",
+    "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "published": "Wed, 18 Nov 2026 15:19:55 +0000"
+  },
+  {
+    "id": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+    "title": "Multiple vulnerabilities in Regexp and String case conversion",
+    "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+    "published": "Wed, 18 Nov 2026 23:52:50 +0000"
+  },
+  {
+    "id": "https://ut2004.dev/",
+    "title": "Unreal Tournament 2004 in the Browser",
+    "link": "https://ut2004.dev/",
+    "published": "Thu, 19 Nov 2026 01:29:29 +0000"
+  },
+  {
+    "id": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+    "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+    "link": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+    "published": "Mon, 16 Nov 2026 14:59:54 +0000"
+  },
+  {
+    "id": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "title": "Seven new models at scalable price-performance",
+    "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "published": "Wed, 18 Nov 2026 16:08:24 +0000"
+  },
+  {
+    "id": "https://www.inside-db.com/",
+    "title": "Inside Deutsche Bank",
+    "link": "https://www.inside-db.com/",
+    "published": "Wed, 18 Nov 2026 15:38:33 +0000"
+  },
+  {
+    "id": "https://www.cameraindex.co.uk/",
+    "title": "Camera Index",
+    "link": "https://www.cameraindex.co.uk/",
+    "published": "Tue, 17 Nov 2026 11:35:33 +0000"
+  },
+  {
+    "id": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "title": "LLM assisted reverse engineering",
+    "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "published": "Wed, 18 Nov 2026 22:29:13 +0000"
+  },
+  {
+    "id": "https://www.radixark.com/blog/daisyrose-27b",
+    "title": "DaisyRose-27B",
+    "link": "https://www.radixark.com/blog/daisyrose-27b",
+    "published": "Wed, 18 Nov 2026 19:39:16 +0000"
+  },
+  {
+    "id": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+    "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+    "link": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+    "published": "Mon, 16 Nov 2026 23:47:26 +0000"
+  },
+  {
+    "id": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
+    "title": "Mosquitoes are Ladakh's latest tourists",
+    "link": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
+    "published": "Wed, 18 Nov 2026 06:08:25 +0000"
+  },
+  {
+    "id": "https://arxiv.org/abs/2607.29378",
+    "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+    "link": "https://arxiv.org/abs/2607.29378",
+    "published": "Thu, 19 Nov 2026 01:27:02 +0000"
+  },
+  {
+    "id": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+    "title": "The Cambridge Dictionary has named \u2018human\u2019 as the Word of the Year 2026",
+    "link": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+    "published": "Wed, 18 Nov 2026 14:43:52 +0000"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "title": "Genie 4 is now available",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "published": "Wed, 18 Nov 2026 18:49:51 +0000"
+  },
+  {
+    "id": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+    "published": "Thu, 19 Nov 2026 00:29:45 +0000"
+  },
+  {
+    "id": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+    "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+    "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+    "published": "Wed, 18 Nov 2026 23:49:13 +0000"
+  },
+  {
+    "id": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+    "title": "We need smart people who give a shit",
+    "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+    "published": "Wed, 18 Nov 2026 23:53:49 +0000"
+  },
+  {
+    "id": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "title": "Advancing chip design with OpenAI models",
+    "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "published": "Wed, 18 Nov 2026 17:45:47 +0000"
+  },
+  {
+    "id": "https://exitpath-ruddy.vercel.app/",
+    "title": "Show HN: ExitPath \u2013 Open-source ways out of Slack, Notion and Microsoft 365",
+    "link": "https://exitpath-ruddy.vercel.app/",
+    "published": "Wed, 18 Nov 2026 16:04:43 +0000"
+  },
+  {
+    "id": "https://github.com/aryamandarda/tamserve",
+    "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+    "link": "https://github.com/aryamandarda/tamserve",
+    "published": "Mon, 16 Nov 2026 21:14:39 +0000"
+  },
+  {
+    "id": "https://rshekhar.com/voyager/",
+    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+    "link": "https://rshekhar.com/voyager/",
+    "published": "Wed, 18 Nov 2026 16:18:51 +0000"
+  },
+  {
+    "id": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+    "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+    "link": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+    "published": "Sun, 15 Nov 2026 20:30:42 +0000"
+  },
+  {
+    "id": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "title": "AI agents ask better questions than KPMG accountants in audit trial",
+    "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "published": "Wed, 18 Nov 2026 15:49:34 +0000"
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50549188",
+    "title": "Launch HN: Maritime (YC F26) \u2013 A managed cloud for production AI agents",
+    "link": "https://news.ycombinator.com/item?id=50549188",
+    "published": "Wed, 18 Nov 2026 17:26:28 +0000"
+  },
+  {
+    "id": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+    "title": "The x86 CPU: From 4004 to 486",
+    "link": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+    "published": "Wed, 18 Nov 2026 14:47:53 +0000"
+  },
+  {
+    "id": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+    "title": "DNS resolvers are the wrong place to fight piracy",
+    "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+    "published": "Wed, 18 Nov 2026 13:18:02 +0000"
+  },
+  {
+    "id": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+    "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "published": "Mon, 16 Nov 2026 22:19:31 +0000"
+  },
+  {
+    "id": "https://github.com/Ri4dH/failtrace",
+    "title": "FailTrace \u2013 Reproduce a failed GitHub Actions run locally from its URL",
+    "link": "https://github.com/Ri4dH/failtrace",
+    "published": "Thu, 19 Nov 2026 01:30:43 +0000"
+  },
+  {
+    "id": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+    "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+    "link": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+    "published": "Wed, 18 Nov 2026 16:06:21 +0000"
+  },
+  {
+    "id": "https://spectrum.ieee.org/personal-branding-for-engineers",
+    "title": "Build a Personal Brand to Help Employers Find You",
+    "link": "https://spectrum.ieee.org/personal-branding-for-engineers",
+    "published": "Wed, 18 Nov 2026 17:33:26 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190274",
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "published": "Thu, 19 Nov 2026 00:42:56 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189988",
+    "title": "Elon Musk says: \u2018I\u2019m not MAGA\u2019",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+    "published": "Thu, 19 Nov 2026 00:40:49 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190239",
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
+    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "published": "Wed, 18 Nov 2026 23:45:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190290",
+    "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "published": "Wed, 18 Nov 2026 23:25:17 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190266",
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang\u2019s exit",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "published": "Wed, 18 Nov 2026 23:17:28 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190264",
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "published": "Wed, 18 Nov 2026 22:58:11 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190228",
+    "title": "Anthropic prices IPO at $83 a share, above projected range",
+    "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+    "published": "Wed, 18 Nov 2026 22:11:15 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190097",
+    "title": "Palmer Luckey doesn\u2019t deny that he\u2019s a prepper",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+    "published": "Wed, 18 Nov 2026 22:04:03 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190087",
+    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+    "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+    "published": "Wed, 18 Nov 2026 21:57:40 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190121",
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+    "published": "Wed, 18 Nov 2026 21:34:13 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190132",
+    "title": "Palmer Luckey thinks China is \u2018thrilled to have Jensen out,\u2019 so he wants the ousted Nvidia CEO reinstated",
+    "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+    "published": "Wed, 18 Nov 2026 21:31:21 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190063",
+    "title": "Sam Altman says his life is so weird that he\u2019s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+    "published": "Wed, 18 Nov 2026 20:07:01 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189677",
+    "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+    "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+    "published": "Wed, 18 Nov 2026 19:56:39 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190074",
+    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+    "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+    "published": "Wed, 18 Nov 2026 19:29:41 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3190009",
+    "title": "Google\u2019s AI feature in Search gets its own incognito mode",
+    "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "published": "Wed, 18 Nov 2026 18:04:05 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189975",
+    "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
+    "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+    "published": "Wed, 18 Nov 2026 17:32:10 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189984",
+    "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+    "link": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
+    "published": "Wed, 18 Nov 2026 17:30:56 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189965",
+    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+    "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+    "published": "Wed, 18 Nov 2026 16:59:00 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3189966",
+    "title": "OpenAI CEO Sam Altman says it\u2019s \u2018hard to imagine the AI industry without Jensen\u2019",
+    "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+    "published": "Wed, 18 Nov 2026 16:14:09 +0000"
+  },
+  {
+    "id": "https://techcrunch.com/?p=3187342",
+    "title": "Sony\u2019s updated turntable is an easy entry into the world of vinyl",
+    "link": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
+    "published": "Wed, 18 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "id": "https://www.noahpinion.blog/p/roundup-91-rocketing-into-the-technofuture",
+    "title": "Roundup #91: Rocketing into the technofuture",
+    "link": "https://www.noahpinion.blog/p/roundup-91-rocketing-into-the-technofuture",
+    "published": "Wed, 18 Nov 2026 09:50:29 GMT"
+  },
+  {
+    "id": "6afe1c35d1afeaac34a1ab72",
+    "title": "Graph of the Day: Protein powder vs. the metals powering the AI boom",
+    "link": "https://paulkedrosky.com/graph-of-the-day-protein-powder-vs-the-metals-powering-the-ai-boom/",
+    "published": "Wed, 18 Nov 2026 21:57:33 GMT"
+  },
+  {
+    "id": "6afdedd2d1afeaac34a1856f",
+    "title": "Anthropic and the IPO Oversubscription Myth",
+    "link": "https://paulkedrosky.com/anthropic-and-the-ipo-oversubscription-myth/",
+    "published": "Wed, 18 Nov 2026 18:49:25 GMT"
+  },
+  {
+    "id": "6afdb83ad1afeaac34a18348",
+    "title": "Daily Brief \u2014 November 18, 2026",
+    "link": "https://paulkedrosky.com/daily-brief-november-18-2026/",
+    "published": "Wed, 18 Nov 2026 14:38:02 GMT"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94239",
+    "title": "UK productivity update",
+    "link": "https://feeds.feedblitz.com/~/973319531/0/marginalrevolution~UK-productivity-update.html",
+    "published": "Wed, 18 Nov 2026 18:53:56 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94236",
+    "title": "The economics of investment expensing",
+    "link": "https://feeds.feedblitz.com/~/973317680/0/marginalrevolution~The-economics-of-investment-expensing.html",
+    "published": "Wed, 18 Nov 2026 18:17:04 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94226",
+    "title": "Wednesday assorted links",
+    "link": "https://feeds.feedblitz.com/~/973307498/0/marginalrevolution~Wednesday-assorted-links.html",
+    "published": "Wed, 18 Nov 2026 16:41:46 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94193",
+    "title": "Was Achilles Conscious?",
+    "link": "https://feeds.feedblitz.com/~/973280465/0/marginalrevolution~Was-Achilles-Conscious.html",
+    "published": "Wed, 18 Nov 2026 12:18:00 +0000"
+  },
+  {
+    "id": "https://marginalrevolution.com/?p=94232",
+    "title": "Me on the cyberattacks",
+    "link": "https://feeds.feedblitz.com/~/973252283/0/marginalrevolution~Me-on-the-cyberattacks.html",
+    "published": "Wed, 18 Nov 2026 06:10:57 +0000"
+  },
+  {
+    "id": "https://www.quantamagazine.org/?p=168911",
+    "title": "How M.C. Escher\u2019s Art Creates Bizarre Mathematical Worlds",
+    "link": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+    "published": "Wed, 18 Nov 2026 15:51:40 +0000"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+    "title": "A rare disease reveals a hidden flaw in the immune system",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+    "published": "Wed, 18 Nov 2026 07:33:09 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261117033920.htm",
+    "title": "NASA pushes Mars helicopter blades beyond the speed of sound",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261117033920.htm",
+    "published": "Tue, 17 Nov 2026 22:16:19 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm",
+    "title": "Scientists create a remarkable new rechargeable battery using vitamin B12",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261117033909.htm",
+    "published": "Wed, 18 Nov 2026 07:26:20 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261117033907.htm",
+    "title": "Why obesity affects men and women differently may be hiding in their fat",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261117033907.htm",
+    "published": "Tue, 17 Nov 2026 18:04:12 EST"
+  },
+  {
+    "id": "https://www.sciencedaily.com/releases/2026/11/261116023354.htm",
+    "title": "Tiny magnets deep inside the brain could transform Parkinson\u2019s treatment",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261116023354.htm",
+    "published": "Tue, 17 Nov 2026 22:49:24 EST"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3181976",
+    "title": "Voyager 1 reaches a historic milestone: one light-day from Earth",
+    "link": "https://www.sciencenews.org/article/voyager-1-light-day-earth-distance",
+    "published": "Thu, 19 Nov 2026 00:50:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3181903",
+    "title": "Two stars in the Andromeda galaxy merged before astronomers\u2019 eyes",
+    "link": "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao",
+    "published": "Wed, 18 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "id": "https://www.sciencenews.org/?p=3181580",
+    "title": "Cracks in public health grew in 2026",
+    "link": "https://www.sciencenews.org/article/public-health-2026-outbreaks-measles",
+    "published": "Wed, 18 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+    "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+    "published": "Wed, 18 Nov 2026 19:00:00 GMT"
+  },
+  {
+    "id": "https://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
+    "title": "Outdoor Recreation Economic Statistics, U.S. and States, 2025",
+    "link": "https://www.bea.gov/news/2026/outdoor-recreation-economic-statistics-us-and-states-2025",
+    "published": "Wed, 18 Nov 2026 10:00:00 EST"
+  }
+]
